@@ -1,0 +1,23 @@
+Dupe   : 
+Dupe   : DJ2QV,DE02,
+Dupe   : DM7W,DE02,
+Dupe   : F6IRA,FR10,
+Dupe   : HA4A,HU05
+Dupe   : HA4A,HU05,
+Dupe   : HG5C,HU04,
+Dupe   : LZ7J,BG06,
+Dupe   : OE3NHW,AT03,
+Dupe   : PA0A,NL05,
+Dupe   : PA0AA,NL11,
+Dupe   : PA0M,NL07,
+Dupe   : PA2A,NL10
+Dupe   : PA2F,NL12,
+Dupe   : PA2JWN,NL11,
+Dupe   : PA3DZM,NL07,
+Dupe   : PA3EYC,NL04,
+Dupe   : PA4O,NL05,
+Dupe   : PA5KT,NL12,
+Dupe   : SD1A,SE08
+Dupe   : YQ6A,RO07,
+Dupe   : YR2X,RO05,
+Dupe   : YU5R,28,

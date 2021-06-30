@@ -1,0 +1,10 @@
+dos2unix: converting file SPDXcwssb_KP.txt to Unix format...
+Bad data: # Created by Chris SP5KP, SN5N - 2021 Apr 2 
+Bad data: # Current contest: SPDXcw/ssb 2021 Apr 3/4
+Bad data: # Rules: https://spdxcontest.pzk.org.pl/2021/
+Bad data: !!Order!!,Call, Sect
+Bad data: # SPDX
+Bad data: SO5ØWD,R
+Bad data: UY2ZZ,DEL
+SPDX_db.txt created
+unix2dos: converting file SPDX_db.txt to DOS format...

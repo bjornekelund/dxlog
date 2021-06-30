@@ -1,0 +1,76 @@
+| '''CW_MESSAGE_1'''
+|
+|
+|-
+| '''CW_MESSAGE_2'''
+|
+|
+|-
+| '''CW_MESSAGE_3'''
+|
+|
+|-
+| '''CW_MESSAGE_4'''
+|
+|
+|-
+| '''CW_MESSAGE_5'''
+|
+|
+|-
+| '''CW_MESSAGE_6'''
+|
+|
+|-
+| '''CW_MESSAGE_7'''
+|
+|
+|-
+| '''CW_MESSAGE_INS'''
+|
+|
+|-
+| '''CW_MESSAGE_PLUS'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_1'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_2'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_3'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_4'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_5'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_6'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_7'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_INS'''
+|
+|
+|-
+| '''SP_CW_MESSAGE_PLUS'''
+|
+|
+|-
+| '''CW_MESSAGE_EXCHANGE_FILTER'''
+|
+|
+|-

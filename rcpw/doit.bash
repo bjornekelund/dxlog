@@ -1,0 +1,26 @@
+#!/bin/bash
+cp raw.txt tmp.txt
+dos2unix tmp.txt
+gawk '
+BEGIN {
+  FS=";";
+  last = 0;
+}
+{
+  if ($1 ~ /^[0-9]+$/ && $2 != "") {
+    member[$1] = $2;
+	if ($1 > last) last = $1;
+#    printf("Last updated: %d\n", last) > "/dev/stderr";
+  }
+  else
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
+}
+END {
+  printf("# RCPW members database\n");
+  printf("# File created by SM7IUN on %s\n", strftime("%Y-%m-%d"));
+  printf("# Contains members up to #%d\n", last);
+  for (i = 1; i <= last; i++)
+    if (member[i] != "")
+      printf("%s=PW%d\n", member[i], i);
+}' < tmp.txt > RCPW_db.txt
+unix2dos RCPW_db.txt

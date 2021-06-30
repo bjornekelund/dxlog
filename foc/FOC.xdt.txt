@@ -1,0 +1,528 @@
+#TITLE FOC members
+4X4DK Ami #1836 Rehovot Israel
+4X4NJ Riki #1476  (also K7NJ)
+4Z4KX Mark #1782 Rishon Le-Zion Israel
+5B4AGN Bob #1670 Cyprus
+5Z4VJ Andy #1564 Nairobi Kenya
+6Y5WJ Josh #1925 St.Elizabeth Jamaica
+9J2BO Brian #1322 Lusaka Zambia
+9V1VV John #2016 Singapore
+A45XR Chris #1475 Oman
+AA3B Bud #1921 Boyertown PA
+AC2K Alan #1851 Redmond WA
+AC4CA John #2036 Fredericksburg TX
+AC5K Wes #1662 Lumberton TX (Comm. Member)
+AD5A Mike #2096 Boerne TX
+AD5XI Iain #2024 Elkridge MD
+AD8CW Doug #1576 Fairlawn OH
+AE1T Peter #2093 Plymouth NH
+AI2Q Alex #1861 Kennebunk ME
+AK4Z John #1898 Knoxville TN
+AK5X Bill #2029 Dallas TX
+CE2SV Dale #2103 Renaca Beach Chile
+CT1BQH Carlos #2158 Entroncamento Portugal
+CT7AGZ Ken #2129 Carvoeiro Portugal
+DF2IC Greg #1624 Rimbach Germany
+DF4BV Heinz #1904 Buelkau Germany
+DF4XX Kurt #2100 Barsbuettel Germany
+DJ1YFK Fabian #1796 Munich Germanny
+DJ2BW Herman #1329 Osburg Germany
+DJ4KW Gerd #1833 Lueneburg Germany
+DJ5IL Karl #1980 Pforzheim Germany
+DJ5ZN Klaus #1145 Tubingen Germany
+DJ6SI Baldur #1708 Bergheim Germany
+DJ6ZM Tof #1946 Germering-Munich Germany
+DK1WI Ed #2124 Katzwinkel Germany 
+DK1WU Hans #1808 Overath Germany
+DK2GZ Harry #1879 Karlsbad Germany
+DK4LX Holger #1567 Hosenfeld Germany
+DK5AD Knut #1853 Kassel Germany
+DK7LX Georg #2044 Kirch-Goens/Butzbach Germany
+DK8EI Klaus #1344 Solingen Germany
+DK8IT Gerry #1701 Birkenau Germany
+DK9PY Armin #2126 Waldalgesheim Germany 
+DL1BUG Red #1799 Fuerstenwalde Germany
+DL1CW Arno #2070 Bietigheim Germany
+DL1VDL Hardy #1943 Dresden Germany
+DL2CC Frank #2116 Dornstadt-Scharenstetten Germany
+DL3AZ Andy #1981 Elkenroth Germany
+DL4CF Joe #1582 Unstrut Germany
+DL5YL Tina #2026 Strausberg Germany
+DL5YM Fred #2028 Strausberg Germany
+DL6KVA Axel #2098 Rostock Germany
+DL6LBI Ingo #2020 Ellerhoop Germany
+DL8LBK Ken #1763 Kaltenkirchen Germany
+DL6RAI Ben #2163 Kuehbach Germany
+DL8PG Gerd #1986 Ziegenhain Germany
+DU7ET Bob #2097 Valencia Philippines
+EA2AJB Andres #2153 Alcañiz Teruel Spain
+EA4BB Fernando #2054 Madrid
+EA8CN Andy #1656 Tenerife Canary Islands
+EI5DI Paul #1905 Dublin Irland
+EI5DS Ned #1940 Dublin Ireland
+EI6FR Declan #1770 Dublin Ireland
+EI7BA John #1989 Whitegate Co. Ireland
+EW8O Mik #2045 Rechitsa Belarus
+F3OA Mike #1174 Hyeres France
+F5NZY Steph #1737 Paris France
+F5VCT Bo #1516 Challex France
+F5VHY Den #744 Levignac de Guyenne France
+F6HKA Bert #2017 Isle France
+FG8NY Jean #2072 Lamenetin Guadeloupe
+G0BQV Mary #1677 Surbiton England
+G0CHV Mike #1901 Lancashire England
+G0EFO Mike #2068 Guildford England
+G0FJT Jon #1607 Somerset England
+G0GKH Dave #1939 Wiltshire England
+G0IBN Andy #2048 Maldon England
+G0ORH Ken #1684 Thatcham West Berkshire England 
+G0PNM Pete #2095 Cornwall England
+G0VQW Sandy #1931 Swindon Wiltshire England
+G2JL Mort #1223 Hampshire England
+G2NF Tony #1777 Woodley Reading England
+G3AB Andy #1564 Ripon England
+G3BJ Don #2006 Church Stretton England
+G3HEJ Derek #1698 Camberley England
+G3IZD Ivan #1673 Cumbria England
+G3JUL Geoff #623 Ashford England
+G3KOJ Ray #1930 Hampshire England
+G3LDI Roger #2037 Swardeston England
+G3LHJ Derrick #841 Devon England
+G3LIK Mick #1192 Waterlooville England
+G3LKZ Owen #671 no info
+G3MBN Brian #1781 Corsham England
+G3MCK Gerald #1639 Oakham England
+G3NCN John #1996 Berks England
+G3NKC David #1991 Crewe England
+G3NKS Derek #1573 Cheltenham England
+G3OAY Neil #741 Warwick England
+G3OLB Tom #1816 Devon England
+G3PDH Mal #1794 Norwich England
+G3PJT Bob #1778 Cambridge England
+G3PQD Derek #1834 Kent England
+G3ROO Ian #1918 Kent England
+G3RTE Jim #1225 Potters Bar England
+G3RVM Ian #1407 Berkshire England
+G3RWF Nick #1902 Committee Secretary
+G3RWL Richard #1188 Enfield England
+G3RXP Dave #1538 Caistor Lincs England
+G3SED Mike #1678 Southampton England
+G3SWH Phil #1513 Bristol England
+G3SXW Roger #847 Committee Member
+G3SYM Dave #1414 Launceston England
+G3TBK Dave #1936 Grantham England
+G3VMK Dale #1332 Nottingham England
+G3VMW Steve #1317 Wetherby England
+G3VTT Colin #1342 Kent England
+G3WGV John #1600 Cumbria England
+G3WPF Reg #988 Wilmslow England
+G3WPH Mike #2019 Berkshire England
+G3XAQ Alan #1500 Canterbury England
+G3XTT Don #1805 Henley on Thames England
+G3YIQ Bob #1893 Bradford on Avon England
+G3YJQ Fred #2066 Plymoutn Devon England
+G3YLA JIM #2128 
+G3YXX David #1685 Hythe England
+G3ZGC Richard #1752 Newbury England
+G3ZRJ Tony #2132 Devon England
+G3ZYV Dave #1589 Kent England
+G4AFU Paul #1546 Bedale England
+G4BSW Nigel #2140 
+G4BUE Chris #1308 West Sussex England
+G4BUO Dave #1486 Hextable Kent England
+G4BWP Fred #1746 Oxford England
+G4BYG Vic #1984 East Riding of Yorkshire England
+G4DJX Alan #1441 Herts England
+G4FAD Rich #1997 Hereford England
+G4FNL Graham #1631 Brighton England
+G4FON Ray #1874 Internet Services - Oxford England
+G4HMC David #1934 Princes Risborough England
+G4HZV Bob #1568 Guildford England
+G4IIY Ian #2015 Cumbria England
+G4ILW James #2112 Gateshead England 
+G4IRN John #2000 Thames Ditton England
+G4LFU Tony #2091 Penrith England
+G4RCG John #1899 Wakefield England
+G4RMV Mike #1649 Pershore England
+G4SIE Rik #1503 Northumberland England
+G4SPY Arnold #1587 Birmingham England
+G4WQI Dean #2107 Witham England
+G4XRV Rupert #1650 Chesham England
+G5LP Lionel #1757 Wellingborough England
+G7VJR Michael #1992 no info England
+G8DX Jack #2067 Wiltshire England
+G8VG Pete #331 Liphook England
+GI3PDN Ray #1839 Ballyclare Northern Ireland
+GM0GAV Gav #1998 Perth Scotland
+GM3JKS Frank #1542 Castle Douglas Scotland
+GM3POI Clive #831 Deerness Orkney Scotland
+GM3WUX Terry #1189 Glasgow Scotland
+GM3YOR Drew #1926 Inverkip Scotland
+GM3YTS Rob #1430 Committee Chairman
+GM4EVS David #2060 Nr Perth Scotland
+GM4SID Sid #1471 Blackburn Aderdeen Scotland
+GU4CHY Dick #1855 Channel Island Gueernsey
+GU4YOX Bob #2014 Castel England
+GW3KGV Ken #1309 Welshpool Powys Wales
+GW3YDX Ron #1611 Four Crosses Wales
+GW4OKT Keith #2137 
+HA9RT Joska #2033 Fonyod Hungary
+HB9BFQ Bo #1516 
+HB9QO Bruno #1408 Buttwil Switzerland
+I7ALE Sandro #1305 Macchia Italy
+IK0IXI Fabio #1999 Civitavecchia Italy
+IK0YGJ Carlo #1937 Rome Italy
+IK0YVV Marco #2086 Terni Italy
+IK5VLL Andy #2156 Pitigliano Italy
+IS0AFM Simone #1969 Cagliari Italy (Sardinia)
+JA1GZV Motoaki #2052 Tokyo Japan
+JA1NUT Shin #1529 Mohka Tochigi Japan
+JA5DQH Aki #1541 Tokushima Japan
+K0PFX Mel #1916 Bridgeton MO
+K0VBU Bill #1979 Overland Park KS
+K0VXU Russ #2047 Stilwell KS
+K0XX John #2061 Chesterfield MO
+K1AJ Bruce #1635 Haverhill MA
+K1AR John #1528 Windham NH
+K1BG Bruce #2083 Harvard MA
+K1DG Doug #1801 Windham NH
+K1DW Dallas #2089 Folson LA
+K1ESE John #2079 Waterford ME
+K1GUP Jerry #1593 Carmel ME
+K1JD John #1612 Santa Fe NM
+K1NVY Fred #2157 Renton WA
+K1SA Bernie #1889 Portland ME
+K1ZZ Dave #1053 Coventry CT
+K2KRG Steve #2142 Canandaigua NY
+K2LE Andy #1461 Manhasset NY
+K2MGR Kurt #1340 Bainbridge NY
+K2NV Tony #2007 Grand Island NY
+K2QMF Ted #1867 Baiting Hollow NY
+K2RSK Peter #2011 East Amherst NY
+K2SG Tony #1494 Little Egg Harbor NJ
+K2SX Dennis #1599 Pawleys Island SC
+K2TT Bill #675 Bedford Hills NY
+K2UFT Dick #1721 Dunwoody GA
+K2UR George #1807 Fredericksburg IN
+K2UV Warren #1915 Suffern NY
+K2YWE Dan #2076 Annapolis MD
+K2ZR Dick #1694 North Tonawanda NY
+K3LR Tim #2139 West Middlesex PA
+K3LU Ulis #2133 Odenton MD  
+K3MD John #2092 Winfield PA
+K3NA Eric #1842 Charlestown MA
+k3PA Drew #2159 Tonganoxie KS
+K3TF Tom #2030 Norristown PA
+K3TW Tom #1177 Lecanto FL
+K3WW Chas #2117 Perkasie PA
+K3ZO Fred #928 Temple Hills MD
+K4BAI John #1121 Columbus GA
+K4EWG Pete #1263 Stockbridge GA
+K4JJW Dick #1967 New Bern NC
+K4LQ Fred #1434 Lake Placid FL
+K4OSO Milt #1927 Rockville VA
+K4QS Chuck #2125 King George VA 
+K4UEE Bob #1759 Marietta GA
+K4WJ John #1749 Trenton FL
+K4XU Dick #1268 Bend OR
+K5ALU Red #1797 Springfield MO (RV)
+K5AX Tom #1697 Dickinson TX
+K5DU Susan #2152 Manor TX
+K5EX Ben #1907 Vicksburg MS
+K5FOC Art #1761 (KZ5D) New Iberia LA
+K5FP Fred #1990 Marble Falls TX
+K5KG George #2122 Sarasota FL 
+K5KV Benny #2043 Star TX
+K5LN Bill #2088 Round Rock TX
+K5LY Lee #2062 New Hope TX
+K5NA Richard #1539 Manor TX
+K5OT Larry #2059 Georgetown TX
+K5RC Tom #1760 V C Highlands NV
+K5TF Dick #2003 Atlanta GA
+K5VR Stan #2077 Tontitown AR
+K5VWW Orville #2082 Houston TX
+K5WK Ken #2105 Hattiesburg MS
+K5XK Ron #1641 Bella Vista AR
+K6AR Jim #1942 Leucadia CA
+K6KII Cliff #1888 Fort Collins CO
+K6NA Glen #1235 Valley Center CA
+K6RB Rob #1821 Santa Cruz CA
+K6WG Stan #1621 San Lorenzo CA
+K6XG Dave #1868 Arcata CA
+K6ZB Bruce #1885 Georgetown TX
+K7HP Hank #2063 Phoenix AZ
+K7JA Chip #2123 Garden Grove CA 
+K7NJ Riki #1476 Cedar City UT (also 4X4NJ)
+K7SV Lar #1866 Spotsylvania VA
+K7UOT Tom #1601 Delta UT
+K8JP Joe #1743 Gilmer TX
+K8JPM Bob #2109 Cleveland OH 
+K8MFO Don #1186 Apple Creek OH
+K8RD Ed #1876 Camarillo CA
+K8ZH Rick #1549 Palo Alto CA
+K9DX John #1681 Inverness IL
+K9FN Dave #2001 West Lafayette IN
+K9QVB John #1507 Wilmette IL
+K9UIY Vic #1627 Freeport IL
+K9WA Jim #1306 Colona IL
+KC0VKN Joe #2075 Oxford IA
+KC4YDP Jerry #1723 Rockledge FL
+KC7V Mike #1634 Cave Creek AZ
+KF2AT Percy #1686 New YHork NY
+KF3B Alan #1776 Alburtis PA
+KF7E Jim #1726 Queen Creek AZ
+KH6LC Lloyd #1985 Keaau HI
+KJ9I Dave #1920 Sullivan WI
+KM4FOC Dennis #1599 SC FOC Pawleys Island SC
+KN0V Gary #1496 Apple VAlley MN
+KO8SCA Adrian #2143 Bayside NY
+KP4P Tele #1594 Ponce PR
+KR3E Ed #1878 Ocean City MD  Comm. Member
+KT4E Amy #2111 Knoxville TN 
+KT5X Fred #1636 Santa Fe NM
+KU8E Jeff #1870 Ellerslie GA
+KY7M Lee #1741 Phoenix AZ
+KZ5D Art #1761 New Iberia LA
+LA3FL Per #1480 Alta Norway
+LA4XX Hal #1973 Heimdal Norway
+LA5HE Rag #494 Lunde I Telemark Norway
+LA7GIA Ken #2161 Hagan Norway
+LB2TB Lars #2120 Tranby Norway 
+LB6GG Hans #2149 Sandnes Norway
+LU5OM Manuel #1877 Salta Argentina
+LU6EF Raul #1762 Wilde Ba Argentian
+LY2PX Willy #1773 Vilnius Lithuania
+LY5A Jonas #2104 Siauliai Lithuania
+LZ1MS Rumen #1826 Sofia Bulgaria
+LZ2RS Rumen #1945 Gabrovo Bulgaria
+M0CVR Dan #1988 Devon England
+M0DXR Mark #2136 Harlow Essex England (G9W)
+M0IHT Harry #1956 Exeter England
+M0PCB Iain #2024 Gloucestershire England  Comm. Member
+M0RYB Peter #2147 Kenninghall, Norwich, England
+MD0CCE Bob #1914 Isle of Man 
+MU0FAL Colin #1892 Vale Guernsey
+N0AV Jim #1909 Goldfield IA
+N1TO Ed #2164 Sebastian FL
+N2ATB Tony #1951 Cherry Hill NJ
+N2KW Allen #2115 New York NY 
+N2NA Ric #1894 Smithfield ME
+N2NL David #2050 Honolulu HI
+N2NT Andy #1706 Dayton NJ
+N2UU Bob #1483 Voorhees NJ
+N3AM John #1809 Silver Spring MD
+N3BB Jim #1688 Austin TX
+N3JT Jim #1067 Mclean VA (FL winter)
+N3KS Kam #1928 Sparks MD
+N3RD Dave #1149 Phoenixville PA
+N3RS Sig #888 Glenmoore PA
+N3WT John #1906 Jefferson MD
+N4AF Howie #1712 Blounts Creek NC
+N4AR Bill #1164 Nicholasville KY
+N4FP Wayne #2150 Ocala FL
+N4TY Tyler #1699 Membership Sec.
+N4UB Don #1490 Blakely GA
+N4WJ Frank #1183 Lexington KY
+N5AN Bud #1819 Lafayette LA
+N5AW Marv #1941 Burnet TX
+N5CW Curt #1948 Petal MS
+N5KD Pete #1864 Dallas TX
+N5RR Bill #2027 Hollister MO
+N5RZ Ralph #2138 Fredericksburg TX
+N5TP Pete #1234 Crowley TX
+N5XZ Allen #1953 Richmond TX
+N6NT Bruce #1669 Saratoga CA
+N6RA Tom #1444 Santa Barbara CA
+N6TT Steven #2004 Manhattan Beach CA
+N6XI Rick #1765 Truckee CA
+N8AA John #2160 Fairfield OH
+N8DE Don #1938 Edmore MI
+N8NA Karl #1954 Wilmington DE
+N9RD Jurgen #1625 Westville IN
+N9RV Pat #1830 Bonner MT
+N9SW Gene #698 Wayne IL
+NA5G Ed #1970 Broussard LA
+NA6M Mark #2046 Georgetown TX
+NM5M Eric #2121 Plano TX 
+NN6T Glen #2049 Kingman AZ
+NO5W Chuck #1944 New Orleans LA
+NW6V Chris #2148 Tigard OR
+OE5TXF Nigel #1266 Schleissheim Austria 
+OH2EA Hans #937 Helsinki Finland
+OH2KI Jorma #1557 Harviala Finland
+OK1AVG Jan #1964 Czeck Republic
+OK1CF Karel #1729 Most Czech Republic
+OK1CZ Petr #1547 Praha Czech Republic
+OK1KT Vrata #1655 Hradec Kralove Czech Republic
+OK1RP Petr #1745 Kostice Czech Republic
+OK1RR Martin #1437 Praha 2 Czech Republic
+OK1TN Slavek #1835 Liban Czech Republic
+OK2LA Jindra #2080 Havirov Czech Republic
+OK2CQR Petr #1935
+OK2PAY Lada #2167 Ostrov Nad Oslavou Czech Republic
+OM2VL Laci #2162  Dunajská Streda  Slovak Republic
+ON4IZ Henry #2069 Drongen Belgium
+ON7PQ Patrick #2144 
+OQ3R Mar #1493 Ciney B Belgium
+OX3XR Peter #1376 Nuuk Greenland
+OY1CT Caen #1668 Kvivik Faroe Islands
+OZ1JHM Jalmar #2073 Lundby Denmark
+OZ1LO Leif #1205 Lundby Denmark
+OZ2A Kim #2099 Hoejby Sjaelland Denmark
+OZ4UN Paul #1554 Fredensborg Denmark
+OZ5DX Hans #1211 Nykobing F Denmark
+OZ7YL Svata #1049 Aakirkeby Denmark
+OZ8SW Steen #2018 Broenshoej Denmark
+PA0BW Hein #676 Boxtel Netherlands
+PA0DIN Din #1446 Nijmegen Netherlands
+PA0INA Frans #1366 Goes Netherlands
+PA0JLS Hans #1982 Leiderdorp Netherlands
+PA0VDV Joeke #1101 Oldeberkoop Netherlands
+PA3CVV Miles #1900 Amsterdam Netherlands
+PA4N Frank #2034 Almere Netherlands
+PA5TT Teun #1506 Burgh Haamstede Netherlands EU-146
+PA5V Bob #1865 Boskopop Netherlands
+PA5XM Kees #1537  Waddinxveen Netherlands
+PA7RA Rien #1962 Bergen op Zoom Netherlands
+PR7PO Alex #1294 Paraiba Brazil
+R7KZ Stan #1621 Simferopol Crimea Russia
+RM2D Mats #2114 Naro-Fominsk MO Russia 
+RX6CB Eduard #2051 Novorossiysk city Russia
+S50A Tine #1122 Turjak Slovenia
+S53R Robert #1790 Spodnja Idrija Slovenia
+S57NW Jelka #1733 Ravne na Koroskem Slovenia
+S57WJ Gabor #1897 Ravne na Koroskem Slovenia
+SM1TDE Eric #2021 Visby Sweden
+SM2CEW Peter #2145 Lulea Sweden
+SM2EKM Jim #2084 Boden Sweden
+SM3EVR Tord #1402 Njurunda Sweden
+SM5CCE Kjell #477 Tystberga Sweden
+SM5COP Rune #1514 Akers Styckebruk Sweden
+SM5GLC Lasse #1418 Linkoping Sweden 
+SM6BGA Hans #1484 Mullsjoe Sweden
+SM6CPY Carl #1571 Ljung Sweden
+SM6CUK Lars #935 Dalsjorors Sweden
+SM6DHU Matt #1610 Kinna Sweden
+SM7YIN Ingvar #1860 Skillinge Sweden
+SP4R Andy #1987 Juchnowiec Poland
+SV1AOW Geo #1704 Rodopolis Greece
+SV1RUX David #2113 Anoixi Greece 
+SV2BBK Theofanis #2166 Thessaloniki Greece
+TF3DC Oskar #2009 Reykjavik Is. Island
+UA9BA Willy #2110 Karataban Russia 
+UR5MM Rudy #2081 Partizanskaya Ukraine
+V31JP Joe #1743 Stann Creedk Dist. Belize
+VE3DZ Yuri #1740 Etobicoke ON
+VE3DZZ Pat #1659 Smiths Falls ON
+VE3EJ John #1947 Grassie ON
+VE3GFN Mike #2154 Scarborough ON
+VE3HX Alan #1751 Ottawa ON
+VE3KI Rich #2055 Richmond ON
+VE3LYC Cezar #1994 Bath ON
+VE3USP Pista #2010 Cambridge ON
+VE3VA Jeff #1753 Richmond Hill ON
+VE6BF Bill #953 Beaumont AB
+VE7AHA Andy #1963 Delta BC
+VE7CC Lee #1544 Maple Ridge BC
+VE7SV Dale #2103 Chilliwack BC
+VE9CB Dave #2141 Lincoln NB
+VK2AYD Dave #832 Wauchope Australia
+VK2BJ Barry #1628 Stives Australia
+VK2IA Bernd #1922 Uki NSW Australia
+VK3DBD David #1884 Yackandandah Australia
+VK3XU Drew #1768 Wonga Park Australia
+VK4CT John #1748 no info
+VK4TT Keith #1857 Wynnum-North Australia
+VK6GX Phil #2040 Gidgegannup Australia
+VK6LW Kevin #1492 Glen Forrest Australia
+VK6VZ Steve #1693 Glen Forrest Australia
+VQ9JC Jim #1872 Panama City Beach FL USA
+VU2PTT Prasad #1972 Bangalore India
+VY2ZM Jeff #1841 Souris PE
+W0CCA Cap #2119 Dolores CO 
+W0CP Walt #2131 Englewood CO
+W0JX Den #2032 Milan OH
+W0SA Peter #1896 Pochester MN
+W0UA Geo #1903 Longmont CO
+W0VTT Mike #1739 St Charles MN
+W0VX Dave #2035 Garland TX
+W0ZR Tom #1460 Minnetonka MN
+W1AAX Harry #1890 Scituate MA
+W1AO Joe #1882 Manchester ME
+W1DV Dave #1785 Phelps NY
+W1EBI George #1886 Acton MA
+W1EBM Gary #1966 Brookline NH
+W1FJ Al #1532 Topsfield MA
+W1HT Ralph #774 Boca Raton FL
+W1JR Joe #1806 Amherst NH
+W1MO Norm #1767 New Smyrna Beach FL
+W1RAN Ned #779 Waterford CT
+W1RM Pete #1159 Burlington CT
+W1UU Peter #806 Falmouth MA
+W1YL Ellen #875 Seffner FL
+W1ZT Geo #1873 Beverly MA
+W2FOC Allen #1586 NSC New York NY
+W2GD John #2130 Flemington NJ
+W2MV Alan #2031 Bodds Ferry NY
+W2TB Mike #1883 West Seneca NY
+W2VT Rich #1971 Warwick NY
+W3EEK Carl #2094 Tamaqua PA
+W3FSA John #2165 Scarborough ME
+W3IL Bill #1616 Englewood FL
+W3LPL Frank #1150 Glenwood MD
+W3YY Bob #1923 Clifton VA
+W4CI Dave #2057 Fern Park FL
+W4CK Mark #1515 Fayetteville TN
+W4EDE Lee #2023 Miami Beach FL
+W4FOA Tony #2151 Chickamauga GA
+W4FOC Del #1665 Orlando FL
+W4HG Wayne #2108 Salisbury NC
+W4MQC Alan #1734 Bokeelia FL
+W4PM Puck #1687 Mechanicsville VA
+W4TJE Jack #2118 Fancy Gap VA 
+W4VQ Bob #1299 Geneva FL
+W4WJ Don #2102 Frederiksburg TX
+W4YE Bud #1217 Wirtz VA
+W4ZYT Don #1700 Virginia Beach VA
+W5PEH Pete #2022 Kingwood TX
+W5SG Bill #1863 Spring TX
+W5SJ Bill #2155 Fort Smith AR
+W5ZO Mike #2127 Amarillo TX 
+W5ZR Bert #1722 Stmartinville LA
+W6CYX Bob #1613 San Jose CA
+W6OAT Rusty #2065 Indianola WA
+W6RGG Bob #1563 Castro Valley CA
+W7AQK Dave #2078 Tucson AZ
+W7GKF Bill #1957 Snohomish WA
+W7QC Steve #1849 Sammamish WA
+W7RF Dan #2135 Fort Collins CO
+W8AV Goose #1657 Wooster OH
+W8FJ John #1786 Plymouth Meeting PA
+W8KJP Del #1665 Orlando FL
+W8KR Jack #2134 Edina MN
+W8ZR Jim #2056 Santa Fe NM
+W9KNI Bob #1262 Grants Pass OR
+W9RGB Vic #1840 West Lafayette IN
+W9VNE Jim #1104 Cincinnati OH
+W9YXX Bob #2039 South Bend IN
+WA1FCN Bob #2025 Cordova AL
+WA9AQN John #1887 Petersburg IL
+WB2YQH Bob #1606 Spring Brook NY
+WB0SND Mike #2146 De Soto, MO
+WB4FSF Bonnie #1929 Sanford FL
+WB6BEE Don #2041 Pagosa Springs CA
+WF1OC Pete #1159 (W1RM) Connecticut FOC
+WK2G Merrill #1788 North Wales PA
+WL7E Joe #1695 Soldotna AK
+WP3C Al #1965 Utuado PR
+WR5U Mike #1871 New Iberia LA
+YO3FLR Cristi #1810 Bucharest Romania
+YO3FRI Tina #1958 Bucuresti Romania
+ZB2CW Derek #1617 Gibraltar
+ZL1MH Mike #1608 Ahipara Northland New Zealand
+ZL2AGY Tony #1645 Taranaki New Zeland
+ZL2AZ Peter #1717 Wellington New Zealand
+ZL2IFB Gary #1912 Hastings New Zealand
+ZL3CW Jacky #2106 Waihi Beach 3642 New Zeland
+ZS1EL Vidi #658 Somerseet Mall South Africa
+ZS1C Raoul #2012 Kraaifontein South Africa
