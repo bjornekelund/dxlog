@@ -1,0 +1,13 @@
+Alberta,AB
+British Columbia,BC
+Greater Toronto Area,GTA
+Maritime,MAR
+Manitoba,MB
+Newfoundland and Labrador,NL
+Northern Territories,NT
+Ontario East,ONE
+Ontario North,ONN
+Ontario South,ONS
+Prince Edward Island,PE
+Quebec,QC
+Saskatchewan,SK

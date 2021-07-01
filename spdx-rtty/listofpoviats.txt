@@ -1,0 +1,380 @@
+AB Wałbrzych (ziemski)
+AC Sochaczew
+AG Starogard Gdański
+AK Aleksandrów Kujawski
+AL Kalisz (grodzki)
+AN Sandomierz
+AP Krapkowice
+AQ Łask
+AS Sokółka
+AU Augustów
+AW Braniewo
+BA Białystok (ziemski)
+BB Bielsko Biała (ziemski)
+BC Brodnica
+BE Bolesławiec
+BF Białobrzegi
+BG Białogard
+BH Bielsko Biała (grodzki)
+BI Biłgoraj
+BJ Bełchatów
+BL Bielsk Podlaski
+BM Bydgoszcz (grodzki)
+BN Będzin
+BO Bochnia
+BP Biała Podlaska (ziemski)
+BQ Brzeg
+BR Brzozów
+BS Białystok (grodzki)
+BT Bartoszyce
+BU Busko Zdrój
+BW Brzeziny
+BY Bydgoszcz (ziemski)
+BZ Brzesko
+CE Police
+CH Chełm (ziemski)
+CI Ciechanów
+CJ Chojnice
+CL Chełmno
+CM Chełm (grodzki)
+CN Chrzanów
+CO Chodzież
+CR Czarnków (Czarnkowsko - Trzcianecki)
+CS Choszczno
+CT Częstochowa (grodzki)
+CU Człuchów
+CW Chorzów
+CY Cieszyn
+CZ Częstochowa (ziemski)
+DA Działdowo
+DD Poddębice
+DE Dębica
+DG Dąbrowa Górnicza
+DL Siedlce (ziemski)
+DP Drawsko Pomorskie
+DT Dąbrowa Tarnowska
+DY Gdynia
+DZ Dzierżoniów
+EA Elbląg (grodzki)
+EB Lębork
+EC Łęczyca
+ED Siedlce (grodzki)
+EG Legnica (grodzki)
+EK Ełk
+EL Elbląg (ziemski)
+EM Siemianowice Śląskie
+EN Zwoleń
+ER Sierpc
+ET Świętochłowice
+EY Kędzierzyn-Koźle
+EZ Kętrzyn
+GA Grajewo
+GB Gostyń
+GC Gliwice (ziemski)
+GD Gdańsk
+GE Gliwice (grodzki)
+GF Gryfice
+GG Głogów
+GH Gołdap
+GI Garwolin
+GJ Grójec
+GK Giżycko
+GL Goleniów
+GM Grudziądz (grodzki)
+GN Gryfino
+GO Gorlice
+GP Gorzów Wielkopolski (grodzki)
+GQ Grodzisk Wielkopolski
+GR Grudziądz (ziemski)
+GS Grodzisk Mazowiecki
+GT Gostynin
+GU Golub-Dobrzyń
+GV Zgierz
+GW Gorzów Wielkopolski (ziemski)
+GX Góra
+GY Głubczyce
+GZ Gniezno
+HA Hajnówka
+HR Hrubieszów
+IA Sieradz
+IC Kielce (grodzki)
+ID Świdnica
+IK Piekary Śląskie
+IL Iława
+IM Biała Podlaska (grodzki)
+IN Inowrocław
+IR Skierniewice (grodzki)
+IT Piotrków Trybunalski (grodzki)
+IW Skierniewice (ziemski)
+IY Kwidzyn
+IZ Łowicz
+JA Jarosław
+JC Jarocin
+JE Jędrzejów
+JG Jelenia Góra (ziemski)
+JL Janów Lubelski
+JM Jelenia Góra (grodzki)
+JR Jawor
+JS Jasło
+JW Jaworzno
+JZ Jastrzębie Zdrój
+KA Kalisz (ziemski)
+KB Katowice
+KC Koszalin (grodzki)
+KD Krosno Odrzańskie
+KE Kozienice
+KF Kępno
+KG Kołobrzeg
+KH Koło
+KI Kielce (ziemski)
+KJ Konin (grodzki)
+KK Kraśnik
+KL Kolno
+KM Kraków (grodzki)
+KN Krosno (grodzki)
+KO Kolbuszowa
+KP Kamień Pomorski
+KQ Kamienna Góra
+KR Kraków (ziemski)
+KS Krosno (ziemski)
+KT Krotoszyn
+KU Kutno
+KV Kłodzko
+KW Kazimierza Wielka
+KX Kłobuck
+KY Krasnystaw
+KZ Koszalin (ziemski)
+LA Sławno
+LB Lublin (ziemski)
+LC Łęczna
+LD Łódź
+LE Leszno (grodzki)
+LF Lwówek Śląski
+LG Legnica (ziemski)
+LH Lubań
+LI Limanowa
+LJ Lidzbark Warmiński
+LK Lesko
+LL Łobez
+LM Łomża (grodzki)
+LN Łańcut
+LO Łomża (ziemski)
+LP Lipno
+LQ Lipsko
+LS Leszno (ziemski)
+LT Lubartów
+LU Lublin (grodzki)
+LV Lubaczów
+LW Łuków
+LX Lubliniec
+LY Łódź Wschodnia (ziemski)
+LZ Leżajsk
+MA Mława
+MB Malbork
+MC Mielec
+ME Miechów
+MF Mysłowice
+MH Międzychód
+MI Międzyrzecz
+ML Milicz
+MM Maków Mazowiecki
+MN Mońki
+MO Mogilno
+MQ Myślenice
+MR Mrągowo
+MS Myszków
+MW Mikołów
+MY Myślibórz
+MZ Mińsk Mazowiecki
+NA Nakło nad Notecią
+NC Nidzica
+ND Nowy Dwór Mazowiecki
+NF Nysa
+NG Żagań
+NI Sosnowiec
+NL Nowa Sól
+NM Nowy Sącz (grodzki)
+NN Konin (ziemski)
+NO Nisko
+NQ Nowe Miasto Lubawskie
+NR Nowy Dwór Gdański
+NS Nowy Sącz (ziemski)
+NT Nowy Targ
+NV Nowy Tomyśl
+NW Legionowo
+NY Namysłów
+OA Oława
+OB Opole Lubelskie
+OC Łosice
+OD Ostrów Wielkopolski
+OE Oleśnica
+OF Ostrzeszów
+OG Ostrołęka (grodzki)
+OH Opoczno
+OI Oborniki
+OJ Opole (grodzki)
+OK Końskie
+OL Olsztyn (ziemski)
+OM Ostrów Mazowiecka
+ON Kościan
+OO Otwock
+OP Opole (ziemski)
+OQ Ostróda
+OR Ostrołęka (ziemski)
+OS Ostrowiec Świętokrzyski
+OT Opatów
+OU Olsztyn (grodzki)
+OV Sopot
+OW Oświęcim
+OX Olecko
+OY Olesno
+OZ Olkusz
+PA Piaseczno
+PB Pabianice
+PC Parczew
+PD Płock (grodzki)
+PE Przeworsk
+PF Przasnysz
+PG Przysucha
+PH Piła
+PI Pińczów
+PJ Prudnik
+PK Puck
+PL Płock (ziemski)
+PM Przemyśl (grodzki)
+PN Płońsk
+PO Poznań (ziemski)
+PP Polkowice
+PQ Pisz
+PR Przemyśl (ziemski)
+PS Proszowice
+PT Piotrków Trybunalski (ziemski)
+PU Puławy
+PV Pajęczno
+PW Pleszew
+PX Poznań (grodzki)
+PY Pszczyna
+PZ Pruszków
+RA Radom (ziemski)
+RB Rybnik (ziemski)
+RC Racibórz
+RD Radom (grodzki)
+RE Radomsko
+RJ Radziejów
+RK Ryki
+RM Rzeszów (grodzki)
+RN Rybnik (grodzki)
+RO Ropczyce
+RP Radzyń Podlaski
+RS Ruda Śląska
+RU Kartuzy
+RW Rawicz
+RX Rawa Mazowiecka
+RY Rypin
+RZ Rzeszów (ziemski)
+SA Sanok
+SB Sucha Beskidzka
+SC Słubice
+SD Świdnik
+SE Sejny
+SF Świnoujście
+SG Stargard Szczeciński
+SH Starachowice
+SI Środa Wielkopolska
+SJ Sępólno Krajeńskie
+SK Strzelce Krajeńskie
+SL Słupsk (ziemski)
+SM Siemiatycze
+SN Sulęcin
+SO Świebodzin
+SP Słupca
+SQ Skarżysko Kamienna
+SR Śrem
+SS Środa Śląska
+ST Stalowa Wola
+SU Suwałki (ziemski)
+SV Strzelin
+SW Świecie
+SX Szamotuły
+SY Strzyżów 
+SZ Szczecinek
+TA Tarnów (ziemski)
+TB Tarnobrzeg (ziemski)
+TC Tczew
+TE Strzelce Opolskie
+TG Tarnowskie Góry
+TH Bieruń-Lędziny
+TK Turek
+TL Tomaszów Lubelski
+TM Toruń (grodzki)
+TN Tarnobrzeg (grodzki)
+TO Toruń (ziemski)
+TR Trzebnica
+TS Staszów
+TU Tuchola
+TW Tarnów (grodzki)
+TY Tychy (grodzki)
+TZ Tomaszów Mazowiecki
+UC Kluczbork
+UD Ustrzyki Dolne
+UG Pruszcz Gdański
+UK Słupsk (grodzki)
+UL Zduńska Wola
+UM Sztum
+UN Lubin
+UP Sokołów Podlaski
+US Wieruszów
+UT Pułtusk
+UW Suwałki (grodzki)
+WA Wadowice
+WB Wałbrzych (grodzki)
+WC Wałcz
+WD Włodawa
+WE Węgrów
+WF Września
+WG Węgorzewo
+WH Wągrowiec
+WI Wieliczka
+WJ Wejherowo
+WK Włocławek (grodzki)
+WL Włocławek (ziemski)
+WM Warszawa
+WN Świdwin
+WO Wąbrzeźno
+WP Wschowa
+WQ Wołów
+WR Wrocław (ziemski)
+WS Włoszczowa
+WT Wolsztyn
+WU Wieluń
+WV Wodzisław Śląski
+WW Wrocław (grodzki)
+WX Wołomin
+WY Wysokie Mazowieckie
+WZ Warszawa Zachód
+YA Kościerzyna
+YD Szydłowiec
+YN Szczytno
+YR Pyrzyce
+YS Wyszków
+YT Bytom
+YW Bytów
+ZA Zamość (ziemski)
+ZB Zambrów
+ZC Żywiec
+ZE Szczecin
+ZF Złotów
+ZG Zielona Góra (ziemski)
+ZL Zielona Góra (grodzki)
+ZM Zamość (grodzki)
+ZN Żnin
+ZO Zgorzelec
+ZP Zakopane
+ZQ Żyrardów
+ZR Żory
+ZS Ząbkowice Śląskie
+ZT Złotoryja
+ZV Żuromin
+ZW Zawiercie
+ZX Zabrze
+ZY Żary

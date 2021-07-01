@@ -1,0 +1,13 @@
+
+Group->JA0: NI,NN
+Group->JA1: GM,IB,KN,CB,ST,TG,TK,YN
+Group->JA2: AC,ME,SO,GF
+Group->JA3: HG,KT,NR,OS,SI,WK
+Group->JA4: HS,OY,SN,TT,YG
+Group->JA5: KA,KC,EH,TS
+Group->JA6: KG,KM,MZ,NS,ON,OT,SG,FO
+Group->JA7: IT,AM,MG,AT,YM,FS
+Group->JA8: HD,HY,IR,IS,KK,KR,NM,OH,OM,RM,SB,SC,SY,TC
+Group->JA9: IK,TY,FI
+Group->JD1M: MT
+Group->JD1O: OG
