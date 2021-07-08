@@ -49,12 +49,12 @@ BEGIN {
 }
 END {
   printf("#0 VHF/UHF 6-position grid data base\n");
-  printf("#1 Credits to VE2FK, HB9THU, ES7GM.\n");
-  printf("#2 Created by SM7IUN on %s.\n", strftime("%Y-%m-%d"));
+  printf("#1 Credits to VE2FK, HB9THU, and ES7GM\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in callist)
     printf("%s=%s\n", callist[c], gridlist[c]);
-}'  | sort | sed 's/^\#. /\# /g' > vhf_uhf_r1-6_db.txt
-echo "vhf_uhf_r1-6_db.txt created"
-unix2dos vhf_uhf_r1-6_db.txt
+}'  | sort | sed 's/^\#. /\# /g' > vhf_uhf_r1_db.txt
+echo "vhf_uhf_r1_db.txt created"
+unix2dos vhf_uhf_r1_db.txt
 exit
 

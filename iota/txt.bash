@@ -24,8 +24,8 @@ BEGIN {
 END { 
   printf("#0 IOTA data base\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
-  printf("#2 File updated %s.\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | more > IOTA_db.txt
+  printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
+}' < $1 | sort | sed 's/#. /# /g' | more > IOTA_db.txt
 echo "IOTA_db.txt created"
 unix2dos IOTA_db.txt
 exit

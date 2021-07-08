@@ -1,17 +1,18 @@
 
 !!Order!!,Call,Name,Sect,UserText
 # IOTA
-# Info from 2019 results fixed stations plus all IOTA announced.
-# Info from NG3K RSGB Iota Contest Announced operations 2020
+# Info from 2020 results fixed stations plus all IOTA announced.
+# Info from NG3K RSGB Iota Contest Announced operations 2021
 # Info from OPDX Bulletin
-# Last Edit,2020-07-24
-# Will be updated until contest
+# Last Edit,2021-07-05
+# File will be updated until contest
 # RSGB IOTA contest, 
 # Thanks to NA3M/Nick and VE3KI/Rich for the original file
-# Thanks to SM7IUN, VE7JH for new info.
+# Thanks to       for new info.
 # This file will be updated until day before contest
 # Send info, correction direct to ve2fk@arrl.net
 #
+
 2E0,,EU005,Great Britain,
 2U0GSY,LIONEL,EU114,Guernsey,
 2U0SQL,,EU114,Guernsey
@@ -32,14 +33,13 @@
 4S,,AS003,
 4S7JL,,AS003,Sri Lanka
 4W,,OC148,
+4X100AI,,AS100,Achziv by team
 5B,,AS004,Cyprus
-5B/RN3QQ,,AS004,Cyprus Isl
 5B4AIF,,AS004,Cyprus
 5B4KH,,AS004,Cyprus
 5C9A,,AF118,Los Farallones QRV Jul 25-30
 5H1NE,,AF032,Zanzibar
 5K2M,,SA082,El Morro Grande HK2SM+Team
-5P2I/P,,EU172,Aro OZ2I DXP LP
 5P4MG,,EU171,Denmark
 5P5CW,,EU172,Aro 
 5P5X,,EU088,Laesoe M1 HP CW-SSB 
@@ -68,9 +68,6 @@
 8P,,NA021,
 8Q,,AS013,
 8S0W,MAGNUS,EU084,Muskoe
-9A/OM2ZZ,,EU170,Vir  CW LP 24H
-9A/OM5AW,,EU136,Losinj  DXP LP CW-SSB
-9A/S55G,,EU170,Lz CW SSB LP
 9A0AA,,EU016,Vis Croatia
 9A0D,,EU170,Zirje
 9A0FF,,EU170,
@@ -80,13 +77,11 @@
 9A2L,,EU016,Susac 
 9A2VN,,EU136,
 9A2ZRS,,EU090,Palagreuza Vela Island
-9A3ST/P,,EU170
 9A3VIS,,EU016,Vis
 9A4A,,EU170,Croatia
 9A4KJ,,EU136,Rab CW SSB LP 12H
 9A4W,TOM,EU016,Brac
 9A5BDD,IVAN,EU170,Pag
-9A5M/P,,EU016,
 9A5YY,,EU136,Losinj
 9A6V,,EU170,Vrgada
 9A7B,,EU016,Brac
@@ -102,7 +97,6 @@
 9H3RJ,,EU023,Gozo
 9H5G,,EU023,Malta
 9H6YB,,EU023,Malta 
-9M2/IK2PFL,,AS073,Perhentian Kecil DXP
 9M2SM,,AS058,Langkawi
 9M4DXX,,AS015,Pinang
 9M4TI,,AS073,Redang
@@ -122,13 +116,14 @@
 9Y4D,,SA011,Trinidad
 A3,,OC049,
 A43MI,,AS014,Masirah Island
+A44M,,AS014,Masirah
 A9,,AS002,
 A91HI,,AS202,Hawar by Bahrain Amateur Radio Group
 A92AA,,AS002,Bahrain
 A92GR,,AS002,
 A92IO,,AS002,Bahrain
+A44M,,AS014,Masirah
 AA4V,Steve,NA110,Isle of Palms South Carolina USA
-AA5JF/4,,NA058,Jekyl mix mode.
 AG2J,STEVE,NA111,Seven Mile Island
 AH6OY,,OC019,Oahu
 AI1TT,,NA031,Aquidneck by W1WBB Rhode Island
@@ -229,7 +224,6 @@ CT3DL,,AF014,Madeira
 CT3FQ,,AF014,Madeira
 CT3KN,,AF014,Madeira
 CT7ACG,COLIN,EU145,Culatra
-CT9/DL5CW,,AF014,Madeira
 CT9ABV,,AF014,Madeira DL5AXX 12 H Mix
 CU,,EU003,
 CU2AA,,EU003,Azores
@@ -239,34 +233,28 @@ CU3EJ,LEO,EU175,Terceira  Azores
 CU3W,,EU175,
 CU4DX,,EU175,Graciosa Island Azores
 CU5AQ,,EU175,Sao Jorge
-CU8/NU6F,,EU089,
 CY0,,NA063,Ile de sable NS (Canada)
 CY9,,NA094,Ile St-Paul (Canada)
 D4,,AF005,
 D6,,AF007,
 D93I,,AS080,
 DA0T,,EU127,Neuwerk
-DB1BAC/P,,EU047,Wangerooge
-DF5A,,EU057,Ruegen
+DA2W,,EU057,Rugen
+DD2CW,,EU057,Rugen CW-SSB
+DF5A,,EU057,Ruegen CW-SSB
 DF6QC,PETER,EU127,Helgoland
 DG1CMZ,,EU057,
-DG1EHM/P,,EU047,
-DG5LAC/P,Mike,EU042,Hooge DXP HP SSB
-DJ6OI/P,,EU127,Neuwerk 12 hours CW
+DG5LAC/P,,EU042,Hooge  SSB HP 12H
 DL100BKW,,EU129,
 DK1A,,EU129,Usedom Multi-two
 DK3R,,EU057,Ruegen M1
 DK7YY,,EU057,
 DK8OL,STEFAN,EU042,Sylt
-DL/OO4O,,EU057,Ruegen LP 24H
-DL0KWH/P,,EU129,Usedom M/2 HP
-DL1DAW/P,,EU042,
 DL1KZA,ANDREAS,EU057,Ruegen
 DL2DHS,,EU057,Ruegen
 DL2VFR,RIC,EU029,Enoe Island
 DL3KZA,,EU057,Ruegen
 DL5KUD,JO,EU057,Ruegen CW LP 12H
-DL5KVV/P,,EU129,Usedom LP
 DL7AU,,EU129,Usedom
 DL8LEN,,EU129,Usedom
 DL9CW,,EU057,
@@ -295,7 +283,6 @@ E51AND,,OC013,Rarotonga
 EA1IQC,,EU080,Spain
 EA5EL,,EU093,Tabarca Island
 EA6,,EU004,
-EA6//EA3HSO,,U004,
 EA6AZ,,EU004,Menorca
 EA6CA,,EU004,Balearic Islands
 EA6XQ,,EU004,Balearic Islands
@@ -336,6 +323,7 @@ EJ0GI,,EU006,
 EJ0SR,,EU121,
 EJ1C,,EU121,Clear Ireland,
 EJ1DD,,EU121,
+EJ1E,,EU121,Bere by EI5KF CW 24 hrs
 EJ1Y,,EU103,Little Saltee  Ireland 
 EJ3HB,,EU121,Bere
 EJ3Z,,EU121,Bofin Ireland M2 HP
@@ -344,7 +332,6 @@ EJ4II,,EU103,
 EJ5KF,GERARD,EU121,Bere Ireland,
 EJ6KP,,EU121,Aranmore DXP M2 HP
 EJ8KO,,EU121,Arranmore M2,
-ES0DJ/P,,EU034,Koinastu DXP CW LP
 ES0GP,,EU178,Manilaid,
 ES0IA,,EU034,Kassaar 
 ES0QD,,EU034,
@@ -355,13 +342,10 @@ ES2DJ,Toivio,EU178,Ruhnu Island
 ES2Q,,EU149,
 ES3V,,EU034,Vormsi Island M1
 ES4GP,,EU149,
-ES8/YL2TD,,EU178,Sorgu
 ES8DJ,,EU178,Ruhunu (Estonia)
 ES8UD,,EU178,
-F/OO4O,Noel,EU032,Oleron CW-SSB LP 24H
-F4GYM/P,,EU064,
-F6KBK/P,,EU064,Noirmutier CW SSB and B4/after
-F6KMK/P,,EU064,Noirmutier (F4GYM)
+F/ON1BN/P,,EU039,Chausey
+F/ON6EF/P,,EU039,Chausey
 F9IE,,EU064,Noirmoutier,
 FG,,NA102,
 FG1JD,,NA102,Grande-Terre,
@@ -412,7 +396,7 @@ G3VMY,,EU005,
 G3YBO,,EU005,
 G3YJQ,,EU005,
 G3YNN,,EU005,
-G4ALE/P,,EU120,Isle of Wight DXP M1 LP
+G4ALE/P,,EU120,Isle of Wight
 G4DBW,,EU005,
 G4PVM,Paul,EU005,Jekyl
 G4R,,EU005,Great Britain,
@@ -431,7 +415,6 @@ G8X,TIM,EU005,Great Britain (G4FJK),
 GB4CGS,,EU123,Bute Island,
 GB9IOW,,EU120,Isle of Wight,
 GD,,EU116,Isle of Man,
-GD/ON6QR,,EU116,Isle of Man
 GD4RFZ,,EU116,Isle of Man,
 GD6IA,,EU116,Ilse of Man,
 GG4VMX,,EU005,Great Britain,
@@ -465,6 +448,7 @@ GM4KGK,NORMAN,EU010,Isle of Lewis,
 GM4NFI,,EU008,Fladda,
 GM4SLV,,EU012,Mainland,
 GM5A,,EU005,
+GM5DX,,EU092,Horse
 GM5O,,EU009,Orkney Main,
 GM5TO,,EU123,Isle of Arran,
 GM7A,,EU008,Isle of Gigha,
@@ -515,9 +499,6 @@ HQ9R,,NA057,
 HS1CKC,,AS107,
 HS8HEX,HAW,AS053,Phuket Island,
 I3BQC,,EU131,Fisolo,
-IA5/IU2NKC,,EU028,Isola Del Giglio
-IA5/OM2FY,,EU028,Elba 12H CW LP
-IA5/OM2ZZ,,EU028,Elba 12H CW LP
 IA5K,,EU028,
 IA5Z,,EU028,Capraia,
 IA9YWC,,AF018,Pan Telleria,
@@ -538,15 +519,12 @@ IG9,,AF018,
 IG9Y,,AF019,Lampedusa Italy,
 IH9YMC,,AF018,Pantelleria,
 II3Y,TEAM,EU130,Barbana LP DXP
-IL3/DF8DX,,EU131,Lido CW 12H 40-15m LP/vert.
 IL7MP,,EU050,San Domino 12H SSB 
 II7P,,EU091,Brindisi Mixed LP 24H
 IJ7T,,EU073,San Pietro,
 IJ7V,,EU073,San Pietro (IK7IMO) SSB
 IK8MRA,,EU144,Cirella,
 IL3V,,EU131,Madonna del Monte,
-IM0/I0PNM,,EU165,San Pietro LB SSB  24H
-IM0/IU4HRJ,,EU041,Maddalena DSP
 IM0C,,EU165,San Pietro,
 IM0K,,EU165,
 IM0P,,EU165,
@@ -555,23 +533,16 @@ IO9Z,,EU025,Sicily M1 LP,
 IP1T,,EU083,Tino,M1 HP
 IQ3AZ,,EU130,
 IQ3JT,,EU130,
-IQ3ME/P,ARI,EU131,Pellestrina DXP M1
 IQ7HK,,EU091,Capezzone,
 IQ7IA,,EU091,Pedagne Italy,
 IR8A,,EU031,Ischia,
 IS,,EU024,Sardinia,
-IS0/DL8JJ/M,,EU024,Sardinia
-IS0/F8BDQ,,EU024,Sardinia
-IS0/IK1TTD,,EU024,Sardinia 
-IS0/OM2TW,,EU024,Sardinia DXP HP
-IS0/UX1UF,,EU024,Sardinia
 IS0BGL,,EU024,Sardinia,
 IS0BSR,,EU024,Sardinia,
 IS0DCR,,EU024,Sardinia,
 IS0SSY,,EU024,Sardinia,
 IS0XDA,,EU024,Sardinia,
 IT9,,EU025,Sicily,
-IT9AGZ/IE9,,EU054,Sicily
 IT9BLB,,EU025,Sicily,
 IT9MUO,ALF,EU025,Sicily 
 IT9RBW,,EU025,Sicily,
@@ -579,7 +550,6 @@ IT9RZU,,EU025,Sicily 24H CW HP
 IT9VDQ,,EU025,Sicily,
 IT9YVO,,EU025,Sicily,
 IV3DXW,,EU130,Grado,
-IV3UHL/P,,EU130,S Andrea Ils.
 IW9FDD,,EU025,Sicily,
 IW9FI,CARMELO,EU025,Sicily,
 IW9FRA,SAL,EU025,
@@ -617,7 +587,6 @@ JA8COE,TAKA,AS078,Hokkaido Island,
 JD,,AS007,Honshu,
 JD1BIA,,AS031,Chichi,
 JE,,AS007,Honshu,
-JE6HCL/6,Jen,AS036,Iki CW-SSB
 JE8KKX,,AS078,Hokkaido,
 JF,,AS007,Honshu,
 JF3BFS,,AS117,Awaji,
@@ -633,7 +602,6 @@ JH6TYD,,AS040,Fukue,
 JH8CXW,,AS078,Hokkaido,
 JI,,AS007,Honshu,
 JI3BFC,,AS117,Awaji,
-JI3DST/1,,AS008,Shikine CW-SSB 40-6m
 JI3FSI,,AS007,Honshu,
 JI6BEN,,AS077,Kyushu,
 JJ,,AS007,Honshu,
@@ -654,20 +622,11 @@ JS,,AS007,Honshu,
 JS6SRY,,AS024,Ishigaki,
 JS6SYR,,AS079,Shimoji,
 JW,,EU026,
-JW/ON7SA,,EU026,Svalbard (ON6FDP)
 JW/B,,EU027,
+JW0W,,EU063,Prins Karis Forland
 JW2US,,EU063,Svalbard,
 JW5E,,EU026,
 JX,,EU022,
-K1IMI,,NA137,Bailey (N4CW W4TMO) CW M1
-K1VSJ,,NA046,Martha's Vineyard Mix LP
-K2QMF,Ted,NA026,Long Island NY
-K3Y,,NA062,Key Vaca M1 LP
-K4RUM,Mike,NA026,Long Island Group
-K4Z,Keith,NA067,Cape Lookout (Great Island) W4KAZ)
-K5KUA,,NA143,Galveston LP (CW) SSB
-KA2D,Tom,NA026,Long Island USA
-KD7WPJ,,NA144,Anacapa Mix LP 12H
 KG4,,NA015,
 KH0,,OC086,
 KH1,,OC089,
@@ -701,15 +660,12 @@ KP4BZ,,NA099,Puerto Rico,
 KP4CPC,CARLOS,NA099,Puerto Rico,
 KP4JRS,JOSE,NA099,Puerto Rico,
 KP5,,NA095,
-LA/DK8WG/M,,EU076,
-LA/DL2SWW,,EU055
-LA/G0AAA,,EU076
-LA/OL7X,,EU056,Felmosoya
+KS4YT,,NA168,Grand Isle Multi op
+KV4T,,NA168,Grand Isle Multi op
 LA1CI,,EU046,
-LA1K/P,,EU036,
 LA1QDA,,EU055,Store Sotra,
 LA2MOA,,EU141,Vardo,
-LA4C,,EU055,Bokn M1
+LA4C,,EU055,Feoy M2 7/opr.
 LA4FPA,ERLING,EU056,
 LA4WKA,HUGO,EU055,
 LA5GOA,,EU055,Urter,
@@ -723,18 +679,14 @@ LA8OM,CHRISTIAN,EU055,
 LA9RY,KNUT,EU055,
 LA9VBA,,EU036,Frei,
 LB5WB,,EU055,Sotra CW 24H
-LM0POMOR,,EU141
 LM450C,,EU055,Utsira DXP M2 
 LN4C,,EU055,BOKN,
 LN7H,,EU055,Bokn,
 LT5X,,SA008,Tierra del Fuego,
 LU8XW,,SA008,
-LZ/Z32ZM/P,,EU181,
 LZ0I,,EU181,Sveti Ivan M2
-M/ON6QR,,EU120,Isle of Wight DXP
 M0,,EU005,Great Britain,
 M0DXR,,EU005,
-M0RBG/P,,EU120,
 M0SEV,,EU005,
 M0VPY,,EU120,Holy HP 12H
 M1,,EU005,Great Britain,
@@ -787,13 +739,13 @@ MM0JTV,,EU010,Barra LP
 MM0TAI,,EU005,Great Britain,
 MM0TFU,,EU123,Isle of Arran
 MM1DJJ,,EU005,Great Britain,
-MM1E,GORDON,EU005,Mainland HP (MM0GOR)
+MM1E,GORDON,EU123, Great Cumbrae 12H (MM0GOR)
 MM2M,,EU123,Arran 24H LP CW-SSB
 MM2N,,EU010,Benbecula,
 MM3LQK,,EU009,Stronsay,
 MM3N,,EU005,Great Britain,
 MM3T,DOUG,EU111,Ceann Ear M2 LP
-MM8C,,EU059,St-Kilda,
+MM8C,,EU111,Ceann Ear Multi 2
 MM9I,John,EU005,(GM0OPS)
 MN5A,,EU122,Rathlin DXP G3WVG mixed
 MO0CEF,,EU005,Great Britain,
@@ -805,14 +757,11 @@ MU0FAL,COLIN,EU114,Guernsey,
 MU0GSY,LIONEL,EU114,Guernsey,
 MU2K,,EU114,Guernsey ARS
 MV5BFL,,EU005,Great Britain,
-MW0DHF/P,,EU124,Holy  DXP HP
-MW0TSL/P,,EU124,Caldey Island
 MW1MDH,,EU005,Great Britain,
 MW8T,,EU005,Great Britain,
 MX5A,,EU011,St-Mary's (G3WVG) DXP
 MZ5A,,EU012,Mainland,
 MZ8A,,EU012,
-N1RR/M,,NA137,
 N2GC,,NA026,Long Isl.
 N3QQ,,NA065,Whidbey CW SSB
 N4T,,NA079,Tortuga Isl
@@ -826,12 +775,10 @@ NP3QE,SERGIO,NA099,
 NP4AW,,NA099,
 NP4EG,,NA099,Puerto Rico,
 NP4G,,NA099,Puerto Rico,
-NY3A/3,,NA140,Smith Isl. Maryland LP
 OF1TD,,EU096,Korpo
 OG4X,,EU096,
 OG5A,,EU140,Nuokot Finland
 OH0,,EU002,
-OH0/DF4ZL,,EU002,
 OH0I,,EU002,Aland Islands,
 OH0TA,,EU002,Korso,
 OH0V,,EU002,Aland,
@@ -847,7 +794,6 @@ OH6RX,,EU101,Raippaluoto Replot,
 OH8AA,,EU126,Selkasarvi M1,
 OH9A,,EU126,Selkasarvi M2
 OH9VL,ARI,EU097,
-OH9W/P,,EU096,Berghamn M2
 OJ0,,EU053,
 OJ0DX,,EU053,Market Reef
 OJ0R,,EU053,Market Reef,
@@ -867,8 +813,7 @@ OX3LX,Bo,NA134,Aasiaat Isl.
 OY,,EU018,
 OY1CT,,EU018,Faroe 
 OY1R,,EU018,Regin Faroe Islands,
-OZ/DL2JRM,,EU172,Hjarno CW LP 24H
-OZ/DL5CW,Paul,EU172,Hjarno LP
+OZ/ON6QR,,EU088,Laeso DXO 24h
 OZ0FR,,EU029,Mon,
 OZ0J,Joe,EU029,Sjaelland
 OZ0TX,,EU125,Mando,
@@ -896,7 +841,6 @@ OZ5UR,,EU029,Sjaelland,
 OZ6ABA,,EU171,Vendsyssel-Thy Nordjylland,
 OZ6GH,,EU029,Sjaelland,
 OZ7A,,EU029,Sjaelland M1
-OZ7BQ/P,,EU125,Fano CW QRP + after contest
 OZ7VEA,AXEL,EU030,
 OZ7YL,SVATAVA,EU030,Bornholm,
 OZ8AE,,EU029,Falster Island,
@@ -910,10 +854,7 @@ P3J,,AS004,
 P3R,,AS004,Cyprus,
 P4,,SA036,
 P43E,,SA036,Aruba,
-PA/DD2CW,,EU038,Texel 24H CW-SSB
-PA/F4FET,,EU146,Schouwen Duiveland HP SSB 24H
-PA/ON4IBM,Ivan,EU146,Schouwen Duiveland 
-PA/ON6QR,,EU038,Texel DXP
+PA/DL1KVN/P,,EU146,Tiengemeten DXP Mixed 20w wires solar pwr
 PA0HFT,HANK,EU038,
 PA2JJB,JAN,EU038,Texel,
 PA2SWL,JIM,EU038,
@@ -935,7 +876,6 @@ PG13IOTA,,EU038,Texel,
 PG1A,,EU146,Goeree Overflakkee,
 PH38EU,,EU038,Texel
 PH5T,,EU146,Schouwen Duiveland,
-PI4AMF/P,,EU146,Schouwen Duivenland
 PJ2,,SA099,
 PJ4,,SA006,
 PJ4DX,,SA006,Bonaire,
@@ -967,25 +907,22 @@ PY0T,,SA010,
 PY5ARP,,SA047,Mel,
 PY5DC,,SA047,Mel 40m,
 PY6RA,,SA023,
-R36M/1,,EU162,
 R63RRC,,AS063,
 R66IOTA,,AS066,Popov Mixed 
 R0FA,,AS018,Sakhalin,
 R0MZ,,AS059,
 R1ANF,,AN010,
 R1FJ,,EU019,
-R1KRG/P,,EU147,Bol'shoy Kimalishche (R1NU UA1NFA)
-R1MJ/P,,EU133,Gogland Isl
 R1MV,,EU117,
 R1ONZ,,AS066,
-R6AF/P,,EU185,Sudzhuk Isl
 RA0FF,,AS018,Sakhalin,
 RA1AR,,EU133,
 RA1QQ,,EU162,
-RA1ZZ/P,,EU117,Bolshoy Berezovyy DXP
 RD0F,,AS018,Sakhalin,
 RI0BC,,AS042,
 RI0C,,AS069,Iony in Sea of Okhotsk,
+RI0FM,,AS149,Moneron By Team Jul 15-31
+RI0FWA,,AS025,Kunashir
 RI0K,,AS061,Ratnanova,
 RI0LI,,AS022,Leont`yeva,
 RI0NZ,,AS066,Popova,
@@ -1004,11 +941,7 @@ RI1PC,,EU160,Chaichiy,
 RI1PT,,EU188,Timanets,
 RK3SWB/1,,EU117,
 RT0F,,AS018,Sakhalin,
-RT5G/1,,EU162,Malyy
-RT9P/1,,EU162,
 RU0FM,,AS018,Sakhalin,
-RU6DX/P,,EU185,Sudzhuk Mixed HP
-RW0IM/P,,AS059,
 RW9AS,,AS006,Handle Farid,
 RZ0CWH,YURI,AS066,Putiatina,
 S7,,AF024,
@@ -1025,7 +958,6 @@ SE2R,,EU139,Seskaro,
 SE5S,,EU084,Graso,
 SK0HS/0,,EU084,Blido SSB LP
 SK7OA,,EU138,
-SM/G3VYI,,EU020,Faro DXP LP
 SM0JCA,Erik,EU084,South Ljustero island
 SM0N,Erik,EU084,South Ljustero island
 SM0S,,EU084,Ornoe,
@@ -1039,30 +971,16 @@ SN1A,,EU132,Wolin,
 SN1D,,EU132,Wolin,
 SO1RE,,EU132,Wolin,
 SP0DF,,EU123,Wolin CW-SSB
-SP/DH5FS,,EU132,Wolin
-SP/M0PLY,,EU132,
-SP/M0PLX,,EU138,
-SP1/DM5JBN,,EU132,
 SP1KNM,HUBERT,EU132,Wolin
 SP1QXK,,EU132,Wolin,
 SP3A,,EU132,Wolin CW LP
-SP6OJE/1,,EU132,
-SP7CV/1,Przemek,EU132,Wolin SSB
 SQ1JGB,,EU132,Karsibor
 SQ1KSA,,EU132,Wolin
 SQ6NEJ,,EU132,Wolin 40-10m 500w GP
 SV0XAF,MIKE,EU067,Paros,
-SV1XV/P,,EU049,
 SV5,,EU001,
-SV5/G4DJX,,EU001,
-SV5/OH2FUW,,EU001,
-SV5/OM6NM,Norbert,EU001,Kos holiday style operation
-SV5DKL,,EU001,Rhodes CW HP,
-SV8/HB9FIH,,EU049,Lesvos CW QRP
-SV8/HG0R,,EU174,
-SV8/OM2FY,,EU052,Kefalonia (OM2FY)DXP CW QRP
-SV8/OM6NM,,EU052,Zakynthos CW 24H
-SV8/YO3FCA,,EU174,Thassos
+SV5DKL,,EU001,Rhodes CW HP
+SV8/LZ2K,,EU174,Ammouliani by LZ1QN LZ4AE M1
 SV8CS,,EU052,
 SV8CYR,,EU049,Samos,
 SV8CYV,,EU049,Samos,
@@ -1072,8 +990,6 @@ SV8P,,EU067,Tinos,
 SV8RMA,,EU049,Greece,
 SV8YAT,,EU052,Corfu,
 SV9,,EU015,
-SV9/G0VJG,,EU015,
-SV9/I3MDU,,EU015,
 SV9AHZ,,EU015,Crete
 SV9COL,,EU015,Crete
 SV9CVY,,EU015,
@@ -1107,7 +1023,6 @@ TA0S,,AS098,Fethiye Isl
 TC0T,,AS159,Kefken Island Turkey,
 TC0TC,,AS201,Siviada (Turkey),
 TF,,EU021,Iceland,
-TF/DL6MHW,,EU021,Main CW LP 24H
 TF3AO,SELI,EU021,Iceland,
 TF3Y,YNGVI,EU021,Iceland,
 TF7X,RC,EU071,Iceland,
@@ -1118,6 +1033,7 @@ TK4LS,,EU014,Corsica,
 TK5EP,,EU014,Corsica,
 TK5KP,,EU014,Corsica,
 TK5UX,,EU014,Corsica,
+TM1N,,EU064,Noirmoutier LP CW-SSB 5 opr.
 TM2BI,,EU048,Bell Ile en Mer,
 TM5F,,EU095,Ratonneau
 TM5KD,,EU048,Ile de Sein,
@@ -1125,7 +1041,7 @@ TM5S,,EU068,Ile de Sein DXP mixed LP
 TM5VI,,EU105,Vierge Island 
 TM6G,,EU048,Groix,
 TM6N,,EU064,Noirmoutier M1 CW-SSB LP
-TM7P,,EU107,Petite F4FET F5RAB M/2 QRV B4/after
+TM7P,,EU107,Petite F4FET F5RAB M/2 
 TM7T,,EU039,Grande,
 TO5O,,NA107,Martinique DL8UD HP
 TX2A,,OC114,Raivavae (W6NV)
@@ -1159,7 +1075,6 @@ VA7PX,JOHN,NA075,
 VA7RN,LES,NA036,Vancouver,
 VE1DT,GERALD,NA010,Homeville NS,
 VE1TRI,BARRY,NA081,
-VE7ACN/7,Mike,NA036,Vancouver Isl.
 VE7ACN,Mike,NA036,Vancouver Isl.
 VE7CXZ,,NA036,Vancouver 
 VE7DB,RC,NA091,Bowen,
@@ -1167,7 +1082,6 @@ VE7DXU,ROY,NA036,Vancouver,
 VE7GM,WAYNE,NA091,Bowen,
 VE7JH,GABOR,NA036,Vancouver,
 VE7NS,RON,NA036,Vancouver,
-VE7NY/7,Sandro,NA036,Denman Mix HP 
 VK,,OC001,Australia,
 VK0H,,AN003,
 VK0M,,AN005,
@@ -1176,9 +1090,7 @@ VK4EI,,OC227,Sweers,
 VK4HAM,,OC142,
 VK4NM,,OC142,
 VK4SWE,,OC227,Sweers,
-VK5CE/8,CRAIG,OC198,Sir Edward Pellew Island,
 VK5KI,,OC139,Kangaroo Is.
-VK5MAV/p,,OC228,West CW
 VK6AHR,,OC164,
 VK7CW,,OC006,Tasmania,
 VK7GN,,OC006,
@@ -1216,23 +1128,13 @@ VR2KF,,AS006,Ma Wan,
 VR2UNG,,AS006,Hong Kong 
 VU4,,AS001,
 VU7,,AS011,
-VX2A11,,NA038,Grosse Ile DXP Jul 23-30
+VY,,NA029,
 VY2LI,,NA029,Prince Edward Canada,
 VY2OX,,NA029,Prince Edward Canada,
+VY2LPH,,NA029,Prince Edward Canada,
 VY2SS,Robby,NA029,Prince Edward Canada,
 VY2TT,Ken,NA029,Prince Edward CW SSB Canada HP
-W1WBB,,NA031,Aquidneck CW-SSB/? 12H
-W2IY,,NA055,Mt Desert 
-W2TT,,NA111,
-W2VT,,NA111,
-W3FOX/M,,NA139,Assateague SSB
-W4/SM6WET/P,,NA067,Hatteras LP 12H
-W4KAZ,Keith,NA067,Cape Lookout (Great Island) 
-W4MY,,NA067,Roanoke CW SSB 24H
-W4UC,,NA142,Santa Rosa Island M1 DXP LP
-WA2BCK,,NA110,Hilton Head LP
-WB2UZE,,NA026,
-WB8YJF/4,,NA067,Ocracoke LP CW-SSB
+W4MY,,NA067,Harkers DXP North Carolina
 WH2D,,OC026,Guam,
 WH2DX,,OC026,
 WH2X,,OC026,
@@ -1245,10 +1147,12 @@ XF4,,NA030,
 XR1T,,SA069,Santa Maria ,
 YB,,OC021,Java,
 YB0AZ,,OC021,
+YB0ECT,,OC021,Java
+YJ8RN,,OC111,Emae
 YB0COX,,OC021,Java,
 YB0D,,OC177,Damar Besar,
+YB0ECT,,OC021,Java 20m HP
 YB1DNF,,OC021,
-YB3MM/9,,OC151,
 YB4NY,,OC143,Sumatra
 YB5AQB,,OC075,Batam,
 YB5BOY,,OC143,
@@ -1270,7 +1174,6 @@ YC5OUB,,OC143,
 YC8GZP,,OC146,Celebes,
 YC9MX,,OC148,Timor LP
 YD1JQM,,OC021,Java
-YD6MCE/9,,OC151,
 YD9MBM,,OC148,Timor LP
 YE,,OC021,Java,
 YE2C,,OC186,Karimunjawa,
