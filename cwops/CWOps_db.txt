@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #2965
-# File last updated 2021-07-04
+# File last updated 2021-07-09
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -2842,7 +2842,7 @@ N3CU=Ken;PA
 N3CW=Ed;1509
 N3CZ=Vlad;1891
 N3DXX/0=Art;
-N3DXX=Art;DE
+N3DXX=Art;1232
 N3EA=Al;1438
 N3ED=Ed;PA
 N3FJ=Robert;PA
@@ -3227,7 +3227,7 @@ N9NM=Barb;TX
 N9OK=Joe;IL
 N9OL=John;2383
 N9PL=Paul;NC
-N9RD=Juergen;582
+N9RD=Jurgen;582
 N9RV=Pat;MT
 N9SD=Scott;WI
 N9SE=Marty;1562
