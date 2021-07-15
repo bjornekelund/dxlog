@@ -12,7 +12,7 @@ BEGIN {
   if (notignore)
     printf("%s=%s\n", call, grid);
   else
-	printf("Ignored: %s\n", $1) > "/dev/stderr";
+	printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
   printf("#0 Stew Perry data base\n");
