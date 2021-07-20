@@ -30,9 +30,11 @@
 5P5CW  #EU172 Aro 
 5P5X  #EU088 Laesoe M1 HP CW-SSB 
 5P6BA  #EU171 Denmark
-5P6G  #EU088 Laeso DXP M1 HP
+5P6G  #EU088 Lesu DXP M1 HP
 5P7LSO  #EU088 Laesoe 
 5P7ZZ  #EU029 
+5Q5CW  #EU172 Hjarnoe
+5Q5M  #EU088 Laeso ON6QR DXP 24h
 5Q6EE  #EU172 Hjarno LP
 5Q7DX JAN #EU171 Saeby-Thy North Jutland
 5R  #AF013 
@@ -121,6 +123,7 @@ AO8NQ  #AF004
 AY3MI  #AS014 
 AY7X  #SA008 
 B4R  #AS135 Qinshan
+B4T  #AS135 Kaishan M2 HP MixMode
 B4X  #AS135 
 B5B  #AS141 Dongtou Shan
 B5C  #AS137 Qingbang
@@ -210,6 +213,7 @@ CT3DL  #AF014 Madeira
 CT3FQ  #AF014 Madeira
 CT3KN  #AF014 Madeira
 CT7ACG COLIN #EU145 Culatra
+CT9/DL5CW  #AF014 Madeira
 CT9ABV  #AF014 Madeira DL5AXX 12 H Mix
 CU  #EU003 
 CU2AA  #EU003 Azores
@@ -384,7 +388,7 @@ G3YJQ  #EU005
 G3YNN  #EU005 
 G4ALE/P  #EU120 Isle of Wight
 G4DBW  #EU005 
-G4PVM Paul #EU005 Jekyl
+G4PVM Paul #EU005 
 G4R  #EU005 Great Britain
 G4ZFE  #EU005 
 G5W DON #EU005 Great Britain
@@ -395,6 +399,7 @@ G6MC  #EU005 Great Britain (Neil Brimham CG)
 G6XX  #EU005 Great Britain (Historic RSGB Callsign)
 G7KXZ KEVIN #EU005 Great Britain
 G7O  #EU120 Isle of Wight (G3SQX) CW 12H
+G8CW  #EU005 Essex CW ARC
 G8D  #EU005 
 G8GHD  #EU005 
 G8X TIM #EU005 Great Britain (G4FJK)
@@ -435,10 +440,11 @@ GM4KGK NORMAN #EU010 Isle of Lewis
 GM4NFI  #EU008 Fladda
 GM4SLV  #EU012 Mainland
 GM5A  #EU005 
-GM5DX  #EU092 Horse
+GM5DX  #EU092 Summer Isles
 GM5O  #EU009 Orkney Main
 GM5TO  #EU123 Isle of Arran
 GM7A  #EU008 Isle of Gigha
+GM7M  #EU123 Arran M2
 GM7O ED #EU123 Isle of Arran
 GM7V  #EU010 Benbecula M2 HP DXP
 GM7WCO/P  #EU008 Isle of Skye 
@@ -500,7 +506,7 @@ IC8SQS  #EU031 Ischia M2
 IC8TEM  #EU031 Capri
 IC8WIC  #EU031 Capri
 IE9DX  #EU051 Ustica
-IF9A Pippo #EU054 Favignana (IT9PPG) LP 20m
+IF9A Pippo #EU054 Favignana (IT9PPG) LP 24h
 IF9ZWA MIKE #EU054 Favignana
 IG9  #AF018 
 IG9Y  #AF019 Lampedusa Italy
@@ -520,6 +526,7 @@ IO9Z  #EU025 Sicily M1 LP
 IP1T  #EU083 Tino
 IQ3AZ  #EU130 
 IQ3JT  #EU130 
+IQ3ME/P  #EU131 Pellestrina by Team
 IQ7HK  #EU091 Capezzone
 IQ7IA  #EU091 Pedagne Italy
 IR8A  #EU031 Ischia
@@ -533,7 +540,7 @@ IT9  #EU025 Sicily
 IT9BLB  #EU025 Sicily
 IT9MUO ALF #EU025 Sicily 
 IT9RBW  #EU025 Sicily
-IT9RZU  #EU025 Sicily 24H CW HP
+IT9RZU  #EU026 Sicily CW LP
 IT9VDQ  #EU025 Sicily
 IT9YVO  #EU025 Sicily
 IV3DXW  #EU130 Grado
@@ -546,7 +553,6 @@ IW9HIK  #EU025 Sicily
 IW9HMQ MAURO #EU025 
 IZ8XOU  #EU144 Cirella
 J3  #NA024 
-J31DST  #AS008 Takeshi
 J39BS DEREK #NA024 
 J45K  #EU001 
 J45KLN GORAN #EU001 
@@ -574,6 +580,7 @@ JA8COE TAKA #AS078 Hokkaido Island
 JD  #AS007 Honshu
 JD1BIA  #AS031 Chichi
 JE  #AS007 Honshu
+JE1GDY  #AS043 Hacchijo mix 200w TB Yagi
 JE8KKX  #AS078 Hokkaido
 JF  #AS007 Honshu
 JF3BFS  #AS117 Awaji
@@ -589,6 +596,7 @@ JH6TYD  #AS040 Fukue
 JH8CXW  #AS078 Hokkaido
 JI  #AS007 Honshu
 JI3BFC  #AS117 Awaji
+JI3DST/5  #AS200 Shodo
 JI3FSI  #AS007 Honshu
 JI6BEN  #AS077 Kyushu
 JJ  #AS007 Honshu
@@ -614,6 +622,7 @@ JW0W  #EU063 Prins Karis Forland
 JW2US  #EU063 Svalbard
 JW5E  #EU026 
 JX  #EU022 
+K1IMI  #NA137 Bailey 12H 100w/bat
 KG4  #NA015 
 KH0  #OC086 
 KH1  #OC089 
@@ -739,6 +748,7 @@ MO0CEF  #EU005 Great Britain
 MO5BFL  #EU005 Great Britain
 MO6ADB  #EU005 Great Britain
 MP0HTJ  #EU114 Guernsey
+MP5A  #EU114 Alderney
 MS0YHC  #EU120 Orkney 
 MU0FAL COLIN #EU114 Guernsey
 MU0GSY LIONEL #EU114 Guernsey
@@ -755,6 +765,7 @@ N4T  #NA079 Tortuga Isl
 N4XU  #NA058 St Simons
 N9EAJ  #NA055 Deer Isle CW-SSB 40-10m casual
 NH2T  #OC026 
+NL0H  #NA040 St Lawrence Alaska
 NL8F TIM #NA055 Unalaska
 NP2X  #NA106 
 NP3CW JULIO #NA099 
@@ -772,6 +783,7 @@ OH0TA  #EU002 Korso
 OH0V  #EU002 Aland
 OH0V  #EU002 Main pse QRS new ops
 OH0X  #EU002 Brando M2
+OH1/DL2VFR  #EU173 Reposaari 100w
 OH1K  #EU140 Kaunissaari
 OH1MA JAAKKO #EU096 
 OH1SIC  #EU096 Nauvo Nagu
@@ -863,6 +875,7 @@ PG13IOTA  #EU038 Texel
 PG1A  #EU146 Goeree Overflakkee
 PH38EU  #EU038 Texel
 PH5T  #EU146 Schouwen Duiveland
+PI4AMF/P  #EU146 Schouwen Duiveland M2
 PJ2  #SA099 
 PJ4  #SA006 
 PJ4DX  #SA006 Bonaire
@@ -954,7 +967,7 @@ SM2BJT  #EU139 Seskaro
 SM7CIL ARNE #EU037 Oland
 SM7ZAU  #EU037 
 SN0EG  #EU129 Usedom
-SN0RX  #EU132 Wolin  CW
+SN0RX  #EU132 Wolin  CW by DJ0IF
 SN1A  #EU132 Wolin
 SN1D  #EU132 Wolin
 SO1RE  #EU132 Wolin
@@ -964,7 +977,7 @@ SP1QXK  #EU132 Wolin
 SP3A  #EU132 Wolin CW LP
 SQ1JGB  #EU132 Karsibor
 SQ1KSA  #EU132 Wolin
-SQ6NEJ  #EU132 Wolin 40-10m 500w GP
+SQ6NEJ  #EU132 Wolin 
 SV0XAF MIKE #EU067 Paros
 SV5  #EU001 
 SV5DKL  #EU001 Rhodes CW HP
@@ -1068,7 +1081,7 @@ VE7DB RC #NA091 Bowen
 VE7DX PERRY #NA036 Vancouver
 VE7DXU ROY #NA036 Vancouver
 VE7GM WAYNE #NA091 Bowen
-VE7JH GABOR #NA036 Vancouver
+VE7JH GABOR #NA036 Vancouver 24h mix
 VE7NS RON #NA036 Vancouver
 VK  #OC001 Australia
 VK0H  #AN003 
