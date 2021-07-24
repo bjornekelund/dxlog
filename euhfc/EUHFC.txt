@@ -1,12 +1,9 @@
-﻿
-!!Order!!= Call= Sect= 
-# Database for European HF Championship 2021
-# Based on preleminary works by EA2AOO and VE2FK
+﻿# Database for European HF Championship 2021
+# Based on preliminary works by EA2AOO and VE2FK
 # Created by RM1F software. 
 # Total 3066 unique entries.
 # Send new info/corrections DIRECT ve2fk@arrl.net
-# LastEdit=2021-02-15
-# EUHFC
+# Last Edit 2021-07-22
 2E0FNV=18
 2E0PLA=02
 2E0UGE=19
@@ -2704,6 +2701,7 @@ UR6HCF=69
 UR6IGG=87
 UR6IM=83
 UR6IRA=01
+UR7EU=00
 UR7GO=71
 UR7MZ=77
 UR7QC=72
