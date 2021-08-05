@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #2977
-# File last updated 2021-08-02
+# Contains members up to #2980
+# File last updated 2021-08-04
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -115,7 +115,6 @@ AA5ZT=Mike;OK
 AA6MK=Mike;1909
 AA6MU=Dim;CA
 AA6OC=Bob;CA
-AA6TQ=Gord;2959
 AA6VX=Rich;CA
 AA6W=Don;2311
 AA6XA=Jeff;2118
@@ -123,6 +122,7 @@ AA7CT=Bob;OR
 AA7FV=Darrel;1578
 AA7OA=Dan;OR
 AA7ST=John;2263
+AA7TQ=Gord;2959
 AA7V=Steve;AZ
 AA7WU=Mike;ID
 AA8IA=Mike;966
@@ -629,7 +629,7 @@ EA5IIK=Andy;EA
 EA5IUY=Gary;2508
 EA5KA=Raul;1512
 EA5KO=Andy;2545
-EA5M=Dani;EA
+EA5M=Dani;2979
 EA6TS=Pedro;EA
 EA7AM=Pedro;EA
 EA7EGU=Manuel;2505
@@ -3018,6 +3018,7 @@ N5HC=Bruce;NM
 N5HZ=Jim;1425
 N5IKD=Robert;TX
 N5IR=Bill;799
+N5JB=John;2980
 N5JJ=Rich;TX
 N5JR=Joel;1229
 N5KAE=Mark;TX
@@ -4182,6 +4183,7 @@ VE4AEO=Rich;783
 VE4CDX=Gerry;MB
 VE4EA=Cary;1828
 VE4MR=Kevin;1587
+VE4SF=Bruce;2978
 VE4SNA=Jack;1047
 VE4XT=Kellu;2795
 VE4YU=Ed;MB
