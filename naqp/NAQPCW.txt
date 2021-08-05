@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2021-07-29
+# 1-Last Edit,2021-08-04
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-
 # 4-
@@ -697,6 +697,7 @@ AF4UU,,VA,
 AF4Z,DON,FL,
 AF5AR,GLENN,AR,
 AF5DM,DAVE,TX,
+AF5J,Hal,TX,
 AF5P,JIM,LA,
 AF5Q,,OK,
 AF5T,MARTY,CA,
@@ -2383,7 +2384,6 @@ K5GQ,MARK,TX,
 K5GW,,TX,
 K5HDU,MIKE,TX,
 K5HDX,,TX,
-K5HEM,HAL,TX,
 K5HK,CARL,NV,
 K5HP,DAVE,TX,
 K5HQV,,MS,
