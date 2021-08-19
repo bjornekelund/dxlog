@@ -1,6 +1,6 @@
 # K1USN SST participants database
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# Updated 2021-08-18
+# Updated 2021-08-19
 9A3YT=DARKO;9A
 9A5AX=JOSIP;9A
 9A6ZE=NENO;9A

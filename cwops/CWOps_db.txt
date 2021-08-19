@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #2984
-# File last updated 2021-08-17
+# File last updated 2021-08-19
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -320,6 +320,7 @@ AH0AA=Gary;1949
 AH0U=Bruce;1825
 AH6C=Jerry;FL
 AH6KO=Stan;1794
+AH6OC=Bob;HI
 AH6RE=Curt;830
 AH6V=Jeremy;HI
 AH6VV=Carl;2300
@@ -1548,6 +1549,7 @@ K4OV=Rob;1592
 K4OWR=Bill;TN
 K4OY=Greg;2464
 K4PI=Mike;1066
+K4PQC=Phil;GA
 K4QPL=Jim;244
 K4QS/M=Chuck;1749
 K4QS=Chuck;1749
@@ -2047,7 +2049,7 @@ KA9ZAP=Arthur;TN
 KB0FJU=Scott;IL
 KB0GUS=Josh;KS
 KB0JSH=Amanda;IA
-KB0R=Larry;MN
+KB0R=Larry;1491
 KB0UAZ=Jim;MN
 KB1BMF=Wolf;ME
 KB1H=Dick;MA
@@ -2320,7 +2322,7 @@ KG6PB=Jim;MI
 KG7A=Ron;1939
 KG7IRR=Andrew;WA
 KG7WHX=Scott;UT
-KG7YU=Gordon;WA
+KG7YU=Gordo;WA
 KG7ZOK=Bob;2608
 KG9LB=Jim;2018
 KG9MG=Jay;WI
@@ -5053,7 +5055,7 @@ WB0SND=Mike;1469
 WB0TUA=Derek;MO
 WB0U=Len;MN
 WB1KE=Loren;UT
-WB1LLY=Bill;2851
+WB1LLY=Billy;2851
 WB2AIV=Bill;542
 WB2FQL=Gary;NY
 WB2FUV=Mike;NY
