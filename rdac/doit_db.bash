@@ -12,5 +12,5 @@ BEGIN {
     printf("%s=%s\n", $1, $2);
   }
 }
-END { }' RDAC.txt | sort | sed 's/#. /# /g' > RDAC_db.txt
+END { }' RDAC.txt | sort | sed 's/#. /# /g' | uniq > RDAC_db.txt
 unix2dos RDAC_db.txt
