@@ -13,5 +13,5 @@ BEGIN {
     printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
   else
     printf("Ignored: %s\n", $0) > "/dev/stderr";
-}' NAQPCW.txt | sort | sed 's/#. /# /g' > NAQP_db.txt
+}' NAQPCW.txt | sort | sed 's/#. /# /g' | uniq > NAQP_db.txt
 unix2dos NAQP_db.txt
