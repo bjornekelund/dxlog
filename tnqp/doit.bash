@@ -1,7 +1,7 @@
 #/bin/bash
 cd $(dirname $0)
-FILE=`ls QSOP_TN* 2> /dev/null`
-echo FILE=\"$FILE\"
+FILE=`ls QSOP_* | tail -1 2> /dev/null`
+echo Using file \"$FILE\"
 
 dos2unix $FILE
 gawk '
