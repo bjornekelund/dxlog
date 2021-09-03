@@ -11,7 +11,7 @@ Bledsoe BLED
 Hardin HARN	
 Perry PERR
 Blount BLOU	
-Hawkins HAWK 	
+Hawkins HAWK
 Pickett PICK
 Bradley BRAD	
 Haywood HAYW	
@@ -69,7 +69,7 @@ Madison MADI
 Union UNIO
 Fayette FAYE	
 Marion MARI	
-Van Buren VANB
+Van_Buren VANB
 Fentress FENT	
 Marshall MARS	
 Warren WARR
