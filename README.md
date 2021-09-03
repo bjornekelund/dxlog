@@ -1,5 +1,7 @@
 # dxlog
-Helpful bash scripts for maintaining DXLog.net databases and contest files.
+Helpful ***bash*** scripts for maintaining DXLog.net databases and contest files.
+
+Runs on any Linux computer with bash - or in the Windows Ubuntu app. 
 
 Mainly for reformatting call history files published on the [N1MM web site](https://n1mmwp.hamdocs.com/mmfiles/categories/callhistory/) 
 but there are also scripts for e.g. extracting multiplier lists from web resources.
