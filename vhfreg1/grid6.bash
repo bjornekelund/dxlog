@@ -1,5 +1,6 @@
 #bin/bash
-dos2unix VHFREG1.txt vhf_uhf_db.txt
+dos2unix -q $1 $2
+echo Creating 6-position grid database
 gawk '
 BEGIN {
   FS=",";
@@ -15,7 +16,7 @@ BEGIN {
 #    printf("Ignored: %s: \"%s\"\n", $1, $2) > "/dev/stderr";
 }
 END {
-}' < VHFREG1.txt > _VHFREG1.tmp
+}' < $1 > .older.tmp
 
 gawk '
 BEGIN {
@@ -32,9 +33,9 @@ BEGIN {
 #    printf("Ignored: %s: \"%s\"\n", $1, $2) > "/dev/stderr";
 }
 END {
-}' < vhf_uhf_db.txt > _vhf_uhf_db.tmp
+}' < $2 > .younger.tmp
 
-cat _VHFREG1.tmp _vhf_uhf_db.tmp | gawk '
+cat .older.tmp .younger.tmp | gawk '
 BEGIN {
   FS="=";
 }
@@ -42,7 +43,7 @@ BEGIN {
 #  printf("Call=%s Grid=%s Status=%s\n", $1, $2, $3) > "/dev/stderr";
   if (gridlist[$1] == "" || $3 == "1") {
     if ($3 == 1 && $2 != gridlist[$1] && gridlist[$1] != "")
-      printf("Override. %s = %s, grid was %s\n", $1, $2, gridlist[$1]) > "/dev/stderr";
+      printf("Younger file override: %s = %s, was %s\n", $1, $2, gridlist[$1]) > "/dev/stderr";
     callist[$1] = $1;
     gridlist[$1] = $2;
   }
