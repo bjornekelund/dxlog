@@ -1,6 +1,6 @@
 # CWOps Open database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-09-03.
+# File created 2021-09-05.
 2E0DCW=GERALD
 2E0FPW=JK
 2E0OBO=BOB
@@ -3993,6 +3993,7 @@ JE4CIL=FUMIO
 JE6NSS=AKIHIRO
 JF1OPL=TOSHIO
 JF1TTN=MASA
+JF1UOX=MISA
 JF2IWL=DAI
 JF2SKV=MAZ
 JF3KNW=NOBU

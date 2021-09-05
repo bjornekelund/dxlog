@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #2999
-# File last updated 2021-09-02
+# Contains members up to #2998
+# File last updated 2021-09-05
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -211,7 +211,6 @@ AC8W=Stan;695
 AC9EM=Steve;IL
 AC9EZ=Jim;2342
 AC9OH=Ron;IL
-AC9VC=Mark;IL
 AD0AB=Jim;2114
 AD0BI=Lar;MO
 AD0DX=Ron;1019
@@ -255,7 +254,6 @@ AE1T/1=Pete;1404
 AE1T=Peter;1404
 AE2T=Al;NY
 AE2U=Mike;869
-AE2W=Den;MA
 AE3J=Bill;PA
 AE4DT=Jim;GA
 AE4EY=Fred;AL
@@ -1073,7 +1071,6 @@ JA7QVI=Tac;JA
 JA8CDG=Ken;161
 JE1TRV=Atsu;141
 JF1TTN=Masa;JA
-JF1UOX=Misa;JA
 JF2IWL=Dai;JA
 JF3KNW=Nobu;394
 JH1GNU=Shigeru;713
@@ -2089,7 +2086,6 @@ KB5RF=Tom;2358
 KB5ZCR=Tim;2314
 KB6K=Ron;CA
 KB6NU=Dan;1418
-KB7AZ=Carl;AZ
 KB7EIU=Dan;FL
 KB7KP=Dave;UT
 KB7N=Mark;WA
@@ -3236,7 +3232,7 @@ N9CX=Bill;OH
 N9DJ=John;IL
 N9EAW=Tom;WI
 N9EP=Ed;991
-N9EXL=Lyndel;2999
+N9EXL=Lyndel;IL
 N9FB=Rob;IN
 N9GFU=Jim;IN
 N9GG=Bob;2517

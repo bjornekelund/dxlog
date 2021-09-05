@@ -100,7 +100,7 @@ BEGIN {
 	  if (substr($1, 1, 2) ~ /ZP/) ID = "ZP";
 	  if (substr($1, 1, 2) ~ /Z[R-S]/) ID = "ZS";
       if (ID == "")
-        printf("No prefill: %s\n", $1) > "/dev/stderr";
+        printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
     printf("%s=%s;%s\n", $1, $2, ID);
     max = (int($3) > max) ? int($3) : max;
