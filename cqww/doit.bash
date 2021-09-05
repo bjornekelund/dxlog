@@ -1,23 +1,23 @@
-#!/bin/bash
-gawk '
-BEGIN {
+SOURCE=CQWW_CW_2019_KE2D_V2.txt
+DEST=cqww_cw_2019_ke2d_dxlog.txt
+
+dos2unix $SOURCE
+
+awk '{if (substr($0,1,1) == "#") print $0;}' $SOURCE > comments.txt
+
+awk \
+'BEGIN\
+{
   FS=","
 }
 {
-  firstcharcall = substr($1, 1, 1);
-  call = $1;
-  zone = $2;
-  notignore = firstcharcall ~ /[0-9,A-Z]/ && zone ~ /^[0-9][0-9]$|^[0-9]$/
-  if (notignore)
-    printf("%s=%02d\n", call, zone);
-  else
-	printf("Ignored: %s\n", $1) > "/dev/stderr";
+  if (substr($0,1,1) != "!" && substr($0,1,1) != "#")
+    printf("%s=%02d\n", $1, $2);
 }
-END { 
-  printf("#0 CQ WW contest data base\n");
-  printf("#1 Based on 2019 call history data collected and scrubbed by Bob KE2D\n");
-  printf("#2 File created on %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | more > CQWW_db.txt
-echo "CQWW_db.txt created"
-unix2dos CQWW_db.txt
+' $SOURCE | sort > calls.txt
+
+cat comments.txt calls.txt > $DEST
+unix2dos $DEST
+
 exit
+

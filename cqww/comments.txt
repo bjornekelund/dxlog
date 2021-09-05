@@ -1,0 +1,19 @@
+# 
+# CQWWCW
+# Current contest: CQWWCW
+# 
+# This file created by KE2D, 19 Nov. 2019, using logs from 16 top scoring stations in 2018:
+# CN3A, EF8R, PJ2T, CR3DX, P33W, ES9C, PJ4Q, PJ4A, PJ4K, TI7W, KH6J, KH6LC, M6T, HQ9X, DF0HQ, 9A1A
+# Contains 11,307 calls with validated or verified exchanges.
+# Contains 2,693 unique calls which were found in only one of the 16 logs.
+# Over 1,100 calls which could not be verified by at least one of 3 different methods have been removed.
+# Total calls in this file is 14,000.
+# Based on claimed score data on 3830scores.com and the official CQWW post contest scores, error rates for each log were calculated.
+# Calculating the error rate became more complex as erroneous data was removed.
+# However, the overall error rate is expected to be at or below 0.587% which I deemed acceptable.
+# If you are working one of the 2,693 unique calls, the error probability increases slightly.
+# I encourage all operators to listen carefully and copy what is sent.
+# There are errors.  People move.  They operate from another QTH, etc.
+# Permission is hereby granted to edit, modify, and share the file to be used with other logging programs.
+# Bob Beyer - KE2D
+#
