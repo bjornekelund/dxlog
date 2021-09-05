@@ -1,5 +1,9 @@
 #!/bin/bash
-dos2unix $1
+cd $(dirname $0)
+FILE=`ls QSOP_* | tail -1 2> /dev/null`
+echo Using file \"$FILE\"
+
+dos2unix $FILE
 gawk '
 BEGIN {
   FS=","
@@ -13,5 +17,5 @@ BEGIN {
     printf("%s=%s\n", toupper($1), toupper($3));
   else
     printf("Error: %s\n", $0) > "/dev/stderr";
-}' $1 | sort | sed 's/#./#/g' > SCQP_db.txt
+}' $FILE | sort | sed 's/#./#/g' > SCQP_db.txt
 unix2dos SCQP_db.txt

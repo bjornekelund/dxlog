@@ -1,6 +1,6 @@
 #/bin/bash
 cd $(dirname $0)
-FILE=`ls QSOP_FL* 2> /dev/null`
+FILE=`ls QSOP_FL* | tail -1 2> /dev/null`
 echo FILE=\"$FILE\"
 
 dos2unix $FILE
