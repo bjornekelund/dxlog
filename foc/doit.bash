@@ -1,7 +1,8 @@
 #!/bin/bash
 cd $(dirname $0)
-dos2unix $1
-./foc-n1mmtodxlog-txt.bash $1
-./foc-n1mmtodxlog-xdt.bash $1
-#mv $1 used-file-$1
+FILE=`ls FOC* | tail -1 2> /dev/null`
+ech Using file \"$FILE\"
+dos2unix $FILE
+./txt.bash $FILE
+./xdt.bash $FILE
 exit
