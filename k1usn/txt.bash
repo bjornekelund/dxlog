@@ -11,7 +11,7 @@ BEGIN {
       ID = "DX";
 #      printf("Assign DX: \"%s\"\n", $0) > "/dev/stderr";
     }
-    if (ID == "" && $2 == "")
+    if ((ID == "" && $2 == "") || ID !~ /[A-Z]{2}|/)
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     else
       printf("%s=%s;%s\n", toupper($1), toupper($2), ID);
