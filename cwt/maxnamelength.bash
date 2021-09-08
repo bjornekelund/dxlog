@@ -2,6 +2,7 @@ gawk '
 BEGIN {
   FS=","
   maxlen = 0;
+  printf("\nChecking for longest name...\n");
 }
 {
   if (substr($1,1,1) ~ /[0-9,A-Z]/ && $2 != "") {
@@ -11,6 +12,6 @@ BEGIN {
     }
   }
 }
-END { 
+END {
 }' $1
 exit

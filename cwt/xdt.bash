@@ -12,5 +12,5 @@ BEGIN {
 END { 
 }' < $1 | sed 's/  / /g' | sort | more > CWOps.xdt
 echo "CWOps.xdt created"
-unix2dos CWOps.xdt
+unix2dos -q CWOps.xdt
 exit
