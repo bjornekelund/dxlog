@@ -5,6 +5,7 @@ echo Using file $FILE
 if [ -n "$FILE" ]; then
   dos2unix -q $FILE
   ./txt.bash $FILE
+  ./maxnamelength.bash $FILE
 else
   echo No file to process
 fi
