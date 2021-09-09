@@ -1,8 +1,8 @@
 #/bin/bash
 cd $(dirname $0)
-FILE=`ls Names_VE2FK* 2> /dev/null`
-echo FILE=\"$FILE\"
-dos2unix $FILE
+FILE=`ls Names_VE2FK* | tail -1 2> /dev/null`
+echo Using file $FILE
+dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
