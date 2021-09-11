@@ -2,7 +2,7 @@
 cd $(dirname $0)
 FILE=`ls QSOP_AL* | tail -1 2> /dev/null`
 echo FILE=\"$FILE\"
-OUTFILE=ALQP_db.txt
+OUTFILE=AQP_db.txt
 
 dos2unix $FILE
 gawk '
@@ -26,7 +26,7 @@ BEGIN {
       printf("%s=%s\n", $1, $col);
     else
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-  } 
+  }
 }
 END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
 echo Created $OUTFILE

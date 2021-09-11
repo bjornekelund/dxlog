@@ -1,6 +1,6 @@
 # Alabama QSO Party database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-09-10.
+# File created 2021-09-11.
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
