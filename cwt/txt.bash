@@ -1,4 +1,5 @@
 #bin/bash
+DBFILE=CWT_db.txt
 gawk '
 BEGIN {
   FS=","
@@ -116,7 +117,7 @@ END {
   printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#3 Contains members up to #%d\n", max);
   printf("#4 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/^\#. /\# /g' > CWOps_db.txt
-echo "CWOps_db.txt created"
-unix2dos -q CWOps_db.txt
+}' < $1 | sort | sed 's/^\#. /\# /g' > $DBFILE
+echo $DBFILE "created"
+unix2dos -q $DBFILE
 exit

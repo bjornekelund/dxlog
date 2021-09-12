@@ -1,3 +1,5 @@
+#!/bin/bash
+XDTFILE=CWOps.xdt
 gawk '
 BEGIN {
   FS=","
@@ -9,8 +11,8 @@ BEGIN {
     printf("%s %s #%s %s\n", $1, $2, $3, $4);
   }
 }
-END { 
-}' < $1 | sed 's/  / /g' | sort | more > CWOps.xdt
-echo "CWOps.xdt created"
-unix2dos -q CWOps.xdt
+END {
+}' < $1 | sed 's/  / /g' | sort > $XDTFILE
+echo $XDTFILE "created"
+unix2dos -q $XDTFILE
 exit

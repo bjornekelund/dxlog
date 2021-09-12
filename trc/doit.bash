@@ -1,5 +1,9 @@
 #!/bin/bash
-dos2unix TRCDX.txt
+cd $(dirname $0)
+FILE=`ls TRCDX* | tail -1 2> /dev/null`
+echo Using file $FILE
+dos2unix -q $FILE
+DBFILE=TRC_db.txt
 gawk '
 BEGIN {
   FS=","
@@ -15,8 +19,8 @@ END {
   printf("#0 TRC members database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < TRCDX.txt | sort | sed 's/^\#. /\# /g' > TRC_db.txt
+}' $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 
-echo "TRC_db.txt created"
-unix2dos TRC_db.txt
+echo $DBFILE "created"
+unix2dos -q $DBFILE
 exit
