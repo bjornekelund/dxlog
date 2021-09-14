@@ -1,5 +1,20 @@
 #!/bin/bash
-dos2unix $1
+
+DBFILE=HSC_db.txt
+XDTFILE=hsc.xdt
+
+curl -s https://hsc.dj1yfk.de/db/HSC_db.txt --output HSC_db.txt
+curl -s https://hsc.dj1yfk.de/db/hsc.xdt --output hsc.xdt
+
+echo Downloaded $DBFILE and $XDTFILE
+
+exit
+
+INFILE=HSCCW.txt 
+OUTFILE=HSC_db.txt
+
+dos2unix -q $1
+echo Processing $INFILE...
 gawk '
 BEGIN {
   FS=","
@@ -16,7 +31,10 @@ BEGIN {
 END { 
   printf("#0 HSC Member numbers data base.\n");
   printf("#1 Last updated %s.\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/#./#/g' | more > HSC_db.txt
-echo "HSC_db.txt created"
-unix2dos HSC_db.txt
+}' $INFILE | sort | sed 's/#./#/g' > $OUTFILE
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
 exit
+
+
+

@@ -1,9 +1,11 @@
 #/bin/bash
 cd $(dirname $0)
-INFILE=`ls bcc-mem* 2> /dev/null`
+INFILE=bcc-members.txt
 OUTFILE=BCC-regex.txt
 
-echo Using $INFILE
+wget --no-hsts http://www.bavarian-contest-club.de/members/bcc-members.txt -O $INFILE
+
+echo Parsing $INFILE...
 dos2unix -q $INFILE
 
 gawk '
