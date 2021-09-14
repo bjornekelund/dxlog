@@ -1,5 +1,5 @@
 SOURCE=LOCATIONS.txt
-DEST=regex-LOCATIONS.txt
+DEST=regex-valid-locations.txt
 
 echo Using $SOURCE
 dos2unix -q $SOURCE
