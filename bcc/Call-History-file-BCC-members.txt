@@ -1,4 +1,4 @@
-﻿# TITLE BCC Member Names N1MM
+# TITLE BCC Member Names N1MM
 #Last Edit,2021-09-13
 !!Order!!,Call,Misc,UserText
 AJ9C,member,Michael (Mike)
