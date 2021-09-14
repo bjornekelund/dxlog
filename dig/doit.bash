@@ -1,8 +1,12 @@
-#bin/bash
+#!/bin/bash
+cd $(dirname $0)
+FILE=`ls DIGLI* | tail -1 2> /dev/null`
+echo Using $FILE
+OUTFILE=DIG_db.txt
 
-dos2unix $1
+dos2unix -q $FILE
 
-cat $1 | sed 's/\"//g' |
+cat $FILE | sed 's/\"//g' |
 gawk '
 BEGIN {
   FS=","
@@ -18,9 +22,9 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
-}' | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > DIG_db.txt
+}' | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
 
-unix2dos DIG_db.txt
-echo "DIG_db.txt created"
+unix2dos -q $OUTFILE
+echo $OUTFILE "created"
 
 exit

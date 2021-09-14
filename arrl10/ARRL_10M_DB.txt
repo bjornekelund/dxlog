@@ -1,6 +1,6 @@
 # ARRL 10m database
-# Based on call history data by Claude VE2FK ve2fk@arrl.net
-# File created by SM7IUN on 2020-12-12
+# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# File last updated 2021-09-13
 4U1WB=MD
 AA0A=MO
 AA0AA=NE

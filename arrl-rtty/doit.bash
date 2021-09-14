@@ -1,5 +1,10 @@
-#bin/bash
-dos2unix $1
+#!/bin/bash
+cd $(dirname $0)
+INFILE=`ls ARRLR* | tail -1 2> /dev/null`
+echo Using $INFILE
+OUTFILE=ARRL_RTTY_db.txt
+
+dos2unix -q $INFILE
 gawk '
 BEGIN {
   FS=","
@@ -9,14 +14,14 @@ BEGIN {
     printf("%s=%s\n", $1, $3);
   }
   else
-    printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
   printf("#0 ARRL RTTY database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/^\#. /\# /g' > ARRL_RTTY_db.txt
+}' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo "ARRL_RTTY_db.txt created"
-unix2dos ARRL_RTTY_db.txt
+echo $OUTFILE created
+unix2dos -q $OUTFILE
 exit

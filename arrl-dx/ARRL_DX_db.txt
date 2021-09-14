@@ -1,6 +1,6 @@
 # ARRL DX database
-# Based on call history data by Claude VE2FK ve2fk@arrl.net
-# File created by SM7IUN on 2021-03-04
+# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# File updated 2021-09-13
 2E0CVN=50
 3V8SS=100
 3Z1K=100

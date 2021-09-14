@@ -1,6 +1,6 @@
 # ARRL Field Day participants database
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# Updated 2021-06-28
+# Updated 2021-09-13
 7L4IOU=1D;DX
 AA0AC=1D;MN
 AA0B=1D;MO

@@ -1,3 +1,6 @@
+#!/bin/bash
+OUTFILE=BERU.xdt
+
 gawk '
 BEGIN {
   FS=","
@@ -20,7 +23,7 @@ BEGIN {
   }
 }
 END {
-}' < $1 | sed 's/  / /g' | sort | more > BERU.xdt
-echo "BERU.xdt created"
-unix2dos BERU.xdt
+}' < $1 | sed 's/  / /g' | sort > $OUTFILE
+echo $OUTFILE "created"
+unix2dos -q $OUTFILE
 exit

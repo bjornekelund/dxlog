@@ -1,4 +1,4 @@
-﻿!!Order!!,Call,State,UserText
+!!Order!!,Call,State,UserText
 # EA/Spain prov.
 # Validos para:Nacional Fonia y Otros
 # Recopilados por EA7A

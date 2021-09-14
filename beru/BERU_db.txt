@@ -1,6 +1,6 @@
 # BERU HQ stations database
-# Based on data collected by Claude VE2FK
-# File created by SM7IUN on 2021-03-10
+# Based on data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# File updated 2021-09-13
 AT1HQ=HQ
 AT3T=HQ
 G3DR=HQ

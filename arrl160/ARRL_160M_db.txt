@@ -1,6 +1,6 @@
 # ARRL 160m database - ARRL/RAC sections
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# File last updated 2021-06-27
+# File last updated 2021-09-13
 4U1WB=MDC
 AA0A=MO
 AA0AA=NE

@@ -1,21 +1,16 @@
-#/bin/bash
+#!/bin/bash
 cd $(dirname $0)
-FILE=`ls FD* 2> /dev/null`
-USEDFILE=used-$FILE
+INFILE=`ls FD* | tail -1 2> /dev/null`
 OUTFILE=ARRL_FD_db.txt
+echo Using $INFILE
+dos2unix -q $INFILE
 
-echo FILE=\"$FILE\"
-echo USEDFILE=$USEDFILE
-if [ -n "$FILE" ]; then
-  dos2unix $FILE
-#bin/bash
-gawk '
+cat $INFILE | gawk '
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
-   printf("$1=%s $2=%s $3=%s\n", $1, $2, $3) > "/dev/stderr";
-   
+#   printf("$1=%s $2=%s $3=%s\n", $1, $2, $3) > "/dev/stderr";
    if ($1 ~ /^[0-9A-Z]/ && $2 != "" && $3 != "")
      printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
    else
@@ -25,12 +20,7 @@ END {
   printf("#0 ARRL Field Day participants database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
-}' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
-echo $OUTFILE "created"
-unix2dos $OUTFILE
-#  mv $FILE $USEDFILE
-else
-  echo Nothing
-fi
-echo --- Done
+}' | sort | sed 's/^\#. /\# /g' > $OUTFILE
+echo $OUTFILE created
+unix2dos -q $OUTFILE
 exit

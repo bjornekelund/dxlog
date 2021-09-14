@@ -1,6 +1,6 @@
 # ARRL RTTY database
-# Based on call history data by Claude VE2FK ve2fk@arrl.net
-# File created by SM7IUN on 2021-01-05
+# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# File updated 2021-09-13
 4U1WB=DC
 AA0A=MO
 AA0AI=IA
