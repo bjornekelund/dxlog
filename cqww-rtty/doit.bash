@@ -1,22 +1,27 @@
-#bin/bash
-dos2unix CQWWRTTY.txt
+#!/bin/bash
+cd $(dirname $0)
+INFILE=`ls CQWWRTTY* | tail -1 2> /dev/null`
+OUTFILE=CQWWR_db.txt
+echo Using $INFILE
+
+dos2unix -q CQWWRTTY.txt
 gawk '
 BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 != "") {
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~ /CT|MA|ME|NH|RI|VT|NJ|NY|DE|PA|MD|DC|AL|FL|GA|KY|NC|SC|TN|VA||AR|LA|MS|NM|OK|TX|CA|AZ|ID|MT|NV|OR|UT|WA|WY|MI|OH|WV|IL|IN|WI|CO|IA|KS|MN|MO|ND|NE|SD|NB|NS|NF|PEI|LB|QC|ON|MB|SK|AB|BC|NU|NWT|YT/) {
     printf("%s=%s\n", $1, $3);
   }
   else
-    printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
 }
 END { 
-  printf("#0 CQ 160M database - States and provinces but AK HI PR VI not listed as state.\n");
+  printf("#0 CQ WW RTTY database - States and provinces but AK HI PR VI not included.\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
-}' < CQWWRTTY.txt | sort | sed 's/^\#. /\# /g' > CQWWR_db.txt
+}' < $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo "CQWWR_db.txt created"
-unix2dos CQWWR_db.txt
+unix2dos -q $OUTFILE
+echo $OUTFILE "created"
 exit
