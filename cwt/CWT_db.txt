@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3014
-# File last updated 2021-09-15
+# File last updated 2021-09-16
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -433,6 +433,7 @@ DF7TV=Tom;2613
 DF8LY=Sven;DL
 DF9TF=Rich;2493
 DG3BCZ=Florian;DL
+DH0GSU=Uwe;DL
 DH4NWG=Martin;DL
 DJ0AJ=Ekrem;DL
 DJ0MCH=Relly;409
@@ -3525,6 +3526,7 @@ OE7LVI=Viktor;OE
 OE8DEK=Gerald;OE
 OE9TXF=Nigel;166
 OE9WGI=Walt;2635
+OF5ZA=Zaba;1856
 OH/UX1HW/M=Art;1890
 OH0XX=Olli;328
 OH1NOA=Timo;2967
