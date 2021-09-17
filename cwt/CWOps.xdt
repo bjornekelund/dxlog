@@ -73,6 +73,7 @@ AB0TX Mike #2507 Halstead KS
 AB1BX Andy #2191 Warren RI
 AB1CW Howard #1117 Tyngsboro MA
 AB1GJ Ken #161 Duxbury MA
+AB2E Darrell #1305 Monroeville NJ
 AB4PP JP #2572 (John) Four Oaks NC
 AB5EB Mike #2115 New Braunfels TX
 AB5M Scott #2738 Grencoe OK
@@ -137,6 +138,7 @@ AE6Y Andy #38 Monte Sereno CA
 AE7EU Martin #2725 Bend OR
 AE7US Rocky #1781 Portland OR
 AF1E Joe #2605 Conover NC
+AF1Z Mark #258 O'Brien FL
 AF3K John #2186 Naples FL
 AF4NC Tom #1521 Yardley PA
 AF4QK Ken #2746 Stedman NC
@@ -157,13 +159,12 @@ AG5M Richard #1747 Richland WA
 AG5QX Mike #2401 Houston TX
 AG6V Donna #911 Petaluma CA
 AG7TX Dave #2861 Carson Coty NV
-AG8O MATT #1586 Columbus OH
 AG9A Mark #641 Lincolnwood IL
+AH0AA Gary #1949 Bigfork MT
 AH0U Bruce #1825 Pittsburg CA
 AH6KO Stan #1794 Keaau HI (Big Island)
 AH6RE Curt #830 Keaau HI
 AH6VV Carl #2300 Honolulu HI
-AI4YG Bob #2632 (IK1HGE)
 AI6O Ed #1337 Grain Valley MO
 AI6V Wyatt #2242 Lakewood CA
 AJ1DM John #1973 Westerly RI
@@ -176,14 +177,15 @@ AJ6DU Ted #2269 San Jose CA
 AJ6ET Ed #2935 Moreno VAlley CA
 AJ6GI Jaime #2465 Portola Valley CA
 AJ8B Bill #1567 Waynesville OH
+AJ9C Mike #741 Marion IN
 AK4AO Doug #2145 Annandale VA
 AK4AT John #2391 Willis VA
 AK4NY Tom #1544 Dahlonega GA
 AK4SQ Dan #1296 Lynchburg VA
 AL1G Corliss #2161 Anchorage AK
 AO1AAW Juanjo #714 Asturias Spain (EA1WX)
+BA1RB Bin #564 Beijing China
 BA4TB Dale #259 Wuxi China
-BH4EPL Bruce #2297 (KN8U)
 C6AQQ Brian #302 Mt.Airy MD
 C6AUM Mike #1182 K4RUM in Bahamas
 C6AYW Steve #2289 Bahamas WA8Y
@@ -214,6 +216,7 @@ DF1PY Steve #2502 Grafschaft Germany
 DF3IAL Andy #176 (SM6CNN) Nieder-Olm Germany
 DF4XX Kurt #1753 Barsbuettel Germany
 DF4ZL Paul #2707 Moerfelden-Walldorf Germany
+DF5EG Joe #2687 Weeze Germany
 DF7TV Tom #2613 Stuttgart Germany
 DF9TF Rich #2493 Neuenburg Germany
 DJ0MCH Relly #409 Stuttgart Germany
@@ -310,7 +313,6 @@ EF8M Val #536 Canary Island (UA3DX)
 EF8N Andy #265 El Sauzal Canary Island
 EF8O Heijo #425 Puerto de Cruz Canary Islands
 EF8R Juan #850 Gran Canaria Canary Islands
-EH/N3JT JIM #1 Europe
 EI2CN Doug #1503 Ireland
 EI2IM Don #55 Virginia Beach VA (W4ZYT)
 EI6FR Declan #2811 Dublin Ireland
@@ -415,6 +417,7 @@ GM4WZG Bernie #2689 Dalgety Bay Scotland
 GU4CHY Dick #1543 Channel Islands Guernsey
 GW0ETF Stew #919 Bangor Wales (CWops President)
 GW0KRL Ian #2896 Anglesey Wales
+GW3KGV Ken #171 Welshpool Powys Wales
 GW3YDX Ron #100 Four Crosses Wales
 GW4J Stew #919 Wales (GW0ETF) (CWops President)
 GW4MM Tim #2755 
@@ -446,6 +449,7 @@ HB9EGA Marcin #2047 Zurich Switzerland
 HB9FIR Clay #598 Oriolo Romano Italy
 HC2TDZ Yuri #21 Ecuador (VE3DZ)
 HI3CC Tino #1780 Dominican Repuplic
+HK3CQ Juan #888 Miami FL USA
 HK3CW Roberto #877 Miami FL USA
 HP/VE1RM Gerry #191 (W1VE)
 HP/W1VE Gerry #191 (W1VE)
@@ -468,8 +472,9 @@ IK0HBN Sante #617 Bassano in Teverina Italia
 IK0NOJ Dany #1732 Roma Italia
 IK0XCB Clay #598 Roma Italia (SC-EU Amb.)
 IK0XFD Giordano #1570 Roma Italy
+IK0YGJ Carlo #574 Rome Italia
 IK0YVV Marco #1505 Terni Italia
-IK1HGE Bob #2632 Almese Italy (AI4YG)
+IK1HGE Bob #2632 Almese Italy
 IK1WNO Enrico #2525 Genova Italy
 IK1YRA Carl #2866 Torino Italy
 IK2WAD Joe #2200 (Giosue) Zanica Italia
@@ -677,6 +682,7 @@ K2TT Bill #586 Bedford Hills NY
 K2TW Tom #2000 Frenchtown NJ
 K2UA Rus #2121 Springwater NY
 K2UFT Dick #209 Dunwoody GA
+K2UV Warren #533 Suffern NY
 K2VV John #2292 Moscow Mills MO
 K2WK Walt #444 Gordonsville VA
 K2XA Saul #347 Slingerlands NY
@@ -709,6 +715,7 @@ K3JT Terry #1398 Morgantown WV
 K3LR Tim #943 West Middlesex PA
 K3MD John #750 Winfield PA (NE-US Amb.)
 K3MM Ty #114 Damascus MD
+K3NL Nick #375 Drexel Hill PA
 K3OX Kevin #2024 Ewing NJ
 K3PA Drew #1046 Tonganoxie KS
 K3PH Bob #2195 Kresgeville PA
@@ -788,12 +795,15 @@ K4RB Bob #236 Cardiff by the Sea CA
 K4RO Kirk #387 Pegram TN
 K4RUM Mike #1182 New York NY
 K4SX Ron #810 Wright City MO
+K4TD Rick #1081 Harvest AL
 K4TZ Tom #1993 Bowling Green KY
+K4UEE Bob #543 Marietta GA
 K4WJ John #193 Trenton FL
 K4WW Bo #2017 Louisville KY
 K4XU Dick #1083 Bend OR
 K4YFH Jim #1711 Lumberton NC
 K4YYL Art #1177 Greenville SC
+K4ZA Don #298 Charlotte NC
 K4ZGB Tom #468 Northport AL
 K4ZLE Jay #562 Lebanon OH
 K5AB Alan #299 Goldthwaite TX
@@ -807,6 +817,7 @@ K5EDM Greg #1967 Benton AR
 K5ESW Paul #2665 Raleigh NC
 K5FNQ Art #795 Lafayette LA
 K5FP Fred #392 Marble Falls TX
+K5GA Bill #1485 Houston TX
 K5GH George #1071 Greenwood TX
 K5GM Pete #322 Austin TX
 K5GO Stan #272 Harrison AR
@@ -849,6 +860,7 @@ K5WA Bob #1280 Houston TX
 K5WAF Bill #651 Conroe TX
 K5WK Ken #1446 Hattiesburg MS
 K5WSN Bill #2848 Branbury TX
+K5XK Ron #976 Bella Vista AR
 K5XQ Bud #2905 Vernon AL
 K5XU Mike #1584 Jackson MS
 K5YQF Cecil #1370 Killen TX
@@ -885,6 +897,7 @@ K6RB/7 Rob #3 Reno on a Buddipole
 K6RQT Ryan #1172 Shell Beach CA
 K6RR Bob #1412 Fountain Valley CA
 K6RV Don #1877 Cedar Park TX
+K6SRZ Alan #36 Penngrove CA
 K6SSS Fred #691 Rancho Cucamonga CA
 K6TD Kevin #81 Cupertino CA
 K6TOR Rick #2732 San Frisco CA
@@ -966,6 +979,7 @@ K8LBQ Bain #2320 Columbus GA (Occ. QRP)
 K8LSB Marc #1447 West Hartford CT
 K8MP Joe #2415 Delaware OH
 K8MR Jim #2533 Chagrin Falls OH
+K8NA Ted #365 Troy MI
 K8NZ Ron #2119 Columbus Ohio
 K8OD Joe #1484 West Branch MI
 K8OIP Scott #2858 Farmington NM
@@ -1078,6 +1092,7 @@ KC9JVB Bob #2606 Vancouver WA
 KC9K Dave #1875 Knoxville IL
 KC9MJA Dan #2929 Weldon Spring >MO
 KD0NPM Rich #2295 Niskayuna NY
+KD2E Dave #2420 Toms River NJ
 KD2FSH Jerry #1918 Ferfield NJ
 KD2KW Ken #2478 Oak Point TX
 KD2QDD Don #2922 Saugerties NY
@@ -1098,6 +1113,7 @@ KE1B Rich #735 Los Gatos CA
 KE1F Louis #769 Palm Coast FL
 KE1J Lars #2037 South Kingstown RI
 KE2D Bob #1796 Ewing NJ
+KE3X Ken #460 Washington DC
 KE4D John #1688 Lesburg FL
 KE4KY Tom #1763 Fisherville KY
 KE4RG Ken #1765 Gretna VA (Occ. QRP)
@@ -1110,6 +1126,7 @@ KE8AQW Mike #2883 Plymouth MI
 KE8G Jim #1616 Parma OH
 KE8G/5 Jim #1616 Texas
 KE9SA Chuck #2972 Oshkosh WI
+KF3B Alan #2754 Alburtis PA
 KF4A Don #1666 Waycross GA
 KF6C Brian #2834 South New Berlin NY
 KF6COZ Rik #2938 Burlingame CA
@@ -1132,6 +1149,7 @@ KG5RXG Mike #2643 Austin TX
 KG5U Dale #1241 Houston TX
 KG5VK Steve #1806 near Ben Franklin TX
 KG6IIP Paco #1313 Grants Pass OR
+KG6N Frank #1910 Sonoma CA
 KG6NRV Bill #2639 Morro Bay CA
 KG7A Ron #1939 Mesa AZ
 KG7YU Gordo #2996 Benton City WA
@@ -1186,8 +1204,10 @@ KK6ZHK Ken #2686 Sedona AZ
 KK7A Jim #1975 Meridian ID (Occ. remote CT)
 KK7L John #2599 Saratoga UT
 KK9DX Cornel #256 Algonquin IL
+KK9H Don #480 Northfield IL
 KK9V Mike #1647 Trafalgar IN
 KL/K3GHH John #1212 Anchorage
+KL2A Jon #77 Anchorage AK
 KL3W Tom #1461 Palmer AK
 KL7/K3GHH John #1212 AK
 KL7IXW Ward #2457 Fairbanks AK
@@ -1214,7 +1234,7 @@ KN4VV John #2331 Fairfax VA
 KN4YRM Randon #2930 Plantation FL
 KN6IPE Dennis #2928 Half Moon Bay CA
 KN7T Mark #2274 Snohomish WA
-KN8U Bruce #2297 Atlanta GA (BH4EPL)
+KN8U Bruce #2297 Atlanta GA
 KO4AXD Brian #2745 Suffolk VA
 KO8SCA Adrian #2408 Bayside NY
 KP2/K3CT John #466 
@@ -1237,6 +1257,7 @@ KR4AE Alan #1460 Cleveland GA (Full Time QRP K3/10 @ 5w)
 KR4TH Jerry #2128 Ooltewah TN
 KR7C Stan #1021 Aspen CO
 KR7RK Keith #746 Tucson AZ
+KR8V Gary #1043 Clinton Township MI
 KS5A Guff #391 Mesa AZ
 KS9W Bob #2219 Cimarron CO
 KS9W/5 Bob #2219 
@@ -1264,9 +1285,11 @@ KX3H Tony #2900 Waukesha WI
 KX4FZ Terry #2737 Bradenton FL
 KX4KU Kevin #1978 Boston VA
 KX6A Mike #1782 Newport Beaach CA
+KX9DX Rick #1074 Springfield IL
 KX9X Sean #683 West Hartford CT
 KY0Q Rick #2703 Hoffman Estates IL
 KY2D Jim #2096 Morristown NJ
+KY4F Doug #847 Athens AL
 KY7M Lee #84 Phoenix AZ
 KY9I Jay #2341 Paducah KY
 KZ5D Art #12 New Ibria LA (CWops Vice-Pres. Activities + Events)
@@ -1293,6 +1316,7 @@ LZ1ZF Gosho #2824 Stara Zagora Bulgaria
 LZ2NG Darin #2876 Balchik Bulgaria
 LZ5DB Milen #2393 Kazanlak Bulgaria
 LZ5R Milen #2393 Plovdiv Bulgaria (LZ5DB)
+M0AGA Kevin #19 Sutton in Ahfield England
 M0BEW Tim #2985 ShropshireEngland
 M0CDL John #2965 Kingswinford England
 M0DHP Ray #2090 (M2U) Thames Ditton England
@@ -1354,6 +1378,7 @@ N1DC/4 Rick #1257
 N1DG Don #2 Duxbury MA (CWops Educ. Committee + WEB)
 N1EN Mike #1247 Windsor CT
 N1FG Larry #2012 ex:KJ1RE Deerfield NH
+N1GKE Myrt #929 Hope RI
 N1KW Bob #1022 Homer Glen IL
 N1LN Bruce #1141 Chapel Hill NC (CWOpen Adm.)
 N1RBD Rich #2983 Duluth GA
@@ -1361,6 +1386,7 @@ N1RM Rick #2659 Reston VA
 N1RR Charlie #2631 Seekonk MA
 N1SNB Jeff #2748 Haverhill MA
 N1TO Ed #685 Sebastian FL
+N1TX Larry #912 Fairbanks AK
 N1VH Marty #1927 Braintree MA
 N1XS Chris #1817 Dallas TX
 N1YL Anne #2933 Greenfield MA
@@ -1381,6 +1407,7 @@ N2IC Steve #1790 Hanover NM
 N2JFD Jim #1785 Sound Beach NY
 N2JJ Jim #1128 Galway NY
 N2JT Jack #640 Phillipsburg NJ
+N2KW Allen #421 New York NY
 N2MA Al #2827 Mars PA
 N2NC John #2180 Howell NJ
 N2NL Dave #424 Mobile AL
@@ -1416,12 +1443,14 @@ N3IQ Brian #302 Mt Airy MD
 N3JT Jim #1 Mclean VA and FL (CWops Secretary)
 N3KS Kam #146 Towson MD
 N3MM Harry #2804 Lynchburg VA
+N3MNT Bob #1292 Annapolis MD
 N3ND Dan #189 Wake Forest NC
 N3OC Brian #2944 Brookeville MD
 N3QE Tim #1223 Bethesda MD
 N3RC Roger #429 Sebastopol CA
 N3RD Dave #232 Phoenixville PA
 N3RS Sig #34 Glenmoore PA
+N3RSD Frank #1054 Wilmington DE
 N3SD Greg #1768 Aliquippa PA
 N3SW Scott #2397 Cumberland PA
 N3WT John #185 Jefferson MD
@@ -1434,6 +1463,7 @@ N4AF Howie #132 Blounts Creek NC
 N4AO Jeff #1715 Plaant City FL
 N4ARY Aaron #2759 Bonaire GA
 N4BA Fred #2221 Great Falls VA
+N4BAA Jose #1036 Warrington PA
 N4BP Bob #2463 Plantation FL
 N4CD Bob #1928 Plano TX
 N4CJ Chris #1294 Sebring FL (G4BUE and G4E)
@@ -1488,6 +1518,7 @@ N4WO Greg #1511 Brooksville FL
 N4XL Ken #2356 Greenwood SC
 N4YA Chris #1657 Douglasville GA
 N4YDU Nate #445 Youngsville NC
+N4YG Joe #820 Huntsville AL
 N4ZH Terry #2337 Annandale VA
 N4ZR Pete #1277 Phoenix MD
 N4ZZ Don #902 Nashville TN
@@ -1563,8 +1594,8 @@ N6WIN Tim #1942 Alta Coma CA
 N6WM Chris #688 Fremont CA
 N6XI Rick #4 Truckee CA
 N6ZFO Bill #101 Kelseyville CA
+N7DRW Bud #2246 Bellevue WA
 N7DX Tony #2764 Camano Island WA
-N7EE Gary #1949 Bigfork MT
 N7HRK Rick #1169 Libby MT
 N7ID Mike #2310 Troy ID
 N7IV Joe #1340 Minot ND
@@ -1582,6 +1613,8 @@ N7RD Ron #1551 Sun City AZ
 N7RR Bruce #846 Blaine WA
 N7SU Dan #2283 (Daniel) Phoenix AZ 
 N7TB Terry #1999 Corvallis OR
+N7TR Rich #95 Reno NV
+N7TX Steve #571 Cave Creek AZ
 N7US Jim #486 Woodstock IL
 N7WY Bob #1406 Cheyenne WY
 N7YT Bill #1271 Seabeck WA
@@ -1773,12 +1806,12 @@ OE5TXF Nigel #166 (G3TXF) near Wels Austria
 OE6FYG Herb #1661 Fuerstenfeld Austria
 OE9TXF Nigel #166 (G3TXF) Vorarberg Austria
 OE9WGI Walt #2635 Neuziders Austria
-OF5ZA Zaba #1856 
 OH/UX1HW/M Art #1890 Mobile
 OH0XX Olli #328 Jaali Finland
 OH1NOA Timo #2967 Pori Finland
 OH1RX Jouko #608 Salo Finland
 OH1SIC GI #2094 (SM5SIC) Finland
+OH1VR Seppo #153 Tampere Finland
 OH1ZAA Zaba #1856 Pori Finland (Also OH5ZA OH3BCX)
 OH2BN Jarmo #135 Helsinki Finland
 OH2BR Jukka #616 Mantsala Finland
@@ -1827,6 +1860,7 @@ OZ1JHM Jal #1420 Lundby Denmark
 OZ3SM Steve #2361 Horsholm Denmark
 P40LE Andy #39 Aruba (also K2LE)
 PA0ABM Wino #2890 Huijbergen Netherlands
+PA0HOP Hans #414 Leuth Netherlands
 PA0INA Frans #443 Goes Netherlands
 PA0JLS Hans #849 Liederdorp Netherlands
 PA0Q Hans #386 Zieuwent Netherlands
@@ -2028,6 +2062,7 @@ VE2IR Don #1822 Asbestos QC
 VE2JCW Jean #2640 St-Jerome QC
 VE2KM Tony #2424 Dollard-Des-Ormeaux QC
 VE2MF Mario #2556 Victoriaville QC
+VE2PID Pierre #1278 Sherbrooke QC
 VE2SRP Simon #2144 (VE2ZM) St Joseph du Lac QC
 VE2ZM Simon #2144 (VE2SRP) St-Joseph-du-Lac QC
 VE3ABN Les #1701 Mississauga ON (VE3NNT)
@@ -2110,6 +2145,7 @@ VQ9JC Jim #389 Panama City Beach FL USA
 VQ9LA Larry #644 Grandview MO USA
 VU2PTT Prasad #615 BAngalore India
 W0AAE Bob #2947 Maple MN
+W0AD Paul #1977 Elden Prairie MN
 W0AG Mike #1317 Crossville TN
 W0BH Bob #669 Hesston KS
 W0BV Bob #753 Buena Vista CO
@@ -2185,6 +2221,7 @@ W2GN Chas #1265 Buff Point NY
 W2HZ Fred #2648 Tucson AZ
 W2ITT Rob #2948 Huntington NY
 W2JAZ Rick #2239 Cherry Hill NJ
+W2LB Larry #906 Farmington NY
 W2LCQ Ed #701 New York NY
 W2LJ Larry #1005 South Plainfield NJ
 W2LK Les #726 Ulster Park NY
@@ -2210,6 +2247,7 @@ W2YH Carl #2384 Franklin NJ
 W2YR John #751 Avon by the Sea NJ
 W2ZRA Kevin #942 Cutchogue NY
 W3AC Dave #1235 Forest VA
+W3ATT Brian #1301 Bayse VA
 W3BG Jim #2892 Aliquippa PA
 W3BI Rick #794 Allentown PA
 W3BW Brian #567 Key West FL
@@ -2255,6 +2293,7 @@ W4CMG Cathy #2988 Nashville TN
 W4DDD Jim #806 Orange Park FL
 W4DKS Dan #321 Centreville VA
 W4DXX Eric #1040 Bainbridge GA
+W4EDE Lee #30 Miami Beach FL
 W4ER John #1189 Mobile AL (KX2 5w to attic ant. or /p)
 W4FKM Claude #1342 Bristol TN
 W4FOA Tony #229 Chickamauga GA
@@ -2274,6 +2313,8 @@ W4NBS Tom #1696 Trinity AL
 W4NF Jack #2360 Manassas VA
 W4NU John #760 Atlanta GA
 W4NZ Ted #831 Chattanooga TN
+W4OI Tony #553 Meadows of Dan VA
+W4PA Scott #102 Knoxville TN
 W4PF Steve #2056 Louisville KY
 W4PM Puck #93 Mechanicsville VA
 W4QN Norm #1937 Jupiter FL
@@ -2322,6 +2363,7 @@ W5MJ Madi #1479 Cedar Park TX (Occ. QRP)
 W5MT Matt #1868 Murphy TX
 W5MX Bryan #2258 BEREA KY
 W5NE Alex #2141 Tyler TX
+W5OV Bob #1760 Cuyahoga Falls OH
 W5PET Dick #2316 Louisville KY
 W5RZ Dennis #1352 Dover AR
 W5SG Bill #45 Spring TX
@@ -2383,6 +2425,7 @@ W7JET Brian #2993 Apache Jonction AZ
 W7JRD Jim #2994 Hope ID
 W7KF Doug #2183 Whitefish MT
 W7KFI Susan #2275 Gulfport MS
+W7KXB Bill #1042 Apache Junction AZ
 W7LG Mike #2682 Lewistown PA (Occ. QRP)
 W7LXN Myron #1166 Gilbert AZ
 W7OLY Aubrey #1637 Olympia WA
@@ -2396,6 +2439,7 @@ W7RN Tom #108 VC Highlands NV (K5RC)
 W7RX Scott #2034 Eugene OR
 W7SAG John #1582 Eagle ID (Occ. QRP)
 W7SAG/0 John #1582 
+W7SW #143 (Scotty) Sun City West AZ
 W7UT Bob #200 St-George UT
 W7VQ Rick #2441 N Salt Lake UT
 W7XT Dick #2004 Missoula MT
@@ -2448,15 +2492,18 @@ W9OP Mark #1067 Neenah WI
 W9PJ Paul #1359 Roscoe IL
 W9RE Mike #526 Indianapolis IN
 W9RNY Mike #2199 Jacksonville IL
+W9SN Steve #642 Allardt TN
 W9SZ Zack #731 Urbana IL
 W9TD Gary #2998 Lake Villa IL
 W9UCR Bob #1907 Cape Coral FL
 W9VE Don #2099 Dallas TX
+W9VNE Jim #214 Cincinnati OH
 W9WR John #2134 Floyds Knobs IN
 W9XA Kermit #1094 Batavia IL
 W9XS Ron #1731 Willowbrook IL
 W9YA Bob #289 Albuquerque NM
 W9YK Todd #2509 Elmhurst IL
+W9ZR Randy #740 Galena OH
 WA0USA Vic #645 Palm Beach Gardens FL
 WA1BXY Don #2601 Tiverton RI
 WA1NTA George #499 Saugus MA
@@ -2467,6 +2514,7 @@ WA1VAB Henry #1839 Littleton MA
 WA1X Bud #2427 Medina OH
 WA2BCK Tom #762 Great Falls VA
 WA2DFI Scotty #164 Tempe AZ
+WA2MBP Jim #773 Marietta GA
 WA2OAX Ira #534 Liberty NY
 WA2SI Bert #842 Port Jefferson NY
 WA2USA Dennis #819 Newburgh IN
@@ -2475,6 +2523,7 @@ WA3AER Ted #1879 Baltimore MD
 WA3GM Greg #1827 Cheltenham PA
 WA3JJT Steve #2914 Mc Kean PA
 WA3MIX Lou #1308 Williamsport PA
+WA3NZR John #1028 Lancaster PA
 WA3QNT Bob #1687 Franklin PA
 WA4JUK Joe #1702 Spotsvania VA
 WA4PGM Kyle #255 Farmville VA
@@ -2519,6 +2568,7 @@ WB2UZE How #1361 Manhasset NY
 WB2WGX Rich #2630 Buffalo NY
 WB2YQH Bob #246 Spring Brook NY
 WB4AEG Hal #1646 Adairsville GA
+WB4AQL Mike #498 Chickamauga GA
 WB4DNL Gary #497 Virginia Beach VA
 WB4FDT Pip #916 Baltimore MD
 WB4FSF Bonnie #734 Sanford FL
@@ -2552,6 +2602,7 @@ WC6Y Ken #2155 Scotts Valley CA
 WC7Q Sam #1226 Woodinville WA
 WC7S Dale #404 College Drive Cheyenne WY
 WD4CFN Steve #2228 Nashville TN
+WD4EX Val #1546 Atlanta GA
 WD5DBV Roy #290 Cade LA
 WD6T Dave #2079 Berkeley CA
 WD9F Woody #591 Springfield IL
@@ -2564,6 +2615,7 @@ WG0M Mike #1612 Minnetonka MN
 WG3J Eric #2473 Pittsville MD
 WG5H Curt #1931 Houston TX
 WJ0C Steve #2997 Colorado Springs CO
+WJ1B Harold #752 Cheshire CT
 WJ2O Dave #1093 Mc Connellsville NY
 WJ6O Dave #482 Studio City CA (G3WGN)
 WJ7S John #1582 Saatoga Springs UT (Occ. QRP)
@@ -2583,6 +2635,7 @@ WO1X Tom #1310 Bristol CT
 WO4O Ric #1311 Grand Island FL
 WO6W Bob #2634 Menlo Park VA
 WO9B Mike #2203 New Berlin WI
+WP3C Al #872 Utuado PR
 WP4F Danny #1526 Toa Alta PR
 WQ2E Jack #2054 Schenectady NY
 WQ3E Josy #1135 Norristown PA

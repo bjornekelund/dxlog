@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-09-12
+# Last Edit,2021-09-16
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -155,7 +155,7 @@ AB1MC,Scott,ME,Northport ME
 AB1SG,Kyle,MA,North Adams MA
 AB1WV,Marcus,CT,Bethel CT
 AB1XB,Bill,MA,Harvard MA
-AB2E,Darrell,NJ,Monroeville NJ
+AB2E,Darrell,1305,Monroeville NJ
 AB2EZ,Stu,NJ,Princeton NJ
 AB2SO,Steve,NJ,Ocean City NJ
 AB2ZT,Venkat,NJ,Edison NJ
@@ -284,7 +284,7 @@ AE7US,Rocky,1781,Portland OR
 AE8TF,Tom,MI,Macomb MI
 AF1E,Joe,2605,Conover NC
 AF1R,Leandra,MA,Needham Heights MA
-AF1Z,Mark,FL,O'Brien FL
+AF1Z,Mark,258,O'Brien FL
 AF3K,John,2186,Naples FL
 AF4FG,Earl,GA,Lawrenceville GA
 AF4K,Bry,FL,Sanford FL  (Brian)
@@ -360,7 +360,7 @@ AJ6MQ,Brent,CA,Stockton CA
 AJ7F,Tim,WA,Granite Falls WA
 AJ8B,Bill,1567,Waynesville OH
 AJ8M,Bruce,OH,Medina OH
-AJ9C,Mike,IN,Marion IN
+AJ9C,Mike,741,Marion IN
 AK1MD,Alex,MA,Newton Center MA
 AK4AO,Doug,2145,Annandale VA
 AK4AT,John,2391,Willis VA
@@ -375,7 +375,7 @@ AL7JK,Bill,AK,Eagle River AK
 AL7N,Ed,AK,Fairbanks AK
 AL7R,Brent,AZ,Yuma AZ
 AO1AAW,Juanjo,714,Asturias Spain (EA1WX)
-BA1RB,Bin,,Beijing China
+BA1RB,Bin,564,Beijing China
 BA4TB,Dale,259,Wuxi China
 C6AKQ,Bob,,N4BP in Bahamas
 C6AQQ,Brian,302,Mt.Airy MD
@@ -427,7 +427,7 @@ DF3PN,Guenter,,Weiler Germany
 DF4XX,Kurt,1753,Barsbuettel Germany
 DF4ZK,Gunter,,Wald-Michelbach Germany
 DF4ZL,Paul,2707,Moerfelden-Walldorf Germany
-DF5EG,Joe,,Weeze Germany
+DF5EG,Joe,2687,Weeze Germany
 DF5RF,Gernot,,Schwalbach Germany
 DF5RI,Laft,,no info
 DF6FQ,Juergen,,Kahl a Main Germany
@@ -890,7 +890,7 @@ GU4CHY,Dick,1543,Channel Islands Guernsey
 GW0ETF,Stew,919,Bangor Wales (CWops President)
 GW0KRL,Ian,2896,Anglesey Wales
 GW2CWO,,,(Various users) Bangor Wales 
-GW3KGV,Ken,,Welshpool Powys Wales
+GW3KGV,Ken,171,Welshpool Powys Wales
 GW3NJW,Clive,,CARDIFF
 GW3YDX,Ron,100,Four Crosses Wales
 GW4GNY,Martin,,Wales
@@ -966,7 +966,7 @@ HG8C,Tami,,Sleged Hungary
 HH2AA,,,Radio Club d'Haiti (Remote)
 HI3CC,Tino,1780,Dominican Repuplic
 HK1AR,Tony,,Columbia
-HK3CQ,Juan,,Miami FL USA
+HK3CQ,Juan,888,Miami FL USA
 HK3CW,Roberto,877,Miami FL USA
 HP/VE1RM,Gerry,191,(W1VE)
 HP/W1VE,Gerry,191,(W1VE)
@@ -997,7 +997,7 @@ IK0NOJ,Dany,1732,Roma Italia
 IK0OPS,Piero,,Roma Italy
 IK0XCB,Clay,598,Roma Italia (SC-EU Amb.)
 IK0XFD,Giordano,1570,Roma Italy
-IK0YGJ,Carlo,,Rome Italia
+IK0YGJ,Carlo,574,Rome Italia
 IK0YUJ,Luigi,,Castello Italy
 IK0YVV,Marco,1505,Terni Italia
 IK1HGE,Bob,2632,Almese Italy
@@ -1374,8 +1374,7 @@ K2TW,Tom,2000,Frenchtown NJ
 K2UA,Rus,2121,Springwater NY
 K2UCW,Rich,NY,Cherry Valley NY
 K2UFT,Dick,209,Dunwoody GA
-K2UV,Warren,NY,Suffern NY
-K2UZO,Paul,,
+K2UV,Warren,533,Suffern NY
 K2VV,John,2292,Moscow Mills MO
 K2WDE,Seth,LA,Metaire LA
 K2WK,Walt,444,Gordonsville VA
@@ -1433,7 +1432,7 @@ K3MTR,Tyler,MD,Pasadena MD
 K3NA,Eric,MA,Charlestown MA
 K3NF,Harry,VA,Lorton VA
 K3NG,Goody,PA,Lehighton PA
-K3NL,Nick,PA,Drexel Hill PA
+K3NL,Nick,375,Drexel Hill PA
 K3NM,Joe,PA,Broadheadsville PA
 K3OO,Rick,PA,Wind Gap PA
 K3OOL,Craig,PA,State College PA
@@ -1563,7 +1562,7 @@ K4OV,Rob,1592,Chapel NC
 K4OWR,Bill,TN,Oakdale TN
 K4OY,Greg,2464,Suwanee GA
 K4PI,Mike,1066,Douglasville FA
-K4PQC,Phil,GA,Bishop GA
+K4PQC,Phil,3013,Bishop GA
 K4QPL,Jim,244,Raleigh NC
 K4QS,Chuck,1749,King George VA
 K4QS/M,Chuck,1749,
@@ -1578,9 +1577,9 @@ K4SNE,Mark,AL,Pelham AL
 K4SNX,Bill,NC,Bew Bern NC
 K4SPO,Paul,KY,Lexington KY
 K4SX,Ron,810,Wright City MO
-K4TD,Rick,AL,Harvest AL
+K4TD,Rick,1081,Harvest AL
 K4TZ,Tom,1993,Bowling Green KY
-K4UEE,Bob,GA,Marietta GA
+K4UEE,Bob,543,Marietta GA
 K4VBM,Bob,GA,Peachtree Corners GA
 K4VIZ,Tom,AR,Conway AR
 K4WG,Gene,AL,Birmingham AL
@@ -1597,7 +1596,7 @@ K4XU,Dick,1083,Bend OR
 K4YFH,Jim,1711,Lumberton NC
 K4YJ,Dwight,OH,Lucasville OH
 K4YYL,Art,1177,Greenville SC
-K4ZA,Don,NC,Charlotte NC
+K4ZA,Don,298,Charlotte NC
 K4ZDH,Riley,PA,Gettysburg PA
 K4ZGB,Tom,468,Northport AL
 K4ZLE,Jay,562,Lebanon OH
@@ -1627,7 +1626,7 @@ K5EW,Stan,LA,Broussard LA
 K5FNQ,Art,795,Lafayette LA
 K5FP,Fred,392,Marble Falls TX
 K5FRC,,TX,Bonham TX (Fannin County ARC)
-K5GA,Bill,TX,Houston TX
+K5GA,Bill,1485,Houston TX
 K5GH,George,1071,Greenwood TX
 K5GM,Pete,322,Austin TX
 K5GN,Dave,TX,Houston TX
@@ -1698,7 +1697,7 @@ K5WK,Ken,1446,Hattiesburg MS
 K5WL,Bill,TX,Oak Point TX
 K5WNU,John,MS,Carriere MS
 K5WSN,Bill,2848,Branbury TX
-K5XK,Ron,AR,Bella Vista AR
+K5XK,Ron,976,Bella Vista AR
 K5XQ,Bud,2905,Vernon AL
 K5XS,bernie,AR,Elkins AR
 K5XU,Mike,1584,Jackson MS
@@ -1762,7 +1761,7 @@ K6RM,Barry,NC,Bolivia NC
 K6RQT,Ryan,1172,Shell Beach CA
 K6RR,Bob,1412,Fountain Valley CA
 K6RV,Don,1877,Cedar Park TX
-K6SRZ,Alan,CA,Penngrove CA
+K6SRZ,Alan,36,Penngrove CA
 K6SSS,Fred,691,Rancho Cucamonga CA
 K6TA,Ken,CA,Pine Grove CA
 K6TD,Kevin,81,Cupertino CA
@@ -1906,7 +1905,7 @@ K8MM,Ian,MI,Davison MI
 K8MP,Joe,2415,Delaware OH
 K8MR,Jim,2533,Chagrin Falls OH
 K8MW,Dick,MI,Lake MI
-K8NA,Ted,MI,Troy MI
+K8NA,Ted,365,Troy MI
 K8NS,Mike,FL,Port Orange FL
 K8NU,Carl,OH,Columbus OH
 K8NYG,Gary,WV,Dunbar WV
@@ -2192,7 +2191,7 @@ KD2CAP,Brendan,IL,Long Grove IL
 KD2DC,Mon,NJ,Providence NJ
 KD2DGM,Anthony,NY,Brooklyn NY
 KD2DUL,Steve,NJ,Princeton NJ
-KD2E,Dave,NJ,Toms River NJ
+KD2E,Dave,2420,Toms River NJ
 KD2EHH,Ed,NY,Duanesburg NY
 KD2EPM,Dom,NJ,Marlton NJ
 KD2FSH,Jerry,1918,Ferfield NJ
@@ -2248,7 +2247,7 @@ KE2SX,Gregg,NC,Wake Forest NC
 KE2WY,Bob,NY,Syracuse NY
 KE2YK,Gary,NY,East Yaphand NY
 KE3KK,Ron,MA,Boylson MA
-KE3X,Ken,DC,Washington DC
+KE3X,Ken,460,Washington DC
 KE4D,John,1688,Lesburg FL
 KE4KY,Tom,1763,Fisherville KY
 KE4RG,Ken,1765,Gretna VA (Occ. QRP)
@@ -2279,7 +2278,7 @@ KE8G/5,Jim,1616,Texas
 KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,2972,Oshkosh WI
 KF1P,Bob,SC,Gaffney SC
-KF3B,Alan,PA,Alburtis PA
+KF3B,Alan,2754,Alburtis PA
 KF3G,Sam,PA,Havertown PA
 KF3N,Ray,NC,Fredericksburg VA
 KF4A,Don,1666,Waycross GA
@@ -2334,7 +2333,7 @@ KG5U,Dale,1241,Houston TX
 KG5VK,Steve,1806,near Ben Franklin TX
 KG5YOV,Ben,TX,San Antonio TX
 KG6IIP,Paco,1313,Grants Pass OR
-KG6N,Frank,CA,Sonoma CA
+KG6N,Frank,1910,Sonoma CA
 KG6NRV,Bill,2639,Morro Bay CA
 KG6O,Chris,WA,Bremerton WA
 KG6PB,Jim,MI,Rapid City MI
@@ -2445,11 +2444,11 @@ KK7X,Dennis,ID,Rathdrum ID
 KK8A,Jim,OH,Leavittsburg OH
 KK9DX,Cornel,256,Algonquin IL
 KK9G,Dan,IN,Mishawaka IN
-KK9H,Don,IL,Northfield IL
-KK9N,Ken,IL,no info
+KK9H,Don,480,Northfield IL
+KK9N,Ken,MO,Maryland Heights MO
 KK9V,Mike,1647,Trafalgar IN
 KL/K3GHH,John,1212,Anchorage
-KL2A,Jon,AK,Anchorage AK
+KL2A,Jon,77,Anchorage AK
 KL2KL,Chris,MA,N. Quincy MA
 KL2ZZ,James,AK,Juneau AK
 KL3W,Tom,1461,Palmer AK
@@ -2541,7 +2540,7 @@ KR6N,Bob,CA,El Dorado Hills CA
 KR7C,Stan,1021,Aspen CO
 KR7RK,Keith,746,Tucson AZ
 KR7X,Hank,OR,Beaverton OR
-KR8V,Gary,MI,Clinton Township MI
+KR8V,Gary,1043,Clinton Township MI
 KR9U,Jim,IN,Fort Wayne IN
 KS0MO,KC,KS,Kansas City RC
 KS3K,Steve,FL,Boynton Beach FL
@@ -2615,7 +2614,7 @@ KX4KU,Kevin,1978,Boston VA
 KX6A,Mike,1782,Newport Beaach CA
 KX6X,Ken,AZ,Sierra AZ
 KX8I,,MD,Gaithersburg MD
-KX9DX,Rick,IL,Springfield IL
+KX9DX,Rick,1074,Springfield IL
 KX9X,Sean,683,West Hartford CT
 KY0B,Gary,NC,Bear Creek NC
 KY0Q,Rick,2703,Hoffman Estates IL
@@ -2678,7 +2677,7 @@ LZ5PW,Vasy,,(Vassil)  Plovdiv Bulgaria
 LZ5R,Milen,2393,Plovdiv Bulgaria  (LZ5DB)
 LZ5XQ,Steve,LZ,Burgas Bulgaria
 LZ9A,Andy,,LZ Contest Team Bulgaria
-M0AGA,Kevin,,Sutton in Ahfield England
+M0AGA,Kevin,19,Sutton in Ahfield England
 M0BEW,Tim,2985,ShropshireEngland
 M0CDL,John,2965,Kingswinford England
 M0DHP,Ray,2090,(M2U) Thames Ditton England
@@ -2787,7 +2786,7 @@ N1FG,Larry,2012,ex:KJ1RE Deerfield NH
 N1FJ,Andy,MA,Florence MA
 N1FN,Marsh,CO,(Marshall) Aurora CO
 N1FV,John,WV,Dellslow WV
-N1GKE,Myrt,RI,Hope RI
+N1GKE,Myrt,929,Hope RI
 N1GSA,Gary,CT,New Fairfield CT
 N1HN,Dus,ME,Windsor ME
 N1KL,Kevin,MA,Wheelwright MA
@@ -2805,7 +2804,7 @@ N1SUZ,Suzanne,CT,Danbury CT
 N1TA,Mike,MA,Westfield MA
 N1TO,Ed,685,Sebastian FL
 N1TWC,Jeff,OH,Dublin OH
-N1TX,Larry,AK,Fairbanks AK (Alaska)
+N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
 N1VH,Marty,1927,Braintree MA
 N1XF,Glen,ME,South Berwick ME
@@ -2841,7 +2840,7 @@ N2JJ,Jim,1128,Galway NY
 N2JNE,Charlie,NY,Saugerties NY
 N2JT,Jack,640,Phillipsburg NJ
 N2JW,John,FL,Lake Mary FL
-N2KW,Allen,NY,New York NY
+N2KW,Allen,421,New York NY
 N2LK,John,NJ,Hackettstown NJ
 N2MA,Al,2827,Mars PA
 N2MF,Brian,NY,Jamesville NY
@@ -2906,7 +2905,7 @@ N3KN,Tony,VA,Blacksburg VA
 N3KR,Paul,PA,Philadelphia PA
 N3KS,Kam,146,Towson MD
 N3MM,Harry,2804,Lynchburg VA
-N3MNT,Bob,MD,Annapolis MD
+N3MNT,Bob,1292,Annapolis MD
 N3ND,Dan,189,Wake Forest NC
 N3OC,Brian,2944,Brookeville MD
 N3QE,Tim,1223,Bethesda MD
@@ -2914,7 +2913,7 @@ N3RC,Roger,429,Sebastopol CA
 N3RD,Dave,232,Phoenixville PA
 N3RM,Theo,PA,Lebanon PA
 N3RS,Sig,34,Glenmoore PA
-N3RSD,Frank,DE,Wilmington DE
+N3RSD,Frank,1054,Wilmington DE
 N3SD,Greg,1768,Aliquippa PA
 N3SW,Scott,2397,Cumberland PA
 N3TM,Thayer,PA,Harmony PA
@@ -2935,7 +2934,7 @@ N4APR,Ray,NC,Charlotte NC
 N4ARY,Aaron,2759,Bonaire GA
 N4ASF,Dave,VA,Melfa VA
 N4BA,Fred,2221,Great Falls VA
-N4BAA,Jose,PA,Warrington PA
+N4BAA,Jose,1036,Warrington PA
 N4BCB,Bruce,AL,Roanoke AL
 N4BP,Bob,2463,Plantation FL
 N4CD,Bob,1928,Plano TX
@@ -3029,7 +3028,7 @@ N4XP,Tom,GA,Monroe GA
 N4XY,Ed,GA,Marietta GA
 N4YA,Chris,1657,Douglasville GA
 N4YDU,Nate,445,Youngsville NC
-N4YG,Joe,AL,Huntsville AL
+N4YG,Joe,820,Huntsville AL
 N4YYL,Lionel,NC,West End NC
 N4ZH,Terry,2337,Annandale VA
 N4ZR,Pete,1277,Phoenix MD
@@ -3168,7 +3167,7 @@ N7CLP,Cody,AZ,Gilbert AZ
 N7CQR,Dan,OR,Portland OR
 N7DC,Danny,VA,Reva VA
 N7DH,Dennis,ME,Kittery Point ME
-N7DRW,Bud,WA,Bellevue WA
+N7DRW,Bud,2246,Bellevue WA
 N7DX,Tony,2764,Camano Island WA
 N7DXT,Gary,MT,Missoula MT
 N7EDK,Ed,FL,Bradenton FL
@@ -3204,8 +3203,8 @@ N7RVD,Brian,WA,Kenmore WA
 N7SU,Dan,2283,(Daniel) Phoenix AZ 
 N7TB,Terry,1999,Corvallis OR
 N7TES,John,WA,Puyallup WA
-N7TR,Rich,NV,Reno NV
-N7TX,Steve,AZ,Cave Creek AZ
+N7TR,Rich,95,Reno NV
+N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
 N7WY,Bob,1406,Cheyenne WY
@@ -3414,7 +3413,7 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-NM2A,Mark,NY,Pulaski NY
+NM2A,Mark,3014,Pulaski NY
 NM2L,Greg,1118,Sugar Hill GA
 NM5G,Keith,2570,Tomball TX (South Central Amb.)
 NM5M,Eric,974,Plano TX
@@ -3552,7 +3551,7 @@ OH0XX,Olli,328,Jaali Finland
 OH1NOA,Timo,2967,Pori Finland
 OH1RX,Jouko,608,Salo Finland
 OH1SIC,GI,2094,(SM5SIC)  Finland
-OH1VR,Seppo,,Tampere Finland
+OH1VR,Seppo,153,Tampere Finland
 OH1ZAA,Zaba,1856,Pori Finland (Also OH5ZA OH3BCX)
 OH2BH,Marty,,Espoo Finland
 OH2BN,Jarmo,135,Helsinki Finland
@@ -3689,7 +3688,7 @@ OZ7JC,Jorgen,,Skals Denmark
 P40LE,Andy,39,Aruba  (also K2LE)
 P40TA,Ken,,Martell  CA USA
 PA0ABM,Wino,2890,Huijbergen Netherlands
-PA0HOP,Hans,,Leuth Netherlands
+PA0HOP,Hans,414,Leuth Netherlands
 PA0IA,LJ,,Pijnacker Netherlands
 PA0INA,Frans,443,Goes Netherlands
 PA0JLS,Hans,849,Liederdorp Netherlands
@@ -4153,7 +4152,7 @@ VE2MF,Mario,2556,Victoriaville QC
 VE2MFD,Mark,QC,St-Eustace QC
 VE2NCG,Nick,QC,Montreal Nord QC
 VE2PGI,Paul,QC,Saint-Hubert QC
-VE2PID,Pierre,QC,Sherbrooke QC
+VE2PID,Pierre,1278,Sherbrooke QC
 VE2QA,Vlad,QC,Beaconsfield QC
 VE2SG,Step,QC,Quebec QC
 VE2SRP,Simon,2144,(VE2ZM) St Joseph du Lac QC
@@ -4318,7 +4317,7 @@ VY1EI,Eric,YT,Whitehorse YT Canada
 VY2SS,Robby,PE,O'LEARY PE
 W0A,Mike,IA,(N5KB)  Sioux Rapieds IA
 W0AAE,Bob,2947,Maple MN
-W0AD,Paul,MN,Elden Prairie MN
+W0AD,Paul,1977,Elden Prairie MN
 W0AG,Mike,1317,Crossville TN
 W0AJU,Rich,MO,St. Louis MO
 W0BBI,Bill,MO,Branson West MO
@@ -4456,7 +4455,7 @@ W2IX,Frank,FL,Orlando FL
 W2JAZ,Rick,2239,Cherry Hill NJ
 W2JK,Joe,NY,Floral Park NY
 W2JLK,Jim,NJ,Matawan NJ
-W2LB,Larry,ny,Farmington NY
+W2LB,Larry,906,Farmington NY
 W2LCQ,Ed,701,New York NY
 W2LE,Paul,NJ,Flemington NJ
 W2LJ,Larry,1005,South Plainfield NJ
@@ -4498,7 +4497,7 @@ W2ZRA,Kevin,942,Cutchogue NY
 W3AC,Dave,1235,Forest VA
 W3AG,Joe,PA,Pittsburg PA
 W3AT,Jim,NM,Santa Fe NM
-W3ATT,Brian,VA,Bayse VA
+W3ATT,Brian,1301,Bayse VA
 W3AVP,Alex,PA,New Holland PA
 W3BBO,Bob,PA,Erie PA
 W3BG,Jim,2892,Aliquippa PA
@@ -4575,7 +4574,7 @@ W4DLZ,Frank,FL,Carrabelle FL
 W4DR,Bob,VA,Midlothian VA
 W4DWS,Mayor,GA,Cave Spring GA
 W4DXX,Eric,1040,Bainbridge GA
-W4EDE,Lee,FL,Miami Beach FL
+W4EDE,Lee,30,Miami Beach FL
 W4ER,John,1189,Mobile AL (KX2 5w to attic ant. or /p)
 W4FC,Paul,SC,Greenville SC
 W4FCG,,FL,Florida Contest Group FL
@@ -4623,7 +4622,8 @@ W4NU,John,760,Atlanta GA
 W4NZ,Ted,831,Chattanooga TN
 W4OC,Don,SC,Boiling Springs SC
 W4OCO,Mike,VA,Virginia Beach VA
-W4PA,Scott,TN,Knoxville TN
+W4OI,Tony,553,Meadows of Dan VA
+W4PA,Scott,102,Knoxville TN
 W4PF,Steve,2056,Louisville KY
 W4PM,Puck,93,Mechanicsville VA
 W4QED,Benny,FL,Fern Park FL
@@ -4701,7 +4701,7 @@ W5MKT,Dave,TX,Brackettville TX
 W5MT,Matt,1868,Murphy TX
 W5MX,Bryan,2258,BEREA KY
 W5NE,Alex,2141,Tyler TX
-W5OV,Bob,OH,Cuyahoga Falls OH
+W5OV,Bob,1760,Cuyahoga Falls OH
 W5PEH,Pete,TX,Kingwood TX
 W5PET,Dick,2316,Louisville KY
 W5PGZ,Bill,TX,Houston TX
@@ -4820,7 +4820,7 @@ W7JRD,Jim,2994,Hope ID
 W7KF,Doug,2183,Whitefish MT
 W7KFI,Susan,2275,Gulfport MS
 W7KPL,Jerry,AZ,Scottsdale AZ
-W7KXB,Bill,AZ,Apache Junction AZ
+W7KXB,Bill,1042,Apache Junction AZ
 W7LG,Mike,2682,Lewistown PA (Occ. QRP)
 W7LXN,Myron,1166,Gilbert AZ
 W7MP,Adam,OR,Beaverton OR
@@ -4836,7 +4836,7 @@ W7RN,Tom,108,VC Highlands NV (K5RC)
 W7RX,Scott,2034,Eugene OR
 W7SAG,John,1582,Eagle ID (Occ. QRP)
 W7SAG/0,John,1582,
-W7SW,,AZ,(Scotty) Sun City West AZ
+W7SW,,143,(Scotty) Sun City West AZ
 W7TAO,Todd,WA,Mount Vernon WA
 W7UDH,Dick,WA,Seattle WA
 W7UT,Bob,200,St-George UT
@@ -4963,14 +4963,14 @@ W9RND,Rob,IN,Whitestown IN
 W9RNY,Mike,2199,Jacksonville IL
 W9SAU,Dan,IL,Chicago IL
 W9SE,John,IL,Normal IL
-W9SN,Steve,TN,Allardt TN
+W9SN,Steve,642,Allardt TN
 W9SN/M,Steve,TN,mobile
 W9SZ,Zack,731,Urbana IL
 W9TD,Gary,2998,Lake Villa IL
 W9UCR,Bob,1907,Cape Coral FL
 W9UM,Nick,IN,Griffith IN
 W9VE,Don,2099,Dallas TX
-W9VNE,Jim,OH,Cincinnati OH
+W9VNE,Jim,214,Cincinnati OH
 W9WR,John,2134,Floyds Knobs IN
 W9XA,Kermit,1094,Batavia IL
 W9XC,Les,IL,Urbana IL
@@ -4980,7 +4980,7 @@ W9XY,Bob,WI,Montello WI
 W9YA,Bob,289,Albuquerque NM
 W9YK,Todd,2509,Elmhurst IL
 W9ZCL,Bill,IL,Mount Prospect IL
-W9ZR,Randy,OH,Galena OH
+W9ZR,Randy,740,Galena OH
 W9ZSJ,George,IL,Kildeer IL
 W9ZV,Bob,IL,Bolingbrook IL
 WA0BJR,Don,MO,Springfield MO
@@ -5010,7 +5010,7 @@ WA2BCK,Tom,762,Great Falls VA
 WA2BJN,Rich,NC,Greensboro NC
 WA2DFI,Scotty,164,Tempe AZ
 WA2DIY,Mark,NJ,Williamstown NJ
-WA2MBP,Jim,GA,Marietta GA
+WA2MBP,Jim,773,Marietta GA
 WA2OAX,Ira,534,Liberty NY
 WA2SI,Bert,842,Port Jefferson NY
 WA2TBQ,Ron,NC,Raleigh NC
@@ -5018,7 +5018,6 @@ WA2TGE,Mike,SC,Rock Hill SC
 WA2USA,Dennis,819,Newburgh IN
 WA2VYA,Frank,FL,Tallahassee FL
 WA2VZQ,Ken,NY,Saint James NY
-WA2VZZ,Ken,NY,
 WA3AAN,Grant,2064,Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
 WA3FAE,Forrest,MD,
@@ -5027,7 +5026,7 @@ WA3GPP,Rich,PA,Pittsburg PA
 WA3IVV,Rich,PA,Beaver Falls PA
 WA3JJT,Steve,2914,Mc Kean PA
 WA3MIX,Lou,1308,Williamsport PA
-WA3NZR,John,PA,Lancaster PA
+WA3NZR,John,1028,Lancaster PA
 WA3QNT,Bob,1687,Franklin PA
 WA3TMR,Steve,NC,Fuquay Varina NC
 WA3TRE,Don,PA,McClure PA
@@ -5133,7 +5132,7 @@ WB2YQH,Bob,246,Spring Brook NY
 WB3BIQ,Rick,PA,Irwin PA
 WB3JGP,Randy,CA,El Cerrito CA
 WB4AEG,Hal,1646,Adairsville GA
-WB4AQL,Mike,GA,Chickamauga GA
+WB4AQL,Mike,498,Chickamauga GA
 WB4DNL,Gary,497,Virginia Beach VA
 WB4FDT,Pip,916,Baltimore MD
 WB4FSF,Bonnie,734,Sanford FL
@@ -5198,7 +5197,7 @@ WD1AL,Ryan,MA,Belchertown MA
 WD4CFN,Steve,2228,Nashville TN
 WD4EBR,Paul,TN,Pigeon Force TN
 WD4ERM,Ken,GA,Quitman GA
-WD4EXI,Val,GA,Atlanta GA
+WD4EX,Val,1546,Atlanta GA
 WD4LZC,Stu,KY,Louisville KY
 WD4YFN,Steve,,no info
 WD5BZN,Dave,TX,Bellaire TX
@@ -5233,7 +5232,7 @@ WI4P,John,AL,Alexander City AL
 WI6T,Rex,CO,Centennial CO
 WI6X,Jim,CA,Irvine CA
 WJ0C,Steve,2997,Colorado Springs CO
-WJ1B,Harold,CT,Cheshire CT
+WJ1B,Harold,752,Cheshire CT
 WJ2O,Dave,1093,Mc Connellsville NY
 WJ6O,Dave,482,Studio City CA (G3WGN)
 WJ7S,John,1582,Saatoga Springs UT (Occ. QRP)
@@ -5266,7 +5265,7 @@ WO4O,Ric,1311,Grand Island FL
 WO6W,Bob,2634,Menlo Park VA
 WO9B,Mike,2203,New Berlin WI
 WP3A,Jaime,PR,Coamo PR
-WP3C,Al,PR,Utuado PR
+WP3C,Al,872,Utuado PR
 WP3ME,Joel,FL,Miami FL
 WP4F,Danny,1526,Toa Alta PR
 WQ2E,Jack,2054,Schenectady NY
