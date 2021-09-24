@@ -1,15 +1,15 @@
 #/bin/bash
 cd $(dirname $0)
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
-echo FILE=\"$FILE\"
-OUTFILE=NVQP_db.txt
+echo Parsing $FILE
+OUTFILE=AZQP_db.txt
 
 dos2unix $FILE
 gawk '
 BEGIN {
   FS=","
   date = strftime("%Y-%m-%d");
-  printf("#0 Nevada QSO Party database.\n");
+  printf("#0 Arizona QSO Party database.\n");
   printf("#1 Based on call history data maintained by VE2FK ve2fk@arrl.net.\n");
   printf("#2 File created %s.\n", date);
   col = 2;
