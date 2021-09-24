@@ -4,7 +4,7 @@
 # 4143 DL calls. Compiled by UR7QM, 03.10.2020.
 # DARC10M
 # DOK database file for DARC contests 2019-2020 (WAG, XMAS, DARC-10m).
-# Last Edit,2021-09-15
+# Last Edit,2021-09-23
 # Send any corrections direct to VE2FK@arrl.net
 # Thanks to Bob/N7WY for update.
 # WAG
@@ -329,6 +329,7 @@ DF0IA,N38
 DF0IC,I41
 DF0ID,F22
 DF0JEN,X22
+DF0JR,JR
 DF0KAT,F06
 DF0KF,F72
 DF0KU,B07

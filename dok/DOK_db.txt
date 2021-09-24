@@ -1,6 +1,6 @@
 # German DOK database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-09-15.
+# File created 2021-09-24.
 DA0A=N11
 DA0AA=B06
 DA0AZ=K21
@@ -321,6 +321,7 @@ DF0IA=N38
 DF0IC=I41
 DF0ID=F22
 DF0JEN=X22
+DF0JR=JR
 DF0KAT=F06
 DF0KF=F72
 DF0KU=B07
