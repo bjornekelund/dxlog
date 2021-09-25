@@ -1,35 +1,38 @@
 #/bin/bash
 cd $(dirname $0)
 #FILE=`ls QSOP_* | tail -1 2> /dev/null`
-FILE1=NVHAMS.txt
+#FILE1=NVHAMS.txt
 FILE2=ARRL160.txt
 
-dos2unix -q $FILE1 $FILE2
+#dos2unix -q $FILE1 $FILE2
+dos2unix -q $FILE2
 
 #echo FILE=\"$FILE\"
 OUTFILE=NVQP_db.txt
 
 
-cat $FILE1 | gawk '
-BEGIN {
-  FS=","
-  col = 2;
-}
-{
-  if ($1 == "!!Order!!") {
-    if ($2 ~ /Exch1|State/) col = 1;
-    if ($3 ~ /Exch1|State/) col = 2;
-    if ($4 ~ /Exch1|State/) col = 3;
-    if ($5 ~ /Exch1|State/) col = 4;
-    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
-  } else {
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z]{3}$/)
-      printf("%s,,NV%s\n", $1, $col);
-    else
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-  }
-}
-END { }' > .file1
+#cat $FILE1 | gawk '
+#BEGIN {
+#  FS=","
+#  col = 2;
+#}
+#{
+#  if ($1 == "!!Order!!") {
+#    if ($2 ~ /Exch1|State/) col = 1;
+#    if ($3 ~ /Exch1|State/) col = 2;
+#    if ($4 ~ /Exch1|State/) col = 3;
+#    if ($5 ~ /Exch1|State/) col = 4;
+#    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+#  } else {
+#    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z]{3}$/)
+#      printf("%s,,NV%s\n", $1, $col);
+#    else
+#      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+#  }
+#}
+#END { }' > .file1
+
+echo "" > .file1
 
 echo Merging files...
 

@@ -1,7 +1,7 @@
 #/bin/bash
 cd $(dirname $0)
-FILE=`ls QSOP_* | tail -1 2> /dev/null`
-
+#FILE=`ls QSOP_* | tail -1 2> /dev/null`
+FILE=ARRL160.txt
 OUTFILE=NVQP_db.txt
 
 echo Parsing $FILE
