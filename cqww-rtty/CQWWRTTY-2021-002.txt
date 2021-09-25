@@ -1,7 +1,7 @@
 
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2021-09-13,
+# 1-Last Edit,2021-09-24,
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Thanks W0IZ, K2TW for update, SM7IUN Cleaning/corrections.
 # 4-This file is used for the following contest(s):
@@ -1502,7 +1502,7 @@ K2LYV,DAVE,FL,
 K2MF,BARRY,FL,
 K2MFY,,NY,
 K2MGR,KURT,NY,
-K2MK,MIKE,NY,
+K2MK,MIKE,FL,
 K2MRK,,NY,
 K2MV,,NJ,
 K2NG,,NJ,
