@@ -1,6 +1,10 @@
 #!/bin/bash
 
-dos2unix $1
+FILE=SPDXcwssb_KP.txt
+OUTFILE=SPDX_db.txt
+
+dos2unix -q $FILE
+echo Parsing $FILE
 
 gawk '
 BEGIN {
@@ -17,9 +21,9 @@ END {
   printf("#0 SP DX participants database\n");
   printf("#1 Based on call history data by Chris SP5KP, SN5N\n");
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/^\#. /\# /g' > SPDX_db.txt
+}' $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-unix2dos SPDX_db.txt
-echo "SPDX_db.txt created"
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
 
 exit

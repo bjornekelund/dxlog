@@ -1,6 +1,6 @@
 # SP DX RTTY participants database
 # Based on call history data by Chris SP5KP, SN5N
-# File last updated 2021-05-03
+# File last updated 2021-09-26
 3Z0OL=OU
 3Z0R=PE
 3Z0X=OG

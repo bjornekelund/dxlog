@@ -1,6 +1,8 @@
 #!/bin/bash
+FILE=SPDXRTTY_KP.txt
+OUTFILE=SPDXRTTY_db.txt
 
-dos2unix -q $1
+dos2unix -q $FILE
 
 gawk '
 BEGIN {
@@ -18,9 +20,9 @@ END {
   printf("#0 SP DX RTTY participants database\n");
   printf("#1 Based on call history data by Chris SP5KP, SN5N\n");
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/^\#. /\# /g' > SPDXRTTY_db.txt
+}' $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-unix2dos -q SPDXRTTY_db.txt
-echo "SPDXRTTY_db.txt created"
+unix2dos -q $OUTFILE
+echo $OUTFILE created
 
 exit
