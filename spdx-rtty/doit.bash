@@ -1,6 +1,6 @@
-#bin/bash
+#!/bin/bash
 
-dos2unix $1
+dos2unix -q $1
 
 gawk '
 BEGIN {
@@ -20,7 +20,7 @@ END {
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
 }' < $1 | sort | sed 's/^\#. /\# /g' > SPDXRTTY_db.txt
 
-unix2dos SPDXRTTY_db.txt
+unix2dos -q SPDXRTTY_db.txt
 echo "SPDXRTTY_db.txt created"
 
 exit

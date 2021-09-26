@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 INFILE=`ls ARRLR* | tail -1 2> /dev/null`
 echo Using $INFILE
 OUTFILE=ARRL_RTTY_db.txt

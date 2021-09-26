@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 INFILE=`ls Call* 2> /dev/null`
 OUTFILE=BCC.xdt
 

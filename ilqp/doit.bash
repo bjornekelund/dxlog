@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
 echo FILE=\"$FILE\"
 OUTFILE=ILQP_db.txt

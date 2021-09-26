@@ -1,6 +1,6 @@
-#bin/bash
+#!/bin/bash
 
-dos2unix $1
+dos2unix -q $1
 
 gawk '
 BEGIN {

@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 INFILE=`ls ARRL10M* | tail -1 2> /dev/null`
 OUTFILE=ARRL_10M_db.txt
 echo Using $INFILE

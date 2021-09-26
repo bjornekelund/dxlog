@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 FILE=`ls WAG* | tail -1 2> /dev/null`
 OUTFILE=DOK_db.txt
 

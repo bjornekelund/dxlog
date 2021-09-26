@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 cp vhf_uhf_r1_db.txt .six.tmp
 dos2unix -q .six.tmp
 echo Creating 4-character grid database

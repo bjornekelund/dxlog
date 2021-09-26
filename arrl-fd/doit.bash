@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 INFILE=`ls FD* | tail -1 2> /dev/null`
 OUTFILE=ARRL_FD_db.txt
 echo Using $INFILE

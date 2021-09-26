@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 FILE=`ls SRR* | tail -1 2> /dev/null`
 OUTFILE=SRR-CUP-DIGI_db.txt
 echo Using file \"$FILE\"

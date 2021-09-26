@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 FILE=`ls DIGLI* | tail -1 2> /dev/null`
 echo Using $FILE
 OUTFILE=DIG_db.txt

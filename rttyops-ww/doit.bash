@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 dos2unix $1 $2
 OUTFILE=RTTYOPS_WW_db.txt
 cat $1 $2 | gawk '

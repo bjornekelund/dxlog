@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 FILE=`ls Names_VE2FK* | tail -1 2> /dev/null`
 echo Using file $FILE
 dos2unix -q $FILE
@@ -21,4 +20,6 @@ BEGIN {
   }  
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > Opnames.xdt
-unix2dos Opnames.xdt
+unix2dos -q Opnames.xdt
+echo Created Opnames.xdt
+exit

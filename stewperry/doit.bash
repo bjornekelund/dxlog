@@ -1,5 +1,10 @@
 #!/bin/bash
-dos2unix $1
+FILE=`ls StewPerry.* | tail -1 2> /dev/null`
+OUTFILE=StewPerry_db.txt
+
+echo Parsing $FILE
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -19,7 +24,7 @@ END {
   printf("#1 Data collected and maintained by VE2FK\n");
   printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#3 File updated %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/^#./#/g' > StewPerry_db.txt
-echo "StewPerry_db.txt created"
-unix2dos StewPerry_db.txt
+}' $FILE | sort | sed 's/^#./#/g' > $OUTFILE
+echo $OUTFILE created
+unix2dos -q $OUTFILE
 exit

@@ -1,5 +1,4 @@
-#bin/bash
-cd $(dirname $0)
+#!/bin/bash
 INFILE=`ls ARRLDX* | tail -1 2> /dev/null`
 echo Using $INFILE
 OUTFILE=ARRL_DX_db.txt

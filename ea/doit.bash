@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 INFILE=`ls CNCW* | tail -1 2> /dev/null`
 OUTFILE=EA_db.txt
 echo Using $INFILE

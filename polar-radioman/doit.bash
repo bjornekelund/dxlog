@@ -1,8 +1,9 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 FILE=`ls AC* 2> /dev/null`
-echo FILE=\"$FILE\"
-dos2unix $FILE
+echo Parsing $FILE
+
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -18,8 +19,9 @@ BEGIN {
   }
   else {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-  }  
+  }
 }
-END { 
+END {
 }' $FILE > POLAR-radioman.txt
-unix2dos POLAR-radioman.txt
+unix2dos -q POLAR-radioman.txt
+exit

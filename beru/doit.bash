@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 FILE=`ls RSGBBERU* 2> /dev/null`
 if [ -n "$FILE" ]; then
   echo Using $FILE

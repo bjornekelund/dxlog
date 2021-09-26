@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 INFILE=nvcounties.txt
 OUTFILE=nv-counties-regex.txt
 

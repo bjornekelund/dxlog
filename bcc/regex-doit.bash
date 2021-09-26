@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 INFILE=bcc-members.txt
 OUTFILE=BCC-regex.txt
 

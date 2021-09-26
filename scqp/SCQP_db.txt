@@ -1,6 +1,6 @@
-# SCQP database.
-# Based on call history data by Claude VE2FK.
-# Created by SM7IUN on 2021-02-27.
+# SCQP database
+# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# File updated 2021-09-26
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN

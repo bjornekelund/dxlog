@@ -1,5 +1,4 @@
 #!/bin/bash
-cd $(dirname $0)
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=MEQP_db.txt
 

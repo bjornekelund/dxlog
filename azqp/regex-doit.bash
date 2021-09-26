@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 INFILE=azcounties.txt
 OUTFILE=az-counties-regex.txt
 

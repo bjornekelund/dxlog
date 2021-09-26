@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 dos2unix -q $1 $2
 echo Creating 6-position grid database
 gawk '

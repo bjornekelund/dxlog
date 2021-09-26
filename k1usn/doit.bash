@@ -1,7 +1,8 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 FILE=`ls K1USNSST-* | tail -1 2> /dev/null`
-echo Using file $FILE
+
+echo Parsing $FILE
+
 if [ -n "$FILE" ]; then
   dos2unix -q $FILE
   ./txt.bash $FILE

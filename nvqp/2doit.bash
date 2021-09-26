@@ -1,5 +1,4 @@
-#/bin/bash
-cd $(dirname $0)
+#!/bin/bash
 #FILE=`ls QSOP_* | tail -1 2> /dev/null`
 #FILE1=NVHAMS.txt
 FILE2=ARRL160.txt
