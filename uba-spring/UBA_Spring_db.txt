@@ -1,6 +1,6 @@
-# UBA Spring database
+# Database for UBA Spring Contest and UBA ON Contest
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# File last updated 2021-09-28
+# Updated 2021-09-28
 ON1CB=NOK
 ON1DNF=DST
 ON1DX=NOK
