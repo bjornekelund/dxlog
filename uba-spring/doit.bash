@@ -1,22 +1,28 @@
 #!/bin/bash
-dos2unix $1
+FILE=`ls UBASP* | tail -1 2> /dev/null`
+OUTFILE=UBA_Spring_db.txt
+echo Parsing $FILE...
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /[A-Z]{3}/) {
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[A-Z]{3}$/) {
     printf("%s=%s\n", $1, $2);
   }
   else
-    printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
+    if ($0 !~ /^(!|#)/) {
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+  }
 }
-END { 
+END {
   printf("#0 UBA Spring database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < $1 | sort | sed 's/^\#. /\# /g' > UBA_Spring_db.txt
+}' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo "UBA_Spring_db.txt created"
-unix2dos UBA_Spring_db.txt
+echo $OUTFILE created
+unix2dos -q $OUTFILE
 exit

@@ -1,6 +1,6 @@
 # UBA Spring database
-# Based on call history data by Claude VE2FK ve2fk@arrl.net
-# File created by SM7IUN on 2021-03-01
+# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# File last updated 2021-09-28
 ON1CB=NOK
 ON1DNF=DST
 ON1DX=NOK
