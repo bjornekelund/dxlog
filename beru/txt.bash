@@ -14,6 +14,6 @@ END {
   printf("#1 Based on data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
 }' < $1 | sort | sed 's/^\#. /\# /g' > $OUTFILE
-echo $OUTFILE "created"
+echo $OUTFILE created
 unix2dos -q $OUTFILE
 exit

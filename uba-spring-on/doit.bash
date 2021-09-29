@@ -1,6 +1,6 @@
 #!/bin/bash
 FILE=`ls UBASP* | tail -1 2> /dev/null`
-OUTFILE=UBA_Spring_db.txt
+OUTFILE=UBA_Sections_db.txt
 echo Parsing $FILE...
 dos2unix -q $FILE
 
@@ -18,7 +18,7 @@ BEGIN {
   }
 }
 END {
-  printf("#0 Database for UBA Spring Contest and UBA ON Contest\n");
+  printf("#0 Database with UBA sections for UBA Spring Contest and UBA ON Contest\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
 }' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE

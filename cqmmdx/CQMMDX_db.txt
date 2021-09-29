@@ -1,6 +1,6 @@
-# CQMM DX database.
-# Based on call history data by VE2FK.
-# File created 2021-04-21.
+# CQMM DX database
+# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
+# Updated 2021-09-29
 2E0FFT=EUQ
 3B8DB=AFM
 3D2AG=OCM
