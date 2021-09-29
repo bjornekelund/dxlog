@@ -1,22 +1,27 @@
 #!/bin/bash
-dos2unix EUAS-CHAMP.txt
+FILE=`ls EUAS-CH* | tail -1 2> /dev/null`
+OUTFILE=EURASIA_db.txt
+echo Parsing $FILE...
+
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 != "") {
-    printf("%s=%s\n", $1, $3);
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~ /^[A-Ra-r]{2}[0-9]{2}[A-Xa-x]{2}$/) {
+    printf("%s=%s\n", $1, toupper($3));
   }
-  else
-    printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
+  else if ($0 !~ /^(!|#)/)
+    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
 }
-END { 
-  printf("#0 EURASIA Championship CQ 160M atabase - 6-position grid locator\n");
+END {
+  printf("#0 EURASIA Championship database - 6-position grid locator\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
-}' < EUAS-CHAMP.txt | sort | sed 's/^\#. /\# /g' > EURASIA_db.txt
+}' $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo "EURASIA_db.txt created"
-unix2dos EURASIA_db.txt
+echo $OUTFILE created
+unix2dos -q $OUTFILE
 exit

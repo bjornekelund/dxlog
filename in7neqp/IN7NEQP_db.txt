@@ -1,6 +1,6 @@
-# INQP, 7QP, and NEQP joint database.
+# INQP, DEQP, 7QP, and NEQP joint database.
 # Based on call history data by Claude VE2FK.
-# Created 2021-04-30.
+# Created 2021-09-29.
 #
 AA0AC=MN
 AA0AI=IA

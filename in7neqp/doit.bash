@@ -1,5 +1,10 @@
 #!/bin/bash
-dos2unix $1
+FILE=`ls QSOP* | tail -1 2> /dev/null`
+OUTFILE=IN7NEQP_db.txt
+echo Parsing $FILE...
+
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -14,5 +19,7 @@ BEGIN {
     printf("%s=%s\n", $1, $3);
   else
     printf("Ignored: %s\n", $0) > "/dev/stderr";
-}' $1 | sort | sed 's/^#[0-9]/#/g' > IN7NEQP_db.txt
-unix2dos IN7NEQP_db.txt
+}' $FILE | sort | sed 's/^#[0-9]/#/g' > $OUTFILE
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+exit
