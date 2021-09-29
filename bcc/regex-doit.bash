@@ -2,7 +2,8 @@
 INFILE=bcc-members.txt
 OUTFILE=BCC-regex.txt
 
-wget --no-hsts http://www.bavarian-contest-club.de/members/bcc-members.txt -O $INFILE
+echo Downloading $INFILE...
+wget -q --no-hsts http://www.bavarian-contest-club.de/members/bcc-members.txt -O $INFILE
 
 echo Parsing $INFILE...
 dos2unix -q $INFILE
@@ -10,6 +11,10 @@ dos2unix -q $INFILE
 gawk '
 BEGIN {
   FS=",";
+  printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
+  printf("# Member callsigns from www.bavarian-contest-club.de\n");
+  printf("POINTS_FIELD_BAND_MODE=ALL;DEST->DXCC:^$;ALL;ALL;-1\n");
+  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^DA0BCC$;ALL;ALL;ALL;5\n");
   printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^(");
   notfirst = 0;
   count = 0;
@@ -29,6 +34,7 @@ BEGIN {
 }
 END {
   printf(")$;ALL;ALL;ALL;2\n");
+  printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n");
 }' $INFILE > $OUTFILE
 echo $OUTFILE created
 unix2dos -q $OUTFILE
