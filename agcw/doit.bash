@@ -1,22 +1,28 @@
 #!/bin/bash
-dos2unix AGCW.txt
+FILE=Mitgliederliste.csv
+OUTFILE=AGCW_db.txt
+
+wget -q --no-hsts https://www.agcw.de/wp-content/persist/Mitgliederliste.csv -O $FILE
+
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
-  FS=","
+  FS=";"
+  printf("# AGCW members database\n");
+  printf("# Based on official member roster at www.agcw.de\n");
+  printf("# Updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~/[0-9]+/) {
-    printf("%s=%s\n", $1, $3);
+  if ($2 ~ /^[0-9,A-Z\/]+$/ && $1 ~/[0-9]+/) {
+    printf("%s=%s\n", $2, $1);
   }
-  else
+  else if ($0 !~ /#/)
     printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
-  printf("#0 AGCW members database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
-  printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < AGCW.txt | sort | sed 's/^\#. /\# /g' > AGCW_db.txt
+}' $FILE > $OUTFILE
 
-echo "AGCW_db.txt created"
-unix2dos AGCW_db.txt
+echo $OUTFILE created
+unix2dos -q $OUTFILE
 exit

@@ -1,6 +1,6 @@
 # DIG members database
-# Based on official member roster at https://diplom-interessen-gruppe.info
-# File created 2021-09-12
+# Based on official member roster at diplom-interessen-gruppe.info
+# Updated 2021-09-29
 DL8JS=1
 DL1RA=2
 DJ1TS=3
@@ -3405,6 +3405,7 @@ UD6CN=3352
 EX8F=3353
 F6AAX=3354
 PY1TG=3355
+DU7/DK9SC=3356
 PY1AZG=3357
 DG2YAZ=3358
 DF6LE=3359

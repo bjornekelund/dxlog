@@ -1,4 +1,7 @@
-dos2unix locations.txt
+FILE=locations.txt
+OUTFILE=regex-locations.txt
+echo Parsing $FILE...
+dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=" ";
@@ -12,5 +15,7 @@ BEGIN {
 }
 END {
   printf("%s\n", ")$");
-}' < locations.txt > result.txt
-unix2dos result.txt
+}' $FILE > $OUTFILE
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
+exit
