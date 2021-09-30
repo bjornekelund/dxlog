@@ -404,6 +404,7 @@ CT1DRB,Dave,430,Paio Pires Portugal
 CT1ILT,Fil,2699,(CR6K)  S. Martinho da Gandara Portugal 
 CT7AFN,Carlos,,Near Fatima Portugal
 CT7AGZ,Ken,2126,(G4RWD)  Carvoeiro LGA Portugal
+CT7AUP,David,, Arruda dos Vinhos Portugal
 CT9ABV,Ulf,1517,(DL5AXX)  Santana Madeira Island AF-014
 CU3AA,Joao,1804,Angra Do Heroismo Portugal
 CU3H,Dave,,Lajes Azores
@@ -899,6 +900,7 @@ GW4J,Stew,919,Wales (GW0ETF) (CWops President)
 GW4MM,Tim,2755,
 GW4MVA,Glen,2178,Flintshire Wales
 GW4OKT,Keith,1952,Near Chester Wales
+GW4PVM,Paul,2413,(G4PVM) Holy Island EU124 Wales
 GW4VXE,Tim,2755,St Nicholas Goodwick Wales
 GW7APP,Ian,,Anglesey Wales
 GW7N,Glen,2178,(GW4MVA)  Flintshire Wales
@@ -1168,7 +1170,7 @@ K0PD,Dave,2035,Black Hawk CO
 K0PFX,Mel,271,Bridgeton MO
 K0PGE,Ron,1712,Laguna Niguel CA
 K0PK,Paul,2233,Eveleth NM
-K0PV,Don,CO,Aurora CO
+K0PV,Don,1823,Aurora CO
 K0RAR,Rob,KS,Richmond KS
 K0RF,Chuck,887,Longmont CO
 K0RU,Rob,KS,Gardner KS
@@ -2710,6 +2712,7 @@ M2U,Ray,2090,(M0DHP)  Thames Ditton England (Occ. QRP)
 M3AWD,Scott,G,Aylesbury Buckinghamshire England
 M3X,Harry,560,(M0IHT)  Exeter England
 M3ZFF,David,,Somerset England
+M4N,Mike,2511,(G4IZZ)  Cheltenham England
 M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth)  St Neots England
 M6O,Dave,482,Okehampton England (G3WGN)
@@ -3400,6 +3403,7 @@ NJ4V,Dan,2395,Evans GA
 NJ4X,Dave,MO,Lees Summit MO
 NJ5N,Chris,2105,Whitney TX
 NJ6Q,Jer,2617,(Jeremy)  Encinitas CA
+NJ7V,Red,CWA,Mesa AZ
 NJ8J,Ben,2007,Marietta GA
 NJ8M,Morgan,1590,Topeka KS
 NJ8V,Dew,1969,Shade OH
@@ -3708,7 +3712,7 @@ PA1FOX,Alex,1225,Hengelo Netherlands
 PA1LEX,Lex,,Hardewijk Netherlands
 PA1LIO,Adriaan,,Eemnes Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
-PA2TA,Tjakko,2955,Papendrecht Netherlands
+PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands
@@ -4830,6 +4834,7 @@ W7KXB,Bill,1042,Apache Junction AZ
 W7LG,Mike,2682,Lewistown PA (Occ. QRP)
 W7LXN,Myron,1166,Gilbert AZ
 W7MP,Adam,OR,Beaverton OR
+W6MYN,Joe,CA,Long Beach CA
 W7OLY,Aubrey,1637,Olympia WA
 W7OM,Rod,680,Seattle WA
 W7PAU,Paul,OR,Salem OR
@@ -5100,7 +5105,7 @@ WA9CW,Tom,2238,Hillsboro WI
 WA9JBR,Jon,LA,Baton Rouge LA
 WA9LEY,Lee,1304,Orland Park IL (Occ. QRP + attic ant.)
 WA9LKF,Robert,IL,Dekalb IL
-WA9MNF,TK,2306,Lombard IL
+WA9MNF,ED,2306,Lombard IL
 WA9SEO,Mike,1748,Shorewood IL
 WA9TZE,Jim,WI,South Milwaukee WI
 WB0CFF,Carl,MN,Belle Plaine MN
