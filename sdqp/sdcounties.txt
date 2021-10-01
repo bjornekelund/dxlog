@@ -1,0 +1,66 @@
+AURO Aurora, SD
+BEAD Beadle, SD
+BENN Bennett, SD
+BONH Bon Homme, SD
+BROO Brookings, SD
+BRUL Brule, SD
+BRWN Brown, SD
+BUFF Buffalo, SD
+BUTT Butte, SD
+CAMP Campbell, SD
+CHAR Charles Mix, SD
+CLAY Clay, SD
+CLRK Clark, SD
+CODI Codington, SD
+CORS Corson, SD
+CUST Custer, SD
+DAVI Davison, SD
+DAY  Day, SD
+DEUE Deuel, SD
+DEWY Dewey, SD
+DGLS Douglas, SD
+EDMU Edmunds, SD
+FALL Fall River, SD
+FAUL Faulk, SD
+GRAN Grant, SD
+GREG Gregory, SD
+HAAK Haakon, SD
+HAML Hamlin, SD
+HAND Hand, SD
+HNSN Hanson, SD
+HRDG Harding, SD
+HUGH Hughes, SD
+HUTC Hutchinson, SD
+HYDE Hyde,SD
+JERA Jerauld,SD
+JKSN Jackson,SD
+JONE Jones,SD
+KING Kingsbury,SD
+LAKE Lake,SD
+LAWR Lawrence,SD
+LINC Lincoln,SD
+LYMA Lyman,SD
+MCOO McCook,SD
+MCPH McPherson,SD
+MEAD Meade, SD
+MELL Mellette,SD
+MINE Miner,SD
+MINN Minnehaha,SD
+MOOD Moody,SD
+MRSH Marshall,SD
+OGLA Oglala Lakota (Former Shannon county), SD
+PENN Pennington,SD
+PERK Perkins, SD
+POTT Potter, SD
+ROBE Roberts, SD
+SANB Sanborn, SD
+SPIN Spink, SD
+STAN Stanley, SD
+SULL Sully, SD
+TODD Todd, SD
+TRIP Tripp, SD
+TURN Turner, SD
+UNIO Union, SD
+WALW Walworth, SD
+YANK Yankton, SD
+ZIEB Ziebach, SD
