@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3016
-# File last updated 2021-09-30
+# Contains members up to #3017
+# File last updated 2021-10-01
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -2329,6 +2329,7 @@ KG6O=Chris;WA
 KG6PB=Jim;MI
 KG7A=Ron;1939
 KG7IRR=Andrew;WA
+KG7MVH=Peter;WA
 KG7WHX=Scott;UT
 KG7YU=Gordo;2996
 KG7ZOK=Bob;2608
@@ -2753,6 +2754,7 @@ N0XC=Steve;WI
 N0XE=Jim;IA
 N0YY=Rick;1434
 N1AE=John;MA
+N1AOK=Charlie;CO
 N1BG=Fred;1030
 N1CC=Mike;2817
 N1CCK=Nick;2710
@@ -3611,6 +3613,7 @@ OK7AN=Petr;92
 OK8AU=Slav;OK
 OK8RB=Dave;OK
 OK9RKZ=Riky;OK
+OL6M=Bob;OK
 OL8R=Petr;2830
 OM0CS=Kamil;1194
 OM0DX=Pedro;OM
@@ -4238,6 +4241,7 @@ VE7FO=Jim;1368
 VE7GPG=Greg;BC
 VE7IO=Fred;2696
 VE7JH=Gabor;2702
+VE7KH=Steve;BC
 VE7KHI=Kevin;
 VE7KW=Keith;2182
 VE7MR=Willi;427
@@ -5259,7 +5263,7 @@ WS1L=Chuck;2411
 WS4G=Peter;TX
 WS4P=Al;SC
 WS5C=Ham;2760
-WS5D=Jack;NM
+WS5D=Jack;3017
 WS6X=Jim;VA
 WS7L=Carl;2557
 WS7M=Mark;2069
