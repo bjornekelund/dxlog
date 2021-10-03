@@ -1,4 +1,5 @@
-# BCC members (2021-09-29)
+# TITLE BCC Member Names
+# VARIABLE $OPNAME
 AJ9C Mike
 YN2CC Mike
 PZ5M Mike
@@ -43,7 +44,7 @@ DF5MA Andreas
 DF6RI Alfred
 DF9GR Rene
 CP6/DF9GR Rene
-DF9LJ JÃ¶rg
+DF9LJ Jörg
 DF9MP Harry
 DF9MV Sven
 DF9TS Gerd
@@ -107,7 +108,7 @@ DJ4MX Sven
 DJ4MZ Simon
 DJ4WT Christian
 DL8L Christian
-DF0SC Christian
+ DF0SC Christian
 DJ5AN Jan
 PA1TT Jan
 DJ5CL Ingo
@@ -134,8 +135,8 @@ DJ9MH Hajo
 DJ9RR Heye
 DK1AF Ingo
 DK1A Ingo
-DN1AE Ingo
-F/DK1AF Ingo
+ DN1AE Ingo
+ F/DK1AF Ingo
 DK1AX Klaus
 DK1FT Eduard
 DK1FW Wolf
@@ -166,7 +167,7 @@ KU6I Pit
 DK3WW Uwe
 DK3YD Hans
 DN3YD Hans
-AF4AQ Hans
+ AF4AQ Hans
 DK4AA Flo
 DK4VW Ulli
 DK4WA Andy
@@ -175,7 +176,7 @@ DK5MB Tom
 DK5ON Andy
 DK5OS Olaf
 DK5PD Heinz Lothar
-DK5TT JÃ¶rn
+DK5TT Jörn
 DK5TX Ulf
 DK6AH Andreas
 DK6CQ Otto
@@ -191,7 +192,7 @@ DM0G Pit
 DK8FD Alexander
 DK8MM Mark
 K1XAQ Mark
-DN4MM Mark
+ DN4MM Mark
 DK8MZ Wolfgang
 DK8NT Gerd
 DK9BM Mike
@@ -216,7 +217,7 @@ DL1MGB Chris
 KO2WW Chris
 DL1MHJ Torsten
 DP5P Torsten
-DN1MSF Torsten
+ DN1MSF Torsten
 DL1NEO Markus
 DL1NKS Stefan
 DL1PSK Stefan
@@ -279,12 +280,12 @@ DL4NER Werner
 DP4N Werner
 DL4RCK Walter
 DL4R Walter
-DL4RDJ JÃ¶rg
+DL4RDJ Jörg
 DL4YAO Christoph
 DL4ZA Willi
 DL5CW Andreas
 DL5GAC Robert
-DL5IC Hans-JÃ¼rgen
+DL5IC Hans-Jürgen
 DL5JS Michael
 DL5KUT Holger
 DL5LYM Thomas
@@ -418,7 +419,7 @@ E7DX Braco
 OE1TKW Helmut
 N0XW Helmut
 OE2GEN Gerald
-OE2LCM GÃ¼nther
+OE2LCM Günther
 OE2VEL Wolfgang
 OE5OHO Oliver
 OE7AJT Andy

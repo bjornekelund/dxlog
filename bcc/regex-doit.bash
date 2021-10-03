@@ -8,7 +8,7 @@ wget -q --no-hsts http://www.bavarian-contest-club.de/members/bcc-members.txt -O
 echo Parsing $INFILE...
 dos2unix -q $INFILE
 
-gawk '
+sed 's/ //g' $INFILE | sort | gawk '
 BEGIN {
   FS=",";
   printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
@@ -35,7 +35,7 @@ BEGIN {
 END {
   printf(")$;ALL;ALL;ALL;2\n");
   printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n");
-}' $INFILE > $OUTFILE
+}' > $OUTFILE
 echo $OUTFILE created
 unix2dos -q $OUTFILE
 exit
