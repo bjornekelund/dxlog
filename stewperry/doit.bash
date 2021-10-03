@@ -23,7 +23,7 @@ END {
   printf("#0 Stew Perry data base\n");
   printf("#1 Data collected and maintained by VE2FK\n");
   printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
-  printf("#3 File updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Updated %s\n", strftime("%Y-%m-%d"));
 }' $FILE | sort | sed 's/^#./#/g' > $OUTFILE
 echo $OUTFILE created
 unix2dos -q $OUTFILE
