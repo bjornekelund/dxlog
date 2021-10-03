@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls UKEI80_6* | tail -1 2> /dev/null`
+FILE=`ls UKEI80_V* | tail -1 2> /dev/null`
 OUTFILE=UKEI80_db.txt
 
 echo Parsing $FILE
