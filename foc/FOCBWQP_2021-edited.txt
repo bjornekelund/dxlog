@@ -12,6 +12,8 @@
 # FOCCW
 # Last Edit,2021-02-02
 # Thanks Mats RM2D for update.
+IU0HMB,Vlad,2178
+DK7PE,Rudi,2179
 4X4DK,Ami,1836
 4X4NJ,Riki,1476
 4Z4KX,Mark,1782

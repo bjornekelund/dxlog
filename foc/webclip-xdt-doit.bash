@@ -1,4 +1,9 @@
-dos2unix webclip.txt
+INFILE=webclip.txt
+OUTFILE=FOC.xdt
+
+dos2unix -q $INFILE
+echo Parsing $INFILE...
+
 gawk '
 BEGIN {
   FS=","
@@ -21,5 +26,6 @@ BEGIN {
   printf("%s %s #%s\n", call, name, mem);
   if (strtonum(mem) > max) max = strtonum(mem);
 }
-END {}' webclip.txt > FOC.xdt
-unix2dos FOC.xdt
+END {}' $INFILE > $OUTFILE
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
