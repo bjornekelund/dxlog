@@ -1,6 +1,6 @@
 # UK EI CC database with six-position grids.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# Updated 2021-10-03.
+# Updated 2021-10-04.
 2E0NAQ=JO02UK
 2E0OBO=JO02RU
 2E0WHQ=IO91DN

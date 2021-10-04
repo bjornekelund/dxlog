@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-09-24
+# Last Edit,2021-10-03
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -148,8 +148,8 @@ AB1CW,Howard,1117,Tyngsboro MA
 AB1DQ,James,CT,Cheshire CT
 AB1GJ,Ken,161,Duxbury MA
 AB1J,Ken,MA,Waltham MA
-AB1KT,Dave,MA,Hingham MA
-AB1KT/VE3,Dave,ON,Caledon ON
+AB1KT,Dave,3019,Hingham MA
+AB1KT/VE3,Dave,3019,Caledon ON
 AB1MC,Scott,ME,Northport ME
 AB1SG,Kyle,MA,North Adams MA
 AB1WV,Marcus,CT,Bethel CT
@@ -1877,6 +1877,7 @@ K8BL,Bob,OH,Mentor OH
 K8BTU,Bill,MI,Livonia MI
 K8BZ,Steve,1397,Gladwin MI
 K8CIT,Art,2321,Hillman MI
+K8CKC,Mike,3021,Vermilion OH
 K8CMO,Dave,1652,Milford OH
 K8CMR,Carl,MI,West BloomField MI
 K8CXM,Jim,OH,Cincinnati OH
@@ -2074,7 +2075,7 @@ KB1BMF,Wolf,ME,Yarmouth ME
 KB1H,Dick,MA,Attleboro MA
 KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
-KB1NO,John,MA,Norfolk MA
+KB1NO,John,3020,Norfolk MA
 KB1VX,Barry,ME,Kittery ME
 KB1W,Len,2038,(Lenny)  Pittsfield MA
 KB1WTF,Nicolas,MA,Foxboro MA
@@ -2344,6 +2345,7 @@ KG6O,Chris,WA,Bremerton WA
 KG6PB,Jim,MI,Rapid City MI
 KG7A,Ron,1939,Mesa AZ
 KG7IRR,Andrew,WA,Seattle WA
+KG7MVH,Peter,WA,Harrah WA
 KG7WHX,Scott,UT,Orem UT
 KG7YU,Gordo,2996,Benton City WA
 KG7ZOK,Bob,2608,Mount Vernon WA
@@ -2778,6 +2780,7 @@ N0XC,Steve,WI,Osceola WI
 N0XE,Jim,IA,Sioux City IA
 N0YY,Rick,1434,Marion IA
 N1AE,John,MA,South Easton MA
+N1AOK,Charlie,CO,Fort Collins CO
 N1BG,Fred,1030,Gibsonville NC
 N1CC,Mike,2817,Scottsdale AZ
 N1CCK,Nick,2710,Manchester CT
@@ -3636,6 +3639,7 @@ OK7AN,Petr,92,(ex:OK2CQR)  Neratovice Czech Republic
 OK8AU,Slav,,Pruhonice Czech Republic
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
+OL6M,Bob,,RC-Olomouc Czech Republic
 OL8R,Petr,2830,Ritka Czech Republic
 OM0CS,Kamil,1194,Bardejov Slovak Rep.
 OM0DX,Pedro,,Presov Slovak Republic
@@ -4145,7 +4149,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Proud to be a CWOPS
+VE2FK,Dub,1181,BRAVO to all QRP
 VE2FK/M,Dub,1181,Somewhere RVing Eastern QC
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -4268,6 +4272,7 @@ VE7FO,Jim,1368,Vancouver BC
 VE7GPG,Greg,BC,Creston BC
 VE7IO,Fred,2696,Surrey BC
 VE7JH,Gabor,2702,Crofton BC
+VE7KH,Steve,BC,BC
 VE7KHI,Kevin,,Hornby Island BC (NA036)
 VE7KW,Keith,2182,Port Coquitlam BC
 VE7MR,Willi,427,Nanaimo BC
@@ -5203,7 +5208,7 @@ WC6Y,Ken,2155,Scotts Valley CA
 WC7Q,Sam,1226,Woodinville WA
 WC7S,Dale,404,College Drive Cheyenne WY
 WD0BC,Bill,MO,St. Joseph MO
-WD0END,Ron,MN,Chanhassen MN
+WD0END,Ron,3018,Chanhassen MN
 WD0T,Todd,SD,Pierre SD
 WD1AL,Ryan,MA,Belchertown MA
 WD4CFN,Steve,2228,Nashville TN
@@ -5298,7 +5303,7 @@ WS1L,Chuck,2411,North Adams MA
 WS4G,Peter,TX,Georgetown TX
 WS4P,Al,SC,Tamassee SC
 WS5C,Ham,2760,(Hampton)  Whitehouse TX
-WS5D,Jack,NM,Clovis NM
+WS5D,Jack,3017,Clovis NM
 WS6X,Jim,VA,Linville VA
 WS7L,Carl,2557,Hillsboro OR
 WS7M,Mark,2069,Fort Collins CO
