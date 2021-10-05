@@ -1,6 +1,6 @@
 # South Dakota QSO Party database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-10-01.
+# File created 2021-10-05.
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -5121,6 +5121,7 @@ KJ0B=MN
 KJ0C=MO
 KJ0G=CO
 KJ0I=CO
+KJ0M=HUTC
 KJ0P=MN
 KJ0Z=NE
 KJ1J=NH
