@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-10-05
+# Last Edit,2021-10-06
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -434,6 +434,7 @@ DF5RF,Gernot,,Schwalbach Germany
 DF5RI,Laft,,no info
 DF6FQ,Juergen,,Kahl a Main Germany
 DF6RI,Alfred,,Happurg Germany
+DF7CP,Stefan,,Eldena Germany
 DF7TV,Tom,2613,Stuttgart Germany
 DF8LY,Sven,,Ruesselsheim Germany
 DF9TF,Rich,2493,Neuenburg Germany
@@ -1247,6 +1248,7 @@ K1MK,Mike,CT,Watertown CT
 K1MM,Bill,43,Orlando FL
 K1MMB,Jeff,1716,Miami FL
 K1MT,David,2581,Holliston MA
+K1MZM,Alan,VT,Montpelier VT
 K1NMF,Den,NH,Chichester NH
 K1NOK,Bob,764,Scituate MA
 K1NY,Gerry,1929,Wantagh NY
@@ -1493,6 +1495,7 @@ K4ARQ,John,1437,Tallahassee FL
 K4AVX,John,2059,Viper KY
 K4BAI,John,76,Columbus GA
 K4BB,Bob,GA,Roswell GA
+K4BEN,Ben,VA,Arlington VA
 K4BFL,Royce,GA,Calhoun GA
 K4BG,Bob,GA,Sylvania GA
 K4BKD,Pete,GA,Marietta GA
@@ -2091,6 +2094,7 @@ KB3ML,Paul,1495,Altoona PA
 KB3SAR,Jason,2875,Watertown NY
 KB3VQL,Jay,PA,Scott Township PA
 KB3Z,Mark,1483,Collegeville PA
+KB3ZGL,Steve,Annapolid MD
 KB4CG,Jack,VA,Bealeton VA
 KB4DE,Bill,2093,Irmo SC
 KB4GYT,Paul,SC,Graniteville SC
@@ -2280,6 +2284,7 @@ KE8AKC,Steve,MI,Northville MI
 KE8DI,Dave,MI,Kalamazoo MI
 KE8EAS,Josh,OH,Athens OH
 KE8AQW,Mike,2883,Plymouth MI
+KE8BWA,Andy,OH,Mogadore OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE9I,George,IL,Northbrook IL
@@ -3202,7 +3207,7 @@ N7MB,Mike,IL,Danvers IL
 N7MQ,Steve,2215,Powell WY
 N7MU,Jim,2243,Covington WA
 N7NM,Doug,1944,Olalla WA
-N7NR,David,2927,Huntington Beach CA
+N7NR,Dave,2927,Huntington Beach CA
 N7OC,Stan,WA,Custer WA
 N7ON,John,628,Reno NV
 N7PHI,Derek,UT,Saint George UT
@@ -3355,7 +3360,9 @@ NE0N,Leon,CO,Loveland CO
 NE2V,Justin,2810,Towaco NJ
 NE4EA,Al,SC,Surfside Beach SC
 NE4EI,Dave,2856,Dunwoody GA
+NE5A,George,OH,Guthrie OH
 NE5DL,Dave,3005,Mansfield TX
+NE5ET,Perry,TX,Corinth TX
 NE5T,Gary,TX,Canton TX
 NE6ET,Shin,2835,Huntington Beac CA
 NE6DX,Mike,CA,Santa Ana CA (Dawn Patrol Surf Club)
@@ -3366,6 +3373,7 @@ NE9U,Scott,2438,Menomonie WI
 NF0N,Mike,1383,South Sioux City NE
 NF1A,Art,MA,Billerica MA
 NF1R,Clay,CA,Stanford CA
+NF1U,Fred,CT,Burlington CT
 NF3R,Joel,1971,Pottstown PA
 NF4A,Charlie,282,Lynn Haven FL
 NF5KF,Klod,2326,(F5PBL) (Claude)  Plantation FL
@@ -3835,6 +3843,7 @@ S51WO,Sam,,Koroskem Slovenia
 S52R,Tone,,Crnomelj Slovenia
 S53O,Ljubo,,Martjanci Blovenia 
 S53R,Rob,492,Spodnja Idrija Slovenia
+S55AC,Leon,,Zalec Slovenia
 S55N,Joc,2513,(Joze) Slovenia
 S56A,Mario,,Ljubljana Slovenia
 S57KM,Sandi,,Dob Slovenia
@@ -4128,6 +4137,7 @@ VA7CDB,Paul,BC,Coquitam BC
 VA7CW,Andy,352,Delta BC
 VA7DX,Neil,2691,Vancouver BC
 VA7ETR,Tamara,2619,Vancouver BC
+VA7KH,Steve,BC,Ladysmith BC
 VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada (Western Amb.)
 VA7ST,Bud,1622,Lake Country BC
@@ -4275,7 +4285,6 @@ VE7FO,Jim,1368,Vancouver BC
 VE7GPG,Greg,BC,Creston BC
 VE7IO,Fred,2696,Surrey BC
 VE7JH,Gabor,2702,Crofton BC
-VE7KH,Steve,BC,BC
 VE7KHI,Kevin,,Hornby Island BC (NA036)
 VE7KW,Keith,2182,Port Coquitlam BC
 VE7MR,Willi,427,Nanaimo BC
