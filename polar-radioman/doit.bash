@@ -19,7 +19,7 @@ BEGIN {
   if (call ~ /^[0-9,A-Z,\/]+$/ && number ~ /^AC[0-9]+$/) {
     printf("%s=%s\n", call, number);
   }
-  else if ($0 !~ /^(#|!|)/)
+  else if ($0 !~ /^(#|!|$)/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {

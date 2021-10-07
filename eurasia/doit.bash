@@ -13,7 +13,7 @@ BEGIN {
   if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~ /^[A-Ra-r]{2}[0-9]{2}[A-Xa-x]{2}$/) {
     printf("%s=%s\n", $1, toupper($3));
   }
-  else if ($0 !~ /^(!|#)/)
+  else if ($0 !~ /^(!|#|$)/)
     printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {

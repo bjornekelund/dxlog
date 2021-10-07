@@ -25,7 +25,7 @@ BEGIN {
     gsub(/ /, "", $col);
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^([A-Z]{2}|[A-Z]{4})$/)
       printf("%s=%s\n", $1, $col);
-#    else if ($col !~ /^(!|#)/)
+#    else if ($col !~ /^(!|#|$)/)
 #      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
