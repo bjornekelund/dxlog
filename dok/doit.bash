@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls WAG* | tail -1 2> /dev/null`
+FILE=`ls XM* | tail -1 2> /dev/null`
 OUTFILE=DOK_db.txt
 
 echo Using file $FILE
@@ -20,15 +20,16 @@ BEGIN {
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
-      printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+      printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } else {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z0-9]+$/)
       printf("%s=%s\n", $1, $col);
-    else
+    else if ($0 !~ /^(!|#|$)/)
       printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE
+echo Created $OUTFILE
 exit
 
