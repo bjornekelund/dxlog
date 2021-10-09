@@ -1,6 +1,6 @@
 # Illinois QSO Party database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-09-23.
+# File created 2021-10-09.
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -3232,6 +3232,7 @@ K9IA=WI
 K9IBM=WI
 K9IC=OH
 K9IG=IN
+K9IM=IN
 K9IMM=WI
 K9IMX=MO
 K9IPO=NY
