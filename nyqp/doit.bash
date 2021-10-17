@@ -21,13 +21,13 @@ BEGIN {
     if ($3 ~ /Exch1|State/) col = 2;
     if ($4 ~ /Exch1|State/) col = 3;
     if ($5 ~ /Exch1|State/) col = 4;
-    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+    printf("\"%s\" --> Column is %d\n", $0, col) > "/dev/stderr";
   } else {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z]{2,3}$/) {
       exch = substr($col, 1, length($col) > 5 ? 5 : length($col));
      printf("%s=%s\n", $1, exch);
     }
-    else
+    else if ($0 !~ /^(#|!|$)/ && $col != "")
       printf("Not included: \"%s\"\n", $0) > "/dev/stderr";
   }
 }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
