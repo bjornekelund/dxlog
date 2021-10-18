@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-10-13
+# Last Edit,2021-10-17
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -2823,6 +2823,7 @@ N1RBD,Rich,2983,Duluth GA
 N1RM,Rick,2659,Reston VA
 N1RR,Charlie,2631,Seekonk MA
 N1SNB,Jeff,2748,Haverhill MA
+N1SP,Randy,3026,Bennington VT
 N1SU,Jason,NY,Port Washington NY
 N1SUZ,Suzanne,CT,Danbury CT
 N1TA,Mike,MA,Westfield MA
@@ -3234,7 +3235,7 @@ N7TR,Rich,95,Reno NV
 N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
-N7WY,Bob,1406,Cheyenne WY
+N7WY,Bob,1406,Rogersville MO
 N7XM,Josh,WV,Dayton NV
 N7YT,Bill,1271,Seabeck WA
 N7YY,Dan,1865,Sandy OR (QRP)
@@ -5059,6 +5060,7 @@ WA2TGE,Mike,SC,Rock Hill SC
 WA2USA,Dennis,819,Newburgh IN
 WA2VYA,Frank,FL,Tallahassee FL
 WA2VZQ,Ken,NY,Saint James NY
+WA2ZDM,Pat,3027,Gainesville FL
 WA3AAN,Grant,2064,Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
 WA3FAE,Forrest,MD,
