@@ -1,6 +1,6 @@
 # TRC members database
 # Data from official listing on trcdx.org
-# Updated 2021-10-02
+# Updated 2021-10-18
 2D0YLX=TRC
 2E0ATB=TRC
 2E0CVN=TRC

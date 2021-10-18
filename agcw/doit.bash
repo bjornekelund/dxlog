@@ -18,7 +18,7 @@ BEGIN {
     printf("%s=%s\n", $2, $1);
   }
   else if ($0 !~ /#/)
-    printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
 }' $FILE > $OUTFILE
