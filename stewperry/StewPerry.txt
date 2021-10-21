@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2021-10-19
+# 3-Last Edit,2021-10-20
 # 4-Last updated from log of VE2FK
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -5300,6 +5300,7 @@ N2QOR,,FN20,
 N2QT,,FM07,
 N2RD,MARK,FN13,
 N2SB,RAJ,FM29,
+N2SO,,FN31,
 N2SQW,,FN22,
 N2TN,KEN,FN20,
 N2TU,,EM95,
