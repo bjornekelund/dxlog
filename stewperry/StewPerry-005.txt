@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2021-10-20
+# 3-Last Edit,2021-10-22
 # 4-Last updated from log of VE2FK
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -8789,6 +8789,7 @@ W4DEX,,EM95,
 W4DLZ,,EL79,
 W4DUP,DEXTER,EM76,
 W4DVG,GEORGE,EM65,
+W4DWS,,EM74,
 W4EEH,,EM75,
 W4EF,,DM04,
 W4EIP,,EL98,
@@ -9381,7 +9382,7 @@ WA2LSE,CLIFF,FN20,
 WA2LTH,RUSS,FN12,
 WA2LTM,BILL,FN20,
 WA2LUY,DOUG,FN30,
-WA2MCR,JOE,FM31,
+WA2MCR,JOE,FN31,
 WA2MNO,FRANK,EN34,
 WA2NPD,,FM29,
 WA2NXK,,FN20,
