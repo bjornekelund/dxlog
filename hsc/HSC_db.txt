@@ -1,4 +1,4 @@
-# Updated 2021-Oct-14 to HSC 2021 by DJ1YFK. Updates to dj1yfk@darc.de.
+# Updated 2021-Oct-19 to HSC 2021 by DJ1YFK. Updates to dj1yfk@darc.de.
 # http://highspeedclub.org/ - This file is always up to date at: https://hsc.dj1yfk.de/db/HSC_db.txt
 4K0CW=1647
 4K100W=1531
