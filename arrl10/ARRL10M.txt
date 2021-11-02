@@ -3,7 +3,7 @@
 #
 # ARRL10M
 # Current contest: ARRL10M 
-# Last Edit,2020-12-11 
+# Last Edit,2021-11-01 
 # Send any correction direct to ve2fk@arrl.net
 4U1WB,,MD,
 AA0A,,MO,
@@ -70,7 +70,6 @@ AA4GA,,GA,
 AA4HV,,TN,
 AA4KD,,VA,
 AA4LR,,GA,
-AA4NC,,NC,
 AA4NN,,SC,
 AA4NO,,NC,
 AA4NP,,FL,
@@ -1222,7 +1221,7 @@ K2JVB,,NY,
 K2KQ,,NY,
 K2KR,,NV,
 K2KRB,,NY,
-K2KW,,OH,
+K2KW,,VA,
 K2LE,,NJ,
 K2LE/1,,VT,
 K2LML,,NY,
