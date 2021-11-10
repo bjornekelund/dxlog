@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3065
-# File last updated 2021-11-06
+# Contains members up to #3066
+# File last updated 2021-11-10
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -258,6 +258,7 @@ AE1CW=Jim;ME
 AE1N=Lane;NH
 AE1T/1=Pete;1404
 AE1T=Peter;1404
+AE2DB=Don;NY
 AE2T=Al;NY
 AE2U=Mike;869
 AE2W=Den;MA
@@ -2081,6 +2082,7 @@ KA9ZAP=Arthur;TN
 KB0FJU=Scott;IL
 KB0GUS=Josh;KS
 KB0JSH=Amanda;IA
+KB0LF=Fred;NE
 KB0R=Larry;1491
 KB0UAZ=Jim;MN
 KB1BMF=Wolf;ME
@@ -2608,7 +2610,7 @@ KV4TE=Jason;GA
 KV4WV=Sean;FL
 KV8O=Pete;MI
 KV8Q=Tom;2175
-KW0J=GAry;IA
+KW0J=Gary;3066
 KW1C=Marty;ME
 KW1L=Paul;MI
 KW1U=Marcia;706
@@ -3640,6 +3642,7 @@ OK1TN=Slavek;662
 OK1US=Jiri;OK
 OK1VD=Vasek;OK
 OK1VK=Pavel;1897
+OK1WSL=Josef;OK
 OK1ZE=Vasek;OK
 OK2AP=Milan;OK
 OK2BOB=Bob;OK
@@ -3778,6 +3781,7 @@ PE5B=Ben;PA
 PE5O=Onno;1852
 PF5X=Enno;2531
 PG1I=Marinus;PA
+PG2GF=Harm;PA
 PG4I=Jo;2225
 PG7V=Jan;PA
 PH60VHSC=Frans;443
@@ -4174,7 +4178,6 @@ VE1VEI=Lloyd;2742
 VE1YVN=Sam;NS
 VE2AEJ/3=Alan;336
 VE2AEJ=Alan;336
-VE2AXO=Bob;1596
 VE2BWL=Guy;859
 VE2BZO=Andre;1356
 VE2CSM=Sylvain;QC
