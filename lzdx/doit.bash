@@ -1,23 +1,47 @@
 #!/bin/bash
+OLDFILE=prev-lzdx_db.txt
+OLDTEMP=.prev-lzdx_db.txt
 FILE=`ls LZDX-* | tail -1 2> /dev/null`
 OUTFILE=lzdx_db.txt
 
-dos2unix -q $FILE
-echo Parsing $FILE...
+dos2unix -q $FILE $OLDFILE
+echo Converting $OLDFILE
 gawk '
+BEGIN {
+  FS="=";
+}
+{
+  if ($1 ~ /^[0-9,A-Z]/)
+    printf("%s,,%s\n", toupper($1), toupper($2));
+  else if ($0 !~ /^(!|#|$)/ && $2 != "")
+    printf("Skipped: %s\n", $0) > "/dev/stderr";
+}' $OLDFILE > $OLDTEMP
+
+echo Parsing $FILE...
+cat $OLDTEMP $FILE | gawk '
 BEGIN {
   FS=","
   date = strftime("%Y-%m-%d");
   printf("#0 LZDX database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
+  printf("#1 Based on data from VE2FK and R9IR\n");
   printf("#2 File updated %s\n", date);
 }
 {
-  if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /[A-Z]{2}/)
-    printf("%s=%s\n", toupper($1), toupper($3));
+  if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /[A-Z]{2}/) {
+    if (ex[$1] != "" && ex[$1] != $3)
+      printf("Replacing %s with %s for %s\n", ex[$1], $3, $1) > "/dev/stderr";
+    call[$1] = $1;
+    ex[$1] = $3;
+  }
   else if ($0 !~ /^(!|#|$)/ && $3 != "")
     printf("Skipped: %s\n", $0) > "/dev/stderr";
-}' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+}
+END {
+  for (cl in call)
+    printf("%s=%s\n", cl, ex[cl]);
+}' | sort | sed 's/#. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+rm -rf $OLDTEMP
+
 exit
