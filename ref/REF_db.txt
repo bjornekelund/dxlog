@@ -1,6 +1,6 @@
 # REF database.
-# Based on call history data maintained by Valery UR7QM.
-# File created 2021-09-26.
+# Based on call history data maintained by VE2FK ve2fk@arrl.net.
+# File created 2021-11-21.
 F0FRE=58
 F1AGR=46
 F1AIR=34
@@ -182,6 +182,7 @@ F4EXN=02
 F4EYL=46
 F4EZC=44
 F4EZG=87
+F4EZH=15
 F4FAQ=34
 F4FBP=17
 F4FCE=45
@@ -315,6 +316,7 @@ F4ILN=14
 F4ILV=30
 F4IMO=82
 F4IMP=14
+F4IRC=78
 F4IVV=38
 F4JRC=30
 F4KIO=35
@@ -458,6 +460,7 @@ F5KBB=67
 F5KBG=03
 F5KCC=89
 F5KCH=58
+F5KCK=78
 F5KDC=63
 F5KDJ=45
 F5KDK=13
@@ -1045,6 +1048,7 @@ F8GFA=60
 F8GGZ=23
 F8GQH=36
 F8GQO=81
+F8IFT=78
 F8KCF=74
 F8KFE=50
 F8KFI=68

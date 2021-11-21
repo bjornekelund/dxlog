@@ -26,7 +26,7 @@ BEGIN {
     exch = ($col ~ /^[1-9]$/) ? "0" $col : $col;
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && exch ~ /^F.$|[0-9][0-9AB]$/)
       printf("%s=%s\n", $1, exch);
-    else
+    else if ($0 !~ /^(!|#|$)/)
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
