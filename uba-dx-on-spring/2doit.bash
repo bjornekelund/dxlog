@@ -7,7 +7,7 @@ OUTFILE=UBA_Sections_db.txt
 dos2unix -q $FILE1 $FILE2
 
 
-echo Parsing $FILE...
+echo Parsing $FILE1...
 
 cat $FILE1 | gawk '
 BEGIN {
@@ -44,7 +44,7 @@ BEGIN {
   }
 }
 END {
-  printf("#0 Database with UBA sections for UBA Spring Contest and UBA ON Contest\n");
+  printf("#0 Database with UBA sections for UBA, UBA Spring, and UBA ON Contests\n");
   printf("#1 Credit to UR7QM and ON4ZD for data collection.\n");
   printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
   for (c in callist) {
