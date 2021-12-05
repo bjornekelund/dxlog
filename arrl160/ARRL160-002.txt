@@ -3,9 +3,9 @@
 # 
 # ARRL160
 # Current contest: ARRL160
-# Last Edit,2021-11-01
+# Last Edit,2021-11-04
 # Send any correction direct to ve2fk@arrl.net
-# This file need to use EXCH1 in preambule
+# This file need to use Exch1 in preambule
 4U1WB,MDC,
 AA0A,MO,
 AA0AA,NE,
@@ -2124,7 +2124,7 @@ K6DSW,LAX,
 K6DTT,NNY,
 K6EEP,SJV,
 K6EGF,EB,
-K6EI,SCV,
+K6EI,EWA,
 K6EIL,UT,
 K6ELE,SF,
 K6EMI,ORG,
@@ -7004,6 +7004,7 @@ NN4RB,VA,
 NN4RH,VA,
 NN4RR,GA,
 NN4SA,AL,
+NN4SS,SC,
 NN4TO,WCF,
 NN5A,TN,
 NN5E,NTX,
