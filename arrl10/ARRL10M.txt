@@ -3,8 +3,8 @@
 #
 # ARRL10M
 # Current contest: ARRL10M 
-# Last Edit,2021-11-01 
-# Send any correction direct to ve2fk@arrl.net
+# Last Edit,2021-12-05 
+# Send new info/Corr. DIRECT to ve2fk@arrl.net
 4U1WB,,MD,
 AA0A,,MO,
 AA0AA,,NE,
@@ -4917,7 +4917,7 @@ N0KEY,,WI,
 N0KGM,,UT,
 N0KK,,MN,
 N0KOE,,NC,
-N0KQ,,CA,
+N0KQ,,CO,
 N0KR,,ND,
 N0KTY,,NC,
 N0KVN,,UT,
@@ -7105,14 +7105,12 @@ VE1DT,,NS,
 VE1JF,,NS,
 VE1JS,,NS,
 VE1MC,,NS,
-VE1OP,,NS,
 VE1RAR,,NS,
 VE1RSM,,NS,
 VE1SQ,,NS,
 VE1ZA,,NS,
 VE1ZAC,,NS,
 VE1ZD,,NS,
-VE2AXO,,QC,
 VE2BWL,,QC,
 VE2CUA,,QC,
 VE2CWQ,,QC,
@@ -10443,8 +10441,6 @@ XE2YUL,,SLP,
 XE2YW,,ZAC,
 XE2YWH,,ZAC,
 XE3ACB,,CAM,
-XE3AOC,,,
-XE3ARV,,,
 XE3D,,YUC,
 XE3DX,,CHI,
 XE3KEG,,GRO,
