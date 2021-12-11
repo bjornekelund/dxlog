@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3075
-# File last updated 2021-12-05
+# Contains members up to #3077
+# File last updated 2021-12-11
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -605,6 +605,7 @@ DM4WL=Dieter;DL
 DM6EE=Lutz;2654
 DO4DXA=Marc;1851
 DO6AN=Nils;DL
+DP4X=Mario;2801
 DP7D=Frank;DL
 DR0OEIBS=Lutz;2654
 DU3LA=Larry;644
@@ -2266,6 +2267,7 @@ KE0UI=Bob;CO
 KE0YI=John;IL
 KE1B=Rich;735
 KE1DX=Angelo;CT
+KE1EFO=Ron;MA
 KE1F=Louis;769
 KE1J=Lars;2037
 KE2D=Bob;1796
@@ -2495,7 +2497,7 @@ KM3T=Dave;50
 KM4CH=John;2039
 KM4CUB=Ron;GA
 KM4DR=Gale;TX
-KM4FO=Bill;1436
+KM4FO=Dwight;1436
 KM4HI=Jim;FL
 KM4JTE=John;FL
 KM4LAO=Ruth;2063
@@ -2594,6 +2596,7 @@ KT4E=Amy;TN
 KT4O=Ben;2995
 KT4XN=Tom;1738
 KT5C=Mike;3022
+KT5LA=Jay;
 KT5V=David;1323
 KT5W=Will;NC
 KT5X=Fred;58
@@ -2877,11 +2880,7 @@ N2KW=Allen;421
 N2LK=John;NJ
 N2MA=Al;2827
 N2MF=Brian;NY
-<<<<<<< HEAD
-N2MG=Mike;NY
-=======
 N2MG=Mike;3075
->>>>>>> e19885f9da25012753cd658279c7073c325c1db4
 N2MM=Carol;NJ
 N2NC=John;2180
 N2NL=Dave;424
@@ -3285,6 +3284,7 @@ N8LJ=Lee;MI
 N8LR=Gary;1818
 N8MTV=Mike;2065
 N8MU=Doug;VA
+N8MUS=Jon;MI
 N8NA=Karl;839
 N8OO=Vic;LA
 N8PE=John;OH
@@ -4261,6 +4261,7 @@ VE3KAE=Alan;ON
 VE3KBI=Paul;ON
 VE3KCY=Ken;ON
 VE3KI=Rich;783
+VE3KIU=Dave;3077
 VE3KP=Ken;1246
 VE3KPV=Jesse;ON
 VE3KQK=Mike;ON
@@ -4456,6 +4457,7 @@ W0UO=Jim;1069
 W0VX=Dave;967
 W0XE=Don;1500
 W0XI=Phil;KS
+W0ZP=Wayne;IN
 W1AAX=Harry;MA
 W1AGE=Carl;CWA
 W1AGR=Bruce;212
@@ -4522,6 +4524,7 @@ W2DWL=Dennis;2798
 W2ECK=Paul;GA
 W2ET=Bill;MD
 W2FV=John;WA
+W2GC=Frank;SC
 W2GD/KP2=John;204
 W2GD=John;204
 W2GEZ=MIke;NJ
@@ -4701,6 +4704,7 @@ W4NA=Nate;1334
 W4NBS=Tom;1696
 W4NF=Jack;2360
 W4NI=Russ;TN
+W4NPX=Bob;VA
 W4NTA=Jim;GA
 W4NU=John;760
 W4NZ=Ted;831
@@ -5489,7 +5493,7 @@ YU6DX=Alex;2744
 Z32U=Zoki;2667
 Z33B=Kirk;Z3
 Z35M=Vlado;Z3
-ZA1EM=Elvira;
+ZA1EM=Elvira;3076
 ZB2CW=Derek;ZB
 ZB2X=Jorma;144
 ZD8W=Oli;ZD8
