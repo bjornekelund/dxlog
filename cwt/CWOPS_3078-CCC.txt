@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-12-13
+# Last Edit,2021-12-15
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -455,7 +455,6 @@ DJ0SP,Hans,,Vreden Germany
 DJ1KJ,Hans,,Kronberg Germany
 DJ1OJ,Heijo,425,Muenchen Germany
 DJ1PQ,Rob,,Darmstadt Germany
-DJ1YFK,Fabian,1566,Germany
 DJ2AX,Peter,,Tautenhain Germany
 DJ2IA,Dieter,,Sallgast Germany
 DJ2JES,Hardy,,Hainichen Germany
@@ -464,6 +463,7 @@ DJ2PR,Rudi,,Mainz Germany
 DJ3CQ,Jo,2969,(Juergen)  Groebenzell Germany
 DJ4CW,Simone,,Hamburg Germany
 DJ4MX,Sven,2697,(9A5MX)  Muenchen Germany
+DJ5CW,Fabian,1566,(ex:DJ1YFK)  Munich Germany
 DJ6PC,Fred,,Anroechte Germany
 DJ6TK,Wilf,,Flensburg Germany
 DJ7AO,Steve,2254,Ahrensburg Germany
@@ -1026,6 +1026,7 @@ IK1WNO,Enrico,2525,Genova Italy
 IK1YRA,Carl,2866,Torino Italy
 IK2QEI,Nel,,Timis Romania
 IK2SAT,Mauro,,Nizzollina Italy
+IK2SGB,Abele,,Asola Italy
 IK2WAD,Joe,2200,(Giosue) Zanica Italia
 IK2YYM,Giu,,Rovescala Italy
 IK3YBX,Ricky,2563,Venezia Italy
@@ -1035,6 +1036,7 @@ IK4VFD,Rudy,,Parma Italia
 IK4ZIF,Lou,,Bettola Italy
 IK5DFE,Enroco,,Prato PO Italy
 IK5FKF,Larry,,Lucca Italia
+IK5MEL,Tony,,Nozzano Castello Lucca Italy
 IK5TBK,Steve,,Lucca Italy
 IK5VLL,Andy,1545,(Andrea) Manciano GR Italy
 IK7MIY,Raffael,,Corato Italy
@@ -1171,6 +1173,7 @@ K0KG,Keith,1401,Rochert MN
 K0KT,Bill,IA,Ames IA
 K0LUZ,Red,956,(Gary)  Longwood FL
 K0MD,Scott,305,Rochester MN
+K0MD/4,Scott,305,QRP portable
 K0MLF,Don,UT,La Verkin UT
 K0MP,Bill,1736,Tucson AZ
 K0MPH,Roger,MN,Maple Grove MN
@@ -2053,7 +2056,7 @@ K9ZO,Al,1761,(Ralph)  Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA1CFP,Marshall,VA,Virginia Beach VA
-KE1EFO,Ron,MA,Boxford MA
+KA1EFO,Ron,MA,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
 KA1LOR,Len,MA,Shrewsburg MA
 KA1NP,Walt,3043,Tampa FL
@@ -2451,6 +2454,7 @@ KJ4FDV,Trey,AL,Huntsville AL
 KJ4IOR,David,GA,Smyrna GA
 KJ4J,Gene,NC,Reidsville NC
 KJ4M,Gene,2109,Birmingham AL
+KJ4R,Ed,SC,Sumter SC
 KJ4WKD,Jim,CT,Danbury CT
 KJ4WNA,Max,TX,Houston TX
 KJ4YM,Mark,2317,Marietta GA
@@ -3652,6 +3656,7 @@ OH2KM,Jyri,,Roykka Finland
 OH2MA,Jukka,,Helsinki Finland
 OH2MGA,Sam,,Heinola Finland
 OH2MZA,Zaba,1856,Pori Finland
+OH2PM,Pertti,,Kiikala Finland
 OH3BCX,Zaba,1856,Pori Finland (OH1ZAA)
 OH5BM,Tap,,Simpele Finland
 OH5LQ,Pentti,,Rauha Finland
@@ -3759,6 +3764,7 @@ ON6UQ,Cel,,Rijkevorsel Belgium
 ON6WP,Pol,1009,Wuustwezel Belgium
 ON6XY,Jean Marie,,Mazy Belgium
 ON7PQ,Pat,2365,Kortryk Belgium
+ON7XN,Hans,,Brugge Belgium
 OP4A,Francis,2429,(ON6LY) Turnhout An Belgium 
 OQ3R,Mar,,Ciney Belgium
 OT4V,Danny,2170,(ON4VT)
@@ -3946,6 +3952,7 @@ SF3A,Jan,,Sundsbruk Sweden (SM3CER)
 SI5Y,Kurt,904,Ostervala Sweden (SM5BKK)
 SJ6W,Sten,,(SM6MIS)  Gothenburg Sweden
 SK2T,,,Umea Sweden (FURA Club Umea)
+SK5CD,Carl,,?
 SK6SAQ,,,Grimeton Sweden (World heritage radio station)
 SM0AIG,Ingemar,,Kista Sweden
 SM0BYD,Hans,998,Sollentuna Sweden
