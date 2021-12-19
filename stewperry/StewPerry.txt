@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2021-10-24
+# 3-Last Edit,2021-12-18
 # 4-Last updated from log of VE2FK
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -210,7 +210,6 @@ AA4FQ,,EM67,
 AA4FU,JEFF,FM05,
 AA4H,,EM86,
 AA4LR,,EM84,
-AA4NC,ALAN,FM05,
 AA4NO,WILL,FM06,
 AA4Q,BILL,DM43,
 AA4R,WILL,EN63,
@@ -362,7 +361,7 @@ AE3J,,FM29,
 AE4EC,PETER,FM05,
 AE4O,,EM73,
 AE4RO,ED,EL97,
-AE4Y,TOM,EM74,
+AE4Y,Kent,EM85,
 AE5K,KENT,EM36,
 AE5OV,,DM72,
 AE5PW,,EM45,
@@ -5156,7 +5155,7 @@ N0KIS,JAY,EN10,
 N0KK,,EN35,
 N0KM,BRUCE,DM67,
 N0KN,,EM28,
-N0KQ,,DM79,
+N0KQ,Bill,DM79,
 N0KQY,KENNETH,DM98,
 N0KSC,GARY,EM18,
 N0LIK,,EM48,
