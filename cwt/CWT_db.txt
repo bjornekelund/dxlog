@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3078
-# File last updated 2021-12-15
+# Contains members up to #3080
+# File last updated 2021-12-17
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -1443,6 +1443,7 @@ K3JHT=John;PA
 K3JLM=Dennis;PA
 K3JST=John;PA
 K3JT=Terry;1398
+K3LNS=Red;
 K3LR=Tim;943
 K3MD=John;750
 K3MIY=Ron;PA
@@ -1692,6 +1693,7 @@ K5RT=Paul;1073
 K5SGE=Phil;1470
 K5SNA=Larry;TX
 K5TA=Scott;496
+K5TER=Don;TX
 K5TF=Dick;1033
 K5TM=Tom;SC
 K5TO=Wally;1341
@@ -2050,6 +2052,7 @@ KA1NP=Walt;3043
 KA1YQC=Mark;2718
 KA2F=John;NJ
 KA2KGP=Tom;NY
+KA3D=Dan;PA
 KA3DRR=Scot;CA
 KA3J=Ron;MD
 KA3LXM=Jim;2294
@@ -2439,7 +2442,7 @@ KJ4FDV=Trey;AL
 KJ4IOR=David;GA
 KJ4J=Gene;NC
 KJ4M=Gene;2109
-KJ4R=Ed;SC
+KJ4R=Ed;3080
 KJ4WKD=Jim;CT
 KJ4WNA=Max;TX
 KJ4YM=Mark;2317
@@ -2794,6 +2797,7 @@ N0MII=Jeff;MO
 N0MP=Bill;AZ
 N0MPM=Mike;IA
 N0OI=Scott;2628
+N0OJ=Ryan;FL
 N0PP=Geo;2048
 N0QLT=Russ;MO
 N0QM=Larry;644
@@ -4517,7 +4521,7 @@ W1UU/4=Peter;91
 W1UU=Peter;91
 W1VE=Gerry;191
 W1VEM=Dave;CT
-W1VKE=Vin;MA
+W1VKE=Vin;3079
 W1WBB=Bill;2207
 W1WEF=Jack;48
 W1XT=Bob;AZ
