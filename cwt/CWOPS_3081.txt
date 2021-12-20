@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-12-16
+# Last Edit,2021-12-19
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -2058,7 +2058,7 @@ K9ZO,Al,1761,(Ralph)  Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA1CFP,Marshall,VA,Virginia Beach VA
-KA1EFO,Ron,MA,Boxford MA
+KA1EFO,Ron,3081,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
 KA1LOR,Len,MA,Shrewsburg MA
 KA1NP,Walt,3043,Tampa FL
