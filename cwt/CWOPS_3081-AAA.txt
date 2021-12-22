@@ -4,7 +4,7 @@
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Always LOG what is sent.
-# Last Edit,2021-12-19
+# Last Edit,2021-12-21
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -2263,6 +2263,7 @@ KD4UYP,Brian,GA,Sugar Hill GA
 KD5BKW,Abdul,LA,Metairie LA
 KD5DD,Doc,MS,Tupelo MS (Deep Dixie Contest Club)
 KD5J,Cord,2491,Batesville AR
+KD7HU,Charlie,MT,Billings MT
 KD7UI,John,1363,Wauna WA
 KD7YDT,Peter,WA,Kent WA
 KD8BBK,Tony,OH,Louisville OH
@@ -3213,6 +3214,7 @@ N6MST,Mike,CA,Bakersfield CA
 N6NC,Lars,1290,La Jolla CA
 N6NF,Tom,2011,Woodside CA
 N6NR,Rich,WA,Tieton WA
+N6PF,Elliot,CA,Oakland CA
 N6PN,Matt,253,Concord CA
 N6RK,Rick,97,Galt CA
 N6RO,Ken,79,Oakley CA

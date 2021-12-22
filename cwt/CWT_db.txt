@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3081
-# File last updated 2021-12-20
+# File last updated 2021-12-22
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -2250,6 +2250,7 @@ KD4UYP=Brian;GA
 KD5BKW=Abdul;LA
 KD5DD=Doc;MS
 KD5J=Cord;2491
+KD7HU=Charlie;MT
 KD7UI=John;1363
 KD7YDT=Peter;WA
 KD8BBK=Tony;OH
@@ -3188,6 +3189,7 @@ N6MST=Mike;CA
 N6NC=Lars;1290
 N6NF=Tom;2011
 N6NR=Rich;WA
+N6PF=Elliot;CA
 N6PN=Matt;253
 N6RK=Rick;97
 N6RO=Ken;79
