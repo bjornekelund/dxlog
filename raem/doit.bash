@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls RAEM.* | tail -1 2> /dev/null`
+FILE=`ls RAEM-* | tail -1 2> /dev/null`
 OUTFILE=RAEM_db.txt
 echo Parsing $FILE...
 dos2unix -q $FILE

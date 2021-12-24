@@ -1,12 +1,13 @@
 #!/bin/bash
-FILE=`ls UBASP* | tail -1 2> /dev/null`
+FILE="Fullcall.txt Vanitycall.txt"
+#FILE="Fullcall.txt"
 OUTFILE=UBA_Sections_db.txt
-echo Parsing $FILE...
+echo Parsing $FILE
 dos2unix -q $FILE
 
-gawk '
+cat $FILE | gawk '
 BEGIN {
-  FS=","
+  FS="="
 }
 {
   if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[A-Z]{3}$/) {
@@ -21,7 +22,7 @@ END {
   printf("#0 Database with UBA sections for UBA Spring Contest and UBA ON Contest\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
-}' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+}' | sort | uniq | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
