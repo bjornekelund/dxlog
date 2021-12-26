@@ -2,7 +2,7 @@
 FILE=`ls XM* | tail -1 2> /dev/null`
 OUTFILE=DOK_db.txt
 
-echo Using file $FILE
+echo Parsing file $FILE
 
 dos2unix -q $FILE
 gawk '
@@ -13,6 +13,7 @@ BEGIN {
   printf("#1 Based on call history data maintained by VE2FK ve2fk@arrl.net.\n");
   printf("#2 File created %s.\n", date);
   col = 2;
+  max = 0;
 }
 {
   if ($0 ~ "!!Order!!") {
@@ -22,13 +23,20 @@ BEGIN {
     if ($5 ~ /Exch1/) col = 4;
       printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } else {
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z0-9]+$/)
+    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z0-9]+$/) {
       printf("%s=%s\n", $1, $col);
+      if (length($col) > max) {
+        longest = $col;
+        max = length($col);
+      }
+    }
     else if ($0 !~ /^(!|#|$)/)
       printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+END {
+  printf("Longest DOK is %s which is %d characters.\n", longest, max) > "/dev/stderr"; 
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 exit
