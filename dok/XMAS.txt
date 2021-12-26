@@ -1,9 +1,9 @@
-!!Order!!, Call, Exch1, UserText, 
+!!Order!!, Call, Sect, UserText, 
 #
 # DARC10M
 # DOK database file for DARC contests (10m, EASTER, WAG, XMAS).
 # First compiled by DK9TN, 12/Oct/2021.
-# Last Edit,2021-10-17
+# Last Edit,2021-12-25
 # Send any corrections direct to VE2FK@arrl.net
 # TNX to DM5TI & DJ3IW/sk.
 # Updated frm log of VE2FK 

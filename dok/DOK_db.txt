@@ -1,6 +1,6 @@
 # German DOK database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-10-17.
+# File created 2021-12-26.
 DA0A=N11
 DA0AA=B06
 DA0APOLLO=APOLLO
