@@ -1,7 +1,7 @@
 # NTC QP database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# File last updated 2021-12-22
+# File last updated 2021-12-26
 9A1AA=Peter;37
 CT7AUP=David;118
 DC8ED=Karl;77

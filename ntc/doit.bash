@@ -1,6 +1,6 @@
 #!/bin/bash
 FILE=`ls NTC_QP* | tail -1 2> /dev/null`
-OUTFILE=NTCQP_db.txt
+OUTFILE=NTC_db.txt
 
 dos2unix -q $FILE
 echo "Parsing" $FILE
