@@ -1,5 +1,10 @@
 #!/bin/bash
-dos2unix WWPMC.txt
+FILE="WWPMC.txt"
+OUTFILE=WWPMC_db.txt
+
+dos2unix -q $FILE
+echo "Parsing" $FILE...
+
 gawk '
 BEGIN {
   FS=","
@@ -8,15 +13,15 @@ BEGIN {
   if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 != "") {
     printf("%s=%s\n", $1, $2);
   }
-  else
-    printf("Fail: \"%s\"\n", $0) > "/dev/stderr"
+  else if ($0 !~ /^(!|#|$)/)
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
-END { 
+END {
   printf("#0 WW PMC database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < WWPMC.txt | sort | sed 's/^\#. /\# /g' > WWPMC_db.txt
+}' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo "WWPMC_db.txt created"
-unix2dos WWPMC_db.txt
+echo "Created" $OUTFILE
+unix2dos -q $OUTFILE
 exit
