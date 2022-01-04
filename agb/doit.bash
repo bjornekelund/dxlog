@@ -1,0 +1,26 @@
+#!/bin/bash
+FILE=`ls agb-list* | tail -1 2> /dev/null`
+echo FILE=\"$FILE\"
+OUTFILE=AGB_db.txt
+
+dos2unix -q $FILE
+echo "Parsing" $FILE
+gawk '
+BEGIN {
+  FS=" "
+  date = strftime("%Y-%m-%d");
+  printf("#0 AGB members database\n");
+  printf("#1 Based on http://ev5agb.com/club/agb-list.txt\n");
+  printf("#2 File created %s\n", date);
+  col = 2;
+}
+{
+  if ($1 ~ /^[0-9]+$/ && $2 ~ /^[A-Z0-9\/]+$/)
+    printf("%s=%s\n", $2, $1);
+  else if ($0 !~ /^N/)
+    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
+}
+END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+exit
