@@ -1,6 +1,6 @@
 # ARRL RTTY database
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# File updated 2022-01-02
+# File updated 2022-01-05
 4U1WB=DC
 AA0A=MO
 AA0AI=IA

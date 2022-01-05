@@ -2,7 +2,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-01-03
+# Last Edit,2022-01-04
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN
@@ -406,7 +406,7 @@ CO8NMN,Noe,2082,Santiago de Cuba
 CO8ZZ,Raul,1682,Las Tunas Cuba
 CR6K,Fil,2699,(CT1ILT)  S. Martinho da Gandara Portugal
 CR7AJL,Men,,Almada Portugal
-CT1BOH,Jose,,Portugal
+CT1BOH,Jose,837,Portugal
 CT1DBS,Pedro,,Lisboa Portugal
 CT1DRB,Dave,430,Paio Pires Portugal
 CT1ILT,Fil,2699,(CR6K)  S. Martinho da Gandara Portugal 
@@ -2456,7 +2456,7 @@ KI9R,Basil,IN,Greenville IN
 KI9T,Pat,2293,Springfield IL
 KJ0D,Eric,MO,Paymore MO
 KJ1J,John,NH,Dover NH
-KJ3Q,Al,FL,Weston FL
+KJ3Q,Al,1531,Weston FL
 KJ4CC,Ben,AL,Huntsville AL
 KJ4DEM,Ben,NC,Sanford NC
 KJ4FDV,Trey,AL,Huntsville AL
@@ -4459,7 +4459,7 @@ W0BH,Bob,669,Hesston KS
 W0BNW,Jim,IA,Boone IA
 W0BR,Bob,PA,Carlisle PA
 W0BV,Bob,753,Buena Vista CO
-W0CCA,Cap,CO,Dolores CO
+W0CCA,Cap,1381,Dolores CO
 W0CD,Jim,KS,Ozawkie KS
 W0CO,Brad,1452,Pitkin CO
 W0CP,Walt,1752,Englewood CO
@@ -4745,7 +4745,7 @@ W4JS,John,FL,Englewood FL
 W4KA,Dave,SC,Anderson SC
 W4KEP,Chas,VA,Blacksburg VA
 W4KIL,Andy,NC,Hillsborough NC
-W4KLY,Paul,GA,Stone Mountain GA
+W4KLY,Paul,1568,Stone Mountain GA
 W4KX,Tom,NC,Cary NC
 W4LJ,Doug,2823,Columbia SC
 W4LRB,Ben,2852,Florence MA
@@ -4776,7 +4776,6 @@ W4PF,Steve,2056,Louisville KY
 W4PM,Puck,93,Mechanicsville VA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
-W4QO,Jim,1366,Roswell GA (QRP)
 W4RK,Bill,459,Jefferson City MO
 W4RM,Bill,2330,Nokesville VA
 W4RN,Mike,585,Round Hill VA
@@ -5497,6 +5496,7 @@ WW9S,Gary,IL,Lake Forest IL
 WW9W,Robert,TX,Allen TX
 WX0B,Jay,620,Sunnyvale TX
 WX2S,Steve,1757,Kingston NJ
+WX3M,Milt,775,Rockville VA
 WX4W,CW,1991,(Curtis) Crestwood KY
 WX5CW,Chris,1762,St. Louis MO
 WX7SJ,Mark,1100,Sequim WA

@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3090
-# File last updated 2022-01-04
+# File last updated 2022-01-05
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -401,7 +401,7 @@ CO8NMN=Noe;2082
 CO8ZZ=Raul;1682
 CR6K=Fil;2699
 CR7AJL=Men;CT
-CT1BOH=Jose;CT
+CT1BOH=Jose;837
 CT1DBS=Pedro;CT
 CT1DRB=Dave;430
 CT1ILT=Fil;2699
@@ -2440,7 +2440,7 @@ KI9R=Basil;IN
 KI9T=Pat;2293
 KJ0D=Eric;MO
 KJ1J=John;NH
-KJ3Q=Al;FL
+KJ3Q=Al;1531
 KJ4CC=Ben;AL
 KJ4DEM=Ben;NC
 KJ4FDV=Trey;AL
@@ -4430,7 +4430,7 @@ W0BH=Bob;669
 W0BNW=Jim;IA
 W0BR=Bob;PA
 W0BV=Bob;753
-W0CCA=Cap;CO
+W0CCA=Cap;1381
 W0CD=Jim;KS
 W0CO=Brad;1452
 W0CP=Walt;1752
@@ -4712,7 +4712,7 @@ W4JS=John;FL
 W4KA=Dave;SC
 W4KEP=Chas;VA
 W4KIL=Andy;NC
-W4KLY=Paul;GA
+W4KLY=Paul;1568
 W4KX=Tom;NC
 W4LJ=Doug;2823
 W4LRB=Ben;2852
@@ -4743,7 +4743,6 @@ W4PF=Steve;2056
 W4PM=Puck;93
 W4QED=Benny;FL
 W4QN=Norm;1937
-W4QO=Jim;1366
 W4RK=Bill;459
 W4RM=Bill;2330
 W4RN=Mike;585
@@ -5459,6 +5458,7 @@ WW9S=Gary;IL
 WW9W=Robert;TX
 WX0B=Jay;620
 WX2S=Steve;1757
+WX3M=Milt;775
 WX4W=CW;1991
 WX5CW=Chris;1762
 WX7SJ=Mark;1100
