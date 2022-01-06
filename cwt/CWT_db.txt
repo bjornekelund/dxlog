@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3090
-# File last updated 2022-01-05
+# Contains members up to #3091
+# File last updated 2022-01-06
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -1129,6 +1129,7 @@ JT1F=RC;JT
 K0AD=Al;138
 K0AF=Andy;2990
 K0ALN=Bob;CO
+K0ALT=Christine;CO
 K0AP=Dragan;370
 K0AV=Alan;1129
 K0BJ=Bruce;KS
@@ -1762,7 +1763,6 @@ K6KM=Rob;2450
 K6KQV=Bill;CA
 K6KR=Dick;257
 K6KX=Fred;274
-K6L=Jim;CA
 K6LL=Dave;1455
 K6LRC=Bob;CA
 K6LRN=Rich;CA
@@ -2077,7 +2077,6 @@ KA5ZLQ=Jackie;OR
 KA6AIL=Duaine;CA
 KA6JLT=Rob;NV
 KA6KKE=Ken;CA
-KA6LMS/1=John;
 KA6LMS=John;CA
 KA6S=Steve;CA
 KA6U/VY2=Peter;PE
@@ -2121,7 +2120,7 @@ KB3RC=Ken;PA
 KB3SAR=Jason;2875
 KB3VQL=Jay;PA
 KB3Z=Mark;1483
-KB3ZGL=Steve;Annapolid MD
+KB3ZGL=Steve;Annapolis MD
 KB4CG=Jack;VA
 KB4DE=Bill;2093
 KB4GYT=Paul;SC
@@ -3230,7 +3229,7 @@ N7DXT=Gary;MT
 N7EDK=Ed;FL
 N7ELL=James;AZ
 N7ETI=Mark;OR
-N7FUL=Steve;TX
+N7FUL=Steve;3091
 N7GBK=James;WA
 N7HRK=Rick;1169
 N7ID=Mike;2310
@@ -3562,6 +3561,7 @@ NT8B=Leon;VA
 NU1N=Brian;MA
 NU1O=Chris;1670
 NU2J=Marc;NJ
+NU3A=Ken;DE
 NU4C=Paul;FL
 NU6N=Arka;2152
 NU6T=Richard;CA
@@ -5452,7 +5452,7 @@ WW0WWV=Eric;CO
 WW2Y=Peter;NJ
 WW3S=Jim;2775
 WW4XX=Alex;GA
-WW5W=Jeff;TX
+WW5W=Jeff;CWA
 WW9R=Pat;730
 WW9S=Gary;IL
 WW9W=Robert;TX
