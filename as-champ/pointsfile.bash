@@ -3,15 +3,16 @@ OUTFILE=ASCHAMP_points.txt
 
 gawk '
 BEGIN {
+  minlat = 4;
+  maxlat = 8;
+  minlong = 4;
+  maxlong = 17;
   date = strftime("%Y-%m-%d");
   printf("#\n");
   printf("# Asiatic Russia Championship points file\n");
-  printf("# File created %s.\n", date);
+  printf("# File created %s\n", date);
+  printf("# Exchange range is from %s to %s\n", minlat minlong, maxlat maxlong);
   printf("#\n");
-  minlat = 4;
-  maxlat = 9;
-  minlong = 4;
-  maxlong = 18;
   for (mylat = minlat; mylat <= maxlat; mylat++) {
     for (mylong = minlong; mylong <= maxlong; mylong++) {
       myexch = mylat mylong;
