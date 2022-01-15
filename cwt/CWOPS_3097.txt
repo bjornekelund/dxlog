@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-01-12
+# Last Edit,2022-01-14
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -41,6 +41,7 @@
 8P9NX,Peter,,Barbados (W0SA)
 8Q7ZO,Mark,1224,(N5ZO)
 9A/F4GFT,Andy,,
+9A/N4XU,Bob,,Zagreb Croatia
 9A/S57KM,Sandi,9A,
 9A1AA,Ivo,2447,Belisce Croatia
 9A2AJ,Tom,2506,(Tomislav)  Lipik Croatia
@@ -293,6 +294,7 @@ AE8TF,Tom,MI,Macomb MI
 AF1E,Joe,2605,Conover NC
 AF1R,Leandra,MA,Needham Heights MA
 AF1Z,Mark,258,O'Brien FL
+AF2F,Vlad,3097,Morganville NJ
 AF3K,John,2186,Naples FL
 AF4FG,Earl,GA,Lawrenceville GA
 AF4NC,Tom,1521,Yardley PA
@@ -2575,7 +2577,7 @@ KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
 KO4GBD,Aaron,FL,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
-KO4VW,Steve,GA,Roswell GA
+KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
 KO6U,Nathan,CA,Corona CA
 KO8SCA,Ady,2408,(Adrian)  Bayside NY
@@ -3133,7 +3135,7 @@ N5DDX,Tracy,TX,Ft Worth TX
 N5DX,Kevin,1293,Harrison AR (ZF2DX)
 N5EE,Ken,1766,Gravette AZ
 N5EIL,Neil,1635,Terrell TX (Mostly QRP)
-N5EP,Steve,CWA,Naperville IL
+N5EP,Steve,IL,Naperville IL
 N5ER,John,3036,Cabot  AR (Occ. QRP)
 N5EVE,Frank,RI,Patucket RI
 N5FIW,Joel,IL,Barrington IL
@@ -3571,6 +3573,7 @@ NR1R,Ray,841,Reading MA
 NR1X,Allen,CT,Dayville CT
 NR3N,Angel,1792,Manassas VA
 NR3Z,Marty,2322,Lansdale PA
+NR4A,Sam,3095,Spring Hill FL
 NR4M,Steve,993,Locust Grove VA
 NR4N,Angel,VA,Manassas VA
 NR5W,Doug,2722,Seattle WA

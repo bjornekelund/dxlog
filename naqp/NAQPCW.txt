@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2022-01-09
+# 1-Last Edit,2022-01-14
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-
 # 4-
@@ -2576,7 +2576,7 @@ K5XH,MARK,AR,
 K5XK,RON,AR,
 K5XQ,BUD,AL,
 K5XR,JOE,TX,
-K5XU,BRAILLE,MS,
+K5XU,Lloyd,MS,Braille Team in Memory of W3IUU
 K5XX,,TX,
 K5YA,,TX,
 K5YAA,JERRY,OK,
@@ -2632,7 +2632,7 @@ K6DMZ,ED,CA,
 K6DT,,CA,
 K6DTT/1,AL,ME,
 K6DV,,CA,
-K6EI,JIM,WA,
+K6EI,JIM,CA,
 K6EID,,CA,
 K6EID/4,,GA,
 K6ELE,ED,CA,
@@ -4017,7 +4017,7 @@ KB8RQ,,OH,
 KB8RY,,IL,
 KB8SHE,,OH,
 KB8TXZ,JIM,MI,
-KB8TYJ,BRAILLE,MI,
+KB8TYJ,Lloyd,MI,Braille Team in Memory of W3IUU
 KB8U,,MI,
 KB8UHN,JOHN,OH,
 KB8UUZ,,OH,
@@ -5743,7 +5743,7 @@ KW1U,MARCIA,MA,
 KW2D,,NY,
 KW2J,,NY,
 KW2O,,NY,
-KW3A,BRAILLE,PA,
+KW3A,Lloyd,PA,Braille Team in Memory of W3IUU
 KW3S,RON,CT,
 KW3W,,MD,
 KW3Z,,DE,
@@ -7664,7 +7664,7 @@ N9BIL,,IL,
 N9BJG,,IL,
 N9BMH,MARTIN,WI,
 N9BOR,MIKE,IL,
-N9BSO,BRAILLE,MO,
+N9BSO,Lloyd,MO,Braille Team in Memory of W3IUU
 N9BT,BILL,IL,
 N9BUB,DAVE,IN,
 N9BWT,STEVE,IN,
