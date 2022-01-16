@@ -4,7 +4,7 @@ OUTFILE=NTC_db.txt
 
 dos2unix -q $FILE
 echo "Parsing" $FILE
-cat $FILE | gawk '
+cat $FILE | tr -d ' ' | gawk '
 BEGIN {
   FS=",";
   maxlen = 0;
@@ -27,7 +27,7 @@ END {
   printf("#1 Based on data collected and maintained by Claude VE2FK\n");
   printf("#2 Send updates/corrections to ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+}' | sort | sed 's/^\#. /\# /g' | uniq > $OUTFILE
 
 echo $OUTFILE "created"
 unix2dos -q $OUTFILE
