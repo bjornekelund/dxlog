@@ -1,6 +1,6 @@
 # REF database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2022-01-18.
+# File created 2022-01-25.
 F0FRE=58
 F1AGR=46
 F1AIR=34
