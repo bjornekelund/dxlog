@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-01-21
+# Last Edit,2022-01-26
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -257,6 +257,7 @@ AD7AF,Rich,OR,Ashland OR
 AD7I,Paul,2946,Middletown NJ
 AD7KG,Jed,UT,South Jordan UT
 AD8CW,Doug,412,Fairlawn OH
+AD8IG,Vlad,OH,(ex:KM6Z)  Horth Royalton OH
 AD8J,John,1395,Asheville NC  (Occ. remote)
 AD8J/HR9,John,1395,
 AD8WR,Dave,2857,Granger IN
@@ -1500,6 +1501,7 @@ K3TX,Dave,PA,Yardley PA
 K3UA,Phil,1579,Imperial PA
 K3UK,Andy,NY,Fredonia NY
 K3UL,Bob,1673,Williamsport PA
+K3UO,Kelly,MD,North Potomac MD
 K3US,John,VA,Fairfax VA
 K3UT,Phil,1537,St-Simons Island GA NA058 
 K3VIG,Ron,PA,Newfoundland PA
@@ -1857,6 +1859,7 @@ K7JA,Chip,CA,Garden Grove CA
 K7JKZ,John,OK,Oklahoma OK
 K7JPN,John,AZ,Scottsdale AZ
 K7JQ,Bob,592,Gold Canyon AZ
+K7JR,Joe,OR,Snake River CC Baker City OR
 K7KHC,Kevin,1298,Aberdeen WA
 K7KY,Doug,1396,Brookings OR
 K7LV,George,800,Las Vegas NV
@@ -2227,6 +2230,7 @@ KC8GTX,Mike,MI,Birmingham MI
 KC8J,Walt,2085,San Diego CA
 KC8UR,Tony,2278,Mount Vernon OH
 KC9EE,Gary,1240,Morton IL
+»KC9IL,Warren,IL,Buffalo Grove IL
 KC9JVB,Bob,2606,Vancouver WA
 KC9JYF,Tom,IL,Coal City IL
 KC9K,Dave,1875,Knoxville IL
@@ -2413,6 +2417,7 @@ KG7MVH,Peter,WA,Harrah WA
 KG7WHX,Scott,UT,Orem UT
 KG7YU,Gordo,2996,Benton City WA
 KG7ZOK,Bob,2608,Mount Vernon WA
+KG8Y,Tom,KY,Burlington KY
 KG9LB,Jim,2018,Virginia Beach VA
 KG9MG,Jay,WI,La Crosse WI
 KG9ML,Mike,IL,Wilmette IL
@@ -2708,6 +2713,7 @@ KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
 KZ5D,Art,12,New Ibria LA (CWops Vice-Pres. Activities + Events)
 KZ6H,Steve,2286,Thousand Oaks CA
+LA/DL4HCF,Hubert,,
 LA0CX,Uli,,Halden Norway
 LA1IO,Halvor,2651,Algard Norway
 LA1K,Jens,,(LB6RH)  RC Trondheim Norway
@@ -3008,7 +3014,7 @@ N3TM,Thayer,PA,Harmony PA
 N3TOD,Igor,MD,Gaithersburg MD
 N3TWM,Evan,PA,Bellefonte PA
 N3UA,Sejo,VA,Richmond VA
-N3VO,Marc,CWA,Potomac MD
+N3VO,Marc,3100,Potomac MD
 N3WT,John,185,Jefferson MD
 N3XA,Jim,2975,Staunton VA
 N3XF,Dave,2962,Ligonier PA
@@ -3513,7 +3519,7 @@ NJ8V,Dew,1969,Shade OH
 NJ9S,Bruno,2966,Mishawaka IN
 NK1N,Glen,2812,Hillsborough NJ
 NK2F,Phil,1842,(F5IYJ)
-NK3H,Mitch,AZ,Paradise AZ
+NK3H,Mitch,3102,Paradise AZ
 NK4I,Tighe,1481,Summerville SC
 NK4O,AJ,2690,Miami FL
 NK7B,Jim,1774,Saint-Paul MN
@@ -3552,6 +3558,7 @@ NN6N,Joe,CA,Petaluma CA
 NN6T,Glen,781,Kingman AZ
 NN7M,Ryan,2245,Seattle WA
 NN7W,TC,2057,(Terry) Show Low AZ
+NN9G,Dana,WI,Appleton WI
 NO0B,James,IA,Tiffin IA
 NO3M,Ty,PA,East Brady PA
 NO3U,Otto,PA,Allison Park PA
@@ -3972,6 +3979,7 @@ SA2RFQ,Dan,1601,Lulea Sweden (WB4RFQ)
 SA6BGR,Per,1773,Lindome Sweden (also SD6M)
 SA6G,Lars,173,Dalsjofors Sweden (SM6CUK)
 SA7UFO,Uno,,Hassleholm Sweden
+SC0T,Olle,SM,Uplands Vasby Sweden
 SC3N,Andy,265,Iggo Island Sweden (EA8CN)
 SD1A,Eric,1718,Visby Sweden (SM1TDE)
 SD6F,Klas,2163,Askim Sweden (SM6JWR) (Occ. QRP)
@@ -4083,6 +4091,7 @@ SP8ARY,Ron,,Krasnik Poland
 SP9AVR,Claudio,,Naklo Slaskie Poland
 SP9BRP,Jan,,Krakow Poland
 SP9FOW,Roman,,Swierklany Poland
+SP9OGP,Piotr,,Poland
 SP9R,Jan,,Krakow Poland
 SP9RXP,Peter,,Niedzica Poland
 SQ5VCO,Adam,2781,Chrzczanka-Folwark Poland
@@ -4545,6 +4554,7 @@ W1AGE,Carl,CWA,Framingham MA
 W1AGR,Bruce,212,100th ann. Norfolk County Radio Ass. 
 W1AJT,Art,2647,(VE3UTT) Terrell NC
 W1AO,Joe,125,Manchester ME
+W1ARY,marcel,CT,Wilton CT
 W1AX,Roger,MA,Westwood MA
 W1CWT,,,New England CWops Club (Beverly MA)
 W1EBI,George,9,Acton MA  (Also VA2EBI)
@@ -4568,7 +4578,7 @@ W1LWH,Linn,551,Belmont MA
 W1MA,Ed,MA,Norwood MA
 W1MD,Marty,2591,Palm Bay FL
 W1MO,Norm,FL,New Smyrna Beach FL
-W1ND,Glen,ME,South Berwick ME
+W1ND,Glen,3101,South Berwick ME
 W1NN,Hal,785,Medina OH (Occ. remote from Japan)
 W1NU,Ryan,MA,Belchertown MA
 W1OL,Guy,MA,Stoneham MA
@@ -4583,6 +4593,7 @@ W1QK,Dan,1506,Brookfield CT
 W1QS,John,918,Waldoboro ME
 W1RH,Bob,2443,Placerville CA
 W1RM,Pete,8,Burlington CT
+W1SAV,Savi,CA,Alhambra CA
 W1SFR,Steve,VT,Sudbury VT
 W1STV,Savi,NH,Grantham NH
 W1TO,Tom,2042,Cheshire MA
@@ -5064,7 +5075,7 @@ W8JLT,Joh,MI,Harrison MI
 W8JPF,Joe,OH,Columbus OH
 W8JWN,Tom,MI,Iron Mountain MI
 W8KNO,Joe,OH,Hiran OH
-W8KR,John,1951,Edina MN
+W8KR,Jack,1951,Edina MN
 W8LVI,Ron,2040,Pataskala OH
 W8LVN,Bill,IL,Winthrop Harbor IL
 W8MET,Met,2028,Independence OH
@@ -5321,6 +5332,7 @@ WB2WGX,Rich,2630,Buffalo NY
 WB2YQH,Bob,246,Spring Brook NY
 WB3BIQ,Rick,PA,Irwin PA
 WB3JGP,Randy,CA,El Cerrito CA
+WB3JQ,,PA,?
 WB3LJQ,Vin,CWA,Latrobe PA
 WB4AEG,Hal,1646,Adairsville GA
 WB4AQL,Mike,498,Chickamauga GA
@@ -5400,6 +5412,7 @@ WD5RS,Russ,TX,Milford TX
 WD6T,Dave,2079,Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
 WD8DIN,Sis,VA,Richmond VA
+WD8PKF,Alan,IA,Algona IA
 WD9DZV,Tim,IL,Chicago IL
 WD9F,Woody,591,Springfield IL
 WD9FOO,Dean,IL,Algonquin IL

@@ -1,6 +1,6 @@
 # Winter Field Day database.
 # Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2022-01-17.
+# File created 2022-01-27.
 AA0RW=2I;MN
 AA1SB=1O;NH
 AA1W=1H;NH
@@ -236,7 +236,7 @@ K5YW=2I;NTX
 K6AAI=1H;SV
 K6ACJ=1O;ORG
 K6AUH=1H;SF
-K6EI=4O;SCV
+K6EI=3O;SCV
 K6GTE=1O;ORG
 K6IDS=1O;SB
 K6KEC=1O;PAC
@@ -471,6 +471,7 @@ KE8DGF=1O;MI
 KE8DMB=1O;WV
 KE8FZX=1H;MI
 KE8LCJ=2O;OH
+KE8LGO=1H;WV
 KE8PX=1H;OH
 KE8RV=2I;OH
 KF0JB=1H;CO
