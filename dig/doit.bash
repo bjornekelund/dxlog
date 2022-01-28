@@ -1,8 +1,12 @@
 #!/bin/bash
 FILE=DIGLISTE.csv
+OUTFILE=DIG_db.txt
+
+echo "Downloading" $FILE
+
 wget -q https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -O $FILE
 
-OUTFILE=DIG_db.txt
+echo "Parsing" $FILE
 
 dos2unix -q $FILE
 
