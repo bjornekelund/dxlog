@@ -1,6 +1,6 @@
 # ARRL DX database
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# File updated 2022-01-27
+# File updated 2022-01-31
 2E0CVN=50
 3V8SS=100
 3Z1K=100
@@ -10860,7 +10860,6 @@ ON4CAU=100
 ON4IA=KW
 ON4KNP=100
 ON4LY=50
-ON4UN=KW
 ON5JT=100
 ON5RA=KW
 ON6CK=100
@@ -14789,6 +14788,7 @@ W9VHL=MO
 W9VNE=OH
 W9VQ=IL
 W9VT=IL
+W9VW=IN
 W9WE=IL
 W9WGN=IL
 W9WGV=IL

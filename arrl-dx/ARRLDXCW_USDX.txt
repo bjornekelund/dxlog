@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2022-01-26 
+# Last Edit,2022-01-28 
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 2E0CVN,,,50,
@@ -10900,7 +10900,6 @@ ON4CAU,,,100,
 ON4IA,,,KW,
 ON4KNP,,,100,
 ON4LY,,,50,
-ON4UN,,,KW,
 ON5JT,,,100,
 ON5RA,,,KW,
 ON6CK,,,100,
@@ -14835,7 +14834,8 @@ W9VA,,IL,
 W9VHL,,MO, 
 W9VNE,JIM,OH, 
 W9VQ,NORMAN,IL, 
-W9VT,,IL, 
+W9VT,,IL,
+W9VW,,IN, 
 W9WE,DAVE,IL, 
 W9WGN,MARK,IL, 
 W9WGV,DEAN,IL, 
