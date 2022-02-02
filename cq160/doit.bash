@@ -1,6 +1,6 @@
 #!/bin/bash
 INFILE=`ls CQ160* | tail -1 2> /dev/null`
-OUTFILE=CQ_160M_db.txt
+OUTFILE=CQ160_db.txt
 echo Using $INFILE
 dos2unix -q $INFILE
 

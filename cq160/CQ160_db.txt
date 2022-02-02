@@ -1,6 +1,6 @@
 # CQ 160M database - States and provinces
 # Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# File updated 2022-01-25
+# File updated 2022-02-02
 4U1WB=DC
 AA0AI=IA
 AA0AW=MN
