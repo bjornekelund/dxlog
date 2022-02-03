@@ -1,8 +1,30 @@
 #!/bin/bash
+FILE=NAQPCW.txt
+OUTFILE=CPQP_db.txt
 
-./makeregex.bash ALBERTA.txt > alberta-regex.txt
-./makeregex.bash SASKATCHEWAN.txt > saskatchewan-regex.txt
-./makeregex.bash MANITOBA.txt > manitoba-regex.txt
-unix2dos -q *regex.txt
+echo "Parsing" $FILE
+dos2unix -q $FILE
+
+gawk '
+BEGIN {
+  FS=","
+  date = strftime("%Y-%m-%d");
+  printf("#0 Preliminary CPQP database based on NAQP database\n");
+  printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
+  printf("#2 File updated %s\n", date);
+  maxlen = 0;
+  longest = "";
+}
+{
+  if ($1 ~ /^[0-9A-Z]+$/ && $3 !~ /^(\s*|MB|SK|AB)$/) {
+    printf("%s=%s\n", $1, $3);
+  }
+  else if ($0 !~ /^(!|#|$)/)
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
+}
+END {
+}' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+echo "Created" $OUTFILE
+unix2dos -q $OUTFILE
+
 exit
-
