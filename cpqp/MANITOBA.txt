@@ -1,0 +1,14 @@
+BRS=Brandon-Souris
+CHA=Charleswood - St. James - Assiniboia - Headingley
+CHR=Churchill - Keewatinook Aski
+DAU=Dauphin-Swan River - Neepawa
+ELM=Elmwood - Transcona
+KIL=Kildonan - St. Paul
+POR=Portage - Lisgar
+PRO=Provenchar
+SEL=Selkirk - Inerlake - Eastman
+STB=St. Boniface - St. Vital
+WPC=Winnipeg Centre
+WPN=Winnipeg North
+WPS=Winnipeg South
+WSC=Winnipeg South Centre
