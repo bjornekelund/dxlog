@@ -1,6 +1,6 @@
 #
 # Current contest: EUAS-CHAMP
-# Last Edit,2021-02-04
+# Last Edit,2022-02003
 # Thanks to Nick NA3M new CH file
 # Send new info or corrections direct to ve2fk@arrl.net
 # EUAS-CHAMP
@@ -1801,6 +1801,7 @@ LX1KN,,JN39es
 LX1TSF,,JN29xx
 LY1DZ,,KO25ma
 LY1R,,KO14rv
+LY2A,,KO14mp
 LY2AX,,KO14tw
 LY2BAA,,KO25er
 LY2BM,,KO24cx
@@ -2464,7 +2465,7 @@ OM8LM,,KN09db
 OM8MF,,JN88ph
 OM8VL,,KN08gw
 OM8WG,,KN08pr
-ON1DX,,JO21ji
+ON1DX,,JO21kl
 ON2AD,,JO21pc
 ON3LX,,JN29wn
 ON3ND,,JO20fj
@@ -2512,7 +2513,7 @@ OP4A,,JO21lh
 OP4D,,JO20ek
 OP4K,,JO21ff
 OQ5M,,JO20ar
-OR2A,,JO21ji
+OR2A,,JO21kl
 OR3A,,JO21pf
 OR4K,,JO20ar
 OR5T,,JO10ws
