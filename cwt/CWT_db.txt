@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3102
-# File last updated 2022-02-03
+# Contains members up to #3103
+# File last updated 2022-02-04
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -1201,6 +1201,7 @@ K0TG=John;1830
 K0TI=Dan;2836
 K0TQ=Mike;2434
 K0TRL=Brad;KS
+K0UE=Clarence;CO
 K0UK=Bill;1154
 K0UU=Jeff;MN
 K0VBU=Bill;844
@@ -1847,6 +1848,7 @@ K7JPN=John;AZ
 K7JQ=Bob;592
 K7JR=Joe;OR
 K7KHC=Kevin;1298
+K7KPA=Kevin;UT
 K7KY=Doug;1396
 K7LV=George;800
 K7LVJ=John;1833
@@ -3652,6 +3654,7 @@ OF5ZA=Zaba;1856
 OG6B=Zaba;1856
 OH/UX1HW/M=Art;1890
 OH0XX=Olli;328
+OH1NA=Timo;328
 OH1NOA=Timo;2967
 OH1RX=Jouko;608
 OH1SIC=GI;2094
@@ -4603,6 +4606,7 @@ W2IY=Mike;3031
 W2JAZ=Rick;2239
 W2JK=Joe;NY
 W2JLK=Jim;NJ
+W2KU=Vin;NJ
 W2LB=Larry;906
 W2LCQ=Ed;701
 W2LE=Paul;NJ
@@ -5188,6 +5192,7 @@ WA3JJT=Steve;2914
 WA3MIX=Lou;1308
 WA3NZR=John;1028
 WA3QNT=Bob;1687
+WA3RWP=Walt;VA
 WA3TMR=Steve;NC
 WA3TRE=Don;PA
 WA3WAW=Bill;PA
@@ -5584,7 +5589,7 @@ ZL2KE=Steve;1281
 ZL3CW=Jacky;ZL
 ZL3XDJ=Brian;ZL
 ZP6CW=Doug;ZP
-ZP9MCE=Manu;ZP
+ZP9MCE=Manu;3103
 ZR2A=Ulrich;2470
 ZS1C=Raoul;338
 ZS1EL=Vidi;13
