@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=QSOP_CP.txt
+FILE=NAQPCW.txt
 OUTFILE=CPQP_db.txt
 
 echo "Parsing" $FILE
@@ -9,7 +9,7 @@ gawk '
 BEGIN {
   FS=","
   date = strftime("%Y-%m-%d");
-  printf("#0 Database for Canadian Prairies QSO Party\n");
+  printf("#0 Preliminary CPQP database based on NAQP database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
   printf("#2 File updated %s\n", date);
   maxlen = 0;
