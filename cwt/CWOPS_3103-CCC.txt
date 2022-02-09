@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-02-02
+# Last Edit,2022-02-09
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -693,9 +693,12 @@ EI2HIB,Martin,,Waterford Ireland
 EI2IDB,Slav,,Meath Ireland
 EI2IM,Don,55,Virginia Beach VA (W4ZYT)
 EI3HA,Tony,,Strandhill Sligo Ireland
+EI4BZ,Dave,,Cork Ireland
+EI5LA,Megan,,Kerry Ireland
 EI6FR,Declan,2811,Dublin Ireland
 EI6KT,John,2965,DublinIreland
 EI6KW,Slav,,Ashbourne Ireland
+EI6LA,Rafal,CWA,Wicklow Ireland
 EI7BA,John,,Whitegate Co. Cork. Ireland
 ER/UW7LL,Yarik,2229,
 ER1SN,Alex,,Chisinau Moldova
@@ -1210,6 +1213,7 @@ K0TG,John,1830,Vadnais MN
 K0TI,Dan,2836,Wodbury MN
 K0TQ,Mike,2434,North Vernon IN
 K0TRL,Brad,KS,Leawood KS
+K0UE,Clarence,CO,Boulder CO
 K0UK,Bill,1154,Grand Junction CO
 K0UU,Jeff,MN,Crystal Bay MN
 K0VBU,Bill,844,Overland Park KS
@@ -1861,6 +1865,7 @@ K7JPN,John,AZ,Scottsdale AZ
 K7JQ,Bob,592,Gold Canyon AZ
 K7JR,Joe,OR,Snake River CC Baker City OR
 K7KHC,Kevin,1298,Aberdeen WA
+K7KPA,Kevin,UT,Orem UT
 K7KY,Doug,1396,Brookings OR
 K7LV,George,800,Las Vegas NV
 K7LVJ,John,1833,Burlington WA
@@ -3678,6 +3683,7 @@ OF5ZA,Zaba,1856,
 OG6B,Zaba,1856,OH1ZAA
 OH/UX1HW/M,Art,1890,Mobile
 OH0XX,Olli,328,Jaali Finland
+OH1NA,Timo,328,
 OH1NOA,Timo,2967,Pori Finland
 OH1RX,Jouko,608,Salo Finland
 OH1SIC,GI,2094,(SM5SIC)  Finland
@@ -3739,6 +3745,7 @@ OK2BOB,Bob,,Olomouc Czech Republic
 OK2BTE,Alois,,Jablunkova Czech Republic
 OK2CQR,Petr,92,(OK7AN) Neratovice Czech Republic
 OK2FD,Karel,,Stare Hobzi Czech Republic
+OK2IW,Swatik,,Praslavicz Czech Republic
 OK2JS,Jan,,Velka Bites Czech Republic
 OK2NAJ,Jiri,2740,Czech Republic
 OK2OX,Jiri,,no info
@@ -4215,6 +4222,7 @@ UY5MB,Vlad,,Lugansk Ukraine
 UY5QZ,Val,,Zaporozh'e Ukraine
 UY7LU,Alex,,Kharkov Ukraine
 UZ1WW,Bob,527,Lviv Ukraine
+V4/KG9N,Chuck,969,
 V21XN,Bill,KY,Richmond KY USA
 V26K,Bud,242,Antigua (AA3B)
 V26M,Alan,727,(N3AD) Antigua and Barbuda
@@ -4294,7 +4302,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,MN QSO Party this weekend
+VE2FK,Dub,1181,Eatern QC FN68hr
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -4426,7 +4434,7 @@ VE7JH,Gabor,2702,Crofton BC
 VE7KHI,Kevin,,Hornby Island BC (NA036)
 VE7KW,Keith,2182,Port Coquitlam BC
 VE7MR,Willi,427,Nanaimo BC
-VE7NZ,Adrian,2758,Coquitlam BC
+VE7NZ,Ady,2758,(Adrian)  Coquitlam BC
 VE7SK,Bob,BC,Prince George BC
 VE7XT,Rich,2831,Victoria BC
 VE8IR,Ian,NT,Yellowknife NT
@@ -4636,6 +4644,7 @@ W2IY,Mike,3031,Santa Fe NM
 W2JAZ,Rick,2239,Cherry Hill NJ
 W2JK,Joe,NY,Floral Park NY
 W2JLK,Jim,NJ,Matawan NJ
+W2KU,Vin,NJ,Township NJ
 W2LB,Larry,906,Farmington NY
 W2LCQ,Ed,701,New York NY
 W2LE,Paul,NJ,Flemington NJ
@@ -5226,6 +5235,7 @@ WA3JJT,Steve,2914,Mc Kean PA
 WA3MIX,Lou,1308,Williamsport PA
 WA3NZR,John,1028,Lancaster PA
 WA3QNT,Bob,1687,Franklin PA
+WA3RWP,Walt,VA,Williamsburg VA
 WA3TMR,Steve,NC,Fuquay Varina NC
 WA3TRE,Don,PA,McClure PA
 WA3WAW,Bill,PA,Uniontown PA
@@ -5625,7 +5635,7 @@ ZL2KE,Steve,1281,70km NE of Wellington
 ZL3CW,Jacky,,(F2CCW) Tauranga New Zealand
 ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
 ZP6CW,Doug,,Caacupe Paraguy
-ZP9MCE,Manu,,Hohenau Paraguay
+ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
 ZS1C,Raoul,338,Kraaifontein SA (AFS Amb. Director)
 ZS1EL,Vidi,13,Somerset Mall South Africa

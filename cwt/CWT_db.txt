@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3103
-# File last updated 2022-02-04
+# File last updated 2022-02-09
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -688,9 +688,12 @@ EI2HIB=Martin;EI
 EI2IDB=Slav;EI
 EI2IM=Don;55
 EI3HA=Tony;EI
+EI4BZ=Dave;EI
+EI5LA=Megan;EI
 EI6FR=Declan;2811
 EI6KT=John;2965
 EI6KW=Slav;EI
+EI6LA=Rafal;CWA
 EI7BA=John;EI
 ER/UW7LL=Yarik;2229
 ER1SN=Alex;ER
@@ -3716,6 +3719,7 @@ OK2BOB=Bob;OK
 OK2BTE=Alois;OK
 OK2CQR=Petr;92
 OK2FD=Karel;OK
+OK2IW=Swatik;OK
 OK2JS=Jan;OK
 OK2NAJ=Jiri;2740
 OK2OX=Jiri;OK
@@ -4199,6 +4203,7 @@ V31JP=Joe;V3
 V31MA=Marc;1851
 V31SP=Phil;2588
 V31UB=Colin;418
+V4/KG9N=Chuck;969
 V47NT=Andy;2036
 V47UM=Bill;1699
 VA1CWO=Gerry;191
@@ -4399,7 +4404,7 @@ VE7JH=Gabor;2702
 VE7KHI=Kevin;
 VE7KW=Keith;2182
 VE7MR=Willi;427
-VE7NZ=Adrian;2758
+VE7NZ=Ady;2758
 VE7SK=Bob;BC
 VE7XT=Rich;2831
 VE8IR=Ian;NT
