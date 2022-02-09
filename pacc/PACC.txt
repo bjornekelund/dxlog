@@ -1,10 +1,10 @@
-﻿!!Order!!, Call, Sect, 
+!!Order!!, Call, Sect, 
 #
 # Database for PACC Contest 2022
 # Based on preleminary works by DL5JQ
 # Created by RM1F software at 13.02.2021 11:16:58
 # Total 13368 unique entries.
-# Last Edit,2022-01-14
+# Last Edit,2022-02-07
 # Send new info/corrections DIRECT ve2fk@arrl.net
 # PACC
 PA0A,GR
@@ -46,6 +46,7 @@ PA0AFM,NB
 PA0AFN,NB
 PA0AGA,GR
 PA0AGB,GD
+PA0AGF,OV
 PA0AGI,NB
 PA0AGM,GD
 PA0AGP,NH
@@ -2389,7 +2390,6 @@ PA3AG,NB
 PA3AGA,NB
 PA3AGD,NH
 PA3AGE,ZL
-PA3AGF,OV
 PA3AGJ,UT
 PA3AGK,OV
 PA3AGP,GD
