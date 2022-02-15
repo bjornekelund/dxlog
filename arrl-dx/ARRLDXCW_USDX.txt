@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2022-01-28 
+# Last Edit,2022-02-14 
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 2E0CVN,,,50,
@@ -1884,7 +1884,7 @@ IK1TAZ,,,500,
 IK1YDB,,,500,
 IK2AHB,,,500,
 IK2ANI,,,500,
-IK2AOO,,,500,
+IK2AOO,,,100,
 IK2BCP,,,500,
 IK2CIO,,,500,
 IK2CLB,,,100,
@@ -10621,7 +10621,7 @@ NV5H,BRAD,TX,
 NV7A,,NV, 
 NV8N,BILL,MI, 
 NV8V,,IL, 
-NV9L,VAL,IL, 
+NV9L,VAL,FL, 
 NV9X,JIM,IL, 
 NV9Z,,IN, 
 NW0L,,MO, 
@@ -15932,7 +15932,7 @@ WB9WOZ,BRUCE,IL,
 WB9YCH,,OH, 
 WB9YIG,DAVE,IN, 
 WB9YLZ,HOWIE,MN, 
-WB9Z,JERRY,IL, 
+WB9Z,JERRY,FL, 
 WB9ZAI,,IL, 
 WC0AAA,,MN, 
 WC0WB,,MO, 
