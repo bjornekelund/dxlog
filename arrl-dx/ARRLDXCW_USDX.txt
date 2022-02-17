@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2022-02-14 
+# Last Edit,2022-02-17 
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 2E0CVN,,,50,
@@ -10953,8 +10953,9 @@ P40L,,,K,
 P40R,,,K,
 P40SW,,,K,
 P40W,,,100,
-P44W,,,KW,
+P44W,John,,100,W2GD
 P49Y,,,K,
+PA0Q,,,100,
 PA0CMU,,,100,
 PA0FVH,,,100,
 PA0GJV,,,400,
@@ -12095,7 +12096,8 @@ VO1MP,GUS,NL,
 VO1TTY,FRANK,NL, 
 VO1XC,LAURENCE,NL, 
 VO2AC,CHRIS,NL, 
-VO2FF,DAN,NL, 
+VO2FF,DAN,NL,
+VX2X,DUB,QC,,VE2FK
 VY0ERC,UREKA,NU, 
 VY1CM,ROBERT,YT, 
 VY1EI,ERIC,YT, 
