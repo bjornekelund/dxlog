@@ -28,8 +28,9 @@ BEGIN {
 }
 END {
   printf("#0 ARRL DX database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
-  printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | sed 's/^\#. /\# /g' > ARRL_DX_db.txt
 
 echo $OUTFILE created

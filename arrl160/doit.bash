@@ -17,8 +17,9 @@ BEGIN {
 }
 END {
   printf("#0 ARRL 160m database - ARRL/RAC sections\n");
-  printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
-  printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo $OUTFILE "created"
