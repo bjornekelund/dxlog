@@ -1,0 +1,64 @@
+AL Alabama 
+MN Minnesota 
+WA Washington 
+AK Alaska 
+MS Mississippi 
+WV West Virginia 
+AZ Arizona 
+MO Missouri 
+WI Wisconsin 
+AR Arkansas 
+MT Montana 
+WY Wyoming 
+CA California 
+NE Nebraska 
+CT Connecticut 
+NH New Hampshire 
+CO Colorado 
+NV Nevada 
+DC Dist of Columbia 
+NJ New Jersey 
+AB Alberta 
+DE Delaware 
+NM New Mexico 
+BC British Columbia 
+FL Florida 
+NY New York 
+MB Manitoba 
+GA Georgia 
+ND North Dakota 
+NB New Brunswick 
+HI Hawaii 
+OH Ohio 
+NL Newfoundland/Labrador 
+ID Idaho 
+OK Oklahoma 
+NS Nova Scotia 
+IL Illinois 
+OR Oregon 
+NWT Northwest Territories 
+IN Indiana 
+PA Pennsylvania 
+NU Nunavut 
+IA Iowa 
+RI Rhode Island 
+ON Ontario 
+KS Kansas 
+SC South Carolina 
+PE Prince Edward Isl 
+KY Kentucky 
+SD South Dakota 
+QC Quebec 
+LA Louisiana 
+TN Tennessee 
+SK Saskatchewan 
+ME Maine 
+TX Texas 
+YT Yukon Territory 
+MD Maryland 
+UT Utah 
+MA Massachusetts 
+VT Vermont 
+MI Michigan 
+VA Virginia 
+DX Other DX Country 
