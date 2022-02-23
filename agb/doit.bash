@@ -1,10 +1,13 @@
 #!/bin/bash
-FILE=`ls agb-list* | tail -1 2> /dev/null`
-echo FILE=\"$FILE\"
+
+FILE=agb-list.txt
 OUTFILE=AGB_db.txt
 
+wget -q http://ev5agb.com/club/agb-list.txt -O $FILE
 dos2unix -q $FILE
+
 echo "Parsing" $FILE
+
 gawk '
 BEGIN {
   FS=" "
