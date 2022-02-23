@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3107
-# File last updated 2022-02-22
+# File last updated 2022-02-23
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -1166,6 +1166,7 @@ K0ERE=Bill;AZ
 K0ES=Gerry;CO
 K0EU=Ken;1113
 K0EX=Mark;667
+K0FBS=Brian;CO
 K0FG=Fred;1893
 K0FHG=Bob;MO
 K0FUZ=John;2796
@@ -1687,7 +1688,7 @@ K5JTH=Jim;TX
 K5JX=Rene;1003
 K5KB=Bill;TX
 K5KC=Ken;2067
-K5KG=Geo;FL
+K5KG=Geo;2026
 K5KJ=Sam;TX
 K5KLA=Bill;LA
 K5KPE=Bob;AR
@@ -1904,7 +1905,7 @@ K7VM=Craig;1256
 K7VW=Fred;2893
 K7WA=Jim;2338
 K7WEH=Bill;NV
-K7WP=John;AZ
+K7WP=John;2022
 K7XC=Tim;NV
 K7XH=Mike;1441
 K7YEM=Steve;2604
@@ -3082,7 +3083,7 @@ N4LGG=Andy;
 N4LSJ=Tom;3094
 N4LW=Bob;CWA
 N4NBM=Al;FL
-N4NM=Chuck;AL
+N4NM=Chuck;1288
 N4NQ=Sid;1611
 N4NR=Dennis;AL
 N4NS=Ken;FL
@@ -4360,7 +4361,7 @@ VE3KP=Ken;1246
 VE3KPV=Jesse;ON
 VE3KQK=Mike;ON
 VE3KQN=Jim;ON
-VE3KZ=Bob;ON
+VE3KZ=Bob;2026
 VE3MA=Al;1860
 VE3MGY=Brian;1285
 VE3MM=Rick;1947
@@ -5558,6 +5559,7 @@ WY0M=Mike;MO
 WY6K=Mike;2181
 WY7M=Chuck;WY
 WZ0W=Scott;MO
+WZ4M=Tom;NC
 WZ6T=Dave;CA
 WZ8P=Ev;OH
 XE1IM=Hector;2673

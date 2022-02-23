@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-02-18
+# Last Edit,2022-02-23
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1076,6 +1076,7 @@ IT9SSI,Dario,2137,(W1SSI) Capo d'Orlando Messina Italy
 IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
 IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
+IU1MRY,Fabrizio,,Omegna Italy
 IU4APC,Andrea,,Cesena FC Italia
 IV3ZUY,Dudine,,Aiello Del Friuli Italy
 IW0EFO,Daniele,,Italy
@@ -1173,6 +1174,7 @@ K0ERE,Bill,AZ,Sun City AZ/Winter
 K0ES,Gerry,CO,Englewood CO
 K0EU,Ken,1113,Denver CO
 K0EX,Mark,667,Colorado Springs CO
+K0FBS,Brian,CO,Elizabeth CO
 K0FG,Fred,1893,Sunrise Beach MO
 K0FHG,Bob,MO,Saint Peters MO
 K0FUZ,John,2796,Leawood KS
@@ -1699,7 +1701,7 @@ K5JTH,Jim,TX,Weatherford TX
 K5JX,Rene,1003,Weslaco TX
 K5KB,Bill,TX,Medina TX
 K5KC,Ken,2067,Stillwater OK
-K5KG,Geo,FL,(970) Sarasota FL (VP2MKG)
+K5KG,Geo,2026,Sarasota FL (VP2MKG)
 K5KJ,Sam,TX,Garland TX
 K5KLA,Bill,LA,Kenner LA
 K5KPE,Bob,AR,Bella Vista AR
@@ -1917,7 +1919,7 @@ K7VM,Craig,1256,Bremerton WA
 K7VW,Fred,2893,Beaverton OR
 K7WA,Jim,2338,Seattle WA
 K7WEH,Bill,NV,Henderson NV
-K7WP,John,AZ,Tempe AZ
+K7WP,John,2022,Tempe AZ
 K7XC,Tim,NV,Fallon NV
 K7XH,Mike,1441,Renton WA
 K7YEM,Steve,2604,University Place WA  (Occ. QRP)
@@ -2748,6 +2750,7 @@ LA6FJA,Rag,,Reinsvoll Norway
 LA6PH,John,2448,Isle of Hvaasser Norway
 LA6RK,Olaf,,Oslo Norway
 LA7GIA,Ken,1888,Hagan Norway
+LA7RRA,Piotr,,Loten Norway
 LA7XIA,Morten,,Kopervik Norway
 LA8OM,Chris,1848,Hafrsfjord Norway
 LB1GB,Bjorn,992,Oslo Norway
@@ -3105,7 +3108,7 @@ N4LGG,Andy,,
 N4LSJ,Tom,3094,Cincinnati OH
 N4LW,Bob,CWA,Rockledge FL
 N4NBM,Al,FL,Winter Springs FL
-N4NM,Chuck,AL,Huntsville AL
+N4NM,Chuck,1288,Huntsville AL
 N4NQ,Sid,1611,Lawrenceville GA
 N4NR,Dennis,AL,Pelham AL
 N4NS,Ken,FL,Daytona Beach FL
@@ -3868,7 +3871,7 @@ PA1BBO,Bert,,Hellendoorn Netherlands
 PA1FOX,Alex,1225,Hengelo Netherlands
 PA1LEX,Lex,,Hardewijk Netherlands
 PA1LIO,Adriaan,,Eemnes Netherlands
-PA2G,Gerard,,Capelle Ann Den IJssel Netherlands
+PA2G,Gerard,3107,Capelle Ann Den IJssel Netherlands
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
@@ -4388,7 +4391,7 @@ VE3KP,Ken,1246,Peterborough ON
 VE3KPV,Jesse,ON,Guelph ON
 VE3KQK,Mike,ON,St Thomas ON
 VE3KQN,Jim,ON,Pickering ON
-VE3KZ,Bob,ON,Milton ON
+VE3KZ,Bob,2026,Milton ON
 VE3MA,Al,1860,Milton ON
 VE3MGY,Brian,1285,Sparta ON
 VE3MM,Rick,1947,St-Catherines ON
@@ -5071,7 +5074,7 @@ W7RN,Tom,108,VC Highlands NV (K5RC)
 W7RX,Scott,2034,Eugene OR
 W7SAG,John,1582,Eagle ID (Occ. QRP)
 W7SAG/0,John,1582,
-W7SW,,AZ,143 - (Scotty) Sun City West AZ
+W7SW,,AZ,143,(Scotty) Sun City West AZ
 W7TAO,Todd,WA,Mount Vernon WA
 W7UDH,Dick,WA,Seattle WA
 W7UT,Bob,200,Huron SD
@@ -5597,6 +5600,7 @@ WY6K,Mike,2181,Parker TX
 WY7CWO,,WY,Rocky Mountain CWops Club (Cheyenne WY)
 WY7M,Chuck,WY,Worland WY
 WZ0W,Scott,MO,Moscow Mills MO
+WZ4M,Tom,NC,Davidson NC
 WZ6T,Dave,CA,Vacaville CA
 WZ8P,Ev,OH,Zanesville OH
 XE1IM,Hector,2673,Puebla Mexico
