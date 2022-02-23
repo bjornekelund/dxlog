@@ -1,6 +1,6 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Updated 2022-02-22
+# Updated 2022-02-23
 DK1OU=13
 DK4LX=18
 DL7DO=24

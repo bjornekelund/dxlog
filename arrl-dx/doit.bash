@@ -16,7 +16,7 @@ BEGIN {
   if (call ~ /^[0-9,A-Z\/]+$/) {
     if (call == prevcall)
       printf("Dupe: \"%s\"\n", $0) > "/dev/stderr"
-    else if ($3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/ && $4 == "")
+    else if ($3 ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/ && $4 == "")
       printf("%s=%s\n", $1, $3);
     else if ($4 ~ /^[0-9KW]+$/)
       printf("%s=%s\n", $1, $4);
