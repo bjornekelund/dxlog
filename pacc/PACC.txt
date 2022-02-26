@@ -3,7 +3,7 @@
 # Database for PACC Contest 2022
 # Based on preleminary works by DL5JQ
 # Created by RM1F software at 13.02.2021 11:16:58
-# Last Edit,2022-02-17
+# Last Edit,2022-02-25
 # Thanks update Jan/PA4JJ
 # Send new info/corrections DIRECT ve2fk@arrl.net
 # PACC
@@ -4270,7 +4270,7 @@ PA3ETG,ZH,
 PA3ETH,GR,
 PA3ETI,GD,
 PA3ETL,NB,
-PA3ETM,NH,
+PA3ETM,OV,
 PA3ETN,FR,
 PA3ETO,GD,
 PA3ETQ,FR,

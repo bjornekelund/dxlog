@@ -3,7 +3,7 @@
 # QSOPARTY NC
 # QSOP_NC
 # Send corrections direct to ve2fk@arrl.net
-# Last Edit,2022-02-21
+# Last Edit,2022-02-26
 #
 # Counties ---------------
 AA3N,,WAK,
@@ -108,9 +108,12 @@ WB1CZX,,PEQ,
 WB4DCM,,HYD,
 WH6LE,,UNI,
 WW4DC,,CAS,
-W4DW,,,BONUS
-NI4BK,,,BONUS
-W1VOA,,,BONUS
+N4D,,,BONUS
+N4U,,,BONUS
+N4K,,,BONUS
+N4E,,,BONUS
+NC4QP,,,BONUS
+
 
 # US States and Canana Prov. ---------------
 AA0AC,DAVE,MN, 
