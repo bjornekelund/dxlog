@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls RSGBBERU* 2> /dev/null`
+FILE=`ls RSGBBERU* | tail -1`
 if [ -n "$FILE" ]; then
   echo Parsing $FILE...
   dos2unix -q $FILE

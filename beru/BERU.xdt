@@ -7,12 +7,13 @@
 3B9AN Rodrigues Isl. DXP (F8AAN) 
 5B4AHJ Alan Pafos District Cyprus 
 5W1SA Atsuo Japan 
-5X1XA Alan (G3XAQ) Kampala Uganda 
+5X1XA Alan (G3XAQ) Kampala World Traveller Plus Team 
 5Z4/G3AB Andy Nairobi Kenya 
 6Y0BE Boyan (LZ2BE) in Jamaica 
 6Y5HN Nigel Kingston Jamaica 
 6Y5WJ Josh St-Elizaberth Jamaica 
-8P6DR Richard Barbados (G3RWL) 
+8P6DR Richard (G3RWL) 
+8P6DR Richard Barbados 
 8Q7NC Maldives IOTA AS-118 
 9H1AE Savvas Sliema Malta 
 9H1CG Joe Pembroke PBK Malta 
@@ -22,7 +23,7 @@
 9H3ET Peter Gozo Malta 
 9H3FC Kris Mellieha Malta 
 9H6A John Xghajra Malta 
-9H6YI Mike Campervan in Gozo 
+9H6YI Mike Campervan - World Traveller Plus Team 
 9J2BO Brian Lusaka Zanbia 
 9J2LA Zambia DXP 
 9M2PUL Zukhi West Malaysia 
@@ -36,7 +37,7 @@ AT3T HQ Bangalore India
 AY4DX Juan Argentina 
 AY5DT Carlos 
 C4Z Brian Mazotos Larnaca Cyprus 
-C56DF Don (G3XTT) 
+C56DF Don (G3XTT) World Traveller Plus Team 
 C56DF Don Gambia 
 C6AKT Dom (M1KTA) Bahamas 
 C6AQQ Brian Mt.Airy MD 
@@ -354,7 +355,6 @@ G4RKO Barry
 G4RMV Mike 
 G4S Nigel (G3TXF) Surrey England 
 G4SGI Simon Cheltenham England 
-G4SGX Ian Norwich Norfolk England 
 G4SIE Rik Northmberland England 
 G4SJX Mike 
 G4SKA John Bridgend Wales 
@@ -724,6 +724,7 @@ MW7X Darren nr Milford Have SW coast
 S21SM Syed Dhaka Baangladesh 
 V31GS Gary (K9GS) Belize 
 V31GX Ian (G4SGX) Belize 
+V31GX Ian (G4SGX) Belize World Traveller Plus Team 
 V31MA Marc Belize 
 V51YJ Andrew Windhoek Namibia 
 VA1CC Brian Halifax N S 
@@ -1359,6 +1360,7 @@ VE9SIX Mike (VE9AA)
 VE9TTY Jim St John NB 
 VE9VIC Rino Kedgwick Ouest NB 
 VE9WH Jim St John NB 
+VJ3A Steve (VK3JA) Australia's Team 2 - Elliminyt Australia 
 VK/G3VYI Mike Camping car/vertical 
 VK1WIA HQ Andrew Australia (VK1DA/VK2UH)
 VK2/G3VYI Mike Camping car/vertical 
@@ -1374,12 +1376,12 @@ VK2GR Allan Team 1 Australia - Ulladulla
 VK2IG Mike Gundaroo Australia 
 VK2IM Vlad 
 VK2KM Karl 
-VK2PN Patrick Australia's Team 2 - Black Head Australia 
+VK2PN Patrick (Captain) Australia's Team 2 - Black Head Australia 
 VK2SG PL 
 VK2VB Ralph 
 VK2WHS Yutaka 
 VK2WHS/4 Yutaka 
-VK2WIA HQ Australia 
+VK2WIA HQ Dave Australia (VK2WQ) 
 VK3ACS Ken 
 VK3CWB Moz 
 VK3DXI Mirek 
@@ -1388,7 +1390,7 @@ VK3ELT Roger Upwey Vic Australia
 VK3GDM David Melbourne 
 VK3JW JW 
 VK3ME JR Bentleigh Australia 
-VK3MI Brain (Captain) - Australia's Team 2 - Victoria Australia 
+VK3MI Brain Australia's Team 2 - Victoria Australia 
 VK3TDX Steve 
 VK3WIA HQ Lee Australia (VK3GK) 
 VK4BR Tom 
@@ -1402,7 +1404,7 @@ VK4TJF James Stafford Heights Australia
 VK4TT Keith Wynnum North 
 VK4UC John 
 VK4VB Ralph 
-VK4WIA HQ Australia 
+VK4WIA HQ Keith Australia VK4TT 
 VK4WPX JC 
 VK4XY GG Petrie Australia 
 VK5GN Martin 
@@ -1411,20 +1413,20 @@ VK5WIA HQ Grant Australia (VK5GR)
 VK6ADP Dave 
 VK6GOM Norman 
 VK6HD Mike 
-VK6HG Robin Australia's Team 2 - Western Australia 
-VK6LW Kevin Team 1 Australia - Glen Forrest 
+VK6HG Rob Australia's Team 2 - Western Australia 
 VK6MZ Mike 
 VK6RZ Peter Leeming Australia 
-VK6VZ Steve (Captain) Team 1 Australia - Glen Forrest 
-VK6WIA HQ  
+VK6T Kev (VK6LW) Team 1 Australia - Glen Forrest 
+VK6WIA HQ Peter Australia (VK6RZ) 
 VK7BO Alan Australia's Team 2 - Riverside Australia 
 VK7BO Alan Riverside Australia 
 VK7CAV Andrew 
 VK7CW Steve Tasmania Australia 
-VK7WIA HQ 
+VK7WIA HQ Martin Australia (VK7GN)
 VK8XX Joe Floyd VA USA 
 VK9NH Ken 
 VK9NH/VK4 Ken 
+VL6T Steve (VK6VZ) (Captain) Team 1 Australia - Glen Forrest 
 VO1AAM Yuri also (VE3DZ) 
 VO1BB Bill 
 VO1BE John 
@@ -1444,7 +1446,7 @@ VO1XC Laurence
 VO2AAA Dave Lincoln NB 
 VO2DX Mike (VE9AA) 
 VO2JD Jim 
-VP2M Allen (N2KW) Montserrat 
+VP2M Allen (N2KW) Monserrat 
 VP2VVV Fred (K9VV) 
 VP5B Charles 
 VP5JM Jody 
@@ -1499,8 +1501,7 @@ ZD8DEZ Dez
 ZD8JQS Tony 
 ZD8LII Steve 
 ZD8Z Jim 
-ZF2CA Colin (G4CWH) Savannah Grand Cayman Islands 
-ZF2CA Colin (G4CWH) remote from UK 
+ZF2CA Colin (G4CWH) Captain - Savannah World Traveller Plus Team 
 ZF2DX Kevin 
 ZF2GO Stan K5GO 
 ZF2LC Jim 
@@ -1513,7 +1514,6 @@ ZL1MH Mike
 ZL2AGY Tony Haweera South Taranaki 
 ZL2AIM Ian RD1 Hikuai 
 ZL2AZ Peter Wellington New Zealand 
-ZL2HQ/3 HQ New Zealand
 ZL2RX Roger Nelson New Zealand 
 ZL3/G4SGC Iain 
 ZL3AB Mark Christchurch New Zealand 
@@ -1523,9 +1523,7 @@ ZL3GA Geoff Quake Contestes team Kaiapoi New Zeland
 ZL3P Phil (ZL3PAH) Quake Contestes team Upper Moutere New Zeland 
 ZL4TT Paul Quake Contestes team Oamaru New Zeland 
 ZL6A RC New Zealand ASS. 
-ZL6HQ HQ New Zealand
-ZL6HQ/2 HQ New Zealand
-ZL6HQ/4 HQ New Zealand
+ZL6HQ HQ Jacques (ZL3CW) New Zealand
 ZM2A Bob 
 ZM2B Frank (ZL2BR) 
 ZM4G Gary New Zealand (ZL2IFB) 

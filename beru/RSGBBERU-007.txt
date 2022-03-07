@@ -1,6 +1,6 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2022-02-22
+# Last Edit,2022-03-06
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 !!Order!!,Call,Name,State,UserText,
@@ -23,27 +23,28 @@ VE7RAC,,HQ,RAC BC Canada
 VE9RAC,,HQ,RAC NB Canada 
 VY1RAC,,HQ,RAC Yukon Whitehorse Territy Canada
 VK1WIA,Andrew,HQ,Australia (VK1DA/VK2UH)
-VK2WIA,,HQ,Australia  
+VK2WIA,Dave,HQ,Australia  (VK2WQ) 
 VK3WIA,Lee,HQ,Australia  (VK3GK) 
-VK4WIA,,HQ,Australia  
+VK4WIA,Keith,HQ,Australia  VK4TT 
 VK5WIA,Grant,HQ,Australia  (VK5GR)
-VK6WIA,,HQ, 
-VK7WIA,,HQ,
-ZL6HQ,,HQ,New Zealand
-ZL6HQ/2,,HQ,New Zealand
-ZL2HQ/3,,HQ,New Zealand
-ZL6HQ/4,,HQ,New Zealand
+VK6WIA,Peter,HQ,Australia  (VK6RZ) 
+VK7WIA,Martin,HQ,Australia  (VK7GN)
+ZL6HQ,Jacques,HQ,(ZL3CW) New Zealand
+
 #
-# Teams Follow (To be corrected for 2022) 
+# Teams and Expedition Follow (To be corrected for 2022) 
 !!Order!!,Call,Name,Usertext
 
-# DXpedition/EXpedition
-5X1XA,Alan,(G3XAQ)  Kampala Uganda
-9H6YI,Mike,Campervan in Gozo 
-C56DF,Don,(G3XTT) 
-ZF2CA,Colin,(G4CWH) Savannah Grand Cayman Islands
+# Expedition + World Traveller Plus Team
+5X1XA,Alan,(G3XAQ)  Kampala World Traveller Plus Team
+8P6DR,Richard,(G3RWL)
+9H6YI,Mike,Campervan - World Traveller Plus Team
+C56DF,Don,(G3XTT)  World Traveller Plus Team
+V31GX,Ian,(G4SGX) Belize  World Traveller Plus Team
+VP2M,Allen,(N2KW) Monserrat 
+ZF2CA,Colin,(G4CWH) Captain - Savannah World Traveller Plus Team
 
-# Team Grimisby Mariners
+# Team Grimsby Mariners
 G3TBK,Dave,Team Grimisby Mariners  nr. Sleaford,
 G3RXP,Dave,Team Grimisby Mariners  Caister Top,
 G3SJJ,Chris,Team Grimisby Mariners  nr. Nottingham,
@@ -83,19 +84,20 @@ VE3TM,Vlad,Team Canada #3  -  Ottawa ON
 VE9AA,Mike,Team Canada #3  -  Withheld NB
 VE9ML,2opr,Team Canada #3  -  (VE9ML - VE9BK) - Moncton NB
  
-# Australia's Team 2 
-VK2PN,Patrick,Australia's Team 2  -  Black Head Australia
+# Australia Team 2
+VJ3A,Steve,(VK3JA)  Australia's Team 2 - Elliminyt Australia
+VK2PN,Patrick,(Captain) Australia's Team 2  -  Black Head Australia
 VK4SN,Alan,Australia's Team 2  -  Glenore Grove Australia
-VK6HG,Robin,Australia's Team 2  -  Western Australia
+VK6HG,Rob,Australia's Team 2  -  Western Australia
 VK7BO,Alan,Australia's Team 2  -  Riverside Australia
-VK3MI,Brain,(Captain) -  Australia's Team 2  -  Victoria Australia
+VK3MI,Brain,Australia's Team 2  -  Victoria Australia
 
 Australia Team 1 
-VK6LW,Kevin,Team 1 Australia  -  Glen Forrest 
+VK6T,Kev,(VK6LW) Team 1 Australia  -  Glen Forrest 
 VK2BJ,Barry,Team 1 Australia  -  St Ives
 VK4CT,John,Team 1 Australia  -  Queenland
 VK2GR,Allan,Team 1 Australia  -  Ulladulla
-VK6VZ,Steve,(Captain) Team 1 Australia  -  Glen Forrest
+VL6T,Steve,(VK6VZ) (Captain) Team 1 Australia  -  Glen Forrest
 
 # Team Essex CW ARC
 G4PVM,Paul,Team Essex CW ARC  -  Essex England
@@ -130,7 +132,7 @@ ZL4TT,Paul,Quake Contestes team  Oamaru New Zeland
 6Y0BE,BOYAN,(LZ2BE) in Jamaica,
 6Y5HN,Nigel,Kingston Jamaica
 6Y5WJ,JOSH,St-Elizaberth Jamaica,
-8P6DR,Richard,Barbados (G3RWL)
+8P6DR,Richard,Barbados 
 8Q7NC,,Maldives IOTA AS-118 
 9H1AE,SAVVAS,Sliema Malta,
 9H1CG,Joe,Pembroke PBK Malta
@@ -459,7 +461,6 @@ G4RKO,BARRY,
 G4RMV,MIKE,,
 G4S,NIGEL,(G3TXF) Surrey England,
 G4SGI,SIMON,Cheltenham England
-G4SGX,IAN,Norwich Norfolk England,
 G4SIE,RIK,Northmberland England,
 G4SJX,MIKE,,
 G4SKA,JOHN,Bridgend Wales,
@@ -1498,7 +1499,6 @@ VO1XC,LAURENCE,,
 VO2AAA,DAVE,Lincoln NB,
 VO2DX,MIKE,(VE9AA),
 VO2JD,JIM,,
-VP2M,Allen,(N2KW)  Montserrat
 VP2VVV,FRED,(K9VV),
 VP5B,CHARLES,,
 VP5JM,JODY,,
@@ -1550,7 +1550,6 @@ ZD8DEZ,DEZ,,
 ZD8JQS,TONY,,
 ZD8LII,STEVE,,
 ZD8Z,JIM,,
-ZF2CA,Colin,(G4CWH) remote from UK
 ZF2DX,KEVIN,,
 ZF2GO,STAN,K5GO,
 ZF2LC,JIM,,
