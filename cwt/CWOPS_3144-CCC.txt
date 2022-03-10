@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-03-05
+# Last Edit,2022-03-09
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -631,6 +631,7 @@ DP7D,Frank,,Essen Germany
 DR0OEIBS,Lutz,2654,(DM6EE)
 DU3LA,Larry,644,Mabalacat Phillippines (N0QM)
 E21EIC,Champ,264,Bangkok Thailand
+E29TGW,NEW,,Nonthaburi Thailand
 E7/Z35M,Vlado,E7,
 E71A,Emil,484,Sarajevo Bosnia and Herzegovina
 E73ESP,RC,,(Club Stjepan Polje)  Bosnia and Herzegovina
@@ -1126,6 +1127,7 @@ JA5DQH,Aki,777,Tokushima Japan
 JA6LCJ,Yuki,,(Yukihisa) Kumamoto Japan
 JA7QVI,Tac,,Miyagi Japan
 JA8CDG,Ken,161,Machida Tokyo Japan
+JF1NHD,INO,JA,Ibaraki Japan
 JE1TRV,Atsu,141,Machida-City Tokyo Japan (JA Amb.)
 JF1TTN,Masa,,Wako-City Japan
 JF1UOX,Misa,3011,(NQ1J)  Kanagawa Japan
@@ -5682,6 +5684,7 @@ ZF2IN,Tim,1942,(N6WIN)
 ZF2LZ,Martin,MA,Waban MA
 ZF2NE,Joe,,Cayman Isl.
 ZF2SC,Scott,1698,Cayman Isl. (KA9P)
+ZF2VE,Gerry,191,(W1VE)  Cayman Isl.
 ZF9CW,Stan,272,(K5GO) Siloam Springs Cayman Islands
 ZL1MH,Mike,,Ahipara Northland
 ZL2AGY,Tony,,Haweera South Taranaki
