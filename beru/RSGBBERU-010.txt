@@ -1,6 +1,6 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2022-03-09
+# Last Edit,2022-03-10
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 !!Order!!,Call,Name,State,UserText,
@@ -8,30 +8,29 @@
 # HQ Follow 
 AT1HQ,,HQ,Bangalore India 
 AT3T,,HQ,Bangalore India
-G3DR,,HQ,RSGB RC 
-G6XX,,HQ,RSGB at the old USAF base Greenham Common
-GD6XX,Martin,HQ,(GD4XUM)  RSGGB 
-GI6XX,Richard,HQ,(GI4DOH)  RSGB Northern Ireland 
-GM3DR,Terry,HQ,RSGB Glasgow Scotland (GM3WUX)
-GM6XX,,HQ,(GM3XUM)  RSGB Scotland 
-GB5CC,Chris,HQ,RSGB UK (GM3WOJ) 
-GW6XX,,HQ,(GW0ETF-GW0GEI)  RSGB 
+G3DR,,HQ,RSGB 
+G6XX,,HQ,RSGB Newbury and District ARC
+GD6XX,,HQ,RSGGB 
+GI6XX,Richard,HQ,(GI4DOH)  RSGB Bangor CO Down 
+GM3DR,,HQ,RSGB 
+GM6XX,Terry,HQ,(GM3WUX)  RSGB GlasgowScotland 
+GB5CC,Chris,HQ,RSGB (GM3WOJ) near Inverness 
+GW6XX,Stew,HQ,(GW0ETF-GW0GEI)  RSGB Bangor, North Wales
 VA2RAC,,HQ,RAC QC Canada 
 VA3RAC,,HQ,RAC ON Canada 
 VE5RAC,,HQ,RAC SK Canada 
 VE7RAC,,HQ,RAC BC Canada 
 VE9RAC,,HQ,RAC NB Canada 
 VY1RAC,,HQ,RAC Yukon Whitehorse Territy Canada
-VK1WIA,Andrew,HQ,Australia (VK1DA/VK2UH)
+VK1WIA,Andrew,HQ,Australia  (VK1DA/VK2UH)
 VK2WIA,Dave,HQ,Australia  (VK2WQ) 
 VK3WIA,Lee,HQ,Australia  (VK3GK) 
 VK4WIA,Keith,HQ,Australia  VK4TT 
 VK5WIA,Grant,HQ,Australia  (VK5GR)
 VK6WIA,Peter,HQ,Australia  (VK6RZ) 
 VK7WIA,Martin,HQ,Australia  (VK7GN)
-ZL6HQ,Jacques,HQ,(ZL3CW) New Zealand
+ZL6HQ,Jacques,HQ,(ZL3CW)  New Zealand
 
-#
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
@@ -40,16 +39,16 @@ ZL6HQ,Jacques,HQ,(ZL3CW) New Zealand
 8P6DR,Dick,(G3RWL) Barbados - World Travellers Plus
 9H6YI,Mike,Campervan - World Traveller Plus Farnham Malta
 C56DF,Don,(G3XTT) The Gambia -  World Traveller Plus Team
-V31GX,Ian,(G4SGX) Belize  World Traveller Plus Team
+V31GX,Ian,(G4SGX) Belize - World Traveller Plus Team
 VP2M,Allen,(N2KW) Monserrat 
-ZF2CA,Colin,(G4CWH) Captain - Savannah World Traveller Plus Team
+ZF2CA,Colin,(G4CWH) Captain - Savannah - World Traveller Plus Team
 
 # Team Grimsby Mariners
-G3TBK,Dave,Team Grimisby Mariners  nr. Sleaford,
-G3RXP,Dave,Team Grimisby Mariners  Caister Top,
-G3SJJ,Chris,Team Grimisby Mariners  nr. Nottingham,
-G4EBK,George,Team Grimisby Mariners  Grimsby
-G8AJM,Chris,Team Grimisby Mariners  Louth
+G3TBK,Dave,Team Grimisby Mariners - nr. Sleaford,
+G3RXP,Dave,Team Grimisby Mariners - Caister Top,
+G3SJJ,Chris,Team Grimisby Mariners - nr. Nottingham,
+G4EBK,George,Team Grimisby Mariners - Grimsby
+G8AJM,Chris,Team Grimisby Mariners - Louth
 
 # Team Balunmasters
 G3VYI,Mike,(Captain)  Team Balunmasters  -  Farnham England 
@@ -69,7 +68,7 @@ VJ3A,Steve,(VK3JA)  Australia's Team 2 - Elliminyt Australia
 VK2PN,Patrick,(Captain) Australia's Team 2  -  Black Head Australia
 VK6HG,Rob,Australia's Team 2  -  Western Australia
 VK2BJ,Barry,Australia's Team 2  -  St Ives
-VL6M,Phil,Australia's Team 2 - 
+VL6M,Phil,(VK6GX)  Australia's Team 2 - Gidgegannup Australia
 
 # Australia Team 1 
 VK6T,Kev,(VK6LW) Team 1 Australia  -  Glen Forrest 
@@ -92,11 +91,11 @@ G4GBP,Collin,Team IVARC Veterans  -  Fordingbridge England
 G8XEV,Steve,Team IVARC Veterans  -  Romsey England
 
 # Quake Contesters team
-ZL3P,Phil,(ZL3PAH) Quake Contestes team Upper Moutere New Zeland
-ZL3AB,Mark,Quake Contestes team Christchurch New Zeland
-ZL3GA,Geoff,Quake Contestes team  Kaiapoi New Zeland
-ZL3DMC,Don,Quake Contestes team  Kaiapoi New Zeland
-ZL4TT,Paul,Quake Contestes team  Oamaru New Zeland
+ZL3P,Phil,(ZL3PAH) Quake Contestes Team  - Upper Moutere New Zeland
+ZL3AB,Mark,Quake Contestes Team - Christchurch New Zeland
+ZL3GA,Geoff,Quake Contestes Team - Kaiapoi New Zeland
+ZL3DMC,Don,Quake Contestes Team - Kaiapoi New Zeland
+ZL4TT,Paul,Quake Contestes Team - Oamaru New Zeland
 
 # Marborough Team
 ZL3VZ,Bill,(Captain) Marborough Team - Blenheim New Zealand 
@@ -272,7 +271,7 @@ G3OYK,KD,
 G3P,MIKE,(G3WPH) Berkshire England	
 G3PDH,MAL,Norwich England,	
 G3PHO,PETER,Old Whittington Chesterfield England,	
-G3PLE,duke,nr Helston England	
+G3PLE,Duke,nr Helston England	
 G3PLP,BOB,Sutton Coldfield England,	
 G3PND,Steve,Norfolk Eengland	
 G3PSM,COLIN,North Yorkshire England,	
