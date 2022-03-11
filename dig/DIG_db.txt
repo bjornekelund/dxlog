@@ -1,6 +1,6 @@
 # DIG members database
 # Based on official member roster at diplom-interessen-gruppe.info
-# Updated 2022-01-28
+# Updated 2022-03-11
 DL8JS=1
 DL1RA=2
 DJ1TS=3
@@ -6496,3 +6496,5 @@ DL6YEK=6489
 DG1LQX=6490
 DL8NFA=6491
 VK5MAV=6492
+OE5WRO=6493
+DM4KA=6494
