@@ -1,3 +1,0 @@
-Using FD_2021-008.txt
-Ignored: K3SEN,1D,FL,TIA
-ARRL_FD_db.txt created

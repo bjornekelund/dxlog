@@ -13,7 +13,7 @@ BEGIN {
    if ($1 ~ /^[0-9A-Z]/ && $2 ~ /^[1-9][0-9]?[A-Z]$/ && $3 ~ /^(DX|AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY|AB|BC|GTA|MAR|MB|NL|NT|ONE|ONN|ONS|PE|QC|SK)$/)
      printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
    else if ($0 !~ /^(!|#|$)/)
-     printf("Ignored: %s\n", $0) > "/dev/stderr";
+     printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
 }
 END {
   printf("#0 ARRL Field Day participants database\n");

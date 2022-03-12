@@ -1,5 +1,0 @@
-Using CQ160CW.txt
-Invalid exchange: "K3WT,TOM,"
-Invalid exchange: "KP2M,Phil,VI,"
-Invalid exchange: "NP2J,Dan,VI,"
-CQ160_db.txt created
