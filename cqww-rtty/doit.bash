@@ -13,7 +13,7 @@ BEGIN {
     printf("%s=%s\n", $1, $3);
   }
   else
-    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr"
 }
 END { 
   printf("#0 CQ WW RTTY database - States and provinces but AK HI PR VI not included.\n");

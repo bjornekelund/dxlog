@@ -1,6 +1,6 @@
 # HA DX database
 # Data collected and maintained by HA2NA ha2na@ha2na.hu
-# File updated 2022-01-10
+# File updated 2022-03-12
 HA0AA=HE
 HA0ANA=HB
 HA0BA=HB
