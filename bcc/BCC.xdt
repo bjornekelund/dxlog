@@ -13,6 +13,7 @@ DN1VN Frank
 DC2YY Markus
 DC4RU Bob
 DC6RI Andreas
+DD1MAT Niko
 DD1JN Karsten
 DD2ML Ulli
 DD5FZ Toby
@@ -42,6 +43,7 @@ DF4SA Con
 DF4XX Kurt
 DF5MA Andreas
 DF6RI Alfred
+DF8VO Bert
 DF9GR Rene
 CP6/DF9GR Rene
 DF9LJ Jörg
@@ -68,7 +70,6 @@ DH1TST Tom
 DH1TW Toby
 DH2WQ Oliver
 DH5MFD Frieso
-DH7TNO Thomas
 DH8BQA Olli
 DH8VV Paul
 HA1Q Paul
@@ -90,7 +91,6 @@ DJ1AT Hartmut
 DJ1MM Sergej
 DJ1OJ Heijo
 EA8OM Heijo
-DJ1YFK Fabian
 DJ2MX Mario
 9A4MX Mario
 DP4X Mario
@@ -106,15 +106,19 @@ DJ4KW Gerd
 DJ4MF Daniel
 DJ4MX Sven
 DJ4MZ Simon
+F/DJ4MZ Simon
 DJ4WT Christian
 DL8L Christian
- DF0SC Christian
+DF0SC Christian
 DJ5AN Jan
 PA1TT Jan
 DJ5CL Ingo
+DJ5CW Fabian
 DJ5FI Hans Joachim
 DJ5IW Gerd
 DJ5MN Bernhard
+DJ5MO Jelmer
+PA5R Jelmer
 DJ5MW Fred
 DR0W Fred
 DJ5MY Harald
@@ -128,15 +132,14 @@ DJ7HH Hans-Henning
 DJ8EW Lothar
 DJ8QA Christoph
 DJ8QP Gus
-DJ8VH Hubert
 DJ9DZ Vasily
 DJ9KH Web
 DJ9MH Hajo
 DJ9RR Heye
 DK1AF Ingo
 DK1A Ingo
- DN1AE Ingo
- F/DK1AF Ingo
+DN1AE Ingo
+F/DK1AF Ingo
 DK1AX Klaus
 DK1FT Eduard
 DK1FW Wolf
@@ -176,6 +179,7 @@ DK5MB Tom
 DK5ON Andy
 DK5OS Olaf
 DK5PD Heinz Lothar
+DK5TA Thomas
 DK5TT Jörn
 DK5TX Ulf
 DK6AH Andreas
@@ -192,7 +196,7 @@ DM0G Pit
 DK8FD Alexander
 DK8MM Mark
 K1XAQ Mark
- DN4MM Mark
+DN4MM Mark
 DK8MZ Wolfgang
 DK8NT Gerd
 DK9BM Mike
@@ -217,14 +221,13 @@ DL1MGB Chris
 KO2WW Chris
 DL1MHJ Torsten
 DP5P Torsten
- DN1MSF Torsten
+DN1MSF Torsten
 DL1NEO Markus
 DL1NKS Stefan
 DL1PSK Stefan
 DL1QQ Sandy
 N0QQ Sandy
 DL1REM Frank
-DL1RG Gerald
 DL1RTL Heiko
 DL1TS Thomas
 DL1VDL Hardy
@@ -246,7 +249,6 @@ DL2OE Mike
 DL2PR Peter
 DL2QT Heinz
 DN2MQT Heinz
-DL2RCH Hans
 DL2RMC Thomas
 DL2SKY Stefan
 DL2VFR Enrico
@@ -264,7 +266,6 @@ DN1BUX Kai
 DL3MBG Christian
 DL3MXX Olaf
 DL3NCI Marcus
-DL3OBQ Daniel
 DL3RY Achim
 DL4FN Peter
 DL4GBA Wilfried
@@ -281,6 +282,7 @@ DP4N Werner
 DL4RCK Walter
 DL4R Walter
 DL4RDJ Jörg
+DL4VK Valentin
 DL4YAO Christoph
 DL4ZA Willi
 DL5CW Andreas
@@ -339,6 +341,7 @@ DL7LIN Andre
 DL7ON Fritz
 DL7UGN Mike
 DL7URH Ragnar
+DL8DXL Fred
 DL8DYL Irina
 DL8JDX Volker
 DL8LAS Andy
@@ -367,6 +370,7 @@ DL9NDS Uwe
 DP9N Uwe
 DL9NDV Michael
 DL9NEI Norbert
+DL9UP Patrick
 DL9YAJ Bernd
 DM2WB Markus
 DM5EE Ulrich
@@ -379,7 +383,6 @@ DK0VLP Lutz
 DM7XX Robert
 DM8FW Fritz
 DM9CM Carsten
-DO1DJJ Joerg
 DO1NPF Peter
 DO2WW Anja
 DO2XX Robin
@@ -389,12 +392,13 @@ DO6SR Robert
 9A8RBX Robert
 EA3KU Fernando
 EC3A Fernando
-F4DVX David
 F5MZN Olivier
 F5NGA Francois
 HA1AG Zoli
 PA1AG Zoli
 HB9BJL Chris
+W9BJL Chris
+HS0ZNI Chris
 HB9DDO Stephan
 WS9O Stephan
 HB9DQL Juerg

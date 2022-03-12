@@ -1,7 +1,7 @@
 # ARRL DX database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-03-06
+# File last updated 2022-03-12
 2E0CEA=50
 2E0CNL=50
 2E0CVN=50

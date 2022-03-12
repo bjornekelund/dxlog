@@ -1,6 +1,6 @@
 # ARRL Sweestakes database.
 # Based on call history data collected and maintained by Ray AD5Q ad5q@arrl.net
-# File created 2021-11-01.
+# File created 2022-03-12.
 4U1WB=U;89;MDC
 AA0AC=A;96;MN
 AA0AO=A;14;MN

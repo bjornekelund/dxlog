@@ -7,25 +7,19 @@ dos2unix -q $INFILE
 
 cat $INFILE | tr -d " " | sort | gawk '
 BEGIN {
-  FS=",";
+  FS="=";
   prevcall = "";
 }
 {
   call = $1;
   if (call ~ /^[0-9,A-Z\/]+$/) {
-	  if ($3 ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/ && $4 == "") {
-		exchange = $3;
+	  if ($2 ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$|^[0-9KW]+$/ && $4 == "") {
+		exchange = $2;
+        if (exchange == "K")
+		  exchange = "KW";
         if (exchanges[call] != "" && exchanges[call] != exchange) {
 	      printf("For %s, %s is replaced by %s\n", call, exchanges[call], exchange) > "/dev/stderr";
 	    }
-		exchanges[call] = exchange;
-		calls[call] = call;
-      }
-	  else if ($4 ~ /^[0-9KW]+$/) {
-		exchange = $4;
-        if (exchanges[call] != "" && exchanges[call] != exchange) {
-		  printf("For %s, %s is replaced by %s\n", call, exchanges[call], exchange) > "/dev/stderr";
-        }
 		exchanges[call] = exchange;
 		calls[call] = call;
 	  }

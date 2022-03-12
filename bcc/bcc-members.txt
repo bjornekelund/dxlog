@@ -13,6 +13,7 @@ DN1VN,Frank
 DC2YY,Markus
 DC4RU,Bob
 DC6RI,Andreas
+DD1MAT,Niko
 DD1JN,Karsten
 DD2ML,Ulli
 DD5FZ,Toby
@@ -105,6 +106,7 @@ DJ4KW,Gerd
 DJ4MF,Daniel
 DJ4MX,Sven
 DJ4MZ,Simon
+F/DJ4MZ,Simon
 DJ4WT,Christian
 DL8L,Christian
 DF0SC,Christian
@@ -395,6 +397,8 @@ F5NGA,Francois
 HA1AG,Zoli
 PA1AG,Zoli
 HB9BJL,Chris
+W9BJL,Chris
+HS0ZNI,Chris
 HB9DDO,Stephan
 WS9O,Stephan
 HB9DQL,Juerg

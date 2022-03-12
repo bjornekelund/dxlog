@@ -9,11 +9,11 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 != "") {
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
     printf("%s=%s\n", $1, $3);
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
   printf("#0 ARRL RTTY database\n");
