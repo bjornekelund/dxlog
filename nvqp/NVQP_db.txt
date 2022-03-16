@@ -1,6 +1,7 @@
 # Nevada QSO Party database.
-# Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2021-09-26.
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly ve2fk@arrl.net
+# File last updated 2022-03-16
 AA0A=MO
 AA0AA=NE
 AA0AW=MN
@@ -2374,7 +2375,6 @@ K7JWD=AZ
 K7KAR=AZ
 K7KJ=OR
 K7KU=WY
-K7KVH=NVMIN
 K7LD=WWA
 K7LTV=MT
 K7LU=VA
@@ -8933,7 +8933,6 @@ W6UDX=SJV
 W6UE=LAX
 W6UFT=ORG
 W6UQ=SCV
-W6US=NVELK
 W6UW=SCV
 W6UX=ORG
 W6VAR=EB
@@ -9058,7 +9057,6 @@ W7MLG=AZ
 W7MQ=AZ
 W7MRG=WWA
 W7ND=WWA
-W7NIK=NVCAR
 W7OLY=WWA
 W7OM=WWA
 W7ON=AZ
