@@ -17,11 +17,11 @@ BEGIN {
   longest = "";
 }
 {
-  if ($1 ~ /^[0-9A-Z]+$/ && $3 !~ /^(\s*|MB|SK|AB)$/) {
+  if ($1 ~ /^[0-9A-Z]+$/ && $3 ~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MA|MD|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|NL|NB|NS|PE|QC|ON|BC|NT|NU|YT|BAR|BOW|BRC|CCE|CCF|CFL|CHE|CMD|CNH|CRR|CSD|CSH|CSK|EDC|EDG|EDM|EDW|EMW|ERB|EST|EWE|FTH|FTM|GPM|LAK|LTH|MED|PRW|RDL|RDM|SPK|STA|STR|YEL|BTL|CAR|CYP|DES|MOO|PRA|RGL|RGQ|RGW|SKG|SKU|SKW|SOU|YOR|BRS|CHA|CHR|DAU|ELM|KIL|POR|PRO|SEL|STB|WPC|WPN|WPS|WSC)$/) {
     printf("%s=%s\n", $1, $3);
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
 }
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE

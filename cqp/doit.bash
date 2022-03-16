@@ -24,10 +24,14 @@ BEGIN {
       printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } else {
     gsub(/ /, "", $col);
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^([A-Z]{2}|[A-Z]{4})$/)
-      printf("%s=%s\n", $1, $col);
-#    else if ($col !~ /^(!|#|$)/)
-#      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+	exch = $col;
+	if (exch == "DC") exch = "MD";
+	if (exch ~ /^(NB|NL|NS|PE)$/) exch = "MR";
+	if (exch ~ /^(NT|NU|YT)$/) exch = "NT";
+    if ($1 ~ /^[0-9,A-Z,\/]+$/ && exch ~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MA|MD|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|MR|QC|ON|MB|SK|AB|BC|NT|ALAM|ALPI|AMAD|BUTT|CALA|COLU|CCOS|DELN|ELDO|FRES|GLEN|HUMB|IMPE|INYO|KERN|KING|LAKE|LASS|LANG|MADE|MARN|MARP|MEND|MERC|MODO|MONO|MONT|NAPA|NEVA|ORAN|PLAC|PLUM|RIVE|SACR|SBEN|SBER|SDIE|SFRA|SJOA|SLUI|SMAT|SBAR|SCLA|SCRU|SHAS|SIER|SISK|SOLA|SONO|STAN|SUTT|TEHA|TRIN|TULA|TUOL|VENT|YOLO|YUBA)$/)
+      printf("%s=%s\n", $1, exch);
+    else if ($col !~ /^(!|#|$)/)
+      printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
