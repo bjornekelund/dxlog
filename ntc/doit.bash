@@ -19,7 +19,7 @@ BEGIN {
     }
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Bad exchange: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
   printf("Longest name is \"%s\" which is %d characters long.\n", maxname, maxlen) > "/dev/stderr";
