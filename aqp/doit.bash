@@ -21,10 +21,10 @@ BEGIN {
 	if ($5 == "Exch1") col = 4;
 	printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z]{2,4}$/)
+    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^(DX|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|MB|NB|NL|NT|NS|NU|ON|PE|QC|SK|YT|AUTA|BALD|BARB|BIBB|BLOU|BULL|BUTL|CHOU|CHMB|CKEE|CHIL|CHOC|CLRK|CLAY|CLEB|COFF|COLB|CONE|COOS|COVI|CREN|CULM|DALE|DLLS|DKLB|ELMO|ESCA|ETOW|FAYE|FRNK|GENE|GREE|HALE|HNRY|HOUS|JKSN|JEFF|LAMA|LAUD|LAWR|LEE|LIME|LOWN|MACO|MDSN|MRGO|MARI|MRSH|MOBI|MNRO|MGMY|MORG|PERR|PICK|PIKE|RAND|RSSL|SCLR|SHEL|SUMT|TDEG|TPOO|TUSC|WLKR|WASH|WLCX|WINS)$/)
       printf("%s=%s\n", $1, $col);
-    else
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    else if ($0 !~ /^(!|#|$)/)
+      printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
