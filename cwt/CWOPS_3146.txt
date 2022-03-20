@@ -4,11 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-<<<<<<< HEAD:cwt/CWOPS_3147.txt
 # Last Edit,2022-03-19
-=======
-# Last Edit,2022-03-17
->>>>>>> 5979ade20395c7ac1a97ac02774da414b47e3c02:cwt/CWOPS_3146.txt
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD

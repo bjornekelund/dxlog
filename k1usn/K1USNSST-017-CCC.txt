@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-03-15
+# 1-Last Edit,2022-03-18
 # 2-Thanks G3WDZ, K1VUT and Chuck/WS1L for update. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -4082,6 +4082,7 @@ KE0AHD,JOHN,CO,Monument CO
 KE0BZ,,NE,
 KE0CP,CLIFF,CO,Severance CO
 KE0EP,ELAN,KS,
+KF0FFA,Dean,KS,Lawrence KS
 KE0FOM,TOM,MO,Kirksville MO
 KE0FT,,IA,
 KE0G,DAN,MN,
@@ -4147,6 +4148,7 @@ KE3LA,JIM,PA,
 KE3X,KEN,DC,
 KE3ZT,STEVE,PA,
 KE4CAW,,VA,
+KE4EA,Dave,SC,
 KE4EE,,OH,
 KE4ENX,,GA,
 KE4ET,GERALD,VA,
@@ -5644,7 +5646,7 @@ N2FYE,ANDY,NJ,
 N2FZ,BILL,NJ,Pitman NJ
 N2GA,GEO,NY,
 N2GC,MIKE,NY,
-N2GG,GIL,CA,Rving
+N2GG,GIL,NM,Rving
 N2GLH,,NY,
 N2GM,GEO,NJ,
 N2GSL,ED,NY,Baldwin NY
@@ -8630,6 +8632,7 @@ VE9XX,DON,NB,
 VO1AW,BRIAN,NL,
 VO1HE,PAUL,NL,
 VO1HP,FRANK,NL,
+VO1KGZ,Gordon,NL,St.John NL
 VO1MP,GUS,NL,
 VO1MRC,MARCONI,NL,Torbay NL (Marconi RC)
 VO1TTY,FRANK,NL,
@@ -11507,7 +11510,7 @@ WA3RSR,KEN,MD,Lutherville MD
 WA3RSR/5,KEN,TX,
 WA3RWP,WALLY,VA,
 WA3TMR,STEVE,NC,
-WA3TRA,NAME,GA,Alpharetta GA
+WA3TRA,Tony,GA,Alpharetta GA
 WA3TRE,DON,PA,
 WA3TTS,,PA,
 WA3UAX,,PA,
