@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-03-16
+# Last Edit,2022-03-19
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -794,7 +794,7 @@ G0ELZ,Bill,239,Liverpool England
 G0EML,Ray,,Shrewsbury England
 G0HKC,Keith,G,Salisbury England
 G0IBN,Andy,,Tollesbury Maldon England
-G0JPS,Chris,2080,Bristol England
+G0JPS,Kit,2080,(Chris)  Bristol England
 G0KDZ,Mike,,N York England
 G0LLX,Andy,2954,Blackpool England
 G0MDR,Fred,G,St. Albans England
@@ -4155,7 +4155,7 @@ SP8ARY,Ron,,Krasnik Poland
 SP9AVR,Claudio,,Naklo Slaskie Poland
 SP9BRP,Jan,,Krakow Poland
 SP9FOW,Roman,,Swierklany Poland
-SP9OGP,Piotr,,Poland
+SP9OGP,Piotr,3147,(SP7N)  Poland
 SP9R,Jan,,Krakow Poland
 SP9RXP,Peter,,Niedzica Poland
 SQ5VCO,Adam,2781,Chrzczanka-Folwark Poland
@@ -4478,7 +4478,7 @@ VE5GC,Gray,2974,Alida Sask.
 VE5MX,Todd,2540,Weyburn SK
 VE5SF,Sam,SK,Regina Sask.
 VE5UF,Doug,137,Saskatoon Sask.
-VE5UO,Dave,SK,Saskatoon Sask.
+VE5UO,Dave,3146,Saskatoon Sask.
 VE5VG,Garth,SK,Pangman Sask.
 VE6BF,Bill,222,Beaumont AB
 VE6DC,Renze,AB,Cranford AB
