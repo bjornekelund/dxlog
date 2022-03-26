@@ -1,0 +1,14 @@
+NF=Newfoundland
+LB=Labrador
+PE=Prince Edouard Island
+NB=New Brunswick
+NS=Nova Scotia
+ON=Ontario
+MB=Manitoba
+SK=Saskatchewan
+AB=Alberta
+BC=British Columbia
+NT=Northern Territories
+YT=Yukon
+NU=Nunavut
+NWT=Northwest Territories
