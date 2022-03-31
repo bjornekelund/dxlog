@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-03-18
+# 1-Last Edit,2022-03-29
 # 2-Thanks G3WDZ, K1VUT and Chuck/WS1L for update. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -814,7 +814,7 @@ DL9LM,YURI,DL,Schwerin Germany
 DL9UO,MIKE,DL,Ahrensfelde Germany
 DM1AA,ANDRE,DX,Frankfurt am Main Germany
 DM5WGL,WIN,DX,Berlin Germany
-DM6EE,Lutz,DL,Wolfsburg Germany
+DM6EE,Lutz,DX,Wolfsburg Germany
 EA2BO,RAUL,EA,Vizcaya Spain
 EA3BV,JON,DX,Villaldin Grado Spain
 EA3FNT,Arnau,EA,Girona (Catalonia) Spain
@@ -823,6 +823,7 @@ EA5IUY,GARY,EA,Muro de Alcoy Spain
 EA7EGU,MANUEL,EA7,Lalaga Spain
 EA7KNQ,Ramon,DX,?
 EA8DED,KARI,EA,
+EB1MM,JOAQUIN,DX,Valdelafuente Leon Spain
 EI2HIB,MARTIN,,Waterford Irland
 EI2KW,DICK,EI,Kildare Ireland
 EI3HA,TONY,EI,Strandhill Sligo Ireland
@@ -848,6 +849,7 @@ G3OND,JOHN,G,Birchington England
 G3TYB,JOHN,DXG,no info
 G3WGN,DAVE,G,Gotnes England
 G3WZD,MAC,DX,Cornwall England
+G3XPO,Ken,DX,
 G3ZBU,AL,G,Horsham England
 G4AIU,EA,G,Wellington England
 G4EBK,GEORGE,G,Grimsby England
@@ -865,6 +867,7 @@ GM1J,JIM,GM,Edinburgh Scotland
 GM4ATA,JOHN,DX,Kilmarnock Scotland
 GM4TEF,ALLAN,GM,Aberdeenshire Scotland
 GW0ETF,STEW,GW,Bangor Wales
+GW4J,STEW,GW,Bangor Wales
 GW4ZAR,DAVE,GW,Flintshire Wales
 GW7APP,Ian,GW,Anlesey Wales
 HA8RJ,ATI,HA,Soltvadkert Hungary
@@ -884,6 +887,7 @@ HP3SS,ROBBY,HP,
 HZ1BH,AMER,DX,Jeddah/West Coast Saudi Arabia
 I1HNU,MARK,I,Ivrea TO Italy
 I2IFT,JOHN,DX,Seriate BG Italy 
+I5ECW,VANNI,DX,Montale PT Italy
 IK1HGE,Bob,DX,Almese TO Italy
 IK1PMR,Andrea,IK,Casale Monferrato Italy
 IK1VQO,GIAN,DX,Cuneo Italy
@@ -1221,6 +1225,7 @@ K1RFD,JOHN,CT,
 K1RH,,MD,
 K1RI,BOB,RI,North Scituate RI
 K1RID,ED,ME,Kittlry ME
+K1RIF,CHRIS,MA,Leverett MA
 K1RM,VIN,CT,
 K1RMF,BURT,VT,
 K1RO,MARK,NH,
@@ -2964,6 +2969,7 @@ K9CDQ,,IL,
 K9CEG,CHRIS,WI,
 K9CFA,,IL,
 K9CG,,IL,
+K9CG,CHRIS,IL,Pingree Grove IL
 K9CH,CURT,VA,
 K9CJ,,IL,
 K9CPO,NATE,OH,
@@ -3129,6 +3135,7 @@ K9US,,IN,
 K9UT,JERRY,IN,
 K9UVK,,IN,
 K9VD,RANDY,WA,
+K9VIC,ERIC,IL,Plainfield IL
 K9VP,ROGER,IN,
 K9VS,,WI,
 K9VV,FUBAR,VI,
@@ -3339,6 +3346,7 @@ KA9I,JOE,IL,Plainfield IL
 KA9LMK,JOE,MI,
 KA9OUT,AL,IN,Lafayette IN
 KA9SWE,DALE,WI,
+KA9TVT,TOM,WI,Appleton WI
 KA9TXE,,IL,
 KA9UVY,,IL,
 KA9VLC,JIM,IL,
@@ -3928,7 +3936,7 @@ KD2RE,,GA,
 KD2RKN,JASON,SC,Williamston SC
 KD2RMD,RUSS,NY,
 KD2RNN,RICH,NY,Bayville NY
-KD2SEM,ALEX,NY,Staten Island NY
+KD2SEM,AL,NY,(Alex)  Staten Island NY
 KD2SRH,ROGER,NJ,
 KD2SSS,DANE,NY,
 KD2ST,AL,NJ,Mount Laurel NJ
@@ -3937,6 +3945,7 @@ KD2WAI,MATT,NY,Schenectady NY
 KD2WFJ,ETHAN,NJ,Hamburg NJ
 KD3TB,IRWIN,DE,
 KD4AN,DANIEL,NC,Raleigh NC
+KD4BTH,STAN,NC,Kernersville NC
 KD4CR,CJ,TN,Clinton TN
 KD4CX,BILL,FL,
 KD4D,MARK,MD,
@@ -4082,7 +4091,6 @@ KE0AHD,JOHN,CO,Monument CO
 KE0BZ,,NE,
 KE0CP,CLIFF,CO,Severance CO
 KE0EP,ELAN,KS,
-KF0FFA,Dean,KS,Lawrence KS
 KE0FOM,TOM,MO,Kirksville MO
 KE0FT,,IA,
 KE0G,DAN,MN,
@@ -4259,6 +4267,7 @@ KF0CK,,MO,
 KF0DS,,AZ,
 KF0ELS,KEVIN,KS,Overland Park KS
 KF0FE,,IA,
+KF0FFA,Dean,KS,Lawrence KS
 KF0GV,,MN,
 KF0HNI,CHAS,IA,Sioux Rapids IA
 KF0IQ,BILL,MO,
@@ -4346,6 +4355,7 @@ KF7R,FERNANDO,AZ,
 KF7U,CHUCK,AZ,
 KF7UXC,ROD,WA,
 KF7VY,,WA,
+KF7Z,DANNY,WY,Big Piney WY
 KF8HR,,OH,
 KF8IV,RYAN,TX,Porter TX
 KF8MZ,CLINT,OH,
@@ -4714,6 +4724,7 @@ KK5NA,JOE,TX,
 KK5OQ,CHARLES,MS,
 KK5VH,JOHN,TX,Georgetown TX
 KK6KMU,BOB,CA,
+KK6M,ROY,CA,Arcadia CA
 KK6MC,JIM,NM,
 KK6NON,LEE,CA,
 KK6T,,CA,
@@ -5290,11 +5301,13 @@ M0MON/P,MARK,G,Winderhere England
 M0MUI,MUI,G,Norwich England
 M0NNQ,LEO,G,Cumbria England
 M0NOM/P,MARK,G,Windermere England
+M0NYW,JASON,DX,North Tyneside England
 M0RYB,PETER,G,Norwich England
 M0SHM,STEVE,G,Lancs England
 M0WDD,DAVID,G,Salford Manchester England
 M1X,STEVE,G,Sevenoaks Kent Englad
 M2U,Ray,G,Surrey England
+M4J,Jon,DX,
 M6MPC,Mike,G,Brede England
 MI0WWB,WILL,GI,Northern Irland
 MM0IVR,RONAN,GM,Mussenburg Scotland
@@ -5490,6 +5503,7 @@ N1EN,MIKE,CT,
 N1EO,,NH,
 N1EU,BARRY,NY,
 N1EXF,RICH,CT,
+N1EZ,STEVE,NH,Bedford NH
 N1EZO,,OH,
 N1FD,,NH,
 N1FDX,,MA,
@@ -6747,7 +6761,7 @@ N7PWC,,MT,
 N7PWZ,,AZ,
 N7QT,BOB,WA,
 N7QU,,OR,
-N7RC,DICK,CA,
+N7RC,DICK,WA,
 N7RCS,JIM,FL,
 N7RD,RON,AZ,
 N7RK,DAVE,AZ,
@@ -7802,6 +7816,7 @@ NU8M,JOHN,MI,
 NU8S,,OH,
 NU8Z,,MI,
 NV0U,RANDY,MO,
+NV1B,ANDREW,ME,Kittery ME
 NV1U,TOM,FL,
 NV1W,JOE,MA,
 NV1X,,VT,
@@ -12363,6 +12378,7 @@ WI9TOM,,WI,
 WI9WI,JIM,WI,
 WI9X,,IL,
 WJ0C,STEVE,CO,Colorado Springs CO
+WJ0Z,DAVE,NE,Omaha NE
 WJ1B,HAROLD,CT,
 WJ1T,KEITH,VA,Meadowview VA
 WJ1Z,,VT,
@@ -12493,6 +12509,7 @@ WP3C,AL,PR,
 WP3PW,JOSE,FL,Sanford FL
 WP3R,,PR,
 WP4F,DAN,PR,Toa Alta PR
+WP4IZQ,MELVIN,PR,Canovanas PR
 WQ0N,RUSS,MN,
 WQ0P,,KS,
 WQ1H,,NH,

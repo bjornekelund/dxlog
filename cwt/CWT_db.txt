@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3149
-# File last updated 2022-03-26
+# Contains members up to #3150
+# File last updated 2022-03-31
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -521,6 +521,7 @@ DL1LBV=Heinz;DL
 DL1NKB=Bernd;2486
 DL1NKS=Steve;2963
 DL1ONI=Olli;DL
+DL1QOH=Fred;DL
 DL1QQ=Sandy;1581
 DL1REM=Frank;2382
 DL1RNN=Lutz;DL
@@ -2004,6 +2005,7 @@ K8ZZ=Ed;KS
 K9ACM=Mike;2915
 K9AJ=Mike;IL
 K9AXT=Larry;NC
+K9CG=Chris;IL
 K9CH=Curt;VA
 K9CJ=Bob;2973
 K9CJM=Tom;WI
@@ -2353,7 +2355,7 @@ KE5FRF=Heath;LA
 KE5KOV=Jay;TX
 KE5MI/0=Bill;CO
 KE5P=Bill;TX
-KE6JAC=Alex;2872
+KE6JAC=Al;2872
 KE6K=John;AZ
 KE6MT=Rex;CA
 KE6OIO=Ann;CA
@@ -3423,11 +3425,13 @@ N9SE=Marty;1562
 N9SW=Gene;798
 N9SZ=Steve;1793
 N9TK=Jim;1986
+N9TTK=Justin;3150
 N9UA=Mike;1097
 N9UNX=Chad;IN
 N9VJ=Chuck;2799
 N9WKE=Bruce;2512
 N9XX=Dan;601
+N9YYK=Justin;3150
 NA0F=LARRY;MN
 NA1LZ=Yan;IL
 NA1VT=Andy;2050
@@ -3864,6 +3868,7 @@ PA0IA=LJ;PA
 PA0INA=Frans;443
 PA0JLS=Hans;849
 PA0KBN=Klaas;PA
+PA0M=Thieu;PA
 PA0MIR=Nico;PA
 PA0Q=Hans;386
 PA0VDV=Joeke;PA
@@ -4457,6 +4462,7 @@ VE6RST=Max;3068
 VE6SV=Rich;AB
 VE7AHA=Andy;352
 VE7ALQ=Yaakov;BC
+VE7BGJ=Walt;BC
 VE7CC=Lee;139
 VE7CCY=Scott;BC
 VE7DZO=David;2106

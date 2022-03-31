@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-03-24
+# Last Edit,2022-03-30
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -528,6 +528,7 @@ DL1LBV,Heinz,,Nordfriesland Germany
 DL1NKB,Bernd,2486,Forchheim Germany
 DL1NKS,Steve,2963,Eichenbuelh Germany
 DL1ONI,Olli,,Ingolstadt Germany
+DL1QOH,Fred,DL,?
 DL1QQ,Sandy,1581,Hoexter Germany
 DL1REM,Frank,2382,Schoeppingen Germany
 DL1RNN,Lutz,,Wolfsburg Germany
@@ -2019,6 +2020,7 @@ K8ZZ,Ed,KS,Topeka KS
 K9ACM,Mike,2915,Mokena IL
 K9AJ,Mike,IL,Crete IL
 K9AXT,Larry,NC,Cary NC
+K9CG,Chris,IL,Pingree Grove IL
 K9CH,Curt,VA,Hopewell VA
 K9CJ,Bob,2973,Orland Park IL
 K9CJM,Tom,WI,Wisconsin Rapids WI
@@ -2370,7 +2372,7 @@ KE5KOV,Jay,TX,Allen TX
 KE5MI/0,Bill,CO,
 KE5P,Bill,TX,Sherman TX
 KE6CWO,,CA,Southwestern CWops Club (Laguna Niguel CA)
-KE6JAC,Alex,2872,San Jose CA
+KE6JAC,Al,2872,San Jose CA
 KE6K,John,AZ,Surprise AZ
 KE6MT,Rex,CA,Campbell CA
 KE6OIO,Ann,CA,Garden Grove CA
@@ -2903,12 +2905,13 @@ N0RT,Ralph,MO,Marshfield
 N0SM,Steve,705,Ottumwa IA
 N0SMX,Dennis,FL,The Villages FL
 N0SN,Tom,AK,Fairbanks AK
-N0SSM,Jim,MO,
+N0SSM,Jim,MO,Columbia MO
 N0TA,John,885,Louisville CO
 N0TLW,Tom,2364,Des Moines IA
 N0TOP,John,MO,Kirkwood MO
 N0UA,Vince,CO,Littleton CO
 N0UR,Jim,1445,Ellendale MN (Occ. QRP)
+N0VRP,Chris,3149,Georgetown TX
 N0XC,Steve,WI,Osceola WI
 N0XE,Jim,IA,Sioux City IA
 N0YY,Rick,1434,Marion IA
@@ -3447,7 +3450,9 @@ N9SD,Scott,WI,Sussex
 N9SE,Marty,1562,Sharpsville IN
 N9SW,Gene,798,Wayne IL
 N9SZ,Steve,1793,Dayton OH
+N9TTK,Justin,3150,Indianapolis IN
 N9TK,Jim,1986,Orland Park IL
+N9YYK,Justin,3150,
 N9UA,Mike,1097,Omro WI
 N9UNX,Chad,IN,Indianapolis IN
 N9VJ,Chuck,2799,Wauwatosa WI
@@ -3889,6 +3894,7 @@ PA0IA,LJ,,Pijnacker Netherlands
 PA0INA,Frans,443,Goes Netherlands
 PA0JLS,Hans,849,Liederdorp Netherlands
 PA0KBN,Klaas,,Stiens Netherlands
+PA0M,Thieu,,Veldhoven Netherlands
 PA0MIR,Nico,,Purmerend Netherlands
 PA0Q,Hans,386,Zieuwent Netherlands
 PA0VDV,Joeke,,Oldeberkoop Netherlands
@@ -4487,6 +4493,7 @@ VE6RST,Max,3068,Leduc AB
 VE6SV,Rich,AB,Sherwood Park AB
 VE7AHA,Andy,352,Delta BC
 VE7ALQ,Yaakov,BC,Vancouver BC
+VE7BGJ,Walt,BC,
 VE7CC,Lee,139,Maple Ridge BC
 VE7CCY,Scott,BC,Langley BC
 VE7DZO,David,2106,Prince George BC
