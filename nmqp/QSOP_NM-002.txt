@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # Send new info/Corr. DIRECT to  ve2fk@arrl.net
-# Last Edit,2022-03-28
+# Last Edit,2022-04-05
 # New Mexico QSO Party
 # QSOP_NM
 # QSOPARTY NM
@@ -9,15 +9,27 @@ N5ZGT,Brian,BER,Bernalillo
 W6VJT,,DON,Dona Ana Mesilla Valley RC
 W5RRX,Steve,DON,Dona Ana
 N5MJ,Mike,EDD,Eddy
-K7ZOO/5,Curt,HID,Hidalgo
+K7ZOO/5,CURT,,EXPEDITION
 NQ5X,,LIN,Lincoln Sierra Blanca ARC
 KC2LM,Ed,MCK,McKinley
 K5LRW,,OTE,Otero Alamogordo ARC
 W5ABA,Jim,SAN,Sandoval
-NF0J,Dave,SIE,Sierra
-NA5N,Paul,SOE,Socorro
-KC7QY,Jim,SOE,Socorro
-
+NF0J,Dave,SIE,SIERRA
+NA5N,Paul,SOC,Socorro
+KC7QY,Jim,SOC,Socorro
+W5CSY,,BER,BERNALILO
+N0LVA,DAVE,BER,BERNALILO
+NM5GB,GARRY,CHA,CHAVES
+W5RJJ,,COL,COLFAX
+N5BL,,DON,DONA ANA
+KE5GAR,RICHARD,DON,DONA ANA
+K5XY,ALEX,DON,DONA ANA
+W5PBT,PAUL,SAN,SANDOVAL
+N5MF,MARK,SAN,SANDOVAL
+AG5S,ALDEN,SFE,SANTA FE
+KG5LRB,GEORGE,SFE,SANTAFE
+KF5PFO,,TAO,TAOS
+W5TNM,TIM,TAO,TAOS
 
 !!Order!!,Call,Name,Exch1,UserText,
 # Out of NM state and Cdn. Prov. follow

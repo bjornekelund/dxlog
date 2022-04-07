@@ -251,7 +251,6 @@ DK7PE Rudi #2864 Mainz Germany
 DK8SR Paul #2539 Moegglingen Germany
 DK9HE Andy #2553 (Andreas) Stelle Germany
 DK9PY Armin #2062 Waldalgesheim Germany (Occ. QRP)
-DL0DA Hardy #2802 (DL1VDL)
 DL1FY Erwin #2636 Moosinning Germany
 DL1IAO Stef #1884 (SM9A) Birkenfeld Germany
 DL1NKB Bernd #2486 Forchheim Germany
@@ -297,7 +296,6 @@ EA1DP Jose #2503 Cantabria Spain
 EA1WX Juanjo #714 Aviles Spain
 EA1X Juan #2562 La coruna Spain
 EA2AJB Andres #1048 Alcaniz Turuel Spain
-EA2DPA Raul #2519 Vizcaya Spain
 EA2KV Jose #2845 Zaragoza Spain
 EA3FZT Francis #2560 Cubelles Spain
 EA3HSO Al #2132 Barcelona Spain
@@ -311,6 +309,7 @@ EA5KA Raul #1512 Castellon de la Plana Spain
 EA5KO Andy #2545 Castellon Spain
 EA5M Dani #2979 Murcia Spain
 EA6BF Josep #3072 Balearic Island
+EA7/VE3NE Lali #128 
 EA7EGU Manuel #2505 Malaga Spain
 EA7JW David #1933 Cadiz Spain
 EA8BMG Luis #1063 La Hidalga Arago Canary Island
@@ -360,7 +359,6 @@ G0TPH Al #2956 Desford England
 G0UYG Andy #2453 Port Sunlight Wirral England
 G0WCZ Grae #1983 Brigaton England
 G2CWO Duncan #1979 (G3WZD) England
-G2E Rog #2797 Pinkneys Green England
 G2JL Mort #32 Hampshire England
 G3LDI Roger #1843 The Old Nursery Swardeston England
 G3LHJ Derrick #3048 Devon England
@@ -404,6 +402,7 @@ G4PIQ Andy #2767 Suffolk England
 G4PVM Paul #2413 Essex England
 G4RCG John #2379 Wakefield England
 G4RMV Mike #1614 Pershore England
+G4RTJ Colin #2940 England
 G4RWD Ken #2126 (CT7AGZ) Barton-under-Needwood England
 G4SMB Mike #2700 Yorkshire Englandd
 G4UZE Chris #2641 Ruislip England
@@ -467,7 +466,6 @@ HP/W1VE Gerry #191 (W1VE)
 HP1XT Tom #518 Punta Paitilla Panama
 HR9/AD8J John #1395 Roatan Island Honduras
 HR9/N3AD Alan #727 Roatan Island Honduras
-HR9/W1UE Dennis #437 Portable Honduras
 HS0ZCK Joe #339 Floyd VA USA
 HS0ZDJ John #751 via W2YR USA
 I0GOJ Tony #602 Roma RM Italia
@@ -1215,7 +1213,6 @@ KJ4R Ed #3080 Sumter SC
 KJ4YM Mark #2317 Marietta GA
 KJ5R Dave #2871 Las cruces NM
 KJ5T Steve #3037 Austin TX (Occ. QRP)
-KJ5Y Pat #2794 Pearland TX
 KJ9C Mel #898 Indianapolis IN
 KK0ECT Eric #2066 Fort Collins CO
 KK0U Jim #3067 Rock Hill MO
@@ -1581,7 +1578,6 @@ N5EE Ken #1766 Gravette AZ
 N5EIL Neil #1635 Terrell TX (Mostly QRP)
 N5ER John #3036 Cabot AR (Occ. QRP)
 N5FO Sam #1680 Tyrone NM
-N5HZ Jim #1425 Metairie LA
 N5IR Bill #799 Sanger TX
 N5JB John #2980 Parker TX
 N5JR Joel #1229 Rowlett TX
@@ -2057,7 +2053,6 @@ TI5W Nate #445 Costa Rica (N4YDU)
 TI7W Chris #1576 (KL9A)
 TO9W John #471 (W9ILY) in Dxpedition
 TX5T Madison #1479 (W5MJ) Austral Islands Tubuai
-TY2AC Nicolas #1755 Cotonou Benin
 TZ4AM Jeff #1716 Bamako Mali Africa
 UA6AF Vic #406 NOVOROSSIYSK Russia
 UA9BA Willy #428 Asiatic Russia
@@ -2284,7 +2279,6 @@ W1RH Bob #2443 Placerville CA
 W1RM Pete #8 Burlington CT
 W1SAV Savi #3130 Alhambra CA
 W1TO Tom #2042 Cheshire MA
-W1UE/VE3 Dennis #437 ON
 W1UJ Jay #426 Webster MA
 W1UU Peter #91 Falmouth MA (CWops Vice Pres.) (QRP/43'Vert.)
 W1UU/1 Peter #91 Trapp Family Lodge in Stowe Vermont
@@ -2371,14 +2365,12 @@ W3ZF Dan #3069 Highlands Ranch CO
 W4/LZ5KF Claude #2326 (F5PBL)
 W4AQL Bruce #2297 (KN8U) Georgia Tech ARC Atlanta GA
 W4AU John #224 Hamilton VA
-W4BQF Tom #149 Hahira GA
 W4BUW George #1023 Taylors SC
 W4CB Bud #65 (RC) Penhook VA (W2RU)
 W4CC John #1284 Dallas NC
 W4CI Dave #932 Fern Park FL
 W4CK Mark #33 Fayetteville TN
 W4CMG Cathy #2988 Nashville TN
-W4DDD Jim #806 Orange Park FL
 W4DKS Dan #321 Centreville VA
 W4DXX Eric #1040 Bainbridge GA
 W4EDE Lee #30 Miami Beach FL
@@ -2421,7 +2413,6 @@ W4VG Jay #1591 Fairfax VA
 W4VIC Vic #1184 Virginia Beach VA
 W4VQ Bob #835 Geneva FL
 W4WF Chris #2095 Orlando FL
-W4WJ Don #654 Fredericksburg TX
 W4WQ Jerry #2367 Cartersville GA
 W4XO Lex #2217 (Alexis) Grantville GA
 W4YE Buddy #396 Wirtz VA
@@ -2437,7 +2428,6 @@ W5DV Chas #1364 New Braunfels TX
 W5EAL Brian #3051 Redlands CA
 W5EP Bill #2372 Hubbard TX
 W5FKX Don #241 River Ridge LA
-W5FMH Pat #2794 (KJ5Y) S-TX Remote DX Club Pearland TX
 W5FN Doug #1938 Harrah OK
 W5FOC Ken #1446 Manor TX (K5WK)
 W5GAI Skip #1649 Carriere MS
@@ -2656,7 +2646,6 @@ WA9SEO Mike #1748 Shorewood IL
 WA9ZZ Anne #3034 Deer Park WI
 WB0GKH Mitch #952 Holmen WI
 WB0JRH Terry #2774 Winton MN
-WB0PYF Ray #1713 St. Louis MO
 WB0SND Mike #1469 De Soto MO
 WB2AIV Bill #542 Snyder NY
 WB2KAO Tim #2188 Rochester NY

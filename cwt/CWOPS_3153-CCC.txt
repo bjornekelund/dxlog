@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-01
+# Last Edit,2022-04-06
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -42,7 +42,6 @@
 8P9AL,Chuck,969,Barbados
 8P9NX,Peter,,Barbados (W0SA)
 8Q7ZO,Mark,1224,(N5ZO)
-9A/F4GFT,Andy,,
 9A/N4XU,Bob,,Zagreb Croatia
 9A/S57KM,Sandi,9A,
 9A1AA,Ivo,2447,Belisce Croatia
@@ -517,7 +516,7 @@ DK9IP,Win,,Karisruhe Germany
 DK9PY,Armin,2062,Waldalgesheim Germany  (Occ. QRP)
 DL/KK0U,Jim,DL,
 DL0AF,Fritz,,RC Erwitte Germany
-DL0DA,Hardy,2802,(DL1VDL)
+DL0DA,Hardy,DL,Dresden Germany (DL1VDL)
 DL1AXX,Seb,,Cologne Germany
 DL1EJM,Christ,,Duisburg Germany
 DL1FY,Erwin,2636,Moosinning Germany
@@ -649,7 +648,7 @@ EA2AJB,Andres,1048,Alcaniz Turuel Spain
 EA2BD,Igna,,Pamplona Spain
 EA2CW,Mike,,Basque Country Spain
 EA2DDE,Jorge,,Navarra Spain
-EA2DPA,Raul,2519,Vizcaya Spain
+EA2DPA,Raul,EA,Vizcaya Spain
 EA2EFI,Nol,EA,(Imanol) Biscay Spain
 EA2HW,Enio,,San Sebastian Spain
 EA2KV,Jose,2845,Zaragoza Spain
@@ -674,6 +673,7 @@ EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
 EA6BF,Josep,3072,Balearic Island
 EA6TS,Pedro,,Balearic Isl. Spain
+EA7/VE3NE,Lali,128,
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
@@ -811,7 +811,7 @@ G0VQW,Sandy,,Swindon Wiltshire
 G0WCZ,Grae,1983,Brigaton England
 G1ZOS,Colin,G,Clacton-on-Sea England (DD5CF)
 G2CWO,Duncan,1979,(G3WZD)  England
-G2E,Rog,2797,Pinkneys Green England
+G2E,Rog,G,Pinkneys Green England
 G2JL,Mort,32,Hampshire England
 G3ILO,Steve,,Glos England
 G3KDP,Tony,,St-Ives Cornwall England
@@ -889,7 +889,7 @@ G4PVN,Paul,,Billingham England
 G4RCG,John,2379,Wakefield England
 G4RGK,Dave,,Bucks England
 G4RMV,Mike,1614,Pershore England
-G4RTJ,Colin,,2940,England
+G4RTJ,Colin,2940,England
 G4RWD,Ken,2126,(CT7AGZ)  Barton-under-Needwood England
 G4SMB,Mike,2700,Yorkshire Englandd
 G4TSH,Justin,,Hounslow England
@@ -1016,7 +1016,7 @@ HP/W1VE,Gerry,191,(W1VE)
 HP1XT,Tom,518,Punta Paitilla Panama
 HR9/AD8J,John,1395,Roatan Island Honduras
 HR9/N3AD,Alan,727,Roatan Island Honduras
-HR9/W1UE,Dennis,437,Portable Honduras
+HR9/W1UE,Dennis, ,Portable Honduras
 HS0ZCK,Joe,339,Floyd VA USA
 HS0ZDJ,John,751,via W2YR USA
 I0GOJ,Tony,602,Roma RM Italia
@@ -1174,6 +1174,7 @@ K0CA,Cliff,903,Hannibal MO
 K0CF,Craig,1834,Iowa City IA
 K0CMH,Craig,MO,St Louis MO
 K0DEQ,Bill,1683,Rolla MO
+K0DME,Ben,CO,
 K0DQ,Scott,VA,McLean VA
 K0DTJ,Brian,717,Half Moon Bay CA
 K0DTQ,John,MN,Coon Rapids MN
@@ -1399,6 +1400,7 @@ K2LNS,Herb,2208,Wilkes Barre PA
 K2LP,Bud,MA,Eastham MA
 K2MF,Barry,1253,Lutz FL
 K2MGR,Kurt,915,Bainbridge NY
+K2MK,Mike,FL,Lakeland FL
 K2MMO,Mike,NY,Staten Island NY
 K2MRK,Mark,FL,Melbourne FL
 K2MYQ,Bill,NJ,Princeton NJ
@@ -2522,7 +2524,7 @@ KJ4WNA,Max,TX,Houston TX
 KJ4YM,Mark,2317,Marietta GA
 KJ5R,Dave,2871,Las cruces NM
 KJ5T,Steve,3037,Austin TX  (Occ. QRP)
-KJ5Y,Pat,2794,Pearland TX
+KJ5Y,Pat,TX,Pearland TX
 KJ6NGF,Tim,CA,Orange CA (N6TMT)
 KJ6UVQ,Dennis,CA,Santa Monica CA
 KJ7V,Roger,WA,Ephrata WA
@@ -2605,6 +2607,7 @@ KN4IIY,Eric,FL,Winter Park FL
 KN4IXU,Rob,CWA,Mint Hill NC
 KN4NL,Dave,424,Mobile AL
 KN4RD,Russ,3110,Ocala FL
+KN4RNO,Carl,GA,
 KN4VCE,Mike,VA,Woodbridge VA
 KN4VV,John,2331,Fairfax VA
 KN4YRM,Randon,2930,Plantation FL
@@ -3000,6 +3003,7 @@ N2RI,Paul,462,Levittown NY
 N2RRA,Eric,NY,(QRP) North White Plains NY
 N2SO,Chas,1435,Yorktown Heights NY (Charles)
 N2SR,Tom,NJ,Vincentown NJ
+N2TTL,Jay,FL,
 N2TSQ,Bob,WI,Verona WI
 N2UD,Tom,CWA,Osprey FL
 N2UN,Tony,NY,New York NY
@@ -3203,7 +3207,7 @@ N5FIW,Joel,IL,Barrington IL
 N5FO,Sam,1680,Tyrone NM
 N5GKJ,Gerald,LA,Metairie LA
 N5HC,Bruce,NM,Rio Rancho NM
-N5HZ,Jim,1425,Metairie LA
+N5HZ,Jim,LA,Metairie LA
 N5IKD,Robert,TX,Lake Dallas TX
 N5IR,Bill,799,Sanger TX
 N5JB,John,2980,Parker TX
@@ -3603,6 +3607,7 @@ NN2NN,Steve,NY,Niagara Falls NY
 NN3Q,Russ,PA,Wernersville PA
 NN3W,Rich,VA,Vienna VA
 NN4K,Mac,1227,Stone Mountain GA
+NN4NT,Rob,AL,
 NN4RB,Rick,VA,Forest VA
 NN4SS,Larry,SC,Drayton SC
 NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
@@ -4140,6 +4145,7 @@ SP2R,Darek,SP,Slupsk Poland
 SP3BLC,Mietek,,no info
 SP3FSM,Stan,2961,Poznan Poland
 SP4AWE,Kaz,,Bialystok Poland
+SP4JFR,Bolo,DX,?
 SP4Z,Wes,,Lapy Poland
 SP5ENA,Mirek,,Warszawa Poland
 SP5GDX,Krzystof,3133,Warszawa Poland
@@ -4198,7 +4204,7 @@ TI5W,Nate,445,Costa Rica (N4YDU)
 TI7W,Chris,1576,(KL9A)
 TO9W,John,471,(W9ILY) in Dxpedition
 TX5T,Madison,1479,(W5MJ) Austral Islands Tubuai
-TY2AC,Nicolas,1755,Cotonou Benin
+TY2AC,Nicolas, ,Cotonou Benin
 TZ4AM,Jeff,1716,Bamako Mali Africa
 UA1ABW,Val,,St.Petersburg Russia
 UA1AJ,VAl,,St-Petersburg Russia
@@ -4643,7 +4649,7 @@ W1HT,Ralph,FL,Boca RAton FL
 W1JR,Joe,249,Amherst NH
 W1JSB,Hans,NH,Canterbury NH
 W1KM,Greg,1411,Marstons Mills MA
-W1LEM,Lem,MA,Brewster MA
+W1LEM,Lem,CWA,Brewster MA
 W1LLO,Stacey,NC,Kernersville NC
 W1LWH,Linn,551,Belmont MA
 W1MA,Ed,MA,Norwood MA
@@ -4669,7 +4675,7 @@ W1SFR,Steve,VT,Sudbury VT
 W1STV,Savi,NH,Grantham NH
 W1TO,Tom,2042,Cheshire MA
 W1UE,Dennis,MA,Marlborough MA
-W1UE/VE3,Dennis,437,ON
+W1UE/VE3,Dennis, ,ON
 W1UJ,Jay,426,Webster MA
 W1UU,Peter,91,Falmouth MA (CWops Vice Pres.) (QRP/43'Vert.)
 W1UU/1,Peter,91,Trapp Family Lodge in Stowe Vermont
@@ -4683,6 +4689,7 @@ W1XT,Bob,AZ,Sun City West AZ
 W1ZF,Skip,MA,Needham MA
 W1ZT,Geo,174,Beverly MA
 W2AAB,Fred,1449,Fair Lawn NJ
+W2AFE,Jay,PA,Phoenixville PA
 W2APF,Thaire,1627,Eaton Center NH
 W2CDO,Peter,2526,Potomac MD
 W2CQ,Bill,928,Fort Lauderdale FL
@@ -4814,7 +4821,7 @@ W4ANE,Jim,SC,Columbia SC
 W4AQL,Bruce,2297,(KN8U) Georgia Tech ARC Atlanta GA
 W4AU,John,224,Hamilton VA
 W4BGT,Jim,GA,Snellville GA
-W4BQF,Tom,149,Hahira GA
+W4BQF,Tom,GA,Hahira GA
 W4BUW,George,1023,Taylors SC
 W4CB,Bud,65,(RC) Penhook VA (W2RU)
 W4CC,John,1284,Dallas NC
@@ -4823,7 +4830,7 @@ W4CI,Dave,932,Fern Park FL
 W4CK,Mark,33,Fayetteville TN
 W4CMG,Cathy,2988,Nashville TN
 W4DD,Jeff,GA,Gainsville GA
-W4DDD,Jim,806,Orange Park FL
+W4DDD,Jim,FL,Orange Park FL
 W4DKS,Dan,321,Centreville VA
 W4DLZ,Frank,FL,Carrabelle FL
 W4DR,Bob,VA,Midlothian VA
@@ -4897,7 +4904,7 @@ W4SIG,Kerry,1700,Collierville TN
 W4SON,Jack,NY,Dix Hills NY
 W4SPR,Spray,2259,(Steve) Stuart FL
 W4SSF,Stan,TN,Lenoir City TN
-W4SV,Doc,CWA,Townsend TN
+W4SV,Doc,TN,Townsend TN
 W4TB,Ted,FL,Bradenton FL
 W4THI,Rick,CWA,Jupiter FL
 W4TJE,Jack,1577,Fancy Gap VA
@@ -4914,7 +4921,7 @@ W4VIC,Vic,1184,Virginia Beach VA
 W4VP,Ron,NC,Franklinton NC
 W4VQ,Bob,835,Geneva FL
 W4WF,Chris,2095,Orlando FL
-W4WJ,Don,654,Fredericksburg TX
+W4WJ,Don,TX,Fredericksburg TX
 W4WQ,Jerry,2367,Cartersville GA
 W4WW,Eiichiro,PA,Pittsburg PA
 W4WXA,Tom,GA,Warner Robins GA
@@ -4940,7 +4947,7 @@ W5DXS,Larry,TX,
 W5EAL,Brian,3051,Redlands CA
 W5EP,Bill,2372,Hubbard TX
 W5FKX,Don,241,River Ridge LA
-W5FMH,Pat,2794,(KJ5Y)  S-TX Remote DX Club Pearland TX
+W5FMH,Pat,TX,SoTX DX Club Pearland TX
 W5FN,Doug,1938,Harrah OK
 W5FOC,Ken,1446,Manor TX (K5WK)
 W5GAD,,LA,Jefferson ARC Metairie LA
@@ -5381,7 +5388,7 @@ WB0CFF,Carl,MN,Belle Plaine MN
 WB0GKH,Mitch,952,Holmen WI
 WB0JRH,Terry,2774,Winton MN
 WB0OQV,Jim,MO,Marionville MO
-WB0PYF,Ray,1713,St. Louis MO
+WB0PYF,Ray,MO,St. Louis MO
 WB0QVB,Tom,KY,Shepherdsville KY
 WB0RUR,Gary,AZ,Fayetteville AZ
 WB0SND,Mike,1469,De Soto MO
