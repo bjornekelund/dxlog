@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-06
+# Last Edit,2022-04-13
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -485,6 +485,7 @@ DJ7YP,Helmut,,Bielefeld Germany
 DJ8GE,Gunter,2546,(Gunther)   Guenzburg Germany
 DJ8QQ,Horst,,Cuxhaven Germany
 DJ9AO,Oli,,Jena Germany
+DJ9BM,Volker,,Sankt Augustin Germany
 DJ9IE,Uli,,Unna Germany
 DJ9RB,Nob,,Andechs Germany
 DK0LT,Hans,,RC Stadtlohn Germany
@@ -607,6 +608,7 @@ DL8KX,Tommy,,Wentorf Germany
 DL8MX,Wil,,Hochstadt Germany
 DL8PG,Gerd,833,Weyerbusch near Bonn Germany
 DL8TG,Klaus,2524,Wolfsburg Germany  (Occ. QRP)
+DL8UKW,Uli,,Zeuthen Germany
 DL9ABM,Stefan,1922,Bergen Germany
 DL9FCQ,Tom,,Greigericht Germany
 DL9GFB,Franz,,Bad Doberan Germany
@@ -1556,7 +1558,7 @@ K4AMC,Jim,922,Madison TN
 K4ANA,John,VA,Virginia Beach VA
 K4ANU,Richard,NC,Greensboro NC
 K4ARQ,John,1437,Tallahassee FL
-K4AVX,John,2059,Viper KY
+K4AVX,John,KY,(2059) Viper KY
 K4BAI,John,76,Columbus GA
 K4BB,Bob,GA,Roswell GA
 K4BEN,Ben,VA,Arlington VA
@@ -2753,6 +2755,7 @@ KY0Q,Rick,2703,Hoffman Estates IL
 KY2D,Jim,2096,Morristown NJ
 KY4F,Doug,847,Athens AL
 KY4FH,Jim,NC,Lumberton NC
+KY4GS,Amanda,SC,Sycamore SC
 KY4GW,Joe,KY,Lawrenceburg KY
 KYY4ID,Mike,SC,Trenton SC
 KY7K,Steve,AZ,Tucson AZ
@@ -2938,6 +2941,7 @@ N1KW,Bob,1022,Homer Glen IL
 N1LN,Bruce,1141,Chapel Hill NC (CWOpen Adm.)
 N1LU,Don,CT,Stamford CT
 N1MM,Tom,CT,Vernon CT (N1MM Logger+)
+N1PRR,Gary,AZ,
 N1RBD,Rich,2983,Duluth GA
 N1RM,Rick,2659,Reston VA
 N1RR,Charlie,2631,Seekonk MA
@@ -3430,6 +3434,7 @@ N9FB,Rob,IN,Whitestown IN
 N9GB,Greg,KS,Stilwell KS
 N9GFU,Jim,IN,Schererville IN
 N9GG,Bob,2517,Wilmington DE
+N9GVP,Tom,IL,
 N9ITO,Jim,IL,Lake Barrington IL
 N9IXD,Marty,1393,Chicago IL
 N9LB,LLoyd,WI,Oregon IL
@@ -3490,6 +3495,7 @@ NB7M,John,WA,White Salmon WA
 NB7O,Kevin,3112,Hermiston OR
 NB8Q,Ron,MI,Flat Rock MI
 NC1M,Hugh,1668,Wesford MA
+NC3I,Doug,WA,Seattle WA
 NC3Y,Tom,2147,Sharpsburg MD
 NC4ON,Stefan,NC,Denver NC
 NC4RB,John,NC,Thomasville NC
@@ -4660,6 +4666,7 @@ W1NN,Hal,785,Medina OH (Occ. remote from Japan)
 W1NU,Ryan,MA,Belchertown MA
 W1OL,Guy,MA,Stoneham MA
 W1OO,,ME,Down East DX Association Scarborough ME
+W1OM,Kevin,FL,
 W1OPR,Dustin,ME,Windsor ME
 W1PH,Kurt,NH,Amherst NH Pauer Family RC
 W1PID,Jim,1507,Sanbornton NH (Mosly QRP-Outdoor)
@@ -4714,13 +4721,13 @@ W2IY,Mike,3031,Santa Fe NM
 W2JAZ,Rick,2239,Cherry Hill NJ
 W2JK,Joe,NY,Floral Park NY
 W2JLK,Jim,NJ,Matawan NJ
+W2KA,Mike,NY,Fairport NY
 W2KU,Vince,3124,Township NJ
 W2LB,Larry,906,Farmington NY
 W2LCQ,Ed,701,New York NY
 W2LE,Paul,NJ,Flemington NJ
 W2LJ,Larry,1005,South Plainfield NJ
 W2LK,Les,726,Ulster Park NY
-W2M,Bill,VA,(K2RYD) Forest VA
 W2MFT,Doc,NY,Tonawanda NY
 W2MGF,Mike,NY,Bronx NY
 W2MKM,Ed,2681,Washington NJ
@@ -5194,6 +5201,7 @@ W8YA,Mark,MI,Highland MI
 W8ZR,Jim,NM,Santa Fe NM
 W9/CE2LR,Matt,WI,@ W9XY Montello WI
 W9AW,Motoaki,1014,HONOLULU HI
+W9BGJ,Brian,IN,
 W9BGW,Brian,IN,Crandall IN (Big Gray Wolf)
 W9BGX,Ralph,IL,Northwestern University ARS
 W9BJL,Chris,2541,(HB9BJL) Miami FL
@@ -5597,7 +5605,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,1346,Aurora IL (Fred)
+WT2P,CJ,IL,(1346) Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC
@@ -5721,6 +5729,7 @@ ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
 ZP6CW,Doug,,Caacupe Paraguy
 ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
+ZS1ANF,Oleg,,Western Cape South Africa
 ZS1C,Raoul,338,Kraaifontein SA (AFS Amb. Director)
 ZS1EL,Vidi,13,Somerset Mall South Africa
 ZS1I,Johan,,Heiderand South Africa

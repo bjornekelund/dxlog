@@ -1,11 +1,12 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-04-05
+# 1-Last Edit,2022-04-11
 # 2-Thanks G3WDZ, K1VUT and Chuck/WS1L for update. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
+9A3KG,JURE,DX,Split Croatia
 9A3YT,DARKO,9A,Kastav Croatia
 9A5AX,Josip,9A,Dubrovnik Croatia
 9A5MX,SVEN,DX,Muenchen Germany (DJ4MX)
@@ -167,6 +168,7 @@ AA7UN,JIM,ID,
 AA7V,STEVE,AZ,
 AA7VT,,WA,
 AA7WG,STEVE,ID,
+AA7WU,MIKE,AZ,Sun City West AZ
 AA7YA,,MT,
 AA7ZZ,CARL,KS,Leawood KS
 AA8BC,,OH,
@@ -788,6 +790,7 @@ DF7CP,STEFAN,DL,Eldena Germany
 DH1NTT,Terry,DH,Aschaffenburg Germany
 DH4NWG,MARTIN,DL,Hersbruck Germany
 DJ0YI,BEN,DL,Boeblingen Germany
+DJ1TF,THOMAS,DX,Bad Schonborn Germany
 DJ1YFK,FABIAN,DL,Munich Germany
 DJ2MX,MARCUS,DL,Muenchen Germany
 DJ3IW,GOETZ,DJ,Burglengenfeld Germany
@@ -795,12 +798,16 @@ DJ5AZ,FRED,DL,
 DK0SU,TOM,DL,Stuffgart Germany
 DK6AC,MIKE,DL,Braunschweig Germany
 DL1AMI,WERNER,DL,Nordhausen Germany
+DL1AVH,WIL,DX,Kahla Germany
 DL1CC,Wolf,DL,Eisenhuettenstadt
 DL1CWM,Konrad,DL,Helsa Germany
+DL1HR,RALPH,DX,Bad Laasphe Germany
 DL1VJL,WOLFGANG,DL,Goppein Germany
+DL2GWZ,ALEX,DX,Speye Germany
 DL3NAA,PETER,DL,Kehl Germany
 DL3SAS,HARTMUT,DL,Stuttgart Germany
 DL3TU,ROMAN,DX,Tuebingen Germany
+DL4KG,GERALD,DX,Stuttart Germany
 DL4NAX,FRED,DL,Bindlach Germany
 DL4YHF,WOLF,Spenge Germany
 DL5CL,RON,DL,
@@ -831,10 +838,14 @@ EI2HIB,MARTIN,,Waterford Irland
 EI2KW,DICK,EI,Kildare Ireland
 EI3HA,TONY,EI,Strandhill Sligo Ireland
 EI9JF,NICKY,DX,Kildare Ireland
+ES4RM,SERGEI,DX,Narva Joesuu Estonia
+F4HGA,GUS,DX,?
 F4HGD,STEF,F,Dunkerque France
+F4HVO,HUGO,DX,Toulouse France
 F5IDJ,VAL,F,
 F5JRC,JOHN,DX,Epaux-Bezu France
 F5OKB,PIERRE,F,Lançon Provence France
+F5RMN,YVON,DX,?
 F5ROL,MANU,F,?
 F5SGI,JEAN,F,Vannes France
 F6DQV,Jean,F,Vieille-Brioude France
@@ -875,6 +886,7 @@ GW4ZAR,DAVE,GW,Flintshire Wales
 GW7APP,Ian,GW,Anlesey Wales
 HA8RJ,ATI,HA,Soltvadkert Hungary
 HB0/DL5YL,TINA,HB0,DXP
+HB9BEG,ERNST,DX,Ostermundigen Switzerland
 HB9BXF,FRANZ,HB,Meikirch Switzerland
 HB9DOS,ROBY,HB,Olivone/Luorscha Switzerland
 HB9FAB,PAT,HB9,Camignolo Switzerland
@@ -891,6 +903,7 @@ HZ1BH,AMER,DX,Jeddah/West Coast Saudi Arabia
 I1HNU,MARK,I,Ivrea TO Italy
 I2IFT,JOHN,DX,Seriate BG Italy 
 I5ECW,VANNI,DX,Montale PT Italy
+I5GJK,FABIO,DX,Montemurlo Italy
 IK1HGE,Bob,DX,Almese TO Italy
 IK1PMR,Andrea,IK,Casale Monferrato Italy
 IK1VQO,GIAN,DX,Cuneo Italy
@@ -902,6 +915,7 @@ IU1AUG,Diego,IU,Tavagnasco Italy
 IU5PDY,NAME,I,Livorno Italy
 IW0OBX,ROBY,I,
 IZ0VQU,MIRKO,DX,Roma Italy
+IZ2FME,MIK,DX,Borghetto Italy
 IZ4ZZB,MIKE,I,San Lazzaro di Savena Italy
 IZ6BXP,Stefano,IA,L'aquila Italia
 K0ACP,ART,MI,
@@ -1222,6 +1236,7 @@ K1PXE,,CT,
 K1PY,,NY,
 K1PY/2,,NY,
 K1QK,,MA,
+K1QKZ,CHUCK,TN,Fayetteville TN
 K1QO,ANN,NH,
 K1RF,STEVE,CT,Norwalk CT
 K1RFD,JOHN,CT,
@@ -2270,6 +2285,7 @@ K5UTD,,TX,
 K5UTG,WARREN,OK,
 K5UV,MIKE,OK,
 K5UZ,DAVID,AR,
+K5VBA,STAN,AL,Huntsville AL
 K5VG,,NC,
 K5VH,,TX,
 K5VI,ANDY,TX,
@@ -3408,6 +3424,7 @@ KB1HIP,,MA,
 KB1HY,PETER,CT,
 KB1JZU,BOB,MA,
 KB1K,BOB,FL,
+KB1LLY,BILLY,GA,Osawatomie KS
 KB1LN,,RI,
 KB1LRL,RAY,MA,
 KB1LXV,,NE,
@@ -3758,6 +3775,7 @@ KC3PMD,JOE,NC,Souderton PA
 KC3Q,,PA,
 KC3QU,HANK,AL,
 KC3SDJ,ANDY,PA,ALLISON PARK PA
+KC3SLD,KYLE,PA,State College PA
 KC3T,,CT,
 KC3WX,,PA,
 KC4AUF,,VA,
@@ -3779,6 +3797,7 @@ KC4SAW,JOHN,TN,
 KC4T,MARK,GA,Atlanta GA
 KC4TEO,,AL,
 KC4TVN,,VA,
+KC4TVN,GEORGE,VA,Irvington VA
 KC4VI,,FL,
 KC4VJB,,AL,
 KC4WQ,BUD,KY,
@@ -5308,6 +5327,7 @@ LZ1ON,DIMO,DX,Zagora Bulgaria
 LZ1QI,PETKO,DX,Lyulin Bulgaria
 LZ2CP,CONY,DX,Pavlikeni Bulgaria
 M0JCP,JIM,G,Frome England
+M0KVI,OWEN,DX,East Sussex England
 M0MON/P,MARK,G,Winderhere England
 M0MUI,MUI,G,Norwich England
 M0NNQ,LEO,G,Cumbria England
@@ -5562,6 +5582,7 @@ N1LU,DON,CT,
 N1LW,,ME,
 N1MD,MIKE,CT,
 N1MGO,BAMBI,MA,
+N1MID,JOE,NJ,Morris Plains NJ
 N1MIU,JOHN,RI,Providence RI
 N1MM,TOM,CT,
 N1NB,,CT,
@@ -6858,6 +6879,7 @@ N8DD,CHUCK,OH,Shaker Heights OH
 N8DJB,,OH,
 N8DJX,BRUCE,OH,
 N8DNA,MIKE,OH,
+N8DNG,STEVE,OH,Miamisburg OH
 N8DPD,BOB,OH,
 N8DUS,JOHN,MI,Rochester MI
 N8DWN,CARL,OH,
@@ -7208,6 +7230,7 @@ N9TK,JIM,IL,
 N9TMU,,FL,
 N9TO,ROB,IL,
 N9TR,BEN,NY,
+N9TTK,JUSTIN,IN,Indianapolis IN
 N9TTX,,WI,
 N9TX,KEITH,TX,
 N9TZL,,IL,
@@ -7421,6 +7444,7 @@ NE7I,,IN,
 NE7L,,NJ,
 NE7O,RICK,WA,
 NE7O/1,,MA,
+NE7X,TOM,AZ,Scottsdale AZ
 NE8I,,MI,
 NE8J,HOWARD,MI,
 NE8O,TOM,MI,
@@ -7930,6 +7954,7 @@ NZ9R,,IN,
 OE1ALW,Ulf,OE,Vioenna Austria
 OE3IAK,ANDREAS,OE,Wienerherberg Austria
 OG6B,ZABA,DX,
+OH2EUZ,MIKKO,DX,Hyvinkaa Finland
 OH5ZA,ZABA,DX,Pori Finland
 OH5ZA,ZABA,DX,Pori Finland
 OH6BA,Olli,DX,Jamsa Finland
@@ -7980,6 +8005,7 @@ SM6YNO,HANS,SM,KarlGustav Sweden
 SP2JFY,ANDY,DX,Malbork Poland
 SP5BB,FRANK,SP,Warszawa Poland
 SP7CF,ANDY,DX,Zloczew Poland
+SP7OGP,PIOTR,DX,Tomaszow Poland
 SP8VFX,MARIO,,Krakow Poland
 SP9IHP,ANDY,SP,Czestochowa Poland
 SV1CEI,NICK,SV,Nea Penteli Greece
@@ -11596,6 +11622,7 @@ WA4NIV,BUD,TN,
 WA4NJP,,GA,
 WA4OFS,,FL,
 WA4OSD,FRANK,TN,
+WA4OTL,BILL,TN,Hixson TN
 WA4PCS,,KY,
 WA4PGJ,,TN,
 WA4PGM,,VA,
@@ -12262,6 +12289,7 @@ WD5EWD,,TX,
 WD5F,FRED,FL,
 WD5FGZ,,TX,
 WD5G,,TX,
+WD5HCK,RUSS,OK,Ardmore OK
 WD5IFS,,TX,
 WD5ISI,,VA,
 WD5IYT,JIM,TX,
