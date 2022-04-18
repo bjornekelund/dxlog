@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-13
+# Last Edit,2022-04-17
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -485,7 +485,7 @@ DJ7YP,Helmut,,Bielefeld Germany
 DJ8GE,Gunter,2546,(Gunther)   Guenzburg Germany
 DJ8QQ,Horst,,Cuxhaven Germany
 DJ9AO,Oli,,Jena Germany
-DJ9BM,Volker,,Sankt Augustin Germany
+DJ9BM,Volker,3154,Sankt Augustin Germany
 DJ9IE,Uli,,Unna Germany
 DJ9RB,Nob,,Andechs Germany
 DK0LT,Hans,,RC Stadtlohn Germany
@@ -2757,7 +2757,7 @@ KY4F,Doug,847,Athens AL
 KY4FH,Jim,NC,Lumberton NC
 KY4GS,Amanda,SC,Sycamore SC
 KY4GW,Joe,KY,Lawrenceburg KY
-KYY4ID,Mike,SC,Trenton SC
+KY4ID,Mike,SC,Trenton SC
 KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
@@ -4563,9 +4563,9 @@ VQ9LA,Larry,644,Grandview MO USA
 VU2BGS,Kumar,,Bangalore India
 VU2PAI,PAI,,MANGALORE India
 VU2PTT,Prasad,615,BAngalore India
-VX2X,DUB,1181,(VE2FK)  Matane QC
 VY1EI,Eric,YT,Whitehorse YT Canada
 VY2SS,Robby,PE,O'LEARY PE
+VY2XU,Ala,.PE,Montagne PE
 W0A,Mike,IA,(N5KB)  Sioux Rapieds IA
 W0AAE,Bob,2947,Maple MN
 W0AD,Paul,1977,Elden Prairie MN
@@ -4911,7 +4911,7 @@ W4SIG,Kerry,1700,Collierville TN
 W4SON,Jack,NY,Dix Hills NY
 W4SPR,Spray,2259,(Steve) Stuart FL
 W4SSF,Stan,TN,Lenoir City TN
-W4SV,Doc,TN,Townsend TN
+W4SV,Doc,3155,Townsend TN
 W4TB,Ted,FL,Bradenton FL
 W4THI,Rick,CWA,Jupiter FL
 W4TJE,Jack,1577,Fancy Gap VA

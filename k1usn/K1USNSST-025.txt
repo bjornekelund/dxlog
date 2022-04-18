@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-04-11
+# 1-Last Edit,2022-04-17
 # 2-Thanks G3WDZ, K1VUT and Chuck/WS1L for update. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -346,6 +346,7 @@ AC3D,SCOTT,TN,Chuckey TN
 AC3FM,ROB,MD,Silver Spring MD
 AC3FS,DALE,NC,Pasadena MD
 AC3IE,PAUL,PA,Pittsburg PA
+AC3IU,Rich,PA,
 AC3P,FRANK,MD,
 AC3SS,SERGIO,MD,Crofton MD
 AC3U,BILL,CA,
@@ -7498,7 +7499,7 @@ NG4L,BILL,FL,
 NG5A,ALEX,TX,
 NG5E,DAVE,TX,
 NG6O,,CA,
-NG6W,ANDY,OR,Portland OR
+NG6W,ANDY,CA,
 NG6X,,CA,
 NG7A,GEO,IA,
 NG7IL,GIL,UT,Syracuse UT
@@ -7653,6 +7654,7 @@ NN4SA,MATT,AL,
 NN4SS,LARRY,SC,
 NN4X,,FL,
 NN5A,,TN,
+NN5DE,Dave,TX
 NN5DX,,TX,
 NN5EG,VERN,TX,
 NN5K,DAVE,NM,
@@ -7788,9 +7790,10 @@ NS7B,RICK,UT,
 NS7E,ART,KS,
 NS7K,,UT,
 NS7N,,WA,
+NS8K,Tom,MI,Traverse City MI
 NS8O,GREG,OH,
 NS8Q,CHRIS,MI,
-Ns8S,Dave,MI,Montagne MI
+NS8S,Dave,MI,Montagne MI
 NS9I,DWIGHT,WI,
 NS9M,,IN,
 NS9N,MARK,IL,
@@ -11028,6 +11031,7 @@ W8RCY,,OH,
 W8RD,RAY,FL,Dunedin FL
 W8RIK,JOE,OH,
 W8RJL,RON,VA,
+W8RKZ,Rich,VA,
 W8RTJ,JIM,OH,
 W8RU,RON,MI,
 W8RVH,,OH,
