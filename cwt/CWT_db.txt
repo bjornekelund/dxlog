@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3155
-# File last updated 2022-04-24
+# Contains members up to #3158
+# File last updated 2022-04-20
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;3B9
@@ -2452,7 +2452,7 @@ KH2N=Asa;2019
 KH6/VA7CW=Andy;352
 KH6/W1VE=Gerry;191
 KH6/W7EE=Gary;1949
-KH6AQ=Dave;HI
+KH6AQ=Dave;3158
 KH6CJJ=Kent;2160
 KH6DV=Ron;HI
 KH6FHI=Joe;2458
@@ -3017,7 +3017,7 @@ N3DXX=Art;DE
 N3EA=Al;1438
 N3ED=Ed;PA
 N3FJ=Robert;PA
-N3FR=Bob;PA
+N3FR=Bob;3156
 N3FTO=Paul;PA
 N3FZ=Bryan;2273
 N3GGT=Ron;PA
@@ -4059,7 +4059,7 @@ SM3KMB=Ben;SM
 SM4ASX=Len;SM
 SM4DQE=Lars;SM
 SM4EMO=Ken;SM
-SM5ACQ=Don;SM
+SM5ACQ=Don;1573
 SM5AJV=Ingo;2097
 SM5ALJ=Ben;SM
 SM5BKK=Kurt;904
@@ -5687,7 +5687,7 @@ ZL3XDJ=Brian;ZL
 ZP6CW=Doug;ZP
 ZP9MCE=Manu;3103
 ZR2A=Ulrich;2470
-ZS1ANF=Oleg;ZS
+ZS1ANF=Oleg;3157
 ZS1C=Raoul;338
 ZS1EL=Vidi;13
 ZS1I=Johan;ZS

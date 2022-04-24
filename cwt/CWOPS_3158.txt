@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-17
+# Last Edit,2022-04-19
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2469,7 +2469,7 @@ KH2N,Asa,2019,Virginia Beach VA
 KH6/VA7CW,Andy,352,
 KH6/W1VE,Gerry,191,(W1VE)
 KH6/W7EE,Gary,1949,
-KH6AQ,Dave,HI,Pahoa HI
+KH6AQ,Dave,3158,Pahoa HI
 KH6CJJ,Kent,2160,Wailuku HI
 KH6DV,Ron,HI,Kaneohe HI
 KH6FHI,Joe,2458,Honolulu HI
@@ -3043,7 +3043,7 @@ N3DXX/0,Art,,
 N3EA,Al,1438,Lake Worth FL
 N3ED,Ed,PA,Clarks Summit PA
 N3FJ,Robert,PA,Chadds Ford PA
-N3FR,Bob,PA,Pittsburgh PA
+N3FR,Bob,3156,Pittsburgh PA
 N3FTO,Paul,PA,Media PA
 N3FZ,Bryan,2273,Finksburg MD
 N3GGT,Ron,PA,Albrightsville PA
@@ -3520,7 +3520,7 @@ NE2O,Rich,NY,Massapequa Park NY
 NE2V,Justin,2810,Towaco NJ
 NE4EA,Al,SC,Surfside Beach SC
 NE4EI,Dave,2856,Dunwoody GA
-NE5A,George,3033,Guthrie OH
+NE5A,George,3033,Guthrie OK
 NE5DL,Dave,3005,Mansfield TX
 NE5ET,Perry,3047,Corinth TX
 NE5T,Gary,TX,Canton TX
@@ -4087,7 +4087,7 @@ SM3KMB,Ben,,Nyland Sweden
 SM4ASX,Len,,Orebro Sweden
 SM4DQE,Lars,SM,Ludvika Sweden (also SE4E)
 SM4EMO,Ken,,Kumla Sweden
-SM5ACQ,Don,,Vasteras Sweden
+SM5ACQ,Don,1573,Vasteras Sweden
 SM5AJV,Ingo,2097,Vallingby Sweden (also SE5E)
 SM5ALJ,Ben,,Fagersta Sweden (also SE5L)
 SM5BKK,Kurt,904,Ostervala Sweden (also SI5Y)
@@ -5729,7 +5729,7 @@ ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
 ZP6CW,Doug,,Caacupe Paraguy
 ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
-ZS1ANF,Oleg,,Western Cape South Africa
+ZS1ANF,Oleg,3157,Western Cape South Africa
 ZS1C,Raoul,338,Kraaifontein SA (AFS Amb. Director)
 ZS1EL,Vidi,13,Somerset Mall South Africa
 ZS1I,Johan,,Heiderand South Africa
