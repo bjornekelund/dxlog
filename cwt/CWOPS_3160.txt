@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-19
+# Last Edit,2022-04-24
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -225,7 +225,7 @@ AC6ZM,Juan,2419,Loudon TN  (Southeast Amb.)
 AC7JW,Jason,627,Woods Cross UT
 AC7T,Doug,822,Redmond WA
 AC8PL,Ulrich,MI,Ann Arbor MI
-AC8RG,Walt,2843,Dayton
+AC8RG,Walt,2843,Dayton OH
 AC8SI,Dave,mi,Monroe MI
 AC8W,Stan,695,Marysville MI
 AC9EM,Steve,IL,Lake Zurich IL
@@ -336,7 +336,7 @@ AG5W,Greg,TX,Georgetown TX
 AG6FU,Phil,CA,Berkeley CA
 AG6V,Donna,911,Petaluma CA
 AG7CC,Cliff,ID,Moscow ID
-AG7TX,Dave,2861,Carson Coty NV
+AG7TX,Dave,2861,Carson City NV
 AG9A,Mark,641,Lincolnwood IL
 AG9C,Bob,IN,Fort Wayne IN
 AG9U,Ben,IL,Long Grove IL
@@ -498,7 +498,7 @@ DK3YD,Hans,,Muenchen Germany
 DK4BX,Erwin,,Heidelberg Germany
 DK4FP,Gerd,,Welzheim Germany
 DK4LX,Holger,802,Hosenfeld Germany
-DK4RW,Wolf,,Linsengeright Germany
+DK4RW,Wolf,3159,Linsengeright Germany
 DK5AX,Markus,1812,Ilsede Germany
 DK5CF,Chris,,Oldenburg Germany
 DK5KK,Kolja,1965,Essen Germany (Occ. QRP)
@@ -708,6 +708,7 @@ EI2IDB,Slav,,Meath Ireland
 EI2IM,Don,55,Virginia Beach VA (W4ZYT)
 EI3HA,Tony,,Strandhill Sligo Ireland
 EI4BZ,Dave,,Cork Ireland
+EI5EM,Tony,3160,Baile Atha Cliath Ireland
 EI5LA,Megan,,Kerry Ireland
 EI6FR,Declan,2811,Dublin Ireland
 EI6KT,John,2965,DublinIreland
@@ -1292,7 +1293,6 @@ K1KNJ,Reg,ME,Woolwich ME
 K1KS,Al,1561,Lyndonville VT
 K1LB,Woody,1633,Reno NV
 K1LGM,Joe,CT,Milford CT
-K1LGO,Dennis,NH,Brookline NH
 K1LGQ,Dennis,NH,Brookline NH
 K1LHO,Mike,2494,Meridien CT
 K1LKP,Carmen,724,Salem NH
@@ -1491,7 +1491,6 @@ K3JHT,John,PA,Pittsburgh PA
 K3JLM,Dennis,PA,Benton PA
 K3JST,John,PA,Johnstown PA
 K3JT,Terry,1398,Morgantown WV
-K3LNS,Red,,?
 K3LR,Tim,943,West Middlesex PA
 K3MD,John,750,Winfield PA (NE-US Amb.)
 K3MIY,Ron,PA,Clarion PA
@@ -1657,7 +1656,7 @@ K4VIZ,Tom,AR,Conway AR
 K4WG,Gene,AL,Birmingham AL
 K4WJ,John,193,Trenton FL
 K4WNY,Don,TN,Millington TN
-K4WTL,,FL,W Travis Loften HS ARC  VA
+K4WTL,Travis,FL,Gainsville FL
 K4WW,Bo,2017,Louisville KY
 K4WY,John,VA,Fairfax Station VA
 K4XD,Rol,NC,Burlington NC
@@ -2469,7 +2468,7 @@ KH2N,Asa,2019,Virginia Beach VA
 KH6/VA7CW,Andy,352,
 KH6/W1VE,Gerry,191,(W1VE)
 KH6/W7EE,Gary,1949,
-KH6AQ,Dave,3158,Pahoa HI
+KH6AQ,Dave,2446,Pahoa HI
 KH6CJJ,Kent,2160,Wailuku HI
 KH6DV,Ron,HI,Kaneohe HI
 KH6FHI,Joe,2458,Honolulu HI
@@ -2613,6 +2612,7 @@ KN4RNO,Carl,GA,
 KN4VCE,Mike,VA,Woodbridge VA
 KN4VV,John,2331,Fairfax VA
 KN4YRM,Randon,2930,Plantation FL
+KN5A,AL,TX,Houston TX
 KN5CWO,,,Delta CWops Club (West Monroe LA)
 KN5O,Ted,LA,Covington LA
 KN6IPE,Dennis,2928,Half Moon Bay CA
@@ -2688,6 +2688,7 @@ KT3M,Rob,CO,Cherry Hills Village CO
 KT3Y,Phil,VA,Manassas VA
 KT4E,Amy,TN,Knoxville TN
 KT4O,Ben,2995,Bristol TN
+KT4UE,Keith,VA,Powhantan VA
 KT4XN,Tom,1738,Atlanta GA
 KT5C,Mike,3022,Tyler TX
 KT5CWO,,,West Gulf CWops Club (Plano TX)
@@ -3305,7 +3306,7 @@ N6RSH,STEVE,NE,Gering NE
 N6TEM,Dave,CA,Mountain Center CA
 N6TR,Tree,83,Manning OR
 N6TT,Steve,535,Manhattan Beach CA
-N6TTV,Carl,1930,Sonama CA
+N6TTV,Carl,1930,Sonoma CA
 N6TU,Bruce,CA,San Jose CA
 N6TV,Bob,CA,San Jose CA
 N6TVN,Carl,1930,Sonoma CA
@@ -3616,6 +3617,7 @@ NN4K,Mac,1227,Stone Mountain GA
 NN4NT,Rob,AL,
 NN4RB,Rick,VA,Forest VA
 NN4SS,Larry,SC,Drayton SC
+NN5DE,Dave,3005,Mansfield TX
 NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
 NN5P,Madison,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
@@ -3703,7 +3705,7 @@ NX8F,Ron,FL,Beverly Hills FL
 NX8Y,Ron,1598,Milford Center OH
 NX9G,Yan,1882,Bensenville IL
 NY1Z,Bub,NH,Salem NH
-NY2H,Lou,2176,Port Jeffeson NY
+NY2H,Lou,2176,Port Jeffeson Station NY
 NY2PO,Pat,2578,Glen Spey NY
 NY3A,Steve,2296,Glen Rock PA
 NY3B,Steve,1862,Orefield PA
@@ -3821,6 +3823,7 @@ OK2TJ,Mirk,,Prostejov Czech Republic
 OK2ZV,Vit,2873,Uhersky  Brod Czech Republic
 OK4MM,Jara,2669,Kyjov Czech Republic
 OK4RM,Jindra,2787,Miskovice Czech Republic
+OK4YL,Alena,,Ostrava-Trebovice Czech Republic
 OK5M,Vit,2499,Slavkova Czech Republic
 OK5MM,Vit,2499,Slavkova Czech Republic
 OK5OK,Jiri,,Czech Republic
@@ -4370,7 +4373,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Eatern QC FN68hr
+VE2FK,Dub,1181,My priority mode CW
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
