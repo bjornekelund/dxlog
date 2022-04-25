@@ -1,7 +1,7 @@
 # NTC QP database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# File last updated 2022-03-15
+# File last updated 2022-04-23
 5X8C=Anton;154
 9A1AA=Peter;37
 9A3SM=MATO;136
