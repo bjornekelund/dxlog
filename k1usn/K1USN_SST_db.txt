@@ -1,7 +1,7 @@
 # K1USN Slow Speed Test participants database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-04-18
+# File last updated 2022-04-24
 9A3KG=JURE;DX
 9A3YT=DARKO;DX
 9A5AX=JOSIP;DX
