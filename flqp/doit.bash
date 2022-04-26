@@ -2,11 +2,10 @@
 FILE=`ls QSOP_FL* | tail -1 2> /dev/null`
 echo FILE=\"$FILE\"
 
-dos2unix $FILE
+dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 FQP database.\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
@@ -28,4 +27,4 @@ BEGIN {
   }  
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > FLQP_db.txt
-unix2dos FLQP_db.txt
+unix2dos -q FLQP_db.txt

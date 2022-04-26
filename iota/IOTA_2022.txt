@@ -4,7 +4,7 @@
 # Info from 2020 results fixed stations plus all IOTA announced.
 # Info from NG3K RSGB Iota Contest Announced operations 2021
 # Info from OPDX Bulletin
-# Last Edit,2021-07-22
+# Last Edit,2022-04-25
 # File will be updated until contest
 # RSGB IOTA contest, 
 # Thanks to NA3M/Nick and VE3KI/Rich for the original file
@@ -247,12 +247,12 @@ D4,,AF005,
 D6,,AF007,
 D93I,,AS080,
 DA0T,,EU127,Neuwerk
-DA2W,,EU057,Rugen
+DA2W,,EU129,Usedom QRV Jul 27 - Aug 22
 DD2CW,,EU057,Rugen CW-SSB
 DF5A,,EU057,Ruegen CW-SSB
 DF6QC,PETER,EU127,Helgoland
 DG1CMZ,,EU057,
-DG5LAC/P,,EU042,Hooge  SSB HP 12H
+DG5LAC/P,,EU042,Halling Hooge  SSB HP 
 DL100BKW,,EU129,
 DK1A,,EU129,Usedom Multi-two
 DK3R,,EU057,Ruegen M1
@@ -341,6 +341,7 @@ EJ4II,,EU103,
 EJ6JP/0,,EU034,Hiiumaa
 EJ5KF,GERARD,EU121,Bere Ireland,
 EJ6KP,,EU121,Aranmore DXP M2 HP
+EJ7EE,,EU121,Bere by OZ2I 24H CW LP
 EJ8KO,,EU121,Arranmore M2,
 ES0GP,,EU178,Manilaid,
 ES0IA,,EU034,Kassaar 
@@ -511,6 +512,7 @@ HQ3W,,NA160,Cayos Cochinos,
 HQ8ID,,NA223,
 HQ9R,,NA057,
 HS1CKC,,AS107,
+HS7AP/P,,AS125,Chang QRV Jul 29 - Aug 1
 HS8HEX,HAW,AS053,Phuket Island,
 I3/DF8DX,,EU131,Lido
 I3BQC,,EU131,Fisolo,
@@ -761,15 +763,15 @@ MM0JTV,,EU010,Barra LP
 MM0TAI,,EU005,Great Britain,
 MM0TFU,,EU123,Isle of Arran
 MM1DJJ,,EU005,Great Britain,
-MM1E,GORDON,EU123, Great Cumbrae 12H (MM0GOR)
+MM1E,GORDON,EU123, Great Cumbrae 12H (MM0GOR M0UTD) Mul-1
 MM2M,,EU123,Arran 24H LP CW-SSB
 MM2N,,EU010,Benbecula,
 MM3LQK,,EU009,Stronsay,
 MM3N,,EU005,Great Britain,
-MM3T,DOUG,EU111,Ceann Ear M2 LP
+MM3T,DOUG,EU123,
 MM8C,,EU111,Ceann Ear Multi 2
 MM9I,John,EU005,(GM0OPS)
-MN5A,,EU122,Rathlin DXP G3WVG mixed
+MN5A,,EU122,Rathlin DXP G3WVG 
 MO0CEF,,EU005,Great Britain,
 MO5BFL,,EU005,Great Britain,
 MO6ADB,,EU005,Great Britain,
@@ -779,6 +781,7 @@ MS0YHC,,EU120,Orkney
 MU0FAL,COLIN,EU114,Guernsey,
 MU0GSY,LIONEL,EU114,Guernsey,
 MU2K,,EU114,Guernsey ARS
+MU5E,,WU114,Guernsey GU4YOX CW
 MV5BFL,,EU005,Great Britain,
 MW1MDH,,EU005,Great Britain,
 MW8T,,EU005,Great Britain,
@@ -881,7 +884,6 @@ P3J,,AS004,
 P3R,,AS004,Cyprus,
 P4,,SA036,
 P43E,,SA036,Aruba,
-PA/DL1KVN/P,,EU146,Tiengemeten DXP Mixed 20w wires solar pwr
 PA/OQ4T,,EU146,Schouwen Duiveland
 PA0HFT,HANK,EU038,
 PA2JJB,JAN,EU038,Texel,

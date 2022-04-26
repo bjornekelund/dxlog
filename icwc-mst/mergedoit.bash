@@ -1,17 +1,18 @@
 #!/bin/bash
-FILE=`ls ICWC-* | tail -1 2> /dev/null`
+FILE1=`ls ../cwt/CWOPS_* | tail -1 2> /dev/null`
+FILE2=`ls ../k1usn/K1USNSST-* | tail -1 2> /dev/null`
 OUTFILE=ICWCMST_db.txt
 
-echo Parsing files $FILE
+echo Parsing files $FILE1 and $FILE2
 
-dos2unix -q $FILE
+dos2unix -q $FILE1 $FILE2
 
 gawk '
 BEGIN {
   FS=","
+  date = strftime("%Y-%m-%d");
   printf("#0 ICWS Medium Speed Test  database.\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#1 Derived from K1USN and CWT databases by Claude VE2FK\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
@@ -38,7 +39,7 @@ END {
   for (cl in call)
     printf("%s=%s\n", cl, name[cl]);
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+END { }' $FILE1 $FILE2 | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 exit

@@ -1,6 +1,6 @@
 # ICWS Medium Speed Test  database.
 # Derived from K1USN and CWT databases by Claude VE2FK
-# File last updated 2022-04-25
+# File last updated 2022-04-26
 2E0DCW=GERALD
 2E0OBO=BOB
 3B9FR=ROBERT

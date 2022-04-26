@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-24
+# Last Edit,2022-04-25
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2344,7 +2344,7 @@ KE0UI,Bob,CO,Colorado Springs CO
 KE0YI,John,IL,Belleville IL
 KE1B,Rich,735,Los Gatos CA
 KE1DX,Angelo,CT,Colchester CT
-KE1F,Louis,769,Palm Coast FL
+KE1F,Lou,769,Palm Coast FL
 KE1J,Lars,2037,South Kingstown RI
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
@@ -2812,7 +2812,7 @@ LZ2RS,Rumi,,Gabrovo Bulgaria
 LZ3ND,Nick,,Am Gries 27 Germany
 LZ3ZZ,Aleko,LZ,
 LZ4YJ,Rosenh,,Russe 7000 Bulgaria
-LZ5DB,Milen,LZ,Kazanlak Bulgaria
+LZ5DB,Milen,2193,Kazanlak Bulgaria
 LZ5GB,Eugen,,Sofia Bulgaria
 LZ5PW,Vasy,,(Vassil)  Plovdiv Bulgaria
 LZ5R,Milen,LZ,Plovdiv Bulgaria  (LZ5DB)
@@ -3373,7 +3373,7 @@ N7TR,Rich,95,Reno NV
 N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
-N7WY,Bob,1406,Rogersville MO
+N7WY,Bob,1406,Cheyenne WY
 N7XM,Josh,WV,Dayton NV
 N7YT,Bill,1271,Seabeck WA
 N7YY,Dan,1865,Sandy OR (QRP)
@@ -4567,7 +4567,7 @@ VU2BGS,Kumar,,Bangalore India
 VU2PAI,PAI,,MANGALORE India
 VU2PTT,Prasad,615,BAngalore India
 VY1EI,Eric,YT,Whitehorse YT Canada
-VY2SS,Robby,PE,O'LEARY PE
+VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Ala,.PE,Montagne PE
 W0A,Mike,IA,(N5KB)  Sioux Rapieds IA
 W0AAE,Bob,2947,Maple MN
