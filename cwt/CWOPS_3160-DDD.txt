@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-25
+# Last Edit,2022-04-27
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1202,6 +1202,7 @@ K0INN,Tom,1704,Chesterfield MO
 K0IR,Ralph,519,White Park MN
 K0JD,John,WI,South Milwaukee WI
 K0JP,Jack,1047,Karlstad MN
+K0JV,Jerry,SD,Rapid City SD
 K0JVX,John,KS,Olathe KS
 K0JZ,Clarence,KS,Lawrence KS
 K0KG,Keith,1401,Rochert MN
@@ -1922,7 +1923,7 @@ K7TAN,Don,ID,Rigby ID
 K7TD,Terry,1948,Colorado Springs CO
 K7TK,John,ID,Meridian ID
 K7TQ,Randy,2885,Moscow ID
-K7TRT,Dave,2909,Featherville ID
+K7TRT,Dave,2909,Billings MT
 K7UA,Bryce,UT,American Fork UT
 K7UD,Dee,3035,Fredericksbug TX
 K7ULM,Dick,2925,Ulm MT
@@ -2867,7 +2868,7 @@ MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
-N0AC,Bill,1252,(1252) Ankeny IA (Occ. QRP)
+N0AC,Bill,IA,(1252) Ankeny IA (Occ. QRP)
 N0AC/M,Bill,1252,
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
@@ -3108,6 +3109,7 @@ N4DW,Dave,923,Kingsport TN
 N4EEB,John,2335,Astor FL
 N4EEV,Mike,1600,Richmond Hills GA
 N4EII,Al,2291,Cary NC
+N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
 N4EWT,Newt,GA,Decaur GA (Newton)
@@ -3178,6 +3180,7 @@ N4UCM,Doug,2920,Waunakee WI
 N4UM,Tim,FL,Vero Beach FL
 N4UP,Peter,1228,Victoria VA
 N4UZZ,Otto,2838,Montgomery AL
+N4VI,Chris,CO,Boulder CO
 N4WDC,David,VA,King George VA
 N4WJ,Frank,KY,Lexington KY
 N4WLP,BILL,CWA,Merritt Island FL
@@ -3346,6 +3349,7 @@ N7JI,Scott,2348,Eugene OR
 N7JP,John,2615,Freeland WA
 N7KA,Arne,NM,CORRALES NM
 N7KM,Ken,UT,Cedar City UT
+N7KT,Rob,AZ,Kingman AZ
 N7KY,Tim,TN,Jackson TN
 N7LOX,Brian,WA,Tukwila WA
 N7LU,Pat,1290,Cortaro Contest Club San Diego CA
