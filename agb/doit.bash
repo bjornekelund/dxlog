@@ -11,10 +11,9 @@ echo "Parsing" $FILE
 gawk '
 BEGIN {
   FS=" "
-  date = strftime("%Y-%m-%d");
   printf("#0 AGB members database\n");
   printf("#1 Based on http://ev5agb.com/club/agb-list.txt\n");
-  printf("#2 File created %s\n", date);
+  printf("#2 File created %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {

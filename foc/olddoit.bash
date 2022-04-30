@@ -9,10 +9,9 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 DXLog.net FOC members data base.\n");
   printf("#1 Data maintained by Claude VE2FK.\n");
-  printf("#2 Update %s.\n", date);
+  printf("#2 Update %s.\n", strftime("%Y-%m-%d"));
   max = 0;
   n3 = 0;
 }

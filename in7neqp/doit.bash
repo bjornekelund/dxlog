@@ -8,7 +8,6 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 INQP, DEQP, 7QP, and NEQP joint database.\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");

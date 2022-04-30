@@ -8,10 +8,9 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 Preliminary CPQP database based on NAQP database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
-  printf("#2 File updated %s\n", date);
+  printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";
 }

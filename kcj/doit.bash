@@ -8,10 +8,9 @@ echo Parsing $FILE...
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 KCJ contest database\n");
   printf("#1 Data collected and maintained by UR7QM\n");
-  printf("#2 File updated %s\n", date);
+  printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /^[0-9,A-Z]/ && $2 != "")

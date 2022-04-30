@@ -10,7 +10,6 @@ dos2unix -q $FILE1 $FILE2
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 ICWS Medium Speed Test  database.\n");
   printf("#1 Derived from K1USN and CWT databases by Claude VE2FK\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));

@@ -6,7 +6,6 @@ dos2unix $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 CWOps Open database.\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");

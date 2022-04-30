@@ -7,10 +7,9 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 Pennsylvania QSO Party database.\n");
   printf("#1 Credits to AA3B and K3CT for collecting and consolidating the data.\n");
-  printf("#2 Updated %s.\n", date);
+  printf("#2 Updated %s.\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {

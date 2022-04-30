@@ -8,7 +8,6 @@ dos2unix -q $FILE
 cat $FILE | tr -d ' \t' | gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 Winter Field Day database.\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");

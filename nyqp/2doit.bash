@@ -35,10 +35,9 @@ echo Merging files...
 cat .file1 $FILE2 | gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   printf("#0 Nevada QSO Party database.\n");
   printf("#1 Based on call history data maintained by VE2FK ve2fk@arrl.net.\n");
-  printf("#2 File created %s.\n", date);
+  printf("#2 File created %s.\n", strftime("%Y-%m-%d"));
   col = 3;
 }
 {

@@ -8,7 +8,6 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  date = strftime("%Y-%m-%d");
   col = 2;
 }
 {

@@ -10,10 +10,9 @@ dos2unix -q $FILE
 cat $FILE | gawk '
 BEGIN {
   FS=" "
-  date = strftime("%Y-%m-%d");
   printf("#0 REF database.\n");
   printf("#1 Based on call history data maintained by Valery UR7QM.\n");
-  printf("#2 File created %s.\n", date);
+  printf("#2 File created %s.\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {
