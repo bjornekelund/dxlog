@@ -15,10 +15,10 @@ BEGIN {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^[0-9,A-Z,\/]+$/ && $2 ~ /^[A-Z]{3}$/)
+  if ($1 ~ /^[0-9,A-Z,\/]+$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)(M|C|Q|Y|M)$/)
     printf("%s=%s\n", $1, $2);
   else if ($0 !~ /^(!|#|$)/)
-    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";  
+    printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE

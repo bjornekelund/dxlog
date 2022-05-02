@@ -4,7 +4,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-04-27
+# Last Edit,2022-05-01
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2745,7 +2745,6 @@ KX2P,Jeff,2676,Glendale CO
 KX3H,Tony,2900,Waukesha WI
 KX4CWO,,,Roanoke CWops Club (Spotsylvania VA)
 KX4FZ,Terry,2737,Bradenton FL
-KX4KU,Kevin,1978,Boston VA
 KX4UI,Bill,CWA,FL
 KX6A,Mike,1782,Newport Beaach CA
 KX6X,Ken,AZ,Sierra AZ
@@ -4377,7 +4376,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,My priority mode CW
+VE2FK,Dub,1181,*** The Canadian Prairies QSO Party May 14-15  ***
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -4483,7 +4482,8 @@ VE3YT,Vic,2277,Kitchener ON
 VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,David,MB,Winnipeg MB
-VE4EA,Cary,1828,Winnipeg MB
+VE4EA,Cary,1828,*** The Canadian Prairies QSO Party May 14-15  ***
+# VE4EA,Cary,1828,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,Bruce,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
@@ -4910,6 +4910,7 @@ W4PM,Puck,93,Mechanicsville VA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
 W4RK,Bill,459,Jefferson City MO
+W4RKU,Kevin,1978,ex: KX4KU  Boston VA
 W4RM,Bill,2330,Nokesville VA
 W4RN,Mike,585,Round Hill VA
 W4RVU,Phil,FL,The Villages FL
@@ -5078,7 +5079,8 @@ W6SC,Jim,263,Morgan Hill CA
 W6SFG,Bruce,VA,Lynchburg VA
 W6SMF,Stan,2467,Encinitas CA
 W6STR,Mike,1641,Santa Rosa CA
-W6SX,Hank,61,Mammoth Lakes CA
+# W6SX,Hank,61,Mammoth Lakes CA
+W6SX,Hank,CA,Mammoth Lakes CA
 W6TED,Ted,CA,San Diego CA
 W6TK,Dick,CA,Nipomo CA
 W6TN,Trung,1707,Garden Grove CA (CWops Roster/Mbr. Dir.)
