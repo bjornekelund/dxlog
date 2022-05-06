@@ -1,13 +1,14 @@
-
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-05-01
+# Last Edit,2022-05-05
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
+# VE4EA,Cary,1828,Winnipeg MB
+# W6SX,Hank,61,Mammoth Lakes CA
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -129,6 +130,7 @@ AA6OC,Bob,CA,New Port Beach CA
 AA6PM,Peter,3062,Saratoga CA
 AA6VX,Rich,CA,Orcutt CA
 AA6W,Don,2311,Saratoga CA
+AA6X,BRIAN,AZ,
 AA6XA,Jeff,2118,Santa Clara CA
 AA7CT,Bob,OR,Seaside OR
 AA7FV,Darrel,1578,Tucson AZ
@@ -138,13 +140,13 @@ AA7TQ,Gord,2959,Spokane WA
 AA7V,Steve,AZ,Scottsdale AZ
 AA7WU,Mike,ID,Nammpa ID
 AA7XA,Jeff,AZ,?
+AA8CA,Vlad,OH,North Royalton OH
 AA8IA,Mike,966,Toronto OH
 AA8P,Ralph,OH,Springfield OH
 AA8R,Randy,2214,Punta Gorda FL
 AA8TA,Joe,1821,Columbus OH (CO-Mgr. CW Academy)
 AA8TK,Evan,MI,Oak Park MI
 AA9A,Tom,1092,De Pere WI
-AA8CA,Vlad,OH,North Royalton OH
 AA9H,Dave,2756,Fort Wayne IN
 AA9K,Bob,1006,Monteagle TN
 AA9RK,Mike,WI,West Allis WI
@@ -782,6 +784,7 @@ F8DML,Bernard,,Dunkerque France
 F8FQX,Nic,F,France
 F8FSN,Georges,2610,Carpentras France
 F8NUH,Jean,,St-Andre Le Gaz France
+FM/VE3DZ,Yuri,21,
 G0AYD,Dave,2159,Wiltshire England
 G0BQV,Mary,,Tolworth England
 G0BYH,Geoff,,Buckinghamshire England
@@ -1130,9 +1133,9 @@ JA5DQH,Aki,777,Tokushima Japan
 JA6LCJ,Yuki,,(Yukihisa) Kumamoto Japan
 JA7QVI,Tac,,Miyagi Japan
 JA8CDG,Ken,161,Machida Tokyo Japan
+JE1TRV,Atsu,141,Machida-City Tokyo Japan (JA Amb.)
 JF1EGO,Kaku,,Tokyo Japan
 JF1NHD,INO,JA,Ibaraki Japan
-JE1TRV,Atsu,141,Machida-City Tokyo Japan (JA Amb.)
 JF1TTN,Masa,,Wako-City Japan
 JF1UOX,Misa,3011,(NQ1J)  Kanagawa Japan
 JF2IWL,Dai,,Takayama City Japan (CWOpen Reg 3 Mgr.)
@@ -1193,7 +1196,7 @@ K0FHG,Bob,MO,Saint Peters MO
 K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
 K0GUZ,Steve,1889,Grand Junction CO
-K0HB,,231,Plymouth MN
+K0HB,Boy,231,Plymouth MN
 K0HD,John,2968,Cannon MN
 K0HT,Luc,GA,Summerville GA
 K0HX,Stan,1721,Poplar Bluff MO
@@ -1742,6 +1745,7 @@ K5PHB,Frank,TX,Liberty Hill TX
 K5PI,Rob,2124,Austin TX
 K5PP,Max,LA,New Orleans LA
 K5QR,Andy,2476,Plano TX
+K5QR/4,Andy,2476,
 K5RC,Tom,108,V C Highlands NV
 K5RHZ,Chas,TX,Crowley TX
 K5RM,John,1776,Harrison AR
@@ -1849,8 +1853,8 @@ K6UFO,Mark,403,San Francisco CA
 K6VN,Mike,2924,Valencia CA
 K6VVA,Rick,CA,Morgan Hill CA
 K6WDE,Dave,CA,Running Springs CA
-K6WIL,Bill,3144,Sana Ana CA
 K6WG,Stan,CA,San Francisco CA
+K6WIL,Bill,3144,Sana Ana CA
 K6WSC,Bill,2951,Vail AZ
 K6WV,Jon,CA,Cupertino CA
 K6XT,Art,728,Ignacio CO
@@ -2228,7 +2232,7 @@ KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
 KC1CRS,Anne,MA,Greenfield MA
 KC1DLY,Matt,CT,Southington CT
-KC1KUG,Bray,MA,
+KC1KUG,Bray,3158,Farmington NH
 KC1LZX,Rob,2417,Worcester MA
 KC1RL,Ric,MA,Falmouth MA
 KC1SA,Steve,CT,Wallingford CT
@@ -2339,7 +2343,8 @@ KE0LUA,Shawnna,3109,Carrollton MO
 KE0N,Eliot,MN,Minneapolis MN
 KE0NLJ,Mike,IA,Bena Vista ARC Sioux Rapids IA
 KE0QMB,Dakota,MN,(CWops Club) Chanhassen MN
-KE0RWJ,Cary,1828,(VE4EA)
+# KE0RWJ,Cary,1828,(VE4EA)
+KE0RWJ,Cary,1828,*** The Canadian Prairies QSO Party May 14-15  ***
 KE0TT,Dan,2260,Rochester MN
 KE0UI,Bob,CO,Colorado Springs CO
 KE0YI,John,IL,Belleville IL
@@ -3008,8 +3013,8 @@ N2RI,Paul,462,Levittown NY
 N2RRA,Eric,NY,(QRP) North White Plains NY
 N2SO,Chas,1435,Yorktown Heights NY (Charles)
 N2SR,Tom,NJ,Vincentown NJ
-N2TTL,Jay,FL,
 N2TSQ,Bob,WI,Verona WI
+N2TTL,Jay,FL,
 N2UD,Tom,CWA,Osprey FL
 N2UN,Tony,NY,New York NY
 N2UT,Bob,NM,New Mex. Big River Contesters
@@ -3111,7 +3116,7 @@ N4EII,Al,2291,Cary NC
 N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
-N4EWT,Newt,GA,Decaur GA (Newton)
+N4EWT,Newt,GA,Decatur GA (Newton)
 N4FCG,OJ,FL,Florida QSO Party
 N4FP,Wayne,1090,Ocala FL (Occ. QRP)
 N4FP/M,Wayne,1090,6400/Maestro Hustler horz.
@@ -3132,7 +3137,7 @@ N4IY,Terry,2250,Borden IN
 N4JGD,David,NC,Kinston NC
 N4KD,David,GA,Duluth GA
 N4KH,Jim,2409,Huntsville AL
-N4KHZ,John,2620,Roichester NY
+N4KHZ,John,2620,Rochester NY
 N4KM,Kevin,FL,Fruitland Park FL
 N4KS,Ken,1274,New Smyrna Beach FL (QRP K2/10)
 N4KS/3,Ken,1274,Delaware
@@ -3159,6 +3164,7 @@ N4PD,Paul,663,Leesburg VA
 N4PIR,Gary,1936,Greenville NC
 N4PJ,Art,1011,Leesburg FL
 N4PX,Ace,TN,(ARC)  Savannah TN
+N4QI,GEORGE,SC,
 N4QS,Dave,1653,Paducah KY
 N4RKK,Jeff,FL,Gainsville FL
 N4RLD,Rick,GA,Moreland GA
@@ -3179,6 +3185,7 @@ N4UCM,Doug,2920,Waunakee WI
 N4UM,Tim,FL,Vero Beach FL
 N4UP,Peter,1228,Victoria VA
 N4UZZ,Otto,2838,Montgomery AL
+N4VI,CHRIS,CO,
 N4VI,Chris,CO,Boulder CO
 N4WDC,David,VA,King George VA
 N4WJ,Frank,KY,Lexington KY
@@ -3458,14 +3465,14 @@ N9SD,Scott,WI,Sussex
 N9SE,Marty,1562,Sharpsville IN
 N9SW,Gene,798,Wayne IL
 N9SZ,Steve,1793,Dayton OH
-N9TTK,Justin,3150,Indianapolis IN
 N9TK,Jim,1986,Orland Park IL
-N9YYK,Justin,3150,
+N9TTK,Justin,3150,Indianapolis IN
 N9UA,Mike,1097,Omro WI
 N9UNX,Chad,3151,Indianapolis IN
 N9VJ,Chuck,2799,Wauwatosa WI
 N9WKE,Bruce,2512,Champaign IL
 N9XX,Dan,601,New Berlin WI
+N9YYK,Justin,3150,
 NA0F,LARRY,MN,Pengilly MN
 NA1LZ,Yan,IL,North America LZ Contest Club (Skokie IL)
 NA1VT,Andy,2050,Wilder VT
@@ -3530,6 +3537,7 @@ NE5ET,Perry,3047,Corinth TX
 NE5T,Gary,TX,Canton TX
 NE6DX,Mike,CA,Santa Ana CA (Dawn Patrol Surf Club)
 NE6ET,Shin,CA,Huntington Beach CA
+NE6NE,ZHUO,3117,San Jose CA
 NE7D,Rocky,829,Salem OR
 NE7EE,Chris,2616,Scottsdale AZ
 NE8J,Howard,1940,Coopersville MI
@@ -3669,6 +3677,7 @@ NS4X,Bart,2571,Williston TN
 NS7F,Ross,AZ,Tempe AZ
 NS7V,Ken,WA,Snohomish WA
 NS8O,Lee,1496,Albany OH
+NS8S,Dave,MI,Montague MI
 NS9I,Dwight,WI,Little Suamico WI (NCTRL-US Amb.)
 NT0K,Tim,NC,Skyland NC
 NT1N,Bill,ME,Winthrop ME
@@ -4164,9 +4173,10 @@ SP5GDX,Krzystof,3133,Warszawa Poland
 SP5ICQ,Wes,,Warszawa Poland
 SP5JXK,Jan,2887,(SN5J)  Zegrze Poland
 SP5ULV,Krisz,,Warszawa Poland
+SP5XOC,Marek,,
 SP6A,Zbig,,Wroclaw Poland
 SP7BCA,Tom,,Skierniewice Poland
-SP7OGP,Piotr,,Tomaszow Poland
+SP7OGP,Piotr,3147,Tomaszow Poland
 SP8ARY,Ron,,Krasnik Poland
 SP9AVR,Claudio,,Naklo Slaskie Poland
 SP9BRP,Jan,,Krakow Poland
@@ -4325,6 +4335,7 @@ VA3FH,Victor,ON,Smihville ON
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
+VA3IK,Brian,ON,Carp ON
 VA3JFF,Jeff,ON,Welland ON
 VA3KSF,Keith,ON,Corunna ON
 VA3OPN,Glenn,457,Roblin ON
@@ -4410,7 +4421,6 @@ VE3CX,Tom,1399,Kaministiquia ON
 VE3DPC,Dave,ON,Peterborough ON
 VE3DTI,Jose,ON,Ottawa ON
 VE3DZ,Yuri,21,Niagara-On-The-Lake ON
-FM/VE3DZ,Yuri,21,
 VE3EFM,Les,1701,Mississauga ON (VE3ABN)
 VE3EIB,Nick,ON,Cambridge ON
 VE3EJ,John,513,Grasie ON
@@ -4483,7 +4493,6 @@ VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,David,MB,Winnipeg MB
 VE4EA,Cary,1828,*** The Canadian Prairies QSO Party May 14-15  ***
-# VE4EA,Cary,1828,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,Bruce,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
@@ -4499,7 +4508,8 @@ VE5VG,Garth,SK,Pangman Sask.
 VE6BF,Bill,222,Beaumont AB
 VE6DC,Renze,AB,Cranford AB
 VE6JF,Jim,2009,Calgary AB
-VE6RST,Max,3068,Leduc AB
+# VE6RST,Max,3068,Leduc AB
+VE6RST,Max,3068,*** The Canadian Prairies QSO Party May 14-15  ***
 VE6SV,Rich,AB,Sherwood Park AB
 VE7AHA,Andy,352,Delta BC
 VE7ALQ,Yaakov,BC,Vancouver BC
@@ -4672,8 +4682,8 @@ W1ND,Glen,3101,South Berwick ME
 W1NN,Hal,785,Medina OH (Occ. remote from Japan)
 W1NU,Ryan,MA,Belchertown MA
 W1OL,Guy,MA,Stoneham MA
-W1OO,,ME,Down East DX Association Scarborough ME
 W1OM,Kevin,FL,
+W1OO,,ME,Down East DX Association Scarborough ME
 W1OPR,Dustin,ME,Windsor ME
 W1PH,Kurt,NH,Amherst NH Pauer Family RC
 W1PID,Jim,1507,Sanbornton NH (Mosly QRP-Outdoor)
@@ -4694,7 +4704,8 @@ W1UJ,Jay,426,Webster MA
 W1UU,Peter,91,Falmouth MA (CWops Vice Pres.) (QRP/43'Vert.)
 W1UU/1,Peter,91,Trapp Family Lodge in Stowe Vermont
 W1UU/4,Peter,91,QRP FL
-W1VE,Gerry,191,Nelson NH (Could be QRP)
+# W1VE,Gerry,191,Nelson NH (Could be QRP)
+W1VE,Gerry,191,*** The Canadian Prairies QSO Party May 14-15  ***
 W1VEM,Dave,CT,Bolton CT
 W1VKE,Vin,3079,Orleans MA
 W1WBB,Bill,2207,Portsmouth RI (NA031)
@@ -4728,7 +4739,7 @@ W2IY,Mike,3031,Santa Fe NM
 W2JAZ,Rick,2239,Cherry Hill NJ
 W2JK,Joe,NY,Floral Park NY
 W2JLK,Jim,NJ,Matawan NJ
-W2KA,Mike,NY,Fairport NY
+W2KA,Mike,3161,Fairport NY
 W2KU,Vince,3124,Township NJ
 W2LB,Larry,906,Farmington NY
 W2LCQ,Ed,701,New York NY
@@ -5079,8 +5090,7 @@ W6SC,Jim,263,Morgan Hill CA
 W6SFG,Bruce,VA,Lynchburg VA
 W6SMF,Stan,2467,Encinitas CA
 W6STR,Mike,1641,Santa Rosa CA
-# W6SX,Hank,61,Mammoth Lakes CA
-W6SX,Hank,CA,Mammoth Lakes CA
+W6SX,Hank,61,Mammoth Lakes CA
 W6TED,Ted,CA,San Diego CA
 W6TK,Dick,CA,Nipomo CA
 W6TN,Trung,1707,Garden Grove CA (CWops Roster/Mbr. Dir.)
@@ -5144,8 +5154,8 @@ W7WHY,Tom,OR,Coos Bay OR
 W7XT,Dick,2004,Missoula MT
 W7Y,Dale,404,Cheyenne WY (WC7S)
 W7ZAP,Mindy,OR,Brookings OR
-W7ZI,Mike,OR,Beaverton OR
 W7ZDX,Bog,3145,(Larry)  Shelton WA
+W7ZI,Mike,OR,Beaverton OR
 W7ZRC,Rod,1127,Meridian ID
 W8AKS,Marty,WV,Beckley WV
 W8BBQ,Mark,OH,Youngstown OH
