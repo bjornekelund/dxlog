@@ -1,8 +1,8 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-05-03
-# 2-Thanks G3WDZ, K1VUT and Chuck/WS1L for update. 
+# 1-Last Edit,2022-05-10
+# 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
@@ -145,6 +145,7 @@ AA5V,STEVE,OK,
 AA5VN,WENDELL,TX,
 AA5VU,DICK,TX,
 AA5W,JIM,TX,
+AA5WZ,WAYNE,CO,Parker CO
 AA6AE,MIKE,CA,
 AA6DQ,TIM,CA,Yorba Linda CA
 AA6PW,BOB,CA,
@@ -793,6 +794,7 @@ CX1CAN,ANIBAL,CX,Montevideo Uruguay
 DD4DA,GERHARD,DJ,Dortmund Germany
 DD6DO,STEPHAN,DL,Berlin Germany
 DF2DR,HERMANN,DX,Blastein Germany
+DF4ZK,GUNTER,DX,Wald-Michelbach Germany
 DF7CP,STEFAN,DL,Eldena Germany
 DF9GH,HARRY,DX,Freiburg Germany
 DH1NTT,Terry,DH,Aschaffenburg Germany
@@ -3791,6 +3793,7 @@ KC3KAH,KEVIN,PA,Pittsburgh PA
 KC3KOP,IAN,PA,Pen Argyl PA
 KC3LZ,,PA,
 KC3M,,PA,
+KC3M,JOHN,PA,Montoursville PA
 KC3MR,,OH,
 KC3MSL,CALE,MD,Beltsville MD
 KC3MX,,MD,
@@ -3941,6 +3944,7 @@ KC9TZO,JIM,WI,
 KC9UJS,JOSH,IL,
 KC9VFI,DOUG,IL,
 KC9WBC,,MI,
+KC9WIB,MARC,IL,Chicago IL
 KC9YL,ANNE,WI,Francis Creek WI
 KC9YTT,ROB,IL,
 KC9ZO,GEO,IL,Naperville IL
@@ -4436,6 +4440,7 @@ KG0YL,NANCY,ND,
 KG2DWS,DENNIS,NY,
 KG2GL,TONY,NJ,
 KG2RG,JUSTIN,NY,Albany NY
+KG3L,ADAM,PA,Aliquippa PA
 KG3V,TOM,VA,
 KG3W,SCOTTY,PA,
 KG4CRJ,BRIAN,NC,
@@ -5590,7 +5595,7 @@ N1HD,CHRIS,NH,
 N1HTB,JIM,MA,
 N1HTS,,MA,
 N1IA,BARRY,NC,
-N1IBM,SKIP,NJ,
+N1IBM,SKIP,VT,
 N1IK,,NH,
 N1ILD,,CT,
 N1ILZ,JON,MA,Eastham MA
@@ -9447,6 +9452,7 @@ W2REH,,NJ,
 W2RF,,NJ,
 W2RLB,,NY,
 W2RLK,,NY,
+W2RM,RAY,NJ,Elmer NJ
 W2RQ,BILL,NJ,
 W2RR,,NY,
 W2RRU,TEDDY,NY,
@@ -10751,6 +10757,7 @@ W7GVE,ED,AZ,
 W7GZ,,AZ,
 W7GZS,JIM,UT,MIDWAY
 W7HJ,HARL,VA,
+W7HLO,DALE,WA,Newport WA
 W7HS,,UT,
 W7HWR,DENNIS,OR,
 W7HX,,AZ,
