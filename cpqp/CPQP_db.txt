@@ -1,7 +1,7 @@
 # Database for Canadian Prairies QSO Party
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-03-16
+# File last updated 2022-05-13
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -9842,7 +9842,10 @@ VE3YT=ON
 VE3ZDR=ON
 VE3ZT=ON
 VE3ZW=ON
-VE4VT=WPC
+VE4WSC=STB
+VE5SF=RGW
+VE5ZX=SKU
+VE6JF=CNH
 VE7AF=BC
 VE7AGJ=BC
 VE7AHA=BC

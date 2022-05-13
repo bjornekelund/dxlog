@@ -3,20 +3,47 @@
 # QSOP_CP
 # QSOPARTY CP
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2022-02-05
+# 1-Last Edit,2022-04-05
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3
 # 4-
 # 5-States and Prov. end of file without MB SK AB
 #
 # ---- Mobiles and Rovers ----
-VE4VT,,WPC,just to test
+VE4,,xxx,
 VE5,,xxx
 VE6,,xxx
-# ---- Fixed - Counties list ----
-VE4,,xxx 
-VE5,,xxx
-VE6,,xxx
+# ---- Fixed - Fed. Electoral Districts list ----
+
+VA5SCA,Neil,,
+VA6CA,Kam,,
+VA6SP,Peter,,
+VE4AEO,Rich,,
+VE4CDX,Gerry,,
+VE4DL,David,,
+VE4EA,Cary,,
+VE4MR,Kevin,,
+VE4SF,Bruce,,
+VE4SNA,Jack,,
+VE4VT,Ed,,
+VE4WSC,,STB,St Vital- St Boniface
+VE4XT,Kellu,,
+VE4YL,Dave,,
+VE4YU,Ed,,
+VE5GC,Gray,,
+VE5MX,Todd,,
+VE5SF,Sam,RGW,Regina Wascana,
+VE5UF,Doug,,
+VE5UO,David,,
+VE5VG,Garth,,
+VE5ZX,Syl,SKU,Saskatoon - University
+VE6BF,Bill,,
+VE6DC,Renze,,
+VE6JF,Jim,CNH,Calgary Nose Hill
+VE6RST,Max,,
+VE6SV,Rich,,
+
+# US States and CDN Prov. -------------
 
 AA0AC,DAVE,MN, 
 AA0AI,STEVE,IA, 

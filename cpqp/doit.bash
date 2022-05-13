@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=QSOP_CP.txt
+FILE=`ls QSOP_CP* | tail -1 2> /dev/null`
 OUTFILE=CPQP_db.txt
 
 echo "Parsing" $FILE
