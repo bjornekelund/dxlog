@@ -3,12 +3,10 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-05-05
+# Last Edit,2022-05-14
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
-# VE4EA,Cary,1828,Winnipeg MB
-# W6SX,Hank,61,Mammoth Lakes CA
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -163,8 +161,6 @@ AB1CW,Howard,1117,Tyngsboro MA
 AB1DQ,James,CT,Cheshire CT
 AB1GJ,Ken,161,Duxbury MA
 AB1J,Ken,MA,Waltham MA
-AB1KT,Dave,3019,Hingham MA
-AB1KT/VE3,Dave,3019,Caledon ON
 AB1MC,Scott,ME,Northport ME
 AB1SG,Kyle,MA,North Adams MA
 AB1WV,Marcus,CT,Bethel CT
@@ -326,7 +322,7 @@ AF7QD,Jess,WA,Liberty Lake WA
 AF8A,Gary,2092,Mayfield Heights OH
 AF9W,Bob,1173,Clinton WA
 AG2O,Mike,NY,Ransomville NY
-AG3I,Marty,2579,Greensburg PA
+AG3I,Mart,2579,Greensburg PA
 AG3R,Pete,467,Highland Park IL
 AG3Y,James,AL,Birmingham AL
 AG4EA,Bill,2373,Pelzer SC
@@ -460,6 +456,7 @@ DF7TV,Tom,2613,Stuttgart Germany
 DF8LY,Sven,,Ruesselsheim Germany
 DF9TF,Rich,2493,Neuenburg Germany
 DG3BCZ,Florian,,Stuhr Germany  (Occ. QRP)
+DG5CW,Tom,,Bonn Germany
 DH4NWG,Martin,,Hersbruck Germany
 DJ0AJ,Ekrem,,Duesseldorf Germany
 DJ0MCH,Relly,409,Stuttgart Germany
@@ -711,12 +708,13 @@ EI2IM,Don,55,Virginia Beach VA (W4ZYT)
 EI3HA,Tony,,Strandhill Sligo Ireland
 EI4BZ,Dave,,Cork Ireland
 EI5EM,Tony,3160,Baile Atha Cliath Ireland
-EI5LA,Megan,,Kerry Ireland
+EI5LA,Megan,3163,Kerry Ireland
 EI6FR,Declan,2811,Dublin Ireland
 EI6KT,John,2965,DublinIreland
 EI6KW,Slav,,Ashbourne Ireland
 EI6LA,Rafal,CWA,Wicklow Ireland
 EI7BA,John,,Whitegate Co. Cork. Ireland
+EI9KY,Colm,,Waterford Ireland
 ER/UW7LL,Yarik,2229,
 ER1SN,Alex,,Chisinau Moldova
 ES0NW,Ivo,,Kardla Estonia
@@ -1627,6 +1625,7 @@ K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
 K4NMR,Tom,2298,Tampa FL
+K4NNK,Gary,GA,Atlanta GA
 K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
 K4OAQ,Fritz,1658,Dublin VA or Bristol TN
@@ -1766,6 +1765,7 @@ K5UR,Rick,2439,Little Rock AR
 K5UTG,Warren,OK,Shawnee OK
 K5UV,Mike,2701,Newailla OK
 K5UZ,David,1316,Little Rock AR
+K5VBA,Stan,AL,Huntsville AL
 K5VI,Andy,1923,(Andrew) El Paso TX
 K5VR,Stan,889,Tontitown AR
 K5VWW,Orville,TX,Houston TX
@@ -2343,8 +2343,7 @@ KE0LUA,Shawnna,3109,Carrollton MO
 KE0N,Eliot,MN,Minneapolis MN
 KE0NLJ,Mike,IA,Bena Vista ARC Sioux Rapids IA
 KE0QMB,Dakota,MN,(CWops Club) Chanhassen MN
-# KE0RWJ,Cary,1828,(VE4EA)
-KE0RWJ,Cary,1828,*** The Canadian Prairies QSO Party May 14-15  ***
+KE0RWJ,Cary,1828,(VE4EA)
 KE0TT,Dan,2260,Rochester MN
 KE0UI,Bob,CO,Colorado Springs CO
 KE0YI,John,IL,Belleville IL
@@ -2367,7 +2366,7 @@ KE4RWJ,Cary,,
 KE4S,Dave,1508,Leesburg VA
 KE4TWI,Wes,TN,Watertown TN
 KE5AKL,Mike,NM,Albuquerque NM
-KE5AZ,Ken,TX,Houston TX
+KE5AZ,Ken,3162,Houston TX
 KE5C,John,TX,Temple TX
 KE5EN,Eric,3009,Plano TX
 KE5FRF,Heath,LA,Greenwell Springs LA
@@ -2789,6 +2788,7 @@ LB1GB,Bjorn,992,Oslo Norway
 LB2TB,Lars,,(2842) Tranby Norway
 LB3RE,Rag,933,Broabakken Norway
 LB6GG,Hans,2530,Sandnes Norway
+LB6RH,Jens,,Trondheim Norway
 LC0X,Rag,933,Broabakken Norway
 LJ3RE,Rag,933,Broabakken Norway also LB3RE
 LU1AW,Juan,1835,Buenos Aires Argentina
@@ -2950,6 +2950,7 @@ N1MM,Tom,CT,Vernon CT (N1MM Logger+)
 N1PRR,Gary,AZ,
 N1RBD,Rich,2983,Duluth GA
 N1RM,Rick,2659,Reston VA
+N1RO,Dave,3019,Hingham MA
 N1RR,Charlie,2631,Seekonk MA
 N1SNB,Jeff,2748,Haverhill MA
 N1SP,Randy,3026,Bennington VT
@@ -4329,6 +4330,7 @@ VA2RAC,,QC,RAC HQ
 VA2SG,Pete,QC,Jonquiere QC (also VE2SSS)
 VA2UR,Guy,QC,(VE2BWL)
 VA2WA,Vic,2212,Boucherville QC (COSBoard)
+VA3CWT,gabriel,ON,Toronto ON
 VA3CX,Ron,1775,London ON (VE3FXX)
 VA3DKL,Dave,2847,Kitchener ON
 VA3FH,Victor,ON,Smihville ON
@@ -4387,7 +4389,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,*** The Canadian Prairies QSO Party May 14-15  ***
+VE2FK,Dub,1181,Gaspesia QC
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -4476,7 +4478,7 @@ VE3RUA,Jack,1047,Kenora (W6NF)
 VE3SIF,Ron,3082,Guelph ON
 VE3SMA,Steve,ON,Burlington ON
 VE3TM,Vlad,2543,Ottawa ON
-VE3TMK,Dave,3019,(AB1KT) Toronto ON
+VE3TMK,Dave,3019,(N1RO) Toronto ON
 VE3TW,Stan,1563,Scarborough ON
 VE3UTT,Art,2647,(W1AJT) Toronto ON
 VE3VGI,John,1373,St-Charles ON
@@ -4492,7 +4494,7 @@ VE3YT,Vic,2277,Kitchener ON
 VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,David,MB,Winnipeg MB
-VE4EA,Cary,1828,*** The Canadian Prairies QSO Party May 14-15  ***
+VE4EA,Cary,1828,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,Bruce,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
@@ -4508,8 +4510,8 @@ VE5VG,Garth,SK,Pangman Sask.
 VE6BF,Bill,222,Beaumont AB
 VE6DC,Renze,AB,Cranford AB
 VE6JF,Jim,2009,Calgary AB
-# VE6RST,Max,3068,Leduc AB
-VE6RST,Max,3068,*** The Canadian Prairies QSO Party May 14-15  ***
+VE6JTW,Jesse,AB,Cochrane AB
+VE6RST,Max,3068,Leduc AB
 VE6SV,Rich,AB,Sherwood Park AB
 VE7AHA,Andy,352,Delta BC
 VE7ALQ,Yaakov,BC,Vancouver BC
@@ -4704,8 +4706,7 @@ W1UJ,Jay,426,Webster MA
 W1UU,Peter,91,Falmouth MA (CWops Vice Pres.) (QRP/43'Vert.)
 W1UU/1,Peter,91,Trapp Family Lodge in Stowe Vermont
 W1UU/4,Peter,91,QRP FL
-# W1VE,Gerry,191,Nelson NH (Could be QRP)
-W1VE,Gerry,191,*** The Canadian Prairies QSO Party May 14-15  ***
+W1VE,Gerry,191,Nelson NH (Could be QRP)
 W1VEM,Dave,CT,Bolton CT
 W1VKE,Vin,3079,Orleans MA
 W1WBB,Bill,2207,Portsmouth RI (NA031)
@@ -5045,6 +5046,7 @@ W6BUX,Bux,2603,(Gurbux) Chatsworth CA
 W6CL,Carol,OK,Tulsa OK
 W6CWO,,CA,Pacific CWops Club (Los Altos CA)
 W6CYX,Bob,47,San Jose CA
+W6DER,Derek,CA,Sacramento CA
 W6DR,Dave,CA,Los Gatos CA
 W6EU,Jim,317,Truckee CA
 W6GJB,Glen,CA,Santa Cruz CA
@@ -5202,6 +5204,7 @@ W8RF,Mike,OH,Toledo OH
 W8RJL,Ron,VA,Virginia Beach VA
 W8RTJ,Jim,OH,Amherst OH
 W8RZ,Dan,MI,Parchment MI
+W8SH,Leo,MI,Mich. State UN. ARC
 W8TG,Mike,OH,Hillsboro OH
 W8TK,Tom,2129,Tucson AZ
 W8TU,Jim,MI,Plymouth MI
