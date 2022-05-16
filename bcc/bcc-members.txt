@@ -4,6 +4,7 @@ AJ9C,Mike
 YN2CC,Mike
 PZ5M,Mike
 BA4TB,Dale
+DB1WA,Alex
 DB6JG,Peter
 DB7MA,Mario
 DB8NI,Andreas
@@ -105,6 +106,7 @@ DR4T,Rudolf
 DJ4KW,Gerd
 DJ4MF,Daniel
 DJ4MX,Sven
+9A5MX,Sven
 DJ4MZ,Simon
 F/DJ4MZ,Simon
 DJ4WT,Christian

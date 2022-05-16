@@ -1,12 +1,12 @@
 #!/bin/bash
-FILE=Mitgliederliste.csv
+FILE=Mitglieder.csv
 OUTFILE=AGCW_db.txt
 
-wget -q --no-hsts https://www.agcw.de/wp-content/persist/Mitgliederliste.csv -O $FILE
+wget --no-hsts https://www.agcw.de/wp-content/persist/Mitglieder.csv -O $FILE
 
 dos2unix -q $FILE
 
-gawk '
+cat < $FILE | gawk '
 BEGIN {
   FS=";"
   printf("# AGCW members database\n");
@@ -21,7 +21,7 @@ BEGIN {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
-}' $FILE > $OUTFILE
+}' > $OUTFILE
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
