@@ -1,0 +1,14 @@
+KAU=Kauai
+NII=Niihau
+HON=Honolulu
+LHN=Leeward
+PRL=Perl Harbor Area
+WHN=Windward
+KAL=Kalawao
+LNI=Lana`i
+MAU=Maui
+MOL=Molokai
+HIL=Hilo
+KOH=Kohala
+KON=Kona
+VOL=Volcano Park
