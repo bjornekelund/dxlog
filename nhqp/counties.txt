@@ -1,0 +1,10 @@
+ROC=Rockingham
+HIL=Hillsborough
+CHE=Cheshire
+STR=Strafford
+MER=Merrimack
+SUL=Sullivan
+GRA=Grafton
+BEL=Belknap
+CAR=Carroll
+COO=Coos

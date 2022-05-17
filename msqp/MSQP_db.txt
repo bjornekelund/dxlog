@@ -1,7 +1,7 @@
 # MSQP database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-05-16
+# File last updated 2022-05-17
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA

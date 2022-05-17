@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=NAQPCW.txt
+FILE=../naqp/NAQPCW.txt
 OUTFILE=HIQP_db.txt
 
 echo "Parsing" $FILE

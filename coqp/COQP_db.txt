@@ -1,7 +1,7 @@
 # COQP database
-# Based on NAQP databse maintained by Claude VE2FK
+# Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-05-11
+# File last updated 2022-05-17
 4U1WB=MASA;DC
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
