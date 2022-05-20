@@ -8,10 +8,6 @@ dos2unix -q $FILE
 cat $FILE | sed 's/ //g' | gawk '
 BEGIN {
   FS=","
-  printf("#0 Minnesota QSO Party database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";
 }
@@ -41,11 +37,14 @@ BEGIN {
 }
 END {
   printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
+  printf("#0 Minnesota QSO Party database\n");
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
   for (c in calls) 
   {
     printf("%s=%s;%s\n", calls[c], name[c], state[c]);
   }
-
 }' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
 echo "Created" $OUTFILE
 unix2dos -q $OUTFILE
