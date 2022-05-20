@@ -1,34 +1,52 @@
 #!/bin/bash
-FILE=../naqp/NAQPCW.txt
+FILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=MNQP_db.txt
 
 echo "Parsing" $FILE
 dos2unix -q $FILE
 
-gawk '
+cat $FILE | sed 's/ //g' | gawk '
 BEGIN {
   FS=","
-  printf("#0 COQP database\n");
-  printf("#1 Based on NAQP database maintained by Claude VE2FK\n");
+  printf("#0 Minnesota QSO Party database\n");
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";
 }
 {
-  if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
-    if (length($2) > maxlen) {
-      maxlen = length($2);
-      longest = $2;
+  stateok = $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IA|IN|KS|KY|LA|ME|MD|MA|MI|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT|AIT|ANO|BEC|BEL|BEN|BIG|BLU|BRO|CAS|CHP|CHS|CLA|CLE|COO|COT|CRL|CRO|CRV|DAK|DOD|DOU|FAI|FIL|FRE|GOO|GRA|HEN|HOU|HUB|ISA|ITA|JAC|KIT|KNB|KND|KOO|LAC|LAK|LES|LIN|LKW|LYO|MAH|MCL|MEE|MIL|MOR|MOW|MRS|MRT|MUR|NIC|NOB|NOR|OLM|OTT|PEN|PIN|PIP|POL|POP|RAM|RDL|RDW|REN|RIC|ROC|ROS|SCO|SHE|SIB|STE|STL|STR|STV|SWI|TOD|TRA|WAB|WAD|WAT|WIL|WIN|WRI|WSC|WSH|YEL)$/;
+  if ($1 ~ /^[0-9,A-Z]/ && (stateok || ($3 == "" && $2 != "")))
+  {
+    calls[$1] = $1;
+    if (name[$1] == "" && $2 ~ /^[A-Z]+$/) 
+    {
+      name[$1] = $2;
+      if (length($2) > maxlen) 
+      {
+        maxlen = length($2);
+        longest = $2;
+      }
     }
-    printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
+    if (stateok) 
+    {
+      state[$1] = $3;
+    }
   }
-  else if ($0 !~ /^(!|#|$)/)
-    printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
+  else if ($0 !~ /^(!|#|$)/) 
+  {
+    printf("Ignore: \"%s\"\n", $0) > "/dev/stderr"
+  }
 }
 END {
   printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
-}' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+  for (c in calls) 
+  {
+    printf("%s=%s;%s\n", calls[c], name[c], state[c]);
+  }
+
+}' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
 echo "Created" $OUTFILE
 unix2dos -q $OUTFILE
 
