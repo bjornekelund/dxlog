@@ -1,6 +1,6 @@
 #!/bin/bash
 FILE=multipliers.txt
-OUTFILE=regex.txt
+OUTFILE=multipliers-regex.txt
 
 echo Using file \"$FILE\"
 
@@ -12,7 +12,8 @@ BEGIN {
   printf("^(");
 }
 {
-  printf("%s|", $1);
+  if ($1 ~ /^[A-Z]{1,2}$/)
+    printf("%s|", $1);
 }
 END {
   printf(")$");
