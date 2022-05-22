@@ -26,7 +26,7 @@ BEGIN {
   }
 }
 END {
-  printf("#0 Spanish provinces database.n");
+  printf("#0 Spanish provinces database including special exchanges HQ and SMR\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
