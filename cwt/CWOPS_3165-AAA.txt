@@ -3,13 +3,14 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-05-14
+# Last Edit,2022-05-18
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
+
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
-3B9FR,Robert,,Rodriguez Island
+3B9FR,Robert,1343,Rodriguez Island
 3D2AG,Antoine,2554,Suva Fiji
 3DA0AQ,Hans,,Manzini Swaziland
 3Z50GP,Dick,,(SP9GR) Czesthochdwa Poland
@@ -846,6 +847,7 @@ G3WGN,Dave,482,Okehampton England
 G3WPH,Mike,,Berkshire England
 G3WRJ,Dick,2209,Hitchin Gngland
 G3WZD,Mac,1979,(Duncan) (News & Notes) Somerset England
+GQ3WZD,Mac,1979,(Duncan) 
 G3XLG,Ray,1365,Norfolk England
 G3XPO,Ken,,(M3XPO) Kent England
 G3XTT,Don,1874,Henley on Thames England
@@ -889,6 +891,7 @@ G4NVR,Phil,1583,(M2D)  Northumberland England
 G4PFZ,John,2777,Norwich England
 G4PIQ,Andy,2767,Suffolk England
 G4PVM,Paul,2413,Essex England
+ZA/G4PVM,Paul,2413,Albania
 G4PVN,Paul,,Billingham England
 G4RCG,John,2379,Wakefield England
 G4RGK,Dave,,Bucks England
@@ -1193,6 +1196,7 @@ K0FG,Fred,1893,Sunrise Beach MO
 K0FHG,Bob,MO,Saint Peters MO
 K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
+K0GU,Jay,CO,Wellington CO
 K0GUZ,Steve,1889,Grand Junction CO
 K0HB,Boy,231,Plymouth MN
 K0HD,John,2968,Cannon MN
@@ -1260,7 +1264,7 @@ K1AY,Chris,2405,Punta Gorda FL
 K1BG,Bruce,1276,Harvard MA (New England Amb.)
 K1BV,Ted,CT,Columbia CT
 K1BX,Art,NH,Weare NH
-K1BZ,Dave,1958,Columbia MD
+K1BZ,Dave,1958,Augusta Me
 K1CDX,Rich,MA,Chicopee MA
 K1CHM,Craig,1900,Westerly RI
 K1CP,Clif,168,Belfast ME
@@ -1385,6 +1389,7 @@ K2D,Oak,CT,(W1RM W1QK)
 K2DB,Paul,686,Homosassa FL
 K2DIW,Seth,2051,Metairie LA
 K2DM,George,2652,The Villages FL
+K2EJ,Steven,MD,Abingdon MD
 K2EK,Bill,2072,Grant FL
 K2EKM,Bill,VA,Sprinfgield VA  (Occ. QRP)
 K2EQ,Howard,NY,Ovid NY
@@ -1559,7 +1564,7 @@ K4AMC,Jim,922,Madison TN
 K4ANA,John,VA,Virginia Beach VA
 K4ANU,Richard,NC,Greensboro NC
 K4ARQ,John,1437,Tallahassee FL
-K4AVX,John,KY,(2059) Viper KY
+K4AVX,John,2059,Viper KY
 K4BAI,John,76,Columbus GA
 K4BB,Bob,GA,Roswell GA
 K4BEN,Ben,VA,Arlington VA
@@ -1625,7 +1630,7 @@ K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
 K4NMR,Tom,2298,Tampa FL
-K4NNK,Gary,GA,Atlanta GA
+K4NNK,Gary,3165,Atlanta GA
 K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
 K4OAQ,Fritz,1658,Dublin VA or Bristol TN
@@ -2102,6 +2107,7 @@ K9WWT,GEORGE,IN,Merrillville IN
 K9WX,Tim,1462,West Lafayette IN (CWops Newsletter Editor)
 K9WX/M,Tim,1462,Somewhere mobile
 K9WZB,Gerry,AZ,Lake Havasu City AZ
+K9XE,Will,IL,Carlock IL
 K9XV,Tom,FL,Punta Gorda FL
 K9XW,John,2807,Elgin IL
 K9YC,Jim,69,Santa Cruz CA
@@ -2183,7 +2189,7 @@ KB3RC,Ken,PA,Belleville PA  (Broad Mountain RC)
 KB3SAR,Jason,2875,Watertown NY
 KB3VQL,Jay,PA,Scott Township PA
 KB3Z,Mark,1483,Collegeville PA
-KB3ZGL,Steve,Annapolis MD,
+KB3ZGL,Steve,MD,Annapolis MD,
 KB4CG,Jack,VA,Bealeton VA
 KB4DE,Bill,2093,Irmo SC
 KB4GYT,Paul,SC,Graniteville SC
@@ -2378,6 +2384,7 @@ KE6JAC,Al,2872,San Jose CA
 KE6K,John,1427,Surprise AZ
 KE6MT,Rex,CA,Campbell CA
 KE6OIO,Ann,CA,Garden Grove CA
+KE6PY,Steve,CA,Escondido CA
 KE6YLH,Jeff,CA,Aptos CA
 KE7LOY,Brian,ID,Twin Falls ID
 KE7VE,Martin,WY,Boulder WY
@@ -2580,6 +2587,7 @@ KL2ZZ,James,AK,Juneau AK
 KL3W,Tom,1461,Palmer AK
 KL7/K3GHH,John,1212,AK
 KL7IXW,Ward,2457,Fairbanks AK
+KL7QT,Duncan,AK,Farbanks AK
 KL7SB,Steve,1268,Anchorage AK
 KL7W,Tom,1461,Palmer AK
 KL9A,Chris,1576,Bozeman MT
@@ -2817,7 +2825,7 @@ LZ2RS,Rumi,,Gabrovo Bulgaria
 LZ3ND,Nick,,Am Gries 27 Germany
 LZ3ZZ,Aleko,LZ,
 LZ4YJ,Rosenh,,Russe 7000 Bulgaria
-LZ5DB,Milen,2193,Kazanlak Bulgaria
+LZ5DB,Milen,2393,Kazanlak Bulgaria
 LZ5GB,Eugen,,Sofia Bulgaria
 LZ5PW,Vasy,,(Vassil)  Plovdiv Bulgaria
 LZ5R,Milen,LZ,Plovdiv Bulgaria  (LZ5DB)
@@ -2872,7 +2880,7 @@ MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
-N0AC,Bill,IA,(1252) Ankeny IA (Occ. QRP)
+N0AC,Bill,CO,(1252) (Occ. QRP)
 N0AC/M,Bill,1252,
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
@@ -3196,6 +3204,7 @@ N4XD,Ron,NC,Pittsboro NC
 N4XL,Ken,2356,Greenwood SC
 N4XP,Tom,GA,Monroe GA
 N4XY,Ed,GA,Marietta GA
+N4XYZ,Jim,VA,Virginia Beach VA
 N4YA,Chris,1657,Douglasville GA
 N4YDU,Nate,445,Youngsville NC
 N4YG,Joe,AL,Huntsville AL
@@ -3272,6 +3281,7 @@ N5YT,Guy,MS,Purvis MS
 N5YZ,Bill,TX,Fairview TX
 N5ZC,Rich,2153,Amarillo TX
 N5ZO,Mark,1224,Escondido CA
+N6ARA,Ara,CA,Montrose CA
 N6BT,Tom,281,Kingman AZ
 N6BV,Dean,CA,San Francisco CA
 N6CK,Greg,643,Ben Lomond CA
@@ -3321,6 +3331,7 @@ N6TU,Bruce,CA,San Jose CA
 N6TV,Bob,CA,San Jose CA
 N6TVN,Carl,1930,Sonoma CA
 N6UG,Ray,CA,Rocklin CA
+N6VF,Bandit,OH,Huber Heights OH
 N6VOH,Barry,1248,Gardena CA
 N6WG,Bob,CA,Newark CA
 N6WIN,Tim,1942,Alta Coma CA
@@ -3954,6 +3965,7 @@ PA7RA,Rien,284,Bergen op Zoom Netherlands
 PA8MM,Victor,,Purmerend Netherlands
 PA9WOR,Bart,,Apeldoorn/Almelo Netherlands
 PC4H,Henk,,Hoofddorp Netherlands
+PD2DX,Johan,,Overijssel Netherlands
 PE2K,Adi,2638,Apeldoorn Netherlands
 PE5B,Ben,,Haren Netherlands
 PE5O,Onno,1852,Rotherdam Netherlands
@@ -4321,9 +4333,11 @@ V47NT,Andy,2036,(N2NT)
 V47UM,Bill,1699,(W3UL)  Nevis West Indies
 VA1CWO,Gerry,191,(W1VE)
 VA1RST,Roger,2049,Halifax NS
+VG1RST,Roger,2049,Halifax NS
 VA2AGW,Andy,2328,Mansonville QC
 VA2CZ,Pete,2184,Sherbrooke QC
 VA2EBI,George,9,Ham-Sud QC  (also W1EBI)
+VG2EBI,George,9,Ham-Sud QC  (also W1EBI)
 VA2FDT,Szabi,1193,Cap-Sante QC
 VA2MA,MA,QC,also VE3VIG
 VA2RAC,,QC,RAC HQ
@@ -4343,6 +4357,7 @@ VA3KSF,Keith,ON,Corunna ON
 VA3OPN,Glenn,457,Roblin ON
 VA3PJC,Pat,ON,Parry Sound ON
 VA3PM,Pierre,1617,Brampton ON
+VG3PM,Pierre,1617,Brampton ON
 VA3QV,Bob,ON,Ottawa ON (QRP)
 VA3RJ,Dave,ON,Toronto ON
 VA3SB,Serge,1488,Missisauga ON (Occ. QRP) (East Amb.)
@@ -4371,13 +4386,16 @@ VE1AOE,Don,1703,Truro NS
 VE1ASE,Mike,NB,Quispamsis NB
 VE1BAB,Wayne,NS,Port Williams NS
 VE1DT,Gerald,941,Homeville NS
+VX1DT,Gerald,941,Homeville NS
 VE1DX,Paul,NS,Lake Echo NS
 VE1EJ,Joe,ON,Chester NS
 VE1EM,Jesse,NS,GranvilleFerry NS
 VE1KCO,Corey,NS,Weymouth NS
 VE1MU,Mike,NS,Kentville NS
 VE1RSM,Bob,NS,Hantsport NS
+VX1RSM,Bob,NS,Hantsport NS
 VE1RST,Bob,NS,Lunenburg NS
+VX1RST,Bob,NS,Lunenburg NS
 VE1TTT,Mike,1347,Point Edwards NS (VE9AA)
 VE1VEI,Lloyd,NS,Aylesford NS
 VE1YVN,Sam,NS,Dartmouth NS
@@ -4403,6 +4421,7 @@ VE2KM,Tony,2424,Dollard-Des-Ormeaux QC
 VE2MF,Mario,2556,Victoriaville QC
 VE2MFD,Mark,QC,St-Eustace QC
 VE2NCG,Nick,QC,Montreal Nord QC
+VX2NCG,Nick,QC,Montreal Nord QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC
 VE2QA,Vlad,QC,Beaconsfield QC
@@ -4419,20 +4438,25 @@ VE3AXC,Carl,ON,Mississauga ON
 VE3AYR,Hugh,ON,Burlington ON
 VE3BXG,Mark,2786,Nepean ON
 VE3CEB,Gerd,1916,Brampton ON
+VE3CT,Art,2647,(W1AJT) ex:VE3UTT  Toronto ON
 VE3CX,Tom,1399,Kaministiquia ON
+VX3CX,Tom,1399,Kaministiquia ON
 VE3DPC,Dave,ON,Peterborough ON
 VE3DTI,Jose,ON,Ottawa ON
 VE3DZ,Yuri,21,Niagara-On-The-Lake ON
 VE3EFM,Les,1701,Mississauga ON (VE3ABN)
 VE3EIB,Nick,ON,Cambridge ON
 VE3EJ,John,513,Grasie ON
+VX3EJ,John,513,Grasie ON
 VE3EY,Nick,3093,Etobicoke ON
 VE3FAL,Fred,ON,Thunder Bay ON
 VE3FP,Adam,2323,(ex: VE3IZS) Eimwood ON
+VX3FP,Adam,2323,(ex: VE3IZS) Eimwood ON
 VE3FU,Chris,2778,Kemptville ON
 VE3FWF,Bernie,ON,Kanata ON
 VE3FXX,Ron,1775,London ON
 VE3GFN,Mike,1119,Scarborough ON
+VX3GFN,Mike,1119,Scarborough ON
 VE3GNA,Glenn,457,Roblin ON
 VE3GO,Ron,ON,Kingston ON
 VE3HEU,Vic,2536,Toronto ON
@@ -4443,23 +4467,28 @@ VE3KAE,Alan,ON,Kemptville ON
 VE3KBI,Paul,ON,North Yourk ON
 VE3KCY,Ken,ON,Alma ON
 VE3KI,Rich,783,Richmond ON (ECA  Amb./CWT Mgr.)
+VX3KI,Rich,783,Richmond ON (ECA  Amb./CWT Mgr.)
 VE3KIU,Dave,3077,Ottawa ON
 VE3KOT,Gege,ON,Oakville ON
 VE3KP,Ken,1246,Peterborough ON
+VX3KP,Ken,1246,Peterborough ON
 VE3KPV,Jesse,ON,Guelph ON
 VE3KQK,Mike,ON,St Thomas ON
 VE3KQN,Jim,ON,Pickering ON
 VE3KZ,Bob,2585,Milton ON
 VE3MA,Al,1860,Milton ON
 VE3MGY,Brian,1285,Sparta ON
+VX3MGY,Brian,1285,Sparta ON
 VE3MM,Rick,1947,St-Catherines ON
 VE3MS,Rodger,ON,Ottawa ON
 VE3MV,Doug,1642,East York ON
+VX3MV,Doug,1642,East York ON
 VE3MVM,Mary,ON,Amaranth ON
 VE3NA,Al,ON,Greely ON
 VE3NE,Lali,128,Etobicoke ON
 VE3NI,Daniel,ON,Mississauga ON
 VE3NNT,Les,1701,Mississauga ON (Occ. remote)
+VX3NNT,Les,1701,Mississauga ON (Occ. remote)
 VE3NR,Bob,ON,Scarborough ON
 VE3NRT,Chris,ON,Aurora ON
 VE3NUL,Rich,ON,North York ON
@@ -4467,6 +4496,7 @@ VE3NWN,James,ON,Stirling ON
 VE3NZ,Ben,ON,North York ON
 VE3OI,Dave,ON,Guelph ON
 VE3OMV,Maria,3059,Oakville ON
+VX3OMV,Maria,3059,Oakville ON
 VE3OP,Craig,ON,Ottawa ON
 VE3OU,Ernie,ON,Cambridge ON
 VE3PQ,Paul,ON,Georgian Bluffs ON
@@ -4478,9 +4508,12 @@ VE3RUA,Jack,1047,Kenora (W6NF)
 VE3SIF,Ron,3082,Guelph ON
 VE3SMA,Steve,ON,Burlington ON
 VE3TM,Vlad,2543,Ottawa ON
+VX3TM,Vlad,2543,Ottawa ON
 VE3TMK,Dave,3019,(N1RO) Toronto ON
 VE3TW,Stan,1563,Scarborough ON
+VX3TW,Stan,1563,Scarborough ON
 VE3UTT,Art,2647,(W1AJT) Toronto ON
+VX3UTT,Art,2647,(W1AJT) Toronto ON
 VE3VGI,John,1373,St-Charles ON
 VE3VIG,MA,ON,Also VA2MA
 VE3VJC,Chauhan,ON,Markham ON
@@ -4489,22 +4522,25 @@ VE3WH,Sam,3046,Ingersoll ON
 VE3WNS,Norm,2728,Toronto ON
 VE3WZ,Garry,ON,Ajax ON
 VE3XKZ,Chris,ON,Bayfield ON
-VE3YOTA,Maria,3059,ON
 VE3YT,Vic,2277,Kitchener ON
 VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,David,MB,Winnipeg MB
 VE4EA,Cary,1828,Winnipeg MB
+VX4EA,Cary,1828,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,Bruce,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
 VE4XT,Kellu,2795,Winnipeg MB
+VX4XT,Kellu,2795,Winnipeg MB
 VE4YL,Dave,MB,Winnipeg MB
 VE4YU,Ed,MB,Winnipeg MB
 VE5GC,Gray,2974,Alida Sask.
 VE5MX,Todd,2540,Weyburn SK
+VX5MX,Todd,2540,Weyburn SK
 VE5SF,Sam,SK,Regina Sask.
 VE5UF,Doug,137,Saskatoon Sask.
+VXE5UF,Doug,137,Saskatoon Sask.
 VE5UO,Dave,3146,Saskatoon Sask.
 VE5VG,Garth,SK,Pangman Sask.
 VE6BF,Bill,222,Beaumont AB
@@ -4512,14 +4548,17 @@ VE6DC,Renze,AB,Cranford AB
 VE6JF,Jim,2009,Calgary AB
 VE6JTW,Jesse,AB,Cochrane AB
 VE6RST,Max,3068,Leduc AB
+VX6RST,Max,3068,Leduc AB
 VE6SV,Rich,AB,Sherwood Park AB
 VE7AHA,Andy,352,Delta BC
 VE7ALQ,Yaakov,BC,Vancouver BC
 VE7BGJ,Walt,BC,
 VE7CC,Lee,139,Maple Ridge BC
+VX7CC,Lee,139,Maple Ridge BC
 VE7CCY,Scott,BC,Langley BC
 VE7DZO,David,2106,Prince George BC
 VE7FO,Jim,1368,Vancouver BC
+VX7FO,Jim,1368,Vancouver BC
 VE7GPG,Greg,BC,Creston BC
 VE7IO,Fred,2696,Surrey BC
 VE7JH,Gabor,2702,Crofton BC
@@ -4529,8 +4568,10 @@ VE7MR,Willi,427,Nanaimo BC
 VE7NZ,Ady,2758,(Adrian)  Coquitlam BC
 VE7SK,Bob,BC,Prince George BC
 VE7XT,Rich,2831,Victoria BC
+VX7XT,Rich,2831,Victoria BC
 VE8IR,Ian,NT,Yellowknife NT
 VE9AA,Mike,1347,Withheld NB
+VX9AA,Mike,1347,Withheld NB
 VE9AA/M,Mike,1347,NB (From his Mini Cooper)
 VE9CD,Jerry,NB,Fredericton NB
 VE9DX,Andy,NB,Rohesay NB
@@ -4551,6 +4592,7 @@ VK2IOW,Patrick,2791,Millthorpe Austrilia
 VK3CWB,Moz,1895,(Maurie) Mildura Australia
 VK3ELT,Roger,,Upwey Vic Australia
 VK3GDM,David,,Melbourne Australia
+VK3OU,Andrew,,Eltham Ausralia
 VK3QB,Chris,2949,Foster Austrilia
 VK4AQ,Rossco,,Innisfail Australia
 VK4TJF,James,1191,Stafford Heights Australia (OC Amb.)
@@ -4566,6 +4608,7 @@ VO1AW,BK,NL,(Brian)  Gander NL
 VO1BQ,Joe,1325,St-John NL
 VO1DD,Doug,,Heart's Delight NL
 VO1HP,Frank,684,St-John's NL
+XJ1HP,Frank,684,St-John's NL
 VO1HQ,Filipe,NL,Carmanville NL
 VO1MP,Gus,134,Portugal Cove St Philips NL
 VO1SA,Rick,NL,St John's NL
@@ -4730,6 +4773,7 @@ W2GD/KP2,John,204,
 W2GEZ,MIke,NJ,Princeton NJ
 W2GN,Chas,1265,Buff Point NY
 W2GZ,Scott,3129,Canterbury NH
+W2HMU,Gary,NJ,Hamilton Square NJ
 W2HZ,Fred,2648,Tucson AZ
 W2HZ/7,Fred,CWA,
 W2ID,John,NJ,Schooley's Mountain NJ
@@ -4741,7 +4785,7 @@ W2JAZ,Rick,2239,Cherry Hill NJ
 W2JK,Joe,NY,Floral Park NY
 W2JLK,Jim,NJ,Matawan NJ
 W2KA,Mike,3161,Fairport NY
-W2KU,Vince,3124,Township NJ
+W2KU,Vin,3124,(Vince)  Township NJ
 W2LB,Larry,906,Farmington NY
 W2LCQ,Ed,701,New York NY
 W2LE,Paul,NJ,Flemington NJ
@@ -4779,6 +4823,7 @@ W2XB,Don,1896,Lake View NY
 W2XS,John,1407,Northport NY
 W2XYZ,Frank,2510,Venice FL
 W2YH,Carl,2384,Franklin NJ
+W2YM,Tom,NC,Davidson NC
 W2YR,John,751,Avon by the Sea NJ
 W2ZRA,Kevin,942,Cutchogue NY
 W3AC,Dave,1235,Forest VA
@@ -4793,6 +4838,7 @@ W3BRF,Brad,SC,Bluffton SC
 W3BW,Brian,567,Key West FL
 W3CEI,Larry,PA,Middletown PA
 W3DP,Dick,PA,Camp Hill PA
+W2ECK,Paul,3164,Savannah GA
 W3EEK,Carl,972,Tamaqua PA
 W3EF,Maury,632,Silver Spring MD
 W3EL,Billy,417,Newport News VA
@@ -5123,6 +5169,7 @@ W7GVE,Ed,AZ,Golden Valley AZ
 W7IDM,Roy,ID,Meridian ID
 W7IY,Stu,1620,Stafford VA
 W7JET,Brian,2993,Apache Junction AZ
+W7JKC,John,TX,Kyle TX
 W7JRD,Jim,2994,Hope ID
 W7KF,Doug,2183,Whitefish MT
 W7KFI,Susan,2275,Gulfport MS
@@ -5183,6 +5230,7 @@ W8GU,Mark,OH,Uniontown OH
 W8HOG,Jerry,OH,Lynchburg OH
 W8HW,Bruce,958,Port Saint Lucie FL
 W8IQ,Kurt,755,Toledo OH
+W8JGU,Bill,OH,Hudson OH
 W8JJ,Tim,2970,Grand Blanc MI
 W8JLT,Joh,MI,Harrison MI
 W8JPF,Joe,OH,Columbus OH
@@ -5223,8 +5271,8 @@ W8YA,Mark,MI,Highland MI
 W8ZR,Jim,NM,Santa Fe NM
 W9/CE2LR,Matt,WI,@ W9XY Montello WI
 W9AW,Motoaki,1014,HONOLULU HI
-W9BGJ,Brian,IN,
-W9BGW,Brian,IN,Crandall IN (Big Gray Wolf)
+W9BGJ,Brian,IN,Huntington IN
+W9BGW,Billy,IN,Crandall IN (Big Gray Wolf)
 W9BGX,Ralph,IL,Northwestern University ARS
 W9BJL,Chris,2541,(HB9BJL) Miami FL
 W9BMK,Brian,IL,Chicago IL
@@ -5293,7 +5341,7 @@ W9YA,Bob,289,Albuquerque NM
 W9YK,Todd,2509,Elmhurst IL
 W9ZCL,Bill,IL,Mount Prospect IL
 W9ZR,Randy,740,Galena OH
-W9ZSJ,George,3106,Kildeer IL
+W9ZSJ,Geo,3106,Kildeer IL
 W9ZV,Bob,IL,Bolingbrook IL
 WA0BJR,Don,MO,Springfield MO
 WA0I,Randy,MO,Marshall MO
@@ -5391,6 +5439,7 @@ WA7LNW,Jack,2454,Washington UT
 WA7YAZ,Steve,UT,Salt Lake City UT
 WA8AXF,Dave,MI,Kalamazoo MI
 WA8CLT,John,OH,Columbus OH
+WA8HOI,Dale,OH,Cincinnati OH
 WA8IWK,Allen,1061,West Bloomfield MI
 WA8KAN,Dave,1961,Parkersburg WV
 WA8L,Rich,NC,Pfafftown NC
@@ -5627,7 +5676,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,IL,(1346) Aurora IL (Fred)
+WT2P,CJ,1346IL,Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC

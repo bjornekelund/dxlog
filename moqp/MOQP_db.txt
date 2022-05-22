@@ -1,7 +1,7 @@
-# MOQP database.
+# Montana QSO Party database.
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-03-28
+# File last updated 2022-05-22
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -974,10 +974,6 @@ AL1G=AK
 AL2F=AK
 AL7B=AK
 AL7R=AZ
-CT1BWO=DX
-EA3HSO=DX
-EA5DFV=DX
-F4HWS=DX
 HI2AA=HI
 HI3MM=HI
 HI4MM=HI
@@ -9489,7 +9485,6 @@ NZ8J=OH
 NZ8K=WV
 NZ8O=MI
 NZ9R=IN
-PY5AMF=DX
 VA1CHP=NS
 VA1MM=NS
 VA1RST=NS
