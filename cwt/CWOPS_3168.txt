@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-05-23
+# Last Edit,2022-05-25
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -203,6 +203,7 @@ AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
 AC2K,Alan,35,Redmond WA (NW-US Amb.)
 AC2KJ,Dima,1376,East Setauket NY
+AC3IU,Richy,PA,
 AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
 AC3U,Bill,1699,St Marys City MD (W3UL Remote)
@@ -707,6 +708,7 @@ EI2CN,Doug,1503,Ireland
 EI2HIB,Martin,,Waterford Ireland
 EI2IDB,Slav,,Meath Ireland
 EI2IM,Don,55,Virginia Beach VA (W4ZYT)
+EI2KA,Tim,CWA,Skibbereen Ireland
 EI3HA,Tony,,Strandhill Sligo Ireland
 EI4BZ,Dave,,Cork Ireland
 EI5EM,Tony,3160,Baile Atha Cliath Ireland
@@ -1578,6 +1580,7 @@ K4CWT,,AL,Southeastern CWops Club (Huntsville AL)
 K4DJ,Rich,NC,Hickory NC
 K4DME,Dave,2815,Emporia VA
 K4DXV,Steve,1966,Louisville TN
+K4DZR,Jerry,TN,Hendersonville TN
 K4EA,Neal,2357,Canton GA
 K4EDX,Rene,FL,Clermont FL
 K4EES,Ken,2389,Orange Beach AL
@@ -1679,6 +1682,7 @@ K4YYL,Art,1177,Greenville SC
 K4ZA,Don,NC,Charlotte NC
 K4ZDH,Riley,PA,Gettysburg PA
 K4ZGB,Tom,468,Northport AL
+K4ZHM,Jerry,KY,Wilmore KY
 K4ZLE,Jay,562,Lebanon OH
 K4ZW,Ken,VA,Stafford VA
 K5AB,Alan,299,Goldthwaite TX
@@ -2315,6 +2319,7 @@ KD2QDD,Don,2922,Saugerties NY
 KD2RKN,Jason,2919,Greenville SC
 KD2S,Al,NJ,(Chris) High Bridge NJ
 KD2ST,Al,2711,Mount Laurel NJ
+KD4AN,Dan,3168,Raleigh NC
 KD4EE,Scott,1330,Bellevue KY
 KD4LYC,Andrew,DC,Washington DC
 KD4OS,Emmett,1188,Virginia Beach VA
@@ -3663,7 +3668,7 @@ NP2/N3RD,Dave,232,US Virgin Islands
 NP2J,Dan,2267,Christiansted Virgin Islands
 NP2X,Fred,524,Christiansted VI
 NP3A,Eric,1112,San Juan PR
-NP3K,Charlie,1238,Jacksonville FL
+NP3K,Abe,1238,(Charlie)  Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
 NP4Z,Felipe,KP4,San Juan PR
@@ -4165,6 +4170,7 @@ SN9EA,Cary,1828,(VE4EA) travelling
 SN9MT,Mirek,,Ruda Slaska Poland
 SO3O,Jan,SP,
 SO5CW,Fabian,1566,(DJ1YFK) Warka Poland
+SP1/UX1HW/M,Art,1890,Mobile SP!
 SP1AEN,Max,,Debrzno Poland
 SP1ALK,Jan,,Szczecin Poland
 SP1D,Robert,2542,Szczecin Poland
@@ -4774,7 +4780,7 @@ W2GD/KP2,John,204,
 W2GEZ,MIke,NJ,Princeton NJ
 W2GN,Chas,1265,Buff Point NY
 W2GZ,Scott,3129,Canterbury NH
-W2HMU,Gary,NJ,Hamilton Square NJ
+W2HMU,Gary,3167,Hamilton Square NJ
 W2HZ,Fred,2648,Tucson AZ
 W2HZ/7,Fred,CWA,
 W2ID,John,NJ,Schooley's Mountain NJ
@@ -5169,7 +5175,7 @@ W7GTF,Ron,WA,Winthrop WA
 W7GVE,Ed,AZ,Golden Valley AZ
 W7IDM,Roy,ID,Meridian ID
 W7IY,Stu,1620,Stafford VA
-W7JET,Brian,2993,Apache Junction AZ
+W7JET,BB,2993,(Brain)  Apache Junction AZ
 W7JKC,John,TX,Kyle TX
 W7JRD,Jim,2994,Hope ID
 W7KF,Doug,2183,Whitefish MT
