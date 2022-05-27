@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3168
-# File last updated 2022-05-26
+# Contains members up to #3169
+# File last updated 2022-05-27
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -125,6 +125,7 @@ AA6VX=Rich;CA
 AA6W=Don;2311
 AA6X=BRIAN;AZ
 AA6XA=Jeff;2118
+AA7AZ=Jim;OR
 AA7CT=Bob;OR
 AA7FV=Darrel;1578
 AA7OA=Dan;OR
@@ -488,6 +489,7 @@ DK0LT=Hans;DL
 DK1OU=Fritz;DL
 DK1WI=Ed;1602
 DK2FE=Leo;DL
+DK2FG=Peter;DL
 DK3HM=Heinz;DL
 DK3WW=Uwe;2523
 DK3YD=Hans;DL
@@ -882,6 +884,7 @@ G4KQY=Mike;2987
 G4LJU=Colin;G
 G4LMW=Rob;G
 G4LPP=Phil;2547
+G4MEM=Mark;G
 G4MPN=Dave;G
 G4NVR=Phil;1583
 G4PFZ=John;2777
@@ -1381,7 +1384,7 @@ K2D=Oak;CT
 K2DB=Paul;686
 K2DIW=Seth;2051
 K2DM=George;2652
-K2EJ=Steven;MD
+K2EJ=Stev;CWA
 K2EK=Bill;2072
 K2EKM=Bill;VA
 K2EQ=Howard;NY
@@ -3311,7 +3314,7 @@ N6TU=Bruce;CA
 N6TV=Bob;CA
 N6TVN=Carl;1930
 N6UG=Ray;CA
-N6VF=Bandit;OH
+N6VF=Rodger;OH
 N6VOH=Barry;1248
 N6WG=Bob;CA
 N6WIN=Tim;1942
@@ -3596,6 +3599,7 @@ NK7U=Joe;708
 NK8A=Dave;OH
 NK8O=Chas;KS
 NK8S=Mike;MA
+NK8V=Robert;MI
 NL7V=Paul;AK
 NL7VX=Steve;1052
 NM1Y/PJ6=Jeff;1887
@@ -4103,6 +4107,7 @@ SM5COP=Rune;SM
 SM5DJZ=Jan;SM
 SM5GLC=Lasse;1529
 SM5IMO=Dan;1854
+SM5LBR=Ray;SM
 SM5S=GI;2094
 SM5SIC=Goran;2094
 SM6BGA=Hans;456
@@ -4570,6 +4575,8 @@ VP2MVV=Ken;697
 VP2MXF=Nigel;166
 VP5M=Dennis;124
 VP9/N6GQ=Jeff;67
+VP9/VE3DZ=YURI;21
+VP9UKR=YURI;21
 VQ9JC=Jim;389
 VQ9LA=Larry;644
 VU2BGS=Kumar;VU
@@ -4903,7 +4910,7 @@ W4IPA=CJ;TX
 W4IPC=Con;VA
 W4IT=Steve;2492
 W4IX=John;984
-W4JM=Steve;SC
+W4JM=Steve;3169
 W4JS=John;FL
 W4KA=Dave;SC
 W4KEP=Chas;VA
