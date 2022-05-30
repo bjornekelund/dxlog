@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-05-27
+# Last Edit,2022-05-28
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -531,7 +531,6 @@ DL1LBV,Heinz,,Nordfriesland Germany
 DL1NKB,Bernd,2486,Forchheim Germany
 DL1NKS,Steve,2963,Eichenbuelh Germany
 DL1ONI,Olli,,Ingolstadt Germany
-DL1QOH,Fred,DL,?
 DL1QQ,Sandy,1581,Hoexter Germany
 DL1REM,Frank,2382,Schoeppingen Germany
 DL1RNN,Lutz,,Wolfsburg Germany
@@ -634,7 +633,6 @@ DO4DXA,Marc,1851,Germering Germany (V31MA)
 DO6AN,Nils,3141,Hamburg Germany
 DP4X,Mario,2801,(DJ2MX)  Muenchen Germany
 DP7D,Frank,,Essen Germany
-DR0OEIBS,Lutz,2654,(DM6EE)
 DU3LA,Larry,644,Mabalacat Phillippines (N0QM)
 E21EIC,Champ,264,Bangkok Thailand
 E29TGW,MEW,,Nonthaburi Thailand
@@ -679,7 +677,6 @@ EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
 EA6BF,Josep,3072,Balearic Island
 EA6TS,Pedro,,Balearic Isl. Spain
-EA7/VE3NE,Lali,128,
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
@@ -3233,7 +3230,7 @@ N5DDX,Tracy,TX,Ft Worth TX
 N5DX,Kevin,1293,Harrison AR (ZF2DX)
 N5EE,Ken,1766,Gravette AZ
 N5EIL,Neil,1635,Terrell TX (Mostly QRP)
-N5EP,Steve,IL,Naperville IL
+N5EP,Steve,3171,Naperville IL
 N5ER,John,3036,Cabot  AR (Occ. QRP)
 N5EVE,Frank,RI,Patucket RI
 N5FIW,Joel,IL,Barrington IL
@@ -4504,7 +4501,7 @@ VE3NI,Daniel,ON,Mississauga ON
 VE3NNT,Les,1701,Mississauga ON (Occ. remote)
 VX3NNT,Les,1701,Mississauga ON (Occ. remote)
 VE3NR,Bob,ON,Scarborough ON
-VE3NRT,Chris,ON,Aurora ON
+VE3NRT,Chris,3170,Aurora ON
 VE3NUL,Rich,ON,North York ON
 VE3NWN,James,ON,Stirling ON
 VE3NZ,Ben,ON,North York ON

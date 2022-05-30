@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3169
-# File last updated 2022-05-27
+# Contains members up to #3171
+# File last updated 2022-05-30
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -525,7 +525,6 @@ DL1LBV=Heinz;DL
 DL1NKB=Bernd;2486
 DL1NKS=Steve;2963
 DL1ONI=Olli;DL
-DL1QOH=Fred;DL
 DL1QQ=Sandy;1581
 DL1REM=Frank;2382
 DL1RNN=Lutz;DL
@@ -628,7 +627,6 @@ DO4DXA=Marc;1851
 DO6AN=Nils;3141
 DP4X=Mario;2801
 DP7D=Frank;DL
-DR0OEIBS=Lutz;2654
 DU3LA=Larry;644
 E21EIC=Champ;264
 E29TGW=MEW;
@@ -673,7 +671,6 @@ EA5KO=Andy;2545
 EA5M=Dani;2979
 EA6BF=Josep;3072
 EA6TS=Pedro;EA
-EA7/VE3NE=Lali;128
 EA7AM=Pedro;EA
 EA7EGU=Manuel;2505
 EA7JW=David;1933
@@ -3207,7 +3204,7 @@ N5DDX=Tracy;TX
 N5DX=Kevin;1293
 N5EE=Ken;1766
 N5EIL=Neil;1635
-N5EP=Steve;IL
+N5EP=Steve;3171
 N5ER=John;3036
 N5EVE=Frank;RI
 N5FIW=Joel;IL
@@ -4456,7 +4453,7 @@ VE3NE=Lali;128
 VE3NI=Daniel;ON
 VE3NNT=Les;1701
 VE3NR=Bob;ON
-VE3NRT=Chris;ON
+VE3NRT=Chris;3170
 VE3NUL=Rich;ON
 VE3NWN=James;ON
 VE3NZ=Ben;ON
