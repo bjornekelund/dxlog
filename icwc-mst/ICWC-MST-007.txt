@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-05-23
+# Last Edit,2022-05-31
 # New contest 20-25 WPM
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -265,6 +265,7 @@ AD8J,John,1395,Asheville NC  (Occ. remote)
 AD8J/HR9,John,1395,
 AD8WR,Dave,2857,Granger IN
 AD8Y,David,OH,Cleveland Heights OH
+AD9AC,KEN,IL,Litchfield IL
 AE0EE,Bill,MN,Minneapolis MN
 AE0P,Brian,1051,Yankton SD
 AE0Q,Glenn,2878,Arvada CO
@@ -357,6 +358,7 @@ AI6IE,Step,CA,Alta Loma  CA
 AI6O,Ed,1337,Grain Valley MO
 AI6PW,Andrew,CA,Berkeley CA
 AI6V,Wyatt,2242,Lakewood CA
+AI6W,JON,CA,Newcastle CA
 AI6XN,Amlan,CA,Santa Clara CA
 AI8Z,Mike,CO,Cortez CO
 AJ1AJ,AJ,3084,(Andrew)  Amherst NH
@@ -1089,6 +1091,7 @@ IU1MRY,Fabrizio,3108,Omegna Italy
 IU4APC,Andrea,,Cesena FC Italia
 IV3ZUY,Dudine,,Aiello Del Friuli Italy
 IW0EFO,Daniele,,Italy
+IW1CHJ,GIAMPI,DX,Torino Italy
 IW2CNM,Alex,I,Ttaly
 IW2MXE,Diego,2165,Pedrengo Bergamo Italy
 IW4AOT,Piero,,Italia
@@ -1227,6 +1230,7 @@ K0PD,Dave,2035,Black Hawk CO
 K0PFX,Mel,271,Bridgeton MO
 K0PGE,Ron,1712,Laguna Niguel CA
 K0PK,Paul,2233,Eveleth MN
+K0PRA,HANS,CO,Parker CO
 K0PV,Don,CO,(1823)  Aurora CO
 K0RAR,Rob,KS,Richmond KS
 K0RF,Chuck,887,Longmont CO
@@ -1692,6 +1696,7 @@ K5DQ,Peggy,TX,Santa Fe TX
 K5DU,Susan,88,Manor TX
 K5EDI,Brent,TX,Trophy Club TX
 K5EDM,Greg,1967,Benton AR
+K5EFW,EMMETT,LA,?
 K5EJF,Ray,TX,Hurst TX
 K5EMI,Bill,3127,Denton TX
 K5ESW,Paul,2665,Raleigh NC
@@ -1826,6 +1831,7 @@ K6MM,John,11,San Jose CA
 K6MR,Ken,1270,Anderson CA
 K6NA,Glen,CA,Valley Center CA
 K6NF,Carol,2939,San Jose CA
+K6NIA,DAVE,CA,El Granada CA
 K6NR,Dana,2380,Irvine CA
 K6NV,Bob,675,Truckee CA
 K6PB,Pete,2469,Irvine CA
@@ -1873,6 +1879,7 @@ K7AJM,Jim,1730,Columbus MT
 K7AZT,Paul,1621,Tucson AZ
 K7BTW,Rich,2313,Rainer WA
 K7BV,Dennis,NC,Turkey NC
+K7BXI,KEN,OR,Portland OR
 K7CNT,Rick,2565,Kingman AZ
 K7CO,Jon,UT,Kaysville UT
 K7EK,Gary,997,Spanaway WA
@@ -1972,6 +1979,7 @@ K8GL,Greg,693,Saginaw MI
 K8GT,Gerry,2031,Farmington Hills MI
 K8GU,Ethan,2179,Woodbine MD
 K8HMS,Steve,OH,Peninsula OH
+K8HSY,Ron,
 K8HU,Bob,2741,Chesapeake VA
 K8IA,Bob,666,Mesa AZ
 K8IHQ,Carl,OH,Chardon OH
@@ -2316,7 +2324,9 @@ KD4UKW,John,GA,Atlanta GA
 KD4UYP,Brian,GA,Sugar Hill GA
 KD5BKW,Abdul,LA,Metairie LA
 KD5DD,Doc,MS,Tupelo MS (Deep Dixie Contest Club)
+KD5HIZ,GREG,TX,Austin TX
 KD5J,Cord,2491,Batesville AR
+KD5ZCQ,JOHN,TX,Atlanta TX
 KD7GOM,PAT,CWA,Concho AZ
 KD7HU,Charlie,3090,Billings MT
 KD7KDO,Paul,CWA,Phoenix AZ
@@ -2449,6 +2459,7 @@ KG5RSG,Mike,TX,Austin TX
 KG5RXG,Mike,2643,Austin TX
 KG5U,Dale,1241,Houston TX
 KG5VK,Steve,1806,near Ben Franklin TX
+KG5WJZ,LUKE,TX,Leander TX
 KG5YOV,Ben,TX,San Antonio TX
 KG6IIP,Paco,1313,Grants Pass OR
 KG6N,Frank,CA,Sonoma CA
@@ -2456,6 +2467,7 @@ KG6NRV,Bill,2639,Morro Bay CA
 KG6O,Chris,WA,Bremerton WA
 KG6PB,Jim,MI,Rapid City MI
 KG7A,Ron,1939,Mesa AZ
+KG7EQN,JACK,MT,Bear DE
 KG7IRR,Andrew,WA,Seattle WA
 KG7MVH,Peter,WA,Harrah WA
 KG7WHX,Scott,UT,Orem UT
@@ -2619,6 +2631,7 @@ KN4YRM,Randon,2930,Plantation FL
 KN5A,AL,TX,Houston TX
 KN5CWO,,,Delta CWops Club (West Monroe LA)
 KN5O,Ted,LA,Covington LA
+KN6BAZ,ALEX,CA,San Jose CA
 KN6IPE,Dennis,2928,Half Moon Bay CA
 KN6NUN,Zhuo,3117,San Jose CA
 KN6NVZ,Kevin,CA,Visalia CA
@@ -2804,7 +2817,9 @@ LZ1HW,Spas,2001,Lom Bulgaria
 LZ1QI,Petko,,Bulgaria
 LZ1QN,Boyko,2653,Burgas Bulgaria
 LZ1UK,Savi,,Plovdiv Bulgaria
+LZ1VFM,KIRIL,DX,Bobov dol Bulgaria
 LZ1XC,Mitko,,Samokov Bulgaria
+LZ1XK,KIRIL,DX,Sofia Bulgaria
 LZ1ZF,Gosho,2824,Stara Zagora Bulgaria
 LZ1ZJ,Slav,,Velingrad Bulgaria
 LZ2CH,Krasimir,,Silistra Bulgaria
@@ -3223,6 +3238,7 @@ N5FO,Sam,1680,Tyrone NM
 N5GKJ,Gerald,LA,Metairie LA
 N5HC,Bruce,NM,Rio Rancho NM
 N5HZ,Jim,LA,Metairie LA
+N5IDQ,HANK,OK,?
 N5IKD,Robert,TX,Lake Dallas TX
 N5IR,Bill,799,Sanger TX
 N5JB,John,2980,Parker TX
@@ -3309,6 +3325,7 @@ N6NC,Lars,1290,La Jolla CA
 N6NF,Tom,2011,Woodside CA
 N6NR,Rich,WA,Tieton WA
 N6PF,Eli,3086,(Elliot)  Oakland CA
+N6PH,DEN,CA,Malibu CA
 N6PN,Matt,253,Concord CA
 N6RK,Rick,97,Galt CA
 N6RO,Ken,79,Oakley CA
@@ -3321,6 +3338,7 @@ N6TU,Bruce,CA,San Jose CA
 N6TV,Bob,CA,San Jose CA
 N6TVN,Carl,1930,Sonoma CA
 N6UG,Ray,CA,Rocklin CA
+N6VNO,CLAY,CA,Stanford CA
 N6VOH,Barry,1248,Gardena CA
 N6WG,Bob,CA,Newark CA
 N6WIN,Tim,1942,Alta Coma CA
@@ -3699,6 +3717,7 @@ NU7J,Tom,WA,Marysville WA
 NU7Y,Quint,1261,Oro Valley AZ
 NV1U,Tom,2303,The Villages FL
 NV3N,Stu,1815,Pennsylvania Furnace PA
+NV4C,IAN,GA,Roswell GA
 NV5F,Ginnie,2149,Fort Worth TX
 NV9X,Jim,774,Blue Island IL
 NW0M,Mitch,1064,Jefferson city MO
@@ -4358,6 +4377,7 @@ VA7CDB,Paul,BC,Coquitam BC
 VA7CW,Andy,352,Delta BC
 VA7DX,Neil,2691,Vancouver BC
 VA7ETR,Tamara,2619,Vancouver BC
+VA7GI,GUY,BC,Vancouver BC
 VA7KH,Steve,3039,Ladysmith BC
 VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada (Western Amb.)
@@ -5458,6 +5478,7 @@ WB3JQ,,PA,?
 WB3LJQ,Vincent,3120,Latrobe PA
 WB4AEG,Hal,1646,Adairsville GA
 WB4AQL,Mike,498,Chickamauga GA
+WB4DCM,CHARLES,NC,Raleigh NC
 WB4DNL,Gary,497,Virginia Beach VA
 WB4FDT,Pip,916,Baltimore MD
 WB4FSF,Bonnie,734,Sanford FL
@@ -5582,6 +5603,7 @@ WK9M,Randy,TN,Lenoir City TN
 WL7E,Joe,AK,Soldotna AK
 WM3O,Steve,PA,Philadelphia PA
 WM4I,Burke,1798,Wytheville VA
+WM4Q,PETE,TN,Bon Aqua TN
 WM5H,Bob,LA,West Monroe LA
 WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA

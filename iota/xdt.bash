@@ -12,5 +12,5 @@ BEGIN {
 END {
 }' < $1 | sort | more > IOTA.xdt
 echo "IOTA.xdt created"
-unix2dos IOTA.xdt
+unix2dos -q IOTA.xdt
 exit

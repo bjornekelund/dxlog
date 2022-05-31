@@ -18,8 +18,8 @@ BEGIN {
 	!(lengthcall < 5 && call ~ /\//)
   if (notignore)
     printf("%s=%s\n", $1, $3);
-  else
-	printf("Ignored: %s\n", $1) > "/dev/stderr";
+  else if ($0 !~ /^(!|#|$)/)
+	  printf("Ignored: %s\n", $1) > "/dev/stderr";
 }
 END { 
   printf("#0 IOTA data base\n");
@@ -28,5 +28,5 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' < $1 | sort | sed 's/#. /# /g' | more > IOTA_db.txt
 echo "IOTA_db.txt created"
-unix2dos IOTA_db.txt
+unix2dos -q IOTA_db.txt
 exit
