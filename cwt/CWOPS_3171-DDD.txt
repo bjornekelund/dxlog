@@ -204,7 +204,7 @@ AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
 AC2K,Alan,35,Redmond WA (NW-US Amb.)
 AC2KJ,Dima,1376,East Setauket NY
-AC3IU,Richy,PA,
+AC3IU,Rich,PA,
 AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
 AC3U,Bill,1699,St Marys City MD (W3UL Remote)
@@ -656,6 +656,7 @@ EA2DPA,Raul,EA,Vizcaya Spain
 EA2EFI,Nol,EA,(Imanol) Biscay Spain
 EA2HW,Enio,,San Sebastian Spain
 EA2KV,Jose,2845,Zaragoza Spain
+EA2RCP,RC,,Radio Club Navarra Spain
 EA3BV,Jon,,Barcelona Spain
 EA3FZT,Francis,2560,Cubelles Spain
 EA3GHZ,Joan,,Tarragona Spain
@@ -664,6 +665,7 @@ EA3IAA,Manel,,Barcelona Spain
 EA3NN,Dany,,Tarragona Spain
 EA4BB,Nando,2981,Masdrid Spain
 EA4GMX,Felipe,,Cuenca Spain
+EA4HKF,Jose,,Puertollano Spain
 EA4KD,Pete,,Madrid Spain
 EA4M,Rick,1070,(Ricardo) (EA4ZM)   Aranjuez Spain
 EA4OR,Nacho,2218,Meco Madrid Spain
@@ -2635,7 +2637,7 @@ KN4YRM,Randon,2930,Plantation FL
 KN5A,AL,TX,Houston TX
 KN5CWO,,,Delta CWops Club (West Monroe LA)
 KN5O,Ted,LA,Covington LA
-KN6IPE,Dennis,2928,Half Moon Bay CA
+KN6IPE,Den,2928,Half Moon Bay CA
 KN6NUN,Zhuo,3117,San Jose CA
 KN6NVZ,Kevin,CA,Visalia CA
 KN7A,Terry,3063,Corvallis OR
@@ -2650,6 +2652,7 @@ KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
 KO4GBD,Aaron,FL,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
+KO4LAO,Jim,CWA,Travelers Rest SC
 KO4UW,Steve,1234,
 KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
@@ -4045,6 +4048,7 @@ RT9T/3,Tony,,Orenburg Russia
 RU3TJ,Dima,,Dzerzhinsk Russia
 RV3FF,Andy,,Russia
 RV3ZN,Alex,,Gubkin Russia
+RV6AVU,Peter,,Belorechensk Russsia
 RW3RN,Alex,,Tambov Russia
 RW3YW,Vlad,,Bryansk Russia
 RW3ZA,Toly,,Stary Oskol Russia
@@ -5504,6 +5508,7 @@ WB2JNA,Jeff,MD,Cockeysville MD
 WB2KAO,Tim,2188,Rochester NY
 WB2KSP,Dave,NY,Nanuet NY
 WB2KWC,Ken,NY,Massapequa NY
+WB2PJH,Dave,NJ,
 WB2SMK,Mark,NY,Niskayuka NY
 WB2SXY,Bill,NY,Pittsford NY
 WB2TQC,John,NY,Hudson NY
@@ -5546,7 +5551,7 @@ WB7DKZ,Andy,2052,Grayslake IL
 WB7DND,Steve,2169,Portland OR
 WB7FDQ,Mike,AZ,Prescott Valley AZ
 WB7GR,Greg,2833,Burns WY
-WB7S,Jerry,CWA,Bassin WY
+WB7S,Jerry,WY,Bassin WY
 WB7TJI,John,UT,Fruit Heights UT
 WB7USJ,Tom,OR,Medford OR
 WB8AKW,John,2329,Worthington OH
@@ -5692,7 +5697,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,1346IL,Aurora IL (Fred)
+WT2P,CJ,1346,Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC
