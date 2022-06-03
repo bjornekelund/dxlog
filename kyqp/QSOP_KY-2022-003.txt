@@ -1,5 +1,5 @@
 !!Order!!,Call,Name,Exch1,UserText,
-# Last Edit,2022-05-21
+# Last Edit,2022-06-03
 # 0-This is helping file, LOG what you copy.
 # 1-Kentucky QSO Party
 # 2-Send new info/corrections DIRECT to ve2fk@arrl.net 			
@@ -10,13 +10,13 @@
 # Counties fixed stations follows...
 AA4WW,,
 AB4IQ,,MCC,McCracken
-AE8M,,,Mobile
+AE8M,,,Mobile One hour per counties
 K4AVX,,PER,Perry
 K4FN,,LAR/TAY,Larue/Taylor
 K4FT,,LIN,Lincoln
 K4FXN,,SHE,Shelby
 K4GYD,,LYO,Lyon
-K4KCG,,,Bonus Station
+K4KCG,,,Bonus Station  (CW=JEF)  (SSB=HRL)
 K4MSU,,CAW,Bonus Station
 K4SAF,,ROW,Rowan
 K4TG,,AND,Anderson
@@ -33,10 +33,11 @@ KJ4EU,,GRV,Graves
 KJ4YLR,,
 KK7YC,,EST,Estill
 KM4CH,,,Mobile
-KM4FO,,,Mobile
+KM4FO,,,Mobile 
 KM4LDP,,BAL,Ballard
 KY4KY,,BUL,Bonus station
 KY4XX,,OLD,Oldham
+N4JRG,,BUT,Butter CW-SSB 
 N4TY,,,Mobile CW-SSB on APRS 
 ND4X,,MSL,Marshall
 ND4Y,,HRL,Harlan
@@ -47,7 +48,7 @@ W4IOD,,SCO,Scott
 W4NJA,,MCC,McCreary
 W4UWC,,JES,Jesamine
 W4W,,OLD,Oldham
-W4WKU,,
+W4WKU,,OHI,Ohio
 WA5POK,,CTR,Carter
 WB4DKQ,,WAY,Wayne
 WE5P,,MAD,Madison
@@ -9950,7 +9951,7 @@ VE2EZD,LOUIS,QC,
 VE2FBD,FABI,QC,
 VE2FD,STEVE,QC,
 VE2FET,SYLVAIN,QC,
-VE2FK,DUB,QC,
+VE2FK,DUB,QC,Good Luck 
 VE2FU,PHIL,QC,
 VE2FWW,NOEL,QC,
 VE2FXL,LUC,QC,
