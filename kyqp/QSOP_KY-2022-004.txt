@@ -16,7 +16,7 @@ K4FN,,LAR/TAY,Larue/Taylor
 K4FT,,LIN,Lincoln
 K4FXN,,SHE,Shelby
 K4GYD,,LYO,Lyon
-K4KCG,,,Bonus Station  (CW=JEF)  (SSB=HRL)
+K4KCG,,,Bonus Station  (CW = JEF)  (SSB = HRL)
 K4MSU,,CAW,Bonus Station
 K4SAF,,ROW,Rowan
 K4TG,,AND,Anderson
@@ -30,7 +30,7 @@ KF2HP,,SPE,Spencer
 KF4WLS,,HOP,Hopkins
 KJ4AOM,,MAD,Madison
 KJ4EU,,GRV,Graves
-KJ4YLR,,
+KJ4YLR,,MAD,Madison
 KK7YC,,EST,Estill
 KM4CH,,,Mobile
 KM4FO,,,Mobile 
@@ -42,6 +42,7 @@ N4TY,,,Mobile CW-SSB on APRS
 ND4X,,MSL,Marshall
 ND4Y,,HRL,Harlan
 NN4H,,RUS,Russell
+NU4N,,MCC,McCracken
 NY4JB,,FLO,Floyd
 W4CDA,,BOL,Boyle
 W4IOD,,SCO,Scott
@@ -53,6 +54,8 @@ WA5POK,,CTR,Carter
 WB4DKQ,,WAY,Wayne
 WE5P,,MAD,Madison
 WX4W,,OLD,Oldham
+W5MX,,ROC,Rockcastle
+N4SS,,ROC,Rockcastle
 
 # Out of State and CDN Prov. follows...	
 AA0AC,DAVE,MN,

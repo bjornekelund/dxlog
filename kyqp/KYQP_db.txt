@@ -1,7 +1,7 @@
 # Kentucky QSO Party database.
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-06-03
+# File last updated 2022-06-04
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -5827,6 +5827,7 @@ KJ4WD=NC
 KJ4WKD=CT
 KJ4WNW=VA
 KJ4YKG=VA
+KJ4YLR=MAD
 KJ4ZQD=VA
 KJ5CF=TX
 KJ5EY=NM
@@ -7657,6 +7658,7 @@ N4SDB=AL
 N4SEA=WV
 N4SL=WA
 N4SR=TN
+N4SS=ROC
 N4ST=VA
 N4SVC=FL
 N4TB=FL
@@ -9419,6 +9421,7 @@ NU3Z=PA
 NU4B=TN
 NU4C=FL
 NU4E=SC
+NU4N=MCC
 NU4Y=FL
 NU5A=TX
 NU5C=AR
@@ -11895,6 +11898,7 @@ W5MMW=TN
 W5MRF=TX
 W5MT=TX
 W5MWL=OK
+W5MX=ROC
 W5NE=TX
 W5NFC=TX
 W5NH=CA
