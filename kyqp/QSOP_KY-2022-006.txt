@@ -1,5 +1,5 @@
 !!Order!!,Call,Name,Exch1,UserText,
-# Last Edit,2022-06-03
+# Last Edit,2022-06-04
 # 0-This is helping file, LOG what you copy.
 # 1-Kentucky QSO Party
 # 2-Send new info/corrections DIRECT to ve2fk@arrl.net 			
@@ -35,7 +35,7 @@ KK7YC,,EST,Estill
 KM4CH,,,Mobile
 KM4FO,,,Mobile 
 KM4LDP,,BAL,Ballard
-KY4KY,,BUL,Bonus station
+KY4KY,,BUL,
 KY4XX,,OLD,Oldham
 N4JRG,,BUT,Butter CW-SSB 
 N4TY,,,Mobile CW-SSB on APRS 
@@ -772,7 +772,7 @@ AE7PG,ALLEN,WA,
 AE7VA,PAUL,AZ,
 AE7W,JIM,AZ,
 AE8F,PAT,OH,
-AE8M,JOHN,OH,
+AE8M,JOHN,
 AE8S,ROY,OH,
 AE8TF,TOM,MI,
 AE9B,,MO,

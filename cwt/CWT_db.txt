@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3172
-# File last updated 2022-06-03
+# Contains members up to #3175
+# File last updated 2022-06-07
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -143,7 +143,7 @@ AA8TK=Evan;MI
 AA9A=Tom;1092
 AA9H=Dave;2756
 AA9K=Bob;1006
-AA9RK=Mike;WI
+AA9RK=Mike;3173
 AA9SN=Scott;2622
 AA9WJ=Jeff;2942
 AB0AB=Jim;MO
@@ -3177,8 +3177,7 @@ N4UCM=Doug;2920
 N4UM=Tim;FL
 N4UP=Peter;1228
 N4UZZ=Otto;2838
-N4VI=CHRIS;CO
-N4VI=Chris;CO
+N4VI=Chris;3174
 N4WDC=David;VA
 N4WJ=Frank;KY
 N4WLP=BILL;CWA
@@ -3906,7 +3905,7 @@ P4/K3DMG=Lee;1837
 P40LE=Andy;39
 P40TA=Ken;P4
 PA0ABM=Wino;2890
-PA0GRU=Dick;PA
+PA0GRU=Dick;3175
 PA0HOP=Hans;414
 PA0IA=LJ;PA
 PA0INA=Frans;443
@@ -3938,6 +3937,7 @@ PA3DZM=Eric;2569
 PA3EVY=Willy;PA
 PA3GDG=Fred;PA
 PA3GLH=Rimus;PA
+PA3GRU=Dick;3174
 PA3GSV=Jan;2932
 PA3HEN=Theo;2481
 PA3KC=Jurgen;PA
@@ -3960,7 +3960,7 @@ PF5X=Enno;2531
 PG1I=Marinus;PA
 PG2GF=Harm;PA
 PG4I=Jo;2225
-PG6F=Dick;PA
+PG6F=Dick;3175
 PG7V=Jan;PA
 PJ2/AC6ZM=Juan;2419
 PJ2/KL2A=Jon;77
