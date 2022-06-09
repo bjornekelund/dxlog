@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # Original file from Mike W1MI for the 2022 CHF
-# Last Edit,2022-04-05
+# Last Edit,2022-06-07
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
 7L4IOU,1D,DX
 AA0AC,1D,MN,Spirit Valley Amateurs
@@ -10137,6 +10137,7 @@ W0BU,3A,MN,Twin Cities Repeater Club
 W0BX,1B,CO
 W0BXO,4A,SD,Brookings Radio Research Club
 W0BZN,3A,KS,(N0NK GOTA) Newton/McPherson ARC
+W0C,3A,CO,(K0PRA) 
 W0CBL,3A,MO,NE MO ARC
 W0CCA,2A,CO,Montezuma Valley Ham Breakfast Group
 W0CCR,1E,MO,Hannibal (MO) ARC
@@ -11375,7 +11376,7 @@ W4WV,1D,VA,Virginia Beach ARC/Virginia DX Century Club
 W4WWF,1D,TN,Nashville ARC
 W4WWW,1E,STX
 W4WYD,1E,TN,Henry County AUXCOMM
-W4XD,3A,VA,Valley & Massanutten ARA
+W4XD,3A,VA,Harrisonburg VA
 W4XDS,1D,WCF,Lakeland ARC
 W4XEN,1D,CO
 W4XO,1D,GA,Coweta RC
