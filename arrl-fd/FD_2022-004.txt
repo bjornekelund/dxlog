@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # Original file from Mike W1MI for the 2022 CHF
-# Last Edit,2022-06-07
+# Last Edit,2022-06-10
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
 7L4IOU,1D,DX
 AA0AC,1D,MN,Spirit Valley Amateurs
@@ -1091,7 +1091,7 @@ K0OM,1D,NE,Pioneer ARC
 K0OMH,1B,NE,Pioneer ARC
 K0OOK,1D,NTX
 K0OP,1B,MN,Red River Radio Amateurs
-K0OU,2A,KS,Kansas City Contest Club
+K0OU,2A,KS,KANSAS CITY CONTEST CLUB
 K0OV,1D,ORG,Fullerton RC
 K0PB,1D,EPA,Wayne County ARC
 K0PEA,1A,IA,Pella ARC
@@ -7037,6 +7037,7 @@ N0ZL,1B,ORG,Irvine Disaster EmComms
 N0ZMF,1D,KS
 N0ZO,1E,AL,Highlands Hams
 N0ZS,2A,MO,Lake of the Ozarks ARC
+N1A,2A,WMA,SOTA Jerks / 510 RG
 N1AAM,1D,NH
 N1ABY,1D,CT
 N1ACW,1E,OR,Lake Oswego ARC
@@ -7606,7 +7607,7 @@ N4CWP,1D,VA,Alexandria RC
 N4CWZ,1A,NC,Belews Cove Minions
 N4CX,1D,VA
 N4CZ,1D,AL
-N4DAB,3A,NFL,Daytona Beach CERT AR Team
+N4DAB,3F,NFL,Daytona Beach CERT AR Team
 N4DAR,1D,KY
 N4DBR,1D,MI
 N4DE,1D,NC,Watauga ARC
@@ -10536,6 +10537,7 @@ W1SAV,1D,LAX
 W1SBW,1E,VT,Green Mountain Wireless Soc
 W1SEX,1F,WMA,Mohawk ARC
 W1SFR,1D,VT,Green Mountain Wireless Soc
+W1SRG,1B,EMA,Southborough MA
 W1SKU,1D,MI,Oakland County ARS
 W1SMH,2A,EMA,Sturdy Mem Hospital ARC
 W1SR,1D,AZ,Oro Valley ARC
