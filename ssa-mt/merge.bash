@@ -21,8 +21,8 @@ BEGIN {
 } 
 END { 
   printf("#1\n");
-  printf("#2 Pre-fill data base for SSA Monthly Contest.\n");
-  printf("#3 By SM7IUN with great help from SM5AJV and SM0HJZ.\n");
+  printf("#2 Pre-fill data base for SSA Monthly Contest\n");
+  printf("#3 By SM7IUN with great help from SM5AJV and SM0HJZ\n");
   printf("#4 Last updated 2019-08-29\n");
   printf("#5\n");
   for (c in callist) { 

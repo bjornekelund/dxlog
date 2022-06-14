@@ -17,10 +17,10 @@ BEGIN {
     printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr"
 }
 END { 
-  printf("#0 CQ WW RTTY database - States and provinces but AK HI PR VI not included.\n");
+  printf("#0 CQ WW RTTY database - States and provinces but AK HI PR VI not included\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }' < $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE

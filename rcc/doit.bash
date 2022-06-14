@@ -9,7 +9,7 @@ BEGIN {
   max = 0;
   printf("# RCC member database\n");
   printf("# Based on http://rcccup.ru/information/rcc-members\n");
-  printf("# File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /^[1-9]/ && $2 !~ / (SK|HQ)$/) {

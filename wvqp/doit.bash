@@ -9,10 +9,10 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 WVQP database\n");
+  printf("#0 West Virginia QSO Party database\n");
   printf("#1 Based on NAQP database maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT|BAR|BER|BOO|BRA|BRO|CAB|CAL|CLA|DOD|FAY|GIL|GRA|GRE|HAM|HAN|HDY|HAR|JAC|JEF|KAN|LEW|LIN|LOG|MRN|MAR|MAS|MCD|MER|MIN|MGO|MON|MRO|MOR|NIC|OHI|PEN|PLE|POC|PRE|PUT|RAL|RAN|RIT|ROA|SUM|TAY|TUC|TYL|UPS|WAY|WEB|WET|WIR|WOO|WYO)$/) {

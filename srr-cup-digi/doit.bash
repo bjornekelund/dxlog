@@ -8,9 +8,9 @@ dos2unix $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 Database for SRR Digital Cup.\n");
-  printf("#1 Based on call history data by Valery UR7QM.\n");
-  printf("#2 File created %s.\n", strftime("%Y-%m-%d"));
+  printf("#0 Database for SRR Digital Cup\n");
+  printf("#1 Based on call history data by Valery UR7QM\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {

@@ -11,7 +11,7 @@ BEGIN {
   printf("#0 PACC database\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /^[0-9A-Z\/]+$/ && $2 ~ /^[A-Z]{2}$/)

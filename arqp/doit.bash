@@ -8,9 +8,9 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 Arkansas QSO Party database.\n");
-  printf("#1 Based on call history data maintained by VE2FK ve2fk@arrl.net.\n");
-  printf("#2 File created %s.\n", strftime("%Y-%m-%d"));
+  printf("#0 Arkansas QSO Party database\n");
+  printf("#1 Based on call history data maintained by VE2FK ve2fk@arrl.net\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {

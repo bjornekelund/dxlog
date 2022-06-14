@@ -8,10 +8,10 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 INQP, DEQP, 7QP, and NEWEQP joint database.\n");
+  printf("#0 INQP, DEQP, 7QP, and NEWEQP joint database\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   state = $3 ~ /^(DX|CT|MA|ME|NH|RI|VT|NJ|NY|DE|PA|MD|DC|AL|FL|GA|KY|NC|SC|TN|VA|AR|LA|MS|NM|OK|TX|CA|HI|AK|AZ|ID|MT|NV|OR|UT|WA|WY|MI|OH|WV|IL|WI|CO|IA|KS|MN|MO|ND|NE|SD|NB|NS|QC|ON|MB|SK|AB|BC|NT|NL|NF|YT|PE|NU)$/;

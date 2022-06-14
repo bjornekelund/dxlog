@@ -19,7 +19,7 @@ BEGIN {
 END {
   printf("#0 HA DX database\n");
   printf("#1 Data collected and maintained by HA2NA ha2na@ha2na.hu\n");
-  printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo Created $OUTFILE

@@ -11,8 +11,8 @@ grep -e ",UD[0-9[0-9]" $RDAFILE | sed 's/,/=/g' > .rdas
 
 cat .rdas .grids | gawk '
 BEGIN {
-  printf("#0 Udmurtia open championship database.\n");
-  printf("#1 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#0 Udmurtia open championship database\n");
+  printf("#1 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   printf("%s\n", $0);

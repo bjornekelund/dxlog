@@ -10,9 +10,9 @@ dos2unix -q $FILE1 $FILE2
 gawk '
 BEGIN {
   FS=","
-  printf("#0 ICWS Medium Speed Test  database.\n");
+  printf("#0 ICWS Medium Speed Test database\n");
   printf("#1 Derived from K1USN and CWT databases by Claude VE2FK\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {

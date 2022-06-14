@@ -18,7 +18,7 @@ BEGIN {
 }
 END {
   printf("#0 RCWC member database based on data from http://rcwc.ru\n");
-  printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo Created $OUTFILE

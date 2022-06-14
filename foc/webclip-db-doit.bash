@@ -8,9 +8,9 @@ gawk '
 BEGIN {
   FS=","
   max = 0;
-  printf("#0 DXLog.net FOC members data base.\n");
+  printf("#0 DXLog.net FOC members data base\n");
   printf("#1 Data scraped from g4foc.org\n");
-  printf("#2 Updated %s.\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($0 ~ /^[0-9]/) {

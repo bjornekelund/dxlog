@@ -7,7 +7,7 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#1 Operator names by VE2FK.\n");
+  printf("#1 Operator names by VE2FK\n");
 }
 {
   call = toupper($1)

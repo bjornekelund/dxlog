@@ -10,7 +10,7 @@ BEGIN {
   FS=","
   printf("# Members of International Radio Club ARKTIKA\n");
   printf("# Data provided by Oleg RA9JM\n");
-  printf("# File created %s\n", strftime("%Y-%m-%d"));
+  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   call = toupper($1)

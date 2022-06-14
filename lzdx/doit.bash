@@ -24,7 +24,7 @@ BEGIN {
   FS=","
   printf("#0 LZDX database\n");
   printf("#1 Based on data from VE2FK and R9IR\n");
-  printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /[A-Z]{2}/) {

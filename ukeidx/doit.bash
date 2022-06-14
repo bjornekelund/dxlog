@@ -11,7 +11,7 @@ BEGIN {
   printf("#0 Database for UKEI DX Contest\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";
 }

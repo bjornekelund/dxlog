@@ -19,7 +19,7 @@ BEGIN {
 END { 
   printf("#0 TRC members database\n");
   printf("#1 Data collected and maintained by Claude VE2FK ve2fk@arrl.net\n");
-  printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }' $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 
 echo Created $DBFILE

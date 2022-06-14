@@ -24,7 +24,7 @@ END {
   printf("#0 CQ 160M database - States and provinces\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo $OUTFILE "created"

@@ -8,10 +8,10 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 TXQP database.\n");
+  printf("#0 Texas QSO Party database\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {

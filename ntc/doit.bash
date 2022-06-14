@@ -27,7 +27,7 @@ END {
   printf("#0 NTC QP database\n");
   printf("#1 Based on data collected and maintained by Claude VE2FK\n");
   printf("#2 Send updates/corrections to ve2fk@arrl.net\n");
-  printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | sed 's/^\#. /\# /g' | uniq > $OUTFILE
 
 echo Created $OUTFILE

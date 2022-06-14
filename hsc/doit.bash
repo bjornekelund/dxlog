@@ -30,8 +30,8 @@ BEGIN {
 	printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END { 
-  printf("#0 HSC Member numbers data base.\n");
-  printf("#1 Last updated %s.\n", strftime("%Y-%m-%d"));
+  printf("#0 HSC Member numbers data base\n");
+  printf("#1 Last updated %s\n", strftime("%Y-%m-%d"));
 }' $INFILE | sort | sed 's/#./#/g' > $OUTFILE
 
 echo Created $OUTFILE

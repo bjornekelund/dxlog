@@ -25,9 +25,9 @@ BEGIN {
   }
 }
 END {
-  printf("#0 ARRL Sweestakes database.\n");
+  printf("#0 ARRL Sweestakes database\n");
   printf("#1 Based on call history data collected and maintained by Ray AD5Q ad5q@arrl.net\n");
-  printf("#2 File created %s.\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   for (cs in call)
     printf("%s=%s;%s;%s\n", cs, prec[cs], lic[cs], sect[cs]);
 }

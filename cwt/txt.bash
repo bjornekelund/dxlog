@@ -116,7 +116,7 @@ END {
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#3 Contains members up to #%d\n", max);
-  printf("#4 File last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
 }' < $1 | sort | sed 's/^\#. /\# /g' > $DBFILE
 echo $DBFILE "created"
 unix2dos -q $DBFILE

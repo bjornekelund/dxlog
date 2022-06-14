@@ -8,9 +8,9 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 Saratov oblast database.\n");
-  printf("#1 Based on database from https://rdaward.org.\n");
-  printf("#2 File created on %s.\n", strftime("%Y-%m-%d"));
+  printf("#0 Saratov oblast database\n");
+  printf("#1 Based on database from https://rdaward.org\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($2 ~ /[0-9,A-Z]/ && $3 ~ /SA-[0-9]{2}/) {

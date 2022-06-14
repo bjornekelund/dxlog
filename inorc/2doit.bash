@@ -45,8 +45,8 @@ BEGIN {
 }
 END {
   printf("#0 Database with UBA sections for UBA, UBA Spring, and UBA ON Contests\n");
-  printf("#1 Credit to UR7QM and ON4ZD for data collection.\n");
-  printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
+  printf("#1 Credit to UR7QM and ON4ZD for data collection\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in callist) {
     printf("%s=%s\n", c, section[c]);
   }

@@ -35,7 +35,7 @@ BEGIN {
 END {
   printf("#0 TRC members database\n");
   printf("#1 Data from official listing on trcdx.org\n");
-  printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }' $TMPFILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 
 echo Created $DBFILE

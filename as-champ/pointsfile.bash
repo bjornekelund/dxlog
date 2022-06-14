@@ -9,7 +9,7 @@ BEGIN {
   maxlong = 17;
   printf("#\n");
   printf("# Asiatic Russia Championship points file\n");
-  printf("# File created %s\n", strftime("%Y-%m-%d"));
+  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
   printf("# Exchange range is from %s to %s\n", minlat minlong, maxlat maxlong);
   printf("#\n");
   for (mylat = minlat; mylat <= maxlat; mylat++) {
