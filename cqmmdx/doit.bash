@@ -3,7 +3,7 @@
 FILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
 OUTFILE=CQMMDX_db.txt
 
-echo Parsing $FILE...
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -21,7 +21,9 @@ BEGIN {
     printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo $OUTFILE created
+
 exit
 

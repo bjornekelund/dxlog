@@ -1,5 +1,7 @@
 cp cty.dat cty.tmp
-dos2unix cty.tmp
+
+dos2unix -q cty.tmp
+
 sed 's/ //g' < cty.tmp > cty2.tmp
 gawk '
 BEGIN {
@@ -14,4 +16,7 @@ BEGIN {
 END {
   printf("\n");
 }' < cty2.tmp > c-result.txt
-unix2dos c-result.txt
+
+unix2dos -q c-result.txt
+
+exit

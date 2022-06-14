@@ -1,9 +1,8 @@
 #!/bin/bash
 FILE=initial.ex
-
-echo Parsing $FILE
 OUTFILE=REF_db.txt
 
+echo Parsing $FILE
 dos2unix -q $FILE
 
 #sed 's/ //g' $FILE | gawk '
@@ -23,6 +22,8 @@ BEGIN {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END { }' | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

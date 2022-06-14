@@ -2,8 +2,8 @@
 FILE=KCJ.txt
 DBFILE=KCJ_db.txt
 
+echo Parsing $FILE
 dos2unix -q $FILE
-echo Parsing $FILE...
 
 gawk '
 BEGIN {
@@ -18,7 +18,9 @@ BEGIN {
   else if ($0 !~ /^(#|!|$)/)
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }' KCJ.txt | sort | sed 's/#. /# /g' > $DBFILE
-unix2dos -q $DBFILE
+
 echo Created $DBFILE
+unix2dos -q $DBFILE
+
 exit
 

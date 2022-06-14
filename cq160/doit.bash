@@ -1,7 +1,8 @@
 #!/bin/bash
 INFILE=`ls CQ160C* | tail -1 2> /dev/null`
 OUTFILE=CQ160_db.txt
-echo Using $INFILE
+
+echo Parsing $INFILE
 dos2unix -q $INFILE
 
 gawk '
@@ -28,4 +29,5 @@ END {
 
 echo $OUTFILE "created"
 unix2dos -q $OUTFILE
+
 exit

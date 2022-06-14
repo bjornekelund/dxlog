@@ -2,8 +2,7 @@
 FILE=vqp-raw.txt
 OUTFILE=multipliers.txt
 
-echo Using file \"$FILE\"
-
+echo Parsing $FILE
 dos2unix -q $FILE
 
 cat $FILE | sed 's/* //g' | gawk '
@@ -21,6 +20,8 @@ BEGIN {
   odd = !odd;
 }
 END { }' | sort > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
 exit

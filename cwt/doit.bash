@@ -1,6 +1,6 @@
 #!/bin/bash
 FILE=`ls CWOPS_* | tail -1 2> /dev/null`
-echo Using file $FILE
+echo Parsing $FILE
 if [ -n "$FILE" ]; then
   dos2unix -q $FILE
   ./txt.bash $FILE

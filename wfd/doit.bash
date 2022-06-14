@@ -35,6 +35,8 @@ BEGIN {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }' | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

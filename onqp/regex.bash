@@ -2,8 +2,7 @@
 FILE=multipliers.txt
 OUTFILE=multipliers-regex.txt
 
-echo Using file \"$FILE\"
-
+echo Parsing $FILE
 dos2unix -q $FILE
 
 cat $FILE | gawk '
@@ -20,6 +19,6 @@ END {
 }' | sed 's/|)/)/g' > $OUTFILE
 
 unix2dos -q $OUTFILE
-
 echo Created $OUTFILE
+
 exit

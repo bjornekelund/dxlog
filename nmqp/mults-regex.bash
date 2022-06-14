@@ -1,7 +1,7 @@
 SOURCE=mults-nm.txt
 DEST=regex-nm.txt
 
-echo Using $SOURCE
+echo Parsing $SOURCE
 dos2unix -q $SOURCE
 
 awk \

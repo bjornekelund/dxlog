@@ -1,8 +1,10 @@
 #!/bin/bash
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
-echo Using file \"$FILE\"
+OUTFILE=TNQP_db.txt
 
-dos2unix $FILE
+echo Parsing $FILE
+dos2unix -q $FILE
+
 cat $FILE | tr -d " " | gawk '
 BEGIN {
   FS=","
@@ -26,5 +28,9 @@ BEGIN {
       printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
   } 
 }
-END { }' | sort | sed 's/#. /# /g' > TNQP_db.txt
-unix2dos TNQP_db.txt
+END { }' | sort | sed 's/#. /# /g' > $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+exit

@@ -3,7 +3,6 @@ FILE=`ls AC* 2> /dev/null`
 OUTFILE=POLAR-radioman.txt
 
 echo Parsing $FILE
-
 dos2unix -q $FILE
 
 gawk '
@@ -24,6 +23,8 @@ BEGIN {
 }
 END {
 }' $FILE > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
 exit

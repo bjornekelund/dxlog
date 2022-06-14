@@ -1,8 +1,9 @@
 #!/bin/bash
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
-echo Using file \"$FILE\"
 
+echo Parsing $FILE
 dos2unix $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -27,4 +28,8 @@ BEGIN {
   }
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > WAQP_db.txt
-unix2dos WAQP_db.txt
+
+unix2dos -q WAQP_db.txt
+echo Created WAQP_db.txt
+
+exit

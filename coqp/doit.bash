@@ -2,7 +2,7 @@
 FILE=../naqp/NAQPCW.txt
 OUTFILE=COQP_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -29,7 +29,8 @@ BEGIN {
 END {
   printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
-echo "Created" $OUTFILE
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

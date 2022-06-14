@@ -1,7 +1,7 @@
 #!/bin/bash
 FILE=`ls TESLA_V* | tail -1`
-echo Parsing $FILE
 
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -27,6 +27,7 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' < $FILE | sort | sed 's/^\#. /\# /g' > TESLA_db.txt
 
-echo "TESLA_db.txt created"
-unix2dos TESLA_db.txt
+echo Created TESLA_db.txt
+unix2dos -q TESLA_db.txt
+
 exit

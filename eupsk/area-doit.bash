@@ -1,4 +1,5 @@
-dos2unix euareas.csv
+dos2unix -q euareas.csv
+
 gawk '
 BEGIN {
   FS=";";
@@ -13,4 +14,7 @@ BEGIN {
 END {
   printf("[MULTIPLIERS END]\n");
 }' < euareas.csv | sort > a-result.txt
-unix2dos a-result.txt
+
+unix2dos -q a-result.txt
+
+exit

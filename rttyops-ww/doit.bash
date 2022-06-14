@@ -1,6 +1,8 @@
 #!/bin/bash
-dos2unix $1 $2
+dos2unix -q $1 $2
+
 OUTFILE=RTTYOPS_WW_db.txt
+
 cat $1 $2 | gawk '
 BEGIN {
   FS=","
@@ -22,6 +24,8 @@ END {
   printf("#2 Report errors and changes to ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | sed 's/^\#. /\# /g' > $OUTFILE
-echo $OUTFILE "created"
+
+echo Created $OUTFILE
 unix2dos $OUTFILE
+
 exit

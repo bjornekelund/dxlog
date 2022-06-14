@@ -1,5 +1,6 @@
 #!/bin/bash
 OUTFILE=BERU_db.txt
+
 gawk '
 BEGIN {
   FS=","
@@ -15,6 +16,8 @@ END {
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' < $1 | sort | sed 's/^\#. /\# /g' > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

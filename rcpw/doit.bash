@@ -1,6 +1,7 @@
 #!/bin/bash
 cp raw.txt tmp.txt
-dos2unix tmp.txt
+dos2unix -q tmp.txt
+
 gawk '
 BEGIN {
   FS=";";
@@ -23,4 +24,7 @@ END {
     if (member[i] != "")
       printf("%s=PW%d\n", member[i], i);
 }' < tmp.txt > RCPW_db.txt
-unix2dos RCPW_db.txt
+
+unix2dos -q RCPW_db.txt
+
+exit

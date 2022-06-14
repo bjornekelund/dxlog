@@ -2,7 +2,7 @@ INFILE=webclip.txt
 OUTFILE=FOC_db.txt
 
 dos2unix -q $INFILE
-echo Parsing $INFILE...
+echo Parsing $INFILE
 
 gawk '
 BEGIN {
@@ -33,5 +33,8 @@ BEGIN {
 END {
   printf("#3 Contains members up to #%d\n", max);
 }' $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
+exit

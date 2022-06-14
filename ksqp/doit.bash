@@ -2,7 +2,7 @@
 FILE=../naqp/NAQPCW.txt
 OUTFILE=KSQP_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -22,6 +22,7 @@ BEGIN {
 }
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+
 echo "Created" $OUTFILE
 unix2dos -q $OUTFILE
 

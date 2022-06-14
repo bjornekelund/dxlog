@@ -2,8 +2,7 @@
 FILE=`ls ICWC-* | tail -1 2> /dev/null`
 OUTFILE=ICWCMST_db.txt
 
-echo Parsing files $FILE
-
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -39,6 +38,8 @@ END {
     printf("%s=%s\n", cl, name[cl]);
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
 exit

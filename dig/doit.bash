@@ -2,7 +2,7 @@
 FILE=DIGLISTE.csv
 OUTFILE=DIG_db.txt
 
-echo "Downloading" $FILE
+echo Downloading $FILE
 
 wget -q https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -O $FILE
 
@@ -29,6 +29,6 @@ END {
 }' | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
-echo $OUTFILE "created"
+echo Created $OUTFILE
 
 exit

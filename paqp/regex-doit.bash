@@ -32,7 +32,9 @@ BEGIN {
 END {
   printf(")$\n");
 }' > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit
 

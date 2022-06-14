@@ -1,8 +1,10 @@
 #!/bin/bash
 FILE=`ls TRCDX* | tail -1 2> /dev/null`
-echo Using file $FILE
-dos2unix -q $FILE
 DBFILE=TRC_db.txt
+
+echo Parsing $FILE
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -20,6 +22,7 @@ END {
   printf("#2 File last updated %s\n", strftime("%Y-%m-%d"));
 }' $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 
-echo $DBFILE "created"
+echo Created $DBFILE
 unix2dos -q $DBFILE
+
 exit

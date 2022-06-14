@@ -114,7 +114,8 @@ END {
     printf("%s=%s\n", callist[c], gridlist[c]);
   printf("Ignored %d calls\n", ignored) > "/dev/stderr";
 }'  | sort | sed 's/^\#. /\# /g' > $OUTFILE4
-echo $OUTFILE4 "created with" `cat $OUTFILE4 | wc -l` "calls"
+
+echo $OUTFILE4 created with `cat $OUTFILE4 | wc -l` calls
 
 unix2dos -q $OUTFILE $OUTFILE4
 

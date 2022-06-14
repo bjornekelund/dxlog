@@ -1,8 +1,10 @@
 #!/bin/bash
 INFILE=`ls CNCW* | tail -1 2> /dev/null`
 OUTFILE=EA_db.txt
-echo Using $INFILE
+
+echo Parsing $INFILE
 dos2unix -q $INFILE
+
 gawk '
 BEGIN {
   FS=","
@@ -18,6 +20,8 @@ BEGIN {
 }
 END {
 }' $INFILE > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

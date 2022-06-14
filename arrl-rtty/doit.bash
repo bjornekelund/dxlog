@@ -1,6 +1,7 @@
 #!/bin/bash
 INFILE=`ls ARRLR* | tail -1 2> /dev/null`
-echo Parsing $INFILE...
+
+echo Parsing $INFILE
 OUTFILE=ARRL_RTTY_db.txt
 
 dos2unix -q $INFILE
@@ -22,6 +23,7 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE created
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

@@ -1,4 +1,6 @@
 #!/bin/bash
+OUTFILE=IOTA.xdt
+
 gawk '
 BEGIN {
   FS=","
@@ -10,7 +12,9 @@ BEGIN {
   }
 }
 END {
-}' < $1 | sort | more > IOTA.xdt
-echo "IOTA.xdt created"
-unix2dos -q IOTA.xdt
+}' < $1 | sort | more > $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
 exit

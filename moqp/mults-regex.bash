@@ -1,7 +1,7 @@
 SOURCE=mults-mo.txt
 DEST=regex-mo.txt
 
-echo Using $SOURCE
+echo Parsing $SOURCE
 dos2unix -q $SOURCE
 
 awk \

@@ -2,8 +2,7 @@
 FILE=vqp-raw.txt
 OUTFILE=regex.txt
 
-echo Using file \"$FILE\"
-
+echo Parsing $FILE
 dos2unix -q $FILE
 
 cat $FILE | sed 's/* //g' | gawk '
@@ -24,6 +23,8 @@ BEGIN {
 END {
   printf(")$")
 }' | sed 's/|)/)/g' > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
 exit

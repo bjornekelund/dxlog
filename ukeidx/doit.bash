@@ -2,7 +2,7 @@
 FILE=`ls UKEIDX* | tail -1 2> /dev/null`
 OUTFILE=ukeidx_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -23,7 +23,8 @@ BEGIN {
 }
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
-echo "Created" $OUTFILE
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

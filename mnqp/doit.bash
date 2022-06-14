@@ -2,7 +2,7 @@
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=MNQP_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 cat $FILE | sed 's/ //g' | gawk '
@@ -46,6 +46,7 @@ END {
     printf("%s=%s;%s\n", calls[c], name[c], state[c]);
   }
 }' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+
 echo "Created" $OUTFILE
 unix2dos -q $OUTFILE
 

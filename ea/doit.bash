@@ -4,7 +4,7 @@ FILE1=`ls CNCW* | tail -1 2> /dev/null`
 FILE2=`ls KING* | tail -1 2> /dev/null`
 OUTFILE=EA_db.txt
 
-echo "Parsing" $FILE1 $FILE2
+echo Parsing $FILE1 and $FILE2
 dos2unix -q $FILE1 $FILE2
 
 cat $FILE1 $FILE2 | sed 's/ //g' | gawk '
@@ -35,7 +35,8 @@ END {
     printf("%s=%s\n", calls[c], exch[c]);
   }
 }' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
-echo "Created" $OUTFILE
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

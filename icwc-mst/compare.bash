@@ -34,6 +34,8 @@ BEGIN {
 END {
 }
 END { }' $FILE1 $FILE2 | sort | sed 's/#. /# /g' > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
 exit

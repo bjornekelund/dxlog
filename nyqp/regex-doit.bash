@@ -2,7 +2,7 @@
 INFILE=nycounties.txt
 OUTFILE=ny-counties-regex.txt
 
-echo Parsing $INFILE...
+echo Parsing $INFILE
 dos2unix -q $INFILE
 
 cat $INFILE | gawk '
@@ -32,7 +32,9 @@ BEGIN {
 END {
   printf(")$\n");
 }' > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit
 

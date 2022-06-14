@@ -3,7 +3,7 @@ FILE=`ls FOCBW* | tail -1 2> /dev/null`
 DBFILE=FOC_db.txt
 XDTFILE=FOC.xdt
 
-echo Parsing $FILE...
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -42,6 +42,7 @@ BEGIN {
   }
 }
 END { }' $FILE | sort | more > $XDTFILE
+
 unix2dos -q $XDTFILE
 echo Created $XDTFILE
 

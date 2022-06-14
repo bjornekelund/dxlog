@@ -3,10 +3,11 @@
 FILE=agb-list.txt
 OUTFILE=AGB_db.txt
 
-wget -q http://ev5agb.com/club/agb-list.txt -O $FILE
-dos2unix -q $FILE
+echo Downloading $FILE
 
-echo "Parsing" $FILE
+wget -q http://ev5agb.com/club/agb-list.txt -O $FILE
+
+dos2unix -q $FILE
 
 gawk '
 BEGIN {
@@ -23,6 +24,8 @@ BEGIN {
     printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
 }
 END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

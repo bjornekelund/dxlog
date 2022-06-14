@@ -24,6 +24,8 @@ BEGIN {
 }
 END {
 }' < $1 | sed 's/  / /g' | sort > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

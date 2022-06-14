@@ -1,8 +1,8 @@
 #!/bin/bash
 FILE=`ls EUAS-CH* | tail -1 2> /dev/null`
 OUTFILE=EURASIA_db.txt
-echo Parsing $FILE...
 
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -23,6 +23,7 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE created
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

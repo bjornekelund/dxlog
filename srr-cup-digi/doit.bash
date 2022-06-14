@@ -1,9 +1,10 @@
 #!/bin/bash
 FILE=`ls SRR* | tail -1 2> /dev/null`
 OUTFILE=SRR-CUP-DIGI_db.txt
-echo Using file \"$FILE\"
 
+echo Parsing $FILE
 dos2unix $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -27,5 +28,8 @@ BEGIN {
   }
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
-unix2dos -q $OUTFILE
+
 echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+exit

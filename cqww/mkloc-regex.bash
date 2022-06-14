@@ -1,7 +1,7 @@
 SOURCE=LOCATIONS.txt
 DEST=regex-valid-locations.txt
 
-echo Using $SOURCE
+echo Parsing $SOURCE
 dos2unix -q $SOURCE
 
 awk \

@@ -2,7 +2,7 @@ INFILE=webclip.txt
 OUTFILE=FOC.xdt
 
 dos2unix -q $INFILE
-echo Parsing $INFILE...
+echo Parsing $INFILE
 
 gawk '
 BEGIN {
@@ -27,5 +27,8 @@ BEGIN {
   if (strtonum(mem) > max) max = strtonum(mem);
 }
 END {}' $INFILE > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
+exit

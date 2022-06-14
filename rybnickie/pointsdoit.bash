@@ -11,5 +11,7 @@ BEGIN {
   }
 }
 {}' /dev/null > points.txt
+
 unix2dos -q points.txt
+
 exit

@@ -23,6 +23,6 @@ END {
 }' $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
-echo $OUTFILE created
+echo Created $OUTFILE
 
 exit

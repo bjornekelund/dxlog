@@ -1,7 +1,8 @@
 #!/bin/bash
 FILE=`ls INORC.* | tail -1 2> /dev/null`
 OUTFILE=INORC_db.txt
-echo Parsing $FILE...
+
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -26,4 +27,5 @@ END {
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
+
 exit

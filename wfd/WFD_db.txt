@@ -1,6 +1,7 @@
 # Winter Field Day database.
-# Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2022-01-31.
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly ve2fk@arrl.net
+# File last updated 2022-06-14
 AA0RW=2I;MN
 AA1SB=1O;NH
 AA1W=1H;NH

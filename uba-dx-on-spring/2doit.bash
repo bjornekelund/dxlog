@@ -4,10 +4,9 @@ FILE2=UBA_on_db.txt
 TMP1=_tmpfile.txt
 
 OUTFILE=UBA_Sections_db.txt
+
+echo Parsing $FILE1
 dos2unix -q $FILE1 $FILE2
-
-
-echo Parsing $FILE1...
 
 cat $FILE1 | gawk '
 BEGIN {
@@ -53,6 +52,7 @@ END {
 }' | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 
-echo $OUTFILE created
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

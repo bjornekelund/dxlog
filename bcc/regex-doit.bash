@@ -36,7 +36,9 @@ END {
   printf(")$;ALL;ALL;ALL;2\n");
   printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n");
 }' > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit
 

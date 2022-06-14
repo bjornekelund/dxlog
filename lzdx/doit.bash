@@ -6,6 +6,7 @@ OUTFILE=lzdx_db.txt
 
 dos2unix -q $FILE $OLDFILE
 echo Converting $OLDFILE
+
 gawk '
 BEGIN {
   FS="=";

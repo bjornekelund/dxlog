@@ -25,6 +25,8 @@ END {
   printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#3 Updated %s\n", strftime("%Y-%m-%d"));
 }' $FILE | sort | sed 's/^#./#/g' > $OUTFILE
-echo $OUTFILE created
+
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

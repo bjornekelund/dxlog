@@ -1,9 +1,11 @@
 #!/bin/bash
 FILE=`ls EU_DXC* | tail -1 2> /dev/null`
-echo "Parsing" $FILE
+OUTFILE=EUDXC_db.txt
+
+echo Parsing $FILE
 dos2unix -q $FILE
-sort < $FILE > temp
-gawk '
+
+sort $FILE | gawk '
 BEGIN {
   FS=",";
   prevcall = "zz";
@@ -21,8 +23,9 @@ BEGIN {
   prevcall = call;
 }
 END {
-}' < temp > EUDXC_db.txt
-rm temp
-echo "EUDXC_db.txt created"
-unix2dos -q EUDXC_db.txt
+}' $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
 exit

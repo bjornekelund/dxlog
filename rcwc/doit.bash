@@ -1,9 +1,9 @@
 #!/bin/bash
 FILE=RCWC.txt
 OUTFILE=RCWC_db.txt
-dos2unix -q $FILE
 
-echo "Parsing" $FILE "..."
+echo Parsing $FILE
+dos2unix -q $FILE
 
 gawk '
 BEGIN {
@@ -21,6 +21,7 @@ END {
   printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
 }' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE "created."
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

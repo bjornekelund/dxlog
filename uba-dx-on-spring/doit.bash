@@ -2,6 +2,7 @@
 FILE="Fullcall.txt Vanitycall.txt"
 #FILE="Fullcall.txt"
 OUTFILE=UBA_Sections_db.txt
+
 echo Parsing $FILE
 dos2unix -q $FILE
 
@@ -25,6 +26,7 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | uniq | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE created
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

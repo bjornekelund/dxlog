@@ -1,7 +1,10 @@
 #bin/bash
 rm rda_eng.txt
+
+echo Downloading rda_eng.txt
 wget http://rdaward.org/rda_eng.txt
 dos2unix -q rda_eng.txt
+
 sed 's/  /\t/g' < rda_eng.txt | sed 's/\/ /\//g' | sed 's/ \/\t/\/\t/g' |\
 sed 's/ \t/\t/g' | sed 's/\t /\t/g' | sed 's/\t\t/\t/g' > .tmp1_rda.txt
 
@@ -19,6 +22,8 @@ BEGIN {
 END { 
   printf("[MULTIPLIERS END]\n");
 }' < .tmp1_rda.txt > multipliers_rda.txt
+
 unix2dos -q multipliers_rda.txt
 echo Created multipliers_rda.txt
+
 exit

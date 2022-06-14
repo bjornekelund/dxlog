@@ -1,8 +1,8 @@
 #!/bin/bash
 INFILE=`ls arrl*all*`
-echo Using $INFILE
 OUTFILE=ARRL_DX_db.txt
 
+echo Parsing $INFILE
 dos2unix -q $INFILE
 
 cat $INFILE | tr -d " " | sort | gawk '
@@ -50,4 +50,5 @@ END {
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
+
 exit

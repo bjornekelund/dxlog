@@ -1,7 +1,9 @@
 #!/bin/bash
 INFILE=multsorig.txt
 FILE=mults.txt
-dos2unix $INFILE
+
+dos2unix -q $INFILE
+
 sort -k4 $INFILE |\
 awk '
 BEGIN {
@@ -25,6 +27,8 @@ END {
   }
   printf("\n");
 }' > $FILE
-echo $FILE "created"
-unix2dos $FILE
+
+echo Created $FILE
+unix2dos -q $FILE
+
 exit

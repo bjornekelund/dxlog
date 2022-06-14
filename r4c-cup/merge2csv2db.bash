@@ -1,4 +1,5 @@
 dos2unix $1 $2
+
 cat $1 $2 |
 gawk '
 BEGIN {
@@ -23,4 +24,7 @@ END {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
 }' | sort | sed 's/#. /# /g' > R4C-CUP_db.txt
+
 unix2dos R4C-CUP_db.txt
+
+exit

@@ -1,7 +1,8 @@
 #!/bin/bash
 INFILE=rawdistricts.txt
 OUTFILE=aoec160mults.txt
-echo Using $INFILE
+
+echo Parsing $INFILE
 dos2unix -q $INFILE
 
 gawk '
@@ -22,6 +23,7 @@ BEGIN {
 END {
 }' $INFILE > $OUTFILE
 
-echo $OUTFILE "created"
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

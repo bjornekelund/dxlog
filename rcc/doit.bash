@@ -25,6 +25,6 @@ END {
 }' < $1 > RCC_db.txt
 
 unix2dos RCC_db.txt
-echo "RCC_db.txt created"
+echo Created RCC_db.txt
 
 exit

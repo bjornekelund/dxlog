@@ -1,9 +1,10 @@
 #!/bin/bash
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
-echo Parsing $FILE
 OUTFILE=AZQP_db.txt
 
+echo Parsing $FILE
 dos2unix $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -29,6 +30,8 @@ BEGIN {
   }
 }
 END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

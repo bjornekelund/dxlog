@@ -2,9 +2,9 @@
 FILE=`ls XM* | tail -1 2> /dev/null`
 OUTFILE=DOK_db.txt
 
-echo Parsing file $FILE
-
+echo Parsing $FILE
 dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -37,7 +37,8 @@ BEGIN {
 END {
   printf("Longest DOK is %s which is %d characters.\n", longest, max) > "/dev/stderr"; 
 }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
-exit
 
+exit

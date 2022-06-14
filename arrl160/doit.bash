@@ -1,7 +1,8 @@
 #!/bin/bash
 INFILE=`ls ARRL160* | tail -1 2> /dev/null`
 OUTFILE=ARRL_160M_db.txt
-echo Using $INFILE
+
+echo Parsing $INFILE
 dos2unix -q $INFILE
 
 gawk '
@@ -22,6 +23,7 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE "created"
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

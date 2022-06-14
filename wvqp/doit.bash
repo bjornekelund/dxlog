@@ -1,8 +1,9 @@
 #!/bin/bash
-FILE=../naqp/NAQPCW.txt
+#!/bin/bash
+FILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=WVQP_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -22,6 +23,7 @@ BEGIN {
 }
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+
 echo "Created" $OUTFILE
 unix2dos -q $OUTFILE
 

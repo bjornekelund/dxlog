@@ -4,7 +4,6 @@ RDAFILE=RDAC_huge_csv.txt
 GRIDFILE=Russian_cup_db.txt
 
 echo Parsing $RDAFILE $GRIDFILE
-
 dos2unix -q $GRIDFILE $RDAFILE
 
 grep -v -F 4W $GRIDFILE > .grids
@@ -19,6 +18,8 @@ BEGIN {
   printf("%s\n", $0);
 }
 END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

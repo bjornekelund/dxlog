@@ -2,7 +2,7 @@
 FILE=PACC.txt
 OUTFILE=PACC_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 cat $FILE | tr -d ' ' | gawk '
@@ -20,7 +20,7 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
 
-echo "Created" $OUTFILE
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

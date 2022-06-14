@@ -32,6 +32,8 @@ END {
     printf("%s=%s;%s;%s\n", cs, prec[cs], lic[cs], sect[cs]);
 }
 ' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

@@ -1,8 +1,10 @@
 #!/bin/bash
 FILE=`ls QSOP_FL* | tail -1 2> /dev/null`
-echo FILE=\"$FILE\"
+OUTFILE=FLQP_db.txt
 
+echo Parsing $FILE
 dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -26,5 +28,9 @@ BEGIN {
       printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
   }  
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > FLQP_db.txt
-unix2dos -q FLQP_db.txt
+END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+exit

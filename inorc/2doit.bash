@@ -7,7 +7,7 @@ OUTFILE=UBA_Sections_db.txt
 dos2unix -q $FILE1 $FILE2
 
 
-echo Parsing $FILE1...
+echo Parsing $FILE1
 
 cat $FILE1 | gawk '
 BEGIN {
@@ -52,7 +52,7 @@ END {
   }
 }' | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-
-echo $OUTFILE created
+echo Created $OUTFILE 
 unix2dos -q $OUTFILE
+
 exit

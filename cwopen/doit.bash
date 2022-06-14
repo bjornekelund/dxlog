@@ -1,6 +1,6 @@
 #!/bin/bash
 FILE=`ls CWOPS* | tail -1 2> /dev/null`
-echo Using file \"$FILE\"
+echo Parsing $FILE
 
 dos2unix $FILE
 gawk '

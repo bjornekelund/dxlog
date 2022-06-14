@@ -2,9 +2,9 @@
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=fixed.QSOP_GA.txt
 
-echo Using file \"$FILE\"
-
+echo Parsing $FILE
 dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -27,6 +27,8 @@ BEGIN {
   } 
 }
 END { }' $FILE > $OUTFILE
+
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
 exit

@@ -8,7 +8,6 @@ dos2unix -q $FILE1 $FILE2
 #echo FILE=\"$FILE\"
 OUTFILE=NVQP_db.txt
 
-
 cat $FILE1 | gawk '
 BEGIN {
   FS=","
@@ -54,6 +53,8 @@ BEGIN {
       printf("Not included: \"%s\"\n", $0) > "/dev/stderr";
   }
 }' | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

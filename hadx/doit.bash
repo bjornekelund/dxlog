@@ -2,7 +2,7 @@
 FILE=HADX.txt
 OUTFILE=HADX_db.txt
 
-echo "Parsing" $FILE
+echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk '
@@ -22,6 +22,7 @@ END {
   printf("#2 File updated %s\n", strftime("%Y-%m-%d"));
 }' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE "created"
+echo Created $OUTFILE
 unix2dos -q HADX_db.txt
+
 exit

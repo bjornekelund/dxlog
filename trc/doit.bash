@@ -38,6 +38,7 @@ END {
   printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
 }' $TMPFILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 
-echo $DBFILE "created"
+echo Created $DBFILE
 unix2dos -q $DBFILE
+
 exit

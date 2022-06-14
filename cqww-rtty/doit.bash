@@ -1,9 +1,10 @@
 #!/bin/bash
 INFILE=`ls CQWWRTTY* | tail -1 2> /dev/null`
 OUTFILE=CQWWR_db.txt
-echo Using $INFILE
 
+echo Parsing $INFILE
 dos2unix -q CQWWRTTY.txt
+
 gawk '
 BEGIN {
   FS=","
@@ -23,5 +24,6 @@ END {
 }' < $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
-echo $OUTFILE "created"
+echo Created $OUTFILE
+
 exit

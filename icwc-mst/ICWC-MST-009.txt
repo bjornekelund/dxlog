@@ -2,8 +2,15 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-06-02
+# Last Edit,2022-06-13
 # New contest 20-25 WPM
+WA2AAW,FRAMK,,Sound Beach NY
+SM1HEV,JENS,,Gotlands-TOFTA Sweden
+VE3PYH,PING,,Toronto ON
+KB8TL,BOB,,Belleville MI
+AE4GS,GARY,,Cleveland TN
+N4EL,NAT,,Tipp City OH
+
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island

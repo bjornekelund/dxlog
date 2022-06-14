@@ -1,9 +1,9 @@
 #!/bin/bash
 FILE=statesandprov.txt
-echo Parsing $FILE
 OUTFILE1=mult-sp.txt
 OUTFILE2=regex-sp.txt
 
+echo Parsing $FILE
 dos2unix $FILE
 
 gawk '
@@ -30,6 +30,7 @@ BEGIN {
 END {
   printf(")$\n");
 }' $OUTFILE1 | sed 's/|)/)/g' > $OUTFILE2
+
 echo Created $OUTFILE2
 unix2dos -q $OUTFILE2
 

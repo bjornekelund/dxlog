@@ -2,8 +2,9 @@
 FILE=`ls NTC_QP* | tail -1 2> /dev/null`
 OUTFILE=NTC_db.txt
 
+echo Parsing $FILE
 dos2unix -q $FILE
-echo "Parsing" $FILE
+
 cat $FILE | tr -d ' ' | gawk '
 BEGIN {
   FS=",";
@@ -29,6 +30,7 @@ END {
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | sed 's/^\#. /\# /g' | uniq > $OUTFILE
 
-echo $OUTFILE "created"
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit

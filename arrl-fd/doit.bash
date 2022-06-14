@@ -1,7 +1,8 @@
 #!/bin/bash
 INFILE=`ls FD* | tail -1 2> /dev/null`
 OUTFILE=ARRL_FD_db.txt
-echo Using $INFILE
+
+echo Parsing $INFILE
 dos2unix -q $INFILE
 
 cat $INFILE | gawk '
@@ -21,6 +22,8 @@ END {
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | sed 's/^\#. /\# /g' > $OUTFILE
+
 echo $OUTFILE created
 unix2dos -q $OUTFILE
+
 exit
