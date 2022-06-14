@@ -1,6 +1,7 @@
 #!/bin/bash
+OUTFILE=RCC_db.txt
 
-dos2unix $1
+dos2unix -q $1
 
 gawk '
 BEGIN {
@@ -22,9 +23,9 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
-}' < $1 > RCC_db.txt
+}' < $1 > $OUTFILE
 
-unix2dos RCC_db.txt
-echo Created RCC_db.txt
+unix2dos $OUTFILE
+echo Created $OUTFILE
 
 exit

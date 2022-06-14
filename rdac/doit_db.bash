@@ -1,3 +1,10 @@
+#!/bin/bash
+FILE=RDAC.txt
+OUTFILE=RDAC_db.txt
+
+echo Parsing $FILE
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -11,5 +18,9 @@ BEGIN {
     printf("%s=%s\n", $1, $2);
   }
 }
-END { }' RDAC.txt | sort | sed 's/#. /# /g' | uniq > RDAC_db.txt
-unix2dos RDAC_db.txt
+END { }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+exit

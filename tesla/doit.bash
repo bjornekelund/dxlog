@@ -1,5 +1,6 @@
 #!/bin/bash
 FILE=`ls TESLA_V* | tail -1`
+OUTFILE=TESLA_db.txt
 
 echo Parsing $FILE
 dos2unix -q $FILE
@@ -25,9 +26,9 @@ END {
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
   printf("#3 File last updated %s\n", strftime("%Y-%m-%d"));
-}' < $FILE | sort | sed 's/^\#. /\# /g' > TESLA_db.txt
+}' < $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo Created TESLA_db.txt
-unix2dos -q TESLA_db.txt
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
 
 exit

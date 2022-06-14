@@ -17,8 +17,8 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
-  printf("# RCPW members database\n");
-  printf("# File created by SM7IUN on %s\n", strftime("%Y-%m-%d"));
+  printf("# RCPW members database based on http://rcpw.ru/members.html\n");
+  printf("# File created %s\n", strftime("%Y-%m-%d"));
   printf("# Contains members up to #%d\n", last);
   for (i = 1; i <= last; i++)
     if (member[i] != "")

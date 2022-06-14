@@ -24,7 +24,7 @@ BEGIN {
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
 
-echo "Created" $OUTFILE
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

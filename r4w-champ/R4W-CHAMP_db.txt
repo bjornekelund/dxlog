@@ -1,5 +1,5 @@
 # Udmurtia open championship database.
-# File last updated 2022-03-30
+# File last updated 2022-06-14
 ER5DX=KN46
 ES2JJ=KO29
 EU1OID=KO33

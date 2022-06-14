@@ -1,4 +1,9 @@
-dos2unix rda.txt
+FILE=rda-cleaned.txt
+OUTFILE=RDAC_huge_csv.txt
+
+echo Parsing $FILE
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -16,5 +21,9 @@ BEGIN {
   }
 }
 END {
-}' rda.txt | sort | sed 's/#. /# /g' > RDAC_huge_csv.txt
-unix2dos RDAC_huge_csv.txt
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
+
+exit

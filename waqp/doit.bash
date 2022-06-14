@@ -1,5 +1,6 @@
 #!/bin/bash
 FILE=`ls QSOP_* | tail -1 2> /dev/null`
+OUTFILE=WAQP_db.txt
 
 echo Parsing $FILE
 dos2unix $FILE
@@ -27,9 +28,9 @@ BEGIN {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > WAQP_db.txt
+END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q WAQP_db.txt
-echo Created WAQP_db.txt
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
 
 exit

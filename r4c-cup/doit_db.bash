@@ -1,4 +1,10 @@
-dos2unix rda.txt
+#!/bin/bash
+OUTFILE=R4C-CUP_db.txt
+FILE=rda-cleaned.txt
+
+echo Parsing $FILE
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
@@ -23,5 +29,9 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' rda.txt | sort | sed 's/#. /# /g' > R4C-CUP_db.txt
-unix2dos R4C-CUP_db.txt
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+exit
