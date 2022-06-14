@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-06-07
+# 1-Last Edit,2022-06-14
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -387,6 +387,7 @@ AC5TU,JIM,TX,
 AC5XK,DON,DC,Washington DC
 AC6GO,ROB,CA,Sunnyvale CA
 AC6JA,MIKE,CA,
+AC6NT,ERIC,TN,Franklin TN
 AC6SL,JOHN,CA,
 AC6T,STEVE,CA,
 AC6WD,,CA,
@@ -1309,6 +1310,7 @@ K1TA,TOM,CT,
 K1TB,PAUL,MA,
 K1TC,TOM,FL,
 K1TEO,,CT,
+K1TGX,JERRY,CT,Chesire CT
 K1TH,TOM,MA,
 K1TIG,MAX,NH,
 K1TL,TOM,RI,
@@ -3228,6 +3230,7 @@ K9WMS,,IL,
 K9WO,STEVE,WI,Portae WI
 K9WPV,LARRY,IN,Goshen IN
 K9WWT,,IN,
+K9WWT,GEORGE,IN,MerrillvilleIN
 K9WX,TIM,IN,West Lafayette IN
 K9WYP,RICK,IL,
 K9WZB,GARRY,AZ,
@@ -3794,6 +3797,7 @@ KC2PJH,PETE,NY,
 KC2QJB,JOHN,NJ,
 KC2RG,,NJ,
 KC2SIZ,STEVE,NY,Brooklyn NY
+KC2SKM,BILLY,NY,Passaic NJ
 KC2SZ,JIM,NJ,
 KC2TEL,BOB,NJ,
 KC2TN,,NJ,
@@ -3837,6 +3841,7 @@ KC3QU,HANK,AL,
 KC3SDJ,ANDY,PA,ALLISON PARK PA
 KC3SLD,KYLE,PA,State College PA
 KC3T,,CT,
+KC3TAU,DALE,MD,Hampstead MD
 KC3WX,,PA,
 KC4AUF,,VA,
 KC4AXN,DAVE,VA,Herndon VA
@@ -4029,6 +4034,7 @@ KD2ST,AL,NJ,Mount Laurel NJ
 KD2TUD,Daniel,NY,Round Lake NY
 KD2WAI,MATT,NY,Schenectady NY
 KD2WFJ,ETHAN,NJ,Hamburg NJ
+KD2YMM,KASEY,NY,Amsterdam NY
 KD3TB,IRWIN,DE,
 KD4AN,DANIEL,NC,Raleigh NC
 KD4BTH,STAN,NC,Kernersville NC
@@ -5063,6 +5069,7 @@ KO4KTZ,ANTHONY,NC,Nashville NC
 KO4MR,,VA,
 KO4NX,,VA,
 KO4OL,AL,KY,
+KO4OP,RICK,VA,King William VA
 KO4PI,,VA,
 KO4PU,BOB,KY,
 KO4VW,STEVE,GA,Roswell GA
@@ -6204,6 +6211,7 @@ N4IRN,JOHN,MD,
 N4IU,PAT,FL,Gainesville FL
 N4IY,TERRY,IN,Borden IN
 N4JEH,JENNA,NC,
+N4JEH,JENNA,NC,Portable
 N4JF,JERRY,AL,
 N4JIV,,GA,
 N4JN,,TN,
@@ -8130,6 +8138,7 @@ SV9RPE,DICK,SV,Lasithi Crete
 TI2JS,JAVIER,DX,
 TI2SW,ARNIE,DX,
 TI4VAA,VICTOR,,
+UA3DEA,VAL,DX,Serghiev Posad Russia
 UN7QF,GENNA,UN,Almaty Kazakhstan 
 UR3QX,GENO,UR,Zaporizhia Ukraine
 UR5KHQ,KEN,UR,Rivne Ukraine
