@@ -2394,7 +2394,7 @@ KE6JAC,Al,2872,San Jose CA
 KE6K,John,1427,Surprise AZ
 KE6MT,Rex,CA,Campbell CA
 KE6OIO,Ann,CA,Garden Grove CA
-KE6PY,Steve,CA,Escondido CA
+KE6PY,Steve,3179,Escondido CA
 KE6YLH,Jeff,CA,Aptos CA
 KE7LOY,Brian,ID,Twin Falls ID
 KE7VE,Martin,WY,Boulder WY
@@ -5279,7 +5279,7 @@ W8RF,Mike,OH,Toledo OH
 W8RJL,Ron,VA,Virginia Beach VA
 W8RTJ,Jim,OH,Amherst OH
 W8RZ,Dan,MI,Parchment MI
-W8SH,Leo,MI,Mich. State UN. ARC
+W8SH,Sparty,MI,Mich. State UN. ARC
 W8TG,Mike,OH,Hillsboro OH
 W8TK,Tom,2129,Tucson AZ
 W8TU,Jim,MI,Plymouth MI
