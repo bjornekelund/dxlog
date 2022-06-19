@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-14
+# Last Edit,2022-06-18
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -92,7 +92,7 @@ AA3B,Bud,242,Boyertown PA
 AA3GM,Ken,PA,Aliquippa PA
 AA3J,Eric,2473,(WG3J)  Pittsville MD
 AA3NC,Steve,NY,Hancock NY
-AA3R,Fred,DE,Magnolia DE
+AA3R,Fred,3181,Magnolia DE
 AA4AK,Steve,ME,Brunswick ME
 AA4BG,Steve,OK,Tulsa OK
 AA4BI,Tim,2865,Campobello SC
@@ -1394,7 +1394,7 @@ K2D,Oak,CT,(W1RM W1QK)
 K2DB,Paul,686,Homosassa FL
 K2DIW,Seth,2051,Metairie LA
 K2DM,George,2652,The Villages FL
-K2EJ,Steve,CWA,Abingdon MD
+K2EJ,Steve,3180,Abingdon MD
 K2EK,Bill,2072,Grant FL
 K2EKM,Bill,VA,Sprinfgield VA  (Possibly QRP) 
 K2EQ,Howard,NY,Ovid NY
@@ -1778,7 +1778,7 @@ K5UR,Rick,2439,Little Rock AR
 K5UTG,Warren,OK,Shawnee OK
 K5UV,Mike,2701,Newailla OK
 K5UZ,David,1316,Little Rock AR
-K5VBA,Stan,AL,Huntsville AL
+K5VBA,Stan,3182,Huntsville AL
 K5VI,Andy,1923,(Andrew) El Paso TX
 K5VR,Stan,889,Tontitown AR
 K5VWW,Orville,TX,Houston TX
