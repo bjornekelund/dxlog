@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # Original file from Mike W1MI  2022 
-# Last Edit,2022-06-14
+# Last Edit,2022-06-19
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
 7L4IOU,1D,DX
 AA0AC,1D,MN,Spirit Valley Amateurs
@@ -471,6 +471,7 @@ AD2TM,1B,WNY,Chenango Valley ARA
 AD4AN,1D,SFL
 AD4AS,1D,SFL,Fort Myers ARC
 AD4CJ,1D,TN,Williamson County ARES
+AD4EB,1D,TN,(Jim)
 AD4ES,1D,SFL,Platinum Coast ARS
 AD4ET,1D,NC,Forsyth ARC
 AD4GX,1E,NC,Raleigh ARS
@@ -7735,6 +7736,7 @@ N4PRS,1D,NC,Pamlico ARS
 N4PSS,1A,VA,(AA4WC GOTA) Warren Co. EmComm Group
 N4PVH,1E,NC,Brightleaf ARC
 N4PWG,1D,TN,Reelfoot ARC
+N4PX,2A,TN,Hardin and McNairy ARC.
 N4PY,1D,NC,Mila's Field Day Group
 N4QEP,1D,NFL,Santa Rosa Co. ARES
 N4QET,1D,GA,Etowah Valley ARC
