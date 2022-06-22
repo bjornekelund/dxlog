@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # Original file from Mike W1MI  2022 
-# Last Edit,2022-06-19
+# Last Edit,2022-06-21
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
 7L4IOU,1D,DX
 AA0AC,1D,MN,Spirit Valley Amateurs
@@ -2400,7 +2400,7 @@ K6DWD,1E,SCV
 K6ECG,2A,LAX,(W1EH GOTA) ARESLAXNW
 K6EEE,1E,ORG,South Orange Amateur Radio Assoc.
 K6EF,1B,SCV
-K6EI,1D,EWA,West Valley ARA
+K6EI,9A,SCV,
 K6EM,1D,ORG
 K6ESS,1D,SV,Sherlock ARA
 K6EV,1D,LAX,GOTAHAMS
@@ -8978,7 +8978,7 @@ NN7ZZ,1D,UT,Utah DX Assn
 NN8B,1D,OH,Lisbon Area ARA
 NN8M,1D,OH,Dial RC of Middletown
 NN8W,1D,WV,Preston County ARC
-NN9K,2D,IL,Green River Valley ARS
+NN9K,1D,IL,Green River Valley ARS
 NNP2Q,1A,VI
 NO0L,1D,MO,Boeing Employees ARS - St. Louis
 NO1H,1D,LAX,Crescenta Valley RC
@@ -11474,7 +11474,7 @@ W5FDD,1D,NTX,Richardson Wireless Klub
 W5FHA,1E,NM,AR Caravan Club
 W5FKN,1D,NTX,West Fork ARC
 W5FM,1D,STX,Texas Emergency Amateur Communicators
-W5FMH,1D,STX,Texas DX Soc
+W5FMH,1D,STX,South Texas Remote DX Soc
 W5FOR,1D,MI,NorthEast Tarrant ARC
 W5FQ,2F,MS
 W5FQP,1D,NTX,Lake Area (TX) ARC

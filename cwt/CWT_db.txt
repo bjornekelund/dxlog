@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3183
-# Last updated 2022-06-20
+# Last updated 2022-06-22
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -354,6 +354,7 @@ AI6IE=Step;CA
 AI6O=Ed;1337
 AI6PW=Andrew;CA
 AI6V=Wyatt;2242
+AI6W=Jon;CA
 AI6XN=Amlan;CA
 AI8Z=Mike;CO
 AJ1AJ=AJ;3084
@@ -1623,7 +1624,7 @@ K4MTI=Mike;FL
 K4NA=Tom;AL
 K4NAX=Don;TN
 K4NE=Phil;2220
-K4NMR=Tom;FL
+K4NMR=Tom;2298
 K4NNK=Gary;3165
 K4NP=Don;TN
 K4OAH=Garey;VA
@@ -5171,6 +5172,7 @@ W7OLY=Aubrey;1637
 W7OM=Rod;680
 W7PAU=Paul;OR
 W7PEZ=Paul;3001
+W7PFY=Darin;UT
 W7QC=Steve;1692
 W7QM=Hank;61
 W7RF=Dan;2140
@@ -5349,7 +5351,7 @@ WA1QDX=John;CT
 WA1S=Ann;196
 WA1SKQ=Rich;342
 WA1T=Al;2359
-WA1VAB=Henry;MA
+WA1VAB=Henry;1839
 WA1WDE=John;MA
 WA1X=Bud;2427
 WA1Z=Bob;NH
@@ -5579,6 +5581,7 @@ WE0P=John;KS
 WE4AUB=John;GA
 WE5P=Bill;2372
 WE7G=Wayne;1816
+WE8L=Jason;OH
 WE8R=Bob;OH
 WF5K=Aml;LA
 WF6F=Ken;2386
@@ -5663,7 +5666,7 @@ WS8G=Rick;2308
 WS8K=Tim;MI
 WS9F=Matthew;MI
 WS9V=Skip;1651
-WT2P=CJ;IL
+WT2P=CJ;1346
 WT3C=Tom;2403
 WT3K=Daryl;2355
 WT4C=Tom;SC

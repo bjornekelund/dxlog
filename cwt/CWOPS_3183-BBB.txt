@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-19
+# Last Edit,2022-06-21
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -360,6 +360,7 @@ AI6IE,Step,CA,Alta Loma  CA
 AI6O,Ed,1337,Grain Valley MO
 AI6PW,Andrew,CA,Berkeley CA
 AI6V,Wyatt,2242,Lakewood CA
+AI6W,Jon,CA,Newcastle CA
 AI6XN,Amlan,CA,Santa Clara CA
 AI8Z,Mike,CO,Cortez CO
 AJ1AJ,AJ,3084,(Andrew)  Amherst NH
@@ -1636,7 +1637,7 @@ K4MTI,Mike,FL,Panama City FL
 K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
-K4NMR,Tom,FL,(2298)  Tampa FL
+K4NMR,Tom,2298,Tampa FL
 K4NNK,Gary,3165,Atlanta GA
 K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
@@ -5209,6 +5210,7 @@ W7OLY,Aubrey,1637,Olympia WA
 W7OM,Rod,680,Seattle WA
 W7PAU,Paul,OR,Salem OR
 W7PEZ,Paul,3001,Woodinville WA
+W7PFY,Darin,UT,Bountiful UT
 W7QC,Steve,1692,Sammamish WA
 W7QM,Hank,61,Eastside Contest Club (W6SX)
 W7RF,Dan,2140,Fort Collins CO
@@ -5388,7 +5390,7 @@ WA1QDX,John,CT,North Franklin CT
 WA1S,Ann,196,Sharpsburg GA
 WA1SKQ,Rich,342,Cranston RI
 WA1T,Al,2359,Milton NH
-WA1VAB,Henry,MA,Littleton MA
+WA1VAB,Henry,1839,Littleton MA
 WA1WDE,John,MA,Natick MA
 WA1X,Bud,2427,Medina OH
 WA1Z,Bob,NH,Windham NH
@@ -5620,6 +5622,7 @@ WE0P,John,KS,Marysville KS
 WE4AUB,John,GA,Marietta GA
 WE5P,Bill,2372,Richmond KY
 WE7G,Wayne,1816,Kingman AZ
+WE8L,Jason,OH,Fairfield OH
 WE8R,Bob,OH,Kettering OH
 WF5K,Aml,LA,Mandeville LA
 WF6F,Ken,2386,Irvine CA
@@ -5704,7 +5707,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,IL,(1346)  Aurora IL (Fred)
+WT2P,CJ,1346,Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC
