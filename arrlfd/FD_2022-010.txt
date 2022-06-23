@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # Original file from Mike W1MI  2022 
-# Last Edit,2022-06-21
+# Last Edit,2022-06-22
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
 7L4IOU,1D,DX
 AA0AC,1D,MN,Spirit Valley Amateurs
@@ -9904,6 +9904,7 @@ VE3WI,1E,ONS,Georgian Bay ARC
 VE3WMZ,1D,ONN,Algoma ARC
 VE3WPK,1D,ONS,Barrie ARC
 VE3WPZ,1D,ONE,Prescott-Russell ARC
+VE3WRL,2B,ONE,(VE3WRL-VE3KP)
 VE3WRW,1D,ONS,Lambton County RC
 VE3WVA,1D,ONN,Manitoulin ARC
 VE3WY,1D,ONS,York Region ARC

@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-21
+# Last Edit,2022-06-22
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -239,6 +239,7 @@ AD0DX,Ron,1019,Kansas City MO
 AD0IU,Rob,864,Longmont CO
 AD0IV,Kevin,NM,Farmington NM
 AD0K,Don,TX,Buda TX
+AD0L,Mike,CWA,Vista CA
 AD0LI,Jim,CO,Silt CO
 AD0RX,Brad,CO,Littleton CO
 AD0UA,Ken,MO,Saint Peters MO
@@ -262,6 +263,7 @@ AD6JV,Bill,1719,Charlottesville VA
 AD7AF,Rich,OR,Ashland OR
 AD7I,Paul,2946,Middletown NJ
 AD7KG,Jed,UT,South Jordan UT
+AD8B,John,OH,Galena OH
 AD8CW,Doug,412,Fairlawn OH
 AD8IG,Vlad,OH,(ex:KM6Z)  North Royalton OH
 AD8J,John,1395,Asheville NC  (Possibly Remote) 
@@ -580,6 +582,7 @@ DL5OAB,Ben,,Dormagen Germany
 DL5OE,Sven,DL,Essen Germany
 DL5RJ,Josef,,Straubing Germany
 DL5RMH,Martin,2779,Ergolding Germany
+DL5SBG,Rainer,,Eislingen Germany
 DL5XL,Felix,2268,Hagen im Bremischen Germany
 DL5YCI,Mic,,Loehne Germany
 DL5YL,Tina,,Furstenwalde Germany
@@ -1669,6 +1672,7 @@ K4TZ,Tom,1993,Bowling Green KY
 K4UEE,Bob,543,Marietta GA
 K4VBM,Bob,GA,Peachtree Corners GA
 K4VIZ,Tom,AR,Conway AR
+K4WA,Seve,FL,Destin FL
 K4WG,Gene,AL,Birmingham AL
 K4WJ,John,193,Trenton FL
 K4WNY,Don,TN,Millington TN
@@ -2407,14 +2411,17 @@ KE8DI,Dave,MI,Kalamazoo MI
 KE8EAS,Josh,OH,Athens OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
+KE8HXE,Brad,OH,Columbus OH
 KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
+KF0FFL,Dan,MN,Saint Paul MN
 KF1P,Bob,SC,Gaffney SC
 KF3B,Alan,2754,Alburtis PA
 KF3G,Sam,PA,Havertown PA
 KF3N,Ray,NC,Fredericksburg VA
 KF4A,Don,1666,Waycross GA
+KF4GNV,Ron,TN,Smyrna TN
 KF4HAW,Dave,3135,Columbia SC
 KF4QFJ,Jerome,VA,Suffolk VA
 KF4T,Brian,FL,Miami FL
@@ -2654,6 +2661,7 @@ KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
 KO4GBD,Aaron,FL,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
+KO4GEO,Mike,CWA,Nashville TN
 KO4LAO,Jim,CWA,Travelers Rest SC
 KO4UW,Steve,1234,
 KO4VW,Steve,3096,Roswell GA
@@ -3336,6 +3344,7 @@ N6RK,Rick,97,Galt CA
 N6RO,Ken,79,Oakley CA
 N6RSH,STEVE,NE,Gering NE
 N6TEM,Dave,CA,Mountain Center CA
+N6TH,Tim,CA,Los Gatos CA
 N6TR,Tree,83,Manning OR
 N6TT,Steve,535,Manhattan Beach CA
 N6TTV,Carl,1930,Sonoma CA
@@ -3593,7 +3602,7 @@ NG3J,Fred,PA,Honey Brook PA
 NG3P,Gwen,PA,Jeffersonville PA
 NG5E,Dave,TX,Royse City TX
 NG7A,George,2206,Rillito AZ
-NG7M,Max,1201,Syracuse UT
+NG7M,Max,UT,(1201)  Syracuse UT
 NG7W,Matt,1586,Bow WA
 NG7Z,Paul,AZ,Marana AZ
 NI0C,Chuck,431,Saint Louis MO
@@ -3659,7 +3668,7 @@ NN4RB,Rick,VA,Forest VA
 NN4SS,Larry,SC,Drayton SC
 NN5DE,Dave,3005,Mansfield TX
 NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
-NN5P,Madison,1479,(RC) Cedar Park TX
+NN5P,Mad,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
 NN6N,Joe,CA,Petaluma CA
 NN6T,Glen,781,Kingman AZ
@@ -4415,6 +4424,7 @@ VX1DT,Gerald,941,Homeville NS
 VE1DX,Paul,NS,Lake Echo NS
 VE1EJ,Joe,ON,Chester NS
 VE1EM,Jesse,NS,GranvilleFerry NS
+VE1GVY,Gordon,NS,Fall River NS
 VE1KCO,Corey,NS,Weymouth NS
 VE1MU,Mike,NS,Kentville NS
 VE1RSM,Bob,NS,Hantsport NS
@@ -4898,6 +4908,7 @@ W3RZ,Lou,1963,Deer Park TX  (Possibly QRP)
 W3SA,John,3074,NC,Indian Trail NC
 W3SD,Steve,PA,Richboro PA
 W3SFG,Steve,MD,Boonsboro MD
+W3SI,Bill,FL,Edgewater FL
 W3TB,Ted,2477,Franklin TN
 W3TMZ,Jack,FL,Lecanto FL
 W3TW,Tom,1972,Huntington Station NY
@@ -4954,6 +4965,7 @@ W4HG,Wayne,494,Salisbury NC
 W4HOZ,Read,MS,Lucedale MS
 W4HXH,Dennis,FL,Port Saint Lucie FL
 W4IF,Carl,2021,Nashville TN
+W4IFI,Randy,CWA,Hesperus CO
 W4II,John,AL,Fairhope AL
 W4IPA,CJ,TX,Allen TX
 W4IPC,Con,VA,Greenfield VA
@@ -5565,6 +5577,7 @@ WB7TJI,John,UT,Fruit Heights UT
 WB7USJ,Tom,OR,Medford OR
 WB8AKW,John,2329,Worthington OH
 WB8BZK,Mike,3006,Algonquin IL
+WB8DTT,Mike,MI,Howell MI
 WB8EJN,Tom,788,Saint Peters MO
 WB8HF,Bill,1605,Adrian MI
 WB8JAY,Dan,2559,New Philadelphia OH
@@ -5607,6 +5620,7 @@ WD4FMG,Lauren,VA,Midlothian VA
 WD4LZC,Stu,KY,Louisville KY
 WD5BZN,Dave,TX,Bellaire TX
 WD5DBV,Roy,290,Cade LA
+WD4HCK,Russ,CWA,Ardmore OK
 WD5RS,Russ,TX,Milford TX
 WD6T,Dave,2079,Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
@@ -5819,6 +5833,7 @@ ZF2ET,Stan,272,(K5GO)
 ZF2IN,Tim,1942,(N6WIN)
 ZF2LZ,Martin,MA,Waban MA
 ZF2NE,Joe,,Cayman Isl.
+ZF2RX,Bray,3158,(KC1KUG)
 ZF2SC,Scott,1698,Cayman Isl. (KA9P)
 ZF2VE,Gerry,191,(W1VE)  Cayman Isl.
 ZF9CW,Stan,272,(K5GO) Siloam Springs Cayman Islands
