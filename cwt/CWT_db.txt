@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3183
-# Last updated 2022-06-23
+# Contains members up to #3191
+# Last updated 2022-06-25
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -356,7 +356,7 @@ AI6IE=Step;CA
 AI6O=Ed;1337
 AI6PW=Andrew;CA
 AI6V=Wyatt;2242
-AI6W=Jon;CA
+AI6W=Jon;3184
 AI6XN=Amlan;CA
 AI8Z=Mike;CO
 AJ1AJ=AJ;3084
@@ -2325,7 +2325,7 @@ KD4UYP=Brian;GA
 KD5BKW=Abdul;LA
 KD5DD=Doc;MS
 KD5J=Cord;2491
-KD7GOM=PAT;CWA
+KD7GOM=PAT;3189
 KD7HU=Charlie;3090
 KD7KDO=Paul;CWA
 KD7UI=John;1363
@@ -2588,7 +2588,7 @@ KL2ZZ=James;AK
 KL3W=Tom;1461
 KL7/K3GHH=John;1212
 KL7IXW=Ward;2457
-KL7QT=Duncan;AK
+KL7QT=Ed;3190
 KL7SB=Steve;1268
 KL7W=Tom;1461
 KL9A=Chris;1576
@@ -3275,7 +3275,7 @@ N5YT=Guy;MS
 N5YZ=Bill;TX
 N5ZC=Rich;2153
 N5ZO=Mark;1224
-N6ARA=Ara;CA
+N6ARA=Ara;3185
 N6BT=Tom;281
 N6BV=Dean;CA
 N6CK=Greg;643
@@ -5095,7 +5095,7 @@ W6BRY=Brian;3038
 W6BUX=Bux;2603
 W6CL=Carol;OK
 W6CYX=Bob;47
-W6DER=Derek;CA
+W6DER=Derek;3186
 W6DR=Dave;CA
 W6EU=Jim;317
 W6GJB=Glen;CA
@@ -5184,7 +5184,7 @@ W7OLY=Aubrey;1637
 W7OM=Rod;680
 W7PAU=Paul;OR
 W7PEZ=Paul;3001
-W7PFY=Darin;UT
+W7PFY=Darin;3187
 W7QC=Steve;1692
 W7QM=Hank;61
 W7RF=Dan;2140
@@ -5674,6 +5674,7 @@ WS4P=Al;SC
 WS5C=Ham;2760
 WS5D=Jack;3017
 WS6X=Jim;VA
+WS7DA=Mike;3191
 WS7L=Carl;2557
 WS7M=Mark;2069
 WS8G=Rick;2308

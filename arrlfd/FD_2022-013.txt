@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # Original file from Mike W1MI  2022 
-# Last Edit,2022-06-22
+# Last Edit,2022-06-24
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
 7L4IOU,1D,DX
 AA0AC,1D,MN,Spirit Valley Amateurs
@@ -7920,6 +7920,7 @@ N5OFW,1E,NTX
 N5OHL,1C,OK,OCAPA
 N5OP,1D,OK,South Canadian ARS
 N5OS,2F,MS,Jackson Co ARA
+N5OT,1D,OK,(Mark)
 N5PA,1D,MS
 N5PBP,1D,STX,South Texas DX and Contest Club
 N5PC,3A,OK,Kay Co. ARC
@@ -9551,6 +9552,7 @@ VE2FAB,1D,QC,Union Metropolitaine des Sans-filistes de Montreal
 VE2FCR,1D,QC,West Island ARC
 VE2FD,1D,QC
 VE2FGL,1D,QC,Covey Hill ARC
+VE2FK,1D,QC,Gaspesia
 VE2FTX,2B,QC,Club de Radio Amateur Outaouais
 VE2FU,1D,QC,Anonymous Contest Group
 VE2GAT,1E,QC,Club Radio Amateur de Quebec
@@ -11554,6 +11556,7 @@ W5NGU,4A,NTX,Denton Co. ARA
 W5NN,2D,STX,Team Cramp /MXG Designs Radio Geeks
 W5NOR,3F,OK,South Canadian ARS
 W5NRF,1D,NTX,Nacogdoches ARC
+W5NS,2A,OK,Bartlesville ARC
 W5NWT,1D,NTX,Long Island CW Club
 W5NZ,1B,AL,Montgomery ARC
 W5OBT,1D,AZ,Cochise ARA
@@ -11652,6 +11655,7 @@ W6AJF,3A,SF,Valley of the Moon ARC
 W6AJR,1D,SCV,Monkey Lover's Radio Consortium
 W6AOY,1D,SF
 W6APZ,1C,SCV,Palo Alto ARA 
+W6AQ,1D,OK,Dave Bell Memorial Radio Club
 W6ARA,4A,SCV,Palo Alto AR
 W6ATB,1D,ORG,Orange County (CA) ARC
 W6BA,5A,ORG,Morongo Basin ARC
