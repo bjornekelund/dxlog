@@ -1,7 +1,9 @@
 #!/bin/bash
 FOLDER=zipfiles
 ZIPFILE=$FOLDER/itu.zip
-TMPFILE=.iaruhq
+DBFILE=$FOLDER/iaruhq.txt
+
+XDTFILE=iaru2022.xdt
 OUTFILE=iaruhq.txt
 
 mkdir -p $FOLDER
@@ -14,9 +16,7 @@ echo Unzipping $ZIPFILE
 
 unzip -o $ZIPFILE -d $FOLDER 
 
-cp $FOLDER/$OUTFILE $TMPFILE
-
-dos2unix -q $TMPFILE
+dos2unix -q $FOLDER/$OUTFILE
 
 gawk '
 BEGIN {
@@ -26,9 +26,11 @@ BEGIN {
 }
 {
   printf("%s\n", $0);
-}' $TMPFILE > $OUTFILE
+}' $FOLDER/$OUTFILE > $OUTFILE
 
 unix2dos -q $OUTFILE
-echo Created $OUTFILE
+cp $FOLDER/$XDTFILE .
+
+echo Created $OUTFILE $XDTFILE
 
 exit

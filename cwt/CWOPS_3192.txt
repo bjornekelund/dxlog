@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-24
+# Last Edit,2022-06-25
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -4791,6 +4791,7 @@ W1VE,Gerry,191,Nelson NH (Could be QRP)
 W1VEM,Dave,CT,Bolton CT
 W1VKE,Vin,3079,Orleans MA
 W1WBB,Bill,2207,Portsmouth RI (NA031)
+W1WD,Jon,3192,Nashville TN
 W1WEF,Jack,48,Glastonbury CT
 W1XT,Bob,AZ,Sun City West AZ
 W1ZF,Skip,MA,Needham MA
