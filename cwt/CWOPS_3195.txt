@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-27
+# Last Edit,2022-06-28
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1064,6 +1064,7 @@ IK1PML,Otto,,(Ottavio)  Borgone Di Susa Italy
 IK1RGK,Aldo,,Novara Italy
 IK1WNO,Enrico,2525,Genova Italy
 IK1YRA,Carl,2866,Torino Italy
+IK2AOO,Claudio,,Zogno BG Italy
 IK2QEI,Nel,,Timis Romania
 IK2SAT,Mauro,,Nizzollina Italy
 IK2SGB,Abele,,Asola Italy
@@ -5527,6 +5528,7 @@ WB2HNP,Bob,FL,Longwood FL
 WB2IKL,Mark,NY,Liverpool NY
 WB2JKL,Ron,NY,Amherst NY
 WB2JNA,Jeff,MD,Cockeysville MD
+WB2JPH,Dave,3195,Bridgewater NJ
 WB2KAO,Tim,2188,Rochester NY
 WB2KSP,Dave,NY,Nanuet NY
 WB2KWC,Ken,NY,Massapequa NY
