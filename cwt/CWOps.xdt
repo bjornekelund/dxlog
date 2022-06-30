@@ -300,7 +300,7 @@ EA1DP Jose #2503 Cantabria Spain
 EA1WX Juanjo #714 Aviles Spain
 EA1X Juan #2562 La coruna Spain
 EA2AJB Andres #1048 Alcaniz Turuel Spain
-EA2KV Jose #2845 Zaragoza Spain
+EA2KV JC #2845 (Jose) Zaragoza Spain
 EA3FZT Francis #2560 Cubelles Spain
 EA3HSO Al #2132 Barcelona Spain
 EA4BB Nando #2981 Masdrid Spain
@@ -334,10 +334,12 @@ EI5EM Tony #3160 Baile Atha Cliath Ireland
 EI5LA Megan #3163 Kerry Ireland
 EI6FR Declan #2811 Dublin Ireland
 EI6KT John #2965 DublinIreland
+EI6LA Rafal #3194 Wicklow Ireland
 ER/UW7LL Yarik #2229 
 EY8MM Nodir #815 Dushanbe Tajikistan
 F5IYJ Phil #1842 Longeault France (Possibly QRP) 
 F5MNK LO #1291 St-Gervais France
+F5NZY Steph #1528 Paris France
 F5PBL Claude #2326 Villeparisis France
 F5PLC Mike #2370 Evette-Salbert France
 F5SGI Jean #2532 Prcues France
@@ -358,6 +360,7 @@ G0DJA/P Dave #266 Portable with a KX3
 G0ELZ Bill #239 Liverpool England
 G0JPS Kit #2080 (Chris) Bristol England
 G0LLX Andy #2954 Blackpool England
+G0MFR Gareth #2490 Dorset England
 G0MGM Rob #1771 Bourne End England
 G0OOD Tim #2941 Norwich England
 G0OOR Tony #2971 Norfold England
@@ -430,6 +433,7 @@ GM3JOB Rod #2204 Irvine Scotland
 GM3WOJ Chris #2436 (GM2V) Near Inverness Scotland
 GM3WUX Terry #2826 Glasgow Scotland
 GM4JPZ Colin #2537 Dundee Scottland
+GM4PVM Paul #2413 Essex England
 GQ3WZD Mac #1979 (Duncan) 
 GU4CHY Dick #1543 Channel Islands Guernsey
 GW0ETF Stew #919 Bangor Wales (CWops President)
@@ -1059,6 +1063,7 @@ K9VV Fubar #524 Christiansted VI (Virgin Is)
 K9WO Steve #2992 Portage WI
 K9WX Tim #1462 West Lafayette IN 
 K9WX/M Tim #1462 Somewhere mobile
+K9XE Will #3196 Carlock IL
 K9XW John #2807 Elgin IL
 K9YC Jim #69 Santa Cruz CA
 K9ZO Al #1761 (Ralph) Stanford IL
@@ -1104,6 +1109,7 @@ KC0URL Ray #1872 Plymouth MN
 KC0VKN Joe #635 Iowa City IA
 KC1KUG Bray #3158 Farmington NH
 KC1LZX Rob #2417 Worcester MA
+KC2KWA Bob #3198 Angier NC
 KC2LM Ed #2334 Albuquerque NM
 KC2LSD Cody #2627 Leonardo NJ
 KC3FQF Rosti #2783 CT
@@ -1187,6 +1193,7 @@ KG5HVO Bryant #1795 New Orleans LA
 KG5IEE Randal #2733 Marshall TX
 KG5OWB Terry #2683 Universal City TX
 KG5RXG Mike #2643 Austin TX
+KG5SSB Dan #3201 Tupelo MS
 KG5U Dale #1241 Houston TX
 KG5VK Steve #1806 near Ben Franklin TX
 KG6IIP Paco #1313 Grants Pass OR
@@ -1286,6 +1293,7 @@ KN7A Terry #3063 Corvallis OR
 KN7T Mark #2274 Snohomish WA
 KN8U Bruce #2297 Atlanta GA
 KO4AXD Brian #2745 Suffolk VA
+KO4LAO Jim #3200 Travelers Rest SC
 KO4UW Steve #1234 
 KO4VW Steve #3096 Roswell GA
 KO8SCA Ady #2408 (Adrian) Bayside NY
@@ -1494,6 +1502,7 @@ N3AD/0 Alan #727
 N3AM John #6 Silver Spring MD
 N3AO Carter #719 Blacksburg VA
 N3BB Jim #70 Austin TX
+N3BQ Jack #3199 Dover PA
 N3CI Dave #2010 Choctaw OK
 N3CKI Dave #3012 Calabash NC
 N3CW Ed #1509 Palm Coast FL
@@ -1760,6 +1769,7 @@ ND9M Jim #389 Panama City Beach FL
 ND9M/7 Jim #389 
 NE0DA Jim #2272 Pueblo West CO
 NE2V Justin #2810 Towaco NJ
+NE4EA Al #3197 Surfside Beach SC
 NE4EI Dave #2856 Dunwoody GA
 NE5A George #3033 Guthrie OK
 NE5DL Dave #3005 Mansfield TX
@@ -1782,6 +1792,7 @@ NG2H Ken #1477 Palmyra VA
 NG2J Jim #2869 Canton GA
 NG3A Chas #2133 (AA4LS) RC
 NG7A George #2206 Rillito AZ
+NG7M Max #1201 Syracuse UT
 NG7W Matt #1586 Bow WA
 NI0C Chuck #431 Saint Louis MO
 NI0R Roger #400 St. Joseph MO
@@ -2151,7 +2162,7 @@ VE2AEJ Alan #336 Quebec
 VE2AEJ/3 Alan #336 
 VE2BWL Guy #859 Magog QC
 VE2FD Steve #2607 Deux-Montagnes QC
-VE2FK Dub #1181 Gaspesia QC
+VE2FK Dub #1181 Will be at Key of VX2I for IOTA NA128
 VE2FK/M Dub #1181 
 VE2HB Dub #1181 Matane QC (also VE2FK) FN68
 VE2IM Yuri #21 Sept-Iles QC zone 2 (also VE3DZ)
@@ -2231,7 +2242,6 @@ VE9AA Mike #1347 Withheld NB
 VE9AA/M Mike #1347 NB (From his Mini Cooper)
 VE9VIC Vic #2482 (Rino) Kedgwick NB
 VE9XDX Gerry #191 (W1VE)
-VG1RST Roger #2049 Halifax NS
 VG2EBI George #9 Ham-Sud QC (also W1EBI)
 VG3PM Pierre #1617 Brampton ON
 VK2BJ Barry #294 St-Ives (Director)
@@ -2261,29 +2271,8 @@ VP9UKR YURI #21 VE3DZ BERMUDA
 VQ9JC Jim #389 Panama City Beach FL USA
 VQ9LA Larry #644 Grandview MO USA
 VU2PTT Prasad #615 BAngalore India
-VX1DT Gerald #941 Homeville NS
-VX3CX Tom #1399 Kaministiquia ON
-VX3EJ John #513 Grasie ON
-VX3FP Adam #2323 (ex: VE3IZS) Eimwood ON
-VX3GFN Mike #1119 Scarborough ON
 VX3KI Rich #783 Richmond ON (ECA Amb./CWT Mgr.)
-VX3KP Ken #1246 Peterborough ON
-VX3MGY Brian #1285 Sparta ON
-VX3MV Doug #1642 East York ON
-VX3NNT Les #1701 Mississauga ON (Possibly Remote) 
-VX3OMV Maria #3059 Oakville ON
 VX3TM Vlad #2543 Ottawa ON
-VX3TW Stan #1563 Scarborough ON
-VX3UTT Art #2647 (W1AJT) Toronto ON
-VX4EA Cary #1828 Winnipeg MB
-VX4XT Kellu #2795 Winnipeg MB
-VX5MX Todd #2540 Weyburn SK
-VX6RST Max #3068 Leduc AB
-VX7CC Lee #139 Maple Ridge BC
-VX7FO Jim #1368 Vancouver BC
-VX7XT Rich #2831 Victoria BC
-VX9AA Mike #1347 Withheld NB
-VXE5UF Doug #137 Saskatoon Sask.
 W0AAE Bob #2947 Maple MN
 W0AD Paul #1977 Elden Prairie MN
 W0AG Mike #1317 Crossville TN
