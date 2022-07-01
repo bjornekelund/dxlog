@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3201
-# Last updated 2022-06-30
+# Contains members up to #3207
+# Last updated 2022-07-01
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -125,7 +125,7 @@ AA6VX=Rich;CA
 AA6W=Don;2311
 AA6X=BRIAN;AZ
 AA6XA=Jeff;2118
-AA7AZ=Jim;OR
+AA7AZ=Jim;3205
 AA7CT=Bob;OR
 AA7FV=Darrel;1578
 AA7OA=Dan;OR
@@ -842,6 +842,7 @@ G3TXF=Nigel;166
 G3UNA=David;509
 G3USA=Colin;G
 G3VDB=Jim;G
+G3VNH=Peter;3207
 G3WAB=Phile;G
 G3WCY=Brian;G
 G3WGN=Dave;482
@@ -2238,6 +2239,7 @@ KC0VKN=Joe;635
 KC0WHR=Gary;MO
 KC1AID=Len;MA
 KC1APK=Dave;VT
+KC1BMD=Norm;ME
 KC1CRS=Anne;MA
 KC1DLY=Matt;CT
 KC1KUG=Bray;3158
@@ -2564,6 +2566,7 @@ KK5RX=Rick;GA
 KK5T=Billy;AR
 KK6AFK=Chris;CA
 KK6CHF=Jeff;CA
+KK6CN=Kat;3188
 KK6GHA=Ken;1604
 KK6GHR=Dave;CA
 KK6I=Ron;2135
@@ -2804,6 +2807,7 @@ LU3MAM=Osvaldo;LU
 LU5DX=Martin;2986
 LX/DJ1YFK=Fabian;1566
 LY2AX=Arunas;LY
+LY2CO=Rimas;LY
 LY5A=Jonas;1459
 LY5G=Vitas;1518
 LY6A=Rim;LY
@@ -2843,6 +2847,7 @@ M0HDF=Angel;2862
 M0IBC=David;G
 M0IHT=Harry;560
 M0JWB=Jim;G
+M0KTZ=Enzo;3206
 M0MUI=Mui;2855
 M0NGN=Nige;2459
 M0NPT=Abdel;2344
@@ -2852,7 +2857,7 @@ M0RYB=Peter;2061
 M0SHM=Steve;G
 M0TJU=Evan;G
 M0TZX=Ed;2462
-M0WDD=David;G
+M0WDD=David;3204
 M0XUU=Pan;2895
 M1X=Steve;2451
 M2D=Phil;1583
@@ -3143,6 +3148,7 @@ N4IR=Jim;TN
 N4IRN=John;268
 N4IU=Pat;3027
 N4IY=Terry;2250
+N4JEH=Jenna;3203
 N4JGD=David;NC
 N4KD=David;GA
 N4KH=Jim;2409
@@ -4228,6 +4234,7 @@ SV2/N5ZO=Marco;1224
 SV2BBK=Theo;1976
 SV2BXA=Alex;2400
 SV2KF=George;SV
+SV2SKD=Panos;SV
 SV4/SV1DAY=Manos;SV
 SV5BYR=Mike;SV5
 SV8PMM=Panos;SV

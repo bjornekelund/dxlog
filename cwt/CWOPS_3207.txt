@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-29
+# Last Edit,2022-06-30
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -131,7 +131,7 @@ AA6VX,Rich,CA,Orcutt CA
 AA6W,Don,2311,Saratoga CA
 AA6X,BRIAN,AZ,
 AA6XA,Jeff,2118,Santa Clara CA
-AA7AZ,Jim,OR,Hermiston OR
+AA7AZ,Jim,3205,Hermiston OR
 AA7CT,Bob,OR,Seaside OR
 AA7FV,Darrel,1578,Tucson AZ
 AA7OA,Dan,OR,Astoria AZ
@@ -848,6 +848,7 @@ G3TXF,Nigel,166,Surrey England
 G3UNA,David,509,Knaresborough England
 G3USA,Colin,,Alcester Germany
 G3VDB,Jim,,Macclesfield England
+G3VNH,Peter,3207,Chesterfield England
 G3WAB,Phile,,Norfolk England
 G3WCY,Brian,,Hampshire England
 G3WGN,Dave,482,Okehampton England
@@ -2253,6 +2254,7 @@ KC0VKN,Joe,635,Iowa City IA
 KC0WHR,Gary,MO,Strafford MO
 KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
+KC1BMD,Norm,ME,Kittery Point ME
 KC1CRS,Anne,MA,Greenfield MA
 KC1DLY,Matt,CT,Southington CT
 KC1KUG,Bray,3158,Farmington NH
@@ -2581,6 +2583,7 @@ KK5RX,Rick,GA,Brunswick GA
 KK5T,Billy,AR,Mayflower AR
 KK6AFK,Chris,CA,Milpitas CA
 KK6CHF,Jeff,CA,Mission Viejo CA
+KK6CN,Kat,3188,Beaverton OR
 KK6GHA,Ken,1604,Vista CA
 KK6GHR,Dave,CA,Oakland CA
 KK6I,Ron,2135,Escondido CA
@@ -2829,6 +2832,7 @@ LU3MAM,Osvaldo,,(L33M) Mendoza Argenetina
 LU5DX,Martin,2986,Lujan Argentina
 LX/DJ1YFK,Fabian,1566,
 LY2AX,Arunas,,Kaunas Lithuania
+LY2CO,Rimas,,Mazeikiai Lithuania
 LY5A,Jonas,1459,Siauliai Lithuania
 LY5G,Vitas,1518,Vilnius Lithuania (Mostly QRP)
 LY6A,Rim,LY,Uzusaliai Lithuania
@@ -2868,6 +2872,7 @@ M0HDF,Angel,2862,(M8A)  Birmingham England
 M0IBC,David,,West Midlands England
 M0IHT,Harry,560,(M3X) Exeter England
 M0JWB,Jim,,Bistol England
+M0KTZ,Enzo,3206,London England
 M0MUI,Mui,2855,Norwich England
 M0NGN,Nige,2459,(Nigel) Durham England
 M0NPT,Abdel,2344,(7X2TT) Nottingham England
@@ -2877,7 +2882,7 @@ M0RYB,Peter,2061,Norwich England
 M0SHM,Steve,,Lancs England
 M0TJU,Evan,,Stockport England
 M0TZX,Ed,2462,Leicestershire England
-M0WDD,David,,Manchester England
+M0WDD,David,3204,Manchester England
 M0XUU,Pan,2895,Reading England
 M1X,Steve,2451,(G0CKP)  Kent England
 M2D,Phil,1583,(G4NVR)  Northumberland England
@@ -3169,6 +3174,7 @@ N4IR,Jim,TN,Kingsport TN
 N4IRN,John,268,Glenwood MD
 N4IU,Pat,3027,Gainsville FL
 N4IY,Terry,2250,Borden IN
+N4JEH,Jenna,3203,Ringgold FA
 N4JGD,David,NC,Kinston NC
 N4KD,David,GA,Duluth GA
 N4KH,Jim,2409,Huntsville AL
@@ -4256,6 +4262,7 @@ SV2/N5ZO,Marco,1224,at J42L
 SV2BBK,Theo,1976,(Fanis) Thessaloniki Greece (Director)
 SV2BXA,Alex,2400,Thessaloniki Greece
 SV2KF,George,,Hellas Greece
+SV2SKD,Panos,,Palio Keramidi Greece
 SV4/SV1DAY,Manos,SV,
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
