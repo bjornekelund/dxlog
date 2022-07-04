@@ -3,7 +3,7 @@
 # IARU
 # WRTC
 # IARU WRTC HF contest
-# Generated 2022-06-25 19:51:15 UTC
+# Generated 2022-07-02 18:55:03 UTC
 # Send updates to Joe, OZ0J, contest@oz0j.dk
 3V8CB,ARAT,
 4K7Z,FRS,
@@ -75,7 +75,6 @@ HS1FVL,R3,
 HU0YS,CRAS,
 IO1HQ,ARI,
 IO2HQ,ARI,
-IO4HQ,ARI,
 IO5HQ,ARI,
 IO6HQ,ARI,
 IO8HQ,ARI,

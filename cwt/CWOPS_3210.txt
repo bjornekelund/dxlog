@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-06-30
+# Last Edit,2022-07-03
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -801,6 +801,7 @@ G0DJA/P,Dave,266,Portable with a KX3
 G0EFO,Mike,,Buildford England
 G0ELZ,Bill,239,Liverpool England
 G0EML,Ray,,Shrewsbury England
+G0HFL,Nick,3209,Branston Staffordshire England
 G0HKC,Keith,G,Salisbury England
 G0IBN,Andy,,Tollesbury Maldon England
 G0JPS,Kit,2080,(Chris)  Bristol England
@@ -1439,7 +1440,6 @@ K2PO,Bill,OR,Portland OR
 K2PS,Pete,FL,The Villages FL
 K2QB,Jim,935,Niagara Falls NY
 K2QBN,Evan,2611,Holiday FL
-K2QMF,Ted,105,Baiting Hollow NY
 K2QO,Mark,NY,Clarence NY
 K2RB,Rick,NY,Trumbull CT
 K2RD,Ira,63,Reno NV
@@ -1897,6 +1897,7 @@ K7BTW,Rich,2313,Rainer WA
 K7BV,Dennis,NC,Turkey NC
 K7CNT,Rick,2565,Kingman AZ
 K7CO,Jon,UT,Kaysville UT
+K7DRQ,Quentin,3210,Tacoma WA
 K7EK,Gary,997,Spanaway WA
 K7ENA,Ed,OR,Gresham OR
 K7ENH,Jerry,2960,Yuma AZ
@@ -2796,7 +2797,7 @@ KY0Q,Rick,2703,Hoffman Estates IL
 KY2D,Jim,2096,Morristown NJ
 KY4F,Doug,847,Athens AL
 KY4FH,Jim,NC,Lumberton NC
-KY4GS,Amanda,SC,Sycamore SC
+KY4GS,Amanda,3208,Sycamore SC
 KY4GW,Joe,KY,Lawrenceburg KY
 KY4ID,Mike,SC,Trenton SC
 KY7K,Steve,AZ,Tucson AZ

@@ -1,4 +1,4 @@
-# Updated up to FOC #2190 - K4BSK. Updates to fabian@fkurz.net.
+# Updated up to FOC #2191 - GQ5VZ. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 3B8XF=Nigel;1266
 3C5XA=Alan;1500
@@ -343,6 +343,7 @@ G5BTU=Frank;1150
 G5DPG=Pete;1159
 G5LP=Lionel;1757
 G5U=Dave;1538
+G5VZ=Chris;2191
 G5W=Don;2006
 G6AY=Jim;1225
 G6M=Vic;1984
@@ -454,6 +455,7 @@ GQ4SIE=Rik;1503
 GQ4SPY=Arnold;1587
 GQ4WQI=Dean;2107
 GQ4YOX=Bob;2014
+GQ5VZ=Chris;2191
 GQ7VJR=Mike;1992
 GQ8DX=Jack;2067
 GR150NIB=Terry;1189

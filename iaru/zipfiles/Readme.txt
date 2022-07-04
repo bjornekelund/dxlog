@@ -2,9 +2,9 @@ How to Use the HQ Station Pre-fill Files in the IARU Contest
 
 Send HQ callsign updates/corrections to Joe, OZ0J, contest@oz0j.dk
 
-Latest addition (test call):  E7HQ BA
+Latest addition (test call):  IO4HQ ARI
 
-Last updated:  25 June 2022 19:50 UTC
+Last updated:   2 July 2022 18:54 UTC
 
 Data files included in this Zip:
 
@@ -23,14 +23,14 @@ N1MM and N1MM+:
 3. N1MM+:  Select iaru_n1mm_plus.txt
    N1MM:   Select iaru.txt
 4. From the menu, select Configure | Call History Lookup
-5. Enter E7HQ and the logger should prefill BA as the exchange
+5. Enter IO4HQ and the logger should prefill ARI as the exchange
 
 Writelog (TNX W5XD):
 
 1. Extract iaru2022.adi from the ITU.zip file
 2. From the Writelog menu, select Tools | Preset Exchange from ADI file
 3. Select the iaru2022.adi file
-4. Enter E7HQ and Writelog should prefill BA as the exchange
+4. Enter IO4HQ and Writelog should prefill ARI as the exchange
 
 Win-Test:
 
@@ -42,8 +42,8 @@ Win-Test:
 4. Press Alt-X to view the "Extra information" window
    Right click on the window, select "Extra data files..."
    Click [Add...], select iaru2022.xdt, click OK
-5. Enter E7HQ and Win-Test should prefill BA as the exchange
-   "BA" should also appear in the Extra Information window
+5. Enter IO4HQ and Win-Test should prefill ARI as the exchange
+   "ARI" should also appear in the Extra Information window
 
 DXLog.net (TNX W9PA, SM7IUN):
 
@@ -54,25 +54,25 @@ DXLog.net (TNX W9PA, SM7IUN):
     Right-click on the window and select "Extra data files"
     Click the Add button, browse to the above selected location, select iaru2022
 .xdt, and click OK.
-5. Enter E7HQ and DXLog should prefill BA as the exchange
-   "BA" should also appear in the Extra information window
+5. Enter IO4HQ and DXLog should prefill ARI as the exchange
+   "ARI" should also appear in the Extra information window
 
 TR4W (TNX N4TZ):
 
 1. Extract INITIAL.EX to TR4W root directory (same location as CTY.DAT file and TRMASTER.DTA)
-2. Enter E7HQ and TR4W should prefill BA as the exchange
+2. Enter IO4HQ and TR4W should prefill ARI as the exchange
 
 SkookumLogger (TNX K1GQ):
 
 1. Choose File > Update IARU HQ Call History
 2. Select the IARU.TXT file in the file chooser
-3. Check that E7HQ prefills HQ code BA
+3. Check that IO4HQ prefills HQ code ARI
 
 UcxLog (TNX OZ1BII):
  
 1. Extract iaru.txt to C:\UcxLog\MEMBER\
 2. Remember to delete old IARU files in C:\UcxLog\MEMBER\
-3. Enter E7HQ and the logger should prefill BA as the exchange in the Membership window
+3. Enter IO4HQ and the logger should prefill ARI as the exchange in the Membership window
 
 73,
 Bob, N6TV
