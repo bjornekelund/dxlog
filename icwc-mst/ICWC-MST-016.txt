@@ -2,8 +2,26 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-06-27
+# Last Edit,2022-07-04
 # New contest 20-25 WPM
+
+KC8YEJ,TYE,
+VE3NKL,NICK,
+KEYEA,SAVE,
+AA5NB,JOHN,
+W0BET,DARREL,
+W3PD,JOHN,
+K2MN,STEVE,
+KF6E,FRANK,
+WA2C,JOHN,
+W2WP,MARK,
+KC1OPD,JOS,
+NZ1D,BILL,
+KB3LNP,ROY,
+KE4Q,FRED,
+VA3KRJ,ROBERT,
+KQ9L,RICH,
+
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
