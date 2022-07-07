@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-07-05
+# Last Edit,2022-07-06
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2309,6 +2309,7 @@ KC9RXI,Tom,WI,West Salem WI
 KC9SS,Pete,WI,Greenfield WI
 KC9TCP,Steven,IL,East Peoria IL
 KC9TTR,Ken,IN,Washington IN
+KC9WIB,Mark,IL,Chicago IL
 KC9YL,Anne,3070,Francis Creek WI
 KD0NPM,Rich,2295,Niskayuna NY
 KD0PQU,Romy,CO,Grand Junction CO
@@ -2768,6 +2769,7 @@ KW0J,Gary,3066,Bettendorf IA
 KW1C,Marty,ME,Fort Kent ME
 KW1L,Paul,MI,Ann Arbor MI
 KW1U,Marcia,706,Concord MA
+KW2A,Phil,MD,Severna Park MD
 KW4AU,Kyle,AL,Pleasant AL
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL
@@ -5516,11 +5518,10 @@ WB2HNP,Bob,FL,Longwood FL
 WB2IKL,Mark,NY,Liverpool NY
 WB2JKL,Ron,NY,Amherst NY
 WB2JNA,Jeff,MD,Cockeysville MD
-WB2JPH,Dave,3195,Bridgewater NJ
 WB2KAO,Tim,2188,Rochester NY
 WB2KSP,Dave,NY,Nanuet NY
 WB2KWC,Ken,NY,Massapequa NY
-WB2PJH,Dave,NJ,
+WB2PJH,Dave,3195,Bridgewater NJ
 WB2SMK,Mark,NY,Niskayuka NY
 WB2SXY,Bill,NY,Pittsford NY
 WB2TQC,John,NY,Hudson NY
