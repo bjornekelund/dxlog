@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-07-07
+# Last Edit,2022-07-13
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -772,6 +772,7 @@ F6AXX,Norbert,2428,La Seyne sur Mer France
 F6BCW,Didier,2818,Genouilly France
 F6BUL,Lo,,Annecy France
 F6CEL,Ghis,1876,Pignicourt France
+F8DGY,Chris,3213,Boissise le Roi France
 F6ENO,Alain,F,Rilly La Montagne France
 F6FNL,Pedro,,Presov Slovak Republic
 F6FTI,Pierre,,Bethencourt France
@@ -2256,7 +2257,7 @@ KC0VKN,Joe,635,Iowa City IA
 KC0WHR,Gary,MO,Strafford MO
 KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
-KC1BMD,Norm,ME,Kittery Point ME
+KC1BMD,Norm,3214,Kittery Point ME
 KC1CRS,Anne,MA,Greenfield MA
 KC1DLY,Matt,CT,Southington CT
 KC1KUG,Bray,3158,Farmington NH
@@ -2674,11 +2675,12 @@ KO4GBD,Aaron,FL,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
 KO4GEO,Mike,CWA,Nashville TN
 KO4LAO,Jim,3200,Travelers Rest SC
+KO4UHE,Rick,KY,Danville KY
 KO4UW,Steve,1234,
 KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
 KO6U,Nathan,CA,Corona CA
-KO8SCA,Ady,2408,(Adrian)  Bayside NY
+KO8SCA,AC,2408,(Adrian)  Bayside NY
 KP2/K3CT,John,466,
 KP2M,Phil,,Christiansted VI
 KP2Q,John,466,(K3CT)  St-Croix
@@ -2825,6 +2827,7 @@ LA7GIA,Ken,LA,Hagan Norway
 LA7RRA,Piotr,3140,Loten Norway
 LA7XIA,Morten,,Kopervik Norway
 LA8OM,Chris,1848,Hafrsfjord Norway
+LB8B,Olaf,,DX
 LB1GB,Bjorn,992,Oslo Norway
 LB2TB,Lars,,(2842) Tranby Norway
 LB3RE,Rag,933,Broabakken Norway
@@ -3363,10 +3366,9 @@ N6TEM,Dave,CA,Mountain Center CA
 N6TH,Tim,CA,Los Gatos CA
 N6TR,Tree,83,Manning OR
 N6TT,Steve,535,Manhattan Beach CA
-N6TTV,Carl,1930,Sonoma CA
 N6TU,Bruce,CA,San Jose CA
 N6TV,Bob,CA,San Jose CA
-N6TVN,Carl,1930,Sonoma CA
+N6TTV,CJ,1930,(Carl)  Sonoma CA
 N6UG,Ray,CA,Rocklin CA
 N6VF,Rodger,OH,(Bandit)  Huber Heights OH
 N6VOH,Barry,1248,Gardena CA
@@ -4246,6 +4248,7 @@ SP9FOW,Roman,,Swierklany Poland
 SP9OGP,Piotr,3147,(SP7N)  Poland
 SP9R,Jan,,Krakow Poland
 SP9RXP,Peter,,Niedzica Poland
+SQ1WO,Wojtek,,Szczecin Poland
 SQ5VCO,Adam,2781,Chrzczanka-Folwark Poland
 SQ5WAJ,Jacek,,Plock Poland
 SQ6GIT,Konrad,2045,Pisarzowice Poland
@@ -4455,7 +4458,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Will be at Key of  VX2I  for  IOTA  NA128
+VE2FK,Dub,1181,I will be the CW op. at  VX2I  NA128  in  IOTA 
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -4724,6 +4727,7 @@ W0VX,Dave,967,Garland TX
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
 W0ZP,Wayne,IN,South Bend IN
+W1AL,Scott,FL,Cape Coral FL
 W1AAX,Harry,MA,Scituate MA
 W1AGE,Carl,CWA,Framingham MA
 W1AGR,Bruce,212,100th ann. Norfolk County Radio Ass.
@@ -4954,6 +4958,7 @@ W4GD,John,FL,The Villages FL
 W4GFA,George,SC,Walhalla SC
 W4GJ,Bob,FL,Gainesville FL
 W4GNS,Gary,VA,Penhook VA
+W4GS,Jason,SC,Grand Strand ARC
 W4HG,Wayne,494,Salisbury NC
 W4HOZ,Read,MS,Lucedale MS
 W4HXH,Dennis,FL,Port Saint Lucie FL
@@ -5716,7 +5721,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,1346,Aurora IL (Fred)
+WT2P,CJ,IL,(1346)  Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC
