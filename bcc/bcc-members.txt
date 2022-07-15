@@ -12,7 +12,6 @@ DC2KN,Robert
 DC2VE,Frank
 DN1VN,Frank
 DC2YY,Markus
-DC4RU,Bob
 DC6RI,Andreas
 DD1MAT,Niko
 DD1JN,Karsten
@@ -172,7 +171,6 @@ KU6I,Pit
 DK3WW,Uwe
 DK3YD,Hans
 DN3YD,Hans
- AF4AQ,Hans
 DK4AA,Flo
 DK4VW,Ulli
 DK4WA,Andy
@@ -267,7 +265,7 @@ DK3A,Kai
 DN1BUX,Kai
 DL3MBG,Christian
 DL3MXX,Olaf
-DL3NCI,Marcus
+DL3NC,Marcus
 DL3RY,Achim
 DL4FN,Peter
 DL4GBA,Wilfried
@@ -391,7 +389,7 @@ DO2XX,Robin
 DO4DXA,Marc
 DO4OD,Matze
 DO6SR,Robert
-9A8RBX,Robert
+9A5TU,Robert
 EA3KU,Fernando
 EC3A,Fernando
 F5MZN,Olivier
@@ -443,6 +441,8 @@ ON6NL,Anton
 PA9AUQ,Anton
 ON7WM,Werner
 OT5L,Werner
+ON6CC,Marc
+OR3A,Marc
 ON9CC,Frank
 OT6M,Frank
 OZ1ADL,Jan
@@ -451,6 +451,7 @@ VE2OXA,Alex
 OU4X,Alex
 5P7Y,Alex
 PA0BWL,Wil
+PA0JED,Jan
 PA1AW,Alex
 PA1TX,Gerard
 PA3EWP,Ronald

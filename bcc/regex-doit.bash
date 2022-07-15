@@ -11,30 +11,35 @@ dos2unix -q $INFILE
 sed 's/ //g' $INFILE | sort | gawk '
 BEGIN {
   FS=",";
-  printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
-  printf("# Member callsigns from www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
-  printf("POINTS_FIELD_BAND_MODE=ALL;DEST->DXCC:^$;ALL;ALL;-1\n");
-  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^DA0BCC$;ALL;ALL;ALL;5\n");
-  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^(");
-  notfirst = 0;
+  first = 1;
   count = 0;
 }
 {
-  if (++count % 50 == 0) {
-    printf(")$;ALL;ALL;ALL;2\nPOINTS_FIELD_BAND_MODE=DEST->CALL:^(");
-    notfirst = 0;
-  }
   call = toupper($1)
   if (call ~ /^[0-9,A-Z,\/]+$/) {
-    if (notfirst)
-      printf("|");
-    notfirst = 1;
-    printf("%s", call);
+    if (first)
+      string = call;
+    else
+      string = string  "|"  call;
+    first = 0;
   }
 }
 END {
-  printf(")$;ALL;ALL;ALL;2\n");
-  printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n");
+  printf("# Silent multiplier to highlight members in bandmap.\n");
+  printf("# Member callsigns from www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
+  printf("MULT2_TYPE=CALLSIGN\n");
+  printf("MULT2_COUNT=PER_MODE\n");
+  printf("MULT2_FIELD=CALLSIGN\n");
+  printf("MULT2_NO_ALERT=YES\n");
+  printf("MULT2_EXCEPTION=!DEST->CALL:^(%s)$;NONE\n\n", string);
+
+  printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
+  printf("# Member callsigns from www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
+  printf("POINTS_FIELD_BAND_MODE=ALL;DEST->DXCC:^$;ALL;ALL;0\n");
+  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^DA0BCC$;ALL;ALL;ALL;5\n");
+  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^(%s)$;ALL;ALL;ALL;2\n", string);
+  printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n\n");
+
 }' > $OUTFILE
 
 echo Created $OUTFILE

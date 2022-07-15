@@ -14,10 +14,10 @@ BEGIN {
   max = 0;
 }
 {
-  if ($2 ~ /^[0-9,A-Z\/]+$/ && $1 ~/[0-9]+/) {
+  if ($3 ~ /^[0-9,A-Z\/]+$/ && $1 ~/[0-9]+/) {
     if ($1 > max)
       max = $1;
-    printf("%s=%s\n", $2, $1);
+    printf("%s=%s\n", $3, $1);
   }
   else if ($0 !~ /#/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
