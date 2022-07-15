@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2022-07-13 
+# 1-Last Edit,2022-07-14 
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-
 # 4-
@@ -12752,7 +12752,7 @@ W8AT,RICK,WV,
 W8ATH,,OH,
 W8AV,,OH,
 W8BAQ,DAVE,OH,
-W8BAR,TOM,MA,
+W8BAR,SAM,MA,In honor of W8VVE
 W8BCM,ROY,MI,
 W8BD,,OH,
 W8BG,BILL,OH,
