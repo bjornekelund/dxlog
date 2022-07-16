@@ -1,7 +1,7 @@
 # Stew Perry data base
 # Data collected and maintained by VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Last updated 2022-06-19
+# Last updated 2022-07-16
 2E0CVN=IO80
 2E0KIM=JO03
 3A2MW=JN33
