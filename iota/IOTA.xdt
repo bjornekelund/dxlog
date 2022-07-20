@@ -25,7 +25,7 @@
 5B4KH  #AS004 Cyprus
 5C9A  #AF118 Los Farallones QRV Jul 25-30
 5H1NE  #AF032 Zanzibar
-5K2M  #SA082 El Morro Grande HK2SM+Team
+5K2M  #SA082 El Morro Grande HK2SM + Team
 5P4MG  #EU171 Denmark
 5P5CW  #EU172 Aro 
 5P5X  #EU088 Laesoe M1 HP CW-SSB 
@@ -108,7 +108,6 @@
 A3  #OC049 
 A43MI  #AS014 Masirah Island
 A44M  #AS014 Masirah
-A44M  #AS014 Masirah
 A9  #AS002 
 A91HI  #AS202 Hawar by Bahrain Amateur Radio Group
 A92AA  #AS002 Bahrain
@@ -120,8 +119,10 @@ AH6OY  #OC019 Oahu
 AI1TT  #NA031 Aquidneck by W1WBB Rhode Island
 AM1S  #EU077 
 AN1C  #EU080 
+AN8  #AF004 
 AN8L  #AF004 
 AO6ZS  #EU004 Mallorca and satellite islands
+AO8  #AF004 
 AO8NQ  #AF004 
 AY3MI  #AS014 
 AY7X  #SA008 
@@ -134,7 +135,7 @@ BA4TB  #AS150 Lingshan
 BD4TS  #AS094 
 BD5UDN  #AS138 Chong Ming
 BD7HC  #AS143 China
-BD7PCA  #AS129 Nan`ao
+BD7PCA  #AS129 Nanao
 BG2SHQ  #AS151 
 BG4OP  #AS150 Lingshan mix mode HP
 BG4TMC  #AS136 Chong Ming
@@ -150,7 +151,7 @@ BI4SSB  #AS135 Kaishan M2 HP
 BI7PER  #AS129 Nan`ao
 BO0KS  #AS102 Kinmem
 BO0M  #AS113 Ma Tsu M2
-BP0A  #AS103 Peng Hu Taiwan
+BP0A  #AS103 Peng Hu Taiwan CW-SSB
 BS7  #AS116 
 BU2AO  #AS020 
 BU2AU  #AS020 Taiwan
@@ -169,7 +170,7 @@ BX5AA  #AS020
 BY1WJ  #AS134 
 BY4AE  #AS136 Hengsha
 BY4IB  #AS146 Liugong
-BY4JN  #AS150 Lingshan
+BY4JN  #AS150 Lingshan M1 CW-SSB HP
 BY7KP  #AS131 Qi Ao
 BY7MJ  #AS131 Hailing
 C2  #OC031 
@@ -231,6 +232,7 @@ CU5AQ  #EU175 Sao Jorge
 CY0  #NA063 Ile de sable NS (Canada)
 CY9  #NA094 Ile St-Paul (Canada)
 D4  #AF005 
+D4Z  #AF086 Sao Vincente G4BVY G4CLA GD4XUM G4PVM
 D6  #AF007 
 D93I  #AS080 
 DA0T  #EU127 Neuwerk
@@ -288,6 +290,8 @@ EA8NQ  #AF004 Tenerife
 EA8NR  #AF004 Tenerife
 EA8URT  #AF004 Tenerife
 EB6AOK  #EU004 
+EB8  #AF004 
+EC8  #AF004 
 EC8ADS ALFREDO #AF004 Canary
 EC8ADW PETER #AF004 Canary
 EC8AFM MODE #AF004 Canary
@@ -299,8 +303,10 @@ ED1K  #EU080 One
 ED1M  #EU142 Mouro Island Spain
 ED1W  #EU080 Salvora LP
 ED5K  #EU093 Tabarca
+ED8  #AF004 
 ED8B  #AF004 Tenerife
 EE1MI  #EU142 
+EF8  #AF004 
 EF8M  #AF004 Canary
 EF8U  #AF004 Gran Canaria
 EF8X  #AF004 Tenerife
@@ -319,7 +325,7 @@ EJ0GI  #EU006
 EJ0SR  #EU121 
 EJ1C  #EU121 Clear Ireland
 EJ1DD  #EU121 
-EJ1E  #EU121 Bere by EI5KF CW 24 hrs
+EJ1E  #EU121 Bere by EI5KF CW-SSB 24 hrs LP
 EJ1Y  #EU103 Little Saltee  Ireland 
 EJ3HB  #EU121 Bere
 EJ3Z  #EU121 Bofin Ireland M2 HP
@@ -378,8 +384,6 @@ FT5X  #AF048
 FT5Z  #AF002 
 FW  #OC054 
 G  #EU005 Great Britain
-G0ECJ  #EU005 
-G0IBN  #EU005 
 G0LKS  #EU120 Holy HP 24H
 G2F  #EU005 Great Britain
 G2L  #EU124 Holy
@@ -387,21 +391,10 @@ G3P MIKE #EU005 Great Britain
 G3Q STEWART #EU005 Great Britain
 G3RCV  #EU011 
 G3RLE Bryan #EU005 
-G3RSD  #EU005 
-G3RVM  #EU005 
-G3UUV  #EU005 
-G3VGZ  #EU005 
-G3VIP  #EU005 
-G3VMY  #EU005 
 G3VYI/P  #EU120 
-G3YBO  #EU005 
-G3YJQ  #EU005 
-G3YNN  #EU005 
-G4ALE/P  #EU120 Isle of Wight
-G4DBW  #EU005 
+G4ALE/P  #EU120 Isle of Wight DXP
 G4PVM Paul #EU005 
 G4R  #EU005 Great Britain
-G4ZFE  #EU005 
 G5W DON #EU005 Great Britain
 G5XV  #EU120 Isle of Wight DXP M2 HP CW-SSB 24H
 G6LD  #EU120 Holy  
@@ -412,7 +405,6 @@ G7KXZ KEVIN #EU005 Great Britain
 G7O  #EU120 Isle of Wight (G3SQX) CW 12H
 G8CW  #EU005 Essex CW ARC
 G8D  #EU005 
-G8GHD  #EU005 
 G8X TIM #EU005 Great Britain (G4FJK)
 GB4CGS  #EU123 Bute Island
 GB9IOW  #EU120 Isle of Wight
@@ -456,7 +448,7 @@ GM5A  #EU005
 GM5DX  #EU092 Summer Isles
 GM5O  #EU009 Orkney Main
 GM5TO  #EU123 Isle of Arran
-GM7A  #EU008 Isle of Gigha
+GM7A  #EU008 Skye 
 GM7M  #EU123 Arran M2
 GM7O ED #EU123 Isle of Arran
 GM7V  #EU010 Benbecula M2 HP DXP
@@ -472,6 +464,7 @@ GS6NX  #EU008 Isle of Gigha M1
 GS8VL  #EU010 
 GU  #EU114 Guernsey
 GU0UVH  #EU114 Alderney
+GU0VJG/P  #EU114 Sark by G0VJG
 GU3HFN  #EU114 Guernsey ARS
 GW  #EU005 
 GW2L  #EU124 Holy
@@ -485,6 +478,7 @@ GX5TO  #EU005
 H2T  #AS004 Cyprus
 H4  #OC047 
 H40  #OC065 
+H44MS  #OC040 GUADALCANAL By DL2GAC
 H76W  #NA212 Farallones de Coseguina
 HC8  #SA004 
 HH  #NA096 
@@ -522,7 +516,7 @@ IC8SQS  #EU031 Ischia M2
 IC8TEM  #EU031 Capri
 IC8WIC  #EU031 Capri
 IE9DX  #EU051 Ustica
-IF9A Pippo #EU054 Favignana (IT9PPG) LP 24h
+IF9A  #EU054 Favignana LP 24/H
 IF9ZWA MIKE #EU054 Favignana
 IG9  #AF018 
 IG9Y  #AF019 Lampedusa Italy
@@ -552,6 +546,7 @@ IS0BGL  #EU024 Sardinia
 IS0BSR  #EU024 Sardinia
 IS0DCR  #EU024 Sardinia
 IS0SSY  #EU024 Sardinia
+IS0SWW  #EU024 SARDINIA
 IS0XDA  #EU024 Sardinia
 IT9  #EU025 Sicily
 IT9BLB  #EU025 Sicily
@@ -837,7 +832,7 @@ OV7X  #EU172 Hjarno M1 LP
 OX  #NA018 
 OX3LX Bo #NA134 Aasiaat Isl.
 OY  #EU018 
-OY1CT  #EU018 Steymoy 20-10m. 
+OY1CT  #EU018 Steymoy HP
 OY1R  #EU018 Regin Faroe Islands
 OZ/DJ4MF  #EU172 Hjarno LP
 OZ/ON6QR  #EU088 Laeso DXO 24h
@@ -1011,6 +1006,7 @@ SQ6NEJ  #EU132 Wolin
 SV0XAF MIKE #EU067 Paros
 SV5  #EU001 
 SV5DKL  #EU001 Rhodes CW HP
+SV8/DH5FS  #EU052 CORFU By DH5FS LP
 SV8/LZ2K  #EU174 Ammouliani by LZ1QN LZ4AE M1
 SV8CS  #EU052 
 SV8CYR  #EU049 Samos
@@ -1033,6 +1029,7 @@ SX3AM  #EU158 Agia Mariani
 SX5P  #EU001 Rodos
 SX5R  #EU001 Rhodes
 SX8B  #EU075 Salamina Island
+SX8EL  #EU113 Elafonisos (Lalonia ARC)
 SX8PR  #EU158 
 SX8R  #EU174 
 SY9M  #EU015 

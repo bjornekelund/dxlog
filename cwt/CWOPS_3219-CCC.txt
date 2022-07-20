@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-07-17
+# Last Edit,2022-07-19
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -3393,6 +3393,7 @@ N7CQR,Dan,OR,Portland OR
 N7DC,Danny,VA,Reva VA
 N7DH,Dennis,ME,Kittery Point ME
 N7DRW,Bud,2246,Bellevue WA
+N7DUX,Mike,OR,(W7GF)  Ducks On The Air
 N7DX,Tony,2764,Camano Island WA
 N7DXT,Gary,MT,Missoula MT
 N7EDK,Ed,FL,Bradenton FL
@@ -5627,7 +5628,7 @@ WD5RS,Russ,TX,Milford TX
 WD6T,Dave,2079,Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
 WD8DIN,Sis,VA,Richmond VA
-WD8PKF,Alan,CWA,Algona IA
+WD8PKF,Alan,3202,Algona IA
 WD8RYC,Jim,TN,White House TN
 WD9DZV,Tim,IL,Chicago IL
 WD9F,Woody,591,Springfield IL
@@ -5724,7 +5725,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,IL,(1346)  Aurora IL (Fred)
+WT2P,CJ,1346,Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC
