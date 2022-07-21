@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3219
-# Last updated 2022-07-20
+# Last updated 2022-07-21
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -1704,6 +1704,7 @@ K5DQ=Peggy;TX
 K5DU=Susan;88
 K5EDI=Brent;TX
 K5EDM=Greg;1967
+K5EFJ=Emmett;LA
 K5EJF=Ray;TX
 K5EMI=Bill;3127
 K5ESW=Paul;2665
@@ -2263,6 +2264,7 @@ KC3FQF=Rosti;2783
 KC3JJF=Daryl;MD
 KC3KBE=Jon;MD
 KC3M=Jack;3099
+KC3NDU=Keith;CWA
 KC3TOM=Tom;PA
 KC3X=Hollis;1725
 KC4BBD=Aaron;VA
@@ -5273,6 +5275,7 @@ W8WZ=Carl;1660
 W8XC=Win;2143
 W8XE=Winford;WI
 W8YA=Mark;MI
+W8ZDT=Kevin;MI
 W8ZR=Jim;NM
 W9/CE2LR=Matt;WI
 W9AW=Motoaki;1014
@@ -5647,6 +5650,7 @@ WN7ETQ=Carl;2300
 WN7S=Dick;1945
 WN7Y=Ron;MT
 WN8F=Ken;NY
+WN9J=Mark;WA
 WN9W=Dave;OH
 WO1X=Tom;1310
 WO4O=Ric;1311
@@ -5684,7 +5688,7 @@ WS8G=Rick;2308
 WS8K=Tim;MI
 WS9F=Matthew;MI
 WS9V=Skip;1651
-WT2P=CJ;1346
+WT2P=CJ;IL
 WT3C=Tom;2403
 WT3K=Daryl;2355
 WT4C=Tom;SC

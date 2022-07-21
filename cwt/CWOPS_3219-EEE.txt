@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-07-19
+# Last Edit,2022-07-20
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1717,6 +1717,7 @@ K5DQ,Peggy,TX,Santa Fe TX
 K5DU,Susan,88,Manor TX
 K5EDI,Brent,TX,Trophy Club TX
 K5EDM,Greg,1967,Benton AR
+K5EFJ,Emmett,LA,Minden LA
 K5EJF,Ray,TX,Hurst TX
 K5EMI,Bill,3127,Denton TX
 K5ESW,Paul,2665,Raleigh NC
@@ -2278,6 +2279,7 @@ KC3FQF,Rosti,2783,CT
 KC3JJF,Daryl,MD,Baltimore MD
 KC3KBE,Jon,MD,Silver Spring MD
 KC3M,Jack,3099,Montoursville PA
+KC3NDU,Keith,CWA,Lake Ariel PA
 KC3TOM,Tom,PA,Burgettstown PA
 KC3X,Hollis,1725,Snow Hill NC
 KC4BBD,Aaron,VA,Lynchburg VA
@@ -5234,7 +5236,7 @@ W7RN,Tom,108,VC Highlands NV (K5RC)
 W7RX,Scott,2034,Eugene OR
 W7SAG,John,1582,Eagle ID (Possibly QRP) 
 W7SAG/0,John,1582,
-W7SW,,143,143
+W7SW,,AZ,(143)  Sun City West AZ
 W7TAO,Todd,WA,Mount Vernon WA
 W7UDH,Dick,WA,Seattle WA
 W7UT,Bob,200,Huron SD
@@ -5312,6 +5314,7 @@ W8WZ,Carl,1660,Fuquay-Varina NC
 W8XC,Win,2143,McDonough GA
 W8XE,Winford,WI,Germantown WI
 W8YA,Mark,MI,Highland MI
+W8ZDT,Kevin,MI,Clarkston MI
 W8ZR,Jim,NM,Santa Fe NM
 W9/CE2LR,Matt,WI,@ W9XY Montello WI
 W9AW,Motoaki,1014,HONOLULU HI
@@ -5688,6 +5691,7 @@ WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
 WN8F,Ken,NY,Ashland KY
+WN9J,Mark,WA,Swquim WA
 WN9W,Dave,OH,Bentleyville OH
 WO1X,Tom,1310,Bristol CT
 WO4O,Ric,1311,Grand Island FL
@@ -5725,7 +5729,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
-WT2P,CJ,1346,Aurora IL (Fred)
+WT2P,CJ,IL,(1346)  Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
 WT4C,Tom,SC,Liberty SC
