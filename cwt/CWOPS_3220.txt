@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-07-20
+# Last Edit,2022-07-21
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -131,6 +131,7 @@ AA6VX,Rich,CA,Orcutt CA
 AA6W,Don,2311,Saratoga CA
 AA6X,BRIAN,AZ,
 AA6XA,Jeff,2118,Santa Clara CA
+AA6XO,Doug,CA,Campbell CA
 AA7AZ,Jim,3205,Hermiston OR
 AA7CT,Bob,OR,Seaside OR
 AA7FV,Darrel,1578,Tucson AZ
@@ -2582,6 +2583,7 @@ KK1MM,Mike,1272,Arlington VA
 KK1W,Jim,2479,Brimfield MA
 KK3F,Pat,MD,Frostburg MD
 KK4BNC,Randy,GA,Cataula GA
+KK4E,Don,GA,Atlanta GA
 KK4NZH,Gene,GA,Loganville GA
 KK4R,Rob,1953,Yorktown VA
 KK4SJ,Gord,FL,Viera FL
@@ -3389,6 +3391,7 @@ N6ZFO,Bill,101,Kelseyville CA
 N6ZI,Al,CA,San Diego CA
 N6ZY,Alan,CA,Penn Valley CA
 N7AUE,Jim,NV,Reno NV
+N7AWE,Jim,ID,Rathdrum ID
 N7BV,Chuck,WA,Port Angeles WA
 N7CLP,Cody,AZ,Gilbert AZ
 N7CQR,Dan,OR,Portland OR
@@ -4396,7 +4399,6 @@ VA1RST,Roger,2049,Halifax NS
 VA2AGW,Andy,2328,Mansonville QC
 VA2CZ,Pete,2184,Sherbrooke QC
 VA2EBI,George,9,Ham-Sud QC  (also W1EBI)
-VG2EBI,George,9,Ham-Sud QC  (also W1EBI)
 VA2FDT,Szabi,1193,Cap-Sante QC
 VA2MA,MA,QC,also VE3VIG
 VA2RAC,,QC,RAC HQ
@@ -4416,7 +4418,6 @@ VA3KSF,Keith,ON,Corunna ON
 VA3OPN,Glenn,457,Roblin ON
 VA3PJC,Pat,ON,Parry Sound ON
 VA3PM,Pierre,1617,Brampton ON
-VG3PM,Pierre,1617,Brampton ON
 VA3QV,Bob,ON,Ottawa ON (QRP)
 VA3RJ,Dave,ON,Toronto ON
 VA3SB,Serge,1488,Missisauga ON (Possibly QRP)  (East Amb.)
@@ -4522,7 +4523,6 @@ VE3KAE,Alan,ON,Kemptville ON
 VE3KBI,Paul,ON,North Yourk ON
 VE3KCY,Ken,ON,Alma ON
 VE3KI,Rich,783,Richmond ON (ECA  Amb./CWT Mgr.)
-VX3KI,Rich,783,Richmond ON (ECA  Amb./CWT Mgr.)
 VE3KIU,Dave,3077,Ottawa ON
 VE3KOT,Gege,ON,Oakville ON
 VE3KP,Ken,1246,Peterborough ON
@@ -4647,7 +4647,6 @@ VO1AW,BK,NL,(Brian)  Gander NL
 VO1BQ,Joe,1325,St-John NL
 VO1DD,Doug,,Heart's Delight NL
 VO1HP,Frank,684,St-John's NL
-XJ1HP,Frank,684,St-John's NL
 VO1HQ,Filipe,NL,Carmanville NL
 VO1MP,Gus,134,Portugal Cove St Philips NL
 VO1SA,Rick,NL,St John's NL
@@ -4710,6 +4709,7 @@ W0LTL,Mike,AZ,Tucson AZ
 W0MU,Mike,CO,Parker CO
 W0NEO,Duane,AR,Mountain Home AR
 W0NF,Pam,3008,Tucson AZ
+W0NP,Dave,3220,Colorado Springs CO
 W0ODS,Jeff,1297,Coggon IA
 W0OJ,Phil,2723,Crestone CO
 W0OR,Bill,1162,Bloomington MN

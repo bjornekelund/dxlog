@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3219
-# Last updated 2022-07-21
+# Contains members up to #3220
+# Last updated 2022-07-22
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -125,6 +125,7 @@ AA6VX=Rich;CA
 AA6W=Don;2311
 AA6X=BRIAN;AZ
 AA6XA=Jeff;2118
+AA6XO=Doug;CA
 AA7AZ=Jim;3205
 AA7CT=Bob;OR
 AA7FV=Darrel;1578
@@ -2565,6 +2566,7 @@ KK1MM=Mike;1272
 KK1W=Jim;2479
 KK3F=Pat;MD
 KK4BNC=Randy;GA
+KK4E=Don;GA
 KK4NZH=Gene;GA
 KK4R=Rob;1953
 KK4SJ=Gord;FL
@@ -3363,6 +3365,7 @@ N6ZFO=Bill;101
 N6ZI=Al;CA
 N6ZY=Alan;CA
 N7AUE=Jim;NV
+N7AWE=Jim;ID
 N7BV=Chuck;WA
 N7CLP=Cody;AZ
 N7CQR=Dan;OR
@@ -4586,8 +4589,6 @@ VE9WW=Bill;NB
 VE9XDX=Gerry;191
 VE9XX/6=Don;AB
 VE9XX=Don;AB
-VG2EBI=George;9
-VG3PM=Pierre;1617
 VK2AFA=Samuel;VK
 VK2BJ=Barry;294
 VK2DX=Nick;VK
@@ -4631,7 +4632,6 @@ VQ9LA=Larry;644
 VU2BGS=Kumar;VU
 VU2PAI=PAI;VU
 VU2PTT=Prasad;615
-VX3KI=Rich;783
 VX3TM=Vlad;2543
 VY1EI=Eric;YT
 VY2SS=Rob;PE
@@ -4678,6 +4678,7 @@ W0LTL=Mike;AZ
 W0MU=Mike;CO
 W0NEO=Duane;AR
 W0NF=Pam;3008
+W0NP=Dave;3220
 W0ODS=Jeff;1297
 W0OJ=Phil;2723
 W0OR=Bill;1162
@@ -5747,7 +5748,6 @@ XE1YZY=Pete;XE
 XE2V=Mode;XE
 XE2X=Jorge;796
 XE3A=Pablo;3138
-XJ1HP=Frank;684
 XK1AAA=Gerry;191
 XQ1KZ=Nicolas;CE
 XQ4CW=Roberto;CE
