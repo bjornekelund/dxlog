@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-07-21
+# Last Edit,2022-07-22
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -122,6 +122,7 @@ AA5QY,Floyd,AR,Gentry AR
 AA5SR,Dave,TX,League City TX
 AA5TL,Rick,OR,Bend OR
 AA5W,Jim,1826,College Station TX
+AA5WZ,Wayne,3221,Parker CO
 AA5ZT,Mike,OK,Fairview OK
 AA6MK,Mike,1909,Hayward CA
 AA6MU,Dim,CA,Walnut Creek CA
@@ -129,7 +130,7 @@ AA6OC,Bob,CA,New Port Beach CA
 AA6PM,Peter,3062,Saratoga CA
 AA6VX,Rich,CA,Orcutt CA
 AA6W,Don,2311,Saratoga CA
-AA6X,BRIAN,AZ,
+AA6X,BRIAN,AZ,Phoenix AZ
 AA6XA,Jeff,2118,Santa Clara CA
 AA6XO,Doug,CA,Campbell CA
 AA7AZ,Jim,3205,Hermiston OR

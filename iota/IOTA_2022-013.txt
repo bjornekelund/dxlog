@@ -1,10 +1,10 @@
 !!Order!!,Call,Name,Sect,UserText
 # File will be updated until contest
-# Info from 2020 results fixed stations plus all IOTA announced.
+# Info from 2021 results fixed stations plus all IOTA announced.
 # Info from NG3K RSGB Iota Contest Announced operations 2021
 # Info from OPDX Bulletin
 # IOTA
-# Last Edit,2022-07-18
+# Last Edit,2022-07-24
 # RSGB IOTA contest, 
 # Send info, correction direct to ve2fk@arrl.net
 # Thanks to       for new info.
@@ -69,6 +69,7 @@
 8Q,,AS013,
 8S0W,MAGNUS,EU084,Muskoe
 9A/DL3NCI,,EU136,Ilovik HP CW
+9A/DM6EE,Lutz,EU136,Rab Island (Kvarner group)
 9A0AA,,EU016,Vis Croatia
 9A0CI,,EU016,Vis
 9A0D,,EU170,Zirje
@@ -104,7 +105,7 @@
 9M4TI,,AS073,Redang
 9M6,,OC088,Borneo
 9M8DEN,,OC088,
-9M8RC,,OC165,Satang Besar M1
+9M8RC,,OC165,Satang Besar (Sarawak DX Group)
 9M8Z,,OC088,Borneo
 9Q0D,,EU170,
 9V,,AS019,Singapore
@@ -231,6 +232,8 @@ CT3FQ,,AF014,Madeira
 CT3KN,,AF014,Madeira
 CT7ACG,COLIN,EU145,Culatra
 CT9/DL5CW,,AF014,Madeira
+CT9/OM2FY,,AF014,Madeira HP CW 12/h
+CT9/OM2ZZ,,AF014,Madeira HP CW 12/h
 CT9ABV,,AF014,Madeira DL5AXX 12 H Mix
 CU,,EU003,
 CU2AA,,EU003,Azores
@@ -277,6 +280,7 @@ DV1FM,,OC042,Luzon
 DV1JM,,OC042,Luzon
 DV8VMI,,OC130,Mindanao SOSB 40m
 DX1ARC,,OC042,Luzon  M1
+DX7EVM,,OC129,Capitancillo M1
 DX8ACD,,OC130,Mindanao
 DX8CAD,,OC130,Mindanao Ils 
 DX9EVM,,OC130,Mindanao 
@@ -478,6 +482,7 @@ GU0UVH,,EU114,Alderney,
 GU0VJG/P,,EU114,Sark by G0VJG
 GU3HFN,,EU114,Guernsey ARS
 GW,,EU005,
+GW0MFR,,EU124,Flatholm LP
 GW2L,,EU124,Holy,
 GW4BLE,,EU005,Great Britain,
 GW4TTA,,EU124,Holy,
@@ -532,13 +537,14 @@ IF9ZWA,MIKE,EU054,Favignana,
 IG9,,AF018,
 IG9Y,,AF019,Lampedusa Italy,
 IH9YMC,,AF018,Pantelleria,
-II3Y,TEAM,EU130,Barbana LP DXP
+II3Y,TEAM,EU130,Barbana LP DXP BY iv3osc
 II7P,,EU091,Brindisi Mixed LP 24H
 IJ7T,,EU073,San Pietro,
 IJ7V,,EU073,San Pietro (IK7IMO) SSB
 IK8MRA,,EU144,Cirella,
 IL3V,,EU131,Madonna del Monte,
 IL7MP,,EU050,San Domino 12H SSB 
+IM0/ED3Z,,EU024,Sardinia DXP LP CW-SSB 12/H
 IM0C,,EU165,San Pietro,
 IM0K,,EU165,
 IM0P,,EU165,
@@ -547,7 +553,7 @@ IO9Z,,EU025,Sicily M1 LP,
 IP1T,,EU083,Tino,M1 HP
 IQ3AZ,,EU130,
 IQ3JT,,EU130,
-IQ3ME/P,,EU131,Pellestrina by Team
+IQ3ME/P,,EU131,Lido M1 CW SSB HP 24/h
 IQ7HK,,EU091,Capezzone,
 IQ7IA,,EU091,Pedagne Italy,
 IR8A,,EU031,Ischia,
@@ -632,6 +638,7 @@ JM,,AS007,Honshu,
 JN,,AS007,Honshu,
 JN6RZM,,AS077,Kyushu,
 JO,,AS007,Honshu,
+JO1 CRA/7,,AS206,O  20m CW only
 JP,,AS007,Honshu,
 JQ,,AS007,Honshu,
 JR4VEV,,AS007,Honshu,
@@ -685,6 +692,7 @@ KP4CPC,CARLOS,NA099,Puerto Rico,
 KP4JRS,JOSE,NA099,Puerto Rico,
 KP5,,NA095,
 KS4YT,,NA168,Grand Isle Multi op
+KU8E,,NA058,Jekyll LP CW 12/h
 KV4T,,NA168,Grand Isle Multi op
 LA1CI,,EU046,
 LA1QDA,,EU055,Store Sotra,
@@ -759,6 +767,7 @@ MJ0X,,EU099,
 MJ1DSE,PAUL,EU013,
 MJ8C,,EU099,Minkes Reef LP (GJ3RCV after contest)
 MK1K,DOMINIC,EU011,St-Agnes Island,
+MM/DH8BQA,Olli,EU123,Isle of Arran
 MM0AMW,,EU005,Great Britain,
 MM0BQI,JIM,EU092,Tanera Mor,
 MM0JTV,,EU010,Barra LP
@@ -811,6 +820,7 @@ OG5A,,EU140,Nuokot Finland
 OH0,,EU002,
 OH0B,,EU002,Brando,
 OH0I,,EU002,Aland Islands,
+OH0R,,EU002,Brando by OH2PM  HP
 OH0TA,,EU002,Korso,
 OH0V,,EU002,Aland,
 OH0V,,EU002,Main pse QRS new ops
@@ -887,6 +897,7 @@ P3J,,AS004,
 P3R,,AS004,Cyprus,
 P4,,SA036,
 P43E,,SA036,Aruba,
+PA/DK5KK,Kolja,EU038,Texel
 PA/OQ4T,,EU146,Schouwen Duiveland
 PA0HFT,HANK,EU038,
 PA2JJB,JAN,EU038,Texel,
@@ -1037,8 +1048,7 @@ SW8LR,,EU174,Thasos
 SW8YA,,EU174,Thasos LP
 SW9GG,,EU015,Crete
 SX3AM,,EU158,Agia Mariani
-SX5P,,EU001,Rodos
-SX5R,,EU001,Rhodes
+SX5P,,EU001,Rhodes HP
 SX8B,,EU075,Salamina Island,
 SX8EL,,EU113,Elafonisos (Lalonia ARC)
 SX8PR,,EU158,
@@ -1055,6 +1065,7 @@ T33,,OC018,
 T8,,OC009,
 TA0GI,,AS154,Giresun Island,
 TA0S,,AS098,Fethiye Isl
+TA3J/0,,AS099,Yassica
 TC0GI,,EU186,Gokceada,
 TC0HA,,AS154,Giresun Island,
 TC0KLH,,AS159,Kefken,
@@ -1076,6 +1087,7 @@ TM1N,,EU064,Noirmoutier LP CW-SSB 5 opr.
 TM2BI,,EU048,Bell Ile en Mer,
 TM5F,,EU095,Ratonneau
 TM5KD,,EU048,Ile de Sein,
+TM5OL,,EU032,Oleron F6BFH F5JY F6FVY M1 HP
 TM5S,,EU068,Ile de Sein DXP mixed LP
 TM5VI,,EU105,Vierge Island 
 TM65M,,EU065,Molcne DXP M2 CW-SSB
@@ -1130,7 +1142,7 @@ VK4EI,,OC227,Sweers,
 VK4HAM,,OC142,
 VK4NM,,OC142,
 VK4SWE,,OC227,Sweers,
-VK5KI,,OC139,Kangaroo Is.
+VK5KI,,OC139,Kangaroo Is. DXp
 VK6AHR,,OC164,
 VK7CW,,OC006,Tasmania,
 VK7GN,,OC006,
@@ -1271,7 +1283,7 @@ ZM4M,,OC134,South,
 ZS8,,AF021,
 ZS9V,,AF064,Robben Island CW-SSB
 ZV1M,,SA079,Ilha Das Palmas,
-ZV5O,,SA047,Mel,DXP
+ZV5O,,SA047,Mel,DXP M1
 ZV8FF,Ronaldo,SA072,Canarias DXP LP SSB
 ZY8D,,SA072,Canarias Island Caju Archipelago
 ZZ1R,,SA029,Ratos (Brazil)
