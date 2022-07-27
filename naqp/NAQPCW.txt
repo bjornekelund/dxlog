@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2022-07-19 
+# 1-Last Edit,2022-07-26 
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK
 # 4-This file is same the following contest(s):
@@ -12926,6 +12926,7 @@ W8SAX,,MI,
 W8SCS,SHANNON,MI,
 W8SDC,STEVE,MI,
 W8SGZ,,MI,
+W8SH,SPARTY,MI 
 W8SJ,DICK,MI,
 W8SKG,,OH,
 W8SP,,WV,
