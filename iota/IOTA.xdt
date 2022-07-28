@@ -33,7 +33,7 @@
 5P6G  #EU088 Lesu DXP M1 HP
 5P7LSO  #EU088 Laesoe 
 5P7ZZ  #EU029 
-5Q5CW  #EU172 Hjarnoe
+5Q5CW  #EU172 Hjarnoe M1
 5Q5M  #EU088 Laeso ON6QR DXP 24h
 5Q6EE  #EU172 Hjarno LP
 5Q7DX JAN #EU171 Saeby-Thy North Jutland
@@ -72,7 +72,7 @@
 9A2ZRS  #EU090 Palagreuza Vela Island
 9A3VIS  #EU016 Vis
 9A4A  #EU170 Croatia
-9A4KJ  #EU136 Rab CW SSB LP 12H
+9A4KJ  #EU136 Rab SSB LP 12H
 9A4W TOM #EU016 Brac
 9A5BDD IVAN #EU170 Pag
 9A5YY  #EU136 Losinj
@@ -526,7 +526,7 @@ IF9A  #EU054 Favignana LP 24/H
 IF9ZWA MIKE #EU054 Favignana
 IG9  #AF018 
 IG9Y  #AF019 Lampedusa Italy
-IH9YMC  #AF018 Pantelleria
+IH9YMC  #AF018 Pantelleria 12 H
 II3Y TEAM #EU130 Barbana LP DXP BY iv3osc
 II7P  #EU091 Brindisi Mixed LP 24H
 IJ7T  #EU073 San Pietro
@@ -549,6 +549,7 @@ IQ7IA  #EU091 Pedagne Italy
 IR8A  #EU031 Ischia
 IR9K  #EU025 Sicily 9 oprs.
 IS  #EU024 Sardinia
+IS0/IK1TTD  #EU024 Sardinia
 IS0BGL  #EU024 Sardinia
 IS0BSR  #EU024 Sardinia
 IS0DCR  #EU024 Sardinia
@@ -646,6 +647,7 @@ JX  #EU022
 K1IMI  #NA137 Bailey N4CW W4MTO mainly/CW SSB
 K4QQG  #NA110 Hilton Head  SSB
 K7K  #NA070 Kiska Island Alaska  CW-SSB 10-40m
+KD2RD  #NA126 Long
 KG4  #NA015 
 KH0  #OC086 
 KH1  #OC089 
@@ -841,7 +843,6 @@ OV1CDX FRANK #EU029 Sjaelland
 OV3X  #EU029 Falster
 OV7X  #EU172 Hjarno M1 LP
 OX  #NA018 
-OX11A  #EU171 Vendsysset 
 OX3LX Bo #NA134 Aasiaat Isl.
 OY  #EU018 
 OY1CT  #EU018 Steymoy HP
@@ -851,6 +852,7 @@ OZ/ON6QR  #EU088 Laeso DXO 24h
 OZ0FR  #EU029 Mon
 OZ0J Joe #EU029 Sjaelland
 OZ0TX  #EU125 Mando
+OZ11A  #EU171 Vendsysset 
 OZ1ACB  #EU029 Sjaelland
 OZ1HHH  #EU029 Sjaelland
 OZ1IKY  #EU029 Sjaelland
@@ -1174,6 +1176,7 @@ VU4  #AS001
 VU7  #AS011 
 VX2I  #NA128 Ile aux Coudres QC Canada
 VY  #NA029 
+VY0ERC  #NA008 Elesmere VE3KTB
 VY2LI  #NA029 Prince Edward Canada
 VY2LPH  #NA029 Prince Edward Canada
 VY2OX  #NA029 Prince Edward Canada
