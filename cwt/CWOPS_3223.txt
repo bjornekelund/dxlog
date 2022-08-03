@@ -1390,6 +1390,7 @@ K1XX,Charlie,FL,(VP2MMF)
 K1YM,John,MA,Carlisle MA
 K1YR,Lou,AZ,Peoria AZ
 K1YT,Bill,44,Stow MA
+K1YW, Greg, MA
 K1YY,Bob,1783,Corvallis OR
 K1ZJA,Bill,2645,Asheville NC
 K1ZR,Shane,NH,Sandown NH
@@ -1415,7 +1416,6 @@ K2EQ,Howard,NY,Ovid NY
 K2EYS,Terry,NY,Albion NY
 K2FX,Paul,NY,Ontario NY
 K2GO,Tom,518,Round Hills VA
-K2HZO,Paul,2589,Ukian CA
 K2IW,Zach,2521,(Zachary)  Saratoga Springs NY
 K2KA,Dick,MA,Westford MA
 K2KQ,Don,192,Pleasantville NY
@@ -1876,6 +1876,7 @@ K6TD,Kevin,81,Cupertino CA
 K6TET,Ted,CA,San Bruno CA
 K6TJ,Pete,CA,Los Altos CA
 K6TOR,Rick,2732,San Frisco CA
+K6TR,Paul,2589,Ukian CA
 K6TTT,Bruce,2595,Lancaster CA
 K6UFO,Mark,403,San Francisco CA
 K6VN,Mike,2924,Valencia CA
