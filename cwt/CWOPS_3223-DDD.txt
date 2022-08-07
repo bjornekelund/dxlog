@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-01
+# Last Edit,2022-08-04
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -259,6 +259,7 @@ AD4UM,Joe,2765,Kingsport TN
 AD5A,Mike,1415,Boerne TX
 AD5A/VP5,Mike,1415,
 AD5MT,Pat,2602,(Patrick)   Redlands CA
+AD5US,TIM,TX,
 AD6E,Alan,217,San Jose CA
 AD6FC,Fred,CA,Crescent City CA
 AD6JV,Bill,1719,Charlottesville VA
@@ -726,6 +727,7 @@ EI6KT,John,2965,DublinIreland
 EI6KW,Slav,,Ashbourne Ireland
 EI6LA,Rafal,3194,Wicklow Ireland
 EI7BA,John,,Whitegate Co. Cork. Ireland
+EI8KW,Ryan,,Dublin Ireland
 EI9KY,Colm,,Waterford Ireland
 ER/UW7LL,Yarik,2229,
 ER1SN,Alex,,Chisinau Moldova
@@ -1390,7 +1392,6 @@ K1XX,Charlie,FL,(VP2MMF)
 K1YM,John,MA,Carlisle MA
 K1YR,Lou,AZ,Peoria AZ
 K1YT,Bill,44,Stow MA
-K1YW, Greg, MA
 K1YY,Bob,1783,Corvallis OR
 K1ZJA,Bill,2645,Asheville NC
 K1ZR,Shane,NH,Sandown NH
@@ -1416,6 +1417,7 @@ K2EQ,Howard,NY,Ovid NY
 K2EYS,Terry,NY,Albion NY
 K2FX,Paul,NY,Ontario NY
 K2GO,Tom,518,Round Hills VA
+K2I,BOB,NJ,
 K2IW,Zach,2521,(Zachary)  Saratoga Springs NY
 K2KA,Dick,MA,Westford MA
 K2KQ,Don,192,Pleasantville NY
@@ -1526,6 +1528,7 @@ K3MTR,Tyler,MD,Pasadena MD
 K3NA,Eric,MA,Charlestown MA
 K3NF,Harry,VA,Lorton VA
 K3NG,Goody,PA,Lehighton PA
+K3NK,JIM,PA,
 K3NL,Nick,PA,Drexel Hill PA
 K3NM,Joe,PA,Broadheadsville PA
 K3OO,Rick,PA,Wind Gap PA
@@ -1554,7 +1557,6 @@ K3TX,Dave,PA,Yardley PA
 K3UA,Phil,1579,Imperial PA
 K3UK,Andy,NY,Fredonia NY
 K3UL,Bob,1673,Williamsport PA
-K3UO,Kelly,MD,North Potomac MD
 K3UQ,Kelly,3116,North Potomac MD
 K3US,John,VA,Fairfax VA
 K3UT,Phil,1537,St-Simons Island GA NA058
@@ -1635,7 +1637,7 @@ K4JQV,Jake,AR,Rogers AR
 K4JTA,Jim,KS,Ozawkie KS
 K4KIR,Matt,FL,Dunnellon FL
 K4KO,Greg,2814,Lebanon TN
-K4KSR,Bill,VA,Chesterfield VA (Full time QRP)
+K4KSR,Bill,2107,Chesterfield VA (Full time QRP)
 K4KZ,Lon,NC,Matthews NC
 K4LTA,Bill,TN,Oak Ridge TN
 K4LW,Bob,2717,Rockledge FL
@@ -1666,14 +1668,13 @@ K4QPL,Jim,244,Raleigh NC
 K4QS,Chuck,1749,King George VA
 K4QS/M,Chuck,1749,
 K4QU,Mike,2318,Winchester VA
-K4QY,Mike,VA,Winchester VA
 K4RB,Bob,236,Cardiff by the Sea CA
 K4RIC,Rich,VA,Chester VA
 K4RLC,Bob,3042,Raleigh NC
 K4RO,Kirk,387,Pegram TN
 K4RUM,Mike,1182,New York NY
 K4SNE,Mark,AL,Pelham AL
-K4SNX,Bill,NC,Bew Bern NC
+K4SNX,Bill,NC,New Bern NC
 K4SPO,Paul,KY,Lexington KY
 K4SX,Ron,810,Wright City MO
 K4TD,Rick,1081,Harvest AL
@@ -1849,7 +1850,7 @@ K6KQV,Bill,CA,Cupertino CA
 K6KR,Dick,257,Oak Harbor WA
 K6KX,Fred,274,Berkeley CA
 K6LL,Dave,1455,Yuma AZ
-K6LRC,Bob,CA,Janesville CA (Lassew ARC)
+K6LRC,Bob,CA,Janesville CA (Lassen ARC)
 K6LRN,Rich,CA,Somerset CA
 K6MM,John,11,San Jose CA
 K6MR,Ken,1270,Anderson CA
@@ -1875,15 +1876,15 @@ K6TA,Ken,CA,Pine Grove CA
 K6TD,Kevin,81,Cupertino CA
 K6TET,Ted,CA,San Bruno CA
 K6TJ,Pete,CA,Los Altos CA
-K6TOR,Rick,2732,San Frisco CA
-K6TR,Paul,2589,Ukian CA
+K6TOR,Rick,2732,San Francisco CA
+K6TR,Paul,2589,(ex K2HZO)  Ukian CA
 K6TTT,Bruce,2595,Lancaster CA
 K6UFO,Mark,403,San Francisco CA
 K6VN,Mike,2924,Valencia CA
 K6VVA,Rick,CA,Morgan Hill CA
 K6WDE,Dave,CA,Running Springs CA
 K6WG,Stan,CA,San Francisco CA
-K6WIL,Bill,3144,Sana Ana CA
+K6WIL,Bill,3144,Santa Ana CA
 K6WSC,Bill,2951,Vail AZ
 K6WV,Jon,CA,Cupertino CA
 K6XT,Art,728,Ignacio CO
@@ -2068,7 +2069,7 @@ K9DUR,Ray,IN,West Terre Haute IN
 K9DX,John,184,N Barrington IL
 K9EU,Erik,886,Naperville IL
 K9EXY,Rick,IN,Evansville IN
-K9FD,Merv,HI,Maunaloa HI
+K9FD,Merv,IL,Waterloo IL
 K9FN,Dave,IN,West Lafayette IN
 K9FS,Bob,1524,Waukegan IL
 K9FZ,Alex,WI,Hudson WI
@@ -2663,7 +2664,7 @@ KN4RD,Russ,3110,Ocala FL
 KN4RNO,Carl,GA,
 KN4VCE,Mike,VA,Woodbridge VA
 KN4VV,John,2331,Fairfax VA
-KN4YRM,Randon,2930,Plantation FL
+KN4YRM,Randy,2930,Plantation FL
 KN5A,AL,TX,Houston TX
 KN5CWO,,,Delta CWops Club (West Monroe LA)
 KN5O,Ted,LA,Covington LA
@@ -2838,6 +2839,7 @@ LA7XIA,Morten,,Kopervik Norway
 LA8OM,Chris,1848,Hafrsfjord Norway
 LB8B,Olaf,,DX
 LB1GB,Bjorn,992,Oslo Norway
+LB8IB,OLAF,LA,
 LB2TB,Lars,,(2842) Tranby Norway
 LB3RE,Rag,933,Broabakken Norway
 LB6GG,Hans,2530,Sandnes Norway
@@ -3603,6 +3605,7 @@ NE5T,Gary,TX,Canton TX
 NE6DX,Mike,CA,Santa Ana CA (Dawn Patrol Surf Club)
 NE6ET,Shin,CA,Huntington Beach CA
 NE6NE,ZHUO,3117,San Jose CA
+NE6ZZ,STU,WI,
 NE7D,Rocky,829,Salem OR
 NE7EE,Chris,2616,Scottsdale AZ
 NE8J,Howard,1940,Coopersville MI
@@ -3912,6 +3915,7 @@ OK8GO,Alex,2685,(UR7GO)
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
 OL6M,Bob,,RC-Olomouc Czech Republic
+OL7R,PETER,2830,
 OL8R,Petr,2830,Ritka Czech Republic
 OM0CS,Kamil,1194,Bardejov Slovak Rep.
 OM0DX,Pedro,,Presov Slovak Republic
@@ -5639,6 +5643,7 @@ WD9DZV,Tim,IL,Chicago IL
 WD9F,Woody,591,Springfield IL
 WD9FOO,Dean,IL,Algonquin IL
 WD9GET,Keith,TX,Alvin TX
+WD9ICL,JOEL,IL,
 WD9Q,Matt,IN,Mitchell IN
 WE0P,John,KS,Marysville KS
 WE4AUB,John,3215,Marietta GA
