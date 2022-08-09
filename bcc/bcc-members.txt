@@ -43,6 +43,9 @@ DF4SA,Con
 DF4XX,Kurt
 DF5MA,Andreas
 DF6RI,Alfred
+DF8DX,Bodo
+HB9EHJ,Bodo
+KT3Q,Bodo
 DF8VO,Bert
 DF9GR,Rene
 CP6/DF9GR,Rene

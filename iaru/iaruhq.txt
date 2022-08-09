@@ -1,6 +1,6 @@
 # HQ database for IARU HF Championship
 # Data collected and maintained by Joe OZ0J and Bob N6TV
-# Last updated 2022-07-12
+# Last updated 2022-08-09
 3V8CB=ARAT
 4K7Z=FRS
 4L0HQ=NARG
