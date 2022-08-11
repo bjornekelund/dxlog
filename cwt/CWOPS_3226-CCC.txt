@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-04
+# Last Edit,2022-08-09
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -636,6 +636,7 @@ DM4CW,Martin,1870,Uslar Germany
 DM4EE,Joe,,Ziethen Germany
 DM4WL,Dieter,,Kreisca Germany
 DM6EE,Lutz,2654,Wolfsburg Germany  (Possibly QRP) 
+DM7EE,Christian,,Wolfsburg Germany
 DO4DXA,Marc,1851,Germering Germany (V31MA)
 DO6AN,Nils,3141,Hamburg Germany
 DP4X,Mario,2801,(DJ2MX)  Muenchen Germany
@@ -719,7 +720,8 @@ EI2IDB,Slav,,Meath Ireland
 EI2IM,Don,55,Virginia Beach VA (W4ZYT)
 EI2KA,Tim,CWA,Skibbereen Ireland
 EI3HA,Tony,,Strandhill Sligo Ireland
-EI4BZ,Dave,,Cork Ireland
+EI3KK,Christian,,(DM7EE) Cty of Mayo/Ireland
+EI4BZ,Dave,3224,Cork Ireland
 EI5EM,Tony,3160,Baile Atha Cliath Ireland
 EI5LA,Megan,3163,Kerry Ireland
 EI6FR,Declan,2811,Dublin Ireland
@@ -727,7 +729,7 @@ EI6KT,John,2965,DublinIreland
 EI6KW,Slav,,Ashbourne Ireland
 EI6LA,Rafal,3194,Wicklow Ireland
 EI7BA,John,,Whitegate Co. Cork. Ireland
-EI8KW,Ryan,,Dublin Ireland
+EI8KW,Ryan,3225,Dublin Ireland
 EI9KY,Colm,,Waterford Ireland
 ER/UW7LL,Yarik,2229,
 ER1SN,Alex,,Chisinau Moldova
@@ -1147,6 +1149,7 @@ JA1GZV,Moto,1014,Tokyo Japan
 JA1LZR,Joe,1010,Suginamiku Tokyo Japan
 JA1NUT,Shin,15,Mohka Tochigi Japan
 JA2BCQ,Kaz,,HAZUGUN AICHI
+JA2HYD,Toshi,,Gifu-Pref Japan
 JA3AVO,Masumi,1200,Itami
 JA4IIJ,Takeshi,733,Hiroshima Japan
 JA4MRL,MasaG,269,Okayama Japan
@@ -1180,6 +1183,7 @@ JN1WFF,Naoki,,Tochigi
 JO1LVZ,OM,,Saitama Japan
 JO4JFH,Hiro,,Okayama Japan
 JR1NHD,Shin,,Kawasaki Kanagawa Japan
+JS1DEH,YU,,Tochigi Japan
 JS2AHG,Astu,,Mishima City Japan
 JT1AA,Gan,,Ulaanbaatar Mongolia
 JT1AS,Sank,,Ulaanbaatar Mongolia
@@ -1795,6 +1799,7 @@ K5UTG,Warren,OK,Shawnee OK
 K5UV,Mike,2701,Newailla OK
 K5UZ,David,1316,Little Rock AR
 K5VBA,Stan,3182,Huntsville AL (Grayling Township MI for summer)
+K5VG,John,3226,Woodbridge VA
 K5VI,Andy,1923,(Andrew) El Paso TX
 K5VR,Stan,889,Tontitown AR
 K5VWW,Orville,TX,Houston TX
@@ -1951,6 +1956,7 @@ K7RI,Tom,WA,Seattle WA
 K7RL,Mitch,2285,Camano Island WA
 K7RR,Peter,1575,Silverdale WA
 K7SF,Steve,1137,West Linn OR
+K7SHR,Paul,WY,Sheridan WY
 K7SO,Doc,WA,Espanola NM
 K7SS,Dan,2053,Seattle WA
 K7SV,Lar,1004,Spotsylvania VA
@@ -2487,6 +2493,7 @@ KG5EMR,Annie,TX,Frisco TX
 KG5FRS,Kathy,LA,Walker LA
 KG5HVO,Bryant,1795,New Orleans LA
 KG5IEE,Randal,2733,Marshall TX
+KG5OA,Doug,TX,Weatherford TX
 KG5OWB,Terry,2683,Universal City TX
 KG5RSG,Mike,TX,Austin TX
 KG5RXG,Mike,2643,Austin TX
@@ -4428,6 +4435,7 @@ VA3QV,Bob,ON,Ottawa ON (QRP)
 VA3RJ,Dave,ON,Toronto ON
 VA3SB,Serge,1488,Missisauga ON (Possibly QRP)  (East Amb.)
 VA3SY,Syl,2433,Alfred ON
+VA3TMV,Tim,ON,Maryhill ON
 VA3TTB,Chuck,ON,Holland Landing ON
 VA3UKR,Maria,ON,
 VA3WB,Dennis,ON,Oakville
@@ -4907,8 +4915,10 @@ W3MC,Mike,MD,Severn MD
 W3MF,John,PA,Kresgeville PA
 W3MS,Craig,MD,Salisbury MD
 W3OKC,Steve,1808,Dover PA
+W3PD,John,PA,Boalsburg PA
 W3PNM,Bill,1985,Willow Hill PA
 W3PU,NY,Adrian,(KO8SCA)  Voyager DX Ass.
+W3QKA,John,PA,ork PA
 W3RE,Matt,2625,East Petersburg PA
 W3RGA,Pat,PA,Sunbury PA
 W3RJ,Rich,PA,Coopersburg PA
@@ -5015,6 +5025,7 @@ W4OI,Tony,553,Meadows of Dan VA
 W4PA,Scott,102,Knoxville TN
 W4PF,Steve,2056,Louisville KY
 W4PM,Puck,93,Mechanicsville VA
+W4QDV,Dave,GA,Powder Springs GA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
 W4RK,Bill,459,Jefferson City MO
