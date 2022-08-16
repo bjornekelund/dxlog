@@ -1,7 +1,7 @@
 # Hawaii QSO Party database
 # Based on NAQP database by Claude VE2FK
 # Report updates and corrections directly ve2fk@arrl.net
-# Last updated 2022-08-07
+# Last updated 2022-08-16
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -361,7 +361,6 @@ AB5OR=MS
 AB5TY=VA
 AB5VJ=PA
 AB5XM=TX
-AB5XS=TX
 AB5Z/7=MT
 AB5ZA/7=MT
 AB5ZA=MT
@@ -1419,7 +1418,7 @@ K1LT=OH
 K1LTJ=FL
 K1LU=MA
 K1LYV=NH
-K1LZ=ME
+K1LZ=MA
 K1MBO=RI
 K1MC=MA
 K1MD=RI
