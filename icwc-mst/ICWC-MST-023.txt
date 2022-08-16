@@ -4,6 +4,24 @@
 # ICWC-MST
 # Last Edit,2022-08-15
 # New practice contest 20-25 WPM
+AC3RA,RICH,PA,Pittsburgh PA
+AJ6GE,KEN,CA,Sacramento CA
+KC0PA,TONY,CO,?
+KF0IDJ,RICH,CO,Loveland CO
+N6BT,TOM,AZ,Kingman AZ
+N9XVZ,KARL,WI,Belleville WI
+NJ6I,BOB,CA,Rancho Palos Verdes CA
+VE3CBK,CHRIS,ON,Kanata ON
+W0RLY/M,ERIC,GA,?
+W1AST,LARRY,VT,Longmeadow MA
+WA0R,BRIAN,CO,Elizabeth CO
+WA2VAM,KEVIN,NY,Cortland NY
+WA3RQW,PHIL,NJ,?
+WA7UBA,BRENT,UT,Eagle Mountain UT
+WB2LBQ,PAUL,NY,Port Jefferson Stati NY
+WG3I/M,ISAAC,MD,Bel Air MD
+WZ5K,MARK,OK,Oklahoma City OK
+
 WA8FTA,BRUCE,
 K0XX,JOHN,
 WD5HOW,VICTOR,
