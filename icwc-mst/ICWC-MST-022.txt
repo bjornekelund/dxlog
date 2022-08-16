@@ -2,8 +2,16 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-08-02
+# Last Edit,2022-08-15
 # New practice contest 20-25 WPM
+WA8FTA,BRUCE,
+K0XX,JOHN,
+WD5HOW,VICTOR,
+VE3PZ,PAT,
+K9KJ,TOM,
+W6DER,Derek,
+K4WK,Wayne,
+
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -4802,6 +4810,7 @@ W0SUZ,Tim,2907,Newburg MO
 W0TG,Bill,1873,Arlington TX
 W0UA,Geo,944,Longmont CO
 W0UO,Jim,1069,Weatherford TX
+W0UY,Tom,,
 W0VQ,GEOFF,WA,Amboy WA
 W0VX,Dave,967,Garland TX
 W0XE,Don,KS,Overland Park KS
