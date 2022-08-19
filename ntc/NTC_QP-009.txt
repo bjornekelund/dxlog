@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2022-07-18
-# Last number listed 168
+# Last edit,2022-08-18
+# Last number listed 171
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to ve2fk@arrl.net
@@ -10,6 +10,7 @@
 5X8C,Anton,154,(ON6NL)  Entebbe Uganda
 9A1AA,Peter,37,Belisce Croatia
 9A3SM,MATO,136,Zagreb Croatia
+AE1N,Layne,171,Nashua NH
 CT7AUP,David,118,Arruda dos Vinhos Portugal
 DC8ED,Karl,77,Oberhausen Germany
 DF4WX,Micha,83,Gensingen Germany
@@ -114,6 +115,7 @@ PA1REG,Reg,87,
 PA2DK,Dennis,161,Moordrecht Netherlands
 PA2G,Gerard,30,
 PA2JJB,Jan,24, 
+PA2PCH,Ad,170,Apeldoorn Netherlands
 PA2RG,Roel,13, 
 PA2SQ,Simon,71,
 PA2V,Peter,129,
@@ -170,6 +172,7 @@ PD0SOT,Edwin,15,
 PD0WLM,William,25,
 PE0CD,Chris,163,Helmond Netherlands
 PE1CDA,Peter,167,Franeker Netherlands
+PE1LDS,Ferry,169,CC Den Haag Netherlands
 PE1PYZ,Henk,39, 
 PE1RCT,Andreas,122,
 PE4KH,Koos,165,Utrecht Netherlands

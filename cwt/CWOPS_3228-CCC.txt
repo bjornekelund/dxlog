@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-12
+# Last Edit,2022-08-17
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -939,6 +939,7 @@ GD0OUD,Stu,1829,Onchan Isle of Man
 GD4EIP,Colyn,2187,Foxdale Isle of Man
 GI2CWO,,,CWOPS Northern Ireland
 GI4CFQ,Gary,765,Belfast Northen Ireland
+GI4SJQ,George,,Armagh Northern Ireland
 GI4SZW,Jim,,County Armagh Northern Ireland
 GM0EPO,John,1974,Scotland  (Possibly QRP)
 GM0EUL,Peter,1899,Duns Scotland
@@ -1177,6 +1178,7 @@ JK2VOC,Yoshie,,Tsu-City Mie Japan
 JL1GEL,Aki,1202,Tokyo Japan
 JL1IRB,Hoz,420,Sagamihara City Japan
 JL8KUS,Tubo,1179,Hokkaido Japan
+JM8QGN,Tori,,Hokkaido Japan
 JN1THL,Ken,161,Tokyo Japan (Director)
 JN1WFF,Naoki,,Tochigi
 JO1LVZ,OM,,Saitama Japan
@@ -2049,6 +2051,7 @@ K8TR,Randy,CA,
 K8TS,Dale,MI,Jackson MI
 K8TW,Tom,OH,Pickerington OH
 K8UDH,Bruce,1654,Wausa NE (QTX Mgr.)
+K8UO,,MI,Utica Shelby Emergency Com. Ass.
 K8UT,Larry,1672,Whitmore Lake MI
 K8VA,Mike,2468,Trenton MI
 K8WP,Jim,MI,Muskegon MI
@@ -2093,7 +2096,7 @@ K9JM,Jim,909,Grass Valley CA
 K9JP,Jeff,MI,Traverse City MI
 K9JQ,Jim,IL,Chicago IL
 K9JWI,Clyde,2103,Lafayette IN
-K9KJ,TJ,IN,Munster IN
+K9KJ,TJ,3228,Munster IN
 K9KM,Howie,1886,Hawthorn Woods IL
 K9KMD,Kent,IL,Algonquin IL
 K9KSG,Junior,IL,Bourbonnais IL
@@ -2765,6 +2768,7 @@ KT9N,Chris,CWA,Leesburg VA
 KT9P,Scott,IL,Caledonia IL
 KT9X,Flip,2813,Pahrump NV
 KU1N,Keith,1968,Greenfield MA
+KU1T,TIM,FL,Vero Beach FL
 KU2C,Pete,PA,Green Lane PA
 KU2CW,Terry,2279,(N6CW)
 KU3X,Barry,PA,Bethlehem PA
@@ -3257,7 +3261,7 @@ N4WJ,Frank,KY,Lexington KY
 N4WLP,BILL,CWA,Merritt Island FL
 N4WO,Greg,1511,Brooksville FL
 N4XD,Ron,NC,Pittsboro NC
-N4XL,Ken,2356,Greenwood SC
+N4XL,Tom,2356,Greenwood SC
 N4XP,Tom,GA,Monroe GA
 N4XY,Ed,GA,Marietta GA
 N4XYZ,Jim,VA,Virginia Beach VA
@@ -3479,6 +3483,7 @@ N8HHG,Paul,OH,Northfield Center OH
 N8HP,Ed,OH,Middletown OH
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
+N9JF,Jim,MO,
 N8JLM,Jay,OH,Ritman OH
 N8KH,Ken,FL,Melbourne FL
 N8KMY,Craig,MI,Kalkaska MI
@@ -4767,6 +4772,7 @@ W1HIJ,Bill,709,Upland CA
 W1HIS,Chuck,306,Belmont MA
 W1HL,Jim,MA,Andover MA
 W1HT,Ralph,FL,Boca RAton FL
+W1IE,Jerry,VA
 W1JR,Joe,249,Amherst NH
 W1JSB,Hans,NH,Canterbury NH
 W1KM,Greg,1411,Marstons Mills MA
@@ -4944,6 +4950,7 @@ W3YR,Ted,2719,Forest Hill MD
 W3YY,Bob,517,Clifton VA
 W3ZF,Dan,3069,Highlands Ranch CO
 W3ZL,Cliff,NC,Davidson NC
+W3ZWN,John,SC,Columbia SC
 W4/LZ5KF,Claude,2326,(F5PBL)
 W4ALF,Chris,KY,Independence KY
 W4ANE,Jim,SC,Columbia SC
@@ -5708,7 +5715,7 @@ WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
 WN8F,Ken,NY,Ashland KY
-WN9J,Mark,WA,Swquim WA
+WN9J,Mark,1100,Swquim WA
 WN9W,Dave,OH,Bentleyville OH
 WO1X,Tom,1310,Bristol CT
 WO4O,Ric,1311,Grand Island FL

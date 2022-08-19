@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3227
-# Last updated 2022-08-13
+# Contains members up to #3228
+# Last updated 2022-08-19
 2E0DCW=Gerald;G
 2E0OBO=Bob;2381
 3B9FR=Robert;1343
@@ -930,6 +930,7 @@ GB50AGC=Mac;1979
 GD0OUD=Stu;1829
 GD4EIP=Colyn;2187
 GI4CFQ=Gary;765
+GI4SJQ=George;GI
 GI4SZW=Jim;GI
 GM0EPO=John;1974
 GM0EUL=Peter;1899
@@ -1166,6 +1167,7 @@ JK2VOC=Yoshie;JA
 JL1GEL=Aki;1202
 JL1IRB=Hoz;420
 JL8KUS=Tubo;1179
+JM8QGN=Tori;JA
 JN1THL=Ken;161
 JN1WFF=Naoki;JA
 JO1LVZ=OM;JA
@@ -2078,7 +2080,7 @@ K9JM=Jim;909
 K9JP=Jeff;MI
 K9JQ=Jim;IL
 K9JWI=Clyde;2103
-K9KJ=TJ;IN
+K9KJ=TJ;3228
 K9KM=Howie;1886
 K9KMD=Kent;IL
 K9KSG=Junior;IL
@@ -2743,6 +2745,7 @@ KT9N=Chris;CWA
 KT9P=Scott;IL
 KT9X=Flip;2813
 KU1N=Keith;1968
+KU1T=TIM;FL
 KU2C=Pete;PA
 KU2CW=Terry;2279
 KU3X=Barry;PA
@@ -3231,7 +3234,7 @@ N4WJ=Frank;KY
 N4WLP=BILL;CWA
 N4WO=Greg;1511
 N4XD=Ron;NC
-N4XL=Ken;2356
+N4XL=Tom;2356
 N4XP=Tom;GA
 N4XY=Ed;GA
 N4XYZ=Jim;VA
@@ -3494,6 +3497,7 @@ N9GG=Bob;2517
 N9GVP=Tom;IL
 N9ITO=Jim;IL
 N9IXD=Marty;1393
+N9JF=Jim;MO
 N9LB=LLoyd;WI
 N9LGP=David;IL
 N9LJX=Scott;IN
@@ -4735,6 +4739,7 @@ W1HIJ=Bill;709
 W1HIS=Chuck;306
 W1HL=Jim;MA
 W1HT=Ralph;FL
+W1IE=Jerry;VA
 W1JR=Joe;249
 W1JSB=Hans;NH
 W1KM=Greg;1411
@@ -4911,6 +4916,7 @@ W3YR=Ted;2719
 W3YY=Bob;517
 W3ZF=Dan;3069
 W3ZL=Cliff;NC
+W3ZWN=John;SC
 W4/LZ5KF=Claude;2326
 W4ALF=Chris;KY
 W4ANE=Jim;SC
@@ -5668,7 +5674,7 @@ WN7ETQ=Carl;2300
 WN7S=Dick;1945
 WN7Y=Ron;MT
 WN8F=Ken;NY
-WN9J=Mark;WA
+WN9J=Mark;1100
 WN9W=Dave;OH
 WO1X=Tom;1310
 WO4O=Ric;1311

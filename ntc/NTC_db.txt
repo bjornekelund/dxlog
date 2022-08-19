@@ -1,10 +1,11 @@
-# NTC QP database
+# Netherlands Telegraphy Club QSO Party database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# Last updated 2022-08-09
+# Last updated 2022-08-19
 5X8C=Anton;154
 9A1AA=Peter;37
 9A3SM=MATO;136
+AE1N=Layne;171
 CT7AUP=David;118
 DC8ED=Karl;77
 DF4WX=Micha;83
@@ -109,6 +110,7 @@ PA1REG=Reg;87
 PA2DK=Dennis;161
 PA2G=Gerard;30
 PA2JJB=Jan;24
+PA2PCH=Ad;170
 PA2RG=Roel;13
 PA2SQ=Simon;71
 PA2V=Peter;129
@@ -165,6 +167,7 @@ PD0SOT=Edwin;15
 PD0WLM=William;25
 PE0CD=Chris;163
 PE1CDA=Peter;167
+PE1LDS=Ferry;169
 PE1PYZ=Henk;39
 PE1RCT=Andreas;122
 PE4KH=Koos;165
