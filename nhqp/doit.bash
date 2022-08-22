@@ -10,7 +10,7 @@ BEGIN {
   FS=","
   printf("#0 New Hampshire QSO Party database\n");
   printf("#1 Based on NAQP database maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";

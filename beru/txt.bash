@@ -13,7 +13,7 @@ BEGIN {
 END {
   printf("#0 BERU HQ stations database\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }' < $1 | sort | sed 's/^\#. /\# /g' > $OUTFILE
 

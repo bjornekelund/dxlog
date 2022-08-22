@@ -42,7 +42,7 @@ END {
   printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
   printf("#0 10-10 QSO Party database\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly ve2fk@arrl.net\n");
+  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in calls) 
   {
