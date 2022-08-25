@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-22
+# Last Edit,2022-08-24
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -203,11 +203,11 @@ AC1GF,Bob,NH,Hudson NH
 AC2FA,Bob,1026,Getzville NY
 AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
-AC2K,Alan,35,Redmond WA (NW-US Amb.)
 AC2KJ,Dima,1376,East Setauket NY
 AC3IU,Rich,PA,
 AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
+AC3RA,Rich,PA,Pittsburgh PA
 AC3U,Bill,1699,St Marys City MD (W3UL Remote)
 AC4BT,Jerry,1148,Herndon VA  (CW Academy Mgr.)
 AC4CA,John,650,Fredericksburg TX
