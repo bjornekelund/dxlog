@@ -3,12 +3,13 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-24
+# Last Edit,2022-08-25
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
 
 2E0DCW,Gerald,,London England
+2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,1343,Rodriguez Island
 3D2AG,Antoine,2554,Suva Fiji
@@ -1329,6 +1330,7 @@ K1LGM,Joe,CT,Milford CT
 K1LGQ,Dennis,NH,Brookline NH
 K1LHO,Mike,2494,Meridien CT
 K1LKP,Carmen,724,Salem NH
+K1LT,Vic,Carroll OH
 K1LZ,Krassy,ME,Remote ME
 K1MAZ,Nick,MA,Monson MA
 K1MD,Michael,RI,Warwick RI  (Possibly QRP) 
@@ -1615,6 +1617,7 @@ K4EMF,Jay,3041,Canton GA
 K4EOR,George,1655,Cataula GA
 K4ESE,Neill,NC,Lake Waccaw NC
 K4EU,Steve,1329,Culpeper VA
+TF/K4EU,Steve,1329,Iceland
 K4EWG,Pete,502,Stockbridge GA
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
@@ -1658,6 +1661,7 @@ K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
 K4NMR,Tom,2298,Tampa FL
+TF/K4NMR,Tom,2298,Iceland
 K4NNK,Gary,3165,Atlanta GA
 K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
@@ -1753,6 +1757,7 @@ K5JX,Rene,1003,Weslaco TX
 K5KB,Bill,TX,Medina TX
 K5KC,Ken,2067,Stillwater OK
 K5KG,Geo,970,(970) Sarasota FL (VP2MKG)
+TF/K5KG,Geo,970,Iceland
 K5KJ,Sam,TX,Garland TX
 K5KLA,Bill,LA,Kenner LA
 K5KPE,Bob,AR,Bella Vista AR
@@ -2684,7 +2689,7 @@ KN6NUN,Zhuo,3117,San Jose CA
 KN6NVZ,Kevin,CA,Visalia CA
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
-KN8CWO,,,Columbus OH
+KN8CWO,,,Great Lakes CWops Club (Columbus OH)
 KN8U,Bruce,2297,Atlanta GA
 KN9X,Don,IL,Yorkville IL
 KO0L,Joe,AR,Hot Springs Village AR
@@ -2697,7 +2702,6 @@ KO4GDB,Jim,GA,Dalton GA
 KO4GEO,Mike,CWA,Nashville TN
 KO4LAO,Jim,3200,Travelers Rest SC
 KO4UHE,Rick,KY,Danville KY
-KO4UW,Steve,1234,
 KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
 KO6U,Nathan,CA,Corona CA
@@ -3205,7 +3209,7 @@ N4IR,Jim,TN,Kingsport TN
 N4IRN,John,268,Glenwood MD
 N4IU,Pat,3027,Gainsville FL
 N4IY,Terry,2250,Borden IN
-N4JEH,Jenna,3203,Ringgold FA
+N4JEH,Jenna,3203,Ringgold GA
 N4JGD,David,NC,Kinston NC
 N4KD,David,GA,Duluth GA
 N4KH,Jim,2409,Huntsville AL
@@ -5072,6 +5076,7 @@ W4YE,Buddy,396,Wirtz VA
 W4YES,Glenn,TN,Nashville TN
 W4YTG,Tom,TN,La Crosse TN
 W4ZGR,Peter,2850,Palm City FL
+W4ZXT,Jay,KY,Richmond KY
 W4ZYT,Don,55,Virginia Beach VA
 W5AG,Arch,LA,Lafayette LA
 W5BIB,Steve,2350,Irvington AL
