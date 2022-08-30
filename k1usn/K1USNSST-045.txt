@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-08-23
+# 1-Last Edit,2022-08-30
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -1404,6 +1404,7 @@ K2CD,MIKE,PA,
 K2CDJ,,NY,
 K2CDX,MIKE,NY,
 K2CM,GEORGE,NY,Vestal NY
+K2CMW,CRAIG,NJ,Chatham NJ
 K2CS,CHRIS,NY,
 K2CUB,SCOTT,MI,
 K2CYE,MIKE,NY,
@@ -1800,6 +1801,7 @@ K3YJP,,MD,
 K3YMI,JIM,MD,Columbia MD
 K3YNY,RICK,MD,
 K3YP,RAY,OH,
+K3YQA,BILL,PA,Bethel Park PA
 K3ZA,TONY,PA,Coatesville PA
 K3ZD,,PA,
 K3ZE,,MD,
@@ -2099,6 +2101,7 @@ K4UY,,AL,
 K4VIG,GARY,TN,
 K4VJ,,FL,
 K4VNY,,NC,
+K4VRY,AVERY,GA,Ringgold GA
 K4VU,ROB,AL,
 K4VV,JACK,VA,
 K4WCL,JOHN,SC,
@@ -3469,6 +3472,7 @@ KA8TNK,BRUCE,MI,Trenton MI
 KA8VZB,JOE,VA,Burke VA
 KA9A,BILL,CA,
 KA9BHD,BOB,IL,
+KA9DCU,RAY,WI,Mt Horeb WI
 KA9DVX,JOHN,IL,Princeton IL
 KA9FON,MILT,MI,Hastings MI
 KA9FZR,FRANK,WI,
@@ -5525,6 +5529,7 @@ M1X,STEVE,G,Sevenoaks Kent Englad
 M2U,Ray,G,Surrey England
 M4J,Jon,DX,
 M6MPC,Mike,G,Brede England
+M7TSM,ALAN,DX,Claverham England
 MI0WWB,WILL,GI,Northern Irland
 MM0IVR,RONAN,GM,Mussenburg Scotland
 MM9I,JOHN,GM,East Kilbride Scotland
@@ -5942,6 +5947,7 @@ N2NS,BOB,CA,
 N2NT,ANDY,NJ,
 N2OA,DAVE,NY,
 N2OBX,DAN,NY,
+N2OG,SCOTT,SC,Greenville SC
 N2OPW,PAUL,OH,
 N2OT,,MA,
 N2OUV,JOE,NY,
@@ -6200,6 +6206,7 @@ N4ABT,CLEVE,TN,
 N4ACW,EMILY,VA,
 N4AF,HOWIE,NC,Blounts Creek NC
 N4AH,,SC,
+N4AHO,DOUG,SC,Walhalla SC
 N4AHX,ALLEN,NC,Laurel Springs NC
 N4AN,,AL,
 N4AO,JEFF,FL,
@@ -6299,6 +6306,7 @@ N4GVA,,FL,
 N4HAI,TOM,OH,
 N4HAL,BILL,NC,
 N4HAY,DICK,NC,Morrisville NC
+N4HNH,DOUG,GA,Suwanee GA
 N4IFJ,TIM,FL,Melbourne FL
 N4IG,DAVE,FL,
 N4IJ,DOUG,NC,
@@ -8239,6 +8247,7 @@ PF5X,Enno,PF,Cuijk Netherlands
 PF6IK,THEO,DX,Amsterdam Netherlands
 PG4I,Jo,PG,Culemborg Netherlands
 PH60VHSC,Frans,PA,(PA0INA)  60th VHSC
+PT7BT,NETO,PY,Fortaleza Brazil
 PY1AMF,Mar,PY,Paranagua Brazil
 PY2BBQ,HILTON,PY,Sao Paulo Brazil
 PY2FER,FERNANDO,PY,Campinas Brazil
@@ -8509,6 +8518,7 @@ VE2VAB,GEORGE,QC,Gatineau QC
 VE2WX,GIL,QC,Cap à L'Aigle La balbaie QC
 VE2XTD,RICHARD,QC,
 VE2ZAZ,BERTRAND,QC,
+VE2ZDR,DAN,QC,Longueuil QC
 VE2ZM,SIMON,QC,St Joseph du Lac QC
 VE3AAQ,DAVE,ON,
 VE3AGC,BOB,ON,
@@ -13147,4 +13157,5 @@ YO3FFF,Christi,YO,Bucuresti Romaina
 YU7OQA,KARLO,DX,?
 YU9CF,ZORAN,YU,Cacak Serbia
 YV1LBB,Lorenzo,YV,Maracaibo Zulia Venezuela
+ZA4KC,TIM,DX,Kruja Albania
 ZZ0ZZZ,TEST,ZZ,End of file test line.

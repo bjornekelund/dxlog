@@ -1950,7 +1950,6 @@ K7MOT,Key,CA,San Diego Motorola ARC
 K7NJ,Riki,275,Cedar City UT (Director)
 K7NM,Lee,801,West Point UT
 K7NT,Mike,WA,Olympia WA
-K7NV,Kurt,441,Minden NV
 K7ON,Brian,AZ,Stanfield AZ
 K7PAX,Paula,WA,Port Angeles WA
 K7PKA,Paula,3055,Big Arm MT
@@ -4355,6 +4354,7 @@ UR2Y,Val,2698,Chernivtsi Ukraine
 UR3HC,Alex,,Krekenchuk Ukraine
 UR4GA,Boris,,Chaplinka Ukraine
 UR5AO,Vlad,,Sumy Ukraine
+UR5ECW,Alex,3230,Ukraine
 UR5FCM,Igor,,Odessa Ukraine (Possibly QRP) 
 UR5LMB,Sergey,,Kharkovskaya Ukraine
 UR5MM,Rudy,382,Privolie Ukraine
