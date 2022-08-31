@@ -1,9 +1,11 @@
 #!/bin/bash
-dos2unix -q $1 $2
 
 OUTFILE=RTTYOPS_WW_db.txt
+FILE=`ls IG_WW_* | tail -1 2> /dev/null`
 
-cat $1 $2 | gawk '
+dos2unix -q $FILE
+
+cat $FILE | gawk '
 BEGIN {
   FS=","
 }
@@ -14,7 +16,7 @@ BEGIN {
     if ($3 ~ /State|Exch1/) col = 2;
     if ($4 ~ /State|Exch1/) col = 3;
     if ($5 ~ /State|Exch1/) col = 4;
-    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    printf("\"%s\" --> col=%d\n", $0, col) > "/dev/stderr";
   } 
   else 
   {
@@ -24,7 +26,7 @@ BEGIN {
         printf("Replaced %s with %s for %s\n", year[$1], $2, $1) > "/dev/stderr";
       year[$1] = $2;
     }
-    else
+    else if ($0 !~ /^(!|#|$)/)
     {
       printf("Ignored: %s\n", $0) > "/dev/stderr";
     }
@@ -39,7 +41,7 @@ END {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }' | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE
 echo Created $OUTFILE
-unix2dos $OUTFILE
 
 exit
