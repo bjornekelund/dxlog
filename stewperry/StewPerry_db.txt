@@ -1,7 +1,8 @@
-# Stew Perry data base
+# Stew Perry TBDC data base
+# Also used for Makrothen and CQ WW VHF contests
 # Data collected and maintained by VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Last updated 2022-07-16
+# Last updated 2022-08-31
 2E0CVN=IO80
 2E0KIM=JO03
 3A2MW=JN33

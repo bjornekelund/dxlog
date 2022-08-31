@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-25
+# Last Edit,2022-08-30
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -3707,6 +3707,7 @@ NN0G,Dana,2910,Littleton CO
 NN0TE,Trent,2908,Cape Coral FL
 NN1C,Marty,2276,Waban MA
 NN2DX,Bray,NY,RHRDXA Pawling NY
+NN2L,Chuck,NY,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
 NN3Q,Russ,PA,Wernersville PA
 NN3W,Rich,VA,Vienna VA
@@ -5634,6 +5635,7 @@ WB9IXS,Jim,Wi,Wales WI
 WB9LUR,Randy,FL,Fort While FL
 WB9OQV,Jim,MO,
 WB9QDL,Ken,CO,Louisville CO
+WB9VPG,Neil,KY,Union KY
 WB9Z,Jerry,707,Crescent City IL
 WC0W,John,3123,Saint Johns FL
 WC2C,Ron,NY,Brooklyn NY

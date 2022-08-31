@@ -20,10 +20,11 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
-  printf("#0 Stew Perry data base\n");
-  printf("#1 Data collected and maintained by VE2FK\n");
-  printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#0 Stew Perry TBDC data base\n");
+  printf("#1 Also used for Makrothen and CQ WW VHF contests\n");
+  printf("#2 Data collected and maintained by VE2FK\n");
+  printf("#3 Send new info/corrections to ve2fk@arrl.net\n");
+  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
 }' $FILE | sort | sed 's/^#./#/g' > $OUTFILE
 
 echo Created $OUTFILE

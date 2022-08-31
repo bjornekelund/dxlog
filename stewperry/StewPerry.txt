@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2022-07-15
+# 3-Last Edit,2022-08-12
 # 4-Last updated from log of VE2FK
 # 5-This file is used for the following contest(s):
 # ARRLIDC
@@ -12,8 +12,10 @@
 # CQWWVHF 
 # GRIDCHRTTY 
 # MAKRORTTY 
+# SE_VHF_SPR
 # STEWPERRY 
 # TARAGRID 
+# VHF_NAMSS
 # WWDIGI 
 2E0CVN,,IO80,
 2E0KIM,,JO03,

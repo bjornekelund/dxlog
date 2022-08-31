@@ -3,7 +3,7 @@
 # QSOP_TX
 # QSOPARTY TX
 # Send corrections direct to ve2fk@arrl.net
-# Last Edit,2020-09-04
+# Last Edit,2022-04-06
 # Compiled by NO5W
 #
 8P9G,8P,
@@ -164,6 +164,7 @@ AE7K,NV,
 AE7KI,TN,
 AE8EA,OH,
 AF2SC,NY,
+AF5J,HARR,
 AF5LA,COML,
 AF5Q,,(Mobile)
 AF5UX,GILL,
