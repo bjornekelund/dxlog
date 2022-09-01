@@ -10,14 +10,14 @@ BEGIN {
   FS=","
 }
 {
-  firstcharcall = substr($1, 1, 1);
-  call = $1;
-  grid = $3;
-  notignore = firstcharcall ~ /[0-9,A-Z]/ && grid ~ /^[A-R][A-R][0-9][0-9]$/
-  if (notignore)
-    printf("%s=%s\n", call, grid);
+  if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /^[A-R][A-R][0-9][0-9]$/)
+  {
+    printf("%s=%s\n", $1, $3);
+  }
   else if ($0 !~ /^(!|#|$)/ && $3 != "")
+  {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
+  }
 }
 END {
   printf("#0 Stew Perry TBDC data base\n");
