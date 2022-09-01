@@ -1,15 +1,14 @@
 #!/bin/bash
 FILE=`ls CWOPS* | tail -1 2> /dev/null`
-echo Parsing $FILE
+OUTFILE=CWOpen_db.txt
+XDTFILE=CWOpen.xdt
 
-dos2unix $FILE
+echo Parsing $FILE
+dos2unix -q $FILE
+
 gawk '
 BEGIN {
   FS=","
-  printf("#0 CWOps Open database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {
@@ -20,11 +19,69 @@ BEGIN {
     if ($5 ~ /Name/) col = 4;
       printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Za-z]+$/)
-      printf("%s=%s\n", $1, toupper($col));
-    else
+    newname = toupper($col);
+    if ($1 ~ /^[0-9A-Z\/]+$/ && newname != "") 
+    {
+      if (name[$1] != $col && name[$1] != newname && name[$1] != "")
+        printf("Replaced %s with %s for %s\n", name[$1], newname, $1) > "/dev/stderr";
+      name[$1] = newname;
+      calls[$1] = $1;
+    }
+    else if ($0 !~ /^(!|#|$)/) 
+    {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    }
   }
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > CWOpen_db.txt
-unix2dos CWOpen_db.txt
+END { 
+  printf("#0 CWOps Open database\n");
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  for (call in calls)
+    printf("%s=%s\n", call, name[call]);
+
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
+
+echo Parsing $FILE
+
+gawk '
+BEGIN {
+  FS=","
+}
+{
+  if ($0 ~ /!!Order!!/) {
+    if ($2 ~ /UserText/) col = 1;
+    if ($3 ~ /UserText/) col = 2;
+    if ($4 ~ /UserText/) col = 3;
+    if ($5 ~ /UserText/) col = 4;
+      printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+  } else {
+    newtext = toupper($col);
+    if ($1 ~ /^[0-9A-Z\/]+$/ && newtext != "") 
+    {
+      if (text[$1] != $col && text[$1] != newtext && text[$1] != "")
+        printf("Replaced %s with %s for %s\n", text[$1], newtext, $1) > "/dev/stderr";
+      text[$1] = newtext;
+      calls[$1] = $1;
+    }
+    else if ($0 !~ /^(!|#|$)/) 
+    {
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    }
+  }
+}
+END {
+  printf("#TITLE CWOps CW Open participants\n");
+  for (call in calls)
+    printf("%s %s\n", call, text[call]);
+
+}' < $FILE | sed 's/  / /g' | sort > $XDTFILE
+
+echo Created $XDTFILE
+unix2dos -q $XDTFILE
+
+exit
