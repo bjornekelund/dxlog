@@ -22,14 +22,14 @@ BEGIN {
     newname = toupper($col);
     if ($1 ~ /^[0-9A-Z\/]+$/ && newname != "") 
     {
-      if (name[$1] != $col && name[$1] != newname && name[$1] != "")
-        printf("Replaced %s with %s for %s\n", name[$1], newname, $1) > "/dev/stderr";
+#      if (name[$1] != $col && name[$1] != newname && name[$1] != "")
+#        printf("Replaced %s with %s for %s\n", name[$1], newname, $1) > "/dev/stderr";
       name[$1] = newname;
       calls[$1] = $1;
     }
     else if ($0 !~ /^(!|#|$)/) 
     {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+#      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
 }
@@ -70,7 +70,7 @@ BEGIN {
     }
     else if ($0 !~ /^(!|#|$)/) 
     {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+#      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
 }
@@ -81,6 +81,7 @@ END {
 
 }' < $FILE | sed 's/  / /g' | sort > $XDTFILE
 
+echo Parsed $FILE
 echo Created $XDTFILE
 unix2dos -q $XDTFILE
 
