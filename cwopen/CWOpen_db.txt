@@ -1,7 +1,7 @@
 # CWOps Open database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-09-01
+# Last updated 2022-09-02
 2E0DCW=GERALD
 2E0FPW=JK
 2E0OBO=BOB
