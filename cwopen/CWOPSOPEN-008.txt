@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,UserText,
 # CWOPSOPEN
 # LastEdit,2022-09-02
-# Thanks N1LN,SM7IUN, N7WY.
+# Thanks N1LN, SM7IUN, N7WY.
 # Two files mixed, Names_VE2FK and CWOPS.
 # TEAMS at end of the file, not in order.
 
@@ -294,7 +294,7 @@ AA7ST,John,Marana AZ
 AA7TQ,Gord,Spokane WA
 AA7TQ,GORDON,Twin falls ID
 AA7UN,JIM,ID
-AA7V,Steve,Francescottsdale AZ
+AA7V,Steve,
 AA7WG,STEVE,ID
 AA7WU,Mike,Nammpa ID
 AA7ZZ,CARL,Leawood KS
@@ -387,7 +387,7 @@ AB4BJ,BILL,GA
 AB4FH,GEO,SC
 AB4GG,KENNY,TN
 AB4IQ,ED,KY
-AB4PP,JP,(John)  Four Oaks NC
+AB4PP,JP,(John)  
 AB4SF,WRAY,VA
 AB4TT,Steve,
 AB4WL,Jim,Fultondale AL
@@ -634,7 +634,7 @@ AD6FC,Fred,Crescent City CA
 AD6G,MILL,
 AD6HF,BOB,CA
 AD6J,ELLIS,
-AD6JV,Bill,Charlottesville VA
+AD6JV,Bill,
 AD6KA,KEN,
 AD6KH,JOEL,CA
 AD6PC,PAUL,
@@ -1734,7 +1734,7 @@ DL5SJP,KARL,
 DL5SSA,ULI,
 DL5WS,HANS,
 DL5WW,GUENTER,
-DL5XL,Felix,Hagen im Bremischen 
+DL5XL,Felix,
 DL5YCI,Mic,Loehne 
 DL5YL,Tina,
 DL5YM,Fred,Strausberg 
@@ -1912,10 +1912,10 @@ DR4A,WOLFGANG,
 DR7T,MARTIN,
 DU1OE,Hannes,
 DU3/N0QM,Larry,
-DU3LA,Larry,Mabalacat Phillippines
+DU3LA,Larry,
 DU7ET,Robert,
 DW3TRZ,Threeza,
-E21EIC,Champ,Bangkok Thailand
+E21EIC,Champ,
 E21YDP,DEJ,
 E41MT,Mai,
 E41WT,Walaa,
@@ -2250,12 +2250,12 @@ EI2FS,EDDY,
 EI2HIB,Martin,Waterford Ireland
 EI2IDB,Slav,Meath Ireland
 EI2II,ENDA,
-EI2IM,Don,Virginia Beach VA (W4ZYT)
+EI2IM,Don,Virginia Beach VA 
 EI3CTB,JUSTIN,
 EI3GC,LIAM,
 EI3HA,Tony,Strandhill Sligo Ireland
 EI3JE,Neil,
-EI3KB,Ray,(KC0URL) Letterkenny Ireland
+EI3KB,Ray,Letterkenny Ireland
 EI4DW,KEN,
 EI4KN,Ronan,
 EI5DI,PAUL,
@@ -2622,11 +2622,11 @@ G0BYH,Geoff,Buckinghamshire
 G0C,DAVID,
 G0CEJ,Harry,Gloucester 
 G0CER,DAVID,
-G0CKP,Steve,(M1X)  Sevenoaks Kent 
+G0CKP,Steve,Sevenoaks Kent 
 G0CXW,THOM,
 G0DGU,PD,
 G0DJA,Dave,Bolsover 
-G0DJA/P,Dave,Portable with a KX3
+G0DJA/P,Dave,
 G0ECJ,Harry,
 G0EFO,Mike,Buildford 
 G0ELZ,Bill,Liverpool 
@@ -2726,7 +2726,7 @@ G3KMQ,Gerry,
 G3KNU,PETER,
 G3KOJ,Raymond,
 G3KSU,Alan,Wiltshire  
-G3KTZ,Ron,Littlebourne Canterbury 
+G3KTZ,Ron,
 G3KZR,Ian,
 G3L,Derrick,
 G3LDI,Roger,
@@ -2782,7 +2782,7 @@ G3SVK,Fred,Romford Essex
 G3SWC,Bryn,
 G3SWH,Phil,
 G3SXW,Roger,
-G3SYS,Darrel,Tucson AZ (AA7FV)
+G3SYS,Darrel,Tucson AZ 
 G3SZU,Keith,Lancashire 
 G3T,BRIAN,
 G3TA,CJ,
@@ -3125,7 +3125,6 @@ GW3YDX,Ron,Four Crosses Wales
 GW4BVJ,Richard,
 GW4GNY,Martin,Wales
 GW4HBK,DD,
-GW4J,Stew,Wales (GW0ETF) 
 GW4JBQ,JULIAN,
 GW4KFD,BARRIE,
 GW4KHQ,JOHN,
@@ -4636,7 +4635,7 @@ K2HYP,George,
 K2HZO,Paul,Ukian CA
 K2IBH,IVAN,
 K2IIL,RALPH,
-K2IW,Zach,(Zachary)  Saratoga Springs NY
+K2IW,Zach,Saratoga Springs NY
 K2IZ,JOHN,NY
 K2J,CARL,NC
 K2JAY,JOHN,
@@ -10086,7 +10085,7 @@ N3JG,JERRY,WV
 N3JIX,BILL,
 N3JNX,JOE,PA
 N3JOK,ED,
-N3JT,Jim,Mclean VA and FL 
+N3JT,Jim,Mclean VA 
 N3JUY,Ridge,(John)  Palm Coast
 N3KCJ,FOSTER,AZ
 N3KHK,John,
@@ -10218,7 +10217,6 @@ N4ACW,Lisa,Victoria VA
 N4AF,Howie,Blounts Creek NC
 N4AM,SHELDON,
 N4AN,ROY,
-N4AO,Jeff,Plaant City FL
 N4APR,Ray,Charlotte NC
 N4AQ,TIM,SC
 N4AR,BILL,KY
@@ -10525,7 +10523,6 @@ N5DRB,DENNIS,AR
 N5DTT,JIM,TX
 N5DX,Kevin,Harrison AR 
 N5DY,JACK,OK
-N5EE,Ken,Gravette AR
 N5EEI,DAVE,TN
 N5EG,TOM,
 N5EIL,Neil,Terrell TX 
@@ -11726,7 +11723,6 @@ NN4SS,Larry,Drayton SC
 NN5CH,CHRIS,
 NN5EG,VERN,TX
 NN5K,DAVE,NM
-NN5O,Larry,Tupelo MS 
 NN5P,Madison,(RC) Cedar Park TX
 NN5T,JON,
 NN6B,Joe,Petaluma CA
@@ -19951,8 +19947,8 @@ C6AUM,Mike,1182,K4RUM in Bahamas
 C6AYW,Steve,2289,Bahamas WA8Y
 C6AZM,Juan,2419,Bahamas
 C92ZO,Mark,1224,N5ZO
-CA3FJK,Fernando,CWA,Santiago de Chilie
-CE2LR,Matt,2281,La Calera V Region Chile (Director)
+CA3FJK,Fernando,CWA,
+CE2LR,Matt,2281,
 CE3CT,Roberto,2837,Santiago Chile
 CE3DNP,Carlos,,Santiago Chile
 CN8YR,Med,1656,Casablanca Morocco
@@ -19962,17 +19958,17 @@ CO6RD,Rey,1898,Sancti Spiritus Cuba
 CO8CY,Oriol,,Guantanamo Cuba
 CO8NMN,Noe,2082,Santiago de Cuba
 CO8ZZ,Raul,1682,Las Tunas Cuba
-CR6K,Fil,2699,(CT1ILT)  S. Martinho da Gandara Portugal
+CR6K,Fil,2699,(CT1ILT)
 CR7AJL,Men,,Almada Portugal
 CT1BOH,Jose,837,Portugal
 CT1DBS,Pedro,,Lisboa Portugal
 CT1DRB,Dave,430,Paio Pires Portugal
-CT1ILT,Fil,2699,(CR6K)  S. Martinho da Gandara Portugal
-CT7AFN,Carlos,,Near Fatima Portugal
-CT7AGZ,Ken,2126,(G4RWD)  Carvoeiro LGA Portugal
+CT1ILT,Fil,2699,(CR6K)  
+CT7AFN,Carlos,,
+CT7AGZ,Ken,2126,(G4RWD)  
 CT7AUP,David,,Arruda dos Vinhos Portugal
-CT9ABV,Ulf,1517,(DL5AXX)  Santana Madeira Island AF-014
-CU3AA,Joao,1804,Angra Do Heroismo Portugal
+CT9ABV,Ulf,1517,(DL5AXX)  
+CU3AA,Joao,1804,
 CU3H,Dave,,Lajes Azores
 CU3HQ,Dave,,Lajes Azores
 CX6VM,Jorge,525,Cerro Largo Uruguay
@@ -20707,7 +20703,7 @@ JF1TTN,Masa,,Wako-City Japan
 JF1UOX,Misa,3011,(NQ1J)  Kanagawa Japan
 JF2IWL,Dai,,Takayama City Japan (CWOpen Reg 3 Mgr.)
 JF3KNW,Nobu,394,Kato City Japan
-JH1GNU,Shigeru,713,Kanagawa Japan
+JH1GNU,Shige,713,Kanagawa Japan
 JH1JDI,Mai,1199,Asaka Japan
 JH3MUV/2,Yoshie,,(JK2VOC)  Mie Japan
 JI1RXQ,Hiro,2223,Ibaraki Japan
@@ -21160,7 +21156,7 @@ K4EU,Steve,1329,Culpeper VA
 K4EWG,Pete,502,Stockbridge GA
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
-K4FT,John,304,Crab Orchard KY
+K4FT,John,304,
 K4FV,Neil,FL,Coral Springs FL
 K4GJF,Gary,VA,Stephens VA
 K4GK,Chas,GA,Sandersville GA
@@ -22668,7 +22664,7 @@ N3HE,Dave,OH,Cincinati OH
 N3HEE,Joe,1283,Point of Rocks MD
 N3HIH,Frank,NC,Durham NC
 N3IQ,Brian,302,Mt Airy MD
-N3JT,Jim,1,Mclean VA and FL (CWops Secretary)
+N3JT,Jim,1,Mclean VA (CWops Secretary)
 N3JUY,Ridge,FL,(John)  Palm Coast
 N3KN,Tony,VA,Blacksburg VA
 N3KR,Paul,PA,Philadelphia PA
@@ -23252,7 +23248,7 @@ NN4NT,Rob,AL,
 NN4RB,Rick,VA,Forest VA
 NN4SS,Larry,SC,Drayton SC
 NN5DE,Dave,3005,Mansfield TX
-NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
+NN5O,Larry,1327,Tupelo MS 
 NN5P,Mad,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
 NN6N,Joe,CA,Petaluma CA
@@ -25490,7 +25486,7 @@ KF5J,John,,*** TEAM Monkeys
 # TEAM PVRC #1
 N1LN,,,*** Capt. TEAM PVRC #1
 N4YDU,,,*** TEAM PVRC #1
-WA4PSC,,,*** TEAM PVRC #1
+N4AF,,,*** TEAM PVRC #1
 WJ9B,,,*** TEAM PVRC #1
 K3PI,,,*** TEAM PVRC #1
 N4NTO,,,*** TEAM PVRC #1
@@ -25499,9 +25495,21 @@ N4FP,,,*** TEAM PVRC #1
 K4QPL,,,*** TEAM PVRC #1
 WT3K,,,*** TEAM PVRC #1
 #
+# TEAM PVRC #2
+K3WA,,,*** PVRC Team #2
+K3MM,,,*** PVRC Team #2
+W3US,,,*** PVRC Team #2
+N3QE,,,*** PVRC Team #2
+#
 # TEAM Website
 SV2BBK,,,*** Capt. TEAM Website
 KB6NU,,,*** TEAM Website
+KC8J,,,*** TEAM Website
+AC5XK,,,*** TEAM Website
+KD4AN,,,*** TEAM Website
+K4RUM,,,*** TEAM Website
+W7IY,,,*** TEAM Website
+KW0J,,,*** TEAM Website
 #
 # TEAM K1USN Radio Club
 K1VUT,,,*** Capt. TEAM K1USN Radio Club
@@ -25523,6 +25531,7 @@ NA2U,,,*** TEAM AOCC Gunslingers
 W9CF,,,*** TEAM AOCC Gunslingers
 KY7M,,,*** TEAM AOCC Gunslingers
 K7JQ,,,*** TEAM AOCC Gunslingers
+K7HP,,,*** TEAM AOCC Gunslingers
 #
 # TEAM Swamp Fox Contest Group
 KY4ID,,,*** Capt. TEAM Swamp Fox Contest Group
@@ -25574,7 +25583,86 @@ G3YLA,,,*** TEAM United Keyers
 G3WZD,,,*** TEAM United Keyers
 G4PFZ,,,*** TEAM United Keyers
 M5D,,,*** TEAM United Keyers
+G8CW,Andy,,(G0IBN) *** TEAM United Keyers
 #
+# TEAM Deep Dixie CC Team Firebird
+NN5O,,,*** Capt. TEAM Deep Dixie CC Team Firebird
+KA5M,,,*** TEAM Deep Dixie CC Team Firebird
+KA7MDM,,,*** TEAM Deep Dixie CC Team Firebird
+KE8G,,,*** TEAM Deep Dixie CC Team Firebird
+N8LR,,,*** TEAM Deep Dixie CC Team Firebird
+OL8R,,,*** TEAM Deep Dixie CC Team Firebird
+#
+# TEAM DFWCG NR1
+W0UO,,,*** Capt. TEAM DFWCG NR1
+W8OV,,,*** TEAM DFWCG NR1
+NM5M,,,*** TEAM DFWCG NR1
+WA5LXS,,,*** TEAM DFWCG NR1
+N5RZ,,,*** TEAM DFWCG NR1
+K5OT,,,*** TEAM DFWCG NR1
+KG5U,,,*** TEAM DFWCG NR1
+KG5OA,,,*** TEAM DFWCG NR1
+KD2KW,,,*** TEAM DFWCG NR1
+#
+# TEAM Santiago de Cuba Contest Team
+CO8NMN,,,*** Capt. TEAM Santiago de Cuba Contest Team
+CO8WN,Mandi,,*** TEAM Santiago de Cuba Contest Team
+CO8OH,Cuti,,*** TEAM Santiago de Cuba Contest Team
+CM3OR,Zeni,,*** TEAM Santiago de Cuba Contest Team
+#
+# TEAM YCCC Morse Marauders
+ZF2VE,,,*** (W1VE) Capt. YCCC TEAM YCCC Morse Marauders
+K2LE,,,*** TEAM YCCC Morse Marauders
+K1LZ,,,*** (KC1KUG) TEAM YCCC Morse Marauders
+KO1H,John,,*** TEAM YCCC Morse Marauders
+K1MT,,,*** TEAM YCCC Morse Marauders
+VE4EA,,,*** TEAM YCCC Morse Marauders
+#
+# TEAM SECC#1
+K4BAI,,,*** Capt. TEAM SECC#1
+W8FN,,,*** TEAM SECC#1
+N4OX,,,*** TEAM SECC#1
+KU8E,,,*** TEAM SECC#1
+AA5JF,,,*** TEAM SECC#1
+NN4K,,,*** TEAM SECC#1
+KY4GS,,,*** TEAM SECC#1
+N4BP,,,*** TEAM SECC#1
+W4WF,,,*** TEAM SECC#1
+N4AO,,,*** TEAM SECC#1
+#
+# TEAM FRC Team Proficiency
+AA3B,,,*** Capt. TEAM FRC Team Proficiency
+K3PP,,,*** TEAM FRC Team Proficiency
+K3UL,,,*** TEAM FRC Team Proficiency
+K3WW,,,*** TEAM FRC Team Proficiency
+KE2D,,,*** TEAM FRC Team Proficiency
+N3RD,,,*** TEAM FRC Team Proficiency
+W2GD,,,*** TEAM FRC Team Proficiency
+W3KB,,,*** TEAM FRC Team Proficiency
+W3MA,,,*** TEAM FRC Team Proficiency
+W8FJ,,,*** TEAM FRC Team Proficiency
+#
+# TEAM FRC Team Competency
+AA3R,,,*** Capt. TEAM FRC Team Competency
+K3QP,,,*** TEAM FRC Team Competency
+N2NC,,,*** TEAM FRC Team Competency
+N2NT,,,*** TEAM FRC Team Competency
+N2RC,,,*** TEAM FRC Team Competency
+NW3Y,,,*** TEAM FRC Team Competency
+W3WHK,,,*** TEAM FRC Team Competency
+WA3AAN,,,*** TEAM FRC Team Competency
+#
+# TEAM TDXS
+N5DTT,,,*** Capt. TEAM TDXS
+K5TU,,,*** TEAM TDXS
+N5XZ,,,*** TEAM TDXS
+KG5U,,,*** TEAM TDXS
+K5GQ,,,*** TEAM TDXS
+NM5G,,,*** TEAM TDXS
+K5TIA,,,*** TEAM TDXS
+#
+
+
 
 
 
