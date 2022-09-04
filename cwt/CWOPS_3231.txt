@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-08-30
+# Last Edit,2022-09-01
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1464,7 +1464,6 @@ K2RS,Jack,CT,Ansonia CT
 K2RSK,Peter,936,East Amherst NY
 K2SAN,Paul,TX,Selma TX
 K2SD,Scott,2266,Fleetwood NC
-K2SEI,Tage,NJ,(Arnold)  Manahawkin NJ
 K2SG,Tony,252,Little Egg Harbor NJ
 K2SX,Dennis,124,Pawleys Island SC
 K2TQC,Bill,NY,Jamesville NY
@@ -3690,6 +3689,7 @@ NK8A,Dave,OH,Wickliffe OH
 NK8O,Chas,KS,Louisburg KS
 NK8S,Mike,MA,Peabody MA
 NK8V,Robert,MI,Fenton MI
+NK9G,Rick,WI,Cudahy WI
 NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
@@ -3707,7 +3707,7 @@ NN0G,Dana,2910,Littleton CO
 NN0TE,Trent,2908,Cape Coral FL
 NN1C,Marty,2276,Waban MA
 NN2DX,Bray,NY,RHRDXA Pawling NY
-NN2L,Chuck,NY,Penfield NY
+NN2L,Chuck,3231,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
 NN3Q,Russ,PA,Wernersville PA
 NN3W,Rich,VA,Vienna VA
