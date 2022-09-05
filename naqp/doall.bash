@@ -7,7 +7,8 @@ rm -f $FOLDER/*
 
 for contest in $LIST; do
   cd ../$contest
-  ./doit.bash
+  echo "Doing" $contest
+  ./doit.bash &> log.txt
   cp *_db.txt $FOLDER
 #  echo $contest
 done

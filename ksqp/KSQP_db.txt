@@ -1,7 +1,7 @@
 # Kansas QSO Party database
 # Based on NAQP database by Claude VE2FK
-# Report updates and corrections directly ve2fk@arrl.net
-# Last updated 2022-08-16
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2022-09-05
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -3695,7 +3695,7 @@ K9SV=IN
 K9SW=IL
 K9TC=MS
 K9TF=WI
-K9TI=IL
+K9TI=IN
 K9TJL=IL
 K9TM=OH
 K9TMS=IL
