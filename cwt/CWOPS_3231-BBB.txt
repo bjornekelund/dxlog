@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-09-01
+# Last Edit,2022-09-05
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1049,6 +1049,7 @@ HR9/N3AD,Alan,727,Roatan Island Honduras
 HR9/W1UE,Dennis, ,Portable Honduras
 HS0ZCK,Joe,339,Floyd VA USA
 HS0ZDJ,John,751,via W2YR USA
+HS0ZPP,Mark,1224,(N5ZO) Thailand
 I0GOJ,Tony,602,Roma RM Italia
 I0YQX,Italo,1746,Roma Italy
 I0ZUT,Jan,,Perugia PG Italia
@@ -2779,9 +2780,10 @@ KU3X,Barry,PA,Bethlehem PA
 KU4NY,Tony,TN,Knoxville TN
 KU4V,Wayne,NC,Cary NC
 KU5B,Colin,418,Houston TX
-KU6CW,Trey,2279,San Diego CA  (Classic Mode Contest Club)
+KU6CW,Terry,2279,San Diego CA  (Classic Mode Contest Club)
 KU6CWO,,,San Diego CA
 KU7T,Andy,1300,North Bend WA
+KU7WX,Chris,,?
 KU7Y,Ron,1211,(New QTH) Mountain Home ID (DN23)
 KU8E,Jeff,208,Ellerslie GA
 KV0I,Bill,2265,Papillion NE
@@ -4490,7 +4492,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Eastern QC
+VE2FK,Dub,1181,Eastern QC FN68HR
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -4678,6 +4680,7 @@ VO1SA,Rick,NL,St John's NL
 VO1TTT,Mike,1347,VE9AA Newfoundland
 VO1WIN,Gerry,191,(W1VE)
 VO2AC,Chris,2778,(VE3FU)  Goose Bay NL
+VP2MDM,George,2652,(K2DM)  Montserrat
 VP2MKG,Geo,,(K5KG) Montserrat
 VP2MVV,Ken,697,Montserrat (N2ZN)
 VP2MXF,Nigel,166,Beru Montserrat (G3TXF)
