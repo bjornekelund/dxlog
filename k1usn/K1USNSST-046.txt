@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-08-30
+# 1-Last Edit,2022-09-06
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -832,6 +832,7 @@ DJ2MX,MARCUS,DL,Muenchen Germany
 DJ3IW,GOETZ,DJ,Burglengenfeld Germany
 DJ5AZ,FRED,DL,
 DK0SU,TOM,DL,Stuffgart Germany
+DK3QZ,DETLEF,DX,Dorsten Germany
 DK3UW,MARTIN,DX,Aumuehle Germany
 DK4RW,WOLF,DL,Linsengericht Germany
 DK6AC,MIKE,DL,Braunschweig Germany
@@ -852,10 +853,12 @@ DL4NAX,FRED,DL,Bindlach Germany
 DL4YHF,WOLF,Spenge Germany
 DL5CL,RON,DL,
 DL5KX,WILFRIED,DL,koein Germany
+DL5SFC,DENIS,DX,Balingen Germany
 DL5WO,OLIVER,DX,Mommenheim Germany
 DL5YV,BEN,DX,Greiz Germany
 DL6KW,LUZ,DX,Satteldorf Germany
 DL6SDW,JOE,DX,Neu-Ulm Germany
+DL7BS,DVET,DX,Berlin Germany
 DL7USW/P,MARK,Berlin Germany
 DL9AAA,JUERGEN,DL,Groebenzell Germany
 DL9BDM,EILERT,DX,?
@@ -937,9 +940,11 @@ GM0EUL,PETER,GM,Duns Scotland
 GM1J,JIM,GM,Edinburgh Scotland
 GM4ATA,JOHN,DX,Kilmarnock Scotland
 GM4TEF,ALLAN,GM,Aberdeenshire Scotland
+GM5TDX,TED,DX,Wishaw Scotland
 GW0ETF,STEW,GW,Bangor Wales
 GW4J,STEW,GW,Bangor Wales
 GW4ZAR,DAVE,GW,Flintshire Wales
+GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW7APP,Ian,GW,Anlesey Wales
 HA8RJ,ATI,HA,Soltvadkert Hungary
 HA8WZ,GYURI,DX,Bekescsaba Hungary
@@ -964,6 +969,7 @@ I2IFT,JOHN,DX,Seriate BG Italy
 I4WYE,STEVE,DX,Modena MO Italy
 I5ECW,VANNI,DX,Montale PT Italy
 I5GJK,FABIO,DX,Montemurlo Italy
+I5OVS,PIERO,DX,Pist oia Italy
 IK1HGE,Bob,DX,Almese TO Italy
 IK1PMR,Andrea,IK,Casale Monferrato Italy
 IK1VQO,GIAN,DX,Cuneo Italy
@@ -4357,6 +4363,7 @@ KE5EN,ERIC,TX,Plano TX
 KE5FRF,HEATH,LA,
 KE5FXE,ROY,TX,
 KE5ISO,AL,MA,
+KE5JLN,Jason,AR,Paragould AR
 KE5K,,MS,
 KE5LQ,JIM,TX,
 KE5MI/0,BILL,CO,
@@ -5515,6 +5522,7 @@ LZ2CP,CONY,DX,Pavlikeni Bulgaria
 LZ2SO,NICK,DX,Veliko Tarnovo Bulgaria
 LZ2UG,ANGELO,DX,?
 LZ3AN,ANTON,DX,Dimitrovgrad Bulgaria
+M0CFV,BLAZEJ,DX,London England
 M0JCP,JIM,G,Frome England
 M0KVI,OWEN,DX,East Sussex England
 M0MON/P,MARK,G,Winderhere England
@@ -5523,6 +5531,7 @@ M0NNQ,LEO,G,Cumbria England
 M0NOM/P,MARK,G,Windermere England
 M0NYW,JASON,DX,North Tyneside England
 M0RYB,PETER,G,Norwich England
+M0SDB,DANNY,DX,Sheffield England
 M0SHM,STEVE,G,Lancs England
 M0WDD,DAVID,G,Salford Manchester England
 M1X,STEVE,G,Sevenoaks Kent Englad
@@ -7910,6 +7919,7 @@ NN5T,,TX,
 NN5XX,,AR,
 NN6B,JOE,CA,Petaluma CA
 NN6CH,CHRIS,CA,
+NN6DX,PAUL,CA,Santa Barbara CA
 NN6E,,CA,
 NN6EE,JIM,CA,
 NN6NN,DOC,CA,
@@ -9860,6 +9870,7 @@ W3GW,JOE,LA,
 W3GXZ,,SC,
 W3GY,JACK,PA,
 W3GYM,JIM,FL,The Villages FL
+W3GYV,JOHN,TX,Tomball TX
 W3HAC,PAT,DC,
 W3HDG,AL,PA,
 W3HDH,,IL,

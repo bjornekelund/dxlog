@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-08-15
+# Last Edit,2022-09-06
 # New practice contest 20-25 WPM
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -512,6 +512,7 @@ DK1OU,Fritz,,Geseke Germany
 DK1WI,Ed,1602,Katzwinkel Germany
 DK2FE,Leo,,Kassel Germany
 DK3HM,Heinz,,Usingen Germany
+DK3QZ,DETLEF,DX,Dorsten Germany
 DK3UW,MARTIN,
 DK3WW,Uwe,2523,Kichendorf Germany
 DK3YD,Hans,,Muenchen Germany
@@ -597,6 +598,7 @@ DL5OAB,Ben,,Dormagen Germany
 DL5OE,Sven,DL,Essen Germany
 DL5RJ,Josef,,Straubing Germany
 DL5RMH,Martin,2779,Ergolding Germany
+DL5SFC,DENIS,DX,Balingen Germany
 DL5XL,Felix,2268,Hagen im Bremischen Germany
 DL5YCI,Mic,,Loehne Germany
 DL5YL,Tina,,Furstenwalde Germany
@@ -611,6 +613,7 @@ DL6RDR,Stephan,,Golding Germany
 DL6UNF,Frank,,Guben Germany
 DL7AA,Alex,,Greifswald Germany
 DL7AU,Holger,DL,Storkow OT Kehrigh Germany
+DL7BS,DVET,DX,Berlin Germany
 DL7CX,Olaf,,Klingenthal Germany
 DL7FAZ,Karl,,Lampertheim Germany
 DL7HU,Wolf,,Berlin Germany
@@ -952,6 +955,7 @@ GM3YOR,Drew,,Inverekip Scotland
 GM4JPZ,Colin,2537,Dundee Scottland
 GM4WZG,Bernie,GM,Dalgety Bay Scotland
 GM4X,Bernie,GM,Dalgety Bay Scotland
+GM5TDX,TED,DX,Wishaw Scotland
 GU4CHY,Dick,1543,Channel Islands Guernsey
 GW0ETF,Stew,919,Bangor Wales (CWops President)
 GW0KRL,Ian,2896,Anglesey Wales
@@ -966,6 +970,7 @@ GW4MVA,Glen,2178,Flintshire Wales
 GW4OKT,Keith,1952,Near Chester Wales
 GW4PVM,Paul,2413,(G4PVM) Holy Island EU124 Wales
 GW4VXE,Tim,2755,St Nicholas Goodwick Wales
+GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW7APP,Ian,2896,Anglesey Wales
 GW7N,Glen,2178,(GW4MVA)  Flintshire Wales
 HA0NAR,Laszlo,2172,Debrecen Hungary
@@ -1057,6 +1062,7 @@ I5ECW,Vanni,1679,Montale PT Italy
 I5EFO,Emil,1486,Gragnano Lucca Italia
 I5LHY,Fabio,,Pisa Italy
 I5NHG,Stefano,,Quarrata Italy
+I5OVS,PIERO,DX,Pist oia Italy
 I8NHJ,Max,24,Campobasso CB Italia
 I8QFK,Ben,2769,Bagnara Calabra Italy
 I8QJU,Joe,,Napoli Italia
@@ -1411,6 +1417,7 @@ K2AV,Guy,1671,Apex NC
 K2CDX,Mike,NY,Pittsford NY
 K2CJ,Carl,2201,Ringoes NJ
 K2CM,Geo,NY,Vestal NY
+K2CMW,CRAIG,NJ,Chatham NJ
 K2CS,Chris,NY,East Rochester NY
 K2CUB,Scott,2030,Coldwater MI
 K2D,Oak,CT,(W1RM W1QK)
@@ -1586,6 +1593,7 @@ K3YEO,Ron,1846,Lexington VA
 K3YMI,Jim,MD,Columbia MD
 K3YNY,Rick,MD,Germantown MD
 K3YP,Ray,1845,Jefferson OH
+K3YQA,BILL,PA,Bethel Park PA
 K3ZA,Tony,2695,Coatesville PA
 K3ZGA,Bob,1811,The Villages FL
 K4AB,Larry,704,Hazel Green AL
@@ -1700,6 +1708,7 @@ K4TZ,Tom,1993,Bowling Green KY
 K4UEE,Bob,543,Marietta GA
 K4VBM,Bob,GA,Peachtree Corners GA
 K4VIZ,Tom,AR,Conway AR
+K4VRY,AVERY,GA,Ringgold GA
 K4WG,Gene,AL,Birmingham AL
 K4WJ,John,193,Trenton FL
 K4WK,Wayne,
@@ -2217,6 +2226,7 @@ KA8HDE,Chuck,MN,Andover MN
 KA8SYV,Frank,2430,Charleston WV
 KA9BHD,Bob,1809,Bolingbrook IL
 KA9CAR,John,IL,Crystal Lake IL
+KA9DCU,RAY,WI,Mt Horeb WI
 KA9OUT,Al,3139,Lafayette IN
 KA9P,Scott,1698,Hinsdale IL
 KA9SXV,Joel,2046,Sturgeon BAy WI
@@ -2457,6 +2467,7 @@ KE5AZ,Ken,TX,Houston TX
 KE5C,John,TX,Temple TX
 KE5EN,Eric,3009,Plano TX
 KE5FRF,Heath,LA,Greenwell Springs LA
+KE5JLN,Jason,AR,Paragould AR
 KE5KOV,Jay,TX,Allen TX
 KE5MI/0,Bill,CO,
 KE5P,Bill,TX,Sherman TX
@@ -2946,6 +2957,7 @@ LZ9A,Andy,,LZ Contest Team Bulgaria
 M0AGA,Kevin,19,Sutton in Ahfield England
 M0BEW,Tim,2985,ShropshireEngland
 M0CDL,John,2965,Kingswinford England
+M0CFV,BLAZEJ,DX,London England
 M0DHP,Ray,2090,(M2U) Thames Ditton England
 M0DOV,Dov,175,Ramat-Hasharon England
 M0DSR,Dick,,Stoke on Trent England
@@ -2962,6 +2974,7 @@ M0NPT,Abdel,2344,(7X2TT) Nottingham England
 M0ORD,Rog,G,Pinkneys Green England
 M0RJC,Rich,2752,N.Yorkshire England
 M0RYB,Peter,2061,Norwich England
+M0SDB,DANNY,DX,Sheffield England
 M0SHM,Steve,,Lancs England
 M0TJU,Evan,,Stockport England
 M0TZX,Ed,2462,Leicestershire England
@@ -2979,6 +2992,7 @@ M4N,Mike,2511,(G4IZZ)  Cheltenham England
 M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth)  St Neots England
 M6O,Dave,482,Okehampton England (G3WGN)
+M7TSM,ALAN,DX,Claverham England
 M8A,Angel,2862,(M0HDF)  Birmingham England
 MD0CCE,Bob,552,Ramsey Isle of Man
 MI0AYR,Paul,,Antrim Northern Ireland
@@ -3130,6 +3144,7 @@ N2MM,Carol,NJ,Shamong NJ
 N2NC,John,2180,Howell NJ
 N2NL,Dave,424,Mobile AL
 N2NT,Andy,2036,Dayton NJ
+N2OG,SCOTT,SC,Greenville SC
 N2OO,Bob,2171,Tuckerton NJ
 N2PD,Paul,NY,Middletown NY
 N2PH,Peter,NJ,Barnegat NJ
@@ -3221,6 +3236,7 @@ N3ZP,Phil,PA,North Wales PA
 N3ZZ,Tom,793,Cupertino CA
 N4ACW,Lisa,VA,Victoria VA (Robermont RC)
 N4AF,Howie,132,Blounts Creek NC
+N4AHO,DOUG,SC,Walhalla SC
 N4AO,Jeff,1715,Plant City FL
 N4APR,Ray,NC,Charlotte NC
 N4ARY,Aaron,2759,Bonaire GA
@@ -3260,6 +3276,7 @@ N4GK,Jim,AL,Decatur AL
 N4GL,Marty,1644,Ocala FL
 N4GU,Mike,737,Raleigh NC
 N4HAI,Tom,1099,Westerville OH
+N4HNH,DOUG,GA,Suwanee GA
 N4HOE,Hal,3060,Ocala FL
 N4IJ,Doug,1938,(W5FN) Forest City NC
 N4IQ,Bill,1610,Simpsonville SC
@@ -3792,6 +3809,7 @@ NN5DE,Dave,3005,Mansfield TX
 NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
 NN5P,Madison,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
+NN6DX,PAUL,CA,Santa Barbara CA
 NN6N,Joe,CA,Petaluma CA
 NN6T,Glen,781,Kingman AZ
 NN7M,Ryan,2245,Seattle WA
@@ -4137,6 +4155,7 @@ PJ7AA,Tom,1092,(AA9A)  Saint Maarten
 PP5EG,Oms,549,Florianopolis Brazil
 PR7AB,Junior,,Guarabira Brazil
 PS7CE,CHA,,Natal Brazil
+PT7BT,NETO,PY,Fortaleza Brazil
 PY1NB,Felipe,,Rio de Janeiro Brazil
 PY2BBQ,Hilton,,Sao Paulo Brazil
 PY2EGM,Sergio,,Sao Paulo Brazil
@@ -4585,6 +4604,7 @@ VE2SSS,Pete,QC,Jonquiere QC (also VA2SG)
 VE2VAB,George,QC,Gatineau QC
 VE2VIA,Jean,QC,Chicoutimi QC
 VE2WU,Marten,QC,Covey Hill
+VE2ZDR,DAN,QC,Longueuil QC
 VE2ZM,Simon,2144,(VE2SRP) St-Joseph-du-Lac QC
 VE3ABN,Les,1701,Mississauga ON (VE3NNT)
 VE3AIH,Art,ON,Cornwall ON
@@ -4994,6 +5014,7 @@ W3GG,Burt,1994,Derwood MD
 W3GW,Joe,LA,St Francisville LA
 W3GWM,George,1981,Wyalusing PA
 W3GYM,Jim,FL,The Villages FL
+W3GYV,JOHN,TX,Tomball TX
 W3IDT,BOB,MD,Chevy Chase MD
 W3II,John,PA,Fairfield PA
 W3IL,Bill,199,Englewood FL
@@ -5988,6 +6009,7 @@ Z32U,Zoki,2667,North Macedonia
 Z33B,Kirk,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
 ZA1EM,Elvira,3076,Elbasan Albania
+ZA4KC,TIM,DX,Kruja Albania
 ZB2CW,Derek,,Gibraltar
 ZB2X,Jorma,144,Gibraltar
 ZD8W,Oli,,Ascension Island (W6NV)
