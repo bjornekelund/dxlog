@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3231
-# Last updated 2022-09-05
+# Contains members up to #3232
+# Last updated 2022-09-09
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1677,7 +1677,7 @@ K4TZ=Tom;1993
 K4UEE=Bob;543
 K4VBM=Bob;GA
 K4VIZ=Tom;AR
-K4WA=Seve;FL
+K4WA=Steve;FL
 K4WG=Gene;AL
 K4WJ=John;193
 K4WNY=Don;TN
@@ -2480,7 +2480,7 @@ KG5EMR=Annie;TX
 KG5FRS=Kathy;LA
 KG5HVO=Bryant;1795
 KG5IEE=Randal;2733
-KG5OA=Doug;TX
+KG5OA=Doug;3232
 KG5OWB=Terry;2683
 KG5RSG=Mike;TX
 KG5RXG=Mike;2643
@@ -2670,6 +2670,7 @@ KN8U=Bruce;2297
 KN9X=Don;IL
 KO0L=Joe;AR
 KO1E=Dave;RI
+KO1H=John;ME
 KO1U=Mark;MA
 KO4AXD=Brian;2745
 KO4D=Fred;VA
@@ -2759,6 +2760,7 @@ KU7T=Andy;1300
 KU7WX=Chris;
 KU7Y=Ron;1211
 KU8E=Jeff;208
+KU9S=Jerry;CWA
 KV0I=Bill;2265
 KV1E=Jack;1150
 KV3T=KC;IL
@@ -5136,6 +5138,7 @@ W6CL=Carol;OK
 W6CYX=Bob;47
 W6DER=Derek;3186
 W6DR=Dave;CA
+W6EO= Lorin;CA
 W6EU=Jim;317
 W6GJB=Glen;CA
 W6GMT=Brock;2211

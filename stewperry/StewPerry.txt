@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2022-08-12
+# 3-Last Edit,2022-09-07
 # 4-Last updated from log of VE2FK
 # 5-This file is used for the following contest(s):
 # ARRLIDC
@@ -5241,7 +5241,7 @@ N1IMW,,FN42,
 N1IW,,FN42,
 N1IX,,FN42,
 N1IXF,,FN31,
-N1JEZ,ED,FN34,
+N1JEZ,Mike,FN44,
 N1JM,JOHN,DM33,
 N1JW,,FN31,
 N1KI,MIKE,EM75,
