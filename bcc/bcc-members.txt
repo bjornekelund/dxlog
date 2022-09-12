@@ -458,6 +458,8 @@ PA0JED,Jan
 PA1AW,Alex
 PA1TX,Gerard
 PA3EWP,Ronald
+PA4OES,André
+EI5VAT,André
 PA4VHF,Dick
 PA5MW,Mark
 PA9M,Marcel
@@ -465,6 +467,7 @@ PA3FGI,Marcel
 PB0AED,Marcel
 PB7Z,Bernard
 PC5A,Aurelio
+PD1RP,Peter
 SM6CNN,Anders
 SP5XVY,Robert
 V51W,Martin
