@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2022-08-18
-# Last number listed 171
+# Last edit,2022-09-14
+# Last number listed 172
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to ve2fk@arrl.net
@@ -100,6 +100,7 @@ PA0HTT,Henk,116,
 PA0KGB,Martin,141,
 PA0LCE,LOUIS,139,
 PA0M,Thieu,110,
+PA0MIR,Nico,172,
 PA0Q,Hans,14,
 PA0QRB,Harold,95,
 PA0RBA,Rienus,96,

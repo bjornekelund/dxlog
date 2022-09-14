@@ -1,7 +1,7 @@
 # Netherlands Telegraphy Club QSO Party database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# Last updated 2022-08-19
+# Last updated 2022-09-14
 5X8C=Anton;154
 9A1AA=Peter;37
 9A3SM=MATO;136
@@ -95,6 +95,7 @@ PA0HTT=Henk;116
 PA0KGB=Martin;141
 PA0LCE=LOUIS;139
 PA0M=Thieu;110
+PA0MIR=Nico;172
 PA0Q=Hans;14
 PA0QRB=Harold;95
 PA0RBA=Rienus;96

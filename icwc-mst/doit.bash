@@ -24,7 +24,8 @@ BEGIN {
   } else {
     nm = toupper($col)
     if ($1 ~ /^[0-9,A-Z]/ && nm ~ /^[A-Z ]+$/) {
-      if (name[$1] != "" && name[$1] != nm)
+#      if (name[$1] != "" && name[$1] != nm)
+      if (name[$1] != "")
         printf("Replacing %s with %s for %s\n", name[$1], nm, $1) > "/dev/stderr";
       call[$1] = $1;
       name[$1] = nm;
