@@ -20,7 +20,7 @@ BEGIN {
     if ($3 ~ /Exch1|State/) col = 2;
     if ($4 ~ /Exch1|State/) col = 3;
     if ($5 ~ /Exch1|State/) col = 4;
-      printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col != "")
       printf("%s=%s\n", $1, $col);

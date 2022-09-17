@@ -20,7 +20,7 @@ BEGIN {
     if ($3 ~ /Exch1|State/) col = 2;
     if ($4 ~ /Exch1|State/) col = 3;
     if ($5 ~ /Exch1|State/) col = 4;
-      printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
+    printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } else {
     gsub(/ /, "", $col);
 	exch = $col;

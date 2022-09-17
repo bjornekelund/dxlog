@@ -16,10 +16,10 @@ BEGIN {
 {
   if ($1 == "!!Order!!") {
     if ($2 == "Exch1") col = 1;
-	if ($3 == "Exch1") col = 2;
-	if ($4 == "Exch1") col = 3;
-	if ($5 == "Exch1") col = 4;
-	printf("\"%s\" --> Exchange is in column %d\n", $0, col) > "/dev/stderr";
+    if ($3 == "Exch1") col = 2;
+    if ($4 == "Exch1") col = 3;
+    if ($5 == "Exch1") col = 4;
+    printf("\"%s\" --> Exchange is in column %d\n", $0, col) > "/dev/stderr";
   } else {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^(DX|AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WTX|WV|WWA|WY|AB|BC|GTA|MAR|MB|NL|NT|ONE|ONN|ONS|PE|QC|SK|ADA|ALL|ARM|BEA|BED|BER|BLA|BRA|BUT|BUX|CAR|CEN|CHE|CLA|CLE|CLI|CMB|COL|CRA|CRN|CUM|DAU|DCO|ELK|ERI|FAY|FOR|FRA|FUL|GRE|HUN|INN|JEF|JUN|LAC|LAN|LAW|LEB|LEH|LUZ|LYC|MCK|MER|MGY|MIF|MOE|MTR|NHA|NUM|PER|PHI|PIK|POT|SCH|SNY|SOM|SUL|SUS|TIO|UNI|VEN|WAR|WAS|WAY|WES|WYO|YOR)(\/(ADA|ALL|ARM|BEA|BED|BER|BLA|BRA|BUT|BUX|CAR|CEN|CHE|CLA|CLE|CLI|CMB|COL|CRA|CRN|CUM|DAU|DCO|ELK|ERI|FAY|FOR|FRA|FUL|GRE|HUN|INN|JEF|JUN|LAC|LAN|LAW|LEB|LEH|LUZ|LYC|MCK|MER|MGY|MIF|MOE|MTR|NHA|NUM|PER|PHI|PIK|POT|SCH|SNY|SOM|SUL|SUS|TIO|UNI|VEN|WAR|WAS|WAY|WES|WYO|YOR))?$/)
       printf("%s=%s\n", $1, $col);

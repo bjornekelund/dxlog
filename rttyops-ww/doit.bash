@@ -33,12 +33,12 @@ BEGIN {
   }
 }
 END {
-  for (call in year)
-    printf("%s=%s\n", call, year[call]);
   printf("#0 Database for SCC RTTY, IG-RY, and RTTYops WW DX contests\n");
   printf("#1 Based on data collected and maintained by Claude VE2FK\n");
   printf("#2 Report errors and updates to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  for (call in year)
+    printf("%s=%s\n", call, year[call]);
 }' | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE

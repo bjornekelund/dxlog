@@ -17,10 +17,10 @@ BEGIN {
 {
   if ($1 == "!!Order!!") {
     if ($2 == "Exch1") col = 1;
-	if ($3 == "Exch1") col = 2;
-	if ($4 == "Exch1") col = 3;
-	if ($5 == "Exch1") col = 4;
-	printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    if ($3 == "Exch1") col = 2;
+    if ($4 == "Exch1") col = 3;
+    if ($5 == "Exch1") col = 4;
+    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     exch = $col;
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT|APH|CHS|CNO|GLA|GHM|GLE|LPZ|MCP|MHV|NVO|PMA|PNL|SCZ|YVP|YMA)$/)
