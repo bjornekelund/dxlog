@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3234
-# Last updated 2022-09-17
+# Contains members up to #3235
+# Last updated 2022-09-19
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1723,7 +1723,7 @@ K5FP=Fred;392
 K5GA=Bill;1485
 K5GH=George;1071
 K5GM=Pete;322
-K5GN=Dave;TX
+K5GN=Dave;3235
 K5GO=Stan;272
 K5GP=Gene;2104
 K5GQ=Mark;672

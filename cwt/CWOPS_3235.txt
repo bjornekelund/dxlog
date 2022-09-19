@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-09-16
+# Last Edit,2022-09-18
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1739,7 +1739,7 @@ K5FRC,,TX,Bonham TX (Fannin County ARC)
 K5GA,Bill,1485,Houston TX
 K5GH,George,1071,Greenwood TX
 K5GM,Pete,322,Austin TX
-K5GN,Dave,TX,Houston TX
+K5GN,Dave,3235,Houston TX
 K5GO,Stan,272,Harrison AR
 K5GP,Gene,2104,Austin TX
 K5GQ,Mark,672,Houston TX  (CWA Intermediate Advisor)
