@@ -1,5 +1,5 @@
 #!/bin/bash
-OUTFILE=silly.txt
+OUTFILE=crazycomplicated.txt
 
 gawk '
 BEGIN {
@@ -76,18 +76,3 @@ echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit
-
-  printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
-  printf("# Member callsigns from www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
-  printf("POINTS_FIELD_BAND_MODE=ALL;DEST->DXCC:^$;ALL;ALL;0\n");
-  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^DA0BCC$;ALL;ALL;ALL;5\n");
-  printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^(%s)$;ALL;ALL;ALL;2\n", string);
-  printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n\n");
-
-
-
-  if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|KS|KY|LA|ME|MD|MA|MI|MS|MN|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WI|WV|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
-    printf("%s=%s\n", toupper($1), toupper($3));
-  }
-  else if ($0 !~ /^(!|#|$)/)
-    printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
