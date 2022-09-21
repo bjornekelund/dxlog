@@ -1,7 +1,7 @@
 # California QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-09-09
+# Last updated 2022-09-21
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -12068,6 +12068,7 @@ W6HGF=VA
 W6HPK=WA
 W6HY=DELN
 W6I=LAKE
+W6IA=MONT/SBEN
 W6IHG/4=VA
 W6IHG=VA
 W6II=OR
