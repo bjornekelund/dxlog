@@ -1,5 +1,5 @@
 #!/bin/bash
-OUTFILE=crazycomplicated.txt
+OUTFILE=pointsmaidmay.txt
 
 gawk '
 BEGIN {
