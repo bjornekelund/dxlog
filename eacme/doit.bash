@@ -17,8 +17,9 @@ BEGIN {
   if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^(HQ|[0-9]{4,5})$/) {
     printf("%s=%s\n", $1, $2);
   }
-  else if ($0 !~ /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/) {
     printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
+  }
 }
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
