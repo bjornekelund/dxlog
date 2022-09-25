@@ -4,7 +4,7 @@ DEST=cqww_cw_2019_ke2d_dxlog.txt
 dos2unix -q $SOURCE
 echo Parsing $SOURCE
 
-awk '{if (substr($0,1,1) == "#") print $0;}' $SOURCE > .comments.txt
+awk '{if ($0 ~ /^#/) print $0;}' $SOURCE > $DEST
 
 awk \
 'BEGIN\
@@ -12,12 +12,10 @@ awk \
   FS=","
 }
 {
-  if (substr($0,1,1) != "!" && substr($0,1,1) != "#")
+  if ($0 !~ /^(!|#|$)/) {
     printf("%s=%02d\n", $1, $2);
-}
-' $SOURCE | sort > .calls.txt
-
-cat .comments.txt .calls.txt > $DEST
+  }
+}' $SOURCE | sort >> $DEST
 
 unix2dos -q $DEST
 echo Created $DEST

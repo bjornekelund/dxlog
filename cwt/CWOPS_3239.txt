@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-09-19
+# Last Edit,2022-09-23
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -685,6 +685,7 @@ EA5IUY,Gary,2508,Muro de Alcoy Spain
 EA5KA,Raul,1512,Castellon de la Plana Spain
 EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
+EA6/EA3M,Roger,,
 EA6BF,Josep,3072,Balearic Island
 EA6TS,Pedro,,Balearic Isl. Spain
 EA7AM,Pedro,,Jaen Spain
@@ -1689,7 +1690,7 @@ K4TZ,Tom,1993,Bowling Green KY
 K4UEE,Bob,543,Marietta GA
 K4VBM,Bob,GA,Peachtree Corners GA
 K4VIZ,Tom,AR,Conway AR
-K4WA,Steve,FL,Destin FL
+K4WA,Steve,CWA,Destin FL
 K4WG,Gene,AL,Birmingham AL
 K4WJ,John,193,Trenton FL
 K4WNY,Don,TN,Millington TN
@@ -1738,7 +1739,7 @@ K5FRC,,TX,Bonham TX (Fannin County ARC)
 K5GA,Bill,1485,Houston TX
 K5GH,George,1071,Greenwood TX
 K5GM,Pete,322,Austin TX
-K5GN,Dave,3235,Houston TX
+K5GN,Dave,855,Houston TX
 K5GO,Stan,272,Harrison AR
 K5GP,Gene,2104,Austin TX
 K5GQ,Mark,672,Houston TX  (CWA Intermediate Advisor)
@@ -1945,6 +1946,7 @@ K7MOT,Key,CA,San Diego Motorola ARC
 K7NJ,Riki,275,Cedar City UT (Director)
 K7NM,Lee,801,West Point UT
 K7NT,Mike,WA,Olympia WA
+K7NXL,Dan,CWA,West Richland WA
 K7ON,Brian,AZ,Stanfield AZ
 K7PAX,Paula,WA,Port Angeles WA
 K7PKA,Paula,3055,Big Arm MT
@@ -1985,6 +1987,7 @@ K7ZOO,Curt,2075,Tucson AZ
 K7ZYV,Carl,MS,Biloxi MS
 K8AAV,Rod,OH,Garrettsville OH
 K8AJS,John,1694,Wooster OH
+K8AJX,Fred,AL,Montgomery AL
 K8AQM,Ted,2043,Adrian MI
 K8AZT,John,2210,Livonia MI
 K8BAT,John,OH,Columbus OH
@@ -2619,6 +2622,7 @@ KK6NON,Levi,CA,Vista CA
 KK6NVZ,Kevin,2251,Visalia CA
 KK6ZHK,Ken,2686,Sedona AZ
 KK7A,Jim,1975,Meridian ID (Occ. remote CT)
+KK7GRV,Vlad,WA,Lake Stevens WA
 KK7L,John,2599,Saratoga UT
 KK7PW,Jon,3211,Seattle WA
 KK7RR,Serge,2271,Scottsdale AZ
@@ -3407,12 +3411,12 @@ N6WT,Kent,CA,Arroyo Grande CA
 N6XI,Rick,4,Truckee CA
 N6XT,Ron,CA,Valley Center CA
 N6YEU,Fred,CA,Headsburg CA
-N6YQ,Rob,CA,Victorville CA
+N6YQ,Rob,3238,Victorville CA
 N6ZD,Gary,CA,Lockwood CA
 N6ZFO,Bill,101,Kelseyville CA
 N6ZI,Al,CA,San Diego CA
 N6ZY,Alan,CA,Penn Valley CA
-N7AUE,Jim,NV,Reno NV
+N7AUE,Jim,3237,Reno NV
 N7AWE,Jim,ID,Rathdrum ID
 N7BV,Chuck,WA,Port Angeles WA
 N7CLP,Cody,AZ,Gilbert AZ
@@ -3601,6 +3605,7 @@ NC5G,George,TX,Gallantin TX
 NC6K,Eric,1640,Poway CA
 NC7M,Marc,1002,Boring OR
 ND1R,Dai,,JF2IWL Remote
+ND1X,John,CT,Gaylordsville CT
 ND2T,Tom,110,Palo Alto CA
 ND3D,Bob,MD,Baltimore MD
 ND4K,Dave,2945,Milledgeville GA
@@ -3906,6 +3911,7 @@ OK1US,Jiri,,No info
 OK1VD,Vasek,,Osice Czech Republic
 OK1VK,Pavel,1897,Prague Czech Republic
 OK1WSL,Josef,,Libchavy Czech Republic
+OK1XV,Joe,,
 OK1ZE,Vasek,,Hradec Kralove Czech Republic
 OK2AP,Milan,,Dusejov Czech Republic
 OK2BOB,Bob,,Olomouc Czech Republic
@@ -5086,7 +5092,7 @@ W4YE,Buddy,396,Wirtz VA
 W4YES,Glenn,TN,Nashville TN
 W4YTG,Tom,TN,La Crosse TN
 W4ZGR,Peter,2850,Palm City FL
-W4ZXT,Jay,KY,Richmond KY
+W4ZXT,Jay,3229,Richmond KY
 W4ZYT,Don,55,Virginia Beach VA
 W5AG,Arch,LA,Lafayette LA
 W5BIB,Steve,2350,Irvington AL
@@ -5783,6 +5789,7 @@ WT6A,Bob,CA,Irvine CA
 WT6K,Al,2832,Fremont CA
 WT8P,Jim,2456,Issaquah WA
 WT8WV,Spencer,WV,Morgantown MV
+WT9P,CJ,IL,(1346) Aurora IL
 WT9Q,Vic,2594,Kewaskum WI
 WT9U,Jim,1674,Elkhart IN
 WU0L,Mark,SD,Brandon SD

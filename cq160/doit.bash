@@ -17,7 +17,7 @@ BEGIN {
 #    if ($3 == "PEI") exch = "PE";
     printf("%s=%s\n", $1, exch);
   }
-  else if ($0 !~/^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/)
     printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
