@@ -12,12 +12,12 @@ BEGIN {
   call = $1;
   iota = $3;
   notignore = \
-  firstcharcall ~ /[0-9,A-Z]/ && \
-	iota ~ /[EU|OC|AS|NA|SA|AF|AN]/ && \
-	(lastcharcall ~ /[A-Z]/ || call ~/\/[0-9,A-Z]/ || call ~ /[0-9][0-9]/) && \
-	lengthcall > 2 && \
-	!(lengthcall < 6 && call ~ /[0-9]\//) && \
-	!(lengthcall < 5 && call ~ /\//)
+    firstcharcall ~ /[0-9,A-Z]/ && \
+	  iota ~ /[EU|OC|AS|NA|SA|AF|AN]/ && \
+	  (lastcharcall ~ /[A-Z]/ || call ~/\/[0-9,A-Z]/ || call ~ /[0-9][0-9]/) && \
+	  lengthcall > 2 && \
+	  !(lengthcall < 6 && call ~ /[0-9]\//) && \
+	  !(lengthcall < 5 && call ~ /\//);
   if (notignore)
     printf("%s=%s\n", $1, $3);
   else if ($0 !~ /^(!|#|$)/)

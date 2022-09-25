@@ -5,7 +5,7 @@ BEGIN {
 #  printf("\nChecking for longest name...\n");
 }
 {
-  if (substr($1,1,1) ~ /[0-9,A-Z]/ && $2 != "") {
+  if ($1 ~ /^[0-9A-Z]/ && $2 != "") {
     if (length($2) > maxlen) {
       maxlen = length($2);
       maxname = $2;

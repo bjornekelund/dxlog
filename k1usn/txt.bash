@@ -5,7 +5,7 @@ BEGIN {
   FS=","
 }
 {
-  if (substr($1, 1, 1) ~ /[0-9,A-Z]/ && $2 != "") {
+  if ($1 ~ /^[0-9A-Z]/ && $2 != "") {
     ID = $3;
     if ($1 !~ /^(A[A-L]|K|N|W|C[F-K]|V[A-G]VX|VY9|X[LM]|C[F-Z]|V[A-Y]|X[J-O])/) {
       ID = "DX";
