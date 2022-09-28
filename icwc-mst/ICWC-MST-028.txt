@@ -2,8 +2,19 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-09-13
+# Last Edit,2022-09-26
 # New medium speed practice contest 20-25 WPM
+AA2YO,GENE,NJ,West Deptford NJ
+AJ6HO,Loretta,CA,Lancaster CA
+K7LU,SCOTT,VA,Great Falls VA
+KC3DNU,KEITH,PA,Farmington PA
+KD9REA,FRANK,IL,Chicago IL
+KE8VC,DAVID,MI,Allegan MI
+KM6AQW,KIRK,AZ,Hereford AZ
+N5LOT,LEO,TX,Burkburnett TX
+W2DEN,DEN,FL,Nokomis FL
+WA5KBH,GEORGE,LA,Lake Charles LA
+WO0S,CHIP,MO,?
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island

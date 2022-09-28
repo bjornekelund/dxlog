@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-09-23
+# Last Edit,2022-09-27
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -4298,7 +4298,7 @@ SQ5VCO,Adam,2781,Chrzczanka-Folwark Poland
 SQ5WAJ,Jacek,,Plock Poland
 SQ6GIT,Konrad,2045,Pisarzowice Poland
 SQ6JNX,Mike,3137,Wroclaw Poland
-SQ6MIH,Barteck,,
+SQ6MIH,Barteck,,Warta Boleslawiecka Poland
 SQ8LUV,Chris,3193,Near Lubun Poland
 SQ9IWA,Tomasz,SP,Wodsislaw Slaski Poland
 SQ9S,Adam,2309,Pszow Poland
@@ -4314,6 +4314,7 @@ SV1RUX,Dave,,Athens Greece
 SV2/N5ZO,Marco,1224,at J42L
 SV2BBK,Theo,1976,(Fanis) Thessaloniki Greece (Director)
 SV2BXA,Alex,2400,Thessaloniki Greece
+SV2HUD,Vas,3235,Thessaloniki Greece
 SV2KF,George,,Hellas Greece
 SV2SKD,Panos,,Palio Keramidi Greece
 SV4/SV1DAY,Manos,SV,
@@ -4711,6 +4712,7 @@ W0AD,Paul,1977,Elden Prairie MN
 W0AG,Mike,1317,Crossville TN
 W0AJU,Rich,MO,St. Louis MO
 W0BBI,Bill,MO,Branson West MO
+W0BG,Mark,3240,Parker CO
 W0BH,Bob,669,Hesston KS
 W0BNW,Jim,IA,Boone IA
 W0BR,Bob,PA,Carlisle PA

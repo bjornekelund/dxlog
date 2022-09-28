@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-09-21
+# 1-Last Edit,2022-09-27
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -759,6 +759,7 @@ AJ4WT,MIKE,SC,
 AJ5E,ROB,SC,
 AJ6ET,ED,CA,Moreno Valley CA
 AJ6GE,KEN,CA,Sacramento CA
+AJ6GI,JAIME,CA,Portola Valley CA
 AJ6HO,Loretta,CA,Lancaster CA
 AJ6KZ,KELLY,CA,Encino CA
 AJ6MQ,BRENT,CA,
@@ -865,6 +866,7 @@ DL6KW,LUZ,DX,Satteldorf Germany
 DL6SDW,JOE,DX,Neu-Ulm Germany
 DL7BS,Bernd,DX,Berlin
 DL7BS,DVET,DX,Berlin Germany
+DL7DS,DAN,DX,Neuss Germany
 DL7USW/P,MARK,Berlin Germany
 DL9AAA,JUERGEN,DL,Groebenzell Germany
 DL9BDM,EILERT,DX,?
@@ -913,6 +915,7 @@ F5SGI,JEAN,F,Vannes France
 F5SGP,JEAN,DX,Tantonville France
 F6DQV,Jean,F,Vieille-Brioude France
 F6FGG,MAURICE,F,Augisey France
+F6GWB,Gerard,DX,Elancourt France
 F6KRK,JAC,DX,RC Bretonneux France
 F8DPM,MICHEL,F,LLupia France
 FG8NY,JEAN,FG,St Claude Guadeloupe
@@ -4270,6 +4273,7 @@ KD9NH,,WI,
 KD9NUQ,REGGIE,IL,
 KD9NZB,MAX,WI,West Allis WI
 KD9OBP,DAVE,IN,Elkhart IN
+KD9PFS,ALEX,WI,Milwaukee WI
 KD9PLD,JUSTIN,IN,Indianapolis IN
 KD9REA,FRANK,IL,Chicago IL
 KD9RXU,Harry,IL,Naperville IL
@@ -4469,6 +4473,7 @@ KF0DS,,AZ,
 KF0ELS,KEVIN,KS,Overland Park KS
 KF0FE,,IA,
 KF0FFA,Dean,KS,Lawrence KS
+KF0FFL,DAN,MN,Saint Paul MN
 KF0GV,,MN,
 KF0HNI,CHAS,IA,Sioux Rapids IA
 KF0IDJ,RICH,CO,Loveland CO
@@ -5536,6 +5541,7 @@ LB5DI,Ole,LB,Lier Norway
 LU1AW,JUAN,DX,Buenos Aires Argentina
 LU1AW/D,JUAN,DX,Buenos Aires Argentina
 LU3VED,MAR,LU,(Martin)  General Roca Argentina
+LU7GFH,JAVIER,DX,Chaco Argentina
 LZ1GG,COSTA,LZ,Samokov Bulgaria
 LZ1GH,GEORGE,DX,Ravnets Bulgaria
 LZ1ON,DIMO,DX,Zagora Bulgaria
@@ -5551,6 +5557,7 @@ M0CFV,BLAZEJ,DX,London England
 M0ICL,JOZEF,DX,Orpington England
 M0JCP,JIM,G,Frome England
 M0KVI,OWEN,DX,East Sussex England
+M0LRQ,PETER,DX,Northamptonshire England
 M0MON/P,MARK,G,Winderhere England
 M0MUI,MUI,G,Norwich England
 M0NNQ,LEO,G,Cumbria England
@@ -5628,6 +5635,7 @@ N0GRA,GRANT,CO,Higlands Ranch CO
 N0GSO,RICH,IA,Sioux IA
 N0GZ,KEN,IA,
 N0HBJ,BUCK,CO,
+N0HC,CLIFF,CO,Westminister CO
 N0HOV,Joe,NE,Papillion NE
 N0HU,RUSS,KS,
 N0HW,,MN,
@@ -7911,6 +7919,7 @@ NM5X,,OK,
 NM5Z,DAVID,MS,
 NM6E,,CA,
 NM6G,KEITH,TX,Mariposa CA
+NM6W,DICK,CA,?
 NM7H,,NE,
 NM7W,NICK,WY,Powell WY
 NM8O,,OH,
@@ -8248,6 +8257,7 @@ NZ8O,,MI,
 NZ9R,,IN,
 OE1ALW,Ulf,OE,Vioenna Austria
 OE3IAK,ANDREAS,OE,Wienerherberg Austria
+OE8RVK,ROBERT,DX,Klagenfurt Austria
 OE9NFI,EGON,DX,Bludenz Austria
 OG6B,ZABA,DX,
 OH2BVT,JUKKA,DX,Vihti Finland
@@ -8424,6 +8434,7 @@ VA3RKM,BOB,ON,
 VA3ROC,ROCCO,ON,
 VA3RON,RON,ON,
 VA3RP,,ON,
+VA3SAX,STEVE,ON,Nepean ON
 VA3SB,SERGE,ON,
 VA3SWG,STEVEN,ON,
 VA3TMV,TIM,ON,
@@ -11377,6 +11388,7 @@ W8NF,DAVE,OR,
 W8NGA,GREG,OH,Grove City OH
 W8NHO,,OH,
 W8NL,,OH,
+W8NLZ,ED,VA,Virginia Beach VA
 W8NNC,BOB,OH,
 W8NOR,HAL,AZ,
 W8NOT,,OH,
@@ -13095,6 +13107,7 @@ WT8C,,OH,
 WT8O,,OH,
 WT8P,JIM,WA,Issaquah WA
 WT8WV,Will,WV,
+WT9P,CJ,IL,Aurora IL
 WT9Q,VIC,WI,
 WT9U,JIM,IN,
 WU0B,FOX,SC,
