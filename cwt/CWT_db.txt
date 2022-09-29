@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3240
-# Last updated 2022-09-28
+# Last updated 2022-09-29
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -969,6 +969,7 @@ HA2NY=Feri;HA
 HA2SB=Gabor;HA
 HA3HK=Zoli;HA
 HA3MN=Egon;HA
+HA3NU=Lacy;HA
 HA3YGD=Zoli;HA
 HA4AA=Andras;HA
 HA5AO=Istvan;1522
@@ -3107,6 +3108,7 @@ N3HE=Dave;OH
 N3HEE=Joe;1283
 N3HIH=Frank;NC
 N3IQ=Brian;302
+N3JG=Jerry;WV
 N3JT=Jim;1
 N3JUY=Ridge;FL
 N3KN=Tony;VA
@@ -3450,6 +3452,7 @@ N8BIZ=Bill;MI
 N8BJQ=Steve;103
 N8CC=Jeff;MI
 N8CPA=Steve;OH
+N8CVL=Scott;NE
 N8DEA=Dean;OH
 N8DLL=David;MI
 N8DNA=Mike;1743

@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-09-27
+# Last Edit,2022-09-28
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -979,6 +979,7 @@ HA2NY,Feri,,Tatabanya Hungary
 HA2SB,Gabor,,Papa Hungary
 HA3HK,Zoli,,Lengyeloti Hungary
 HA3MN,Egon,,Nyirabrany Hungary
+HA3NU,Lacy,,Szekszard Hungary
 HA3YGD,Zoli,,Lengyeltoti Hungary
 HA4AA,Andras,,Budapest Hungary
 HA5AO,Istvan,1522,Budapest Hungary
@@ -3137,6 +3138,7 @@ N3HE,Dave,OH,Cincinati OH
 N3HEE,Joe,1283,Point of Rocks MD
 N3HIH,Frank,NC,Durham NC
 N3IQ,Brian,302,Mt Airy MD
+N3JG,Jerry,WV,Paw Paw WV
 N3JT,Jim,1,Mclean VA and FL (CWops Secretary)
 N3JUY,Ridge,FL,(John)  Palm Coast
 N3KN,Tony,VA,Blacksburg VA
@@ -3480,6 +3482,7 @@ N8BIZ,Bill,MI,Jonesville MI
 N8BJQ,Steve,103,New Carlisle OH
 N8CC,Jeff,MI,Nashville MI
 N8CPA,Steve,OH,Hilliard OH
+N8CVL,Scott,NE,Plattsmouth NE
 N8DEA,Dean,OH,Marblehead OH
 N8DLL,David,MI,Ortonville MI
 N8DNA,Mike,1743,Medina OH
