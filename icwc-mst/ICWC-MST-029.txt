@@ -2,8 +2,28 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-09-26
+# Last Edit,2022-10-03
 # New medium speed practice contest 20-25 WPM
+WW1ME,RICK,
+WR4I,DENNIS,
+KU4E,ROB,
+AJ6GI,JAIME,CA,Portola Valley CA
+DL7DS,DAN,DX,Neuss Germany
+F6GWB,Gerard,DX,Elancourt France
+KD9PFS,ALEX,WI,Milwaukee WI
+KF0FFL,DAN,MN,Saint Paul MN
+LU7GFH,JAVIER,DX,Chaco Argentina
+M0LRQ,PETER,DX,Northamptonshire England
+N0HC,CLIFF,CO,Westminister CO
+NM6W,DICK,CA,?
+OE8RVK,ROBERT,DX,Klagenfurt Austria
+VA3SAX,STEVE,ON,Nepean ON
+W8NLZ,ED,VA,Virginia Beach VA
+WT9P,CJ,IL,Aurora IL
+W4MPS,MARC,
+K8AJX,FRED,
+W5CYN,JIM,
+N8KG,KEN,
 AA2YO,GENE,NJ,West Deptford NJ
 AJ6HO,Loretta,CA,Lancaster CA
 K7LU,SCOTT,VA,Great Falls VA

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls LOA* | tail -1 2> /dev/null`
+INFILE=`ls MAR* | tail -1 2> /dev/null`
 OUTFILE=MCD_db.txt
 
 echo Parsing $INFILE
@@ -10,8 +10,9 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[1-9][0-9]*$/) {
-    printf("%s=%s\n", $1, $2);
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^..[1-9][0-9]*$/) {
+    number = substr($2, 3);
+    printf("%s=%s\n", $1, number);
   }
   else if ($0 !~/^(!|#|$)/)
     printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
