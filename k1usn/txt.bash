@@ -8,8 +8,10 @@ BEGIN {
   if ($1 ~ /^[0-9A-Z]/ && $2 != "") {
     ID = $3;
     if ($1 !~ /^(A[A-L]|K|N|W|C[F-K]|V[A-G]VX|VY9|X[LM]|C[F-Z]|V[A-Y]|X[J-O])/) {
+      if (ID != "DX") {
+        printf("Exchange should be DX: \"%s\"\n", $0) > "/dev/stderr";
+      }
       ID = "DX";
-#      printf("Assign DX: \"%s\"\n", $0) > "/dev/stderr";
     }
     if ((ID == "" && $2 == "") || ID !~ /[A-Z]{2}|/)
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";

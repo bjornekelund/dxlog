@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-09-27
+# 1-Last Edit,2022-10-04
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -125,6 +125,7 @@ AA4XX,PAUL,NC,
 AA4ZZ,,NC,
 AA5AD,JOE,AR,Sheridan AR
 AA5AM,,TX,
+AA5AR,TOM,AR,Heber Springs AR
 AA5AT,DON,LA,
 AA5AU,DON,LA,
 AA5B,BRUCE,NM,
@@ -336,6 +337,7 @@ AC1GF,BOB,NH,
 AC1H,KEN,NH,
 AC1HB,LOUIS,NH,Nashua NH
 AC1J,TOM,NH,
+AC1KV,DAN,CT,Ansonia CT
 AC1Z,BOB,NH,
 AC2C,RON,MD,
 AC2EU,JIM,NY,Newburgh NY
@@ -815,6 +817,7 @@ AL7B,DICK,AK,
 AL7O,,MO,
 AL7O/W0,,MO,
 AL7R,BRENT,AZ,
+CM6SQ,NELSON,DX,Caibarien Cuba
 CS5LX,JORGE,DX,Lisboa Portugal
 CT1EDJ,JOSE,DX,Lisboa Portugal
 CT7AFI,JOSE,DX,Sintra Portugal
@@ -826,6 +829,7 @@ DD6DO,STEPHAN,DL,Berlin Germany
 DF2DR,HERMANN,DX,Blastein Germany
 DF4ZK,GUNTER,DX,Wald-Michelbach Germany
 DF7CP,STEFAN,DL,Eldena Germany
+DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
 DH1NTT,Terry,DH,Aschaffenburg Germany
 DH4NWG,MARTIN,DL,Hersbruck Germany
@@ -835,6 +839,7 @@ DJ1YFK,FABIAN,DL,Munich Germany
 DJ2MX,MARCUS,DL,Muenchen Germany
 DJ3IW,GOETZ,DJ,Burglengenfeld Germany
 DJ5AZ,FRED,DL,
+DJ5CW,FABIAN,DX,Munich Germany
 DK0SU,TOM,DL,Stuffgart Germany
 DK3QZ,DETLEF,DX,Dorsten Germany
 DK3QZ,DETLEF,DX,Dorsten Germany
@@ -925,6 +930,7 @@ G0HKC,Keith,G0,Bristol
 G0JJI,PETE,G,Poole Dorset England
 G0KAY,TRYSTAN,G,Lancashire England
 G0UJA,James,G0,Kent England
+G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
 G2CWO,Mac,G,(G3WZD) Cornwall England
 G3OND,JOHN,G,Birchington England
@@ -939,6 +945,7 @@ G4EBK,GEORGE,G,Grimsby England
 G4FAD,RICH,UK,Hereford England
 G4FKI,DAVE,DX,Bedford England
 G4IWO,NICK,DX,Littleborough England
+G4UDG,KRIS,DX,Staffordshire England
 G4VME,RICHARD,G,Cambridge England
 G4WSQ,JOHN,G,BH23 Area England
 G5C,MALCOLM,G,
@@ -971,6 +978,7 @@ HB9HDV,YOSHI,HB,Bernex Switzerland
 HB9HFA,MARTIAL,HB,Broc Switzerland
 HB9KNT,ARTHUR,HB,St Gallen Switzerland
 HC2PY,JOE,DX,
+HC5LM,AUG,DX,Ecuador
 HI2AA,BILL,HI,
 HK3EJB,MIKE,,
 HP2SM,SANTIAGO,DX,Colon Panama
@@ -3097,6 +3105,7 @@ K9ACM,MIKE,IL,Mokena IL
 K9AHH,WALT,IL,
 K9AJ,MIKE,IL,
 K9AJC,ALLAN,IL,Rantoul IL
+K9ALZ,BRUCE,IL,South Elgin IL
 K9AXT,Larry,NC,Cary NC
 K9AXT,LARRY,NY,Cary NC
 K9AY,GARY,WI,
@@ -3851,6 +3860,7 @@ KC1KOO,JOHN,RI,Bristol RI
 KC1LIV,XAVIER,CT,
 KC1ME,,ME,
 KC1MXB,JB,ME,Springvale ME
+KC1NDI,KIM,ME,Freeport ME
 KC1NPZ,RICH,MA,Plymouth MA
 KC1SA,STEVE,CT,
 KC1SQ,,MA,
@@ -4654,6 +4664,7 @@ KG5ZMQ,BOB,LA,
 KG5ZQ,LARRY,OK,
 KG6AY,ART,AZ,
 KG6COH,BILL,CA,Coalinga CA
+KG6ECW,MIKE,AZ,Kingman AZ
 KG6HM,AL,CA,?
 KG6IIP,PACO,OR,
 KG6MC,BOB,SC,
@@ -4840,6 +4851,7 @@ KI9S/8,STEVE,OH,
 KI9T,PAT,IL,
 KJ0B,,MN,
 KJ0C,,MO,
+KJ0D,ERIC,MA,?
 KJ0G,BOB,CO,
 KJ0I,JR,CO,
 KJ0M,,SD,
@@ -5177,6 +5189,7 @@ KN8J,MIKE,WV,
 KN8VCB,MATT,OH,no info
 KO0Z,RON,IL,
 KO1H,,RI,
+KO1H,JOHN,ME,Van Buren ME
 KO1I,,MA,
 KO1U,MARK,MA,
 KO2E,ERNIE,NY,Schenectay NY
@@ -5569,6 +5582,7 @@ M0SDB,DANNY,DX,Sheffield England
 M0SHM,STEVE,G,Lancs England
 M0WDD,DAVID,G,Salford Manchester England
 M1X,STEVE,G,Sevenoaks Kent Englad
+M2AVG,WILLE,DX,?
 M2U,Ray,G,Surrey England
 M4J,Jon,DX,
 M6MPC,Mike,G,Brede England
@@ -5706,6 +5720,7 @@ N0RU,,VA,
 N0RZ,CHARLES,KS,Liberal KS
 N0SA,LARRY,MO,Saint Louis MO
 N0SA,Larry,MO,Saint Louis MO
+N0SC,CLIFF,CO,?
 N0SM,STEVE,IA,
 N0SMX,DENNIS,FL,The Villages FL
 N0SO,MIKE,MO,
@@ -6193,6 +6208,7 @@ N3RR,BILL,MD,
 N3RRR,,DE,
 N3RS,SIG,PA,
 N3RSD,FRANK,DE,
+N3RTW,SEAN,VA,Springfield VA
 N3RU,,MD,
 N3RUM,DAN,PA,
 N3RW,,PA,
@@ -7692,6 +7708,7 @@ ND9M,JIM,FL,
 ND9Z,GARY,WI,
 NE0CQ,,NE,
 NE0DA,,CO,
+NE0DA,JIM,CO,Pueblo West CO
 NE0DX,,NE,
 NE0O,,KS,
 NE0P,,OK,
@@ -10891,6 +10908,7 @@ W6LF,DIL,UT,Central UT
 W6LFB,JIM,TX,
 W6LFB/QRP,JIM,TX,
 W6M,JIM,KS,Colby KS
+W6ML,JIM,CA,Santa Monica CA
 W6NCB,JEREMY,CA,
 W6ND,,CA,
 W6NF,JACK,MN,
@@ -11252,6 +11270,7 @@ W7XU,DOC,SD,
 W7YA,,CA,
 W7YAQ,BOB,OR,
 W7YB,,MT,
+W7YC,RICK,TX,Fort Worth TX
 W7YED,,WA,
 W7YES,RICHARD,FL,
 W7YM,,MT,
@@ -12426,6 +12445,7 @@ WB4AQL,MIKE,GA,
 WB4AXQ,,AL,
 WB4BIN,DAVE,TX,Southlake TX
 WB4BKC,,FL,
+WB4CAL,CAL,FL,Tampa FL
 WB4DCM,CHARLES,NC,Raleigh NC
 WB4DKF,DICK,FL,Tampa FL
 WB4DNL,GARY,VA,
