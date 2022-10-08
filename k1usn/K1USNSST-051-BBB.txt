@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-10-04
+# 1-Last Edit,2022-10-05
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -355,7 +355,6 @@ AC2YD,BEN,NJ,
 AC2YI,BRIAN,NY,
 AC3A,,NY,
 AC3BU,DARYL,MD,
-AC3D,Scott,IN,?
 AC3D,SCOTT,TN,Chuckey TN
 AC3FM,ROB,MD,Silver Spring MD
 AC3FS,DALE,NC,Pasadena MD
@@ -510,7 +509,6 @@ AD8B,MIKE,OH,Galena OH
 AD8EK,RANDY,CO,Coloradio Springs CO
 AD8FD,BRIAN,OH,
 AD8J,JOHN,NC,Asheville NC
-AD9AC,KEN,IL,
 AD9AC,KEN,IL,Litchfield IL
 AD9I,RON,IL,
 AD9T,,IN,
@@ -599,7 +597,6 @@ AF4NJ,MARK,TX,
 AF4O,,TN,
 AF4OD,BILL,AL,
 AF4OX,BOB,SC,
-AF4PD,John,VA,Falls Church VA
 AF4PD,JOHN,VA,Falls Church VA
 AF4PP,,GA,
 AF4QZ,,SC,
@@ -695,7 +692,6 @@ AI4DB,TOM,TN,
 AI4DW,,NC,
 AI4FH,WES,VA,Gloucester VA
 AI4FR,JOHN,FL,
-AI4GR,MICHAEL,NC,
 AI4GR,MIKE,NC,
 AI4IE,,FL,
 AI4JW,,VA,
@@ -722,7 +718,6 @@ AI6IE,STEVE,CA,Alta Loma CA
 AI6LY,,CA,
 AI6O,ED,MO,
 AI6QZ,DAVE,CA,South San Francisco CA
-AI6W,JON,CA,
 AI6W,JON,CA,Newcastle CA
 AI6YL,SUE,CA,
 AI6YL/7,SUE,NV,
@@ -842,7 +837,6 @@ DJ5AZ,FRED,DL,
 DJ5CW,FABIAN,DX,Munich Germany
 DK0SU,TOM,DL,Stuffgart Germany
 DK3QZ,DETLEF,DX,Dorsten Germany
-DK3QZ,DETLEF,DX,Dorsten Germany
 DK3UW,MARTIN,DX,Aumuehle Germany
 DK4RW,WOLF,DL,Linsengericht Germany
 DK6AC,MIKE,DL,Braunschweig Germany
@@ -864,13 +858,11 @@ DL4YHF,WOLF,Spenge Germany
 DL5CL,RON,DL,
 DL5KX,WILFRIED,DL,koein Germany
 DL5SFC,DENIS,DX,Balingen Germany
-DL5SFC,DENIS,DX,Balingen Germany
 DL5WO,OLIVER,DX,Mommenheim Germany
 DL5YV,BEN,DX,Greiz Germany
 DL6KW,LUZ,DX,Satteldorf Germany
 DL6SDW,JOE,DX,Neu-Ulm Germany
-DL7BS,Bernd,DX,Berlin
-DL7BS,DVET,DX,Berlin Germany
+DL7BS,Bern,DX,Berlin Germany
 DL7DS,DAN,DX,Neuss Germany
 DL7USW/P,MARK,Berlin Germany
 DL9AAA,JUERGEN,DL,Groebenzell Germany
@@ -932,7 +924,6 @@ G0KAY,TRYSTAN,G,Lancashire England
 G0UJA,James,G0,Kent England
 G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
-G2CWO,Mac,G,(G3WZD) Cornwall England
 G3OND,JOHN,G,Birchington England
 G3RGD,RAY,DX,Birmingham England
 G3TYB,JOHN,DXG,no info
@@ -951,18 +942,15 @@ G4WSQ,JOHN,G,BH23 Area England
 G5C,MALCOLM,G,
 G6GLP,TONY,G,Devon England
 G8RWG,NIELS,G,Coulsdon England
-G8RWG,NIELS,G,Coulsdon England
 G8XTJ,JOHN,G,Bucks England
 GM0EUL,PETER,GM,Duns Scotland
 GM1J,JIM,GM,Edinburgh Scotland
 GM4ATA,JOHN,DX,Kilmarnock Scotland
 GM4TEF,ALLAN,GM,Aberdeenshire Scotland
-GM5TDX,TED,DX,Wishaw
 GM5TDX,TED,DX,Wishaw Scotland
 GW0ETF,STEW,GW,Bangor Wales
 GW4J,STEW,GW,Bangor Wales
 GW4ZAR,DAVE,GW,Flintshire Wales
-GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW7APP,Ian,GW,Anlesey Wales
 HA8RJ,ATI,HA,Soltvadkert Hungary
@@ -989,7 +977,6 @@ I2IFT,JOHN,DX,Seriate BG Italy
 I4WYE,STEVE,DX,Modena MO Italy
 I5ECW,VANNI,DX,Montale PT Italy
 I5GJK,FABIO,DX,Montemurlo Italy
-I5OVS,PIERO,DX,Pist oia Italy
 I5OVS,PIERO,DX,Pistoia Italy
 IK1HGE,Bob,DX,Almese TO Italy
 IK1PMR,Andrea,IK,Casale Monferrato Italy
@@ -2668,7 +2655,6 @@ K6ZGW,BARRY,CA,Valley Glen CA
 K6ZH,JIM,CA,
 K6ZM,,CA,
 K6ZP,ANDY,CA,
-K6ZX,Step,CA,Brea CA
 K6ZX,Steve,CA,Brea CA
 K6ZXN,STEVE,CA,no info
 K6ZZ,BOB,CA,
@@ -3106,7 +3092,6 @@ K9AHH,WALT,IL,
 K9AJ,MIKE,IL,
 K9AJC,ALLAN,IL,Rantoul IL
 K9ALZ,BRUCE,IL,South Elgin IL
-K9AXT,Larry,NC,Cary NC
 K9AXT,LARRY,NY,Cary NC
 K9AY,GARY,WI,
 K9BBQ,MATT,IL,
@@ -4398,7 +4383,6 @@ KE5FRF,HEATH,LA,
 KE5FXE,ROY,TX,
 KE5ISO,AL,MA,
 KE5JLN,Jason,AR,Paragould AR
-KE5JLN,Jason,AR,Paragould AR
 KE5K,,MS,
 KE5LQ,JIM,TX,
 KE5MI/0,BILL,CO,
@@ -4998,7 +4982,6 @@ KK9K,RON,WI,
 KK9M,,IL,
 KK9N,KEN,IL,
 KK9T,,MI,
-KK9U,Sean,IL,Belleville IL
 KK9U,SEAN,IL,Belleville IL
 KK9V,MIKE,IN,
 KL2A,JON,AK,
@@ -5144,7 +5127,6 @@ KN4SYO,Jerry,VA,Arlington VA
 KN4TCF,BRIAN,GA,
 KN4TFW,KEN,SC,
 KN4UCN,BOB,AL,
-KN4UDT,BOB,FL,
 KN4UDT,BOB,FL,Niceville FL
 KN4UUR,ANDY,SC,
 KN4VUT,CHET,VA,Roanoke VA
@@ -5566,7 +5548,6 @@ LZ2SO,NICK,DX,Veliko Tarnovo Bulgaria
 LZ2UG,ANGELO,DX,?
 LZ3AN,ANTON,DX,Dimitrovgrad Bulgaria
 M0CFV,BLAZEJ,DX,London England
-M0CFV,BLAZEJ,DX,London England
 M0ICL,JOZEF,DX,Orpington England
 M0JCP,JIM,G,Frome England
 M0KVI,OWEN,DX,East Sussex England
@@ -5577,7 +5558,6 @@ M0NNQ,LEO,G,Cumbria England
 M0NOM/P,MARK,G,Windermere England
 M0NYW,JASON,DX,North Tyneside England
 M0RYB,PETER,G,Norwich England
-M0SDB,DANNY,DX,Sheffield England
 M0SDB,DANNY,DX,Sheffield England
 M0SHM,STEVE,G,Lancs England
 M0WDD,DAVID,G,Salford Manchester England
@@ -5718,7 +5698,6 @@ N0RSR,ROGER,AZ,Casa Grande AZ
 N0RT,RALPH,MO,
 N0RU,,VA,
 N0RZ,CHARLES,KS,Liberal KS
-N0SA,LARRY,MO,Saint Louis MO
 N0SA,Larry,MO,Saint Louis MO
 N0SC,CLIFF,CO,?
 N0SM,STEVE,IA,
@@ -6378,7 +6357,6 @@ N4IR,JIM,TN,
 N4IRN,JOHN,MD,
 N4IU,PAT,FL,Gainesville FL
 N4IY,TERRY,IN,Borden IN
-N4JEH,JENNA,NC,
 N4JEH,JENNA,NC,Portable
 N4JF,JERRY,AL,
 N4JIV,,GA,
@@ -6401,7 +6379,6 @@ N4KXO,JAY,FL,
 N4KZ,,KY,
 N4LAG,ANDY,NC,
 N4LBB,PERRY,NC,
-N4LF,LEX,DE,no info
 N4LF,LEX,FL,
 N4LPD,CARL,FL,
 N4LQ,,KY,
@@ -7273,7 +7250,6 @@ N8PDS,TIM,OH,
 N8PEM,CHRIS,OH,Columbus OH
 N8PW,BILL,OH,Canton OH
 N8PWM,CRAIG,MI,
-N8QAR,Brian,TN
 N8QAR,BRIAN,TN,Bartlett TN
 N8QGC,,MI,
 N8QOD,,OH,
@@ -7979,7 +7955,6 @@ NN5XX,,AR,
 NN6B,JOE,CA,Petaluma CA
 NN6CH,CHRIS,CA,
 NN6DX,PAUL,CA,Santa Barbara CA
-NN6DX,PAUL,CA,Santa Barbara CA
 NN6E,,CA,
 NN6EE,JIM,CA,
 NN6NN,DOC,CA,
@@ -8281,7 +8256,6 @@ OH2BVT,JUKKA,DX,Vihti Finland
 OH2EUZ,MIKKO,DX,Hyvinkaa Finland
 OH3PE,MATT,DX,Tuulos Finland
 OH5ZA,ZABA,DX,Pori Finland
-OH5ZA,ZABA,DX,Pori Finland
 OH6BA,Olli,DX,Jamsa Finland
 OH6OS,JUHA,DX,Seinajoki Finland
 OH6RX,NA,DX,Vassa Finland
@@ -8296,7 +8270,6 @@ OK2VV,VITA,DX,Contest Station Novy Jicin Czech Republic
 OM5NZ,KAROL,OM,
 ON4AIP,STEFAN,DX,Vremde Antwerpen Belgium
 ON4LDL,BOB,DX,Sambre Belgium
-ON7HB,HENLI,DX,Morlanwelz Belgium
 ON7HB,HENRI,DX,Morlanwelz Belgium
 ON7PQ,Pat,DX,
 ON7XN,HANS,DX,Belgium
@@ -8330,7 +8303,6 @@ RA4ACX,ALEXEY,UA,Volgograd Russia
 RL3P,SLAVA,DL,Tula Region
 RM2D,Mats,EU,Odintsovskiy Russia
 RU9LA,ANDY,DX,Tyumen Russia
-S55N,JOC,S5,Gradcu Slovenia
 S55N,JOC,S5,Smartno pri Slovenj Gradcu Slovenia
 SB7S,ORJAN,SM,Nybro Sweden
 SD1A,ERIC,SM,Visby Sweden
@@ -8444,7 +8416,6 @@ VA3OFD,TOM,ON,
 VA3OPN,GLENN,ON,
 VA3PC,PAUL,ON,
 VA3PL,ANDY,ON,
-VA3PM,PIERRE,ON,
 VA3PM,PIERRE,ON,Brampton ON
 VA3RJ,DAVE,ON,
 VA3RKM,BOB,ON,
@@ -8751,7 +8722,6 @@ VE3NFN,ARN,ON,
 VE3NIT,GARY,ON,
 VE3NJE,NEIL,ON,Waterloo ON
 VE3NKL,NICK,ON,Richmond Hill ON
-VE3NKL,Nikolai,ON,Richmond Hill ON
 VE3NLW,LARRY,ON,
 VE3NNT,LES,ON,
 VE3NR,BOB,ON,
@@ -9935,7 +9905,6 @@ W3GXZ,,SC,
 W3GY,JACK,PA,
 W3GYM,JIM,FL,The Villages FL
 W3GYV,JOHN,TX,Tomball TX
-W3GYV,JOHN,TX,Tomball TX
 W3HAC,PAT,DC,
 W3HDG,AL,PA,
 W3HDH,,IL,
@@ -10373,7 +10342,6 @@ W4PM,PUCK,VA,
 W4PQ,JACK,FL,Naples FL
 W4PRO,JIM,VA,
 W4PZA,,TN,
-W4QDV,DAVE,GA,
 W4QDV,DAVE,GA,Powder Springs GA
 W4QM,,FL,
 W4QN,DAVE,GA,Jupiter FL
@@ -11263,8 +11231,7 @@ W7WMO,GENE,WA,
 W7WSB,WILL,WA,Trot Lake WA
 W7WW,DAVE,AZ,
 W7XA,,CA,
-W7XFS,RACY,NV,LAS VEGAS NV
-W7XFS,TRACY,WA,Las Vegas NV
+W7XFS,TRACY,NV,LAS VEGAS NV
 W7XT,DICK,MT,
 W7XU,DOC,SD,
 W7YA,,CA,
@@ -12089,7 +12056,6 @@ WA5KBH,GEORGE,LA,Lake Charles LA
 WA5KQU,,AR,
 WA5LFD,,TX,
 WA5LSV,LARRY,TX,
-WA5LXS,DENNIS,TX,
 WA5LXS,DENNIS,TX,
 WA5MAH,LEW,AZ,
 WA5MS,MARTY,TX,
@@ -13079,7 +13045,6 @@ WR9W,,IN,
 WR9Y,DICK,WI,
 WS0I,BILL,KS,
 WS0TA,FRED,NM,
-WS0Y,BOB,ND,FARGO ND
 WS0Y,JAY,ND,Fargo ND
 WS0Z,DAVE,MO,
 WS1F,,CT,

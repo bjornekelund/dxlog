@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3240
-# Last updated 2022-09-29
+# Contains members up to #3241
+# Last updated 2022-10-08
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1075,6 +1075,7 @@ IK2SAT=Mauro;I
 IK2SGB=Abele;I
 IK2WAD=Joe;I
 IK2YYM=Giu;I
+IK3VUT=Luca;3241
 IK3YBX=Ricky;2563
 IK4EWX=Ian;I
 IK4GBU=Val;I
@@ -1446,6 +1447,7 @@ K2PS=Pete;FL
 K2QB=Jim;935
 K2QBN=Evan;2611
 K2QO=Mark;NY
+K2RB=Rick;CT
 K2RB=Rick;NY
 K2RD=Ira;63
 K2RP=Ron;CA
@@ -2136,7 +2138,7 @@ K9YII=Fred;IL
 K9ZO=Al;1761
 K9ZTV=Kent;676
 KA0AAM=Dwayne;1497
-KA0PQW=Matt;NM
+KA0PQW=Matt;MN
 KA1CFP=Marshall;VA
 KA1EFO=Ron;3081
 KA1IOR=Geoff;351
@@ -2376,6 +2378,7 @@ KE0L=Jim;TN
 KE0LUA=Shawnna;3109
 KE0N=Eliot;MN
 KE0NLJ=Mike;IA
+KE0QKF=Mike;CWA
 KE0QMB=Dakota;MN
 KE0RWJ=Cary;1828
 KE0TT=Dan;2260
@@ -2665,6 +2668,7 @@ KN5O=Ted;LA
 KN6IPE=Den;2928
 KN6NUN=Zhuo;3117
 KN6NVZ=Kevin;CA
+KN6OMN=Don;CWA
 KN7A=Terry;3063
 KN7T=Mark;2274
 KN8U=Bruce;2297
@@ -3039,6 +3043,7 @@ N2GG=Gil;2705
 N2GM=Geo;2808
 N2IC=Steve;1790
 N2JDQ=Steve;NY
+N2JF=Jeff;FL
 N2JFD=Jim;1785
 N2JJ=Jim;1128
 N2JNE=Charlie;NY
@@ -3212,6 +3217,7 @@ N4OGW=Tor;MS
 N4OI=Ken;1536
 N4OK=Bob;3023
 N4OO=Brian;1045
+N4OQC=Bruce;CWA
 N4OX=Bill;1038
 N4PD=Paul;663
 N4PIR=Gary;1936
@@ -4614,6 +4620,7 @@ VE7JH=Gabor;2702
 VE7KHI=Kevin;
 VE7KW=Keith;2182
 VE7MR=Willi;427
+VE7NNT=Paul;BC
 VE7NZ=Ady;2758
 VE7SK=Bob;BC
 VE7XT=Rich;2831
@@ -5659,6 +5666,7 @@ WE5P=Bill;2372
 WE7G=Wayne;1816
 WE8L=Jason;3218
 WE8R=Bob;OH
+WF4I=Derek;NC
 WF5K=Aml;LA
 WF6F=Ken;2386
 WF7T=Brad;729
