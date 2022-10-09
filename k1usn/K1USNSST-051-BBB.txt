@@ -7,14 +7,14 @@
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
 2I0WLZ,ANDREW,DX,Portadown Northern Ireland
-4X4FC,ALEX,4X,Netanya Israel
+4X4FC,ALEX,DX,Netanya Israel
 5P5Q,VERNER,DX,Allinge Denmark
 9A/DM6EE,LUTZ,DX,
 9A3KG,JURE,DX,Split Croatia
-9A3YT,DARKO,9A,Kastav Croatia
-9A5AX,Josip,9A,Dubrovnik Croatia
+9A3YT,DARKO,DX,Kastav Croatia
+9A5AX,Josip,DX,Dubrovnik Croatia
 9A5MX,SVEN,DX,Muenchen Germany (DJ4MX)
-9A6ZE,NENO,9A,Samobor Croatia
+9A6ZE,NENO,DX,Samobor Croatia
 AA0AI,STEVE,IA,
 AA0AJ,DOREEN,MN,Duluth MN
 AA0AW,DOUG,MN,
@@ -819,44 +819,44 @@ CT7AFI,JOSE,DX,Sintra Portugal
 CT7AUP,DAVID,DX,Arruda dos Vinhos Portugal
 CU8/NU6F,RON,DX,
 CX1CAN,ANIBAL,CX,Montevideo Uruguay
-DD4DA,GERHARD,DJ,Dortmund Germany
-DD6DO,STEPHAN,DL,Berlin Germany
+DD4DA,GERHARD,DX,Dortmund Germany
+DD6DO,STEPHAN,DX,Berlin Germany
 DF2DR,HERMANN,DX,Blastein Germany
 DF4ZK,GUNTER,DX,Wald-Michelbach Germany
-DF7CP,STEFAN,DL,Eldena Germany
+DF7CP,STEFAN,DX,Eldena Germany
 DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
-DH1NTT,Terry,DH,Aschaffenburg Germany
-DH4NWG,MARTIN,DL,Hersbruck Germany
-DJ0YI,BEN,DL,Boeblingen Germany
+DH1NTT,Terry,DX,Aschaffenburg Germany
+DH4NWG,MARTIN,DXL,Hersbruck Germany
+DJ0YI,BEN,DXL,Boeblingen Germany
 DJ1TF,THOMAS,DX,Bad Schonborn Germany
-DJ1YFK,FABIAN,DL,Munich Germany
+DJ1YFK,FABIAN,DXL,Munich Germany
 DJ2MX,MARCUS,DL,Muenchen Germany
-DJ3IW,GOETZ,DJ,Burglengenfeld Germany
-DJ5AZ,FRED,DL,
+DJ3IW,GOETZ,DXJ,Burglengenfeld Germany
+DJ5AZ,FRED,DXL,
 DJ5CW,FABIAN,DX,Munich Germany
-DK0SU,TOM,DL,Stuffgart Germany
+DK0SU,TOM,DXL,Stuffgart Germany
 DK3QZ,DETLEF,DX,Dorsten Germany
 DK3UW,MARTIN,DX,Aumuehle Germany
-DK4RW,WOLF,DL,Linsengericht Germany
-DK6AC,MIKE,DL,Braunschweig Germany
-DL1AMI,WERNER,DL,Nordhausen Germany
+DK4RW,WOLF,DX,Linsengericht Germany
+DK6AC,MIKE,DX,Braunschweig Germany
+DL1AMI,WERNER,DX,Nordhausen Germany
 DL1AVH,WIL,DX,Kahla Germany
-DL1CC,Wolf,DL,Eisenhuettenstadt
-DL1CWM,Konrad,DL,Helsa Germany
+DL1CC,Wolf,DX,Eisenhuettenstadt
+DL1CWM,Konrad,DX,Helsa Germany
 DL1HR,RALPH,DX,Bad Laasphe Germany
-DL1VJL,WOLFGANG,DL,Goppein Germany
+DL1VJL,WOLFGANG,DX,Goppein Germany
 DL2GWZ,ALEX,DX,Speye Germany
-DL3MIM,MIMMO,DL,Schefflenz Germany
-DL3NAA,PETER,DL,Kehl Germany
-DL3SAS,HARTMUT,DL,Stuttgart Germany
+DL3MIM,MIMMO,DX,Schefflenz Germany
+DL3NAA,PETER,DX,Kehl Germany
+DL3SAS,HARTMUT,DX,Stuttgart Germany
 DL3TU,ROMAN,DX,Tuebingen Germany
 DL4HCF,BERT,DX,Buchholz Germany
 DL4KG,GERALD,DX,Stuttart Germany
-DL4NAX,FRED,DL,Bindlach Germany
-DL4YHF,WOLF,Spenge Germany
-DL5CL,RON,DL,
-DL5KX,WILFRIED,DL,koein Germany
+DL4NAX,FRED,DX,Bindlach Germany
+DL4YHF,WOLF,DX,Spenge Germany
+DL5CL,RON,DX,
+DL5KX,WILFRIED,DX,koein Germany
 DL5SFC,DENIS,DX,Balingen Germany
 DL5WO,OLIVER,DX,Mommenheim Germany
 DL5YV,BEN,DX,Greiz Germany
@@ -864,32 +864,32 @@ DL6KW,LUZ,DX,Satteldorf Germany
 DL6SDW,JOE,DX,Neu-Ulm Germany
 DL7BS,Bern,DX,Berlin Germany
 DL7DS,DAN,DX,Neuss Germany
-DL7USW/P,MARK,Berlin Germany
-DL9AAA,JUERGEN,DL,Groebenzell Germany
+DL7USW/P,MARK,DX,Berlin Germany
+DL9AAA,JUERGEN,DX,Groebenzell Germany
 DL9BDM,EILERT,DX,?
 DL9CM,ROLF,DX,Rheinbach Germany
-DL9EBA,PETER,DL,Duisburg Germany
-DL9LM,YURI,DL,Schwerin Germany
-DL9UO,MIKE,DL,Ahrensfelde Germany
+DL9EBA,PETER,DX,Duisburg Germany
+DL9LM,YURI,DX,Schwerin Germany
+DL9UO,MIKE,DX,Ahrensfelde Germany
 DM1AA,ANDRE,DX,Frankfurt am Main Germany
 DM5WGL,WIN,DX,Berlin Germany
 DM6EE,Lutz,DX,Wolfsburg Germany
 EA1AAE,Manel,DX,Soria Spain
 EA1IIB,NONE,DX,Leon Spain
-EA2BO,RAUL,EA,Vizcaya Spain
-EA3AKA,GABRIEL,EA,Els Muntells Spain
+EA2BO,RAUL,DX,Vizcaya Spain
+EA3AKA,GABRIEL,DX,Els Muntells Spain
 EA3BV,JON,DX,Villaldin Grado Spain
-EA3FNT,Arnau,EA,Girona (Catalonia) Spain
-EA4T,GEORGE,EA,Quijorna Madrid Spain
-EA5IUY,GARY,EA,Muro de Alcoy Spain
-EA7EGU,MANUEL,EA7,Lalaga Spain
+EA3FNT,Arnau,DX,Girona (Catalonia) Spain
+EA4T,GEORGE,DX,Quijorna Madrid Spain
+EA5IUY,GARY,DX,Muro de Alcoy Spain
+EA7EGU,MANUEL,DX,Lalaga Spain
 EA7KNQ,Ramon,DX,?
 EA8DED,KARI,DX,
 EA9OM,Heijo,DX,
 EB1MM,JOAQUIN,DX,Valdelafuente Leon Spain
-EI2HIB,MARTIN,,Waterford Irland
-EI2KW,DICK,EI,Kildare Ireland
-EI3HA,TONY,EI,Strandhill Sligo Ireland
+EI2HIB,MARTIN,DX,Waterford Irland
+EI2KW,DICK,DX,Kildare Ireland
+EI3HA,TONY,DX,Strandhill Sligo Ireland
 EI4JZ,BRONEK,DX,Roscommon Ireland
 EI9JF,NICKY,DX,Kildare Ireland
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
