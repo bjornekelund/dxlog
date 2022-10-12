@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-07
+# Last Edit,2022-10-08
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2163,6 +2163,7 @@ KA1EFO,Ron,3081,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
 KA1LOR,Len,MA,Shrewsburg MA
 KA1NP,Walt,3043,Tampa FL
+KA1RVM,Bill,3242,Holliston MA
 KA1YQC,Mark,2718,Franklin MA
 KA2F,John,NJ,Eatontown NJ
 KA2KGP,Tom,NY,Forestville NY
@@ -3424,7 +3425,7 @@ N6ZD,Gary,CA,Lockwood CA
 N6ZFO,Bill,101,Kelseyville CA
 N6ZI,Al,CA,San Diego CA
 N6ZY,Alan,CA,Penn Valley CA
-N7AUE,Jim,3237,Reno NV
+N7AUE,Muley,3237,(Jim)  Reno NV
 N7AWE,Jim,ID,Rathdrum ID
 N7BV,Chuck,WA,Port Angeles WA
 N7CLP,Cody,AZ,Gilbert AZ

@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3242
-# Last updated 2022-10-09
+# Last updated 2022-10-12
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -3395,7 +3395,7 @@ N6ZD=Gary;CA
 N6ZFO=Bill;101
 N6ZI=Al;CA
 N6ZY=Alan;CA
-N7AUE=Jim;3237
+N7AUE=Muley;3237
 N7AWE=Jim;ID
 N7BV=Chuck;WA
 N7CLP=Cody;AZ
