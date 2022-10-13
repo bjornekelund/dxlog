@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3242
-# Last updated 2022-10-12
+# Contains members up to #3243
+# Last updated 2022-10-13
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -457,7 +457,7 @@ DF7TV=Tom;2613
 DF8LY=Sven;DL
 DF9TF=Rich;2493
 DG3BCZ=Florian;DL
-DG5CW=Tom;CWA
+DG5CW=Tom;3243
 DH4NWG=Martin;DL
 DJ0AJ=Ekrem;DL
 DJ0MCH=Relly;409
@@ -1193,6 +1193,7 @@ K0AF=Andy;2990
 K0ALN=Bob;CO
 K0ALT=Rose;3118
 K0AP=Dragan;370
+K0ARS=Jim;mo
 K0AV=Alan;1129
 K0BJ=Bruce;KS
 K0BRO=Ron;MO
@@ -2304,7 +2305,7 @@ KC8J=Walt;2085
 KC8UR=Tony;2278
 KC9EE=Gary;1240
 KC9FFV=Mark;TX
-KC9IL=Warren;CWA
+KC9IL=Warren;IL
 KC9JVB=Bob;2606
 KC9JYF=Tom;IL
 KC9K=Dave;1875
@@ -2909,6 +2910,7 @@ M3AWD=Scott;G
 M3X=Harry;560
 M3ZFF=David;G
 M4N=Mike;2511
+M4T=Tim;2985
 M4X=Keith;2784
 M5KVK=Gaz;G
 M6O=Dave;482
@@ -2927,7 +2929,7 @@ MM2D=Phil;1583
 MM3AWD=Scott;GM
 MM9I=John;GM
 N0AC/M=Bill;1252
-N0AC=Bill;CO
+N0AC=Bill;IA
 N0AIE=Everett;SD
 N0AT=Ron;2399
 N0AV=Jim;359
@@ -5081,6 +5083,7 @@ W5BXE=Rich;AR
 W5CU=Sam;353
 W5CW=Dave;OK
 W5CWM=Martin;1992
+W5CYN=Jim;CWA
 W5DNT=Dan;297
 W5DT=Marv;2726
 W5DV=Chas;1364
@@ -5271,6 +5274,7 @@ W7VZ=Kent;UT
 W7WHY=Tom;OR
 W7XT=Dick;2004
 W7Y=Dale;404
+W7YC=Rick;TX
 W7ZAP=Mindy;OR
 W7ZDX=Bog;3145
 W7ZI=Mike;OR

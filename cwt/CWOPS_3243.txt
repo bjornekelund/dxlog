@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-08
+# Last Edit,2022-10-11
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -463,7 +463,7 @@ DF7TV,Tom,2613,Stuttgart Germany
 DF8LY,Sven,,Ruesselsheim Germany
 DF9TF,Rich,2493,Neuenburg Germany
 DG3BCZ,Florian,,Stuhr Germany  (Possibly QRP) 
-DG5CW,Tom,CWA,Bonn Germany
+DG5CW,Tom,3243,Bonn Germany
 DH4NWG,Martin,,Hersbruck Germany
 DJ0AJ,Ekrem,,Duesseldorf Germany
 DJ0MCH,Relly,409,Stuttgart Germany
@@ -1204,6 +1204,7 @@ K0AF,Andy,2990,Cedar Rapids IA
 K0ALN,Bob,CO,Aspen CO
 K0ALT,Rose,3118,(Christine)  CO,Silt CO
 K0AP,Dragan,370,Olathe KS
+K0ARS,Jim,mo,Macon MO
 K0AV,Alan,1129,Colorado Springs CO
 K0BJ,Bruce,KS,Colby KS
 K0BRO,Ron,MO,Belton MO
@@ -2323,7 +2324,7 @@ KC8J,Walt,2085,San Diego CA
 KC8UR,Tony,2278,Mount Vernon OH
 KC9EE,Gary,1240,Morton IL
 KC9FFV,Mark,TX,Forney TX
-KC9IL,Warren,CWA,Buffalo Grove IL
+KC9IL,Warren,IL,Buffalo Grove IL
 KC9JVB,Bob,2606,Vancouver WA
 KC9JYF,Tom,IL,Coal City IL
 KC9K,Dave,1875,Knoxville IL
@@ -2938,6 +2939,7 @@ M3AWD,Scott,G,Aylesbury Buckinghamshire England
 M3X,Harry,560,(M0IHT)  Exeter England
 M3ZFF,David,,Somerset England
 M4N,Mike,2511,(G4IZZ)  Cheltenham England
+M4T,Tim,2985,Shropshire England
 M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth)  St Neots England
 M6O,Dave,482,Okehampton England (G3WGN)
@@ -2955,7 +2957,7 @@ MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
-N0AC,Bill,CO,(1252) (Possibly QRP) 
+N0AC,Bill,IA,(1252) (Possibly QRP) 
 N0AC/M,Bill,1252,
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
@@ -5116,6 +5118,7 @@ W5BXE,Rich,AR,Little Rock AR
 W5CU,Sam,353,Edmond OK
 W5CW,Dave,OK,Okmulgee OK
 W5CWM,Martin,1992,Carrollton TX
+W5CYN,Jim,CWA,Franklin TX
 W5DNT,Dan,297,Granbury TX
 W5DT,Marv,2726,(ex:N8HZM) Southfield MI
 W5DV,Chas,1364,New Braunfels TX
@@ -5310,6 +5313,7 @@ W7VZ,Kent,UT,Clearfield UT
 W7WHY,Tom,OR,Coos Bay OR
 W7XT,Dick,2004,Missoula MT
 W7Y,Dale,404,Cheyenne WY (WC7S)
+W7YC,Rick,TX,Fort Worth TX
 W7ZAP,Mindy,OR,Brookings OR
 W7ZDX,Bog,3145,(Larry)  Shelton WA
 W7ZI,Mike,OR,Beaverton OR
