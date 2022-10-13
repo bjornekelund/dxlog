@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls XM* | tail -1 2> /dev/null`
+FILE=`ls WA* | tail -1 2> /dev/null`
 OUTFILE=DOK_db.txt
 
 echo Parsing $FILE
