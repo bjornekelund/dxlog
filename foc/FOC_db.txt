@@ -1,4 +1,4 @@
-# Updated up to FOC #2195 - GQ3ZXZ. Updates to fabian@fkurz.net.
+# Updated up to FOC #2197 - K3UL. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 3B8XF=Nigel;1266
 3C5XA=Alan;1500
@@ -101,7 +101,6 @@ AA1TR=Petr;1547
 AA2A=Allen;2115
 AA3B=Bud;1921
 AC1FE=Richard;2055
-AC2K=Alan;1851
 AC4CA=John;2036
 AC4RO=Holger;1567
 AC4TT=Norm;1767
@@ -553,6 +552,7 @@ K3NA=Eric;1842
 K3PA=Drew;2159
 K3TF=Tom;2030
 K3TW=Tom;1177
+K3UL=Robert;2197
 K3WW=Chas;2117
 K3ZO=Fred;928
 K4BAI=John;1121
@@ -746,6 +746,7 @@ N8NA=Karl;1954
 N9RD=Juergen;1625
 N9RV=Pat;1830
 N9SW=Gene;698
+NA2U=Fred;2196
 NA5G=Ed;1970
 NA6M=Mark;2046
 ND4AA=Norm;1767
@@ -1175,6 +1176,7 @@ YO3FLR=Cristi;1810
 YO3FRI=Tina;1958
 YR80FOC=Cristi;1810
 YU0HST=Dave;1053
+Z66BCC=Rene;2192
 Z68XX=Rene;2192
 ZB2CW=Derek;1617
 ZB2X=Jorma;1557

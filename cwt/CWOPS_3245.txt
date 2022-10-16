@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-11
+# Last Edit,2022-10-15
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -3480,7 +3480,7 @@ N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
 N7VM,Bill,CA,Fallbrook CA
-N7WY,Bob,1406,Cheyenne WY
+N7WY,Bob,1406,Rogersville MO
 N7XM,Josh,WV,Dayton NV
 N7YT,Bill,1271,Seabeck WA
 N7YY,Dan,1865,Sandy OR (QRP)
@@ -4267,6 +4267,7 @@ SM9X,Jaan,2548,Farsta Sweden
 SN1T,Ted,,(SP1NQN) Siemianile Poland
 SN5J,Jan,2887,Zegrze Poland
 SN5N,Chris,,Lukow 1 Poland
+SN5Y,Cezar,,Warsaw Poland
 SN9EA,Cary,1828,(VE4EA) travelling
 SN9MT,Mirek,,Ruda Slaska Poland
 SO3O,Jan,SP,
@@ -5693,6 +5694,7 @@ WD4FMG,Lauren,VA,Midlothian VA
 WD4LZC,Stu,KY,Louisville KY
 WD5BZN,Dave,TX,Bellaire TX
 WD5DBV,Roy,290,Cade LA
+WD5GRW,Jim,3245,Allen TX
 WD4HCK,Russ,CWA,Ardmore OK
 WD5RS,Russ,TX,Milford TX
 WD6T,Dave,2079,Berkeley CA
@@ -5905,6 +5907,7 @@ Z33B,Kirk,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
 ZA1EM,Elvira,3076,Elbasan Albania
 ZB2CW,Derek,,Gibraltar
+ZB2FK,Tito,3244,Gibraltar 
 ZB2X,Jorma,144,Gibraltar
 ZD8W,Oli,,Ascension Island (W6NV)
 ZF2DO,Dave,TX,Alpine TX
