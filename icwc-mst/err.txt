@@ -1,0 +1,6 @@
+Parsing ICWC-MST-031.txt
+!!Order!!,Call,Name,Misc,UserText, --> col=2
+"K1YW,GREG,,MA" reappears as "K1YW,GREG,MA,Lancaster MA"
+"K5KB,Bill,TX,Medina TX" reappears as "K5KB,MIKE,IA,?"
+"SM5CIL,ARNE,,DX" reappears as "SM5CIL,Arne,1410,Rejmyre Sweden (SM7CIL)"
+Created ICWCMST_db.txt
