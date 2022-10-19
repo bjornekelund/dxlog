@@ -1,0 +1,98 @@
+1	Illinois	
+61	South Carolina
+2	Ohio	
+62	Kansas
+3	Broadwing	
+64	South Texas
+4	Wisconsin	
+66	Arizona
+5	Nova Five	
+67	Utah
+6	Liberty Bell	
+68	De Anza
+7	Leonard H. Kinnard	
+73	Mont Royal
+8	Colorado	
+81	H. G. McCully-Dnst
+9	Morris F. Tyler	
+85	Paumonok
+10	Michigan	
+97	Empire State
+11	Missouri	
+98	Excelsior
+12	H. G. McCulley Upstate	
+99	Telecordia
+13	Fort Pitt	
+100	Maple Leaf
+14	Thomas Sherwin	
+101	Silver State
+15	A. G. Bell	
+102	Ontario
+16	Indiana	
+103	Quebec
+17	Iowa	
+105	New Foundland
+18	Minnesota	
+117	New Mexico
+19	Nebraska	
+118	North Dakota
+20	William Denver	
+119	South Dakota
+21	Tennessee	
+120	Wyoming
+22	Texas Pride	
+121	Idaho
+23	Community Service Group	
+122	Montana
+24	Louisiana	
+124	Georgia
+25	Verizon West	
+125	NorthEast AT&T
+26	C. F. Sise	
+126	Mid Atlantic
+29	Golden Bear	
+127	South
+30	Washington	
+131	NorthEast New Outlook
+31	Oregon	
+132	Penn Jersey New Outlook
+32	Kentucky	
+133	Atlantic Coast New Outlook
+33	Jasper N. Keller	
+134	Southern States New Outlook
+34	Alabama	
+135	Cross Roads New Outlook
+35	North Carolina	
+136	SouthWest New Outlook
+36	Mississippi	
+137	New Frontier New Outlook
+37	Genesee	
+138	Golden Gate
+38	Agere/Allentown New Outlook	
+139	New Jersey
+39	Florida	
+140	Pacific
+41	Oklahoma	
+141	Mountain & Plains
+42	West Virginia	
+159	Alaska
+43	Old Dominion	
+501	Ted Fisher Redlands
+44	Maryland	
+502	Theodore Garry
+46	Alberta	
+503	Granite State
+49	Acadia	
+504	Holmwood Lorbeer-Pomona
+50	MTS Pioneers	
+505	Addison-Home.Addison
+51	New Brunswick	
+506	S.Monica Bay
+52	Arkansas	
+507	White Mtn.Club
+53	British Columbia	
+508	Norwesco
+55	MacDonald-Cartier	
+509	S.D.Pioneers
+59	Saskatchewan	
+599	Non Pioneer

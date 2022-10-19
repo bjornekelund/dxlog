@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-17
+# Last Edit,2022-10-19
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -154,6 +154,7 @@ AA9K,Bob,1006,Monteagle TN
 AA9RK,Mike,3173,West Allis WI
 AA9SN,Scott,2622,Milan IN
 AA9WJ,Jeff,2942,Newburg IN
+AA9WP,Don,WI,Cedarburg WI
 AB0AB,Jim,MO,Chillicothe MO
 AB0BM,Gary,IA,Quimby IA
 AB0DK,Dave,1932,Kirksville MO
@@ -1006,6 +1007,7 @@ HA9RC,Zoli,2766,Tiszaluc Hungary
 HA9RP,Oszu,,Szent Gyorgy Hungary
 HA9RT,Joska,1213,Fonyod Hungary
 HB0/UX1HW/M,Art,1890,Mobile
+HB9AJP,Chris,CWA,Bariswil Switzerland
 HB9AJY,Fritz,2672,Utziben Switzerland
 HB9ARF,Phil,1354,St-Cergue Switzerland
 HB9AUK,Walt,2593,Wil/ZH Switzerland
@@ -3250,7 +3252,7 @@ N4OGW,Tor,MS,Starkville MS
 N4OI,Ken,1536,Troutman NC
 N4OK,Bob,3023,Snellville GA
 N4OO,Brian,1045,Marietta GA
-N4OQC,Bruce,CWA,Jacksonville FL
+N4OQV,Bruce,CWA,Jacksonville FL
 N4OX,Bill,1038,Mc David FL
 N4PD,Paul,663,Leesburg VA
 N4PIR,Gary,1936,Greenville NC
@@ -3528,6 +3530,7 @@ N8TD,Tom,749,Dayton OH
 N8UM,John,1535,Oak Ridge TN
 N8VAR,Ron,OH,Huber Heights OH
 N8WE,Glen,OH,Centerville OH
+N8ZV,Bob,CWA,Amherst OH
 N8ZYA,John,WV,Charleston WV
 N9BOR,Mike,312,Skokie IL
 N9BX,Bruce,MS,Ocean Springs MS
@@ -4039,6 +4042,7 @@ PA1FOX,Alex,1225,Hengelo Netherlands
 PA1LEX,Lex,,Hardewijk Netherlands
 PA1LIO,Adriaan,,Eemnes Netherlands
 PA2G,Gerard,3107,Capelle Ann Den IJssel Netherlands
+PA2PIM,PIM,,Houten Netherlands
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
@@ -5940,5 +5944,6 @@ ZS2I,Johan,,Heiderand South Africa
 ZS4TX,Bernie,,Danhof SA
 ZS5SJ,John,,Richards Bay South Africa
 ZS6AKU,Dirk,,Glenvista South Africa
+ZS6MSW,Mike,3247,South Africa
 ZS6RI,Chris,1236,The Reeds South Africa
 ZS6UT,Ed,,Lynnwood Ridge South Africa

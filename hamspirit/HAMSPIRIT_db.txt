@@ -1,7 +1,7 @@
 # Ham Spirit Contest database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-10-18
+# Last updated 2022-10-19
 2D0DRM=27IO
 2D0PEY=27IO
 2E0APZ=27IO
@@ -51399,6 +51399,7 @@ PI4MM=27JO
 PI4MRC=27JO
 PI4NOV=27JO
 PI4NYV=27JO
+PI4RCB=27JO
 PI4RF=27JO
 PI4RS=27JO
 PI4RTD=27JO
@@ -53492,6 +53493,7 @@ R9CC=30MO
 R9CCC=30MO
 R9CD=30LO
 R9CDD=30MO
+R9CL=30OO
 R9CM=30MO
 R9CP=30MO
 R9CQ=30MO

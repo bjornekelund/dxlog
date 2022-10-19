@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3246
-# Last updated 2022-10-18
+# Contains members up to #3247
+# Last updated 2022-10-19
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -148,6 +148,7 @@ AA9K=Bob;1006
 AA9RK=Mike;3173
 AA9SN=Scott;2622
 AA9WJ=Jeff;2942
+AA9WP=Don;WI
 AB0AB=Jim;MO
 AB0BM=Gary;IA
 AB0DK=Dave;1932
@@ -996,6 +997,7 @@ HA9RC=Zoli;2766
 HA9RP=Oszu;HA
 HA9RT=Joska;1213
 HB0/UX1HW/M=Art;1890
+HB9AJP=Chris;CWA
 HB9AJY=Fritz;2672
 HB9ARF=Phil;1354
 HB9AUK=Walt;2593
@@ -3220,7 +3222,7 @@ N4OGW=Tor;MS
 N4OI=Ken;1536
 N4OK=Bob;3023
 N4OO=Brian;1045
-N4OQC=Bruce;CWA
+N4OQV=Bruce;CWA
 N4OX=Bill;1038
 N4PD=Paul;663
 N4PIR=Gary;1936
@@ -3497,6 +3499,7 @@ N8TD=Tom;749
 N8UM=John;1535
 N8VAR=Ron;OH
 N8WE=Glen;OH
+N8ZV=Bob;CWA
 N8ZYA=John;WV
 N9BOR=Mike;312
 N9BX=Bruce;MS
@@ -4009,6 +4012,7 @@ PA1FOX=Alex;1225
 PA1LEX=Lex;PA
 PA1LIO=Adriaan;PA
 PA2G=Gerard;3107
+PA2PIM=PIM;PA
 PA2SQ=Simon;PA
 PA2ST=Ben;2897
 PA2TA=TJ;2955
@@ -5899,5 +5903,6 @@ ZS2I=Johan;ZS
 ZS4TX=Bernie;ZS
 ZS5SJ=John;ZS
 ZS6AKU=Dirk;ZS
+ZS6MSW=Mike;3247
 ZS6RI=Chris;1236
 ZS6UT=Ed;ZS
