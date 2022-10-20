@@ -821,7 +821,7 @@ CT1EDJ,JOSE,DX,Lisboa Portugal
 CT7AFI,JOSE,DX,Sintra Portugal
 CT7AUP,DAVID,DX,Arruda dos Vinhos Portugal
 CU8/NU6F,RON,DX,
-CX1CAN,ANIBAL,CX,Montevideo Uruguay
+CX1CAN,ANIBAL,DX,Montevideo Uruguay
 DD4DA,GERHARD,DX,Dortmund Germany
 DD6DO,STEPHAN,DX,Berlin Germany
 DF2DR,HERMANN,DX,Blastein Germany
@@ -835,10 +835,10 @@ DJ0YI,BEN,DXL,Boeblingen Germany
 DJ1TF,THOMAS,DX,Bad Schonborn Germany
 DJ1YFK,FABIAN,DXL,Munich Germany
 DJ2MX,MARCUS,DL,Muenchen Germany
-DJ3IW,GOETZ,DXJ,Burglengenfeld Germany
-DJ5AZ,FRED,DXL,
+DJ3IW,GOETZ,DX,Burglengenfeld Germany
+DJ5AZ,FRED,DX,
 DJ5CW,FABIAN,DX,Munich Germany
-DK0SU,TOM,DXL,Stuffgart Germany
+DK0SU,TOM,DX,Stuffgart Germany
 DK3QZ,DETLEF,DX,Dorsten Germany
 DK3UW,MARTIN,DX,Aumuehle Germany
 DK4RW,WOLF,DX,Linsengericht Germany
@@ -902,7 +902,7 @@ EI9JF,NICKY,DX,Kildare Ireland
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
 F4ABV,DENIS,DX,?
 F4HGA,GUS,DX,?
-F4HGD,STEF,F,Dunkerque France
+F4HGD,STEF,DX,Dunkerque France
 F4HVO,HUGO,DX,Toulouse France
 F4ISS,ALEX,DX,Paris France
 F4VSR,GIL,DX,Vingrau France
@@ -910,106 +910,106 @@ F5AGB,BRUNO,DX,St Crespin sur Moine France
 F5BLD,DENIS,DX,Oberhoffen sur Moder France
 F5GSK,PIERRE,DX,La seyne sur mer France
 F5GVE,JEAN,DX,Janville en Beauce France
-F5IDJ,VAL,F,
+F5IDJ,VAL,DX,
 F5JRC,JOHN,DX,Epaux-Bezu France
 F5LLE,JLOUIS,DX,Narbonne=Place France
-F5OKB,PIERRE,F,Lançon Provence France
+F5OKB,PIERRE,DX,Lançon Provence France
 F5PLC,MIKE,DX,
 F5RMN,YVON,DX,?
-F5ROL,MANU,F,?
-F5SGI,JEAN,F,Vannes France
+F5ROL,MANU,FX,?
+F5SGI,JEAN,DX,Vannes France
 F5SGP,JEAN,DX,Tantonville France
 F5TFW,GEORGE,DX,Reipertswiller France
-F6DQV,Jean,F,Vieille-Brioude France
-F6FGG,MAURICE,F,Augisey France
+F6DQV,Jean,DX,Vieille-Brioude France
+F6FGG,MAURICE,DX,Augisey France
 F6GWB,Gerard,DX,Elancourt France
 F6KRK,JAC,DX,RC Bretonneux France
-F8DPM,MICHEL,F,LLupia France
-FG8NY,JEAN,FG,St Claude Guadeloupe
+F8DPM,MICHEL,DX,LLupia France
+FG8NY,JEAN,DX,St Claude Guadeloupe
 G0EKH,Ken,G0,Devon England
-G0GZN,LINDY,G,Poole England
-G0HKC,Keith,G0,Bristol
-G0JJI,PETE,G,Poole Dorset England
-G0KAY,TRYSTAN,G,Lancashire England
-G0UJA,James,G0,Kent England
+G0GZN,LINDY,DX,Poole England
+G0HKC,Keith,DX,Bristol
+G0JJI,PETE,DX,Poole Dorset England
+G0KAY,TRYSTAN,DX,Lancashire England
+G0UJA,James,DX,Kent England
 G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
-G3OND,JOHN,G,Birchington England
+G3OND,JOHN,DX,Birchington England
 G3RGD,RAY,DX,Birmingham England
-G3TYB,JOHN,DXG,no info
-G3WGN,DAVE,G,Gotnes England
+G3TYB,JOHN,DX,no info
+G3WGN,DAVE,DX,Gotnes England
 G3WZD,MAC,DX,Cornwall England
 G3XPO,Ken,DX,
-G3ZBU,AL,G,Horsham England
-G4AIU,EA,G,Wellington England
-G4EBK,GEORGE,G,Grimsby England
-G4FAD,RICH,UK,Hereford England
+G3ZBU,AL,DX,Horsham England
+G4AIU,EA,DX,Wellington England
+G4EBK,GEORGE,DX,Grimsby England
+G4FAD,RICH,DX,Hereford England
 G4FKI,DAVE,DX,Bedford England
 G4IWO,NICK,DX,Littleborough England
 G4UDG,KRIS,DX,Staffordshire England
-G4VME,RICHARD,G,Cambridge England
+G4VME,RICHARD,DX,Cambridge England
 G4WSQ,JOHN,G,BH23 Area England
-G5C,MALCOLM,G,
-G6GLP,TONY,G,Devon England
-G8RWG,NIELS,G,Coulsdon England
-G8XTJ,JOHN,G,Bucks England
-GM0EUL,PETER,GM,Duns Scotland
-GM1J,JIM,GM,Edinburgh Scotland
+G5C,MALCOLM,DX,
+G6GLP,TONY,DX,Devon England
+G8RWG,NIELS,DX,Coulsdon England
+G8XTJ,JOHN,DX,Bucks England
+GM0EUL,PETER,DX,Duns Scotland
+GM1J,JIM,DX,Edinburgh Scotland
 GM4ATA,JOHN,DX,Kilmarnock Scotland
-GM4TEF,ALLAN,GM,Aberdeenshire Scotland
+GM4TEF,ALLAN,DX,Aberdeenshire Scotland
 GM5TDX,TED,DX,Wishaw Scotland
-GW0ETF,STEW,GW,Bangor Wales
+GW0ETF,STEW,DX,Bangor Wales
 GW4J,STEW,GW,Bangor Wales
 GW4ZAR,DAVE,GW,Flintshire Wales
 GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW7APP,Ian,GW,Anlesey Wales
-HA8RJ,ATI,HA,Soltvadkert Hungary
+HA8RJ,ATI,DX,Soltvadkert Hungary
 HA8WZ,GYURI,DX,Bekescsaba Hungary
-HB0/DL5YL,TINA,HB0,DXP
+HB0/DL5YL,TINA,DX,DXP
 HB9BEG,ERNST,DX,Ostermundigen Switzerland
-HB9BXF,FRANZ,HB,Meikirch Switzerland
+HB9BXF,FRANZ,DX,Meikirch Switzerland
 HB9DAX,FRED,DX,Landquart Swtzerland
-HB9DOS,ROBY,HB,Olivone/Luorscha Switzerland
-HB9FAB,PAT,HB9,Camignolo Switzerland
+HB9DOS,ROBY,DX,Olivone/Luorscha Switzerland
+HB9FAB,PAT,DX,Camignolo Switzerland
 HB9HBV,JEAN,DX,Muttenz Switzerland
-HB9HDV,YOSHI,HB,Bernex Switzerland
-HB9HFA,MARTIAL,HB,Broc Switzerland
-HB9KNT,ARTHUR,HB,St Gallen Switzerland
+HB9HDV,YOSHI,DX,Bernex Switzerland
+HB9HFA,MARTIAL,DX,Broc Switzerland
+HB9KNT,ARTHUR,DX,St Gallen Switzerland
 HC2PY,JOE,DX,
 HC5LM,AUG,DX,Ecuador
-HI2AA,BILL,HI,
-HK3EJB,MIKE,,
+HI2AA,BILL,DX,
+HK3EJB,MIKE,DX,
 HP2SM,SANTIAGO,DX,Colon Panama
-HP3SS,ROBBY,HP,
+HP3SS,ROBBY,DX,
 HZ1BH,AMER,DX,Jeddah/West Coast Saudi Arabia
-I1HNU,MARK,I,Ivrea TO Italy
+I1HNU,MARK,DX,Ivrea TO Italy
 I2IFT,JOHN,DX,Seriate BG Italy 
 I4WYE,STEVE,DX,Modena MO Italy
 I5ECW,VANNI,DX,Montale PT Italy
 I5GJK,FABIO,DX,Montemurlo Italy
 I5OVS,PIERO,DX,Pistoia Italy
 IK1HGE,Bob,DX,Almese TO Italy
-IK1PMR,Andrea,IK,Casale Monferrato Italy
+IK1PMR,Andrea,DX,Casale Monferrato Italy
 IK1VQO,GIAN,DX,Cuneo Italy
-IK1WNO,ENRICO,I,Genova GE Italy
+IK1WNO,ENRICO,DX,Genova GE Italy
 IK4POF,ALF,DX,Calderara Reno Bo Italy
-IK5NFJ,STEFANO,I,Cevoli PI Italy
-IK6FAW,BRUNO,ASCOLI PICENO IALY,
+IK5NFJ,STEFANO,DX,Cevoli PI Italy
+IK6FAW,BRUNO,DX,ASCOLI PICENO IALY,
 IQ1IV,RO,DX,Ivrea Italy
 IU0PIO/7,LECCE,DX,?
-IU1AUG,Diego,IU,Tavagnasco Italy
+IU1AUG,Diego,DX,Tavagnasco Italy
 IU3MIK/P,ANDREA,DX,Terviso Italy
-IU5PDY,NAME,I,Livorno Italy
+IU5PDY,NAME,DX,Livorno Italy
 IV3VIR,LUCIO,DX,Trieste Italy
-IW0OBX,ROBY,I,
+IW0OBX,ROBY,DX,
 IW1CHJ,GIAMPI,DX,Torino Italy
 IW6CFI,RIK,DX,Sassoferrato Italy
 IZ0VQU,MIRKO,DX,Roma Italy
 IZ1ULN,ALEX,DX,Casarza Ligure Genova Italy
 IZ2FME,MIK,DX,Borghetto Italy
-IZ4ZZB,MIKE,I,San Lazzaro di Savena Italy
+IZ4ZZB,MIKE,DX,San Lazzaro di Savena Italy
 IZ5CNC,MARK,DX,Prato Italy
-IZ6BXP,Stefano,IA,L'aquila Italia
+IZ6BXP,Stefano,DX,L'aquila Italia
 IZ7ANJ,CARL,DX,San Severo FG Italy
 K0ACP,ART,MI,
 K0AD,AL,MN,
@@ -5570,12 +5570,12 @@ KZ9DX,ZIGGY,IL,
 KZ9V,DAVE,WI,
 LA8CJ,ARNFINN,DX,Oslo Norway
 LB4MI,HELHE,DX,Kristiansund Norway
-LB5DI,Ole,LB,Lier Norway
+LB5DI,Ole,DX,Lier Norway
 LU1AW,JUAN,DX,Buenos Aires Argentina
 LU1AW/D,JUAN,DX,Buenos Aires Argentina
-LU3VED,MAR,LU,(Martin)  General Roca Argentina
+LU3VED,MAR,DX,(Martin)  General Roca Argentina
 LU7GFH,JAVIER,DX,Chaco Argentina
-LZ1GG,COSTA,LZ,Samokov Bulgaria
+LZ1GG,COSTA,DX,Samokov Bulgaria
 LZ1GH,GEORGE,DX,Ravnets Bulgaria
 LZ1ON,DIMO,DX,Zagora Bulgaria
 LZ1QI,PETKO,DX,Lyulin Bulgaria
@@ -5587,28 +5587,28 @@ LZ2UG,ANGELO,DX,?
 LZ3AN,ANTON,DX,Dimitrovgrad Bulgaria
 M0CFV,BLAZEJ,DX,London England
 M0ICL,JOZEF,DX,Orpington England
-M0JCP,JIM,G,Frome England
+M0JCP,JIM,DX,Frome England
 M0KVI,OWEN,DX,East Sussex England
 M0LRQ,PETER,DX,Northamptonshire England
-M0MON/P,MARK,G,Winderhere England
-M0MUI,MUI,G,Norwich England
-M0NNQ,LEO,G,Cumbria England
-M0NOM/P,MARK,G,Windermere England
+M0MON/P,MARK,DX,Winderhere England
+M0MUI,MUI,DX,Norwich England
+M0NNQ,LEO,DX,Cumbria England
+M0NOM/P,MARK,DX,Windermere England
 M0NYW,JASON,DX,North Tyneside England
-M0RYB,PETER,G,Norwich England
+M0RYB,PETER,DX,Norwich England
 M0SDB,DANNY,DX,Sheffield England
-M0SHM,STEVE,G,Lancs England
-M0WDD,DAVID,G,Salford Manchester England
-M1X,STEVE,G,Sevenoaks Kent Englad
+M0SHM,STEVE,DX,Lancs England
+M0WDD,DAVID,DX,Salford Manchester England
+M1X,STEVE,DX,Sevenoaks Kent Englad
 M2AVG,WILLE,DX,?
-M2U,Ray,G,Surrey England
+M2U,Ray,DX,Surrey England
 M4J,Jon,DX,
 M5ABN,PETE,DX,Devon England
-M6MPC,Mike,G,Brede England
+M6MPC,Mike,DX,Brede England
 M7TSM,ALAN,DX,Claverham England
-MI0WWB,WILL,GI,Northern Irland
-MM0IVR,RONAN,GM,Mussenburg Scotland
-MM9I,JOHN,GM,East Kilbride Scotland
+MI0WWB,WILL,DX,Northern Irland
+MM0IVR,RONAN,DX,Mussenburg Scotland
+MM9I,JOHN,DX,East Kilbride Scotland
 N0AB,,KS,
 N0AB,GORDON,KS,Lawrence KS
 N0AC,BILL,CO,
@@ -8297,8 +8297,8 @@ NZ8J,TIM,OH,
 NZ8K,,WV,
 NZ8O,,MI,
 NZ9R,,IN,
-OE1ALW,Ulf,OE,Vioenna Austria
-OE3IAK,ANDREAS,OE,Wienerherberg Austria
+OE1ALW,Ulf,DX,Vioenna Austria
+OE3IAK,ANDREAS,DX,Wienerherberg Austria
 OE8RVK,ROBERT,DX,Klagenfurt Austria
 OE9NFI,EGON,DX,Bludenz Austria
 OG6B,ZABA,DX,
@@ -8317,14 +8317,14 @@ OK1VLP,BOB,DX,
 OK2BOB,BOB,DX,Olomouc Czech Republic
 OK2SG,STAN,DX,Rosice u Brna Czech Republic
 OK2VV,VITA,DX,Contest Station Novy Jicin Czech Republic
-OM5NZ,KAROL,OM,
+OM5NZ,KAROL,DX,
 ON4AIP,STEFAN,DX,Vremde Antwerpen Belgium
 ON4LDL,BOB,DX,Sambre Belgium
 ON7HB,HENRI,DX,Morlanwelz Belgium
 ON7PQ,Pat,DX,
 ON7XN,HANS,DX,Belgium
 OX3XR,PETER,DX,Nuuk Greenland
-P4/S57AV,MARK,,
+P4/S57AV,MARK,DX,
 PA0INA,FRANS,DX,Goes Netherlands
 PA0M,THIEU,DX,Veldhoven Netherlands
 PA1BBO,BERT,DX,Hellendoorn Netherlands
@@ -8337,57 +8337,57 @@ PA3HEN,THEO,DX,Purmerend Netherlands
 PA8R,ROB,DX,Gouda Netherlands
 PD5SS,RUDY,DX,Sluiskil Netherlands
 PE1RCT,ANDREAS,DX,Herten Netherlands
-PE2JB,JACO,PE,Katwijk ann zee Netherlands
-PF5X,Enno,PF,Cuijk Netherlands
+PE2JB,JACO,DX,Katwijk ann zee Netherlands
+PF5X,Enno,DX,Cuijk Netherlands
 PF6IK,THEO,DX,Amsterdam Netherlands
-PG4I,Jo,PG,Culemborg Netherlands
-PH60VHSC,Frans,PA,(PA0INA)  60th VHSC
-PT7BT,NETO,PY,Fortaleza Brazil
-PY1AMF,Mar,PY,Paranagua Brazil
+PG4I,Jo,DX,Culemborg Netherlands
+PH60VHSC,Frans,DX,(PA0INA)  60th VHSC
+PT7BT,NETO,DX,Fortaleza Brazil
+PY1AMF,Mar,DX,Paranagua Brazil
 PY1LV,LEO,DX,Mesquita Brazil
-PY2BBQ,HILTON,PY,Sao Paulo Brazil
-PY2FER,FERNANDO,PY,Campinas Brazil
-PY5AMF,Mar,PY,Paranagua Brazil
-PY5EG,ONJ,PY,
-PY5HOT,Mike,PY,ârama Brazo;
+PY2BBQ,HILTON,DX,Sao Paulo Brazil
+PY2FER,FERNANDO,DX,Campinas Brazil
+PY5AMF,Mar,DX,Paranagua Brazil
+PY5EG,ONJ,DX,
+PY5HOT,Mike,DX,ârama Brazo;
 RA1ALS,MAK,DX,St. Petersburg Russia
-RA4ACX,ALEXEY,UA,Volgograd Russia
-RL3P,SLAVA,DL,Tula Region
-RM2D,Mats,EU,Odintsovskiy Russia
+RA4ACX,ALEXEY,DX,Volgograd Russia
+RL3P,SLAVA,DX,Tula Region
+RM2D,Mats,DX,Odintsovskiy Russia
 RU9LA,ANDY,DX,Tyumen Russia
-S55N,JOC,S5,Smartno pri Slovenj Gradcu Slovenia
-SB7S,ORJAN,SM,Nybro Sweden
-SD1A,ERIC,SM,Visby Sweden
+S55N,JOC,DX,Smartno pri Slovenj Gradcu Slovenia
+SB7S,ORJAN,DX,Nybro Sweden
+SD1A,ERIC,DX,Visby Sweden
 SD6F,KLAS,DX,Askim Sweden
-SF1Z,JENS,SM,Gotlands-Tofta Sweden
+SF1Z,JENS,DX,Gotlands-Tofta Sweden
 SF6W,Goran,DX,
 SM5CIL,ARNE,DX,Borghold Sweden
-SM5EDX,JOHN,SM,Vasteras Sweden
-SM6YNO,HANS,SM,KarlGustav Sweden
+SM5EDX,JOHN,DX,Vasteras Sweden
+SM6YNO,HANS,DX,KarlGustav Sweden
 SP2JFY,ANDY,DX,Malbork Poland
-SP3MEY,GEDDY,SP,Kolo Poland
-SP5BB,FRANK,SP,Warszawa Poland
+SP3MEY,GEDDY,DX,Kolo Poland
+SP5BB,FRANK,DX,Warszawa Poland
 SP7CF,ANDY,DX,Zloczew Poland
 SP7OGP,PIOTR,DX,Tomaszow Poland
-SP8VFX,MARIO,,Krakow Poland
-SP9IHP,ANDY,SP,Czestochowa Poland
+SP8VFX,MARIO,DX,Krakow Poland
+SP9IHP,ANDY,DX,Czestochowa Poland
 SP9TKW,MAREK,DX,PGA Poland
-SV1CEI,NICK,SV,Nea Penteli Greece
+SV1CEI,NICK,DX,Nea Penteli Greece
 SV2HJQ,MICEL,DX,Ptolemaida Greece
-SV9RPE,DICK,SV,Lasithi Crete
+SV9RPE,DICK,DX,Lasithi Crete
 TF3SG,GUDMI,DX,Reykjavik Iceland
 TI2JS,JAVIER,DX,
 TI2SW,ARNIE,DX,
-TI4VAA,VICTOR,,
+TI4VAA,VICTOR,DX,
 UA3DEA,VAL,DX,Serghiev Posad Russia
 UG9A,Dmitriy,DX,Chelyabinsk Russia
-UN7QF,GENNA,UN,Almaty Kazakhstan 
-UR3QX,GENO,UR,Zaporizhia Ukraine
-UR5KHQ,KEN,UR,Rivne Ukraine
-UR5MM,RUDY,UR,Partizanskaya Ukraine
+UN7QF,GENNA,DX,Almaty Kazakhstan 
+UR3QX,GENO,DX,Zaporizhia Ukraine
+UR5KHQ,KEN,DX,Rivne Ukraine
+UR5MM,RUDY,DX,Partizanskaya Ukraine
 UX5VK,JURA,DX,Ukraine
-V31MU,MIKE,V3,
-V4/W3UL,BILL,V4,
+V31MU,MIKE,DX,
+V4/W3UL,BILL,DX,
 VA1ALW,BILL,NS,Lower Sackville NS
 VA1CHP,RICH,NS,
 VA1MM,AL,NS,
@@ -13277,10 +13277,10 @@ WZ8P,EVERETT,OH,
 XE1HON,MANNY,DX,Sahuayo Mich Mexico
 XE2AD,DAVE,DX,Aguascalientes Ags Mexico
 XE3A,PABLO,DX,Yucatan Mexico
-YL3JD,HANZ,YL,Lkskile Latvia
-YO3FFF,Christi,YO,Bucuresti Romaina
+YL3JD,HANZ,DX,Lkskile Latvia
+YO3FFF,Christi,DX,Bucuresti Romaina
 YU7OQA,KARLO,DX,?
-YU9CF,ZORAN,YU,Cacak Serbia
-YV1LBB,Lorenzo,YV,Maracaibo Zulia Venezuela
+YU9CF,ZORAN,DX,Cacak Serbia
+YV1LBB,Lorenzo,DX,Maracaibo Zulia Venezuela
 ZA4KC,TIM,DX,Kruja Albania
-ZZ0ZZZ,TEST,ZZ,End of file test line.
+ZZ0ZZZ,TEST,DX,End of file test line.

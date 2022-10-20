@@ -1,7 +1,7 @@
 # K1USN Slow Speed Test participants database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-10-19
+# Last updated 2022-10-20
 2I0WLZ=ANDREW;DX
 4X4FC=ALEX;DX
 5P5Q=VERNER;DX
@@ -674,7 +674,7 @@ CT1EDJ=JOSE;DX
 CT7AFI=JOSE;DX
 CT7AUP=DAVID;DX
 CU8/NU6F=RON;DX
-CX1CAN=ANIBAL;CX
+CX1CAN=ANIBAL;DX
 DD4DA=GERHARD;DX
 DD6DO=STEPHAN;DX
 DF2DR=HERMANN;DX

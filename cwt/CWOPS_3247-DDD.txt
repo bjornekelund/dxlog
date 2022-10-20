@@ -2112,7 +2112,7 @@ K9KSG,Junior,IL,Bourbonnais IL
 K9LA,Carl,920,Fort Wayne IN
 K9LPX,Jerome,WI,Washburn WI
 K9LZJ,Hank,IN,Indianapolis IN
-K9MA,Scott,1385,Madison WI
+K9MA,Scott,UT,(1385) Madison WI
 K9MM,John,120,Prospect Heights IL
 K9MMS,Gary,277,St-Charles IL
 K9NN,Dale,2568,Carmel IN
@@ -2357,6 +2357,7 @@ KD2EHH,Ed,NY,Duanesburg NY
 KD2EPM,Dom,NJ,Marlton NJ
 KD2FSH,Jerry,1918,Ferfield NJ
 KD2FVG,Allen,NJ,Parsippany NJ
+KD2GW,Greg,NJ,Mariton NJ
 KD2HE,Vic,2536,(VE3HEU)  New York NY
 KD2KW,Ken,2478,Oak Point TX
 KD2MLY,Joe,NY,Brooklyn NY
@@ -2495,6 +2496,7 @@ KF9SW,Victor,IN,Martinsville IN
 KF9VV,Jim,2452,Middleton WI
 KG0EW,Dave,2369,Louisville CO
 KG1V,Geo,NH,Merrimack NH
+KG2GW,Greg NJ,Mariton NJ
 KG3V,Tom,1034,White Stone VA
 KG4CRJ,Brian,2378,Stoneville NC
 KG4IKQ,Jim,1458,Marion NC
@@ -2957,6 +2959,7 @@ MM0FME,Mik,2151,Mozzo Scotland
 MM0TWX,Pete,3085,Troon Scotland
 MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
+MM3AWA,Gord,,Peterhead Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
 N0AC,Bill,IA,(1252) (Possibly QRP) 
@@ -3844,6 +3847,7 @@ NZ3O,Byron,2026,West Chester PA
 NZ4CW,Craig,SC,Charleston SC
 NZ5A,Bob,TX,Alvin TX
 NZ6Q,John,CA,Stockton CA
+NZ7Q,Paul,NM,Rio Rancho NM
 NZ8J,Tim,1217,Fairborn OH
 OA4DX,Tony,OA,San Miguel Lima Peru
 OD5NJ,Gabe,,Mardiros Lebanon
@@ -4494,6 +4498,7 @@ VA7CDB,Paul,BC,Coquitam BC
 VA7CW,Andy,352,Delta BC
 VA7DX,Neil,2691,Vancouver BC
 VA7ETR,Tamara,2619,Vancouver BC
+VA7GI,Guy,BC,Vancouver BC
 VA7KH,Steve,3039,Ladysmith BC
 VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada (Western Amb.)
@@ -4801,6 +4806,7 @@ W1AO,Joe,125,Manchester ME
 W1ARY,marcel,CT,Wilton CT
 W1AX,Roger,MA,Westwood MA
 W1CWT,,,New England CWops Club (Beverly MA)
+W1CZ,Pich,NY,College Point NY
 W1EBI,George,9,Acton MA  (Also VA2EBI)
 W1EBM,Gary,784,Brookline NH
 W1EQ,Bob,871,Putnam CT
@@ -5825,7 +5831,7 @@ WU6P,Nian,2715,Sunnyvale CA
 WU6X,Dennis,1632,Auburn CA (Occ. RV)
 WU6X/4,Dennis,1632,(could be RV)
 WU7F,Mark,1351,Centerville UT
-WU7X,Dale,WA,Spokane WA
+WU7X,Dale,CWA,Spokane WA
 WU8R,Roman,OH,Wellston OH
 WV1D,Pat,2854,Weymouth MA
 WV4P,Ron,TN,Savannah TN
