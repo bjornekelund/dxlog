@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-19
+# Last Edit,2022-10-20
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -353,6 +353,8 @@ AH6RE,Curt,830,Keaau HI
 AH6V,Jeremy,HI,Ninole HI
 AH6VV,Carl,2300,Honolulu HI
 AH7I/W4,Bob,GA,
+AH7RF,Heather,HI,Honolulu HI
+AI0Y,Joe,ND,Nekoma ND
 AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
 AI2T,Barry,NY,Owego NY
@@ -1145,7 +1147,7 @@ IZ7GEG,Luca,,S. Vito Dei Normanni Italy
 IZ8VKW,Luigi,,Caserta Italia
 J6/K4ZGB,Tom,468,St-Lucia
 J6/WA4PGM,Kyle,255,
-J68PG,Kyle,255,(WA4PGM) 
+J68KC,Kyle,255,(WA4PGM) 
 J68SS,Steve,1862,(NY3B) St.Lucia
 J75Y,Doug,817,Dominica (K1LI)
 J79IX,John,984,Dominica (W4IX)
@@ -1532,6 +1534,7 @@ K3JST,John,PA,Johnstown PA
 K3JT,Terry,1398,Morgantown WV
 K3LR,Tim,943,West Middlesex PA
 K3MD,John,750,Winfield PA (NE-US Amb.)
+K4MI,Will,VA,
 K3MIY,Ron,PA,Clarion PA
 K3MM,Ty,114,Damascus MD
 K3MR,Matt,NJ,Toms River NJ
@@ -1848,6 +1851,7 @@ K6EU,Tom,CA,Los Gatos CA
 K6GHA,Don,CA,Santa Cruz CA
 K6GRH,Gwen,3058,Van Nuys CA
 K6GVG,ROY,1207,Newport Beach CA
+K6HL,Pat,CA,
 K6HP,Ed,1267,Murphys CA
 K6HTN,Kate,1068,Pasadena CA (CO Mgr. CW Academy)
 K6HZR,Jose,CA,La Verne CA
@@ -3651,6 +3655,7 @@ NE6NE,ZHUO,3117,San Jose CA
 NE6ZZ,STU,WI,
 NE7D,Rocky,829,Salem OR
 NE7EE,Chris,2616,Scottsdale AZ
+NE7TE,Chas,AZ,Wickenburg AZ
 NE8J,Howard,1940,Coopersville MI
 NE9U,Scott,2438,Menomonie WI
 NF0N,Mike,1383,South Sioux City NE
@@ -3973,6 +3978,7 @@ OM2DT,Dusan,,Senica Slovak Republic
 OM2VL,Laci,1542,Dunajska Streda Slovak Republic
 OM3CPF,Dus,,Slovak Republic
 OM3EY,Ed,,Banovce N.Bebr Slovak Republic
+OM3GI,Jozef,OM,
 OM3TBG,Milan,,Nitra Slovak Republic
 OM3YAD,Rudo,,no info
 ON1DX,Ron,2423,Merksplas Belgium
@@ -5657,6 +5663,7 @@ WB7FDQ,Mike,AZ,Prescott Valley AZ
 WB7GR,Greg,2833,Burns WY
 WB7S,Jerry,WY,Bassin WY
 WB7TJI,John,UT,Fruit Heights UT
+WB7UOF,Walt,AZ,Willcox,AZ
 WB7USJ,Tom,OR,Medford OR
 WB8AKW,John,2329,Worthington OH
 WB8BZK,Mike,3006,Algonquin IL

@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3247
-# Last updated 2022-10-20
+# Last updated 2022-10-21
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -347,6 +347,8 @@ AH6RE=Curt;830
 AH6V=Jeremy;HI
 AH6VV=Carl;2300
 AH7I/W4=Bob;GA
+AH7RF=Heather;HI
+AI0Y=Joe;ND
 AI2Q=Alex;ME
 AI2S=Ray;FL
 AI2T=Barry;NY
@@ -1134,7 +1136,7 @@ IZ7GEG=Luca;I
 IZ8VKW=Luigi;I
 J6/K4ZGB=Tom;468
 J6/WA4PGM=Kyle;255
-J68PG=Kyle;255
+J68KC=Kyle;255
 J68SS=Steve;1862
 J75Y=Doug;817
 J79IX=John;984
@@ -1642,6 +1644,7 @@ K4LTA=Bill;TN
 K4LW=Bob;2717
 K4LY=Doug;SC
 K4ME=Ben;NC
+K4MI=Will;VA
 K4MIL=Stu;VA
 K4MM=Tom;FL
 K4MQ=Wayne;GA
@@ -1831,6 +1834,7 @@ K6EU=Tom;CA
 K6GHA=Don;CA
 K6GRH=Gwen;3058
 K6GVG=ROY;1207
+K6HL=Pat;CA
 K6HP=Ed;1267
 K6HTN=Kate;1068
 K6HZR=Jose;CA
@@ -3621,6 +3625,7 @@ NE6NE=ZHUO;3117
 NE6ZZ=STU;WI
 NE7D=Rocky;829
 NE7EE=Chris;2616
+NE7TE=Chas;AZ
 NE8J=Howard;1940
 NE9U=Scott;2438
 NF0N=Mike;1383
@@ -3943,6 +3948,7 @@ OM2DT=Dusan;OM
 OM2VL=Laci;1542
 OM3CPF=Dus;OM
 OM3EY=Ed;OM
+OM3GI=Jozef;OM
 OM3TBG=Milan;OM
 OM3YAD=Rudo;OM
 ON1DX=Ron;2423
@@ -5617,6 +5623,7 @@ WB7FDQ=Mike;AZ
 WB7GR=Greg;2833
 WB7S=Jerry;WY
 WB7TJI=John;UT
+WB7UOF=Walt;AZ
 WB7USJ=Tom;OR
 WB8AKW=John;2329
 WB8BZK=Mike;3006
