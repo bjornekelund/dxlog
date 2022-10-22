@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2022-10-18 
+# 3-Last Edit,2022-10-22 
 # 4-Last updated from log of 
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -6043,6 +6043,7 @@ NN1N,,FN31,
 NN3Q,,FN10,
 NN3W,,FM18,
 NN4NT,,EM64,
+NN4SS,Larry,EM94,
 NN5DX,,DM80,
 NN5K,,DM64,
 NN5O,,EM54,

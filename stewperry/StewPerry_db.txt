@@ -2,7 +2,7 @@
 # Also used for Makrothen and CQ WW VHF contests
 # Data collected and maintained by VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Last updated 2022-10-19
+# Last updated 2022-10-22
 2E0CVN=IO80
 2E0KIM=JO03
 3A2MW=JN33
@@ -6029,6 +6029,7 @@ NN1N=FN31
 NN3Q=FN10
 NN3W=FM18
 NN4NT=EM64
+NN4SS=EM94
 NN5DX=DM80
 NN5K=DM64
 NN5O=EM54
