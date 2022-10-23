@@ -1,4 +1,4 @@
-# AGCW/NTC QSO Party database
+# AGCW-NTC Friendship QSO Party database
 # Based on call history data maintained by VE2FK
 # Last updated 2022-10-23
 # Report updates and corrections directly to ve2fk@arrl.net
