@@ -8,7 +8,7 @@ dos2unix -q $FILE
 cat $FILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk '
 BEGIN {
   FS=","
-  printf("#0 AGCW/NTC QSO Party database\n");
+  printf("#0 AGCW-NTC Friendship QSO Party database\n");
   printf("#1 Based on call history data maintained by VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
