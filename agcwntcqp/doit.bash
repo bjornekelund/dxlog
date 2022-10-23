@@ -1,31 +1,46 @@
 #!/bin/bash
-FILE=`ls AGCW-NTC* | tail -1 2> /dev/null`
+FILE=`ls AGCW-NTC*txt | tail -1 2> /dev/null`
 OUTFILE=AGCWNTPQP_db.txt
 
 echo Parsing $FILE
 dos2unix -q $FILE
 
-tr 
-gawk '
+cat $FILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk '
 BEGIN {
   FS=","
   printf("#0 AGCW/NTC QSO Party database\n");
   printf("#1 Based on call history data maintained by VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  maxlen = 0;
 }
 {
   callok = $1 ~ /^[0-9,A-Z,\/]+$/;
-  nameok = $2 ~ /^[A-Za-z\-]+$/
+  nameok = $2 ~ /^[A-Za-z]{2,10}$/
   firstok = $3 ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;
-  secondok = $4 ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|)$/;
+  secondok = $4 ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
+  lenok = $6 == ""
 
-  if (callok && nameok && firstok && secondok)
-    printf("%s=%s;%s\n", $1, $3, $4);
+  if (callok && firstok && secondok && lenok) {
+    printf("%s=%s;%s;%s\n", $1, nameok ? $2 : "", $3, $4);
+    if (length($2) > maxlen && nameok) {
+      maxcall = $1;
+      maxlen = length($2);
+      maxname = $2;
+    }
+    if (!nameok)
+        printf("Name ignored: \"%s\"\n", $0) > "/dev/stderr";
+
+  }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
+    if (nameok)
+      printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+    else
+      printf("Problem name:  \"%s\"\n", $0) > "/dev/stderr";
 }
-END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+END { 
+    printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
+}' | sort | uniq | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
