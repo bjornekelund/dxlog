@@ -16,13 +16,26 @@ BEGIN {
 }
 {
   callok = $1 ~ /^[0-9,A-Z,\/]+$/;
-  nameok = $2 ~ /^[A-Za-z]{2,10}$/
+  nameok = $2 ~ /^[A-Za-z]{2,10}$/;
+  hyphenated = $2 ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;
   firstok = $3 ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;
   secondok = $4 ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
-  lenok = $6 == ""
+  lenok = $6 == "";
 
   if (callok && firstok && secondok && lenok) {
-    printf("%s=%s;%s;%s\n", $1, nameok ? $2 : "", $3, $4);
+    if (nameok) {
+      name = $2;
+    }
+    else if (hyphenated) {
+      p = index($2, "-");
+      name = substr($2, 1, p - 1);
+      printf("Hyphenated name: \"%s\" --> \"%s\"\n", $2, name) > "/dev/stderr";
+    }
+    else {
+      name = "";
+    }
+
+    printf("%s=%s;%s;%s\n", $1, name, $3, $4);
     if (length($2) > maxlen && nameok) {
       maxcall = $1;
       maxlen = length($2);
