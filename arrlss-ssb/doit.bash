@@ -16,7 +16,7 @@ BEGIN {
   col = 2;
 }
 {
-  if ($0 !~ /#/) {
+  if ($0 !~ /^(#|!)/) {
     if (call[$1] != "" && (prec[$1] != $2 || lic[$1] != $3 || sect[$1] != $4))
       printf("For %s replace %s;%s with %s;%s\n", $1, lic[$1], sect[$1], $2, $4) > "/dev/stderr";
     call[$1] = $1;
@@ -32,7 +32,5 @@ END {
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
-
-echo This is not verified to work
 
 exit

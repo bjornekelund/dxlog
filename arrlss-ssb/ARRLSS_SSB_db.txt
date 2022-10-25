@@ -1,4 +1,3 @@
-!!Order!!=;Sect;State
 # ARRL SSB Sweepstakes database
 # Based on data collected and maintained by VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
