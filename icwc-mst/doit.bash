@@ -33,7 +33,7 @@ BEGIN {
       name[$1] = nm;
     }
     else if ($0 !~ /^(!|#|$)/ && nm != "")
-      printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Problem data: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

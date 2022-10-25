@@ -110,7 +110,7 @@ BEGIN {
 #    if ($3 != ID)
 #      printf("Replaced %s with %s for %s\n", $3, ID, $1) > "/dev/stderr";
     if (ID !~ /^[1-9][0-9]{1,3}$|^[A-Z0-9]+$/ || $2 !~ /^[A-Za-z]{2,}$/) {
-      printf("%s ID=\"%s\"\n", $1, ID) > "/dev/stderr";
+      # printf("%s ID=\"%s\"\n", $1, ID) > "/dev/stderr";
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {
