@@ -16,7 +16,7 @@ BEGIN {
 	  if ($2 ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$|^[0-9KW]+$/ && $4 == "") {
 		exchange = $2;
         if (exchange == "K")
-		  exchange = "KW";
+		    exchange = "KW";
         if (exchanges[call] != "" && exchanges[call] != exchange) {
 	      printf("For %s, %s is replaced by %s\n", call, exchanges[call], exchange) > "/dev/stderr";
 	    }
