@@ -8,8 +8,8 @@ BEGIN {
 {
   if ($1 ~ /^[0-9A-Z]/ && $2 != "") {
 #    printf("$1=%s $2=%s $3=%s\n", $1, $2, $3) > "/dev/stderr";    
-    ID = $3;
-    if (ID == "") {
+    ID = toupper($3);
+    if (ID ~ /^ *$/) {
       if ($1 ~ /^3B9/) ID = "3B9";
       if ($1 ~ /^3DA/) ID = "3DA";
       if ($1 ~ /^4O/) ID = "4O";
@@ -28,6 +28,7 @@ BEGIN {
       if ($1 ~ /^C[R-T]/) ID = "CT";
       if ($1 ~ /^CU/) ID = "CU";
       if ($1 ~ /^D[A-R]/) ID = "DL";
+      if ($1 ~ /^E2/) ID = "HS";
       if ($1 ~ /^E7/) ID = "E7";
       if ($1 ~ /^E[A-F]/) ID = "EA";
       if ($1 ~ /^E[I-J]/) ID = "EI";
@@ -48,11 +49,13 @@ BEGIN {
       if ($1 ~ /^HB[1-9]/) ID = "HB";
       if ($1 ~ /^HC/) ID = "HC";
       if ($1 ~ /^HK/) ID = "HK";
+      if ($1 ~ /^HR/) ID = "HR";
       if ($1 ~ /^I[0-9,K-N,T-Z]/) ID = "I";
       if ($1 ~ /^IS0/) ID = "IS0";
       if ($1 ~ /^J[A-S]/) ID = "JA";
       if ($1 ~ /^JT/) ID = "JT";
       if ($1 ~ /^KP2/) ID = "KP2";
+      if ($1 ~ /^[KNW]P4/) ID = "PR";
       if ($1 ~ /^L[A-N]/) ID = "LA";
       if ($1 ~ /^L[O-W]/) ID = "LU";
       if ($1 ~ /^LX/) ID = "LX";
@@ -82,16 +85,19 @@ BEGIN {
       if ($1 ~ /^T[ABC]/) ID = "TA";
       if ($1 ~ /^TF/) ID = "TF";
       if ($1 ~ /^TG/) ID = "TG";
+      if ($1 ~ /^TI/) ID = "TI";
+      if ($1 ~ /^TY/) ID = "TY";
       if ($1 ~ /^UN/) ID = "UN";
       if ($1 ~ /^U[R-Z]/) ID = "UR";
       if ($1 ~ /^V3/) ID = "V3";
+      if ($1 ~ /^V[EOY]/) ID = "VE";
       if ($1 ~ /^VK/) ID = "VK";
       if ($1 ~ /^VP2M/) ID = "VP2M";
       if ($1 ~ /^VU/) ID = "VU";
       if ($1 ~ /^XE/) ID = "XE";
       if ($1 ~ /^YL/) ID = "YL";
       if ($1 ~ /^YO/) ID = "YO";
-      if ($1 ~ /^YT/) ID = "YT";
+      if ($1 ~ /^Y[TQ]/) ID = "YT";
       if ($1 ~ /^ZB/) ID = "ZB";
       if ($1 ~ /^Z3/) ID = "Z3";
       if ($1 ~ /^ZD7/) ID = "ZD7";
@@ -101,8 +107,12 @@ BEGIN {
       if ($1 ~ /^ZP/) ID = "ZP";
       if ($1 ~ /^Z[R-S]/) ID = "ZS";
     }
-    if (ID == "" && $2 == "")
+#    if ($3 != ID)
+#      printf("Replaced %s with %s for %s\n", $3, ID, $1) > "/dev/stderr";
+    if (ID !~ /^[1-9][0-9]{1,3}$|^[A-Z0-9]+$/ || $2 !~ /^[A-Za-z]{2,}$/) {
+      printf("%s ID=\"%s\"\n", $1, ID) > "/dev/stderr";
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    }
     else {
       printf("%s=%s;%s\n", $1, $2, ID);
       max = (int($3) > max) ? int($3) : max;
