@@ -10,7 +10,7 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 != "") {
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^(BA|BE|BN|BO|BP|CS|FE|GY|HB|HE|SZ|KO|NG|PE|SO|SA|TO|VA|VE|ZA)$/) {
     printf("%s=%s\n", $1, $2);
   }
   else if ($0 !~ /^(!|#|$)/)
