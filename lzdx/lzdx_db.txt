@@ -1,6 +1,7 @@
 # LZDX database
-# Based on data from VE2FK and R9IR
-# File updated 2021-11-17
+# Based on data collected and maintained by VE2FK and R9IR
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2022-10-26
 LZ0M=VN
 LZ1195IR=PD
 LZ1A=SF
