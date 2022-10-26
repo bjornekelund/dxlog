@@ -10,12 +10,12 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[A-Z0-9]{3,7}$/ && $3 ~ /^[A-Z]+$/) {
-    printf("%s=%s;%s\n", $1, $2, $3);
+  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^(MI|FN|GR|IN|MA|MF|CA|PN|RN|YO)([0-9]{1,4})?$/) {
+    printf("%s=%s\n", $1, $2);
   }
   else
     if ($0 !~ /^(!|#|$)/) {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Problem: \"%s\"\n", $0) > "/dev/stderr"
   }
 }
 END {

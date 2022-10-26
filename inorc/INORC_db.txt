@@ -1,3 +1,0 @@
-# Database for INORC Contest
-# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# Updated 2021-12-13
