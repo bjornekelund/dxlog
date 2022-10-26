@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-10-18
+# 1-Last Edit,2022-10-25
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -566,6 +566,7 @@ AE5SG,PHILIP,TX,
 AE5T,RYAN,TX,
 AE5X,JOHN,TX,
 AE5X/2,JOHN,NJ,
+AE6I,JERRY,CWA,San Jose CA
 AE6JV,BILL,NH,
 AE6RF,DONALD,CA,
 AE6VM,JOHN,CA,La Palma CA
@@ -695,6 +696,7 @@ AI4FH,WES,VA,Gloucester VA
 AI4FR,JOHN,FL,
 AI4GR,MIKE,NC,
 AI4IE,,FL,
+AI4J,GARY,NC,Greenville NC
 AI4JW,,VA,
 AI4MI,CHRIS,VA,
 AI4MT,,SC,
@@ -725,6 +727,7 @@ AI6YL/7,SUE,NV,
 AI6Z,,CA,
 AI7AA,ERIC,WA,
 AI7C,WAYNE,OR,Coos Bay OR
+AI7DK,RON,MT
 AI8AI,AI,OH,Cleveland OH
 AI8V,VERN,OH,New Philadelphia OH
 AI8Z,,CO,
@@ -830,11 +833,11 @@ DF7CP,STEFAN,DX,Eldena Germany
 DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
 DH1NTT,Terry,DX,Aschaffenburg Germany
-DH4NWG,MARTIN,DXL,Hersbruck Germany
-DJ0YI,BEN,DXL,Boeblingen Germany
+DH4NWG,MARTIN,DX,Hersbruck Germany
+DJ0YI,BEN,DX,Boeblingen Germany
 DJ1TF,THOMAS,DX,Bad Schonborn Germany
-DJ1YFK,FABIAN,DXL,Munich Germany
-DJ2MX,MARCUS,DL,Muenchen Germany
+DJ1YFK,FABIAN,DX,Munich Germany
+DJ2MX,MARCUS,DX,Muenchen Germany
 DJ3IW,GOETZ,DX,Burglengenfeld Germany
 DJ5AZ,FRED,DX,
 DJ5CW,FABIAN,DX,Munich Germany
@@ -854,6 +857,7 @@ DL3MIM,MIMMO,DX,Schefflenz Germany
 DL3NAA,PETER,DX,Kehl Germany
 DL3SAS,HARTMUT,DX,Stuttgart Germany
 DL3TU,ROMAN,DX,Tuebingen Germany
+DL4CF,JOE,DX,Nebra (Unstrut) Germany
 DL4HCF,BERT,DX,Buchholz Germany
 DL4KG,GERALD,DX,Stuttart Germany
 DL4NAX,FRED,DX,Bindlach Germany
@@ -898,12 +902,14 @@ EI2HIB,MARTIN,DX,Waterford Irland
 EI2KW,DICK,DX,Kildare Ireland
 EI3HA,TONY,DX,Strandhill Sligo Ireland
 EI4JZ,BRONEK,DX,Roscommon Ireland
+EI4KO,COLM,IE,Dublin Ireland
 EI9JF,NICKY,DX,Kildare Ireland
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
 F4ABV,DENIS,DX,?
 F4HGA,GUS,DX,?
 F4HGD,STEF,DX,Dunkerque France
 F4HVO,HUGO,DX,Toulouse France
+F4IGG,ERIC,DX,Guerard France
 F4ISS,ALEX,DX,Paris France
 F4VSR,GIL,DX,Vingrau France
 F5AGB,BRUNO,DX,St Crespin sur Moine France
@@ -916,7 +922,7 @@ F5LLE,JLOUIS,DX,Narbonne=Place France
 F5OKB,PIERRE,DX,Lançon Provence France
 F5PLC,MIKE,DX,
 F5RMN,YVON,DX,?
-F5ROL,MANU,FX,?
+F5ROL,MANU,DX,?
 F5SGI,JEAN,DX,Vannes France
 F5SGP,JEAN,DX,Tantonville France
 F5TFW,GEORGE,DX,Reipertswiller France
@@ -926,7 +932,7 @@ F6GWB,Gerard,DX,Elancourt France
 F6KRK,JAC,DX,RC Bretonneux France
 F8DPM,MICHEL,DX,LLupia France
 FG8NY,JEAN,DX,St Claude Guadeloupe
-G0EKH,Ken,G0,Devon England
+G0EKH,Ken,DX,Devon England
 G0GZN,LINDY,DX,Poole England
 G0HKC,Keith,DX,Bristol
 G0JJI,PETE,DX,Poole Dorset England
@@ -948,7 +954,7 @@ G4FKI,DAVE,DX,Bedford England
 G4IWO,NICK,DX,Littleborough England
 G4UDG,KRIS,DX,Staffordshire England
 G4VME,RICHARD,DX,Cambridge England
-G4WSQ,JOHN,G,BH23 Area England
+G4WSQ,JOHN,DX,BH23 Area England
 G5C,MALCOLM,DX,
 G6GLP,TONY,DX,Devon England
 G8RWG,NIELS,DX,Coulsdon England
@@ -959,10 +965,10 @@ GM4ATA,JOHN,DX,Kilmarnock Scotland
 GM4TEF,ALLAN,DX,Aberdeenshire Scotland
 GM5TDX,TED,DX,Wishaw Scotland
 GW0ETF,STEW,DX,Bangor Wales
-GW4J,STEW,GW,Bangor Wales
-GW4ZAR,DAVE,GW,Flintshire Wales
+GW4J,STEW,DX,Bangor Wales
+GW4ZAR,DAVE,DX,Flintshire Wales
 GW4ZCM,KEN,DX,Nelson Caerphilly Wales
-GW7APP,Ian,GW,Anlesey Wales
+GW7APP,Ian,DX,Anlesey Wales
 HA8RJ,ATI,DX,Soltvadkert Hungary
 HA8WZ,GYURI,DX,Bekescsaba Hungary
 HB0/DL5YL,TINA,DX,DXP
@@ -3480,6 +3486,7 @@ KA6BIM,DAVE,OR,
 KA6CPM,NICK,NV,Tonopah NV
 KA6GMA,,CA,
 KA6GSC,STEVE,CA,
+KA6J,JIM,TX,
 KA6JLT,ROB,NV,Reno NV
 KA6T,BILL,OR,
 KA6U,PETER,CA,
@@ -3653,6 +3660,7 @@ KB4BTH,STAN,NC,
 KB4CG,JACK,VA,
 KB4CL,,SC,
 KB4DE,BILL,SC,
+KB4DSF,WAYNE,GA,Brunswick GA
 KB4ET,,FL,
 KB4FB,,FL,
 KB4FQ,,NC,
@@ -3713,6 +3721,7 @@ KB6HK,,CA,
 KB6IGC,,CA,
 KB6MW,PHIL,OR,
 KB6NU,DAN,MI,
+KB6Q,JASON,CA,Lincoin CA
 KB6TAL,,AZ,
 KB6VME,Steve,CA,San Marcos CA
 KB7AK,BEN,WA,
@@ -4499,6 +4508,7 @@ KF0BIW,NICK,MN,New ULOM MN
 KF0CCU,MIKE,MN,Rochester MN
 KF0CK,,MO,
 KF0DS,,AZ,
+KF0EIN,NOAH,IA,Marengo IA
 KF0ELS,KEVIN,KS,Overland Park KS
 KF0FE,,IA,
 KF0FFA,Dean,KS,Lawrence KS
@@ -5529,7 +5539,7 @@ KX7L,,WA,
 KX7M,DENNY,CA,
 KX7V,,AZ,
 KX8X,ROGER,CA,
-KX9DX,RICK,IL,
+KX9DX,RICK,IN,
 KX9RT,SCOTT,WI,Waupaca WI
 KX9X,SEAN,CT,
 KX9X/1,SEAN,VT,
@@ -5607,6 +5617,7 @@ M5ABN,PETE,DX,Devon England
 M6MPC,Mike,DX,Brede England
 M7TSM,ALAN,DX,Claverham England
 MI0WWB,WILL,DX,Northern Irland
+MM0CIN,RICH,DX
 MM0IVR,RONAN,DX,Mussenburg Scotland
 MM9I,JOHN,DX,East Kilbride Scotland
 N0AB,,KS,
@@ -6132,6 +6143,7 @@ N3CW,ED,VA,
 N3DB,,MD,
 N3DB/3,,DE,
 N3DG,,PA,
+N3DI,DIVI,LA,Slidell LA
 N3DL,,PA,
 N3DP,SUSAN,MD,
 N3DPB,SUSAN,MD,
@@ -7068,6 +7080,7 @@ N7IR,GARY,AZ,
 N7KDT,TODD,AL,
 N7KFL,,CA,
 N7KM,KEN,UT,
+N7KQC,TONY,OR,Eugene OR
 N7KRN,FRED,WA,
 N7KU,,AZ,
 N7KY,TIM,TN,
@@ -7873,6 +7886,8 @@ NI8L,,OH,
 NI8N,JACK,OH,
 NI8O,,OH,
 NI8W,,OH,
+NI8W,STEVE,OH,
+NI8W,STEVE,OH,Upper Arlington OH
 NI8Z,GARY,OH,
 NI9C,,WI,
 NJ0C,,CO,
@@ -8872,6 +8887,7 @@ VE3XKZ,CHRIS,ON,
 VE3XN,GARRY,ON,
 VE3XO,DOC,ON,
 VE3XT,BILL,ON,
+VE3XXJ,JOHN,ON,East York ON
 VE3YF,MIKE,ON,
 VE3YOTA,MARIA,ON,(VE3OMV) Youngster on the air
 VE3YT,VIC,ON,
@@ -9250,6 +9266,7 @@ W0NB,JIM,OH,Chagrin Falls OH
 W0NF,PAM,AZ,
 W0NP,DAVE,CO,Colorado Springs CO
 W0NV,Niles,IA,Sioux City IA
+W0NY,NICK,MN,Brainerd MN
 W0ODS,JEFF,IA,
 W0OGH,LARRY,AZ,Cochise AZ
 W0OJ,PHIL,CO,Crestone CO
@@ -9424,6 +9441,7 @@ W1DTX,STEVE,ME,Hancock ME
 W1DX,DAN,CT,
 W1DY,,OK,
 W1DYJ,LARRY,MA,
+W1E,BILL,SD,
 W1EAT,TOM,VT,Atlanta GA
 W1EBI,GEO,MA,
 W1EBM,GARY,NH,
@@ -9854,6 +9872,7 @@ W2WC/P,DICK,NY,
 W2WCM,BILL,VA,
 W2WD,,NJ,
 W2WG,BOB,GA,
+W2WJ,ALAN,OH,Struthers OH
 W2WJO,,NJ,
 W2WO,,NY,
 W2XB,DON,NY,
@@ -10975,6 +10994,7 @@ W6RDF,JOE,CA,
 W6RF,ROB,NV,Henderson NV
 W6RFF,,CA,
 W6RGG,BOB,CA,
+W6RIF,REED,VA,Virginia VA
 W6RJ,,CA,
 W6RJQ,,SB,
 W6RK,RISTO,CA,
@@ -11510,6 +11530,7 @@ W8VE,,OH,
 W8VHF,,MI,
 W8VNZ,MARK,MI,Montrose MI
 W8VS,,MI,
+W8VX,JOSH,OH,Beachwood OH
 W8WA,,MI,
 W8WD,,MI,
 W8WEJ,JOHN,WV,
@@ -12050,6 +12071,7 @@ WA4ATJ,,NJ,
 WA4AUL,KEN,KY,
 WA4BKW,,VA,
 WA4BPJ,MIKE,NC,Raleigh NC
+WA4CVL,SAM,SC,
 WA4DT,DIRK,SC,
 WA4DYD,STAN,GA,
 WA4FJK,STEVE,NC,Wake Forest NC
@@ -12273,7 +12295,6 @@ WA9BTT,,IL,
 WA9BVS,,IN,
 WA9BXB,RICH,IL,
 WA9CTH,NEAL,IL,Lincolnwood IL
-WA9CTH,Neal,IL,Lincolnwood IL
 WA9ENA,,IA,
 WA9ENA,DALE,IA,Monticello IA
 WA9ERI,,WI,
@@ -12281,6 +12302,7 @@ WA9FBC,DEN,IL,
 WA9FET,ROYSE,IL,Oak Park IL
 WA9FZP,PHIL,WI,Racine WI
 WA9GQT,ROD,IL,Collinsville IL
+WA9HFK,MARK,IL,Urbana IL
 WA9IVH,MARK,IL,
 WA9IWW,STEVE,IL,
 WA9JML,,IL,

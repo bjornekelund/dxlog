@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-20
+# Last Edit,2022-10-25
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -117,7 +117,7 @@ AA5BG,Richard,454,Mc Kinney TX
 AA5CF,Ken,2680,San Antonio TX
 AA5JF,Andy,2751,Augusta GA
 AA5KD,Duane,OK,Oklahoma OK
-AA5ND,John,CWA,Mission CA
+AA5ND,John,3248,Mission CA
 AA5OY,Bob,LA,Metairie LA
 AA5QY,Floyd,AR,Gentry AR
 AA5SR,Dave,TX,League City TX
@@ -353,7 +353,7 @@ AH6RE,Curt,830,Keaau HI
 AH6V,Jeremy,HI,Ninole HI
 AH6VV,Carl,2300,Honolulu HI
 AH7I/W4,Bob,GA,
-AH7RF,Heather,HI,Honolulu HI
+AH7RF,Heatherm,HI,Honolulu HI
 AI0Y,Joe,ND,Nekoma ND
 AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
@@ -1337,7 +1337,7 @@ K1LGM,Joe,CT,Milford CT
 K1LGQ,Dennis,NH,Brookline NH
 K1LHO,Mike,2494,Meridien CT
 K1LKP,Carmen,724,Salem NH
-K1LT,Vic,Carroll OH
+K1LT,Vic,OH,Carroll OH
 K1LZ,Krassy,ME,Remote ME
 K1MAZ,Nick,MA,Monson MA
 K1MD,Michael,RI,Warwick RI  (Possibly QRP) 
@@ -2500,7 +2500,7 @@ KF9SW,Victor,IN,Martinsville IN
 KF9VV,Jim,2452,Middleton WI
 KG0EW,Dave,2369,Louisville CO
 KG1V,Geo,NH,Merrimack NH
-KG2GW,Greg NJ,Mariton NJ
+KG2GW,Greg,NJ,Mariton NJ
 KG3V,Tom,1034,White Stone VA
 KG4CRJ,Brian,2378,Stoneville NC
 KG4IKQ,Jim,1458,Marion NC
@@ -4734,7 +4734,7 @@ VU2PAI,PAI,,MANGALORE India
 VU2PTT,Prasad,615,BAngalore India
 VY1EI,Eric,YT,Whitehorse YT Canada
 VY2SS,Rob,PE,O'LEARY PE
-VY2XU,Ala,.PE,Montagne PE
+VY2XU,Ala,PE,Montagne PE
 W0A,Mike,IA,(N5KB)  Sioux Rapieds IA
 W0AAE,Bob,2947,Maple MN
 W0AD,Paul,1977,Elden Prairie MN
@@ -4856,7 +4856,7 @@ W1SFR,Steve,VT,Sudbury VT
 W1STV,Savi,NH,Grantham NH
 W1TO,Tom,2042,Cheshire MA
 W1UE,Dennis,MA,Marlborough MA
-W1UE/VE3,Dennis, ,ON
+W1UE/VE3,Dennis,ON
 W1UJ,Jay,426,Webster MA
 W1UU,Peter,91,Falmouth MA (CWops Vice Pres.) (QRP/43'Vert.)
 W1UU/1,Peter,91,Trapp Family Lodge in Stowe Vermont
@@ -5219,6 +5219,7 @@ W6CWO,,CA,Pacific CWops Club (Los Altos CA)
 W6CYX,Bob,47,San Jose CA
 W6DER,Derek,3186,Sacramento CA
 W6DR,Dave,CA,Los Gatos CA
+W6EO,Lorin,CA,Berkely CA
 W6EU,Jim,317,Truckee CA
 W6GJB,Glen,CA,Santa Cruz CA
 W6GMT,Brock,2211,Marcell MN
@@ -5285,7 +5286,6 @@ W7CXX,Jack,2454,Collins Aerospace ARC Wash. UT
 W7DZD,Darrel,WA,Bothell WA
 W7EE,Gary,1949,Bigfork MT
 W7EEE,Tim,1905,Seattle WA
-W6EO, Lorin,CA,Berkely CA
 W7FB,Dave,301,Lees Summit MO
 W7GB,Don,1186,Moses Lake WA
 W7GET,Garret,MT,Plains MT
