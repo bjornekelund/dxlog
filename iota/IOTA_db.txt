@@ -1,7 +1,7 @@
 # IOTA Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-10-26
+# Last updated 2022-10-30
 2U0GSY=EU114
 2U0SQL=EU114
 3D2DOM=OC156
@@ -296,7 +296,6 @@ EJ7EE=EU121
 EJ8KO=EU121
 ES0GP=EU178
 ES0IA=EU034
-ES0IA=WU034
 ES0QD=EU034
 ES0V=EU034
 ES0W=EU178
