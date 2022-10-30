@@ -16,10 +16,10 @@ BEGIN {
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($2 ~ /Exch1|State/) col = 1;
-    if ($3 ~ /Exch1|State/) col = 2;
-    if ($4 ~ /Exch1|State/) col = 3;
-    if ($5 ~ /Exch1|State/) col = 4;
+    if ($2 ~ /Exch1/) col = 1;
+    if ($3 ~ /Exch1/) col = 2;
+    if ($4 ~ /Exch1/) col = 3;
+    if ($5 ~ /Exch1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT|ADA|ALF|ATO|BEA|BEC|BLA|BRY|CAD|CAN|CAR|CHE|CHO|CIM|CLE|COA|COM|COT|CRA|CRE|CUS|DEL|DEW|ELL|GAR|GNT|GRA|GRE|GRV|HAR|HAS|HRP|HUG|JAC|JEF|JOH|KAY|KIN|KIO|LAT|LEF|LIN|LOG|LOV|MAJ|MAR|MAY|MCI|MCL|MCU|MUR|MUS|NOB|NOW|OKF|OKL|OKM|OSA|OTT|PAW|PAY|PIT|PON|POT|PUS|RGM|ROG|SEM|SEQ|STE|TEX|TIL|TUL|WAG|WAS|WAT|WDW|WOO)$/)

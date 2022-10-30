@@ -19,10 +19,11 @@ BEGIN {
 }' $OLDFILE > $OLDTEMP
 
 echo Parsing $FILE...
+
 cat $OLDTEMP $FILE | gawk '
 BEGIN {
   FS=","
-  printf("#0 LZDX database\n");
+  printf("#0 LZ DX Contest database\n");
   printf("#1 Based on data collected and maintained by VE2FK and R9IR\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
@@ -41,8 +42,10 @@ END {
   for (cl in call)
     printf("%s=%s\n", cl, ex[cl]);
 }' | sort | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 rm -rf $OLDTEMP
 
 exit
