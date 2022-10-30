@@ -1,11 +1,16 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-10-25
+# 1-Last Edit,2022-10-29
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
+
+ND6P,JIM,CA,
+K2OI,MIKE,NY,
+G3ZRJ,TOM,DX,
+
 2I0WLZ,ANDREW,DX,Portadown Northern Ireland
 4X4FC,ALEX,DX,Netanya Israel
 5P5Q,VERNER,DX,Allinge Denmark
@@ -674,7 +679,7 @@ AH6KO,STAN,HI,
 AH6NM,DICK,HI,Honolulu HI
 AH6RE,CURT,HI,
 AI0L,,CO,
-AI0Y,JOE,MN,
+AI0Y,JOE,MD,
 AI0Y/9,JOE,IL,
 AI1K,JOHN,AZ,
 AI1V,JON,CT,
@@ -2419,7 +2424,7 @@ K5UTG,WARREN,OK,
 K5UU,Jamie,TX,
 K5UV,MIKE,OK,
 K5UZ,DAVID,AR,
-K5VBA,STAN,MI,
+K5VBA,STAN,AL,
 K5VG,,NC,
 K5VH,,TX,
 K5VI,ANDY,TX,
@@ -8578,7 +8583,7 @@ VE2EZD,LOUIS,QC,
 VE2FBD,FABI,QC,
 VE2FD,STEVE,QC,
 VE2FET,SYLVAIN,QC,
-VE2FK,DUB,QC,Eastern QC
+VE2FK,DUB,QC,Eastern QC FN68
 VE2FK/P,DUB,QC,
 VE2FU,PHIL,QC,
 VE2FWW,NOEL,QC,
@@ -12895,7 +12900,7 @@ WG1Z,,MA,
 WG2C,JAY,NY,Brewster NY
 WG3C,GEORGE,MD,
 WG3I/M,ISAAC,MD,Bel Air MD
-WG3J,ERIC,MD,
+WG3J,ERIC,DE,
 WG4H,MARIUS,GA,?
 WG4MC,MATT,SC,
 WG4V,MARIUS,GA,Suwanee GA

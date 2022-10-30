@@ -9,14 +9,14 @@ gawk '
 BEGIN {
   FS=","
   max = 0;
-  col = 3;
+  col = 1;
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($2 ~ /^Sect$/) col = 1;
-    if ($3 ~ /^Sect$/) col = 2;
-    if ($4 ~ /^Sect$/) col = 3;
-    if ($5 ~ /^Sect$/) col = 4;
+    if ($2 ~ /Sect/) col = 1;
+    if ($3 ~ /Sect/) col = 2;
+    if ($4 ~ /Sect/) col = 3;
+    if ($5 ~ /Sect/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     if ($col ~/^(90|[0-8][0-9])[A-R]{2}$/)
