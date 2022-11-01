@@ -11,7 +11,7 @@ BEGIN {
 }
 {
   cnty = toupper($1)
-  if (cnty ~ /^[A-Z]{3}$/)
+  if (cnty ~ /^[A-Z]{3,4}$/)
     printf("%s\n", cnty);
   else
     printf("Skipped: %s\n", $0) > "/dev/stderr";
