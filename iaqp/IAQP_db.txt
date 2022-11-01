@@ -1,8 +1,7 @@
-# Indiana QSO Party database
-# Based on NAQP database maintained by Claude VE2FK
+# Iowa QSO Party database
+# Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2022-11-01
-4U1WB=DC
 AA0AC=MN
 AA0AO=MN
 AA0AW=MN
@@ -241,6 +240,7 @@ AA9F=IL
 AA9FW=WI
 AA9GC=MO
 AA9GG=IL
+AA9H=IN
 AA9HB=IN
 AA9IL=IL
 AA9IV=IL
@@ -5070,6 +5070,7 @@ KD9SDX=IL
 KD9SG=IL
 KD9ST=IL
 KD9UDV=IN
+KDOGVB=CLN
 KE0A=ND
 KE0BZ=NE
 KE0CZQ=MO
@@ -6668,6 +6669,7 @@ N0HF=CO
 N0HJZ=MN
 N0HKJ=CO
 N0HKT=KS
+N0HR=WEB
 N0HU=KS
 N0HYD=KS
 N0HZ=MN
@@ -7706,7 +7708,6 @@ N4XR=CT
 N4XU=PA
 N4XXO=FL
 N4XYZ=VA
-N4YA=GA
 N4YDU=NC
 N4YLC=CA
 N4YM=NC
@@ -10500,7 +10501,6 @@ W0YHE=AZ
 W0YJT=KS
 W0YK=CA
 W0YR/4=VA
-W0YR=VA
 W0YRN=KS
 W0YW=NE
 W0YZZ=MO

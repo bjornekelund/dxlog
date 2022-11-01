@@ -36,7 +36,7 @@ BEGIN {
     ex[$1] = $3;
   }
   else if ($0 !~ /^(!|#|$)/ && $3 != "")
-    printf("Skipped: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
   for (cl in call)

@@ -24,10 +24,12 @@ BEGIN {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z]{2,4}$/)
       printf("%s=%s\n", $1, $col);
     else if ($0 !~ /^(!|#|$)/ && $col != "")
-      printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit
