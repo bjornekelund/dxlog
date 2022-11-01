@@ -18,7 +18,7 @@ BEGIN {
     printf("%s=%s\n", $1, exch);
   }
   else if ($0 !~ /^(!|#|$)/ && $3 != "")
-    printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
   printf("#0 CQ 160M database - States and provinces\n");

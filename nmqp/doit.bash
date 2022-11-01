@@ -28,7 +28,7 @@ BEGIN {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && exch ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT|BER|CAT|CHA|CIB|COL|CUR|DEB|DON|EDD|GRA|GUA|HAR|HID|LEA|LIN|LOS|LUN|MCK|MOR|OTE|QUA|RIO|ROO|SJU|SMI|SAN|SFE|SIE|SOC|TAO|TOR|UNI|VAL)$/)
       printf("%s=%s\n", $1, exch);
     else if ($0 !~ /^(!|#|$)/)
-      printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   } 
 }
 END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE

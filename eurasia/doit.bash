@@ -14,7 +14,7 @@ BEGIN {
     printf("%s=%s\n", $1, toupper($3));
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
   printf("#0 EURASIA Championship database - 6-position grid locator\n");

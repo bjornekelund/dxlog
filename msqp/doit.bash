@@ -20,7 +20,7 @@ BEGIN {
     printf("%s=%s\n", toupper($1), toupper($3));
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
 }' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE

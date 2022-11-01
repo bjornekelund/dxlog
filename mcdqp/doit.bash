@@ -15,7 +15,7 @@ BEGIN {
     printf("%s=%s\n", $1, number);
   }
   else if ($0 !~/^(!|#|$)/)
-    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {
   printf("#0 MARCONI CLUB ARI LOANO members database\n");

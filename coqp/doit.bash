@@ -24,7 +24,7 @@ BEGIN {
     printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Invalid exchange: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
   printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";

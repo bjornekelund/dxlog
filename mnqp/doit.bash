@@ -30,9 +30,9 @@ BEGIN {
       state[$1] = $3;
     }
   }
-  else if ($0 !~ /^(!|#|$)/) 
+  else if ($0 !~ /^(!|#|$)/)
   {
-    printf("Ignore: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
 }
 END {

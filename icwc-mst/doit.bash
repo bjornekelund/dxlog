@@ -33,7 +33,7 @@ BEGIN {
       name[$1] = nm;
     }
     else if ($0 !~ /^(!|#|$)/ && nm != "")
-      printf("Problem data: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

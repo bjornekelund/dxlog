@@ -14,7 +14,7 @@ BEGIN {
     printf("%s=%s\n", $1, $3);
   }
   else if ($0 !~ /^(!|#|$)/)
-    printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
   printf("#0 ARRL 10m database - ARRL/RAC/XE sections\n");

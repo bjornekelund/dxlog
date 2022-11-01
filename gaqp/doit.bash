@@ -28,7 +28,7 @@ BEGIN {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   } 
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+END {}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

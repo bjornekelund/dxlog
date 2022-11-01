@@ -24,7 +24,7 @@ BEGIN {
 		calls[call] = call;
 	  }
       else {
-        printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
+        printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 	  }
 	  
   }
