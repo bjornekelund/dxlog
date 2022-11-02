@@ -15,7 +15,7 @@ BEGIN {
   maxlen = 0;
 }
 {
-  callok = $1 ~ /^[0-9,A-Z,\/]+$/;
+  callok = $1 ~ /^[0-9A-Z,\/]+$/;
   nameok = $2 ~ /^[A-Za-z]{2,10}$/;
   hyphenated = $2 ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;
   firstok = $3 ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;
@@ -41,9 +41,9 @@ BEGIN {
       maxlen = length($2);
       maxname = $2;
     }
-    if (!nameok)
+    if (!nameok) {
         printf("Name ignored: \"%s\"\n", $0) > "/dev/stderr";
-
+    }
   }
   else if ($0 !~ /^(!|#|$)/)
     if (nameok)
