@@ -29,7 +29,7 @@ BEGIN {
       if ($1 ~ /^9M6/) ID = "9M6";
       if ($1 ~ /^(7[X-Z]|HZ)/) ID = "HZ";
       if ($1 ~ /^9H/) ID = "9H";
-      if ($1 ~ /^B[A-Z]/) ID = "BY";
+      if ($1 ~ /^B[AY]/) ID = "BY";
       if ($1 ~ /^(CE|X[QR])/) ID = "CE";
       if ($1 ~ /^C6/) ID = "C6";
       if ($1 ~ /^CO/) ID = "CO";
@@ -118,12 +118,13 @@ BEGIN {
     if (toupper($3) != ID && $3 != "")
       printf("Exchange is \"%s\" when it should be \"%s\" for %s\n", $3, ID, $1) > "/dev/stderr";
 
-    idvalid = ID ~ /^[1-9][0-9]{1,3}$|^[A-Z0-9]{1,3}$/;
+    idvalid = ID ~ /^[1-9][0-9]{0,3}$|^[A-Z]{2}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]$/;
     problemid = !idvalid && !(ID == "" && $1 ~ /^(N|K|W)/)
     namevalid = $2 ~ /^[A-Za-z]{2,}$/;
     textvalid = $4 !~ /^ *$/;
 
     if ((!namevalid && !idvalid) || problemid) {
+#      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {
@@ -137,7 +138,7 @@ BEGIN {
     }
   }
   else if ($0 !~ /^(#|!|$)/ && !($2 == "" && $3 == "")){
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

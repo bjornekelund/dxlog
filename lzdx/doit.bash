@@ -15,7 +15,7 @@ BEGIN {
   if ($1 ~ /^[0-9,A-Z]/)
     printf("%s,,%s\n", toupper($1), toupper($2));
   else if ($0 !~ /^(!|#|$)/ && $2 != "")
-    printf("Skipped: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
 }' $OLDFILE > $OLDTEMP
 
 echo Parsing $FILE...
