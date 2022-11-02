@@ -1,7 +1,7 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3273
+# Contains members up to #3776
 # Last updated 2022-11-02
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
@@ -683,6 +683,7 @@ EA5KO=Andy;2545
 EA5M=Dani;2979
 EA6/EA3M=Roger;EA
 EA6BF=Josep;3072
+EA6EJ=INI;3776
 EA6TS=Pedro;EA
 EA7AM=Pedro;EA
 EA7EGU=Manuel;2505
@@ -1911,6 +1912,7 @@ K7BV=Dennis;NC
 K7CNT=Rick;2565
 K7CO=Jon;UT
 K7DRQ=Quentin;3210
+K7EFW=Ed;3274
 K7EK=Gary;997
 K7ENA=Ed;OR
 K7ENH=Jerry;2960
@@ -1941,7 +1943,7 @@ K7MOA=Key;1594
 K7MOT=Key;CA
 K7NJ=Riki;275
 K7NM=Lee;801
-K7NT=Mike;WA
+K7NT=Mike;3275
 K7NXL=Dan;3255
 K7ON=Brian;AZ
 K7PAX=Paula;WA
@@ -2324,6 +2326,7 @@ KC9K=Dave;1875
 KC9LIF=Kent;IL
 KC9MJA=Dan;2929
 KC9MRA=Claudia;WI
+KC9MZ=Randy;CWA
 KC9QQ=Fred;IN
 KC9RXI=Tom;WI
 KC9SS=Pete;WI
@@ -3002,6 +3005,7 @@ N1AOK=Charlie;3050
 N1BG=Fred;1030
 N1CC=Mike;2817
 N1CCK=Nick;2710
+N1CFO=Eric;VT
 N1CK=Nick;AZ
 N1DC/4=Rick;1257
 N1DC=Rick;1257
@@ -3989,7 +3993,7 @@ ON6QEP=Bruno;ON
 ON6SAS=Fil;2561
 ON6UQ=Cel;ON
 ON6WP=Pol;1009
-ON6XY=Jean Marie;ON
+ON6XY=JM;ON
 ON7PQ=Pat;2365
 ON7XN=Hans;ON
 OP4A=Francis;2429
@@ -4957,6 +4961,7 @@ W3MS=Craig;MD
 W3OKC=Steve;1808
 W3PD=John;PA
 W3PNM=Bill;1985
+W3PU=Adrian;NY
 W3QKA=John;PA
 W3RE=Matt;2625
 W3RGA=Pat;PA

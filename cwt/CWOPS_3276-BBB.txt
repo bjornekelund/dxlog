@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-01
+# Last Edit,2022-11-02
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -523,7 +523,7 @@ DK8WZ,Joerg,,Near Frankfurt Germany
 DK8ZB,Jo,,Muenster Germany
 DK9HE,Andy,2553,(Andreas)  Stelle Germany
 DK9IP,Win,,Karisruhe Germany
-DK9PY,Armin,2062,Waldalgesheim Germany  (Possibly QRP) 
+DK9PY,Armin,2062,Waldalgesheim Germany 
 DL/KK0U,Jim,DL,
 DL0AF,Fritz,,RC Erwitte Germany
 DL0DA,Hardy,DL,Dresden Germany (DL1VDL)
@@ -692,6 +692,7 @@ EA6BF,Josep,3072,Balearic Island
 EA6TS,Pedro,,Balearic Isl. Spain
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
+EA6EJ,INI,3776,Palma de Mallorca Spain
 EA7JW,David,1933,Cadiz Spain
 EA8/DH2MS,Manfred,,Sankt Augustin Germany
 EA8AY,Luis,,Santa Cruz Canary Island
@@ -1925,6 +1926,7 @@ K7BV,Dennis,NC,Turkey NC
 K7CNT,Rick,2565,Kingman AZ
 K7CO,Jon,UT,Kaysville UT
 K7DRQ,Quentin,3210,Tacoma WA
+K7EFW,Ed,3274,Hillsboro OR
 K7EK,Gary,997,Spanaway WA
 K7ENA,Ed,OR,Gresham OR
 K7ENH,Jerry,2960,Yuma AZ
@@ -1955,7 +1957,7 @@ K7MOA/4,Key,1594,Athens GA
 K7MOT,Key,CA,San Diego Motorola ARC
 K7NJ,Riki,275,Cedar City UT (Director)
 K7NM,Lee,801,West Point UT
-K7NT,Mike,WA,Olympia WA
+K7NT,Mike,3275,Olympia WA
 K7NXL,Dan,3255,West Richland WA
 K7ON,Brian,AZ,Stanfield AZ
 K7PAX,Paula,WA,Port Angeles WA
@@ -2338,7 +2340,7 @@ KC9K,Dave,1875,Knoxville IL
 KC9LIF,Kent,IL,Cary IL
 KC9MJA,Dan,2929,Weldon Spring >MO
 KC9MRA,Claudia,WI,Eau Claire WI
-KC9MZ,Randy,CCWA,Belleville IL
+KC9MZ,Randy,CWA,Belleville IL
 KC9QQ,Fred,IN,Martinsville IN
 KC9RXI,Tom,WI,West Salem WI
 KC9SS,Pete,WI,Greenfield WI
@@ -3023,6 +3025,7 @@ N1AOK,Charlie,3050,Fort Collins CO
 N1BG,Fred,1030,Gibsonville NC
 N1CC,Mike,2817,Scottsdale AZ
 N1CCK,Nick,2710,Manchester CT
+N1CFO,Eric,VT,Burlington VT
 N1CK,Nick,AZ,Payson AZ
 N1DC,Rick,1257,Braintree MA
 N1DC/4,Rick,1257,
@@ -3030,7 +3033,7 @@ N1DG,Don,2,Duxbury MA (CWops Educ. Committee + WEB)
 N1DN,Phil,CT,West Hartford CT
 N1EA,David,MA,Green Harbor MA
 N1EN,Mike,1247,Windsor CT
-N1FG,Larry,2012,ex:KJ1RE Deerfield NH
+N1FG,Larry,2012,Deerfield NH
 N1FJ,Andy,MA,Florence MA
 N1FN,Marsh,CO,(Marshall) Aurora CO
 N1FV,John,WV,Dellslow WV
@@ -4011,7 +4014,7 @@ ON6QEP,Bruno,,Reet Belgium
 ON6SAS,Fil,2561,Flanders Fields Belgium
 ON6UQ,Cel,,Rijkevorsel Belgium
 ON6WP,Pol,1009,Wuustwezel Belgium
-ON6XY,Jean Marie,,Mazy Belgium
+ON6XY,JM,,Mazy Belgium
 ON7PQ,Pat,2365,Kortryk Belgium
 ON7XN,Hans,,Brugge Belgium
 OP4A,Francis,2429,(ON6LY) Turnhout An Belgium
@@ -4980,7 +4983,7 @@ W3MS,Craig,MD,Salisbury MD
 W3OKC,Steve,1808,Dover PA
 W3PD,John,PA,Boalsburg PA
 W3PNM,Bill,1985,Willow Hill PA
-W3PU,NY,Adrian,Voyager DX Ass.(KO8SCA)
+W3PU,Adrian,NY,Voyager DX Association
 W3QKA,John,PA,ork PA
 W3RE,Matt,2625,East Petersburg PA
 W3RGA,Pat,PA,Sunbury PA
