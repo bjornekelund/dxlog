@@ -124,7 +124,7 @@ BEGIN {
     textvalid = $4 !~ /^ *$/;
 
     if ((!namevalid && !idvalid) || problemid) {
-      printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {
       printf("%s=%s;%s\n", $1, $2, ID);
@@ -136,8 +136,8 @@ BEGIN {
 #      printf("$3=%s, max=%d\n", $3, max) > "/dev/stderr";
     }
   }
-  else if ($0 !~ /^(#|!|$)/){
-      printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
+  else if ($0 !~ /^(#|!|$)/ && !($2 == "" && $3 == "")){
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

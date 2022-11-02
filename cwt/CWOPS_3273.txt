@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-10-28
+# Last Edit,2022-11-01
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -352,7 +352,7 @@ AH6RE,Curt,830,Keaau HI
 AH6V,Jeremy,HI,Ninole HI
 AH6VV,Carl,2300,Honolulu HI
 AH7I/W4,Bob,GA,
-AH7RF,Heather,HI,Honolulu HI
+AH7RF,Heather,3272,Honolulu HI
 AI0Y,Joe,3254,Nekoma ND
 AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
@@ -1008,7 +1008,7 @@ HA9RC,Zoli,2766,Tiszaluc Hungary
 HA9RP,Oszu,,Szent Gyorgy Hungary
 HA9RT,Joska,1213,Fonyod Hungary
 HB0/UX1HW/M,Art,1890,Mobile
-HB9AJP,Chris,CWA,Bariswil Switzerland
+HB9AJP,Chris,3269,Bariswil Switzerland
 HB9AJY,Fritz,2672,Utziben Switzerland
 HB9ARF,Phil,1354,St-Cergue Switzerland
 HB9AUK,Walt,2593,Wil/ZH Switzerland
@@ -1907,6 +1907,7 @@ K6WV,Jon,CA,Cupertino CA
 K6XT,Art,728,Ignacio CO
 K6XV,Bob,CA,Livermore CA
 K6XX,Bob,CA,Santa Cruz CA
+K6YDS,Bob,3259,Davis CA
 K6YF,Robert,CA,Atwater CA
 K6YXH,Norm,2304,Calabasas CA
 K6ZD,Dave,2157,San Jose CA
@@ -1968,7 +1969,7 @@ K7RI,Tom,WA,Seattle WA
 K7RL,Mitch,2285,Camano Island WA
 K7RR,Peter,1575,Silverdale WA
 K7SF,Steve,1137,West Linn OR
-K7SHR,Paul,WY,Sheridan WY
+K7SHR,Paul,3271,Sheridan WY
 K7SO,Doc,WA,Espanola NM
 K7SS,Dan,2053,Seattle WA
 K7SV,Lar,1004,Spotsylvania VA
@@ -2454,7 +2455,7 @@ KE8DI,Dave,MI,Kalamazoo MI
 KE8EAS,Josh,OH,Athens OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
-KE8HXE,Brad,OH,Columbus OH
+KE8HXE,Brad,3264,Columbus OH
 KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
@@ -2499,7 +2500,7 @@ KF9HE,Andy,IL,Tinley Park IL
 KF9SW,Victor,IN,Martinsville IN
 KF9VV,Jim,2452,Middleton WI
 KG0EW,Dave,2369,Louisville CO
-KG1V,Geo,NH,Merrimack NH
+KG1V,Geo,3262,Merrimack NH
 KG2GW,Greg,NJ,Mariton NJ
 KG3V,Tom,1034,White Stone VA
 KG4CRJ,Brian,2378,Stoneville NC
@@ -2646,7 +2647,7 @@ KK9DX,Cornel,256,Algonquin IL
 KK9G,Dan,IN,Mishawaka IN
 KK9H,Don,480,Northfield IL
 KK9N,Ken,MO,Maryland Heights MO
-KK9TT,Joe,CWA,Pensacola FL (Full Time RV)
+KK9TT,Joe,3261,Pensacola FL (Full Time RV)
 KK9U,SEAN,3114,Belleville IL
 KK9V,Mike,1647,Trafalgar IN
 KL/K3GHH,John,1212,Anchorage
@@ -2700,7 +2701,7 @@ KN5O,Ted,LA,Covington LA
 KN6IPE,Den,2928,Half Moon Bay CA
 KN6NUN,Zhuo,3117,San Jose CA
 KN6NVZ,Kevin,CA,Visalia CA
-KN6OMN,Don,CWA,Fremont CA
+KN6OMN,Don,3258,Fremont CA
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
 KN8CWO,,,Great Lakes CWops Club (Columbus OH)
@@ -2708,7 +2709,7 @@ KN8U,Bruce,2297,Atlanta GA
 KN9X,Don,IL,Yorkville IL
 KO0L,Joe,AR,Hot Springs Village AR
 KO1E,Dave,RI,Riverside RI
-KO1H,John,ME,Van Buren ME
+KO1H,John,3268,Van Buren ME
 KO1U,Mark,MA,Haverhill MA
 KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
@@ -3076,7 +3077,7 @@ N2DE,Ric,NY,Pleasant Valley NY
 N2EA,Jim,VT,Bristol VT
 N2ED,Ed,2264,Andover NJ
 N2EI,Skip,2060,(Tom) Beverly NJ
-N2EIM,Bob,NJ,Princeton NJ
+N2EIM,Bob,3267,Princeton NJ
 N2EY,Jim,2216,Wayne PA
 N2FME,Mik,2151,Eatontown NJ
 N2GA,George,344,Copiague NY
@@ -4084,6 +4085,7 @@ PA8MM,Victor,,Purmerend Netherlands
 PA9WOR,Bart,,Apeldoorn/Almelo Netherlands
 PC4H,Henk,,Hoofddorp Netherlands
 PD2DX,Johan,,Overijssel Netherlands
+PE1RCT,Andreas,3273,Herten Netherlands
 PE2K,Adi,2638,Apeldoorn Netherlands  (Possibly QRP) 
 PE5B,Ben,,Haren Netherlands
 PE5O,Onno,1852,Rotherdam Netherlands
@@ -4686,7 +4688,7 @@ VE9AA/M,Mike,1347,NB (From his Mini Cooper)
 VE9CD,Jerry,NB,Fredericton NB
 VE9DX,Andy,NB,Rohesay NB
 VE9IU,Mike,NB,Grand Manan Is. NB (NA014)
-VE9KK,Mike,NB,Moncton NB
+VE9KK,Mike,3265,Moncton NB
 VE9OA,Bill,NB,Harevey York NB
 VE9VIC,Vic,2482,(Rino) Kedgwick NB
 VE9WW,Bill,NB,Moncton NM
@@ -5664,7 +5666,7 @@ WB7DKZ,Andy,2052,Grayslake IL
 WB7DND,Steve,2169,Portland OR
 WB7FDQ,Mike,AZ,Prescott Valley AZ
 WB7GR,Greg,2833,Burns WY
-WB7S,Jerry,WY,Bassin WY
+WB7S,Jerry,3266,Bassin WY
 WB7TJI,John,UT,Fruit Heights UT
 WB7UOF,Walt,CWA,Willcox,AZ
 WB7USJ,Tom,OR,Medford OR
@@ -5715,7 +5717,7 @@ WD4LZC,Stu,KY,Louisville KY
 WD5BZN,Dave,TX,Bellaire TX
 WD5DBV,Roy,290,Cade LA
 WD5GRW,Jim,3245,Allen TX
-WD4HCK,Russ,CWA,Ardmore OK
+WD5HCK,Russ,3263,Ardmore OK
 WD5RS,Russ,TX,Milford TX
 WD6T,Dave,2079,Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
@@ -5841,7 +5843,7 @@ WU6P,Nian,2715,Sunnyvale CA
 WU6X,Dennis,1632,Auburn CA (Occ. RV)
 WU6X/4,Dennis,1632,(could be RV)
 WU7F,Mark,1351,Centerville UT
-WU7X,Dale,CWA,Spokane WA
+WU7X,Dale,3260,Spokane WA
 WU8R,Roman,OH,Wellston OH
 WV1D,Pat,2854,Weymouth MA
 WV4P,Ron,TN,Savannah TN
@@ -5947,7 +5949,7 @@ ZL2AGY,Tony,,Haweera South Taranaki
 ZL2AIM,Ian,1174,RD1 Hikuai
 ZL2GVA,Gerard,3028,Blenheim New Zealand
 ZL2KE,Steve,1281,70km NE of Wellington
-ZL3CW,Jacky,,(F2CCW) Tauranga New Zealand
+ZL3CW,Jacky,3270,(F2CCW) Tauranga New Zealand
 ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
 ZP6CW,Doug,,Caacupe Paraguy
 ZP9MCE,Manu,3103,Hohenau Paraguay
