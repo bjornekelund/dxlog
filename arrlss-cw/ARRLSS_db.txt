@@ -1,7 +1,7 @@
 # ARRL CW Sweepstakes database
 # Based on data collected and maintained by VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-11-02
+# Last updated 2022-11-04
 4U1WB=;DC;89
 AA0A=;MO;60
 AA0AA=;NE;86
@@ -897,7 +897,7 @@ AI6II=;CA;64
 AI6IN=;CA;65
 AI6MC=;CA;14
 AI6MQ=;CA;15
-AI6O=;MO;77
+AI6O=;MO;58
 AI6PG=;CA;98
 AI6US=;CA;17
 AI6V=;CA;73
@@ -1996,7 +1996,7 @@ K4DKE=;VA;11
 K4DMH=;FL;78
 K4DND=;VA;95
 K4DPF=;VA;63
-K4DR=;TN;77
+K4DR=;TN;70
 K4DSB=;FL;65
 K4DTR=;FL;60
 K4DV=;TN;92
@@ -9526,7 +9526,7 @@ VO2RAC=;NL;70
 VO2WL=;;70
 VY0/KD6W=;;73
 VY0JA=;;0
-VY1AAA=;NT;75
+VY1AAA=;NT;78
 VY1CO=;;82
 VY1CQ=;;2
 VY1EI=;;6
