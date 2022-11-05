@@ -1,7 +1,7 @@
 # ARRL CW Sweepstakes database
 # Based on data collected and maintained by VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-11-04
+# Last updated 2022-11-05
 4U1WB=;DC;89
 AA0A=;MO;60
 AA0AA=;NE;86
@@ -10665,7 +10665,7 @@ W5FIT=;TX;0
 W5FMH=;TX;71
 W5FOR=;TX;12
 W5GA=;OK;70
-W5GAD=;LA;62
+W5GAD=;LA;56
 W5GFI=;OK;63
 W5GN=;TX;55
 W5GZ=;NM;76
