@@ -20,7 +20,7 @@ BEGIN {
   else if ($0 !~ /^(!|#|$)/)
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
-END {}' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+END {}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

@@ -1,5 +1,0 @@
-Parsing ICWC-MST-033.txt
-!!Order!!,Call,Name,Misc,UserText, --> col=2
-"KU9S,JERRY," reappears as "KU9S,JERRY,IL,Machesney Park IL"
-"N4NR,Dennis,AL,Pelham AL" reappears as "N4NR,DENNIS,MS,Green Cove Springs FL"
-Created ICWCMST_db.txt

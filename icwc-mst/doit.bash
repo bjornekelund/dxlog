@@ -23,7 +23,7 @@ BEGIN {
       printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     nm = toupper($col)
-    if ($1 ~ /^[0-9,A-Z]/ && nm ~ /^[A-Z ]+$/) {
+    if ($1 ~ /^[0-9,A-Z]/ && nm ~ /^[A-Z]+$/) {
 #      if (name[$1] != "" && name[$1] != nm)
       if (name[$1] != "")
         printf("\"%s\" reappears as \"%s\"\n", line[$1], $0) > "/dev/stderr";

@@ -28,7 +28,7 @@ BEGIN {
 }
 END {
   printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
-}' $FILE | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

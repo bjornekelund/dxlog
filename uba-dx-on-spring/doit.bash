@@ -24,7 +24,7 @@ END {
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-}' | sort | uniq | sed 's/^\#. /\# /g' > $OUTFILE
+}' | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

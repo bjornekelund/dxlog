@@ -27,7 +27,7 @@ END {
   printf("#1 Based on official member roster at www.agcw.de\n");
   printf("#2 Contains members up to #%d\n", max);
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-}' | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+}' | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

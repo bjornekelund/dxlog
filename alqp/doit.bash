@@ -28,7 +28,7 @@ BEGIN {
       printf("Invalid exchange: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

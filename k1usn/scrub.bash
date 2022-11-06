@@ -7,21 +7,12 @@ dos2unix -q $FILE
 gawk '
 BEGIN {
   FS=","
-  col = 2;
+  ncol = 2;
+  ecol = 3;
 }
 {
-  if ($0 ~ /^!!Order!!/) {
-    if ($2 ~ /Name/) ncol = 1;
-    if ($3 ~ /Name/) ncol = 2;
-    if ($4 ~ /Name/) ncol = 3;
-    if ($5 ~ /Name/) ncol = 4;
-    if ($2 ~ /Exch1/) ecol = 1;
-    if ($3 ~ /Exch1/) ecol = 2;
-    if ($4 ~ /Exch1/) ecol = 3;
-    if ($5 ~ /Exch1/) ecol = 4;
-     printf("%s --> ecol=%d ncol=%d\n", $0, ecol, ncol);
-  } else if ($0 !~ /^(!|#|$)/) {
-    if ($ncol !~ /^([A-Z][A-Za-z]+)?$/) {
+  if ($0 !~ /^(!|#|$)/) {
+    if ($ncol !~ /^([A-Z][A-Za-z]*)?$/) {
         printf("Problem name: \"%s\"\n", $0);
     }
     if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY])/) {

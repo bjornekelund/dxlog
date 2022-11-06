@@ -48,7 +48,7 @@ END {
   {
     printf("%s=%s;%s;%s\n", calls[c], name[c], num[c], state[c]);
   }
-}' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+}' | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo "Created" $OUTFILE
 unix2dos -q $OUTFILE

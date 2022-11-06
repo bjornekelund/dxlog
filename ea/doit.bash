@@ -34,7 +34,7 @@ END {
   {
     printf("%s=%s\n", calls[c], exch[c]);
   }
-}' | sort | sed 's/#. /# /g' | uniq > $OUTFILE
+}' | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

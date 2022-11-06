@@ -34,7 +34,7 @@ END {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (call in calls)
     printf("%s=%s\n", call, state[call]);
-}' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 exit

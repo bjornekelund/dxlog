@@ -28,7 +28,7 @@ BEGIN {
     else if ($0 !~ /^(#|!|$)/ && $col != "")
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
-}' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

@@ -17,7 +17,7 @@ BEGIN {
 {
   printf("%s\n", $0);
 }
-END { }' $FILE | sort | uniq | sed 's/#. /# /g' > $OUTFILE
+END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
