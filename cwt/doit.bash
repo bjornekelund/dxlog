@@ -148,7 +148,6 @@ END {
   printf("#3 Contains members up to #%d\n", max);
   printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
   printf("Longest name is \"%s\" (%d)\n", maxname, maxlen) > "/dev/stderr";
-
 }' $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 echo $DBFILE "created"
 unix2dos -q $DBFILE
@@ -169,10 +168,5 @@ END {
 
 echo $XDTFILE "created"
 unix2dos -q $XDTFILE
-
-exit
-
-
-
 
 exit
