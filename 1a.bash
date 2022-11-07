@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod -x */*.txt
+chmod -x */*.*
 chmod +x */*.bash
 exit
 
