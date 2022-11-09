@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#
+# Need to be updated based on new scrub.bash
+#
+
 FILE=`ls K1USNSST-* | tail -1 2> /dev/null`
 OUTFILE=K1USN_SST_db.txt
 
