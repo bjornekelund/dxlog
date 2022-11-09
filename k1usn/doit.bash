@@ -57,7 +57,9 @@ END {
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in call) {
-    printf("%s=%s;%s\n", call[c], name[c], exchange[c]);
+    if (name[c] != "" && exchange[c] != "") {
+      printf("%s=%s;%s\n", call[c], name[c], exchange[c]);
+    }
   }
   printf("Longest name is \"%s\" (%d)\n", maxname, maxlen) > "/dev/stderr";
 }' $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
