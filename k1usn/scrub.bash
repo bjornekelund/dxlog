@@ -26,7 +26,7 @@ BEGIN {
       }
     } else {
       if ($ecol !~ /^DX$/) {
-        printf("Exchange should be DX2: \"%s\"\n", $0);
+        printf("Exchange should be DX: \"%s\"\n", $0);
       }
     }
 

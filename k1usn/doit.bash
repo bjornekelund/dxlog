@@ -24,23 +24,17 @@ BEGIN {
         printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
     }
     if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY])/) {
-      if (exch !~ /^(PR|VI|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)?$/) {
-        if (exch ~/^(KP4|KP2|KG4)$/) {
-          printf("Exchange changed to DX: \"%s\"\n", $0) > "/dev/stderr";
-          exch = "DX";
-        }
-        else {
-          printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
-          bad = 1;
-        }
+      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)?$/) {
+        printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
+        bad = 1;
       }
     } else {
       if ($3 !~ /^DX$/) {
-        printf("Exchange chaged to DX: \"%s\"\n", $0) > "/dev/stderr";
+        printf("Exchange changed to DX: \"%s\"\n", $0) > "/dev/stderr";
         exch = "DX"
       }
     }
-    if (!bad && $2 != "" && exch != "") {
+    if (!bad && ($2 != "" || exch != "")) {
       if (call[$1] != "") {
         printf("\"%s\" replaced by \"%s\"\n", line[$1], $0) > "/dev/stderr";
       }
