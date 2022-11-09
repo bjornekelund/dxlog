@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-07
+# Last Edit,2022-11-09
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -839,6 +839,7 @@ G2E,Rog,G,Pinkneys Green England
 G2JL,Mort,32,Hampshire England
 G3ILO,Steve,,Glos England
 G3KDP,Tony,,St-Ives Cornwall England
+G3KML,Bob,,Northumberland England
 G3KMW,Bob,,England
 G3KSU,Alan,,Wiltshire England (QRP)
 G3KTZ,Ron,,Littlebourne Canterbury England
@@ -953,6 +954,7 @@ GM3JOB,Rod,2204,Irvine Scotland
 GM3WOJ,Chris,2436,(GM2V)  Near Inverness Scotland
 GM3WUX,Terry,2826,Glasgow Scotland
 GM3YOR,Drew,,Inverekip Scotland
+GM3ZUK,Allan,,Scotland
 GM4JPZ,Colin,2537,Dundee Scottland
 GM4PVM,Paul,2413,Essex England
 GM4WZG,Bernie,GM,Dalgety Bay Scotland
@@ -2116,7 +2118,7 @@ K9KSG,Junior,IL,Bourbonnais IL
 K9LA,Carl,920,Fort Wayne IN
 K9LPX,Jerome,WI,Washburn WI
 K9LZJ,Hank,IN,Indianapolis IN
-K9MA,Scott,UT,(1385) Madison WI
+K9MA,Scott,1385,Madison WI
 K9MM,John,120,Prospect Heights IL
 K9MMS,Gary,277,St-Charles IL
 K9NN,Dale,2568,Carmel IN
@@ -3541,6 +3543,7 @@ N8UM,John,1535,Oak Ridge TN
 N8UOA,JEFF,WV,WASHINGTON WV
 N8VAR,Ron,OH,Huber Heights OH
 N8WE,Glen,OH,Centerville OH
+N8XE,Jason,OH,Hilliard OH
 N8ZV,Bob,3257,Amherst OH
 N8ZYA,John,WV,Charleston WV
 N9BOR,Mike,312,Skokie IL
@@ -3824,6 +3827,7 @@ NU6N,Arka,2152,Sunnyvale CA (Southwest Amb.)
 NU6T,Rich,CWA,Fair Oaks CA
 NU7J,Tom,WA,Marysville WA
 NU7Y,Quint,1261,Oro Valley AZ
+NV0S,Gary,CO,Northglenn CO
 NV1U,Tom,2303,The Villages FL
 NV3N,Stu,1815,Pennsylvania Furnace PA
 NV5F,Ginnie,2149,Fort Worth TX
@@ -4104,6 +4108,7 @@ PJ2/NA2U,Fred,2455,
 PJ4K,Dave,232,N3RD
 PJ4LS,Hans,849,Bonaire Netherland Antillies
 PJ7AA,Tom,1092,(AA9A)  Saint Maarten
+PJ7PL,Ed,,Cupecoy St Maarten 
 PP5EG,Oms,549,Florianopolis Brazil
 PR7AB,Junior,,Guarabira Brazil
 PS7CE,CHA,,Natal Brazil

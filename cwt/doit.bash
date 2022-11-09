@@ -78,6 +78,7 @@ BEGIN {
       if ($1 ~ /^O[U-Z]/) ID = "OZ";
       if ($1 ~ /^P4/) ID = "P4";
       if ($1 ~ /^P[A-I]/) ID = "PA";
+      if ($1 ~ /^PJ7/) ID = "PJ7";
       if ($1 ~ /^P[P-Y]/) ID = "PY";
       if ($1 ~ /^PZ/) ID = "PZ";
       if ($1 ~ /^(R[1-7][A-Z]|R[A-Z][1-9]|UA[1-7])/) ID = "UA";
@@ -118,7 +119,8 @@ BEGIN {
     if (toupper($3) != ID && $3 != "")
       printf("Exchange is \"%s\" when it should be \"%s\" for %s\n", $3, ID, $1) > "/dev/stderr";
 
-    idvalid = ID ~ /^[1-9][0-9]{0,3}$|^[A-Z]{2}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]$/;
+    if ($1 == "N5OT") ID = "2197";
+    idvalid = ID ~ /^[1-9][0-9]{0,3}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]?$/;
     problemid = !idvalid && !(ID == "" && $1 ~ /^(N|K|W)/)
     namevalid = $2 ~ /^[A-Za-z]{2,}$/;
     textvalid = $4 !~ /^ *$/;
