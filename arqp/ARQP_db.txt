@@ -1,6 +1,7 @@
-# Arkansas QSO Party database.
-# Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2022-05-20.
+# Arkansas QSO Party database
+# Based on call history data maintained by VE2FK ve2fk@arrl.net
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2022-11-10
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -5547,6 +5548,7 @@ KG4WQZ=GA
 KG4ZXN=KY
 KG4ZXP=KY
 KG5AWC=TX
+KG5CCI=PER
 KG5CCI=PER
 KG5DIJ=TX
 KG5ESC=TX
