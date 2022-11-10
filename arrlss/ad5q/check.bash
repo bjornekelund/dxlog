@@ -1,14 +1,12 @@
 #!/bin/bash
-FILE=`ls SSCW* | tail -1 2> /dev/null`
 
-echo Scrubbing $FILE...
-dos2unix -q $FILE
+dos2unix -q $1
 
-gawk '
-BEGIN {
+cat $1 | sed 's/=/,/g' | sed 's/;/,/g' |\
+gawk 'BEGIN {
   FS=","
-  scol = 2;
-  ccol = 4;
+  scol = 4;
+  ccol = 3;
 }
 {
   if ($0 !~ /^(#|!)/) {
@@ -42,7 +40,7 @@ BEGIN {
     call[$1] = $1;
   }
 }
-END {}' $FILE
-echo Done.
+END {
+}'
 
 exit
