@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-09
+# Last Edit,2022-11-10
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2579,7 +2579,7 @@ KI5T,Wade,LA,Walker LA
 KI6M,Hans,2792,Cypress CA
 KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
-KI6RRN,Axel,CA,La Mesa CA
+KI6RRN,Axel,AZ,
 KI6UP,JIM,TX,Atlanta TX
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
@@ -5938,6 +5938,7 @@ Z32U,Zoki,2667,North Macedonia
 Z33B,Kirk,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
 ZA1EM,Elvira,3076,Elbasan Albania
+ZA1ME,Miri,3279,Tirana Albania
 ZB2CW,Derek,,Gibraltar
 ZB2FK,Tito,3244,Gibraltar 
 ZB2X,Jorma,144,Gibraltar
