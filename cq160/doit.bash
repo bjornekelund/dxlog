@@ -7,6 +7,10 @@ dos2unix -q $INFILE
 
 gawk '
 BEGIN {
+  printf("#0 CQ 160M database - States and provinces\n");
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }
 {
@@ -20,14 +24,9 @@ BEGIN {
   else if ($0 !~ /^(!|#|$)/ && $3 != "")
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
-END {
-  printf("#0 CQ 160M database - States and provinces\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-}' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+END {}' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE "created"
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

@@ -7,7 +7,7 @@ dos2unix -q $SOURCE
 awk \
 'BEGIN\
 {
-  FS="="
+  FS="=";
   printf("^(");
   notfirst = 0;
 }
