@@ -1,7 +1,7 @@
 # Arizona QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-10-08
+# Last updated 2022-11-10
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -3216,6 +3216,7 @@ K7ZB=MI
 K7ZI=UT
 K7ZO=ID
 K7ZOO=LPZ
+K7ZOO=LPZ
 K7ZOX=MT
 K7ZS=OR
 K7ZSD=OR
@@ -5912,6 +5913,7 @@ KK6XN=CA
 KK6YB=CA
 KK6YVC=CA
 KK6ZM=WA
+KK7AC=APH
 KK7AC=APH
 KK7B=OR
 KK7BIJ=UT
@@ -12344,6 +12346,7 @@ W7QL=UT
 W7QN=WA
 W7RAB=WA
 W7RAI=OR
+W7RAP=APH
 W7RAP=APH
 W7RF=CO
 W7RG=WA
