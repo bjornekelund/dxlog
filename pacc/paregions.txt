@@ -1,0 +1,12 @@
+GR=Groningen
+FR=Friesland
+DR=Drenthe
+OV=Overijssel
+GD=Gelderland
+UT=Utrecht
+FL=Flevoland
+NH=Noord-Holland
+ZH=Zuid-Holland
+NB=Noord-Brabant
+ZL=Zeeland
+LB=Limburg

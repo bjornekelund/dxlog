@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=../naqp/NAQPCW.txt
+FILE=`ls ../naqp/NAQP[^_]* | tail -1 2> /dev/null`
 OUTFILE=NHQP_db.txt
 
 echo Parsing $FILE

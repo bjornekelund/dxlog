@@ -1,5 +1,5 @@
 # Maryland-DC QSO Party database
-# Data collected and maintained by Claude VE2FK
+# Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2022-11-11
 AA0AC=MN
@@ -965,9 +965,6 @@ AL7B=AK
 AL7O/W0=MO
 AL7O=MO
 AL7R=AZ
-HI2AA=HI
-HI3MM=HI
-HI4MM=HI
 K0ACP=MI
 K0AD=MN
 K0AE=CO
