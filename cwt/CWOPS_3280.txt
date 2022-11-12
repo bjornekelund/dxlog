@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-10
+# Last Edit,2022-11-11
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -4512,6 +4512,7 @@ VA3ZC,Paul,ON,Oakville ON (Mag. Loop)
 VA5SCA,Neil,SK,Canada
 VA6CA,Kam,2714,Calgary AB
 VA6SP,Peter,AB,Calgary AB
+VA6TI,Ty,3280,Lethbridge AB
 VA7ADI,Adrian,BC,Abotrsford BC
 VA7BWG,,BC,Surrey BC
 VA7CDB,Paul,BC,Coquitam BC

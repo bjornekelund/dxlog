@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3776
-# Last updated 2022-11-10
+# Last updated 2022-11-12
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -4493,6 +4493,7 @@ VA3ZC=Paul;ON
 VA5SCA=Neil;SK
 VA6CA=Kam;2714
 VA6SP=Peter;AB
+VA6TI=Ty;3280
 VA7ADI=Adrian;BC
 VA7BWG=;BC
 VA7CDB=Paul;BC
