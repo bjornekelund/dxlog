@@ -129,8 +129,6 @@ DJ5MY,Harald
 DJ5TT,Gerd
 DJ6RN,Eckhard
 DJ6TB,Tom
-DJ7AT,Wolf
-DJ7A,Wolf
 DJ7EO,Markus
 DJ7HH,Hans-Henning
 DJ8EW,Lothar
@@ -467,7 +465,7 @@ PA3FGI,Marcel
 PB0AED,Marcel
 PB7Z,Bernard
 PC5A,Aurelio
-PD1RP,Peter
+PD1RP,Peet
 SM6CNN,Anders
 SP5XVY,Robert
 V51W,Martin
