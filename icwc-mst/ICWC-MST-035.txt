@@ -2,13 +2,27 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2022-11-07
+# Last Edit,2022-11-14
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN for corr.
 
 AI0Y,JOE,
 W0WL,JOE,
 NI8W,STEVE,
+K7PY,FRED,AZ
+KE4EE,DAVE,SC
+M0BEW,TIM,DX
+N5ARS,SEAN,MD
+NR7T,JON,UT
+W0GV,GERRY,CO
+GI4SJQ,GEORGE,
+NY0QV,BRUCE,
+W6RIF,REED,
+VE2PID/W8,PIERRE,QC (REMOTE)
+EA4HKF,JOSE,
+WA5PQL,PHIL,
+WA4CDR,JOE,
+KO1H,JOHN,
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -847,7 +861,7 @@ G0OOR,Tony,2971,Norfold England
 G0ORH,Ken,,Thatcham West Berkshire
 G0PNM,Peter,,Cornwall England
 G0RDO,John,,Newton Abbot Devon Egnland
-G0TPH,Al,2956,Desford England
+G0TPH,Alan,2956,Desford England
 G0TZZ,Chris,,Sporte England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England

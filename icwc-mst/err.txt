@@ -1,0 +1,8 @@
+Parsing ICWC-MST-035.txt
+!!Order!!,Call,Name,Misc,UserText, --> col=2
+Ignored: "F2IL,Jean Marie,,Ribeaucourt France"
+"KU9S,JERRY," reappears as "KU9S,JERRY,IL,Machesney Park IL"
+"M0BEW,TIM,DX" reappears as "M0BEW,Tim,2985,ShropshireEngland"
+"N4NR,Dennis,AL,Pelham AL" reappears as "N4NR,DENNIS,MS,Green Cove Springs FL"
+Ignored: "ON6XY,Jean Marie,,Mazy Belgium"
+Created ICWCMST_db.txt
