@@ -5,25 +5,6 @@
 # Last Edit,2022-11-14
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN for corr.
-
-AI0Y,JOE,
-W0WL,JOE,
-NI8W,STEVE,
-K7PY,FRED,AZ
-KE4EE,DAVE,SC
-M0BEW,TIM,DX
-N5ARS,SEAN,MD
-NR7T,JON,UT
-W0GV,GERRY,CO
-GI4SJQ,GEORGE,
-NY0QV,BRUCE,
-W6RIF,REED,
-VE2PID/W8,PIERRE,QC (REMOTE)
-EA4HKF,JOSE,
-WA5PQL,PHIL,
-WA4CDR,JOE,
-KO1H,JOHN,
-
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -383,6 +364,7 @@ AH6RE,Curt,830,Keaau HI
 AH6V,Jeremy,HI,Ninole HI
 AH6VV,Carl,2300,Honolulu HI
 AH7I/W4,Bob,,GA,
+AI0Y,JOE,
 AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
 AI2T,Barry,NY,Owego NY
@@ -712,6 +694,7 @@ EA3NN,Dany,,Tarragona Spain
 EA3NO,LLUIS,
 EA4BB,Nando,2981,Masdrid Spain
 EA4GMX,Felipe,,Cuenca Spain
+EA4HKF,JOSE,
 EA4KD,Pete,,Madrid Spain
 EA4M,Rick,1070,(Ricardo) (EA4ZM)   Aranjuez Spain
 EA4OR,Nacho,2218,Meco Madrid Spain
@@ -775,7 +758,7 @@ EW1I,Alex,,Minsk Belarus
 EW1TZ,Serge,,Minsk Belarus
 EW7LO,Vlad,,Bobruisk Belarus
 EY8MM,Nodir,815,Dushanbe Tajikistan
-F2IL,Jean Marie,,Ribeaucourt France
+F2IL,Jean,,Ribeaucourt France
 F3OA,Mike,,Hyeres France
 F4GFT,Andy,,Paris France
 F4GOP,Denis,,La Lande Patry France
@@ -971,6 +954,7 @@ GD0OUD,Stu,1829,Onchan Isle of Man
 GD4EIP,Colyn,2187,Foxdale Isle of Man
 GI2CWO,,,CWOPS Northern Ireland
 GI4CFQ,Gary,765,Belfast Northen Ireland
+GI4SJQ,GEORGE,
 GI4SZW,Jim,,County Armagh Northern Ireland
 GM0EPO,John,1974,Scotland  (Occasionally QRP)
 GM0EUL,Peter,1899,Duns Scotland
@@ -2007,6 +1991,7 @@ K7ON,Brian,AZ,Stanfield AZ
 K7PAX,Paula,WA,Port Angeles WA
 K7PKA,Paula,3055,Big Arm MT
 K7PKG,Matt,AZ,Tucson AZ
+K7PY,FRED,AZ
 K7QA,Tom,1959,Missoula MT
 K7QBW,Robert,2091,Vernonia OR
 K7RA,TAD,WA,Seattle WA
@@ -2497,6 +2482,7 @@ KE3X,Ken,460,Washington DC
 KE4D,John,1688,Lesburg FL
 KE4DRJ,JOEY,,NC
 KE4EA,DAVE,
+KE4EE,DAVE,SC
 KE4KY,Tom,1763,Fisherville KY
 KE4Q,FRED,
 KE4RG,Ken,1765,Gretna VA (Occ. QRP)
@@ -2796,6 +2782,7 @@ KN8U,Bruce,2297,Atlanta GA
 KN9X,Don,IL,Yorkville IL
 KO0L,Joe,AR,Hot Springs Village AR
 KO1E,Dave,RI,Riverside RI
+KO1H,JOHN,
 KO1U,Mark,MA,Haverhill MA
 KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
@@ -2891,7 +2878,6 @@ KU6CWO,,,San Diego CA
 KU7T,Andy,1300,North Bend WA
 KU7Y,Ron,1211,(New QTH) Mountain Home ID (DN23)
 KU8E,Jeff,208,Ellerslie GA
-KU9S,JERRY,
 KU9S,JERRY,IL,Machesney Park IL
 KV0I,Bill,2265,Papillion NE
 KV1E,Jack,1150,Muscatine IA
@@ -3001,7 +2987,7 @@ LZ5R,Milen,LZ,Plovdiv Bulgaria  (LZ5DB)
 LZ5XQ,Steve,LZ,Burgas Bulgaria
 LZ9A,Andy,,LZ Contest Team Bulgaria
 M0AGA,Kevin,19,Sutton in Ahfield England
-M0BEW,Tim,2985,ShropshireEngland
+M0BEW,Tim,DX,ShropshireEngland
 M0CDL,John,2965,Kingswinford England
 M0CFV,BLAZEJ,DX,London England
 M0DHP,Ray,2090,(M2U) Thames Ditton England
@@ -3350,8 +3336,7 @@ N4LW,Bob,CWA,Rockledge FL
 N4NBM,Al,FL,Winter Springs FL
 N4NM,Chuck,1288,Huntsville AL
 N4NQ,Sid,1611,Lawrenceville GA
-N4NR,Dennis,AL,Pelham AL
-N4NR,DENNIS,MS,Green Cove Springs FL
+N4NR,Dennis,
 N4NS,Ken,FL,Daytona Beach FL
 N4NSS,Kyle,2821,Sebring FL
 N4NTO,Tripp,2821,Tarboro NC
@@ -3410,6 +3395,7 @@ N4ZZ,Don,902,Nashville TN
 N5AAS,Lane,2480,Hattiesburg MS
 N5AHM,Gary,2325,Biloxi MS
 N5AN,Bud,140,Lafayette LA
+N5ARS,SEAN,MD
 N5AW,Marv,157,Burnet TX
 N5AW/0,Marv,157,Pagosa Springs CO
 N5BA,Brian,1453,Houston TX
@@ -3805,6 +3791,7 @@ NI4U,Mike,2820,Hampton VA
 NI4Y,Lin,AL,(Gregory)  Atlanta GA
 NI6T,Garry,CA,Los Gatos CA
 NI8N,Jack,OH,Milan OH (CW Academy)
+NI8W,STEVE,
 NI9Y,Dan,2432,Mishawaka IN
 NJ1F,Brian,2029,Saratoga Springs NY
 NJ1T,Doug,2213,Pittsfield MA
@@ -3897,6 +3884,7 @@ NR4A,Sam,3095,Spring Hill FL
 NR4M,Steve,993,Locust Grove VA
 NR4N,Angel,VA,Manassas VA
 NR5W,Doug,2722,Seattle WA
+NR7T,JON,UT
 NS0R,Morgan,1264,Topeka KS
 NS1DX,Gerry,191,(W1VE)
 NS3C,Dick,1807,Los Angeles CA (Occ. QRP)
@@ -3947,6 +3935,7 @@ NX4N,Chris,1917,Lutz FL
 NX8F,Ron,FL,Beverly Hills FL
 NX8Y,Ron,1598,Milford Center OH
 NX9G,Yan,1882,Bensenville IL
+NY0QV,BRUCE,
 NY1Z,Bub,NH,Salem NH
 NY2H,Lou,2176,Port Jeffeson Station NY
 NY2PO,Pat,2578,Glen Spey NY
@@ -4117,7 +4106,7 @@ ON6QEP,Bruno,,Reet Belgium
 ON6SAS,Fil,2561,Flanders Fields Belgium
 ON6UQ,Cel,,Rijkevorsel Belgium
 ON6WP,Pol,1009,Wuustwezel Belgium
-ON6XY,Jean Marie,,Mazy Belgium
+ON6XY,Jean,,Mazy Belgium
 ON7PQ,Pat,2365,Kortryk Belgium
 ON7XN,Hans,,Brugge Belgium
 OP4A,Francis,2429,(ON6LY) Turnhout An Belgium
@@ -4651,6 +4640,7 @@ VE2NCG,Nick,QC,Montreal Nord QC
 VE2OXP,Klaus,QC,Matane sur Mer QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC
+VE2PID/W8,PIERRE,QC (REMOTE)
 VE2QA,Vlad,QC,Beaconsfield QC
 VE2SG,Step,QC,Quebec QC
 VE2SRP,Simon,2144,(VE2ZM) St Joseph du Lac QC
@@ -4870,6 +4860,7 @@ W0FK,Lou,MO,Saint Louis MO
 W0GAS,Greg,2785,Larkspur CO
 W0GJ,Glenn,532,Calmar IA
 W0GTL,Chris,SD,Sioux Falls SD
+W0GV,GERRY,CO
 W0GXA,Bob,1349,Ely IA
 W0GXQ,Jerry,1555,Park Rapids MN
 W0HY,Jeff,2912,Saint Paul MN
@@ -4909,6 +4900,7 @@ W0UO,Jim,1069,Weatherford TX
 W0UY,Tom,,
 W0VQ,GEOFF,WA,Amboy WA
 W0VX,Dave,967,Garland TX
+W0WL,JOE,
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
 W0ZP,Wayne,IN,South Bend IN
@@ -5367,6 +5359,7 @@ W6QA,Tony,CWA,Placerville CA
 W6QR,William,2449,Torrance CA
 W6QX,Steve,2870,San Marcos CA
 W6RGG,Bob,CA,Castro Valley CA
+W6RIF,REED,
 W6RK,Risto,98,Hayward CA
 W6RKC,Rick,CA,Pine Grove CA
 W6RLL,Joe,2633,Mc Neal AZ
@@ -5650,6 +5643,7 @@ WA3WAW,Bill,PA,Uniontown PA
 WA3YRI,Bob,NJ,Lumberton NJ
 WA3ZKI,Alan,NJ,Cherry Hill NJ
 WA4AUG,Andy,2751,(AA5JF)  Augusta University GA
+WA4CDR,JOE,
 WA4FAT,Bill,AL,Birmingham AL
 WA4IPU,Bruce,FL,Ocala FL
 WA4JFK,Steve,FL,Key West FL
@@ -5672,6 +5666,7 @@ WA5LHM,Tom,TX,Georgetown TX
 WA5LXS,Dennis,1836,Carrollton TX
 WA5OBV,Phil,OK,Stillwater OK
 WA5PFJ,John,1629,Midland TX
+WA5PQL,PHIL,
 WA5RML,Andrew,1324,Arlington TX
 WA5YOM,Tim,2782,Ardmore OK
 WA6DBC,Dennis,CA,Santee CA

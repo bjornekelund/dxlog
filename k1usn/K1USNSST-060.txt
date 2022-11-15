@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-11-09
+# 1-Last Edit,2022-11-15
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -833,6 +833,7 @@ DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
 DH1NTT,Terry,DX,Aschaffenburg Germany
 DH4NWG,MARTIN,DX,Hersbruck Germany
+DJ0AQ,KAZIK,DX,Idar-Oberstein Germany
 DJ0YI,BEN,DX,Boeblingen Germany
 DJ1TF,THOMAS,DX,Bad Schonborn Germany
 DJ1YFK,FABIAN,DX,Munich Germany
@@ -936,6 +937,7 @@ G0GZN,LINDY,DX,Poole England
 G0HKC,Keith,DX,Bristol
 G0JJI,PETE,DX,Poole Dorset England
 G0KAY,TRYSTAN,DX,Lancashire England
+G0NMY,MARK,DX,Staffordshire England
 G0UJA,James,DX,Kent England
 G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
@@ -3900,6 +3902,7 @@ KC2SIZ,STEVE,NY,Brooklyn NY
 KC2SKM,BILLY,NY,Passaic NJ
 KC2SZ,JIM,NJ,
 KC2TEL,BOB,NJ,
+KC2THY,JOHN,NY,Denville NJ
 KC2TN,,NJ,
 KC2WA,,NY,
 KC2WUF,DAVID,NJ,
@@ -4498,6 +4501,7 @@ KF0FE,,IA,
 KF0FFA,Dean,KS,Lawrence KS
 KF0FFL,DAN,MN,Saint Paul MN
 KF0GV,,MN,
+KF0GVX,RYAN,NE,Plattsmouth NE
 KF0HNI,CHAS,IA,Sioux Rapids IA
 KF0IDJ,RICH,CO,Loveland CO
 KF0IEV,DAN,MN,Saint Paul MN
@@ -8303,6 +8307,7 @@ PA0INA,FRANS,DX,Goes Netherlands
 PA0M,THIEU,DX,Veldhoven Netherlands
 PA1BBO,BERT,DX,Hellendoorn Netherlands
 PA2G,GERARD,DX,Capelle aan den IJssel Netherlands
+PA2RG,ROEL,DX,Vleuten Netherlands
 PA2ST,BEN,DX,Stad Netherlands
 PA2WLE,WILBERT,DX,Helmond Netherlands
 PA3DAZ,EDU,DX,Hengelo OV Netherlands
@@ -8761,6 +8766,7 @@ VE3NR,BOB,ON,
 VE3NRT,CHRIS,ON,
 VE3NUL,RICH,ON,North York ON
 VE3NWA,PETAR,ON,
+VE3NYZ,FRANK,ON,Fonthill ON
 VE3NZ,BEN,ON,
 VE3NZP,STEVE,ON,
 VE3OBU,BOB,ON,
@@ -8807,6 +8813,7 @@ VE3TNT,MAX,ON,
 VE3TVB,DAN,ON,
 VE3TW,STAN,ON,
 VE3TXT,MARSHALL,ON,
+VE3TZF,KEITH,ON,Sarnia ON
 VE3UAY,MIKE,ON,
 VE3UEE,RON,ON,Ottawa ON
 VE3UKR,NICK,ON,
@@ -9193,6 +9200,7 @@ W0JEC,,MN,
 W0JF,,CO,
 W0JLC,,MO,
 W0JLC/4,,FL,
+W0JMW,JEFF,KS,Douglass KS
 W0JOP,CARL,MO,O'Fallon MO
 W0JPL,PAUL,MO,
 W0JRP,,MO,
@@ -12427,6 +12435,7 @@ WB3KVR,RON,PA,Seven Valleys PA
 WB3LJQ,VINCE,PA,Latrobe PA
 WB4ABY,CARL,GA,Alpharetta GA
 WB4AEG,HAL,GA,
+WB4AJL,DAVE,NC,Whittier NC
 WB4AQL,MIKE,GA,
 WB4AXQ,,AL,
 WB4BIN,DAVE,TX,Southlake TX
@@ -12857,6 +12866,7 @@ WI2T,,MD,
 WI2W,STEVE,NJ,North Haledon NJ
 WI3F,,MD,
 WI4A,JIM,VA,
+WI4L,DAVID,GA,Dalton GA
 WI4T,GREG,MO,
 WI5P,,TX,
 WI6T,REX,CO,

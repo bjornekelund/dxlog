@@ -1,0 +1,3 @@
+Scrubbing K1USNSST-060.txt
+Problem exchange: "K3WA/KP4,BILL,DX,"
+Exchange should be DX: "KP2A,,VI,"
