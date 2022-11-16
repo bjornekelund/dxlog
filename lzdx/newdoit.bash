@@ -1,26 +1,11 @@
 #!/bin/bash
-OLDFILE=prev-lzdx_db.txt
-OLDTEMP=.tmp
 FILE=`ls LZDX[^_]* | tail -1 2> /dev/null`
 OUTFILE=LZDX_db.txt
 
-dos2unix -q $FILE $OLDFILE
-echo Converting $OLDFILE
-
-gawk '
-BEGIN {
-  FS="=";
-}
-{
-  if ($1 ~ /^[0-9,A-Z]/)
-    printf("%s,,%s\n", toupper($1), toupper($2));
-  else if ($0 !~ /^(!|#|$)/ && $2 != "")
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
-}' $OLDFILE > $OLDTEMP
-
+dos2unix -q $FILE
 echo Parsing $FILE...
 
-cat $OLDTEMP $FILE | gawk '
+gawk '
 BEGIN {
   FS=","
   printf("#0 LZ DX Contest database\n");
@@ -30,8 +15,9 @@ BEGIN {
 }
 {
   if ($1 ~ /^[0-9,A-Z]/ && $3 ~ /^(BU|BL|VN|VT|VD|VR|GA|DO|KA|KD|LV|MN|PA|PK|PL|PD|RZ|RS|SS|SL|SM|SF|SO|SZ|TA|HA|SN|YA)$/) {
-    if (ex[$1] != "" && ex[$1] != $3)
-      printf("Replacing %s with %s for %s\n", ex[$1], $3, $1) > "/dev/stderr";
+    if (line[$1] != "")
+      printf("Duplicate entry \"%s\" and \"%s\"\n", line[$1], $1) > "/dev/stderr";
+    line[$1] = $0;
     call[$1] = $1;
     ex[$1] = $3;
   }
@@ -41,7 +27,7 @@ BEGIN {
 END {
   for (cl in call)
     printf("%s=%s\n", cl, ex[cl]);
-}' | sort | sed 's/#. /# /g' > $OUTFILE
+}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

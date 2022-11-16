@@ -15,7 +15,7 @@ BEGIN {
     if ($ncol !~ /^([A-Z][A-Za-z]*)?$/) {
         printf("Problem name: \"%s\"\n", $0);
     }
-    if ($1 ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|V[A-EOXY])/) {
+    if ($1 ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|V[A-EOXY])/ && $1 !~ /\/(KP2|KP4)$/) {
       if ($1 ~ /^[KNW](G[46]|P[234])/) {
         if ($ecol !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)?$/) {
           printf("Exchange should be DX: \"%s\"\n", $0);

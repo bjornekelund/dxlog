@@ -691,7 +691,7 @@ EA6BF,Josep,3072,Balearic Island
 EA6TS,Pedro,,Balearic Isl. Spain
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
-EA6EJ,INI,3776,Palma de Mallorca Spain
+EA6EJ,INI,3276,Palma de Mallorca Spain
 EA7JW,David,1933,Cadiz Spain
 EA8/DH2MS,Manfred,,Sankt Augustin Germany
 EA8AY,Luis,,Santa Cruz Canary Island
