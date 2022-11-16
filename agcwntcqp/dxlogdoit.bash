@@ -1,5 +1,5 @@
 #!/bin/bash
-# Run n1mmdoit first, then this
+# Run n1mmdoit first, then this one
 #
 FILE=`ls AGCW-NTCQP-XXX.txt | tail -1 2> /dev/null`
 OUTFILE=AGCWNTPQP_db.txt
