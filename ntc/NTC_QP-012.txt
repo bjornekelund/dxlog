@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2022-10-17
-# Last number listed 177
+# Last edit,2022-11-10
+# Last number listed 179
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -10,23 +10,23 @@
 
 
 5X8C,Anton,154,(ON6NL)  Entebbe Uganda
-9A1AA,Peter,37,Belisce Croatia
-9A3SM,MATO,136,Zagreb Croatia
-AE1N,Layne,171,Nashua NH
-CT7AUP,David,118,Arruda dos Vinhos Portugal
-DC8ED,Karl,77,Oberhausen Germany
-DF4WX,Micha,83,Gensingen Germany
-DF7TV,Tom,64,Stuttgart Germany
-DJ0SP,Hannes,124,Vreden Germany
-DJ3TU,Norbert,146,Goeppingen Germany
-DJ5CW,Fabian,99,Munich Germany
-DJ7AO,Steve,105,Ahrensburg Germany
-DJ9BM,Volker,84,Sankt Augustin Germany
-DK8KK,Karl,79,Alsbach Germany
-DK9HE,Andy,89,Stelle Germany
-DL1DXL,Lothar,72,Moritzburg Germay
-DL1LAF,Joachim,58,Altenholz Germany
-DL1OP,Olaf,48,Plettenberg Germany
+9A1AA,Peter,37,
+9A3SM,Mato,136,
+AE1N,Layne,171,NH
+CT7AUP,David,118,
+DC8ED,Karl,77,
+DF4WX,Micha,83,
+DF7TV,Tom,64,
+DJ0SP,Hannes,124,
+DJ3TU,Norbert,146,
+DJ5CW,Fabian,99,
+DJ7AO,Steve,105,
+DJ9BM,Volker,84,
+DK8KK,Karl,79,
+DK9HE,Andy,89,
+DL1DXL,Lothar,72,
+DL1LAF,Joachim,58,
+DL1OP,Olaf,48,
 DL1SBF,Lothar,137,
 DL3HAE,Wolf,138,
 DL3HWO,Herbert,143,
@@ -34,7 +34,7 @@ DL3JAB,Andy,157,
 DL4FDM,Fri,74,
 DL4HJ,Jonny,133,
 DL4YR,Ralf,125,(DP4E)
-DL5XL,Felix,80,Hagen im Bremischen Germany
+DL5XL,Felix,80,
 DL/UA6AX,Yuri,174
 DM3ZM,Harlad,158,
 DM4RW,Robert,73,
@@ -45,16 +45,16 @@ EA1ARW,Luis,75,
 EA1IQ,Chus,68,
 EA3NO,Liuis,69,
 EA5FID,Juan,67,
-EA5IUY,Gary,108,Muro de Alcoy Spain
+EA5IUY,Gary,108,
 F5NLX,Jean,41,(Jean-Marie) 
-F6JOE,Jean,44,Carnieres France
+F6JOE,Jean,44,
 F8DTU,Frank,49,
 F8NUH,Jean,43,(Jean-Pierre)
 FG8NY,Jean,44,(F6JOE)
 G0LLX,Andy,156,
 G3J,Mike,115,
-G3WZD,Mac,36,Cornwall England
-G3XTZ,Graham,166,Ashford Middlesex England
+G3WZD,Mac,36,
+G3XTZ,Graham,166,
 G4CPA,Geoff,123,
 G4HLN,Larry,140,
 G4RMV,Mike,115,
@@ -63,7 +63,7 @@ GW4D,Keith,106,
 GW4OKT,Keith,106,
 HB9CSA,Frotz,74,
 HB9EWO,Clemens,155,
-I5ECW,Vanni,164,Montale Italy
+I5ECW,Vanni,164,
 IK0PHU,Tony,47,
 IK1YRA,Carl,135,
 IK6BAK,Eliseo,35,
@@ -79,7 +79,7 @@ OE6FYG,Herbert,134,
 OE7TIR,Steve,105,
 OG2N,Jarmo,107,
 OH2BN,Jarmo,107,
-OK1RR,Martin,51,Praha 2 Czech Republic
+OK1RR,Martin,51,
 OK2BMA,Pavel,62,
 OK2IW,Swat,148,
 ON2AD,Pat,34,
@@ -87,14 +87,14 @@ ON3RLI,Rudy,153,
 ON4CAS,Egbert,57,
 ON4CGW,Kurt,16,
 ON4VT,Danny,144,
-ON6NL,Anton,154,Kinrool Belgium
+ON6NL,Anton,154,
 ON6QS,Gil,151,
 ON7DQ,Luc,98,
 ON8VA,Chris,26,
 ON8WR,Ward,152,
 OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,
-PA0AGF,REMY,131,Almelo Netherlands
+PA0AGF,Remy,131,
 PA0BAK,Ron,9, 
 PA0CMU,Carel,76,
 PA0DIN,DJ,46,
@@ -114,14 +114,14 @@ PA0SLT,Wim,114,
 PA0XAW,Age,119,
 PA1BBO,Bert,92,
 PA1CW,Theo,18,
-PA1DI,Dick,168,Overijssel Netherlands
+PA1DI,Dick,168,
 PA1DMG,Marc,10, 
 PA1MAR,Marcel,5,
 PA1REG,Reg,87,
-PA2DK,Dennis,161,Moordrecht Netherlands
+PA2DK,Dennis,161,
 PA2G,Gerard,30,
 PA2JJB,Jan,24, 
-PA2PCH,Ad,170,Apeldoorn Netherlands
+PA2PCH,Ad,170,
 PA2RG,Roel,13, 
 PA2SQ,Simon,71,NTC Award manager
 PA2V,Peter,129,
@@ -137,8 +137,8 @@ PA3CWQ,Harry,20,
 PA3CXB,Jan,160,
 PA3DAZ,Edu,22, 
 PA3DBS,Peter,53,
-PA3DSB,Paul,162,Waalre Netherlands
-PA3EEG,Ruud,5,Exloermond Netherlands
+PA3DSB,Paul,162,
+PA3EEG,Ruud,5,
 PA3EQN,Peter,101,
 PA3EYM,Gert,90,
 PA3FOE,Cor,82,
@@ -146,31 +146,31 @@ PA3FTP,Louis,28,
 PA3FYE,Jacob,55,
 PA3GBK,Aeilko,130
 PA3GEO,Robert,17,
-PA3GNZ,Gose,4,(Tjeerd)  Nieuwegein Netherlands
+PA3GNZ,Gose,4,(Tjeerd)  
 PA3HEB,Marcel,159,
-PA3HEN,Theo,3,Pumerend Netherlands
+PA3HEN,Theo,3,
 PA3HK,Henry,126,
 PA3JD,Joop,112,
 PA3Y,Nico,19,
 PA4M,Mark,29,
-PA4O,Peter,7,Winsum Netherlands
+PA4O,Peter,7,
 PA4OES,Andre,78,
 PA4WM,Martin,23,
-PA50AGCW,NTC,50,Netherlands Telegraphy Club
+PA50AGCW,NTC,50,
 PA5ABW,AB,52,(Albert)
 PA5JW,Jan,142,
-PA5KT,Henk,56,Heer Abtskerke Netherlands
+PA5KT,Henk,56,
 PA5Z,Kees,93,
 PA7DN,Dick,173
 PA7JWC,JW,65,(Jan)
-PA7RA,Rien,1,Bergen op Zoom NB Netherlands
+PA7RA,Rien,1,
 PA7RM,Rob,31, 
 PA8AD,Ad,121,
 PA9CW,Ton,81,
 PA9J,Jorrit,128
 PA9O,Fil,63,
 PB2JJ,Jasper,27,
-PB5DX,Harry,12,Ijmuiden Netherlands 
+PB5DX,Harry,12,
 PB7TT,Ron,145,
 PC4E,Hans,33,
 PC4Y,Bert,85,
@@ -178,15 +178,17 @@ PC7E,Henk,104,
 PD0JMH,Jos,117,
 PD0SOT,Edwin,15,
 PD0WLM,William,25,
-PE0CD,Chris,163,Helmond Netherlands
-PE1CDA,Peter,167,Franeker Netherlands
-PE1LDS,Ferry,169,Den Haag Netherlands
+PD5N,Eric,179,
+PD7Q,Jacob,178,
+PE0CD,Chris,163,H
+PE1CDA,Peter,167, 
+PE1LDS,Ferry,169,
 PE1PYZ,Henk,39, 
 PE1RCT,Andreas,122,
-PE4KH,Koos,165,Utrecht Netherlands
+PE4KH,Koos,165,
 PF44F,Enno,40, 
-PF5X,Enno,40,Cuijk Netheerlands
-PF6NTC,RIEN,150,NTC Special Event Call
+PF5X,Enno,40,
+PF6NTC,Rien,150,NTC Special Event Call
 PG0S,Cor,8,
 PG2W,Wouter,45,
 PG4I,JO,2,
