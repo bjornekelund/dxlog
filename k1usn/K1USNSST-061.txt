@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-11-15
+# 1-Last Edit,2022-11-17
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -5597,6 +5597,7 @@ M0WDD,DAVID,DX,Salford Manchester England
 M1X,STEVE,DX,Sevenoaks Kent Englad
 M2AVG,WILLE,DX,?
 M2U,Ray,DX,Surrey England
+M3F,MAC,DX,(G3WZD) Cornwall England
 M4J,Jon,DX,
 M5ABN,PETE,DX,Devon England
 M6MPC,Mike,DX,Brede England
