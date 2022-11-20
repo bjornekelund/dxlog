@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls LZDX[^_]* | tail -1 2> /dev/null`
+FILE=`ls LZDX-2* | tail -1 2> /dev/null`
 OUTFILE=LZDX_db.txt
 
 dos2unix -q $FILE
