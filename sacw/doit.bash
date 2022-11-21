@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls SACW.* | tail -1 2> /dev/null`
+INFILE=`ls SACW[\.-]* | tail -1 2> /dev/null`
 OUTFILE=SACW_db.txt
 
 echo Parsing $INFILE
