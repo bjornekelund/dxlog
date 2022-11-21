@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-17
+# Last Edit,2022-11-20
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -903,6 +903,7 @@ G4HZV,Bob,1636,Guildford England
 G4ILW,James,1729,London England
 G4IRN,John,268,Thames Ditton England
 G4IZZ,Mike,2511,Cheltenham England
+G4KLE,Merv,3283,Huntingdon England
 G4KQY,Mike,2987,Norwich England
 G4LJU,Colin,,Redhill England
 G4LMW,Rob,,Berkshire England

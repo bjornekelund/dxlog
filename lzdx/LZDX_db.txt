@@ -1,7 +1,7 @@
 # LZ DX Contest database
 # Based on data collected and maintained by VE2FK and R9IR
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-11-20
+# Last updated 2022-11-21
 LZ01MLN=PK
 LZ0M=VN
 LZ1195IR=PD
@@ -57,6 +57,7 @@ LZ1HA=SF
 LZ1HB=BU
 LZ1HO=BU
 LZ1HOT=BU
+LZ1HQ=VT
 LZ1HW=MN
 LZ1IA=SF
 LZ1IC=YA

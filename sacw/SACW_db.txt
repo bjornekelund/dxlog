@@ -1,0 +1,43 @@
+# South America Integration Contest database
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2022-11-21
+PP5VX=M
+PR7AB=M
+PS7DX=M
+PT2AW=M
+PT9DX=M
+PU2NZR=M
+PU2PRM=M
+PU2TJQ=M
+PU4FEL=M
+PY1AFG=M
+PY1EPU=M
+PY1FA=M
+PY2ARY=M
+PY2BBQ=M
+PY2BW=M
+PY2EX=M
+PY2FRQ=M
+PY2IQ=M
+PY2IT=M
+PY2KP=M
+PY2NFE=M
+PY2NY=M
+PY2OP=M
+PY2OT=M
+PY2QL=M
+PY2RLM=M
+PY2SP=M
+PY2SWL=M
+PY2TEY=M
+PY2UDB=M
+PY2WMW=M
+PY2WQ=M
+PY2YP=M
+PY2ZA=M
+PY4DX=M
+PY4LH=M
+PY4XC=M
+PY7OJ=M
+VE2FK=9

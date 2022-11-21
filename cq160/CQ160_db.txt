@@ -1,7 +1,7 @@
 # CQ 160M database - States and provinces
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-09-28
+# Last updated 2022-11-21
 4U1WB=DC
 AA0AI=IA
 AA0AW=MN
@@ -3272,7 +3272,6 @@ K9HUH=IL
 K9HUY=FL
 K9HXO=FL
 K9HY=IL
-K9HZO=BILL
 K9IA=WI
 K9IBM=WI
 K9IC=OH
@@ -5916,7 +5915,6 @@ N0SRQ=MN
 N0SS=MO
 N0STL=MN
 N0SVO=IA
-N0SXX=GARY
 N0TA=CO
 N0TK=CO
 N0TLW=IA
@@ -10823,7 +10821,6 @@ W6NT=CA
 W6NTC=CA
 W6NV=CA
 W6NWS=NC
-W6OA=DON
 W6OAL=CO
 W6OAR=CA
 W6OAT=WA
@@ -11867,7 +11864,6 @@ WA3MIX=PA
 WA3NKO=FL
 WA3NZR=PA
 WA3OFC=VA
-WA3PFA=CHAZ
 WA3RHW=NJ
 WA3RWP=VA
 WA3SES=PA

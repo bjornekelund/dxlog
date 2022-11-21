@@ -1,11 +1,11 @@
 !!Order!!,Call,Name,Sect,UserText,
 # Based on data by VE2FK and R9IR
 # Thanks SM7IUM for edit.
-# Created 2019-11-17
+# Created 2019-11-20
 # Current contest: LZDX CW-SSB 
 # Data base for LZ DX Contest
 # LZDX 
-# Last Edit,2022-11-19 from log of VE2FK 
+# Last Edit,2022-11-20 from log of VE2FK 
 # Send any correction direct to ve2fk@arrl.net
 
 LZ01MLN,,PK,
@@ -63,7 +63,7 @@ LZ1HA,,SF,
 LZ1HB,,BU,
 LZ1HO,HOVSEP,BU,Burgas,
 LZ1HOT,,BU,
-LZ1HQ,VILLY,VT (KY6AA),
+LZ1HQ,VILLY,VT,(KY6AA),
 LZ1HW,SPAS,MN,Lom,
 LZ1IA,ATANAS,SF,Zagora,
 LZ1IC,,YA,
