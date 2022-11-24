@@ -2,7 +2,7 @@
 !!Order!!, Call, Exch1, UserText, 
 # CQWWCW
 # CQWWSSB
-# Last Edit,2022-11-22
+# Last Edit,2022-11-24
 # No need to be on CHF if your QTH/Zone have not changed.
 # Send new info/corr. DIRECT  to ve2fk@arrl.net
 # Thanks K3CT SQ7FPD
@@ -8092,7 +8092,9 @@ A44A,OMAN,21,
 4L9M,Georgia,21,
 7A2A,Indonesia,28,
 7Q6M,Malawi,37,
+9H6WW,Malta LP,15,
 9M6NA,East Malaysia,28,
+B0A,BA7NQ,23,
 C56DF,Gambia (G3XTT),35,
 C6AGU,NA001 WOOD CAY,08,
 C6AQQ,Bahamas (ND3F),08,
@@ -8116,6 +8118,7 @@ KP2B,US Virgin Is,08,
 KP3DX,Puerto Rico,08,
 LN8W,Norway M/M LA GROUP,14,
 LY4A,LY GROUP LITHUANIA,15,
+MW5B,G3WVG Wales,14,
 OT7T,Belgium,14,
 OX7AM,Greenland,40,
 P44W,Aruba (W2GD),09,

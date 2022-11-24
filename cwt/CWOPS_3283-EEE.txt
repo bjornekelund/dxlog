@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-23
+# Last Edit,2022-11-24
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2592,7 +2592,7 @@ KI5T,Wade,LA,Walker LA
 KI6M,Hans,2792,Cypress CA
 KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
-KI6RRN,Axel,AZ,
+KI6RRN,Axel,CA,
 KI6UP,JIM,TX,Atlanta TX
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
@@ -4503,6 +4503,7 @@ VA2RAC,,QC,RAC HQ
 VA2SG,Pete,QC,Jonquiere QC 
 VA2UR,Guy,QC,(VE2BWL)
 VA2WA,Vic,2212,Boucherville QC (COSBoard)
+VA2XZA,Jon,QC,(Jonathan)  L'Ile Perrot QC
 VA3CWT,Gabriel,ON,Toronto ON
 VA3CX,Ron,1775,London ON (VE3FXX)
 VA3DKL,Dave,2847,Kitchener ON
@@ -5778,6 +5779,7 @@ WG3J,Eric,2473,Pittsville MD
 WG5H,Curt,1931,Houston TX
 WG5J,Darin,TX,Red Oak TX
 WH6R,Eran,HI,Honolulu HI
+WH7T,Mark,HI,Honolulu HI
 WH7TT,Edward,HI,Wahiawa HI
 WH7W,Mark,HI,Honolulu HI
 WI0WA,Lar,IA,(Larry) Ankeny IA (Iowa DX RC)
