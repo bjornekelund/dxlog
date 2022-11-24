@@ -3,10 +3,18 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-20
+# Last Edit,2022-11-23
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
+#
+VK6ANC,Mark,1224,N5ZO
+3B8/K0AV,Alan,1129,
+OK2SG,Stan,,Rosice u Brna Czech Republic
+AE0DX,Adam,,no info
+YD2UWF,Saka,,Sleman Indonesia
+JK8PBO,Masa,,Hokkaido Japan
+IW2OGY,Luca,,Mandello Del Laario Italy
 
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
@@ -3234,6 +3242,7 @@ N4FCG,OJ,FL,Florida QSO Party
 N4FP,Wayne,1090,Ocala FL (Possibly QRP) 
 N4FP/M,Wayne,1090,6400/Maestro Hustler horz.
 N4FP/P,Wayne,1090,
+N4FUR,Wil,FL,Saint Augustine FL
 N4GG,Hal,2288,Woodstock GA
 N4GJ,Wink,SC,Little River SC
 N4GK,Jim,AL,Decatur AL
@@ -4952,6 +4961,7 @@ W2RRT,Nick,NY,Brooklyn NY
 W2RU,Bud,65,Old Forge NY
 W2TB,Mike,346,West Seneca NY
 W2TE,Walt,NY,Babylon NY
+W2TJ,Tom,CWA,Binghamton NY
 W2TR,Gary,2136,The Villages FL
 W2TT,Ross,2716,Loveladies NJ
 W2VJN,Geo,OR,Roseburg OR
@@ -5962,6 +5972,7 @@ ZF2DX,Kevin,1293,Cayman Isl. (N5DX)
 ZF2ET,Stan,272,(K5GO)
 ZF2IN,Tim,1942,(N6WIN)
 ZF2LZ,Martin,MA,Waban MA
+ZF2MJ,Dan,2164,N6MJ
 ZF2NE,Joe,,Cayman Isl.
 ZF2RX,Bray,3158,(KC1KUG)
 ZF2SC,Scott,1698,Cayman Isl. (KA9P)

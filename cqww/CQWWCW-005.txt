@@ -2,12 +2,11 @@
 !!Order!!, Call, Exch1, UserText, 
 # CQWWCW
 # CQWWSSB
-# Last Edit,2022-11-18
+# Last Edit,2022-11-22
 # No need to be on CHF if your QTH/Zone have not changed.
 # Send new info/corr. DIRECT  to ve2fk@arrl.net
-# Thanks K3CT 
-# Thanks SQ7FPD
-# Special callsign end of the list.
+# Thanks K3CT SQ7FPD
+# Special callsign ANNOUNCED end of the list.
 # Updated from log of VE2FK
 2E0AQQ,14,
 2E0CNL,14,
@@ -8084,6 +8083,8 @@ ZZ2T,11,
 
 !!Order!!, Call,UserText,Exch1,
 # CQWWCW 
+AH2R,NH2C WI3O,27,
+A44A,OMAN,21,
 3B8M,Mauritius,39,
 3B9KW,Rodrigues,39,
 4L2M,Georgia,21,
@@ -8096,10 +8097,12 @@ C56DF,Gambia (G3XTT),35,
 C6AGU,NA001 WOOD CAY,08,
 C6AQQ,Bahamas (ND3F),08,
 D4Z,Cape Verde Is,35,
+DX8H,SPESUX,27,
 E2A,Thailand,26,
+ES9UKR,INTERNATIONAL TEAM,15,
 FG/VE3RSA,Guadeloupe,08,
 FS/K0CD,St Martin,08,
-GU4CHY,Guernsey,14,
+GU4CHY,Guernsey 10M OR 15M SOSB,14,
 HC1DW,Ecuador (W0OR),10,
 HO2T,Panama (K3GO),07,
 HQ9T,K1TR K1XM KQ1F SM7IUN W1UE NA057,07,
@@ -8111,14 +8114,18 @@ K8H,American Samoa,32,
 KH7Q,Hawaii,31,
 KP2B,US Virgin Is,08,
 KP3DX,Puerto Rico,08,
-LN8W,Norway,14,
+LN8W,Norway M/M LA GROUP,14,
+LY4A,LY GROUP LITHUANIA,15,
 OT7T,Belgium,14,
 OX7AM,Greenland,40,
-P44W,Aruba (W2GD),09, 
+P44W,Aruba (W2GD),09,
+P44X,DL6RAI OE2VEL ARUBA,09,
+PJ2T,K5PI K9DR KY7M N7IR NA2U VE3CX VE3EY VE3JM W9JY PJ2DX,09,
 PJ4A,Bonaire (K4BAI KU8E K4AB N8VW),09,	
 PJ4K,Bonaire (WA3LRO K1XX W1MD K3CT N3RD W4PA G4XUM G3NKC),09,
 PJ7PL,St Maarten,08,
 PT4A,Brazil,11,
+RN1B/0,IOTA 018,19,
 SP8R,Poland,15,
 T88PB,Palau,27,
 TF3SG,Iceland,40,
@@ -8130,9 +8137,12 @@ V47T,St Kitts & Nevis (N2NT),08,
 V48A,St Kitts & Nevis,08,
 V85RH,Brunei,28,
 VA2VT,Quebec-Canada,02,
+VE2IM,VE3DZ AT SEPT-ILES,02,
 VE2XAA,(CGQ)  In Memory of Alexey VE2XAA,05,
+VK6N,N5ZO,29,
 VP2MJA,Montserrat (VA3WB),08,
 VP5Y,Turks & Caicos Is (VA3DT VE3RZ),08,
+WP3C,K2IN W2VQ WB8JUI WP3C WP3TT LP,08,
 Z68EE,Kosovo (OZ2I),15,
 ZF1A,N6MJ W9KKN NN1C N5KO,08,
 ZF2SS,Cayman Is NA016 (KO7SS),08,
