@@ -1,7 +1,7 @@
 # CQ WW CW database
 # Based on call history data maintained by VE2FK ve2fk@arrl.net
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-11-24
+# Last updated 2022-11-25
 2E0AQQ=14
 2E0CNL=14
 2E0FAQ=14
@@ -1572,6 +1572,7 @@ G9X=14
 GI3OQR=14
 GI3SG=14
 GI4SNA=14
+GJ2A=14
 GJ3YHU=14
 GM0FHJ=14
 GM0GMN=14
@@ -6740,6 +6741,7 @@ VK4Y=30
 VK5MAZ=30
 VK5PAS=30
 VK6N=29
+VK6T=29
 VK6T=29
 VK9DX=32
 VL3X=30

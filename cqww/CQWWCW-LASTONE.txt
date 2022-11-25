@@ -2,7 +2,7 @@
 !!Order!!, Call, Exch1, UserText, 
 # CQWWCW
 # CQWWSSB
-# Last Edit,2022-11-24
+# Last Edit,2022-11-25
 # No need to be on CHF if your QTH/Zone have not changed.
 # Send new info/corr. DIRECT  to ve2fk@arrl.net
 # Thanks K3CT SQ7FPD
@@ -8083,8 +8083,6 @@ ZZ2T,11,
 
 !!Order!!, Call,UserText,Exch1,
 # CQWWCW 
-AH2R,NH2C WI3O,27,
-A44A,OMAN,21,
 3B8M,Mauritius,39,
 3B9KW,Rodrigues,39,
 4L2M,Georgia,21,
@@ -8094,6 +8092,8 @@ A44A,OMAN,21,
 7Q6M,Malawi,37,
 9H6WW,Malta LP,15,
 9M6NA,East Malaysia,28,
+AH2R,NH2C WI3O,27,
+A44A,OMAN,21,
 B0A,BA7NQ,23,
 C56DF,Gambia (G3XTT),35,
 C6AGU,NA001 WOOD CAY,08,
@@ -8104,6 +8104,7 @@ E2A,Thailand,26,
 ES9UKR,INTERNATIONAL TEAM,15,
 FG/VE3RSA,Guadeloupe,08,
 FS/K0CD,St Martin,08,
+GJ2A,MJ0ASO,14,
 GU4CHY,Guernsey 10M OR 15M SOSB,14,
 HC1DW,Ecuador (W0OR),10,
 HO2T,Panama (K3GO),07,
@@ -8143,6 +8144,7 @@ VA2VT,Quebec-Canada,02,
 VE2IM,VE3DZ AT SEPT-ILES,02,
 VE2XAA,(CGQ)  In Memory of Alexey VE2XAA,05,
 VK6N,N5ZO,29,
+VK6T,by VK6LW,29,
 VP2MJA,Montserrat (VA3WB),08,
 VP5Y,Turks & Caicos Is (VA3DT VE3RZ),08,
 WP3C,K2IN W2VQ WB8JUI WP3C WP3TT LP,08,
