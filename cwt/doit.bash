@@ -107,6 +107,7 @@ BEGIN {
       if (call ~ /^VU/) ID = "VU";
       if (call ~ /^XE/) ID = "XE";
       if (call ~ /^YL/) ID = "YL";
+      if (call ~ /^Y[BCD]/) ID = "YB";
       if (call ~ /^YO/) ID = "YO";
       if (call ~ /^Y[TQ]/) ID = "YT";
       if (call ~ /^ZB/) ID = "ZB";
