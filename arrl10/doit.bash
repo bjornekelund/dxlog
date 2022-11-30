@@ -17,7 +17,7 @@ BEGIN {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
 }
 END {
-  printf("#0 ARRL 10m database - ARRL/RAC/XE sections\n");
+  printf("#0 ARRL 10m database - state or province for US, Canadian, and Mexican stations\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));

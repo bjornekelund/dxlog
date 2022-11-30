@@ -1,9 +1,9 @@
-#
 !!Order!!,Call,Exch1,
+#
 # ARRL160
-# Last Edit, 2022-11-10
-# Send new info/corr. DIRECT to ve2fk@arrl.net
 # Cleaned and updated to 2023 RAC sections by Bjorn SM7IUN
+# Last Edit, 2022-11-27
+# Send new info/corr. DIRECT to ve2fk@arrl.net
 # This file need to use Exch1 in preamble
 4U1WB,MDC,
 AA0A,MO,
@@ -6302,7 +6302,7 @@ N7BF,WWA,
 N7BNT,WWA,
 N7BXX,AZ,
 N7BYU,UT,
-N7CKJ,EWA,
+N7CKJ,ID,
 N7CN,UT,
 N7CPL,AZ,
 N7CPM,WWA,
