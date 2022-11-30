@@ -1,13 +1,14 @@
 AB=Alberta
 BC=British Columbia
-GTA=Greater Toronto Area
-MAR=Maritime
+GH=Golden Horseshoe
 MB=Manitoba
+NB=New Brunswick
 NL=Newfoundland and Labrador
-NT=Northern Territories
+NS=Nova Scotia
 ONE=Ontario East
 ONN=Ontario North
 ONS=Ontario South
 PE=Prince Edward Island
 QC=Quebec
 SK=Saskatchewan
+TER=Territories
