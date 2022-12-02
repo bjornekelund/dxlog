@@ -1,7 +1,7 @@
 # ARRL 160m database - ARRL/RAC sections
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-12-01
+# Last updated 2022-12-02
 4U1WB=MDC
 AA0A=MO
 AA0AA=NE
@@ -10580,6 +10580,7 @@ WU0L=CO
 WU0T=WPA
 WU1B=CT
 WU2M=ENY
+WU4G=VA
 WU4NC=NC
 WU5E=TN
 WU6W=NV
@@ -10645,7 +10646,7 @@ WX1S=NH
 WX1X=RI
 WX2T=NNJ
 WX3B=MDC
-WX3M=MI
+WX3M=VA
 WX4G=WCF
 WX4ME=KY
 WX4MM=AL

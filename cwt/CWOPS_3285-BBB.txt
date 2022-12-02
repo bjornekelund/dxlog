@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-27
+# Last Edit,2022-11-30
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -431,6 +431,7 @@ CT1ILT,Fil,2699,(CR6K)  S. Martinho da Gandara Portugal
 CT7AFN,Carlos,,Near Fatima Portugal
 CT7AGZ,Ken,2126,(G4RWD)  Carvoeiro LGA Portugal
 CT7AUP,David,,Arruda dos Vinhos Portugal
+CT9/HA3NU,Larry,,
 CT9ABV,Ulf,1517,(DL5AXX)  Santana Madeira Island AF-014
 CU3AA,Joao,1804,Angra Do Heroismo Portugal
 CU3H,Dave,,Lajes Azores
@@ -674,6 +675,7 @@ EA3FZT,Francis,2560,Cubelles Spain
 EA3GHZ,Joan,,Tarragona Spain
 EA3HSO,Al,2132,Barcelona Spain
 EA3IAA,Manel,,Barcelona Spain
+EA3IGR,Sergio,,Arenys de Mar Spain
 EA3M,Roger,3229,Sabadell Spain
 EA3NN,Dany,,Tarragona Spain
 EA4BB,Nando,2981,Masdrid Spain
@@ -4567,7 +4569,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,I will be  VE2XAA  in CQWW CW
+VE2FK,Dub,1181,Eastern QC FN68
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
