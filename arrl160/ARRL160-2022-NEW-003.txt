@@ -2,7 +2,7 @@
 !!Order!!,Call,Exch1,
 # ARRL160
 # Cleaned and updated  by Bjorn SM7IUN
-# Last Edit, 2022-11-30
+# Last Edit, 2022-12-01
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # This file need to use Exch1 in preamble
 4U1WB,MDC,
@@ -10583,6 +10583,7 @@ WU0L,CO,
 WU0T,WPA,
 WU1B,CT,
 WU2M,ENY,
+WU4G,VA,
 WU4NC,NC,
 WU5E,TN,
 WU6W,NV,
@@ -10648,7 +10649,7 @@ WX1S,NH,
 WX1X,RI,
 WX2T,NNJ,
 WX3B,MDC,
-WX3M,MI,
+WX3M,VA,
 WX4G,WCF,
 WX4ME,KY,
 WX4MM,AL,
