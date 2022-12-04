@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRL160.* | tail -1 2> /dev/null`
+INFILE=`ls ARRL160-2022* | tail -1 2> /dev/null`
 OUTFILE=ARRL160-2023.txt
 
 echo Parsing $INFILE
@@ -14,10 +14,14 @@ BEGIN {
     printf("%s\n", $0);
   else {
     section = $2;
-    if ($1 ~ /^VE9/ && $2 ~ /^MAR$/)
-      section = "NB";
-    else if ($1 ~ /^V[AE]1/ && $2 ~ /^MAR$/)
-      section = "NS";
+    if ($2 ~ /^MAR$/) {
+      if ($1 ~ /^V[AE]9/)
+        section = "NB";
+      else if ($1 ~ /^V[AE]1/)
+        section = "NS";
+      else
+        printf("Problem: \"%s\"\n", $0) > /dev/stderr;
+    }
     else if ($2 ~ /^GTA$/)
       section = "GH";
     else if ($2 ~ /^NT$/)

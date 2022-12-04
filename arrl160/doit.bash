@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRL160-2* | tail -1 2> /dev/null`
+INFILE=`ls ARRL160-2022* | tail -1 2> /dev/null`
 OUTFILE=ARRL_160M_db.txt
 
 echo Parsing $INFILE

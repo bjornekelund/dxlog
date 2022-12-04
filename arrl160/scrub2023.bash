@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRL160-* | tail -1 2> /dev/null`
+INFILE=`ls ARRL160-2023* | tail -1 2> /dev/null`
 
 echo Scrubbing $INFILE
 dos2unix -q $INFILE
