@@ -1,11 +1,18 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-11-29
+# 1-Last Edit,2022-12-04
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
+W4FOC,BOB,FL,
+K8XB,BOB,WI,
+VA3FH,VICTOR,ON,
+VE3AEN,RODNEY,ON,
+KD2YNN,BILL,NJ,
+WW4SF,Fox,SC,Swamp Fox Contest Group SC
+
 2I0WLZ,ANDREW,DX,Portadown Northern Ireland
 4X4FC,ALEX,DX,Netanya Israel
 5P5Q,VERNER,DX,Allinge Denmark
@@ -7717,7 +7724,7 @@ ND6P,JIM,CA,
 ND6S,RAY,CA,
 ND8DX,ED,OH,
 ND8G,BERNARD,KY,Coxs Creek KY
-ND8L,RAY,OH,
+ND8L,RAY,FL,
 ND8N,PAUL,AZ,
 ND9A,JOHN,IN,
 ND9E,BILL,IL,

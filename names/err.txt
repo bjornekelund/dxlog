@@ -1,0 +1,9 @@
+Scrubbing Names_VE2FK-036.txt
+Duplicate entry: "DJ0AQ,Kazik," and "DJ0AQ,KAZIK,Idar-Oberstein Germany"
+Duplicate entry: "DL7BS,Bernd,Berlin" and "DL7BS,DVET,Berlin Germany"
+Duplicate entry: "GM5TDX,TED,Wishaw" and "GM5TDX,TED,Wishaw Scotland"
+Duplicate entry: "KO1H,JOHN," and "KO1H,JOHN,Van Buren ME"
+Duplicate entry: "M0BEW,TIM," and "M0BEW,TIM,DX"
+Duplicate entry: "N2EIM,BOB," and "N2EIM,Bob,Princeton NJ"
+Problem name   : "OZ5TTT,OZ2KL,"
+Duplicate entry: "ZL3CW,JACKY," and "ZL3CW,Jacky,(F2CCW) Tauranga New Zealand"

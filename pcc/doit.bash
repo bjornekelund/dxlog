@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls PCC_* | tail -1 2> /dev/null`
+FILE=`ls PCC_[MN]* | tail -1 2> /dev/null`
 OUTFILE=PCC_db.txt
 
 echo Parsing $FILE
