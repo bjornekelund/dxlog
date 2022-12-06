@@ -1,7 +1,7 @@
 # ARRL 10m database - state or province for US, Canadian, and Mexican stations
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-12-02
+# Last updated 2022-12-06
 4C10M=QUI
 4U1WB=MD
 AA0A=MO
@@ -5691,6 +5691,7 @@ N5DX=AR
 N5DY=OK
 N5EE=AR
 N5EG=OR
+N5EP=IL
 N5EPU=AR
 N5ER=AR
 N5EYT=TX
@@ -10276,7 +10277,7 @@ WX1S=NH
 WX1X=RI
 WX2T=NJ
 WX3B=MD
-WX3M=MI
+WX3M=VA
 WX4G=FL
 WX4ME=KY
 WX4MLB=FL
