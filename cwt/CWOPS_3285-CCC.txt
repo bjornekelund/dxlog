@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-11-30
+# Last Edit,2022-12-07
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -653,6 +653,7 @@ E71A,Emil,484,Sarajevo Bosnia and Herzegovina
 E73ESP,RC,,(Club Stjepan Polje)  Bosnia and Herzegovina
 E74D,Nermin,,Zenica Bosnia & Herzegovina
 E74X,Veljko,T9,LJubija Bosnia and Herzegovina
+E77DX,Braco,,Bosna & Herzegovina
 E77EA,Dragan,E7,Banja Luka Bosnia and Herzegovina
 E77XZ,Suad,,near Zenica Bosnia and Herzegovina
 EA1ARB,Vic,,Asturias Spain
@@ -873,6 +874,7 @@ G3WCY,Brian,,Hampshire England
 G3WGN,Dave,482,Okehampton England
 G3WPH,Mike,,Berkshire England
 G3WRJ,Dick,2209,Hitchin Gngland
+G3WW,Dez,,Stafford England
 G3WZD,Mac,1979,(Duncan) (News & Notes) Somerset England
 G3XLG,Ray,1365,Norfolk England
 G3XPO,Ken,,(M3XPO) Kent England
@@ -4546,6 +4548,7 @@ VA7KH,Steve,3039,Ladysmith BC
 VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada (Western Amb.)
 VA7ST,Bud,1622,Lake Country BC
+VC3YOTA,Maria,3059,(VE3OMV)  Oakville ON
 VE1AOE,Don,1703,Truro NS
 VE1ASE,Mike,NB,Quispamsis NB
 VE1BAB,Wayne,NS,Port Williams NS
@@ -5807,6 +5810,7 @@ WK9M,Randy,TN,Lenoir City TN
 WL7E,Joe,AK,Soldotna AK
 WM3O,Steve,PA,Philadelphia PA
 WM4I,Burke,1798,Wytheville VA
+WM4Q,Pete,TN,Bon Aqua TN
 WM5H,Bob,LA,West Monroe LA
 WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA
