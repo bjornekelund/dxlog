@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-12-07
+# Last Edit,2022-12-09
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -253,6 +253,7 @@ AD4ES,Chuck,2044,Melbourne FL
 AD4J,Jim,1144,Norcross GA
 AD4N,Ray,2679,Knoxville TN
 AD4S,Pickett,487,Lawrenceville GA
+AD4TA,Tim,KY,Harrodsburg KY
 AD4TJ,TJ,1960,(David)  Verona VA
 AD4UM,Joe,2765,Kingsport TN
 AD5A,Mike,1415,Boerne TX
@@ -2185,7 +2186,6 @@ KA1IOR,Geoff,351,East Falmouth MA
 KA1LOR,Len,MA,Shrewsburg MA
 KA1NP,Walt,3043,Tampa FL
 KA1RVM,Bill,3242,Holliston MA
-KA1YQC,Mark,2718,Franklin MA
 KA2F,John,NJ,Eatontown NJ
 KA2KGP,Tom,NY,Forestville NY
 KA3D,Dan,PA,Palmyra PA
@@ -2725,7 +2725,7 @@ KN8U,Bruce,2297,Atlanta GA
 KN9X,Don,IL,Yorkville IL
 KO0L,Joe,AR,Hot Springs Village AR
 KO1E,Dave,RI,Riverside RI
-KO1H,John,3268,Van Buren ME
+KO1H,John,3268,Van Buren ME  (Possibly QRP)
 KO1U,Mark,MA,Haverhill MA
 KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
@@ -2831,6 +2831,7 @@ KW0J,Gary,3066,Bettendorf IA
 KW1C,Marty,ME,Fort Kent ME
 KW1L,Paul,MI,Ann Arbor MI
 KW1U,Marcia,706,Concord MA
+KW1X,Mark,2718,(ex:KA1YQC)   Franklin MA
 KW2A,Phil,MD,Severna Park MD
 KW4AU,Kyle,AL,Pleasant AL
 KW4JM,Scott,CWA,Asheville NC
@@ -3985,7 +3986,7 @@ OK2RZ,Jiri,,Trebovice Czech Republic
 OK2SG,Stan,,Rosice u Brna Czech Republic
 OK2TJ,Mirk,,Prostejov Czech Republic
 OK2ZV,Vit,2873,Uhersky  Brod Czech Republic
-OK4MM,Jara,2669,Kyjov Czech Republic
+OK4MM,Jara,2669,Kyjov Czech Republic  (Possibly QRP)
 OK4RM,Jindra,2787,Miskovice Czech Republic
 OK4YL,Alena,,Ostrava-Trebovice Czech Republic
 OK5M,Vit,2499,Slavkova Czech Republic
@@ -4085,6 +4086,7 @@ PA2PIM,PIM,,Houten Netherlands
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
+PA2WLZ,Bert,,Helmond Netherlands
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands
@@ -5348,7 +5350,6 @@ W7LG,Mike,2682,Lewistown PA (Possibly QRP)
 W7LXN,Myron,1166,Gilbert AZ
 W7MP,Adam,OR,Beaverton OR
 W7OLY,Aubrey,1637,Olympia WA
-W7OM,Rod,680,Seattle WA
 W7PAU,Paul,OR,Salem OR
 W7PEZ,Paul,3001,Woodinville WA
 W7PFY,Darin,3187,Bountiful UT

@@ -1,11 +1,18 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2022-12-06
+# 1-Last Edit,2022-12-09
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
+KW1X,Mark,MA,
+K2AS,BRIAN,NY,
+KF9LI,NATHAN,NY,
+KD2A,RICK,NY,
+KD2NF,JERRY,NC,
+KC1KUF,YAN,RI,
+
 2I0WLZ,ANDREW,DX,Portadown Northern Ireland
 4X4FC,ALEX,DX,Netanya Israel
 5P5Q,VERNER,DX,Allinge Denmark
@@ -167,7 +174,7 @@ AA6YQ,DAVID,MA,
 AA6YX,DAVE,CA,
 AA6ZE,PETER,CA,
 AA7A,NED,AZ,
-AA7AZ,JIM,OR,Hermiston OR
+AA7AZ,JIM,AZ,
 AA7CP,SAM,GA,
 AA7CQ,,WA,
 AA7EE,DAVE,CA,
@@ -678,7 +685,7 @@ AH6KO,STAN,HI,
 AH6NM,DICK,HI,Honolulu HI
 AH6RE,CURT,HI,
 AI0L,,CO,
-AI0Y,JOE,MD,
+AI0Y,JOE,MN,
 AI0Y/9,JOE,IL,
 AI1K,JOHN,AZ,
 AI1V,JON,CT,
@@ -1239,7 +1246,7 @@ K1BIF,BOB,VT,
 K1BKK,,VT,
 K1BV,TED,CT,
 K1BX,ART,NH,
-K1BZ,DAVE,MD,
+K1BZ,DAVE,ME,
 K1CA,,NH,
 K1CBR,TED,CO,
 K1CP,CLIF,ME,
@@ -2677,7 +2684,7 @@ K6ZGW,BARRY,CA,Valley Glen CA
 K6ZH,JIM,CA,
 K6ZM,,CA,
 K6ZP,ANDY,CA,
-K6ZX,Steve,CA,Brea CA
+K6ZX,Steve,FL,
 K6ZXN,STEVE,CA,no info
 K6ZZ,BOB,CA,
 K6ZZD,BARRY,CA,
