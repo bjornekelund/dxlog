@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-12-09
+# Last Edit,2022-12-12
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -998,7 +998,7 @@ HA4AA,Andras,,Budapest Hungary
 HA5AO,Istvan,1522,Budapest Hungary
 HA5CQZ,Zoltan,,Budapest Hungary
 HA5JI,Gyuri,538,Budapest Hungary
-HA5MA,Laci,HA,Budapest Hungary
+HA5MA,Laci,3286,Budapest Hungary
 HA5NR,Gabor,2471,Budapest Hungary
 HA5UL,Feri,,Karpitos Hungary
 HA6OA,Gabi,,Szandavaralja Hugary
@@ -4574,7 +4574,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Eastern QC FN68
+VE2FK,Dub,1181,*** Joyeux Noel ***
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68

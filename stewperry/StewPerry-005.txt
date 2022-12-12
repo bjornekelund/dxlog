@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2022-12-05 
+# 3-Last Edit,2022-12-11 
 # 4-Last updated from log of 
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -6065,6 +6065,7 @@ NO7T,TOM,DM52,
 NO8R,JERRY,EN73,
 NO9E,,EL79,
 NO9Z,,EN60,
+NP2J,Dan,FK77,
 NP4A,,FK68,
 NP4B,,FK67,
 NP4BM,,FK68,
@@ -9185,7 +9186,6 @@ W7NNN,LOREN,CN87,
 W7NS,,DM33,
 W7NTF,TERRY,CN87,
 W7OE,GARY,DN17,
-W7OM,ROD,CN87,
 W7ON,ED,DM43,
 W7PAQ,,DN36,
 W7PP,,DM33,
