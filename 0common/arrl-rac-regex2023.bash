@@ -1,0 +1,29 @@
+SOURCE1=arrlsorted.txt
+SOURCE2=racsorted2023.txt
+DEST=regex-arrl-rac2023.txt
+
+echo Parsing $SOURCE1 $SOURCE2
+dos2unix -q $SOURCE1 $SOURCE2
+
+cat $SOURCE1 $SOURCE2 | sort |\
+awk \
+'BEGIN\
+{
+  FS="=";
+  printf("^(");
+  notfirst = 0;
+}
+{
+  if (notfirst++)
+    printf("|");
+  printf("%s", $1);
+}
+END {
+  printf(")$\n");
+}' $SOURCE > $DEST
+
+unix2dos -q $DEST
+echo Created $DEST
+
+exit
+
