@@ -1,5 +1,5 @@
-SOURCE1=arrlsorted.txt
-SOURCE2=racsorted2023.txt
+SOURCE1=arrl-sorted.txt
+SOURCE2=rac-sorted2023.txt
 DEST=regex-arrl-rac2023.txt
 
 echo Parsing $SOURCE1 $SOURCE2

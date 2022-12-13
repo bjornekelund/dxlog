@@ -1,7 +1,7 @@
 SOURCE1=arrl-sorted.txt
 SOURCE2=rac-sorted2023.txt
 SOURCE3=xe-sorted.txt
-DEST=regex-arrl-locations2023.txt
+DEST=regex-arrl-locations-withxe2023.txt
 
 echo Parsing $SOURCE1 $SOURCE2 $SOURCE3
 dos2unix -q $SOURCE1 $SOURCE2 $SOURCE3
