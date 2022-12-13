@@ -20,7 +20,7 @@ awk \
 }
 END {
   printf(")$\n");
-}' $SOURCE > $DEST
+}' > $DEST
 
 unix2dos -q $DEST
 echo Created $DEST
