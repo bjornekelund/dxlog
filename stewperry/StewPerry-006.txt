@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2022-12-11 
+# 3-Last Edit,2022-12-14 
 # 4-Last updated from log of 
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -3308,6 +3308,7 @@ K1CA,,FN42,
 K1CP,LARRY,FN54,
 K1CX,HANK,FM42,
 K1DG,,FN42,
+K1DJ,Rich,FN42,
 K1DM,,FN31,
 K1DQV,,FM19,
 K1DT,,FN41,

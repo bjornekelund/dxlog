@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2022-11-10
-# Last number listed 179
+# Last edit,2022-12-12
+# Last number listed 183
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -74,6 +74,7 @@ K4HEN,Theo,3,(PA3HEN)
 K5QR,Andy,109,
 KF0CR,Luc,98,
 M0HEN,Theo,3,(PA3HEN)
+M3F,Mac,36,(G3WZD)
 N2JJS,Giorgio,103,
 OE6FYG,Herbert,134,
 OE7TIR,Steve,105,
@@ -100,7 +101,9 @@ PA0CMU,Carel,76,
 PA0DIN,DJ,46,
 PA0GJV,Gerrit,113,
 PA0GRU,Dick,97,
+PA0HRM,Hans,182,
 PA0HTT,Henk,116,
+PA0INA,Frans,183
 PA0KGB,Martin,141,
 PA0LCE,LOUIS,139,
 PA0M,Thieu,110,
@@ -162,6 +165,7 @@ PA5JW,Jan,142,
 PA5KT,Henk,56,
 PA5Z,Kees,93,
 PA7DN,Dick,173
+PA7F,Frank,171,
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
 PA7RM,Rob,31, 
@@ -206,7 +210,7 @@ SV2BBK,Theo,147,
 SV9RNG,Pol,42,
 UA6AX,Yuri,174 
 V31HE,Andreas,89,
-VE2FK,DUB,NM,
+VE2FK,DUB,180,
 W4WEN,CARL,135,
 WZ4M,Tom,149,
 YL3JD,Hanz,11,

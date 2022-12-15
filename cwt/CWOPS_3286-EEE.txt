@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-12-12
+# Last Edit,2022-12-14
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -11,11 +11,9 @@
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
-3B8/K0AV,Alan,1129,
 3B9FR,Robert,1343,Rodriguez Island
 3D2AG,Antoine,2554,Suva Fiji
 3DA0AQ,Hans,,Manzini Swaziland
-3Z50GP,Dick,,(SP9GR) Czesthochdwa Poland
 4O3A,Ranko,,Montenegro
 4U1ITU,,,Geneva Switzerland
 4X0A,Jan,,Israel (4X1VF)
@@ -189,6 +187,7 @@ AB6UR,Dan,2315,Kerrville TX
 AB6XG,Rich,1754,Antioch CA
 AB6Z,Tom,1664,Picayune MS
 AB7MP,Mark,1350,Spokane WA
+AB8RL,Tom,WV,Scott Depot WV
 AB7RW,Phil,2249,Vancouver WA
 AB8YZ,Joann,TX,Omaha TX
 AB9BZ,Dave,IL,Chicago IL
@@ -360,6 +359,7 @@ AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
 AI2T,Barry,NY,Owego NY
 AI3A,Alan,3053,Georgetown CA
+AI3W,Rick,UT,Murray UT
 AI5IN,Marty,TX,Waller TX
 AI6DO,Ryan,CA,Torrance CA
 AI6IE,Step,CA,Alta Loma  CA
@@ -638,6 +638,7 @@ DM3KF,Horst,,Kessau Germany
 DM3XI,Klaus,,Arnstadt Germany
 DM4CW,Martin,1870,Uslar Germany
 DM4EE,Joe,,Ziethen Germany
+DM4G,Klaus,2524,(DL8TG) Wolfsburg Germany  (Possibly QRP) 
 DM4WL,Dieter,,Kreisca Germany
 DM6EE,Lutz,2654,Wolfsburg Germany  (Possibly QRP) 
 DM7EE,Christian,,Wolfsburg Germany
@@ -694,6 +695,7 @@ EA5IUY,Gary,2508,Muro de Alcoy Spain
 EA5KA,Raul,1512,Castellon de la Plana Spain
 EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
+EA5XQ,Juan..Almazora Spain
 EA6/EA3M,Roger,3229,Balearric Islands
 EA6BF,Josep,3072,Balearic Island
 EA6EJ,INI,3276,Palma de Mallorca Spain
@@ -926,6 +928,7 @@ G4PVN,Paul,,Billingham England
 G4RCG,John,2379,Wakefield England
 G4RGK,Dave,,Bucks England
 G4RMV,Mike,1614,Pershore England
+G4RQI,David,,West Yorkshire England
 G4RTJ,Colin,2940,England
 G4RWD,Ken,2126,(CT7AGZ)  Barton-under-Needwood England
 G4SMB,Mike,2700,Yorkshire Englandd
@@ -967,6 +970,7 @@ GM4JPZ,Colin,2537,Dundee Scottland
 GM4PVM,Paul,2413,Essex England
 GM4WZG,Bernie,GM,Dalgety Bay Scotland
 GM4X,Bernie,GM,Dalgety Bay Scotland
+GM5TDX,Ted,,Wishaw England
 GQ3WZD,Mac,1979,(Duncan) 
 GU4CHY,Dick,1543,Channel Islands Guernsey
 GW0ETF,Stew,919,Bangor Wales (CWops President)
@@ -1665,6 +1669,7 @@ K4JTA,Jim,KS,Ozawkie KS
 K4KIR,Matt,FL,Dunnellon FL
 K4KO,Greg,2814,Lebanon TN
 K4KSR,Bill,2107,Chesterfield VA (Full time QRP)
+K4KVC,Ken,FL,The Villages FL
 K4KZ,Lon,NC,Matthews NC
 K4LTA,Bill,TN,Oak Ridge TN
 K4LW,Bob,2717,Rockledge FL
@@ -2375,7 +2380,7 @@ KD2DUL,Steve,NJ,Princeton NJ
 KD2E,Dave,2420,Toms River NJ
 KD2EHH,Ed,NY,Duanesburg NY
 KD2EPM,Dom,NJ,Marlton NJ
-KD2FSH,Jerry,1918,Ferfield NJ
+KD2FSH,Jerry,1918,Surprise AZ
 KD2FVG,Allen,NJ,Parsippany NJ
 KD2GW,Greg,NJ,Mariton NJ
 KD2HE,Vic,2536,(VE3HEU)  New York NY
@@ -2733,6 +2738,7 @@ KO4GBD,Aaron,FL,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
 KO4GEO,Mike,CWA,Nashville TN
 KO4LAO,Jim,3200,Travelers Rest SC
+K4KVC,Ken,FL,The Villages FL
 KO4UHE,Rick,KY,Danville KY
 KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
@@ -3559,6 +3565,7 @@ N8TD,Tom,749,Dayton OH
 N8UM,John,1535,Oak Ridge TN
 N8UOA,JEFF,WV,WASHINGTON WV
 N8VAR,Ron,OH,Huber Heights OH
+N8VW,Pat,OH,Columbus OH
 N8WE,Glen,OH,Centerville OH
 N8XE,Jason,OH,Hilliard OH
 N8ZV,Bob,3257,Amherst OH
@@ -5299,6 +5306,7 @@ W6QA,Tony,CWA,Placerville CA
 W6QR,William,2449,Torrance CA
 W6QX,Steve,2870,San Marcos CA
 W6RGG,Bob,CA,Castro Valley CA
+W6RIF,Reed,VA,Virginia Beach VA
 W6RK,Risto,98,Hayward CA
 W6RKC,Rick,CA,Pine Grove CA
 W6RLL,Joe,2633,Mc Neal AZ
@@ -5700,6 +5708,7 @@ WB6POT,Peter,2923,San Jose CA
 WB6SCT,Jack,CA,South Gate CA
 WB6SEL,Vic,1534,Thousand Palms CA
 WB6TOU,Dave,1784,Lodi CA
+WB7BNE,Mark,IA,Cedar Rappids IA
 WB7BWZ,Bob,2629,Billings MT
 WB7DKZ,Andy,2052,Grayslake IL
 WB7DND,Steve,2169,Portland OR
@@ -6007,6 +6016,7 @@ ZS1I,Johan,,Heiderand South Africa
 ZS1X,Dirk,,(1106) Parklands Cape Town South Africa
 ZS2I,Johan,,Heiderand South Africa
 ZS4TX,Bernie,,Danhof SA
+ZS5PG,Matt,,Malvern Durban South Africa
 ZS5SJ,John,,Richards Bay South Africa
 ZS6AKU,Dirk,,Glenvista South Africa
 ZS6MSW,Mike,3247,South Africa
