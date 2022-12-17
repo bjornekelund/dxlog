@@ -2,7 +2,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2022-12-14 
+# 3-Last Edit,2022-12-16 
 # 4-Last updated from log of 
 # 5-This file is used for the following contest(s):
 # ARRLVHFJAN 
@@ -3428,7 +3428,7 @@ K2QO,,FN03,
 K2QR,,FN12,
 K2RB,,FN30,
 K2RD,,DM09,
-K2RET,,FM29,
+K2RET,Bob,FM29,
 K2RTH,,EL95,
 K2SI,DUANE,FN13,
 K2SMN,,FN20,
@@ -3777,7 +3777,7 @@ K6DBG,,DM07,
 K6DGW,,CM98,
 K6DTT/2,,FN22,
 K6DV,,DM13,
-K6EI,JIM,DN18,
+K6EI,JIM,CM87,
 K6ELE,,CM87,
 K6EP,,CM86,
 K6EU,,CM97,
@@ -5248,7 +5248,7 @@ N1EKV,,FN42,
 N1EO,BYRON,FN43,
 N1EU,,FN32,
 N1GN,,FN43,
-N1IBM,,FM29,
+N1IBM,,FN33,
 N1IMW,,FN42,
 N1IW,,FN42,
 N1IX,,FN42,
