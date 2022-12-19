@@ -20,7 +20,7 @@ BEGIN {
     if ($3 ~ /Name/) col = 2;
     if ($4 ~ /Name/) col = 3;
     if ($5 ~ /Name/) col = 4;
-      printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    # printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     nm = toupper($col)
     if ($1 ~ /^[0-9,A-Z]/ && nm ~ /^[A-Z]+$/) {
