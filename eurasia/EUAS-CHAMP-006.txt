@@ -1,9 +1,10 @@
 #
 # Current contest: EUAS-CHAMP
-# Last Edit,2022-02003
+# Last Edit,2022-12-22
 # Thanks to Nick NA3M new CH file
 # Send new info or corrections direct to ve2fk@arrl.net
 # EUAS-CHAMP
+# VHF_ARAM50
 !!Order!!, Call, Name, Loc1, UserText, 
 
 2E0BPP,,IO83ss
@@ -3482,7 +3483,7 @@ RA3ABG,,KO85vs
 RA3ABN,,KO95bl
 RA3AGF,,KO85so
 RA3AM,,KO85st
-RA3AN,,KO85su
+RA3AN,,KO86MC
 RA3ATX,,KO85ox
 RA3AWC,,KO85uq
 RA3BQ,,KO85sq
@@ -4603,7 +4604,7 @@ RZ1AXA,,KO59dw
 RZ1OA,,LP04gn
 RZ1OK,,KP93bv
 RZ1ZR,,KP69oe
-RZ2D,,KO85qv
+RZ2D,,KO86pe
 RZ3AIA,,KO85vr
 RZ3AMW,,KO85rt
 RZ3ARO,,KO85ut
@@ -4869,6 +4870,7 @@ SN2W,,JO94ej
 SN3R,,JO71ut
 SN4A,,JO94re
 SN4EE,,KO13ng
+SN5J,,KO02ml
 SN5L,,KO03aa
 SN5N,,KO11ew
 SN6A,,JO71xc
@@ -5380,7 +5382,7 @@ UA4HY,,LO43sj
 UA4LCH,,LO44de
 UA4LKT,,LO44hj
 UA4LKU,,LO44dh
-UA4LL,,LO44eg
+UA4LL,,LO43dv
 UA4LS,,LO44gi
 UA4M,,LO44wj
 UA4NBA,,LO48to

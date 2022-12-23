@@ -1,6 +1,7 @@
 # Database for RAEM International Contest
-# Data collected and maintained by Claude VE2FK ve2fk@arrl.net
-# Updated 2021-12-24
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2022-12-23
 2E0SUR=51N0W
 2E0ZSE=51N3W
 4K6FO=40N50O
@@ -1175,6 +1176,7 @@ UA4FER=53N45O
 UA4HAZ=53N49O
 UA4HGL=53N50O
 UA4IW=53N50O
+UA4LL=53N48O
 UA4LS=54N48O
 UA4LU=54N49O
 UA4M=54N50O

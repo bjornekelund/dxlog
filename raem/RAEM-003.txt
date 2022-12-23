@@ -1,7 +1,7 @@
 
 !!Order!!,Call,Exch1,UserText, 
 # 
-# Last Edit,2021-12-23
+# Last Edit,2022-12-22
 # Originally idea of UR7QM, coded by RA6YDX
 # RAEM 
 # Send any info, correction direct to ve2fk@arrl.net
@@ -1179,6 +1179,7 @@ UA4FER,53N45O,
 UA4HAZ,53N49O,
 UA4HGL,53N50O,
 UA4IW,53N50O,
+UA4LL,53N48O,
 UA4LS,54N48O,
 UA4LU,54N49O,
 UA4M,54N50O,
