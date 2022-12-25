@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls WFD-* | tail -1 2> /dev/null`
+FILE=`ls WFD_2* | tail -1 2> /dev/null`
 OUTFILE=WFD_db.txt
 
 echo Parsing $FILE
@@ -12,6 +12,7 @@ BEGIN {
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#4 Updated to 2023 RAC sections\n");
   col = 3;
 }
 {
@@ -29,7 +30,7 @@ BEGIN {
   } else {
 
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $class !~ /^\\d+[IOH]$/ && \
-      $sect ~ /^(DX|AB|AK|AL|AR|AZ|BC|CA|CO|CT|DE|EB|EMA|ENY|EPA|EWA|FL|GA|GTA|IA|ID|IL|IN|KS|KY|LA|LAX|MA|MAR|MB|MD|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NJ|NL|NLI|NM|NNJ|NNY|NT|NTX|NV|NY|OH|OK|ON|ONE|ONN|ONS|OR|ORG|PA|PAC|PE|PR|QC|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SK|SNJ|STX|SV|TN|TX|UT|VA|VI|VT|WA|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY|YT)$/) 
+      $sect ~ /^(MX|DX|AB|AK|AL|AR|AZ|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|IA|ID|IL|IN|KS|KY|LA|LAX|MB|MDC|ME|MI|MN|MO|MS|MT|NB|NC|ND|NE|NFL|NH|NL|NLI|NM|NNJ|NNY|NS|NTX|NV|OH|OK|ONE|ONN|ONS|OR|ORG|PAC|PE|PR|QC|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SK|SNJ|STX|SV|TER|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/) 
         printf("%s=%s;%s\n", $1, $class, $sect);
     else if ($0 !~ /^(!|#|$)/)
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
