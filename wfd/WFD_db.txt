@@ -1,7 +1,7 @@
 # Winter Field Day database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-12-25
+# Last updated 2022-12-26
 # Updated to 2023 RAC sections
 AA0RW=2I;MN
 AA1NC=1H;NC
@@ -141,6 +141,9 @@ AK4I=1H;TN
 AK4U=1H;KY
 AK4YS=1H;NC
 AL7JX=1H;AK
+G3WZD=1H;DX
+HK3C=1H;DX
+HK4OBA=1H;DX
 K04KJY=1H;TN
 K0AJW=1I;ND
 K0BCF=1O;MO
@@ -235,6 +238,7 @@ K3ES=1H;WPA
 K3EYK=1H;EPA
 K3FWD=1H;VA
 K3GWK=1H;GA
+K3HKI=2I;MDC
 K3JH=1H;EPA
 K3LT=1H;DE
 K3ORC=1H;NFL
@@ -812,6 +816,7 @@ KI5DDO=1H;STX
 KI5SIC=1H;STX
 KI7ILD=1H;OR
 KI7IOC=1O;OR
+KI7MNW=1H;WWA
 KI7N=1H;OR
 KI7RHJ=1O;AZ
 KI7TT=1O;WWA

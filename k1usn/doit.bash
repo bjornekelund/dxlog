@@ -36,7 +36,7 @@ BEGIN {
     }
     if (!bad && ($2 != "" || exch != "")) {
       if (call[$1] != "") {
-        printf("\"%s\" replaced by \"%s\"\n", line[$1], $0) > "/dev/stderr";
+        printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr";
       }
 
       line[$1] = $0;
