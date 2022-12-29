@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2022-12-14
+# Last Edit,2022-12-28
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -187,7 +187,7 @@ AB6UR,Dan,2315,Kerrville TX
 AB6XG,Rich,1754,Antioch CA
 AB6Z,Tom,1664,Picayune MS
 AB7MP,Mark,1350,Spokane WA
-AB8RL,Tom,WV,Scott Depot WV
+AB8RL,Tom,3287,Scott Depot WV
 AB7RW,Phil,2249,Vancouver WA
 AB8YZ,Joann,TX,Omaha TX
 AB9BZ,Dave,IL,Chicago IL
@@ -272,7 +272,7 @@ AD8J,John,1395,Asheville NC  (Possibly Remote)
 AD8J/HR9,John,1395,
 AD8WR,Dave,2857,Granger IN
 AD8Y,David,OH,Cleveland Heights OH
-AE0DX,Adam,,no info
+AE0DX,Adam,IA,IA
 AE0EE,Bill,MN,Minneapolis MN
 AE0P,Brian,1051,Yankton SD
 AE0Q,Glenn,2878,Arvada CO
@@ -928,7 +928,7 @@ G4PVN,Paul,,Billingham England
 G4RCG,John,2379,Wakefield England
 G4RGK,Dave,,Bucks England
 G4RMV,Mike,1614,Pershore England
-G4RQI,David,,West Yorkshire England
+G4RQI,Dave,3289,West Yorkshire England
 G4RTJ,Colin,2940,England
 G4RWD,Ken,2126,(CT7AGZ)  Barton-under-Needwood England
 G4SMB,Mike,2700,Yorkshire Englandd
@@ -1186,6 +1186,7 @@ JF1EGO,Kaku,,Tokyo Japan
 JF1NHD,INO,JA,Ibaraki Japan
 JF1TTN,Masa,,Wako-City Japan
 JF1UOX,Misa,3011,(NQ1J)  Kanagawa Japan
+JF2FIU,Yoshifumi,,Toyohashi Japan
 JF2IWL,Dai,,Takayama City Japan (CWOpen Reg 3 Mgr.)
 JF3KNW,Nobu,394,Kato City Japan
 JH1GNU,Shigeru,713,Kanagawa Japan
@@ -2351,7 +2352,7 @@ KC8J,Walt,2085,San Diego CA
 KC8UR,Tony,2278,Mount Vernon OH
 KC9EE,Gary,1240,Morton IL
 KC9FFV,Mark,TX,Forney TX
-KC9IL,Warren,IL,Buffalo Grove IL
+KC9IL,Warren,CWA,Buffalo Grove IL
 KC9JVB,Bob,2606,Vancouver WA
 KC9JYF,Tom,IL,Coal City IL
 KC9K,Dave,1875,Knoxville IL
@@ -2387,6 +2388,7 @@ KD2HE,Vic,2536,(VE3HEU)  New York NY
 KD2KW,Ken,2478,Oak Point TX
 KD2MLY,Joe,NY,Brooklyn NY
 KD2NEL,Sean,NY,Albany NY
+KD2NF,Jerry,NC,Raleigh NC
 KD2OMV,Peter,NY,Watertown NY
 KD2QDD,Don,2922,Saugerties NY
 KD2RKN,Jason,2919,Greenville SC
@@ -2416,7 +2418,7 @@ KD8NPA,Bill,OH,Bexley OH
 KD8RGW,Bud,3134,Westerville OH
 KD8RQE,Mike,1599,Coldwater MI
 KD8SAV,Gary,1089,Dayton OH
-KD9KHA,Andy,IL,Vandalia IL
+KD9KHA,Andy,CWAVandalia IL
 KD9LSV,Connor,IL,Decatur IL
 KD9LTN,Mike,IL,Coal Valley IL
 KD9OIN,Dan,IL,Aurora IL
@@ -2447,6 +2449,7 @@ KE3GK,Tom,3143,Glen Burnie MD
 KE3KK,Ron,MA,Boylson MA
 KE3X,Ken,460,Washington DC
 KE4D,John,1688,Lesburg FL
+KE4EA,Dave,SC,
 KE4KY,Tom,1763,Fisherville KY
 KE4RG,Ken,1765,Gretna VA (Possibly QRP) 
 KE4S,Dave,1508,Leesburg VA
@@ -2521,7 +2524,7 @@ KF9HE,Andy,IL,Tinley Park IL
 KF9SW,Victor,IN,Martinsville IN
 KF9VV,Jim,2452,Middleton WI
 KG0EW,Dave,2369,Louisville CO
-KG1V,George,3262,Merrimack NH
+KG1V,Geo,3262,Merrimack NH
 KG2GW,Greg,NJ,Mariton NJ
 KG3V,Tom,1034,White Stone VA
 KG4CRJ,Brian,2378,Stoneville NC
@@ -2592,6 +2595,7 @@ KI4XH,Fred,1206,Woodbridge VA
 KI5DDO,Joey,2950,Cedar Park TX
 KI5EE,Joe,LA,Lake Charles LA
 KI5IO,Nolan,2549,Plano TX
+KI5PED,Andy,TX,Houston TX
 KI5T,Wade,LA,Walker LA
 KI6M,Hans,2792,Cypress CA
 KI6NTB,Shin,CA,Huntington Beach CA (QRP)
@@ -3046,7 +3050,7 @@ N1AOK,Charlie,3050,Fort Collins CO
 N1BG,Fred,1030,Gibsonville NC
 N1CC,Mike,2817,Scottsdale AZ
 N1CCK,Nick,2710,Manchester CT
-N1CFO,Eric,VT,Burlington VT
+N1CFO,Erik,VT,Burlington VT
 N1CK,Nick,AZ,Payson AZ
 N1DC,Rick,1257,Braintree MA
 N1DC/4,Rick,1257,
@@ -4097,6 +4101,7 @@ PA2WLZ,Bert,,Helmond Netherlands
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands
+PA3BUD,Onno,1852,Rotherdam Netherlands
 PA3CNI,Willem,,Apeldoorn Netherlands
 PA3CWN,Oene,,Dokkum Netherlands
 PA3DBS,Peter,702,Halsteren Netherlands
@@ -4581,7 +4586,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,*** Joyeux Noel ***
+VE2FK,Dub,1181,*** Bonne Annee ***
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
@@ -4602,6 +4607,7 @@ VE2SRP,Simon,2144,(VE2ZM) St Joseph du Lac QC
 VE2SSS,Pete,QC,Jonquiere QC 
 VE2VAB,George,QC,Gatineau QC
 VE2VIA,Jean,QC,Chicoutimi QC
+VE2WRTC,DUB,QC,WRTC special event
 VE2WU,Marten,QC,Covey Hill
 VE2ZM,Simon,2144,(VE2SRP) St-Joseph-du-Lac QC
 VE3ABN,Les,1701,Mississauga ON (VE3NNT)
@@ -5752,6 +5758,7 @@ WC5W,Dwight,IN,Macy IN
 WC6Y,Ken,2155,Scotts Valley CA
 WC7Q,Sam,1226,Woodinville WA
 WC7S,Dale,404,College Drive Cheyenne WY
+WC9C,Dean,IL,
 WD0BC,Bill,MO,St. Joseph MO
 WD0END,Ron,3018,Chanhassen MN
 WD0T,Todd,SD,Pierre SD
