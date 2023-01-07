@@ -2,7 +2,7 @@
 #
 # ARRLRTTY
 # FTROUNDUP
-# Last Edit,2022-01-10
+# Last Edit,2023-01-04
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn/SM7IUN for corrections.
@@ -7211,7 +7211,7 @@ ND5S,,MI,
 ND6P,,CA,
 ND6S,RAY,CA,
 ND8DX,,OH,
-ND8L,RAY,OH,
+ND8L,RAY,FL,
 ND8N,PAUL,AZ,
 ND9E,BILL,IL,
 ND9G,MIKE,IL,

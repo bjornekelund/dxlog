@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2022-03-06 
+# Last Edit,2023-01-04 
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn SM7IUN for corrections.
@@ -10233,7 +10233,7 @@ ND6S,RAY,CA,
 ND7K,DAN,AZ, 
 ND8D,ANDY,OH, 
 ND8DX,ED,OH, 
-ND8L,RAY,OH, 
+ND8L,RAY,FL, 
 ND8N,PAUL,AZ, 
 ND9A,JOHN,IN, 
 ND9E,BILL,IL, 
@@ -10710,7 +10710,7 @@ NV5H,BRAD,TX,
 NV7A,,NV, 
 NV8N,BILL,MI, 
 NV8V,,IL, 
-NV9L,VAL,FL, 
+NV9L,VAL,IL, 
 NV9X,JIM,IL, 
 NV9Z,,IN, 
 NW0L,,MO, 
