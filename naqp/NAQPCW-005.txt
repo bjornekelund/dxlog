@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2022-12-31 
+# 1-Last Edit,2023-01-07 
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK
 # 4-Thanks Bob N7WY for CW-SSB update
@@ -3735,6 +3735,7 @@ K9MUG/4,ED,AL,
 K9MV,,IN,
 K9MY,JERRY,IL,
 K9NA,JOHN,AL,
+K9NN,DALE,IN,
 K9NR,DON,IL,
 K9NS,,IL,
 K9NU,,IL,
@@ -5099,6 +5100,7 @@ KD7JHO,PAUL,NV,
 KD7KNZ,WADE,WY,
 KD7LJ,,WA,
 KD7LX,CORY,WA,
+KD7MA,Howard,WA,
 KD7MSC,SEAN,OR,
 KD7MU,,WA,
 KD7OY,,WA,

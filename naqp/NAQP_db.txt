@@ -1,7 +1,7 @@
 # North American QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-01-02
+# Last updated 2023-01-08
 4U1WB=MASA;DC
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
@@ -3690,6 +3690,7 @@ K9MUG=ED;AL
 K9MV=;IN
 K9MY=JERRY;IL
 K9NA=JOHN;AL
+K9NN=DALE;IN
 K9NR=DON;IL
 K9NS=;IL
 K9NU=;IL
@@ -5052,6 +5053,7 @@ KD7JHO=PAUL;NV
 KD7KNZ=WADE;WY
 KD7LJ=;WA
 KD7LX=CORY;WA
+KD7MA=HOWARD;WA
 KD7MSC=SEAN;OR
 KD7MU=;WA
 KD7OY=;WA
