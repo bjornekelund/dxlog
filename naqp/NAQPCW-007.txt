@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2023-01-07 
+# 1-Last Edit,2023-01-10
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK
 # 4-Thanks Bob N7WY for CW-SSB update
@@ -1807,7 +1807,8 @@ K2SQS,,NJ,
 K2SSS,ZEE,NY,
 K2STO,,FL,
 K2SWZ,,NJ,
-K2SX,DENNIS,SC,
+# K2SX,DENNIS,SC,
+K2SX,LN,SC,
 K2SZ,,NJ,
 K2TC,TOM,NY,
 K2TD,,NJ,
@@ -2150,6 +2151,7 @@ K3YJP,,MD,
 K3YNY,RICK,MD,
 K3YP,RAY,OH,
 K3YQA,BILL,PA,
+K3Z,Fred,VA
 K3ZA,TONY,PA,
 K3ZD,,PA,
 K3ZE,,MD,
@@ -8989,6 +8991,7 @@ N9TZL,,IL,
 N9UA,MIKE,WI,
 N9UM,MARK,IL,
 N9UN,TONY,IN,
+N9UNX,Chad,IN,
 N9UPG,,IL,
 N9UPU,JOE,WI,
 N9UUR,GARY,WI,

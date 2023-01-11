@@ -2,18 +2,9 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-01-03
+# Last Edit,2023-01-099
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN for corr.
-AB8IT,TOM,MI,Howell MI
-K1IM,TOM,ME,Easton ME
-KA3MTY,PAUL,PA,Allentown PA
-KC4X,DAVE,NC,Clemmons NC
-KD5REW,DON,LA,Kentwood LA
-N3URO,LARRY,PA,Mechanicsburg PA
-N4OQV,BRUCE,FL,Jacksonville FL
-W1BCC/M,BRAD,MA,Winchester NH
-
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -201,6 +192,7 @@ AB6XG,Rich,1754,Antioch CA
 AB6Z,Tom,1664,Picayune MS
 AB7MP,Mark,1350,Spokane WA
 AB7RW,Phil,2249,Vancouver WA
+AB8IT,TOM,MI,Howell MI
 AB8YZ,Joann,TX,Omaha TX
 AB9BZ,Dave,IL,Chicago IL
 AB9PR,Rick,IL,Libertyville IL
@@ -1352,6 +1344,7 @@ K1GUP,Jerry,363,Carmel ME
 K1HTV,Rich,198,Amissville VA
 K1IFJ,Jack,CT,Ridgefield CT
 K1IG,George,2396,Wesford MA
+K1IM,TOM,ME,Easton ME
 K1IR,Jim,73,Sudbury MA
 K1IRF,Chris,
 K1IU,Bob,IA,Iowa City IA
@@ -2236,6 +2229,7 @@ KA3DRR,Scot,CA,ShellBeach CA
 KA3J,Ron,MD,Bethea MD
 KA3KRJ,ROBERT,
 KA3LXM,Jim,2294,Upper Mariboro MD
+KA3MTY,PAUL,PA,Allentown PA
 KA3NAM,Joe,KS,Olathe KS
 KA3NZR,Harry,VA,Ferrum VA
 KA3OCS,Bob,2108,Montross VA
@@ -2392,6 +2386,7 @@ KC4LE,Red,AL,Birmingham AL
 KC4T,Mark,2953,Atlanta GA
 KC4UCT,John,GA,Altanta GA
 KC4WQ,Bud,2440,Shepherdsville KY
+KC4X,DAVE,NC,Clemmons NC
 KC5BB,BRENT,OK,Edmond OK
 KC5F,Steve,NC,East Flat Rock NC
 KC5KWZ,John,LA,Metairie LA
@@ -2463,6 +2458,7 @@ KD5BKW,Abdul,LA,Metairie LA
 KD5DD,Doc,MS,Tupelo MS (Deep Dixie Contest Club)
 KD5HIZ,GREG,TX,Austin TX
 KD5J,Cord,2491,Batesville AR
+KD5REW,DON,LA,Kentwood LA
 KD5ZCQ,JOHN,TX,Atlanta TX
 KD7GOM,PAT,CWA,Concho AZ
 KD7HU,Charlie,3090,Billings MT
@@ -3311,6 +3307,7 @@ N3TM,Thayer,PA,Harmony PA
 N3TOD,Igor,MD,Gaithersburg MD
 N3TWM,Evan,PA,Bellefonte PA
 N3UA,Sejo,VA,Richmond VA
+N3URO,LARRY,PA,Mechanicsburg PA
 N3VO,Marc,3100,Potomac MD
 N3WT,John,185,Jefferson MD
 N3XA,Jim,2975,Staunton VA
@@ -3397,6 +3394,7 @@ N4OK,Bob,3023,Snellville GA
 N4ONR,LEO,SC,Kingstree SC
 N4OO,Brian,1045,Marietta GA
 N4OQV,BRUCE,
+N4OQV,BRUCE,FL,Jacksonville FL
 N4OX,Bill,1038,Mc David FL
 N4PD,Paul,663,Leesburg VA
 N4PFL,RICH,TN,Waynesboro TN
@@ -4980,6 +4978,7 @@ W1AO,Joe,125,Manchester ME
 W1ARY,marcel,CT,Wilton CT
 W1AST,LARRY,VT,Longmeadow MA
 W1AX,Roger,MA,Westwood MA
+W1BCC/M,BRAD,MA,Winchester NH
 W1CWT,,,New England CWops Club (Beverly MA)
 W1EBI,George,9,Acton MA  (Also VA2EBI)
 W1EBM,Gary,784,Brookline NH
