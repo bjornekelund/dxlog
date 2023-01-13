@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3291
-# Last updated 2023-01-11
+# Contains members up to #3292
+# Last updated 2023-01-13
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -32,6 +32,7 @@
 7X2TT=Abdel;2344
 7X3DA=Hamid;1676
 7Z1HL=Harry;HZ
+8P5A=Tom;8P
 8P9AA=Yuri;21
 8P9AL=Chuck;969
 8P9NX=Peter;8P
@@ -199,7 +200,7 @@ AC2IK=Frank;NY
 AC2KJ=Dima;1376
 AC3K=Pat;DC
 AC3LZ=Fred;DE
-AC3RA=Rich;PA
+AC3RA=Rich;CWA
 AC3U=Bill;1699
 AC4BT=Jerry;1148
 AC4CA=John;650
@@ -245,7 +246,7 @@ AD4ES=Chuck;2044
 AD4J=Jim;1144
 AD4N=Ray;2679
 AD4S=Pickett;487
-AD4TA=Tim;KY
+AD4TA=Tim;3292
 AD4TJ=TJ;1960
 AD4UM=Joe;2765
 AD5A/VP5=Mike;1415
@@ -1372,6 +1373,7 @@ K1QVX=Bob;CT
 K1QX=Craig;1358
 K1RC=John;MA
 K1RF=Steve;3003
+K1RH=Steve;1003
 K1RI=Bob;RI
 K1RID=Ed;2846
 K1RM=Vin;116
@@ -2158,6 +2160,7 @@ K9WX/M=Tim;1462
 K9WX=Tim;1462
 K9WZB=Gerry;AZ
 K9XE=Will;3196
+K9XR=Al;IL
 K9XV=Tom;FL
 K9XW=John;2807
 K9YC=Jim;69
@@ -2561,6 +2564,7 @@ KH6NO=JJ;3223
 KH6TU=Alan;217
 KH6Y=Bob;HI
 KH7Y=Fred;216
+KI0F=Roger;CWA
 KI0I=Mark;1187
 KI0KN=Jim;1995
 KI0T=Mark;MO
@@ -3019,6 +3023,7 @@ N0VRP=Chris;3149
 N0XC=Steve;WI
 N0XE=Jim;IA
 N0YY=Rick;1434
+N0ZIB=Adam;MO
 N1AE=John;MA
 N1AOK=Charlie;3050
 N1BG=Fred;1030

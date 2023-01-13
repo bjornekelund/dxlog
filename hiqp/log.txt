@@ -1,4 +1,4 @@
-Parsing ../naqp/NAQPCW-007.txt
+Parsing ../naqp/NAQPCW-009.txt
 Ignored: 7L1WII,SAM,,
 Ignored: 8P5A,TOM,,
 Ignored: 8P6AM,KEITH,,
@@ -39,7 +39,6 @@ Ignored: JH5PXJ,TOYO,,
 Ignored: K3WA/KP4,BILL,KP4,
 Ignored: K4PI,MIKE,FA,
 Ignored: K5OF,ED,NC 
-Ignored: K7ZQ,WALT,WA 
 Ignored: K9FD,MERV,HI,
 Ignored: K9FD/KH6,MERV,HI,
 Ignored: K9VV,FUBAR,VI,
@@ -113,6 +112,7 @@ Ignored: V31XX,BILL,V3,
 Ignored: V47UM,BILL,V4,
 Ignored: VA3GKO,GREG,ON 
 Ignored: W3ARS,,FS,
+Ignored: W3WHK,
 Ignored: W4KFC,VIC,MD 
 Ignored: W6DER,DEREK,CA 
 Ignored: W6GL,,SB,

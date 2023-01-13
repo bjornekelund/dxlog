@@ -1,7 +1,7 @@
 # Vermont QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-01-11
+# Last updated 2023-01-13
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -1874,6 +1874,7 @@ K3EP=VA
 K3EST=CA
 K3EW=MD
 K3FH=PA
+K3FI=PA
 K3FIV=CA
 K3FM=MS
 K3FMQ=PA
@@ -3266,6 +3267,7 @@ K7ZD=AZ
 K7ZI=UT
 K7ZO=ID
 K7ZOX=MT
+K7ZQ=WA
 K7ZS=OR
 K7ZSD=OR
 K7ZUM=OR
@@ -10353,6 +10355,7 @@ W0AG=TN
 W0AH=CO
 W0AIH=WI
 W0AJU=MO
+W0AK=IA
 W0AMT=NM
 W0ANH=MN
 W0AUS=MN
