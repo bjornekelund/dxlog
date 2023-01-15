@@ -1,7 +1,7 @@
 # New Hampshire QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-01-13
+# Last updated 2023-01-15
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -8888,6 +8888,7 @@ NA5U=TX
 NA5YO=TX
 NA6E=AZ
 NA6G=CA
+NA6JD=WA
 NA6M=TX
 NA6MB=CA
 NA6MG=CA
@@ -9579,6 +9580,7 @@ VA2FDT=QC
 VA2GU=QC
 VA2KD=QC
 VA2OP=QC
+VA2OT=QC
 VA2PHK=QC
 VA2QR=QC
 VA2RC=QC
@@ -12806,7 +12808,7 @@ WA1NTA=MA
 WA1OLV=MA
 WA1PFC=MA
 WA1PMA=FL
-WA1S=GA
+WA1S=FL
 WA1SIY=MA
 WA1SKQ=RI
 WA1SSU=CT
