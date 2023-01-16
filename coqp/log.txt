@@ -1,1 +1,8 @@
-./doall.bash: ./doit.bash: /bin/bash^M: bad interpreter: No such file or directory
+./doit.bash: line 4: $'\r': command not found
+Parsing ../naqp/NAQPCW-NEW.txt
+./doit.bash: line 7: $'\r': command not found
+gawk: cmd. line:9: fatal: cannot open file `../naqp/NAQPCW-NEW.txt' for reading: No such file or directory
+./doit.bash: line 32: $'\r': command not found
+Created COQP_db.txt
+./doit.bash: line 35: $'\r': command not found
+./doit.bash: line 36: $'exit\r': command not found
