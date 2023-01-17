@@ -1,0 +1,98 @@
+AB	VE6	Alberta
+AK	KL	Alaska
+AL	W4	Alabama
+AR	W5	Arkansas
+AZ	W7	Arizona
+BC	VE7	British Columbia
+CA	W6	California
+CO	W0	Colorado
+CT	W1	Connecticut
+DE	W3	Delaware
+DX	DX	Outside USA/Canada
+EB	W6	East Bay
+EMA	W1	Eastern Massachusetts
+ENY	W2	Eastern New York
+EPA	W3	Eastern Pennsylvania
+EWA	W7	Eastern Washington
+FL	W4	Florida
+GA	W4	Georgia
+GTA	VE3	Greater Toronto Area
+IA	W0	Iowa
+ID	W7	Idaho
+IL	W9	Illinois
+IN	W9	Indiana
+KS	W0	Kansas
+KY	W4	Kentucky
+LA	W5	Louisiana
+LAX	W6	Los Angeles
+MA	W1	Massachusetts
+MAR	VE1	Maritime (NS-PEI-NB)
+MB	VE4	Manitoba
+MD	W3	Maryland
+MDC	W3	Maryland District of Columbia
+ME	W1	Maine
+MI	W8	Michigan
+MN	W0	Minnesota
+MO	W0	Missouri
+MS	W5	Mississippi
+MT	W7	Montana
+NB	VE1	New Brunswick
+NC	W4	North Carolina
+ND	W0	North Dakota
+NE	W0	Nebraska
+NFL	W4	Northern Florida
+NH	W1	New Hamsphire
+NJ	W2	New Jersey
+NL	VO	Newfoundland and Labrador
+NLI	W2	New York Long Island
+NM	W5	New Mexico
+NNJ	W2	Northern New Jersey
+NNY	W2	Northern New York
+NS	VE1	Nova Scotia
+NT	VE8	Northwest Territories
+NTX	W5	North Texas
+NV	W7	Nevada
+NY	W2	New York
+OH	W8	Ohio
+OK	W5	Oklahoma
+ON	VE3	Ontario
+ONE	VE3	Ontario East
+ONN	VE3	Ontario North
+ONS	VE3	Ontario South
+OR	W7	Oregon
+ORG	W6	Orange
+PA	W3	Pennsylvania
+PAC	KH	Pacific
+PEI	VE1	Prince Edward Island
+PR	KP4	Puerto Rico
+QC	VE2	Quebec
+RI	W1	Rhode Island
+SB	W6	Santa Barbara
+SC	W4	South Carolina
+SCV	W6	Santa Clara Valley
+SD	W0	South Dakota
+SDG	W6	San Diego
+SF	W6	San Francisco
+SFL	W4	South Florida
+SJV	W6	San Joaquin Valley
+SK	VE5	Saskatchewan
+SNJ	W2	Southern New Jersey
+STX	W5	South Texas
+SV	W6	Sacramento Valley
+TN	W4	Tennessee
+TX	W5	Texas
+UT	W7	Utah
+VA	W4	Virginia
+VI	KP2	Virgin Islands
+VT	W1	Vermont
+WA	W7	Washington
+WCF	W4	West Central Florida
+WI	W9	Wisconsin
+WMA	W1	Western Massachusetts
+WNY	W2	Western New York
+WPA	W3	Western Pennsylvania
+WTX	W5	West Texas
+WV	W8	West Virginia
+WWA	W7	Western Washington
+WY	W7	Wyoming
+YT	VY1	Yukon Territory
