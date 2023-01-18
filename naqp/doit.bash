@@ -23,6 +23,13 @@ BEGIN {
       longest = $2;
     }
     printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
+  } 
+  else if ($1 ~ /^[A-Z0-9]/ && $3 ~ /^(VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|)$/) {
+    if (length($2) > maxlen) {
+      maxlen = length($2);
+      longest = $2;
+    }
+    printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
   }
   else if ($0 !~ /^(!|#|$)/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";

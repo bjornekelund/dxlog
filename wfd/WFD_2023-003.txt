@@ -1,6 +1,6 @@
 !!Order!!,Call,Sect,State,Exch1,UserText,	
 #	
-# LastEdit,2022-12-25	
+# LastEdit,2023-01-17	
 # Send new info or corrections direct to ve2fk@arrl.net	
 # This is only helping file, LOG what you receive.
 # Updated from log of VE2CSP 1124 Q	
@@ -1882,7 +1882,8 @@ WA5T,NC,,1H,
 WA5WRL,NTX,TX,3O,	
 WA6FSJ,ORG,CA,1H,	
 WA7NCL,WWA,WA,1H,	
-WA7UHD,WWA,WA,3I,	
+WA7UHD,WWA,WA,3I,
+WA7VC,WWA,WA,3O,	
 WA8AHZ,VA,,1H,	
 WA8MPA,SV,CA,1H,	
 WA8Q,OH,OH,2H,	
