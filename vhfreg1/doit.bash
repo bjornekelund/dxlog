@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE1=`ls VHF_U* | tail -1 2> /dev/null`
+#FILE1=`ls VHF_U* | tail -1 2> /dev/null`
 FILE2=`ls VHFREG* | tail -1 2> /dev/null`
 LOCAL=LOCAL.txt
 
@@ -12,24 +12,24 @@ dos2unix -q $FILE1 $FILE2
 echo  Creating 6-position grid database by parsing $FILE2
 
 # Equal sign separated file #1
-cat $FILE1 | gawk '
-BEGIN {
-  FS="=";
-  ignored = 0;
-}
-{
-  if ($1 ~ /^[0-9,A-Z\/]{3,}$/ && $2 ~ /^[A-R][A-R][0-9][0-9]([A-X][A-X])?$/)
-    printf("%s=%s\n", $1, $2);
-  else {
-    if ($2 != "" && $2 !~ /^[A-R][A-R][0-9][0-9]$/)
-      printf("Ignored in file #1: \"%s\"\n", $0) > "/dev/stderr";
-	ignored++;
-  }
-}
-END {
-  printf("%d calls ignored in file #1\n", ignored) > "/dev/stderr";
+# cat $FILE1 | gawk '
+# BEGIN {
+#   FS="=";
+#   ignored = 0;
+# }
+# {
+#   if ($1 ~ /^[0-9,A-Z\/]{3,}$/ && $2 ~ /^[A-R][A-R][0-9][0-9]([A-X][A-X])?$/)
+#     printf("%s=%s\n", $1, $2);
+#   else {
+#     if ($2 != "" && $2 !~ /^[A-R][A-R][0-9][0-9]$/)
+#       printf("Ignored in file #1: \"%s\"\n", $0) > "/dev/stderr";
+# 	ignored++;
+#   }
+# }
+# END {
+#   printf("%d calls ignored in file #1\n", ignored) > "/dev/stderr";
 
-}' > .tmp1
+# }' > .tmp1
 
 # Comma separated file
 cat $FILE2 | gawk '
@@ -73,7 +73,7 @@ BEGIN {
 }
 END {
   printf("#0 VHF/UHF 6-position grid data base\n");
-  printf("#1 Credits to VE2FK, HB9THU, and ES7GM\n");
+  printf("#1 Credits to VE2FK and HB9THU\n");
   printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in callist)
     printf("%s=%s\n", callist[c], gridlist[c]);
