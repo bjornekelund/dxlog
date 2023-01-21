@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,UserText,
 #
 # 0- VE2FK CW-RTTY Personal Names/Friends list
-# 1- Last Edit,2023-01-18 
+# 1- Last Edit,2023-01-20 
 # 2- Add your name, correction = direct to ve2fk@arrl.net
 # 3- Use  {NAME}  in macro to send.
 # 4- Thanks to Bob/N7WY for update
@@ -1037,7 +1037,6 @@ AI6IE,Step,Alta Loma  CA
 AI6O,Ed,Grain Valley MO
 AI6PW,Andrew,Berkeley CA
 AI6V,Wyatt,Lakewood CA
-AI6W,JON,CA 
 AI6W,JON,CA,Newcastle CA
 AI6XN,Amlan,Santa Clara CA
 AI6YL,SUE,CA
@@ -1364,7 +1363,6 @@ DF6FQ,Juergen,Kahl a Main Germany
 DF6JF,FRITZ,
 DF6RG,ROBERT,
 DF6RI,ALFRED,Happurg Germany
-DF6RI,Alfred,Happurg Germany
 DF6XK,REINER,
 DF6ZY,HEINZ,
 DF7EF,ULI,
@@ -4805,7 +4803,6 @@ K2MF,Barry,Lutz FL
 K2MGR,Kurt,Bainbridge NY
 K2MK,MIKE,FL
 K2MMO,Mike,Staten Island NY
-K2MN,STEVE,
 K2MN,STEVE,West Berlin NJ
 K2MRK,Mark,Melbourne FL
 K2MYQ,Bill,Princeton NJ
@@ -5227,7 +5224,6 @@ K4FB,PAUL,FL
 K4FCC,DOUG,FL
 K4FCG,OJ,FL
 K4FJ,JOHN,VA
-K4FJU,Hal,Greenboro NC
 K4FJU,HAL,Greensboro NC
 K4FJW,TOM,VA
 K4FN,Dan,Louisville KY
@@ -5614,7 +5610,6 @@ K5NY,STAN,TX
 K5NZ,Mike,Bedias TX
 K5O,MARK,OK
 K5OA,Russ,Murrieta CA
-K5OF,CHAS,
 K5OF,ED,NC 
 K5OGX,Phil,Fort Smith AR
 K5OH,HENRY,
@@ -5627,7 +5622,6 @@ K5PHB,Frank,Liberty Hill TX
 K5PI,Rob,Austin TX
 K5PK,STEVE,
 K5PP,Max,New Orleans LA
-K5QBX,FRED,
 K5QBX,FRED,Bella Vista AR
 K5QEA,SAM,OK
 K5QQ,JIM,MO
@@ -5648,7 +5642,6 @@ K5RT,Paul,Rowlett TX
 K5RZA,DEB,TX
 K5SFA,LARRY,
 K5SGE,PHIL,Southlake TX
-K5SGE,Phil,Southlake TX
 K5SNA,Larry,Harlingen TX
 K5SS,DAVE,TX
 K5TA,Scott,Corrales NM
@@ -6596,7 +6589,6 @@ KA0RID,MARION,KS
 KA0RTB,CATHY,Rochester MN
 KA0RYT,RON,MN
 KA0S,MATT,AL
-KA0SIX,LEO,
 KA0SIX,LEO,Kansas City KS
 KA0UEH,TOM,
 KA0WBP,DON,
@@ -6792,7 +6784,6 @@ KA9ALC,RON,
 KA9BHD,Bob,Bolingbrook IL
 KA9CAP,RON,
 KA9CAR,JOHN,Crystal Lake IL
-KA9CAR,John,Crystal Lake IL
 KA9CLP,MIKE,
 KA9DCU,RAY,Mt Horeb WI
 KA9DFW,EVERETT,
@@ -9945,8 +9936,7 @@ N1HD,CHRIS,NH
 N1HFI,CHARLEY,
 N1HLP,STEVE,
 N1HMR,DAVE,
-N1HN,Dus,Windsor ME
-N1HN,DUSTIN,Windsor ME
+N1HN,Dus,(Dustin) Windsor ME
 N1HOQ,SHAWN,
 N1HPF,LES,
 N1HRA,WILLIAM,
@@ -10677,8 +10667,7 @@ N4SKL,RANDY,
 N4SL,Steve,
 N4SN,Milt,
 N4SR,Todd,Knoxville TN
-N4SS,NICK,
-N4SS,TOM,KY 
+N4SS,Bryan,KY,Radio Ridge Contest Club 
 N4ST,JIM,VA
 N4SW,Walt,
 N4TAE,NICK,Theodore AL
@@ -12183,7 +12172,6 @@ NV1G,GREG,
 NV1U,Tom,The Villages FL
 NV1W,JOE,MA
 NV3N,Stu,Pennsylvania Furnace PA
-NV4C,IAN,GA 
 NV4C,IAN,GA,Roswell GA
 NV5F,Ginnie,Fort Worth TX
 NV5H,BRAD,TX
@@ -14677,7 +14665,6 @@ VA3FN,JOHN,ON
 VA3FV,Les,Mississauga ON (Also VE3ABN)
 VA3GE,John,Manotick ON
 VA3GGF,GREG,
-VA3GKO,GREG,
 VA3GKO,GREG,ON 
 VA3GL,DAVE,ON
 VA3GUY,GUY,ON
@@ -15740,7 +15727,6 @@ W0LAL,LAUREN,IA
 W0LCP,FLOYD,MN
 W0LDO,BILL,
 W0LGU,Tom,Center City MN
-W0LGU,TOM,MN
 W0LHS,BILL,
 W0LK,BOB,
 W0LM,MARK,MN
@@ -16208,7 +16194,6 @@ W2RTV,ROCCO,
 W2RTY,CG,
 W2RU,Bud,Old Forge NY
 W2SA,STEVE,NJ
-W2SCT,KEN,
 W2SCT,KEN,Valley Cottage NY
 W2SF,BOB,
 W2SKI,RICH,VA
@@ -16671,9 +16656,7 @@ W4JVN,Dave,
 W4KA,Dave,Anderson SC
 W4KAZ,KAZ,NC
 W4KEP,Chas,Blacksburg VA
-W4KFC,Ken,
-W4KFC,VIC,MD
-W4KFC,VIC,MD 
+W4KFC,VIC,MD,Clark Memorial ARC
 W4KFT,Nort,
 W4KIL,Andy,Hillsborough NC
 W4KLY,Paul,Stone Mountain GA
@@ -17098,7 +17081,6 @@ W6AEA/7,GEO,WA
 W6AFA,ALEX,CA
 W6AIM,Jim,Orange CA
 W6AMM,CA,
-W6AQ,Dave,
 W6AQ,DAVE,Dave Bell Memorial RC
 W6AT,Lanny,Big Bear Lake CA
 W6AWS,ANDY,CA
@@ -19169,7 +19151,6 @@ WN4R,Byron,Lady Lake FL
 WN5H,BILL,
 WN5V,Dave,Welsh LA
 WN6K,PAUL,CA
-WN6W,SAM,
 WN6W,SAM,OR 
 WN7ETQ,Carl,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,Centreville VA
