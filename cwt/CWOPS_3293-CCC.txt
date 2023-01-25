@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2023-01-13
+# Last Edit,2023-01-24
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -415,6 +415,7 @@ C92ZO,Mark,1224,N5ZO
 CA3FJK,Fernando,CWA,Santiago de Chilie
 CE2LR,Matt,2281,La Calera V Region Chile (Director)
 CE3CT,Roberto,2837,Santiago Chile
+CJ2X,DUB,QC,WPX special C/S
 CN8YR,Med,1656,Casablanca Morocco
 CO2IR,Frank,1147,La Habana Cuba
 CO2UE,Fred,,Habana Cuba
@@ -1155,6 +1156,7 @@ IZ3GOM,GAbrielle,,San Tomaso Agordino BL Italy
 IZ3IRJ,Al,,
 IZ3YPS,Guido,,Cadoneghe Italy
 IZ4AKO,Pierluigi,,Vigarano Mainarda Italy
+IZ4APU,Gabriele,,Bologna Italy
 IZ4ORF,Joi,,Parma Italy
 IZ5BBS,Renato,,Barberino Di Mugello Italy
 IZ7DJR,Nigo,,Foggia Italy
@@ -1240,7 +1242,7 @@ K0DXC,Cal,152,Jackson OH
 K0EHR,Mark,CO,Littleton CO
 K0EJ,Mark,2016,Hixson TN
 K0ERE,Bill,AZ,Sun City AZ/Winter
-K0ES,Gerry,CO,Englewood CO
+K0ES,Jerry,CO,Englewood CO
 K0EU,Ken,1113,Denver CO
 K0EX,Mark,667,Colorado Springs CO
 K0FG,Fred,1893,Sunrise Beach MO
@@ -2442,7 +2444,7 @@ KE3GK,Tom,3143,Glen Burnie MD
 KE3KK,Ron,MA,Boylson MA
 KE3X,Ken,460,Washington DC
 KE4D,John,1688,Lesburg FL
-KE4EA,Dave,SC,
+KE4EA,Dave,3293,spartanburg SC
 KE4KY,Tom,1763,Fisherville KY
 KE4RG,Ken,1765,Gretna VA (Possibly QRP) 
 KE4S,Dave,1508,Leesburg VA
@@ -2759,6 +2761,7 @@ KP4EJ,Carlos,1501,Salinas PR
 KP4JFR,Jose,PR,Trujillo Alto PR
 KP4JRS,Jose,3071,Trulillo PR
 KP4P,Tele,490,Ponce PR
+KP4PI,Jose,,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Possibly QRP) 
 KQ3H,Tony,NC,Greensboro NC
@@ -2840,6 +2843,7 @@ KW2A,Phil,MD,Severna Park MD
 KW4AU,Kyle,AL,Pleasant AL
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL
+KW4N,Tony,FL,Tallahassee FL
 KW4V,Les,FL,Casselberry FL
 KW4WA,Julio,2849,Royal Palm Beach FL
 KW5CW,Jim,2346,Anna TX
@@ -2930,6 +2934,7 @@ LZ5DB,Milen,2393,Kazanlak Bulgaria
 LZ5GB,Eugen,,Sofia Bulgaria
 LZ5PW,Vasy,,(Vassil)  Plovdiv Bulgaria
 LZ5R,Milen,LZ,Plovdiv Bulgaria  (LZ5DB)
+LZ5N,Boyko,2653,(LZ1HW) Burgas Bulgaria
 LZ5XQ,Steve,LZ,Burgas Bulgaria
 LZ9A,Andy,,LZ Contest Team Bulgaria
 M0AGA,Kevin,19,Sutton in Ahfield England
@@ -2971,6 +2976,7 @@ M4N,Mike,2511,(G4IZZ)  Cheltenham England
 M4T,Tim,2985,Shropshire England
 M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth)  St Neots England
+M5S,John,268,(G4IRN)  Thames Ditton England
 M6O,Dave,482,Okehampton England (G3WGN)
 M8A,Angel,2862,(M0HDF)  Birmingham England
 MD0CCE,Bob,552,Ramsey Isle of Man
@@ -3396,6 +3402,7 @@ N5YT,Guy,MS,Purvis MS
 N5YZ,Bill,TX,Fairview TX
 N5ZC,Rich,2153,Amarillo TX
 N5ZO,Mark,1224,Escondido CA
+N6AN,Rex,CA,Pasadena CA
 N6ARA,Ara,3185,Montrose CA
 N6BT,Tom,281,Kingman AZ
 N6BV,Dean,CA,San Francisco CA
@@ -3536,6 +3543,7 @@ N8FF,Ken,TN,Blountville TN
 N8FYL,John,MI,Troy MI
 N8GAS,Greg,MI,Bloomfield Hills MI
 N8HHG,Paul,OH,Northfield Center OH
+N8HM,Paul,DC,Washington DC
 N8HP,Ed,OH,Middletown OH
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
@@ -3795,6 +3803,7 @@ NO8C,Mike,OH,Miller City OH
 NP2/N3RD,Dave,232,US Virgin Islands
 NP2J,Dan,2267,Christiansted Virgin Islands
 NP2X,Fred,524,Christiansted VI
+NP2ZA,Zaba,1856,Jan 26 to Feb 5th
 NP3A,Eric,1112,San Juan PR
 NP3K,Abe,1238,(Charlie)  Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
@@ -4567,7 +4576,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,*** Bonne Annee ***
+VE2FK,Dub,1181,Eastern QC FN68
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
@@ -4580,6 +4589,7 @@ VE2KM,Tony,2424,Dollard-Des-Ormeaux QC
 VE2MF,Mario,2556,Victoriaville QC
 VE2MFD,Mark,QC,St-Eustace QC
 VE2NCG,Nick,QC,Montreal Nord QC
+VE2OXP,Klaus,QC,Matane sur Mer QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC
 VE2QA,Vlad,QC,Beaconsfield QC
@@ -5569,7 +5579,7 @@ WA4TT,John,1282,Wrightsville GA
 WA4WLI,Bob,874,Greenville AL
 WA4ZLK,Bruce,NC,Raleigh NC
 WA5BDU,Nick,1429,Russellville AR
-WA5LHM,Tom,TX,Georgetown TX
+WA5LHM,Scott,TX,Georgetown TX
 WA5LXS,Dennis,1836,Carrollton TX
 WA5OBV,Phil,OK,Stillwater OK
 WA5PFJ,John,1629,Midland TX

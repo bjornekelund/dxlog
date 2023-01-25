@@ -1,6 +1,6 @@
 !!Order!!,Call,Sect,State,Exch1,UserText,	
 #	
-# LastEdit,2023-01-17	
+# LastEdit,2023-01-23	
 # Send new info or corrections direct to ve2fk@arrl.net	
 # This is only helping file, LOG what you receive.
 # Updated from log of VE2CSP 1124 Q	
@@ -107,7 +107,7 @@ AE5MM,OK,OK,1H,
 AE6SF,SJV,CA,1I,	
 AE8M,OH,OH,1H,	
 AF1K,OH,OH,1H,	
-AF1R,MA,MA,1H,	
+AF1R,,MA,1H,	
 AF1US,TN,,1H,	
 AF3I,EPA,PA,1H,	
 AF3K,SFL,,1H,	
@@ -961,7 +961,8 @@ KU4FX,WCF,FL,1H,
 KU4YW,VA,,1H,	
 KU5Y,NTX,TX,1H,	
 KU6S,EB,CA,3O,South Bay ARA,	
-KU8T,IN,IN,1I,	
+KU8T,IN,IN,1I,
+KU9R,IN,IN,2O,Blown Fuses ARC	
 KU9Z,IL,IL,1O,	
 KV0I,NE,NE,1H,	
 KV4JW,KY,KY,1H,	
@@ -1268,7 +1269,7 @@ NA4J,NC,NC,1H,
 NA4O,GA,GA,1O,	
 NA5W,NTX,NTX,1H,The Colony TX,	
 NA6Q,LAX,CA,1H,	
-NA8W,WFL,,1H,	
+NA8W,WFL,FL,1H,	
 NA9PL,WI,,1I,	
 NB2R,NNJ,,1O,	
 NC1CC,RI,RI,2H,	
