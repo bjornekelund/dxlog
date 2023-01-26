@@ -1,6 +1,6 @@
 !!Order!!,Call,Sect,State,Exch1,UserText,	
 #	
-# LastEdit,2023-01-23	
+# LastEdit,2023-01-25	
 # Send new info or corrections direct to ve2fk@arrl.net	
 # This is only helping file, LOG what you receive.
 # Updated from log of VE2CSP 1124 Q	
@@ -1358,7 +1358,8 @@ VA3WW,ONE,,1H,Kingston ON,
 VA6MWA,AB,,1I,	
 VA7LEP,BC,,2I,	
 VE1HUL,NS,,1H,	
-VE1PVH,NS,,1O,	
+VE1PVH,NS,,1O,
+VE2CBS,QC,,1I,CRA de Sorel QC	
 VE2CRD,QC,,3O,CRA de Drummondville QC.,	
 VE2CRO,QC,,3I,CRA de L`Outaouais Gatineau QC,	
 VE2CSP,QC,,3H,Ass. Radioamateur de Portneuf QC.,	

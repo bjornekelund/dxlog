@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2023-01-24
+# Last Edit,2023-01-25
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -4684,6 +4684,7 @@ VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,David,MB,Winnipeg MB
 VE4EA,Cary,1828,Winnipeg MB
+VE4JBB,Jessy,MB,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,Bruce,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
@@ -5892,6 +5893,7 @@ WW0WWV,Eric,CO,Fort Collins WWV ARC
 WW2Y,Peter,NJ,Belle Mead NJ
 WW3S,Jim,2775,(Jamie)  Meadville PA
 WW4N,Tony,TN,Oak Ridge TN
+WW4SF,FOX,SC,Swamp Fox Contest Group SC
 WW4XX,Alex,GA,Emor Contest Club GA
 WW5W,Jeff,3115,Houston TX
 WW8D,Tom,3131,Salem VA
