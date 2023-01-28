@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2023-01-25
+# Last Edit,2023-01-26
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -2725,6 +2725,7 @@ KN6NVZ,Kevin,CA,Visalia CA
 KN6OMN,Don,3258,Fremont CA
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
+KN7Y,Jack,3294,Mesa AZ
 KN8CWO,,,Great Lakes CWops Club (Columbus OH)
 KN8U,Bruce,2297,Atlanta GA
 KN9X,Don,IL,Yorkville IL

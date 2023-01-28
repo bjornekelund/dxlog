@@ -1,6 +1,6 @@
 !!Order!!,Call,Sect,State,Exch1,UserText,	
 #	
-# LastEdit,2023-01-25	
+# LastEdit,2023-01-27	
 # Send new info or corrections direct to ve2fk@arrl.net	
 # This is only helping file, LOG what you receive.
 # Updated from log of VE2CSP 1124 Q	
@@ -357,7 +357,7 @@ K5LRW,NM,NM,4I,
 K5LY,NTX,TX,1H,	
 K5MI,SFL,,4O,	
 K5NEA,AR,AR,3O,Northeast Arkansas RC,	
-K5O,OK,TX,3I,	
+K5O,OK,OK,3I,	
 K5OJ,STX,TX,1O,	
 K5OQ,STX,TX,3I,Bastrop Cty ARC,	
 K5OY,STX,TX,1H,	
@@ -454,7 +454,7 @@ K8NU,OH,OH,1H,
 K8NYG,WV,WV,1H,	
 K8OD,MI,,1H,	
 K8QIK,OH,OH,5O,Lancaster & Fairfield Cty ARC,	
-K8RGI/4,SFL,FL,1H,	
+K8RGI,OH,OH,1H,	
 K8RJW,OH,OH,1H,	
 K8RO,MI,MI,1H,	
 K8RXB,MI,MI,1H,	

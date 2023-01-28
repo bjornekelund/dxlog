@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2023-01-03 from log of VE2CQ VE2FK
+# 1-Last Edit,2023-01-26 from log of VE2CQ VE2FK
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Thanks to:
 # 4-This file is used for the following contest(s):
@@ -10161,6 +10161,7 @@ W4DU,BEN,GA,
 W4DUK,DAVE,VA,
 W4DUP,,TN,
 W4DVG,GEORGE,TN,
+W4DWS,DENNIS,GA,
 W4DXX,ERIC,GA,
 W4EB,,GA,
 W4EBA,,FL,
