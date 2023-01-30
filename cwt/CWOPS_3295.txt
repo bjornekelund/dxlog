@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2023-01-26
+# Last Edit,2023-01-29
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -3545,6 +3545,7 @@ N8FYL,John,MI,Troy MI
 N8GAS,Greg,MI,Bloomfield Hills MI
 N8HHG,Paul,OH,Northfield Center OH
 N8HM,Paul,DC,Washington DC
+N8HN,Stan,3295,Ortonville MI
 N8HP,Ed,OH,Middletown OH
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
