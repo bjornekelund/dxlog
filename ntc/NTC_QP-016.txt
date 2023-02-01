@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2023-01-29
-# Last number listed 194
+# Last edit,2023-01-31
+# Last number listed 196
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -100,6 +100,7 @@ ON6QS,Gil,151,
 ON7DQ,Luc,98,
 ON8VA,Chris,26,
 ON8WR,Ward,152,
+ON9TT,Marc,196,
 OS4U,David,185,
 OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,
@@ -173,6 +174,7 @@ PA4WM,Martin,23,
 PA4Y,Teo,189,
 PA50AGCW,NTC,50,
 PA5ABW,AB,52,(Albert)
+PA5FN,Hans,195,
 PA5JW,Jan,142,
 PA5KT,Henk,56,
 PA5Z,Kees,93,
