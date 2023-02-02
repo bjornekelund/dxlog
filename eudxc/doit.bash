@@ -14,16 +14,19 @@ BEGIN {
   call = $1;
   reg = toupper($2);
   lineok = call ~ /[0-9,A-Z]{3,}/ && reg ~ /^[A-Z]{2}[0-9]{2}$/
-  if (substr($0,1,1) == "#")
+  if ($0 ~ /^#/) {
     printf("%s\n", $0);
-  else if (lineok && call != prevcall)
+  }
+  else if (lineok && call != prevcall) {
     printf("%s=%s\n", call, reg);
- else
+  }
+ else {
     printf("%s %s\n", call == prevcall ? "Dupe   :" : "Ignored:", $0) > "/dev/stderr";
+ }
   prevcall = call;
 }
 END {
-}' $OUTFILE
+}' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
