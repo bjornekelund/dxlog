@@ -13,7 +13,7 @@ BEGIN {
 {
   call = $1;
   reg = toupper($2);
-  lineok = call ~ /[0-9,A-Z]{3,}/ && reg ~ /^[A-Z]{2}[0-9]{2}$/
+  lineok = call ~ /[0-9A-Z]{3,}/ && reg ~ /^[A-Z]{2}[0-9]{2}$/
   if ($0 ~ /^#/) {
     printf("%s\n", $0);
   }
