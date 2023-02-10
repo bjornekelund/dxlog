@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2023-02-01
+# Last Edit,2023-02-09
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -206,7 +206,7 @@ AC2IK,Frank,NY,Cheektowaga NY
 AC2KJ,Dima,1376,East Setauket NY
 AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
-AC3RA,Rich,CWA,Pittsburgh PA
+AC3RA,Rich,3300,Pittsburgh PA
 AC3U,Bill,1699,St Marys City MD (W3UL Remote)
 AC4BT,Jerry,1148,Herndon VA  (CW Academy Mgr.)
 AC4CA,John,650,Fredericksburg TX
@@ -369,6 +369,7 @@ AI6PW,Andrew,CA,Berkeley CA
 AI6V,Wyatt,2242,Lakewood CA
 AI6W,Jon,3184,Newcastle CA
 AI6XN,Amlan,CA,Santa Clara CA
+AI7DK,Ronnie,3296,Ennis MY
 AI8Z,Mike,CO,Cortez CO
 AJ1AJ,AJ,3084,(Andrew)  Amherst NH
 AJ1DM,John,1973,Westerly RI
@@ -544,6 +545,7 @@ DL1ONI,Olli,,Ingolstadt Germany
 DL1QQ,Sandy,1581,Hoexter Germany
 DL1REM,Frank,2382,Schoeppingen Germany
 DL1RNN,Lutz,,Wolfsburg Germany
+DL1ROT,Tom,,Muencheberg Germany
 DL1VDL,Hardy,DL,Dresden Germany
 DL1XX,Klaus,,Spechbach Germany
 DL2ANM,Heinz,,Altenburg Germany
@@ -565,6 +567,7 @@ DL3DXX,Mar,1164,Pirna-Jessen Germany
 DL3GJ,Greg,,Bad Oldesloe Germany
 DL3MXX,Olaf,,Nr. Munchen Germany
 DL3NAA,Peter,,Kehl Germany
+DL3NEY,Flo,,Burgebrach Germany
 DL3PB,Peter,,Krefeld Germany
 DL3RDM,Max,,Essesbach Germany
 DL3TM,Toby,2921,Fulda Germany
@@ -611,6 +614,7 @@ DL7FAZ,Karl,,Lampertheim Germany
 DL7HU,Wolf,,Berlin Germany
 DL7JV,Jan,,Berlin Germany
 DL7LPH,Peter,,Glueckstadt Germany
+DL7PV,Achim,,Berink
 DL7SBV,Ben,,Schwaebisch Gmuend Germany
 DL7SX,Ruedi,,Berlin Germany
 DL7UC,Dirk,,Berlin Germany
@@ -1049,6 +1053,7 @@ HB9FBP,Francesco,,Lugano Switzerland
 HB9FIR,Clay,598,Oriolo Romano Italy
 HB9GCE,Carl,,Schwarzsee Switzerland
 HB9HDV,Yoshi,,Bernex Switzerland
+HB9HSX,Tony,3298,Porza Switzerland
 HC2AO,Alex,,Guayaquil Ecuador
 HC2TDZ,Yuri,21,Ecuador (VE3DZ)
 HF1D,Jerzy,,Szczecin Poland
@@ -1285,7 +1290,6 @@ K0PD,Dave,2035,Black Hawk CO
 K0PFX,Mel,271,Bridgeton MO
 K0PGE,Ron,1712,Laguna Niguel CA
 K0PK,Paul,2233,Eveleth MN
-K0PV,Don,CO,(1823)  Aurora CO
 K0RAR,Rob,KS,Richmond KS
 K0RC,Bob,3290,Choisago City MN
 K0RF,Chuck,887,Longmont CO
@@ -1543,6 +1547,7 @@ K3FCG,OJ,FL,Brooksville CC Tampa FL
 K3FH,Mike,2516,Wexford PA
 K3FX,Charlie,NJ,Bradley Beach NJ
 K3GBB,George,2612,Mount Airy MD
+K3GG,Ben,3301,Quakertown PA
 K3GHH,John,1212,Towson MD
 K3GHH/2,John,1212,Newcomb NY
 K3GHH/5,John,1212,
@@ -1668,6 +1673,7 @@ K4JQV,Jake,AR,Rogers AR
 K4JTA,Jim,KS,Ozawkie KS
 K4KIR,Matt,FL,Dunnellon FL
 K4KO,Greg,2814,Lebanon TN
+K4KRW,Rich,SC,Charlotte NC
 K4KSR,Bill,2107,Chesterfield VA (Full time QRP)
 K4KVC,Ken,FL,The Villages FL
 K4KZ,Lon,NC,Matthews NC
@@ -2304,6 +2310,7 @@ KC0TVD,Chris,IA,Leighton IA
 KC0UDT,Matt,MO,Troy MO
 KC0URL,Ray,1872,Plymouth MN
 KC0VKN,Joe,635,Iowa City IA
+KC0WEA,Tony,CWA,Colorado Springs CO
 KC0WHR,Gary,MO,Strafford MO
 KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
@@ -2479,6 +2486,7 @@ KE8EAS,Josh,OH,Athens OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
+KE8NJW,Jeff,3297,Delaware OH
 KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
@@ -2585,6 +2593,7 @@ KI0KN,Jim,1995,Loveland CO
 KI0T,Mark,MO,Clinton MO
 KI1U,Mike,2327,Cheshire CT
 KI2N,Mark,2730,La Fayette NY
+KI3C,Terry,VA,Clifton VA
 KI3F,Denny,2008,Harrisburg PA
 KI4EZL,Steve,NC,Fayetteville NC
 KI4FW,Rick,VA,Arlington VA
@@ -3082,6 +3091,7 @@ N1QD,Joe,3278,Belmont MA
 N1RBD,Rich,2983,Duluth GA
 N1RM,Rick,2659,Reston VA
 N1RO,Dave,3019,Hingham MA
+N1RO/C6A,Dave,3019,
 N1RR,Charlie,2631,Seekonk MA
 N1SNB,Jeff,2748,Haverhill MA
 N1SP,Randy,3026,Bennington VT
@@ -3248,6 +3258,7 @@ N4DW,Dave,923,Kingsport TN
 N4EEB,John,2335,Astor FL
 N4EEV,Mike,1600,Richmond Hills GA
 N4EII,Al,2291,Cary NC
+N4EL,Nat,OH,Tipp City OH
 N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
@@ -3556,6 +3567,7 @@ N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
 N8KH,Ken,FL,Melbourne FL
 N8KMY,Craig,MI,Kalkaska MI
+N8KOM,Steve,MI,Royal Oak MI
 N8KR,Ken,IN,New Haven IN
 N8LA,Lou,1339,St-Louis MO
 N8LJ,Lee,MI,Metamora MI
@@ -3584,6 +3596,7 @@ N9CB,Larry,TN,Watertown TN
 N9CD,Larry,MN,Lacrescent MN
 N9CK,Steve,1287,Madison WI
 N9CO,Charlie,357,Sycamore IL
+N9CIQ,Jay,WI,Altoona WI
 N9CX,Bill,OH,Gahanna OH
 N9DJ,John,IL,Harvard IL
 N9EAW,Tom,WI,New Berlin WI
@@ -5524,7 +5537,7 @@ W9ZR,Randy,740,Galena OH
 W9ZSJ,Geo,3106,Kildeer IL
 W9ZV,Bob,IL,Bolingbrook IL
 WA0BJR,Don,MO,Springfield MO
-WA0I,Randy,MO,Marshall MO
+WA0I,Randy,3299,Marshall MO
 WA0JZK,Larry,MO,Springfield MO
 WA0MHJ,Mark,MN,Ham Lake MN
 WA0NLK,Phil,CO,Canon City CO
