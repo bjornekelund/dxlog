@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2023-02-07 
+# Last Edit,2023-02-13 
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn SM7IUN for corrections.
@@ -1056,6 +1056,7 @@ C6ARU,,,99,
 C6AUM,,,99,
 CE2MVF,,,K,
 CE3CT,,,K,
+CJ2X,DUB,QC,
 CM8NMN,,,30,
 CN8KD,,,100,
 CN8WW,,,100,
@@ -8053,7 +8054,8 @@ N0UA/0,VINCE,CO,
 N0UAG,,ND, 
 N0UCR,MIKE,SD, 
 N0UD,,ND, 
-N0UGY,,CO, 
+N0UGY,,CO,
+N0UI,TIM,MO, 
 N0UJJ,TIM,MN, 
 N0UJT,ANDREW,NE, 
 N0UK,CHRIS,MN, 
