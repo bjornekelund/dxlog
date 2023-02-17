@@ -1,6 +1,6 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2023-02-07
+# Last Edit,2023-02-16
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # The file will be updated as soon as info come in.
@@ -18,7 +18,7 @@ GU5WS,,HQ,
 GW5WS,,HQ,
 GB5CC,,HQ,
 
-VA2RAC,,HQ,RAC QC Canada 
+VA2RAC,,HQ,RAC QC Canada (2022)
 VA3RAC,,HQ,RAC ON Canada 
 VE5RAC,,HQ,RAC SK Canada 
 VE7RAC,,HQ,RAC BC Canada 
@@ -36,36 +36,33 @@ VK6WIA,,Peter,(VK6RZ)
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
-#------------------------------------------------------
 # Team Quake Contesters (2023)
 ZL3PAH,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
 ZL2RX,Don,Team Quake Contesters Nelson New Zeland
 ZL3AB,MARK,Team Quake Contesters Christchurch New Zeland
 ZL3GA,Geoff,Team Quake Contesters Kaiapoi New Zeland
-ZL3MDC,Din,Team Quake Contesters Kaiapoi New Zeland
-
-#------------------------------------------------------
-
+ZL4RA,Richard,Team Quake Contesters Queenstown New Zeland
 
 # Expedition + World Traveller Plus Team
 ZF2CA,Collin,Grand Cayman (2023)
 5B/G3VYI,Mike,,(2023)
 9G5XA,Alan,Ghana (2023)
 
+# (2022)
 8P6DR,Dick,(G3RWL) Barbados - World Travellers Plus
 C56DF,Don,(G3XTT) The Gambia -  World Traveller Plus Team
 V31GX,Ian,(G4SGX) Belize - World Traveller Plus Team
 VP2M,Allen,(N2KW) Monserrat 
 ZF2CA,Colin,(G4CWH) Captain - Savannah - World Traveller Plus Team
 
-# Team Grimsby Mariners
+# Team Grimsby Mariners (2022)
 G3TBK,Dave,Team Grimisby Mariners - nr. Sleaford,
 G3RXP,Dave,Team Grimisby Mariners - Caister Top,
 G3SJJ,Chris,Team Grimisby Mariners - nr. Nottingham,
 G4EBK,George,Team Grimisby Mariners - Grimsby
 G8AJM,Chris,Team Grimisby Mariners - Louth
 
-# Team Balunmasters
+# Team Balunmasters (2022)
 G3VYI,Mike,(Captain)  Team Balunmasters  -  Farnham England 
 G3WRR,Quin,Team Balunmasters  -  South Norwood London England  
 G4WGE,Alun,Team Balunmasters  -  Surbiton England  
@@ -78,35 +75,34 @@ VE1ANU,Mike,Team Atlantic A1A's  -  Eastern Passage NS
 VE1ZA,Tony,Team Atlantic A1A's  -  Hammonds Plains NS
 VA1MM,Al,Team Atlantic A1A's  -  Bedford NS (also VE1AWP)
 
-# Australia Team 2
-VJ3A,Steve,(VK3JA)  Australia's Team 2 - Elliminyt Australia
-VK2PN,Patrick,(Captain) Australia's Team 2  -  Black Head Australia
-VK6HG,Rob,Australia's Team 2  -  Western Australia
-VK2BJ,Barry,Australia's Team 2  -  St Ives
-VL6M,Phil,(VK6GX)  Australia's Team 2 - Gidgegannup Australia
+# Australia Team 2 (2023)
+VK7BO,Alan,Australia Team 2 - Riverside Australia
+VJ3A,Steve,(VK3JA) Australia Team 2 - Elliminyt Australia
+VL6M,Phil,(VK6GX) Australia Team 2 - Gidgegannup Australia
+VK2PN,Patrick,Australia Team 2 - Black Head Australia
 
-# Australia Team 1 
-VK6T,Kev,(VK6LW) Team 1 Australia  -  Glen Forrest 
-VK4SN,Alan,Team 1 Australia  - Glenore Grove Australia
-VK7BO,Alan,Team 1 Australia  - Riverside Australia
-VK2GR,Allan,Team 1 Australia  -  Ulladulla
-VL6T,Steve,(VK6VZ) (Captain) Team 1 Australia  -  Glen Forrest
+# Australia Team 1 (2023)
+VK6T,Kev,(VK6LW) Australia Team 1 - Glen Forrest Australia
+VK2GR,Allan,Australia Team 1 - Ulladulla Australia
+VK4SN,Alan,Australia Team 1 - Glenore Grove Australia
+VK2BJ,Barry,Australia Team 1 - St Ives Australia
+VK6VZ,Steve,Australia Team 1 - Glen Forrest Australia
 
-# Team Essex CW ARC
+# Team Essex CW ARC (2022)
 G4PVM,Paul,Team Essex CW ARC  -  Essex England
 G8CW,Andy,(G0IBN)  Team Essex CW ARC  -  Maldon England
 M5D,Dean,Team Essex CW ARC  -  Witham Essex England
 G3G,Ray,(G3XLG) Team Essex CW ARC  -  Suffolk England
 M4J,Jon,Team Essex CW ARC  -  Near Ipswich England
 
-# Team IVARC Veterans
+# Team IVARC Veterans (2022)
 G3OTK,Rich,Team IVARC Veterans  -  Hampshire England
 G3XSD,Graham,Team IVARC Veterans  -  nr. Southampton England
 G4GBP,Collin,Team IVARC Veterans  -  Fordingbridge England
 G8XEV,Steve,Team IVARC Veterans  -  Romsey England
 
 
-# Marborough Team
+# Marborough Team (2022)
 ZL3VZ,Bill,(Captain) Marborough Team - Blenheim New Zealand 
 ZL2GVA,Gerard,Marborough Team - Blenheim New Zealand
 ZL1AZB,RD,Marborough Team - Te Kuiti New Zealand

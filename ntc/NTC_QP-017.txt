@@ -221,7 +221,7 @@ PG4I,JO,2,
 PG6F,Dick,97,
 PG6NTC,JO,100,NTC Special Event Call
 PG7R,Ronald,61, 
-PI4NTC,200,NTC Club Station
+PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
 S58MU,Milan,66,
 SO5CW,Fabian,99 ,
@@ -241,4 +241,4 @@ WZ4M,Tom,149,
 YL3JD,Hanz,11,
 YO6EX,Sico,94,
 YO8DOH,Stefan,60,
-ZZ00ZZ last line of text
+
