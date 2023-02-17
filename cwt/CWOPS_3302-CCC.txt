@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # CWOPS
 # CWops Call History for N1MM+ for use during a CWT
-# Last Edit,2023-02-09
+# Last Edit,2023-02-17
 # Provide content updates to this .txt file to ve2fk@arrl.net 
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Tnx N7WY KG5U K9ZO N3JT K3WJV K7SV SM7IUN N7US W6TN N5KD
@@ -1054,12 +1054,14 @@ HB9HDV,Yoshi,,Bernex Switzerland
 HB9HSX,Tony,3298,Porza Switzerland
 HC2AO,Alex,,Guayaquil Ecuador
 HC2TDZ,Yuri,21,Ecuador (VE3DZ)
+HD8M,Bob,1796,(KE2D)  Galapagos
 HF1D,Jerzy,,Szczecin Poland
 HG1G,Gus,,Hungary
 HG2DX,Joe,,Szechenyi Utca Hungary
 HG8C,Tami,,Sleged Hungary
 HH2AA,,,Radio Club d'Haiti (Remote)
 HI3CC,Tino,HI,Dominican Repuplic
+HI3K,Tino,HI,Santiago Dominican Republic
 HK1AR,Tony,,Columbia
 HK3CQ,Juan,888,Miami FL USA
 HK3CW,Roberto,877,Miami FL USA
@@ -3453,6 +3455,7 @@ N6MA,Paul,2422,Flagstaff AZ
 N6MJ,Dan,2164,Fullerton CA
 N6ML,Mike,CA,Brentwood CA
 N6MST,Mike,CA,Bakersfield CA
+N6MVS,Vic,
 N6NC,Lars,1290,La Jolla CA
 N6NF,Tom,2011,Woodside CA
 N6NR,Rich,WA,Tieton WA
@@ -4875,6 +4878,7 @@ W0VX,Dave,967,Garland TX
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
 W0XM,Bob,KS,Shawnee KS
+W0ZA,Greg,CO,Castle Rock CO
 W0ZP,Wayne,IN,South Bend IN
 W1AAX,Harry,MA,Scituate MA
 W1AGE,Carl,CWA,Framingham MA
@@ -5110,6 +5114,7 @@ W4FOA,Tony,229,Chickamauga GA
 W4FS,Tucker,NC,Efland NC
 W4GD,John,FL,The Villages FL
 W4GFA,George,SC,Walhalla SC
+W4GHV,Bo,NC,Concord NC
 W4GJ,Bob,FL,Gainesville FL
 W4GNS,Gary,VA,Penhook VA
 W4GS,Jason,SC,Grand Strand ARC
@@ -6005,6 +6010,7 @@ ZB2CW,Derek,,Gibraltar
 ZB2FK,Tito,3244,Gibraltar 
 ZB2X,Jorma,144,Gibraltar
 ZD8W,Oli,,Ascension Island (W6NV)
+ZF1MA,Marty,2276,Cayman Isl.(NN1C, Marty Sullaway)
 ZF2AA,Mike,1347,VE9AA
 ZF2DO,Dave,TX,Alpine TX
 ZF2DX,Kevin,1293,Cayman Isl. (N5DX)

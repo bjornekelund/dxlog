@@ -4831,7 +4831,7 @@ VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,David,MB,Winnipeg MB
 VE4EA,Cary,
 VE4MR,Kevin,1587,Brandon MB
-VE4SF,Bruce,2978,Winnipeg MB
+VE4SF,AB,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
 VE4XT,Kellu,2795,Winnipeg MB
 VE4YL,Dave,MB,Winnipeg MB

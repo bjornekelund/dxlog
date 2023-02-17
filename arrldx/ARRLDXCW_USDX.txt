@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2023-02-13 
+# Last Edit,2023-02-17 
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn SM7IUN for corrections.
@@ -525,7 +525,6 @@ AC3GB,SCOTT,PA,
 AC3P,FRANK,MD, 
 AC3U,BILL,MD, 
 AC4BT,JERRY,VA, 
-AC4CA,JOHN,TX, 
 AC4D,,TX, 
 AC4DH,DENNIS,SC, 
 AC4DP,DAVE,GA, 
@@ -1818,6 +1817,7 @@ HB9TSW,,,KW,
 HC1WBT,,,100,
 HC2AO,,,100,
 HC5DX,,,K,
+HD8M,Bob,,100,
 HF0DKI,,,100,
 HG0R,,,KW,
 HG0Y,,,KW,

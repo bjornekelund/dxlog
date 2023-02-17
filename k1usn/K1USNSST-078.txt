@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-02-14
+# 1-Last Edit,2023-02-17
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -378,7 +378,6 @@ AC3SS,SERGIO,MD,Crofton MD
 AC3U,BILL,CA,
 AC4BN,DAVE,VA,Lexington VA
 AC4BT,JERRY,VA,
-AC4CA,JOHN,TX,
 AC4D,,TX,
 AC4DP,DAVE,GA,
 AC4FZ,WALLY,NC,Lillington NC
@@ -9021,7 +9020,7 @@ VE4JBB,JESSY,MB,
 VE4JC,JIM,MB,
 VE4MR,KEVIN,MB,Brandon MB
 VE4PL,RON,MB,
-VE4SF,Bruce,MB,Winnipeg MB
+VE4SF,AB,MB,Winnipeg MB
 VE4VJR,JOHN,MB,
 VE4VT,ED,MB,
 VE4VV,DEREK,MB,

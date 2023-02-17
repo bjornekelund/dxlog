@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3302
-# Last updated 2023-02-16
+# Last updated 2023-02-17
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1045,11 +1045,13 @@ HB9HDV=Yoshi;HB
 HB9HSX=Tony;3298
 HC2AO=Alex;HC
 HC2TDZ=Yuri;21
+HD8M=Bob;1796
 HF1D=Jerzy;SP
 HG1G=Gus;HA
 HG2DX=Joe;HA
 HG8C=Tami;HA
 HI3CC=Tino;HI
+HI3K=Tino;HI
 HK1AR=Tony;HK
 HK3CQ=Juan;888
 HK3CW=Roberto;877
@@ -3437,6 +3439,7 @@ N6MA=Paul;2422
 N6MJ=Dan;2164
 N6ML=Mike;CA
 N6MST=Mike;CA
+N6MVS=Vic;
 N6NC=Lars;1290
 N6NF=Tom;2011
 N6NR=Rich;WA
@@ -4856,6 +4859,7 @@ W0VX=Dave;967
 W0XE=Don;KS
 W0XI=Phil;KS
 W0XM=Bob;KS
+W0ZA=Greg;CO
 W0ZP=Wayne;IN
 W1AAX=Harry;MA
 W1AGE=Carl;CWA
@@ -5090,6 +5094,7 @@ W4FOA=Tony;229
 W4FS=Tucker;NC
 W4GD=John;FL
 W4GFA=George;SC
+W4GHV=Bo;NC
 W4GJ=Bob;FL
 W4GNS=Gary;VA
 W4GS=Jason;SC
@@ -5983,6 +5988,7 @@ ZB2CW=Derek;ZB
 ZB2FK=Tito;3244
 ZB2X=Jorma;144
 ZD8W=Oli;ZD8
+ZF1MA=Marty;2276
 ZF2AA=Mike;1347
 ZF2DO=Dave;TX
 ZF2DX=Kevin;1293
