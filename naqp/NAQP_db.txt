@@ -1,7 +1,7 @@
 # North American QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-01-25
+# Last updated 2023-02-21
 4U1WB=MASA;DC
 7L1WII=SAM;
 8P5A=TOM;
@@ -464,7 +464,6 @@ AC3GB=SCOTT;PA
 AC3P=FRANK;MD
 AC3U=BILL;MD
 AC4BT=JERRY;VA
-AC4CA=JOHN;TX
 AC4D=;TX
 AC4DH=DENNIS;SC
 AC4DP=DAVE;GA
@@ -1233,7 +1232,6 @@ K0PG=TIM;IL
 K0PIR=RICH;SD
 K0PJ=GREG;WI
 K0PK=PAUL;MN
-K0PV=DON;CO
 K0PW=JOHN;MN
 K0PY=MIKE;KS
 K0QB=JAY;MN
@@ -14772,7 +14770,7 @@ WN4KKN=;TX
 WN4M=;TN
 WN4R=RON;FL
 WN5H=;MS
-WN5T=;AR
+WN5T=MIKE;TN
 WN6K=PAUL;CA
 WN6M=;CA
 WN6R=;CA

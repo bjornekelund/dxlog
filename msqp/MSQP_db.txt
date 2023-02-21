@@ -1,7 +1,7 @@
 # Missouri QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-01-25
+# Last updated 2023-02-21
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -459,7 +459,6 @@ AC3GB=PA
 AC3P=MD
 AC3U=MD
 AC4BT=VA
-AC4CA=TX
 AC4D=TX
 AC4DH=SC
 AC4DP=GA
@@ -1199,7 +1198,6 @@ K0PG=IL
 K0PIR=SD
 K0PJ=WI
 K0PK=MN
-K0PV=CO
 K0PW=MN
 K0PY=KS
 K0QB=MN
@@ -14604,7 +14602,7 @@ WN4DX=FL
 WN4KKN=TX
 WN4M=TN
 WN4R=FL
-WN5T=AR
+WN5T=TN
 WN6K=CA
 WN6M=CA
 WN6R=CA

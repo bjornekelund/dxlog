@@ -1,4 +1,4 @@
-Parsing ../naqp/NAQPCW.txt
+Parsing ../naqp/NAQPRTTY.txt
 Ignored: 7L1WII,SAM,,
 Ignored: 8P5A,TOM,,
 Ignored: 8P6AM,KEITH,,
@@ -74,7 +74,6 @@ Ignored: K0KR,BOB,CO,
 Ignored: K0LSA,CARTER,CO,
 Ignored: K0MT,,CO,
 Ignored: K0NR,BOB,CO,
-Ignored: K0PV,DON,CO,
 Ignored: K0QVR,DAVE,CO,
 Ignored: K0RBK,ROB,CO,
 Ignored: K0RF,CHUCK,CO,

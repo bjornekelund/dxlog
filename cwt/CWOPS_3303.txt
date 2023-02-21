@@ -698,7 +698,7 @@ EA5IUY,Gary,2508,Muro de Alcoy Spain
 EA5KA,Raul,1512,Castellon de la Plana Spain
 EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
-EA5XQ,Juan,,Almazora Spain
+EA5XQ,Juan,3303,Almazora Spain
 EA6/EA3M,Roger,3229,Balearric Islands
 EA6BF,Josep,3072,Balearic Island
 EA6EJ,INI,3276,Palma de Mallorca Spain
@@ -4715,7 +4715,7 @@ VE4DL,David,MB,Winnipeg MB
 VE4EA,Cary,1828,Winnipeg MB
 VE4JBB,Jessy,MB,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
-VE4SF,Bruce,2978,Winnipeg MB
+VE4SF,AB,2978,(Bruce) Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
 VE4XT,Kellu,2795,Winnipeg MB
 VE4YL,Dave,MB,Winnipeg MB
