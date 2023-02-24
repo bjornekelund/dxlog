@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# LastEdit,2023-02-21
+# LastEdit,2023-02-22
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1468,6 +1468,7 @@ K2MGR,Kurt,915,Bainbridge NY
 K2MK,Mike,FL,Lakeland FL
 K2LML,Bill,FL,
 K2MMO,Mike,NY,Staten Island NY
+K2MN,Steve,NJ,
 K2MRK,Mark,FL,Melbourne FL
 K2MYQ,Bill,NJ,Princeton NJ
 K2MYQ/1,Bill,ME,
@@ -1552,6 +1553,7 @@ K3HW,Bill,PA,Harleysville PA
 K3IE,Hunter,990,Brentwood TN
 K3IN,Peter,MD,Thurmont MD
 K3IU,Ken,364,Portsmouth RI
+K3JAS,Jack,PA,Greensburg PA
 K3JHT,John,PA,Pittsburgh PA
 K3JLM,Dennis,PA,Benton PA
 K3JST,John,PA,Johnstown PA
@@ -1645,7 +1647,7 @@ K4EU,Steve,1329,Culpeper VA
 K4EWG,Pete,502,Stockbridge GA
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
-K4FT,John,304,Crab Orchard KY
+K4FT,John,304,Yemassee SC
 K4FV,Neil,FL,Coral Springs FL
 K4GJF,Gary,VA,Stephens VA
 K4GK,Chas,GA,Sandersville GA
@@ -3662,6 +3664,7 @@ NA6Z,Don,2727,Hawthorne CA
 NA7C,Ted,1289,Sandy UT
 NA8Q,Rob,2874,Maumee OH
 NA8V,Greg,1214,Emmett MI
+NA9L,Vern,IN,Mooresville IN
 NB0Z,James,KS,Atchison KS
 NB1U,Mark,754,West Greenwich RI
 NB3R,Dave,1520,Allentown PA
@@ -4541,6 +4544,7 @@ VA3CWT,Gabriel,ON,Toronto ON
 VA3CX,Ron,1775,London ON (VE3FXX)
 VA3DKL,Dave,2847,Kitchener ON
 VA3FH,Victor,ON,Smihville ON
+VA3FN,John,ON,
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
@@ -4601,6 +4605,7 @@ VE2BZO,Andre,QC,Drummondville QC
 VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
+VE2ESX,Ron,QC,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
 VE2FK,Dub,1181,Eastern QC FN68
 VE2FU,Phil,QC,Quebec QC
@@ -4872,6 +4877,7 @@ W0TG,Bill,1873,Arlington TX
 W0UA,Geo,944,Longmont CO
 W0UO,Jim,1069,Weatherford TX
 W0VX,Dave,967,Garland TX
+W0WL,Joe,WA,Sammamish WA
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
 W0XM,Bob,KS,Shawnee KS
@@ -4884,6 +4890,7 @@ W1AL,Scott,FL,Cape Coral FL
 W1AO,Joe,125,Manchester ME
 W1ARY,marcel,CT,Wilton CT
 W1AW/5,Mark,672,(K5GQ)
+W1CTN,Dave,NC,Gastonia NC
 W1CWT,,,New England CWops Club (Beverly MA)
 W1CZ,Pich,NY,College Point NY
 W1EBI,George,9,Acton MA  (Also VA2EBI)
@@ -5799,7 +5806,7 @@ WE4AUB,John,3215,Marietta GA
 WE5P,Bill,2372,Richmond KY
 WE7G,Wayne,1816,Kingman AZ
 WE8L,Jason,3218,Fairfield OH
-WE8R,Bob,OH,Kettering OH
+WE8R,Bob,FL,
 WF4I,Derek,3250,Pleasant Garden NC
 WF5K,Aml,LA,Mandeville LA
 WF6F,Ken,2386,Irvine CA
@@ -5847,7 +5854,7 @@ WN1M,Mike,CT,South Glastonbury CT
 WN4AFP,Dave,1208,Greenville SC
 WN4R,Byron,FL,Lady Lake FL
 WN5V,Dave,2642,Welsh LA
-WN5T,Mike,TN,Nashville TN
+WN5T,Mike,CWA,Nashville TN
 WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
