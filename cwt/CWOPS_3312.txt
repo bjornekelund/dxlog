@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# LastEdit,2023-02-22
+# LastEdit,2023-02-25
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -652,6 +652,7 @@ E21EIC,Champ,264,Bangkok Thailand
 E25KAE,Bun,3284,Bangkok Thailand
 E29TGW,MEW,3285,Nonthaburi Thailand
 E7/Z35M,Vlado,E7,
+E70T,Vlado,E7,
 E71A,Emil,484,Sarajevo Bosnia and Herzegovina
 E73ESP,RC,,(Club Stjepan Polje)  Bosnia and Herzegovina
 E74D,Nermin,,Zenica Bosnia & Herzegovina
@@ -2417,6 +2418,7 @@ KD7KDO,Paul,CWA,Phoenix AZ
 KD7MA,Howard,WA,Kirkland WA
 KD7UI,John,1363,Wauna WA
 KD7YDT,Peter,WA,Kent WA
+KD7ZVQ,Dave,3311,Seattle WA
 KD8BBK,Tony,OH,Louisville OH
 KD8CMB,Claire,OH,Parma OH
 KD8HSV,Rob,OH,Enon OH
@@ -5673,6 +5675,7 @@ WB0GKH,Mitch,952,Holmen WI
 WB0JRH,Terry,2774,Winton MN
 WB0OQV,Jim,MO,Marionville MO
 WB0QVB,Tom,KY,Shepherdsville KY
+WB0RLJ,Jim,3312,Omaha NE
 WB0RUR,Gary,AZ,Fayetteville AZ
 WB0SND,Mike,1469,De Soto MO
 WB0TUA,Derek,MO,Creve Coeur MO

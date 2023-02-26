@@ -1,6 +1,6 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2023-02-16
+# Last Edit,2023-02-26
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # The file will be updated as soon as info come in.
@@ -18,7 +18,7 @@ GU5WS,,HQ,
 GW5WS,,HQ,
 GB5CC,,HQ,
 
-VA2RAC,,HQ,RAC QC Canada (2022)
+VA2RAC,DUB,HQ,(VE2FK) RAC QC Canada (2023)
 VA3RAC,,HQ,RAC ON Canada 
 VE5RAC,,HQ,RAC SK Canada 
 VE7RAC,,HQ,RAC BC Canada 
@@ -80,6 +80,7 @@ VK7BO,Alan,Australia Team 2 - Riverside Australia
 VJ3A,Steve,(VK3JA) Australia Team 2 - Elliminyt Australia
 VL6M,Phil,(VK6GX) Australia Team 2 - Gidgegannup Australia
 VK2PN,Patrick,Australia Team 2 - Black Head Australia
+VK1A/4,Bernd,(VK2IA) Australia Team 2 - Queensland Australia
 
 # Australia Team 1 (2023)
 VK6T,Kev,(VK6LW) Australia Team 1 - Glen Forrest Australia
@@ -1567,10 +1568,10 @@ ZL1MH,MIKE,,
 ZL1TM,,,	
 ZL2AGY,TONY,Haweera South Taranaki,	
 ZL2AIM,IAN,RD1 Hikuai,	
-ZL2AZ,PETER,Wellington New Zealand,	
-ZL2RX,ROGER,Nelson New Zealand,	
+ZL2AZ,PETER,Wellington New Zealand,
+ZL2RX,	
 ZL3/G4SGC,IAIN,,	
-ZL3AB,MARK,Christchurch New Zealand,	
+ZL3AB,
 ZL3TE,,,	
 ZL6A,RC,New Zealand ASS.,	
 ZM2A,BOB,,	
