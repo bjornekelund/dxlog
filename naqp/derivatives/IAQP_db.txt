@@ -1,7 +1,7 @@
 # Iowa QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-02-21
+# Last updated 2023-02-28
 AA0AC=MN
 AA0AO=MN
 AA0AW=MN
