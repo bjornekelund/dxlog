@@ -3,9 +3,9 @@
 #
 # QSOPARTY WI
 # QSOP_WI
-# Last Edit,2023-02-01, W9WLX 
+# Last Edit,2023-03-02, W9WLX 
 # Send new info or corrections DIRECT to ve2fk@arrl.net 
-!!Order!!, Call, Exch1, 
+!!Order!!, Call, Exch1, UserText,
 
 A5CM,OK,
 AA0AJ,MN,
@@ -651,6 +651,7 @@ K9WBT,KEN,
 K9WD,MRQ,
 K9WIS,RAC,
 K9WKM,FON,
+K9WM,GRA,GRANT
 K9WN,ROC,
 K9WO,COL,
 K9WOC,WAU,
@@ -2185,6 +2186,7 @@ VE1EW,NS,
 VE1LAI,NS,
 VE2CFA,QC,
 VE2CRO,QC,
+VE2FK,QC,
 VE2GT,QC,
 VE2HTC,QC,
 VE3AC,ON,

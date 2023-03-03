@@ -1,7 +1,7 @@
 # Wisconsin QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-02-01
+# Last updated 2023-03-03
 A5CM=OK
 AA0AJ=MN
 AA0AO=MN
@@ -642,6 +642,7 @@ K9WBT=KEN
 K9WD=MRQ
 K9WIS=RAC
 K9WKM=FON
+K9WM=GRA
 K9WN=ROC
 K9WO=COL
 K9WOC=WAU
@@ -2165,6 +2166,7 @@ VE1EW=NS
 VE1LAI=NS
 VE2CFA=QC
 VE2CRO=QC
+VE2FK=QC
 VE2GT=QC
 VE2HTC=QC
 VE3AC=ON

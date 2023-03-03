@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3322
-# Last updated 2023-02-28
+# Contains members up to #3327
+# Last updated 2023-03-03
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -680,7 +680,7 @@ EA3GHZ=Joan;EA
 EA3HSO=Al;2132
 EA3IAA=Manel;EA
 EA3IEB=Lorenzo;3309
-EA3IGR=Sergio;EA
+EA3IGR=Sergio;3310
 EA3M=Roger;3229
 EA3NN=Dany;EA
 EA4BB=Nando;2981
@@ -2335,6 +2335,7 @@ KC3KBE=Jon;MD
 KC3M=Jack;3099
 KC3NDU=Keith;CWA
 KC3NNO=Steve;3236
+KC3TAU=Dale;3323
 KC3TOM=Tom;PA
 KC3X=Hollis;1725
 KC4BBD=Aaron;VA
@@ -3873,6 +3874,7 @@ NU4C=Paul;FL
 NU6N=Arka;2152
 NU6T=Rich;CWA
 NU7J=Tom;WA
+NU7V=Chris;3324
 NU7Y=Quint;1261
 NV0S=Gary;CO
 NV1U=Tom;2303
@@ -4112,6 +4114,7 @@ PA1LEX=Lex;PA
 PA1LIO=Adriaan;PA
 PA2G=Gerard;3107
 PA2PIM=PIM;PA
+PA2RG=Roel;3326
 PA2SQ=Simon;PA
 PA2ST=Ben;2897
 PA2TA=TJ;2955
@@ -4624,6 +4627,7 @@ VE2VAB=George;QC
 VE2VIA=Jean;QC
 VE2WRTC=DUB;QC
 VE2WU=Marten;QC
+VE2ZDX=Andre;QC
 VE2ZM=Simon;2144
 VE3ABN=Les;1701
 VE3AIH=Art;ON
@@ -4682,6 +4686,7 @@ VE3NZ=Ben;ON
 VE3OI=Dave;ON
 VE3OMV=Maria;3059
 VE3OP=Craig;ON
+VE3OTW=Jon;ON
 VE3OU=Ernie;ON
 VE3PQ=Paul;ON
 VE3PVI=Tom;1735
@@ -4869,7 +4874,7 @@ W0TG=Bill;1873
 W0UA=Geo;944
 W0UO=Jim;1069
 W0VX=Dave;967
-W0WL=Joe;WA
+W0WL=Joe;3327
 W0XE=Don;KS
 W0XI=Phil;KS
 W0XM=Bob;KS
@@ -5372,6 +5377,7 @@ W7LG=Mike;2682
 W7LXN=Myron;1166
 W7MP=Adam;OR
 W7OLY=Aubrey;1637
+W7PAT=Pat;3325
 W7PAU=Paul;OR
 W7PEZ=Paul;3001
 W7PFY=Darin;3187
@@ -5497,6 +5503,7 @@ W9KM=Andy;2489
 W9KNI=Bob;1648
 W9LR=Bill;WI
 W9LW=Jay;IN
+W9MC=Mile;TX
 W9MDG=Mike;IL
 W9MIC=Mike;IL
 W9NJY=Andy;1348

@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# LastEdit,2023-02-28
+# LastEdit,2023-03-02
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -685,7 +685,7 @@ EA3GHZ,Joan,,Tarragona Spain
 EA3HSO,Al,2132,Barcelona Spain
 EA3IAA,Manel,,Barcelona Spain
 EA3IEB,Lorenzo,3309,Arenys de Mar Spain
-EA3IGR,Sergio,,Arenys de Mar Spain
+EA3IGR,Sergio,3310,Arenys de Mar Spain
 EA3M,Roger,3229,Sabadell Spain
 EA3NN,Dany,,Tarragona Spain
 EA4BB,Nando,2981,Masdrid Spain
@@ -772,7 +772,7 @@ F4WAR,Jose,CWA,ND de Gravenchon France
 F5BQU,Seb,,Cappel France
 F5BWA,Dan,,France
 F5EQR,Regis,,Gizy France
-F5IN,Mike,,Pithiviers Fance
+F5IN,Mike,,Pithiviers France
 F5IUZ,Moise,,Aubagne France
 F5IYC,Chris,,Tourcoing France
 F5IYJ,Phil,1842,Longeault France  (Possibly QRP)
@@ -2343,6 +2343,7 @@ KC3KBE,Jon,MD,Silver Spring MD
 KC3M,Jack,3099,Montoursville PA
 KC3NDU,Keith,CWA,Lake Ariel PA
 KC3NNO,Steve,3236,Harrisburg PA
+KC3TAU,Dale,3323,Hampstead MD
 KC3TOM,Tom,PA,Burgettstown PA
 KC3X,Hollis,1725,Snow Hill NC
 KC4BBD,Aaron,VA,Lynchburg VA
@@ -3888,6 +3889,7 @@ NU4C,Paul,FL,Ormond Beach FL
 NU6N,Arka,2152,Sunnyvale CA (Southwest Amb.)
 NU6T,Rich,CWA,Fair Oaks CA
 NU7J,Tom,WA,Marysville WA
+NU7V,Chris,3324,Tombstone AZ
 NU7Y,Quint,1261,Oro Valley AZ
 NV0S,Gary,CO,Northglenn CO
 NV1U,Tom,2303,The Villages FL
@@ -4127,6 +4129,7 @@ PA1LEX,Lex,,Hardewijk Netherlands
 PA1LIO,Adriaan,,Eemnes Netherlands
 PA2G,Gerard,3107,Capelle Ann Den IJssel Netherlands
 PA2PIM,PIM,,Houten Netherlands
+PA2RG,Roel,3326,Vleuten Netherlands
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
@@ -4640,6 +4643,7 @@ VE2VAB,George,QC,Gatineau QC
 VE2VIA,Jean,QC,Chicoutimi QC
 VE2WRTC,DUB,QC,WRTC special event
 VE2WU,Marten,QC,Covey Hill
+VE2ZDX,Andre,QC,Montreal QC
 VE2ZM,Simon,2144,(VE2SRP) St-Joseph-du-Lac QC
 VE3ABN,Les,1701,Mississauga ON (VE3NNT)
 VE3AIH,Art,ON,Cornwall ON
@@ -4698,6 +4702,7 @@ VE3NZ,Ben,ON,North York ON
 VE3OI,Dave,ON,Guelph ON
 VE3OMV,Maria,3059,Oakville ON
 VE3OP,Craig,ON,Ottawa ON
+VE3OTW,Jon,ON,Streetsville ON
 VE3OU,Ernie,ON,Cambridge ON
 VE3PQ,Paul,ON,Georgian Bluffs ON
 VE3PVI,Tom,1735,Ingleside ON
@@ -4886,7 +4891,7 @@ W0TG,Bill,1873,Arlington TX
 W0UA,Geo,944,Longmont CO
 W0UO,Jim,1069,Weatherford TX
 W0VX,Dave,967,Garland TX
-W0WL,Joe,WA,Sammamish WA
+W0WL,Joe,3327,Sammamish WA
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
 W0XM,Bob,KS,Shawnee KS
@@ -5361,7 +5366,7 @@ W6VO,Brad,2305,Westlake Village CA
 W6WG,Ron,2173,Huntington Beach CA
 W6XU,Josh,712,Occidental CA
 W6YA,Jim,72,Leucadia CA
-W6YR,Joe,1990,Yorba Linja CA
+W6YR,Joe,1990,Yorba Linda CA
 W7ACM,Greg,WA,Everett WA
 W7AIT,Chip,CA,Modesto CA
 W7BCW,Bruce,2247,Sultan WA
@@ -5391,6 +5396,7 @@ W7LG,Mike,2682,Lewistown PA (Possibly QRP)
 W7LXN,Myron,1166,Gilbert AZ
 W7MP,Adam,OR,Beaverton OR
 W7OLY,Aubrey,1637,Olympia WA
+W7PAT,Pat,3325,Beaverton OR
 W7PAU,Paul,OR,Salem OR
 W7PEZ,Paul,3001,Woodinville WA
 W7PFY,Darin,3187,Bountiful UT
@@ -5516,6 +5522,7 @@ W9KM,Andy,2489,Naperville IL
 W9KNI,Bob,1648,Grants Pass OR
 W9LR,Bill,WI,New Berlin WI
 W9LW,Jay,IN,Fort Wayne IN
+W9MC,Mile,TX,Leander TX
 W9MDG,Mike,IL,Carlock IL
 W9MIC,Mike,IL,Naperville IL
 W9NJY,Andy,1348,Wauwatosa WI
