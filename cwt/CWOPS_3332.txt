@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# LastEdit,2023-03-02
+# Last Edit,2023-03-05
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -337,6 +337,7 @@ AG5FX,Jamie,OK,Altus OK
 AG5M,Richard,1747,Richland WA
 AG5QX,Mike,2401,Houston TX
 AG5W,Greg,TX,Georgetown TX
+AG5ZN,Bill,3328,Dallas TX
 AG6FU,Phil,CA,Berkeley CA
 AG6V,Donna,911,Petaluma CA
 AG7CC,Cliff,ID,Moscow ID
@@ -2366,7 +2367,7 @@ KC8J,Walt,2085,San Diego CA
 KC8UR,Tony,2278,Mount Vernon OH
 KC9EE,Gary,1240,Morton IL
 KC9FFV,Mark,TX,Forney TX
-KC9IL,Warren,CWA,Buffalo Grove IL
+KC9IL,Warren,3332,Buffalo Grove IL
 KC9JVB,Bob,2606,Vancouver WA
 KC9JYF,Tom,IL,Coal City IL
 KC9K,Dave,1875,Knoxville IL
@@ -2486,6 +2487,7 @@ KE6OIO,Ann,CA,Garden Grove CA
 KE6PY,Steve,3179,Escondido CA
 KE6YLH,Jeff,CA,Aptos CA
 KE7LOY,Brian,ID,Twin Falls ID
+KE7MPO,Geo,3330,East Wenatchee WA
 KE7VE,Martin,WY,Boulder WY
 KE7ZJC,Kim,UT,Pleasant Grove UT
 KE8AKC,Steve,MI,Northville MI
@@ -3056,6 +3058,7 @@ N0PP,Geo,2048,Iowa City IA
 N0QLT,Russ,MO,Webb City MO
 N0QM,Larry,644,Grandview MO
 N0QQ,Sandy,1581,West Middlesex PA
+N0RPM,Jason,3329,Inver Grove Heights MN
 N0RT,Ralph,MO,Marshfield
 N0SM,Steve,705,Ottumwa IA
 N0SMX,Dennis,FL,The Villages FL
@@ -5112,7 +5115,7 @@ W4CDA,John,KY,(RC) Parksville KY
 W4CI,Dave,932,Fern Park FL
 W4CK,Mark,33,Fayetteville TN
 W4CMG,Cathy,2988,Nashville TN
-W4CWA,Frank,CWA,Cary NC
+W4CWA,Frank,3331,Cary NC
 W4DD,Jeff,GA,Gainsville GA
 W4DDD,Jim,FL,Orange Park FL
 W4DKS,Dan,321,Centreville VA

@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3327
-# Last updated 2023-03-03
+# Contains members up to #3332
+# Last updated 2023-03-05
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -333,6 +333,7 @@ AG5FX=Jamie;OK
 AG5M=Richard;1747
 AG5QX=Mike;2401
 AG5W=Greg;TX
+AG5ZN=Bill;3328
 AG6FU=Phil;CA
 AG6V=Donna;911
 AG7CC=Cliff;ID
@@ -2358,7 +2359,7 @@ KC8J=Walt;2085
 KC8UR=Tony;2278
 KC9EE=Gary;1240
 KC9FFV=Mark;TX
-KC9IL=Warren;CWA
+KC9IL=Warren;3332
 KC9JVB=Bob;2606
 KC9JYF=Tom;IL
 KC9K=Dave;1875
@@ -2478,6 +2479,7 @@ KE6OIO=Ann;CA
 KE6PY=Steve;3179
 KE6YLH=Jeff;CA
 KE7LOY=Brian;ID
+KE7MPO=Geo;3330
 KE7VE=Martin;WY
 KE7ZJC=Kim;UT
 KE8AKC=Steve;MI
@@ -3041,6 +3043,7 @@ N0PP=Geo;2048
 N0QLT=Russ;MO
 N0QM=Larry;644
 N0QQ=Sandy;1581
+N0RPM=Jason;3329
 N0RT=Ralph;MO
 N0SM=Steve;705
 N0SMX=Dennis;FL
@@ -5094,7 +5097,7 @@ W4CDA=John;KY
 W4CI=Dave;932
 W4CK=Mark;33
 W4CMG=Cathy;2988
-W4CWA=Frank;CWA
+W4CWA=Frank;3331
 W4DD=Jeff;GA
 W4DDD=Jim;FL
 W4DKS=Dan;321

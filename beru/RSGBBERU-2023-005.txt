@@ -1,6 +1,6 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2023-02-26
+# Last Edit,2023-03-05
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # The file will be updated as soon as info come in.
@@ -9,15 +9,16 @@
 # HQ Follow 
 AT1HQ,,HQ,Bangalore India (2023)
 AT3T,,HQ,Bangalore India
-G5WS,,HQ,
-GD5WS,,HQ,
-GI5WS,,HQ,
-GJ5WS,,HQ,
-GM5WS,,HQ,
-GU5WS,,HQ,
-GW5WS,,HQ,
-GB5CC,,HQ,
+GB5CC,Graham,HQ,(G4FNL)
+G5WS,Don,HQ,(G3BJ)
+GD5WS,,HQ,(GD4XUM/G3NKC)
+GI5WS,Richard,HQ,(GI4DOH)
+GJ5WS,,HQ,Jersey
+GM5WS,Terry,HQ,(GM3WUX)
+GU5WS,,HQ,Guernsey
+GW5WS,,HQ,Wales
 
+# VE Canada HQ
 VA2RAC,DUB,HQ,(VE2FK) RAC QC Canada (2023)
 VA3RAC,,HQ,RAC ON Canada 
 VE5RAC,,HQ,RAC SK Canada 
@@ -26,54 +27,48 @@ VE9RAC,,HQ,RAC NB Canada
 VY1RAC,,HQ,RAC Yukon Whitehorse Territy Canada
 
 # VK HQ Stations (2023)
-VK1WIA,,Andrew,(VK1DA)
-VK2WIA,,David,(VK2WQ)
-VK3WIA,,Lee,(VK3GK)
-VK4WIA,,Keith,(VK4TT)
-VK5WIA,,Grant,(VK5GR)
-VK6WIA,,Peter,(VK6RZ)
+VK1WIA,Andrew,HQ,(VK1DA)
+VK2WIA,David,HQ,(VK2WQ)
+VK3WIA,Lee,HQ,(VK3GK)
+VK4WIA,Keith,HQ,(VK4TT)
+VK5WIA,Grant,HQ,(VK5GR)
+VK6WIA,Peter,HQ,(VK6RZ)
 
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
 # Team Quake Contesters (2023)
-ZL3PAH,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
+ZL3P,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
 ZL2RX,Don,Team Quake Contesters Nelson New Zeland
 ZL3AB,MARK,Team Quake Contesters Christchurch New Zeland
 ZL3GA,Geoff,Team Quake Contesters Kaiapoi New Zeland
 ZL4RA,Richard,Team Quake Contesters Queenstown New Zeland
 
-# Expedition + World Traveller Plus Team
-ZF2CA,Collin,Grand Cayman (2023)
-5B/G3VYI,Mike,,(2023)
-9G5XA,Alan,Ghana (2023)
+# Expedition + World Traveller Plus Team (2023)
+ZF2CA,Collin,Grand Cayman 
+5B/G3VYI,Mike,,
+5Z4VJ,Andy,Nairobi Kenya
+9G5XA,Alan,Ghana 
+5Z4VJ,ANDY,(G3AB) 
 
-# (2022)
-8P6DR,Dick,(G3RWL) Barbados - World Travellers Plus
-C56DF,Don,(G3XTT) The Gambia -  World Traveller Plus Team
-V31GX,Ian,(G4SGX) Belize - World Traveller Plus Team
-VP2M,Allen,(N2KW) Monserrat 
-ZF2CA,Colin,(G4CWH) Captain - Savannah - World Traveller Plus Team
-
-# Team Grimsby Mariners (2022)
-G3TBK,Dave,Team Grimisby Mariners - nr. Sleaford,
-G3RXP,Dave,Team Grimisby Mariners - Caister Top,
+# Team Grimsby Mariners (2023)
+G3TBK,Dave,(Captain) Team Grimisby Mariners - nr. Sleaford,
 G3SJJ,Chris,Team Grimisby Mariners - nr. Nottingham,
 G4EBK,George,Team Grimisby Mariners - Grimsby
-G8AJM,Chris,Team Grimisby Mariners - Louth
+G3VIP,Graham,Team Grimisby Mariners - Grimsby 
+G4LPD,Richard,eam Grimisby Mariners - Nottingham
 
 # Team Balunmasters (2022)
-G3VYI,Mike,(Captain)  Team Balunmasters  -  Farnham England 
-G3WRR,Quin,Team Balunmasters  -  South Norwood London England  
-G4WGE,Alun,Team Balunmasters  -  Surbiton England  
-G4CZB,John,Team Balunmasters  -  Northampton England  
+G3WRR,Quin,South Norwood London England  
+G4WGE,Alun,Surbiton England  
+G4CZB,John,Northampton England  
 
 # Team Atlantic A1A's (2022)
-VE1ZU,Jeff,Team Atlantic A1A's  -  Wentzells Lake NS (also VE1ZAC)
-VA1RST,Roger,Team Atlantic A1A's  -  Halifax NS
-VE1ANU,Mike,Team Atlantic A1A's  -  Eastern Passage NS
-VE1ZA,Tony,Team Atlantic A1A's  -  Hammonds Plains NS
-VA1MM,Al,Team Atlantic A1A's  -  Bedford NS (also VE1AWP)
+VE1ZU,Jeff,Wentzells Lake NS (also VE1ZAC)
+VA1RST,Roger,Halifax NS
+VE1ANU,Mike,Eastern Passage NS
+VE1ZA,Tony,Hammonds Plains NS
+VA1MM,Al,Bedford NS (also VE1AWP)
 
 # Australia Team 2 (2023)
 VK7BO,Alan,Australia Team 2 - Riverside Australia
@@ -90,23 +85,23 @@ VK2BJ,Barry,Australia Team 1 - St Ives Australia
 VK6VZ,Steve,Australia Team 1 - Glen Forrest Australia
 
 # Team Essex CW ARC (2022)
-G4PVM,Paul,Team Essex CW ARC  -  Essex England
-G8CW,Andy,(G0IBN)  Team Essex CW ARC  -  Maldon England
-M5D,Dean,Team Essex CW ARC  -  Witham Essex England
-G3G,Ray,(G3XLG) Team Essex CW ARC  -  Suffolk England
-M4J,Jon,Team Essex CW ARC  -  Near Ipswich England
+G4PVM,Paul,Essex England
+G8CW,Andy,Maldon England
+M5D,Dean,Witham Essex England
+G3G,Ray,Suffolk England
+M4J,Jon,Near Ipswich England
 
 # Team IVARC Veterans (2022)
-G3OTK,Rich,Team IVARC Veterans  -  Hampshire England
-G3XSD,Graham,Team IVARC Veterans  -  nr. Southampton England
-G4GBP,Collin,Team IVARC Veterans  -  Fordingbridge England
-G8XEV,Steve,Team IVARC Veterans  -  Romsey England
+G3OTK,Rich,Hampshire England
+G3XSD,Graham,nr. Southampton England
+G4GBP,Collin,Fordingbridge England
+G8XEV,Steve,Romsey England
 
 
 # Marborough Team (2022)
-ZL3VZ,Bill,(Captain) Marborough Team - Blenheim New Zealand 
-ZL2GVA,Gerard,Marborough Team - Blenheim New Zealand
-ZL1AZB,RD,Marborough Team - Te Kuiti New Zealand
+ZL3VZ,Bill,Blenheim New Zealand 
+ZL2GVA,Gerard,lenheim New Zealand
+ZL1AZB,RD,Te Kuiti New Zealand
 
 # Regulars follow ---------------	
 2E0CVN,Simon,Newton abbot England	
@@ -116,7 +111,7 @@ ZL1AZB,RD,Marborough Team - Te Kuiti New Zealand
 2E0ZWW,BILLY,Petteridge Matfield Kent England	
 3B9AN,,Rodrigues Isl. DXP (F8AAN)	
 5B4AHJ,ALAN,Pafos District Cyprus	
-5W1SA,ATSUO,Japan,	
+5W1SA,ATSUO,Japan,
 5Z4/G3AB,Andy,Nairobi Kenya	
 6Y0BE,BOYAN,(LZ2BE) in Jamaica,	
 6Y5HN,Nigel,Kingston Jamaica	
