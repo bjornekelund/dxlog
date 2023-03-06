@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-02-27
+# Last Edit,2023-03-06
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN for corr.
 2E0DCW,Gerald,,London England
@@ -858,6 +858,7 @@ G0ORH,Ken,,Thatcham West Berkshire
 G0PNM,Peter,,Cornwall England
 G0RDO,John,,Newton Abbot Devon Egnland
 G0TPH,Alan,2956,Desford England
+G0TRT,Ciemon,
 G0TZZ,Chris,,Sporte England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England
@@ -3130,6 +3131,7 @@ N0JL,Jim,IA,Chillicothe IA
 N0KK,Kirk,698,New Hope MN
 N0KQ,Bill,1463,Brighton CO
 N0KV,Barry,1723,Parker CO
+N0LY,Jonas,
 N0MII,Jeff,MO,Ballwin MO (Occ. QRP)
 N0MP,Bill,AZ,Mesa AZ
 N0MPM,Mike,IA,Pella IA
@@ -4372,6 +4374,7 @@ SA2RFQ,Dan,1601,Lulea Sweden (WB4RFQ)
 SA6BGR,Per,1773,Lindome Sweden (also SD6M)
 SA6G,Lars,173,Dalsjofors Sweden (SM6CUK)
 SA7UFO,Uno,,Hassleholm Sweden
+SB6D,Nick,
 SC0T,Olle,SM,Uplands Vasby Sweden
 SC3N,Andy,265,Iggo Island Sweden (EA8CN)
 SD1A,Eric,1718,Visby Sweden (SM1TDE)
@@ -6109,7 +6112,7 @@ WV4P,Ron,TN,Savannah TN
 WV4S,Bob,NC,Winston Salem NC
 WW0K,Zac,IA,Ames IA
 WW0SS,Nick,MN,Shoreview MN
-WW0WWV,Eric,CO,Fort Collins WWV ARC
+WW0WWV,Gary,CO,(AF8A) Fort Collins WWV ARC
 WW1ME,RICK,
 WW2Y,Peter,NJ,Belle Mead NJ
 WW3S,Jim,2775,(Jamie)  Meadville PA
