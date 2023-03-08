@@ -1,7 +1,7 @@
 # BERU HQ stations database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-03-05
+# Last updated 2023-03-08
 AT1HQ=HQ
 AT3T=HQ
 G5WS=HQ
@@ -14,8 +14,13 @@ GU5WS=HQ
 GW5WS=HQ
 VA2RAC=HQ
 VA3RAC=HQ
+VA6RAC=HQ
+VE1RAC=HQ
+VE4RAC=HQ
 VE5RAC=HQ
+VE6RAC=HQ
 VE7RAC=HQ
+VE8RAC=HQ
 VE9RAC=HQ
 VK1WIA=HQ
 VK2WIA=HQ
@@ -23,4 +28,7 @@ VK3WIA=HQ
 VK4WIA=HQ
 VK5WIA=HQ
 VK6WIA=HQ
+VO2RAC=HQ
+VY0RAC=HQ
 VY1RAC=HQ
+VY2RAC=HQ

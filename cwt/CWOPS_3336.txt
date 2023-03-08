@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-05
+# Last Edit,2023-03-08
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -2683,6 +2683,7 @@ KK6NON,Levi,CA,Vista CA
 KK6NVZ,Kevin,2251,Visalia CA
 KK6ZHK,Ken,2686,Sedona AZ
 KK7A,Jim,1975,Meridian ID (Occ. remote CT)
+KK7DEU,Guny,3336,Sandy OR
 KK7GRV,Vlad,WA,Lake Stevens WA
 KK7L,John,2599,Saratoga UT
 KK7PW,Jon,3211,Seattle WA
@@ -3080,7 +3081,7 @@ N1AOK,Charlie,3050,Fort Collins CO
 N1BG,Fred,1030,Gibsonville NC
 N1CC,Mike,2817,Scottsdale AZ
 N1CCK,Nick,2710,Manchester CT
-N1CFO,Erik,VT,Burlington VT
+N1CFO,Erik,3333,Burlington VT
 N1CK,Nick,AZ,Payson AZ
 N1DC,Rick,1257,Braintree MA
 N1DC/4,Rick,1257,
@@ -4414,7 +4415,7 @@ SV0XCC/9,Paul,1009,Crete Greece
 SV1ACL,John,,Marousi Greece
 SV1CEI,Nik,,Nea Penteli Greece
 SV1CQN,Kostas,,Agrinio Greece
-SV1DAY,Manos,,Athens Greece
+SV1DAY,Manos,3334,Athens Greece
 SV1DOJ,Tassos,,Piraeus Greece
 SV1RUX,Dave,,Athens Greece
 SV2/N5ZO,Marco,1224,at J42L
@@ -5348,7 +5349,7 @@ W6QA,Tony,CWA,Placerville CA
 W6QR,William,2449,Torrance CA
 W6QX,Steve,2870,San Marcos CA
 W6RGG,Bob,CA,Castro Valley CA
-W6RIF,Reed,CWA,Virginia Beach VA
+W6RIF,Reed,3335,Virginia Beach VA
 W6RK,Risto,98,Hayward CA
 W6RKC,Rick,CA,Pine Grove CA
 W6RLL,Joe,2633,Mc Neal AZ

@@ -9,14 +9,14 @@
 5B4AHJ Alan Pafos District Cyprus	 
 5W1SA Atsuo Japan 
 5Z4/G3AB Andy Nairobi Kenya	 
-5Z4VJ Andy (G3AB) 
-5Z4VJ Andy Nairobi Kenya 
+5Z4VJ Andy (G3AB) Nairobi Kenya 
 6Y0BE Boyan (LZ2BE) in Jamaica 	
 6Y5HN Nigel Kingston Jamaica	 
+6Y5HN Nigel Kingston Jamaica 
 6Y5WJ Josh St-Elizaberth Jamaica 	
 8P6DR Richard Barbados 	 
 8Q7NC Maldives IOTA AS-118 	 
-9G5XA Alan Ghana 
+9G5XA Alan (G3XAQ) Ghana 
 9H1AE Savvas Sliema Malta 	
 9H1CG Joe Pembroke PBK Malta	 
 9H1MRC Marconi RC Malta 	
@@ -812,7 +812,7 @@ VA3PC Paul
 VA3PL Andy 	
 VA3PM Pierre 	
 VA3QV Robert 	
-VA3RAC HQ RAC ON Canada 
+VA3RAC HQ RAC ON Canada
 VA3RJ John 	
 VA3RKM Bob 	
 VA3RON Ron 	
@@ -839,6 +839,7 @@ VA6FR John
 VA6MM Malcolm 	
 VA6OZ Bill 	
 VA6RA Dave 	
+VA6RAC HQ RAC AB Canada 
 VA6SG Harold 	
 VA7ADI Adi 	
 VA7AM Dave 	
@@ -883,6 +884,7 @@ VE1MC John
 VE1NB Bruce 	
 VE1QA Bob 	
 VE1QD Scott 	
+VE1RAC HQ RAC NS Canada
 VE1RAR Ralph 	
 VE1RG Chuck 	
 VE1RSM Bob Hantsport NS	 
@@ -1205,6 +1207,7 @@ VE4GV Bob Winnipeg MB
 VE4JC Jim 	
 VE4MG Malcom 	
 VE4PL Ron 	
+VE4RAC HQ RAC MB Canada
 VE4TTH Peter 	
 VE4VV Derek 	
 VE4YU Edward 	
@@ -1251,6 +1254,7 @@ VE6LJD Russ
 VE6MO Jim 	
 VE6NU Frank 	
 VE6PC Vic 	
+VE6RAC HQ RAC AB Canada
 VE6RAJ Raj 	
 VE6RKO Jim 	
 VE6RRD Bob 	
@@ -1324,7 +1328,7 @@ VE7PHA Dan
 VE7PL Chas 	
 VE7QC Bill 	
 VE7QO Wilf 	
-VE7RAC HQ RAC BC Canada 
+VE7RAC HQ RAC BC Canada
 VE7RBL Bob 	
 VE7RIF Mike 	
 VE7RK Lorne 	
@@ -1347,6 +1351,7 @@ VE7YUK Don
 VE8EV John 	
 VE8MN Matthew 	
 VE8NC Dave 	
+VE8RAC HQ RAC NT Canada 
 VE9AA Mike Withheld NB	 
 VE9AV David 	
 VE9BK Jean paul Lutes Mountain NB 	
@@ -1362,7 +1367,7 @@ VE9ML Marcel Moncton NB
 VE9MS Mike (VE9AA) 	
 VE9MY Len 	
 VE9OA Bill Harvey York Co NB	 
-VE9RAC HQ RAC NB Canada 
+VE9RAC HQ RAC NB Canada
 VE9SIX Mike (VE9AA) 	
 VE9TTY Jim St John NB	 
 VE9VIC Rino Kedgwick Ouest NB 	
@@ -1451,6 +1456,7 @@ VO1XC Laurence
 VO2AAA Dave Lincoln NB 	
 VO2DX Mike (VE9AA) 	
 VO2JD Jim 	
+VO2RAC HQ RAC NL Canada 
 VP2VVV Fred (K9VV) 	
 VP5B Charles 	
 VP5JM Jody 	
@@ -1480,18 +1486,20 @@ VU2LX Laxman
 VU2NKS Nand Maharashtra India 	
 VU2PHD Mathew Kattappana India 	
 VU2PTT Prasad BAngalore India 	
+VY0RAC HQ RAC NU Canada
 VY1AAA Gerry 	 
 VY1CM Robert 	
 VY1EI Eric Whitehorse YT Canada 	
 VY1JA Jay Whitehorse YT Canada 	
 VY1MB Bob 	
-VY1RAC HQ RAC Yukon Whitehorse Territy Canada
+VY1RAC HQ RAC YT Yukon Whitehorse Territy Canada
 VY2CC Wendell 	
 VY2LI Bill 	
 VY2MCC MCC 	
 VY2MGY Brian (VE3MGY) 	
 VY2MP Greg 	
 VY2OX Lowell Charlottetown PE 	
+VY2RAC HQ RAC PE Canada
 VY2SS Robby O'Leary PE 	
 VY2TT Prince Edward Island Canada NA029 	
 VY2ZM Jeff Monticello PE 	 
@@ -1504,7 +1512,7 @@ ZD8DEZ Dez
 ZD8JQS Tony 	
 ZD8LII Steve 	
 ZD8Z Jim 	
-ZF2CA Collin Grand Cayman 
+ZF2CA Collin (G4CWH) Grand Cayman 
 ZF2DX Kevin 	
 ZF2GO Stan K5GO 	
 ZF2LC Jim 	

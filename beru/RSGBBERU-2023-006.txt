@@ -1,6 +1,6 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2023-03-05
+# Last Edit,2023-03-06
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # The file will be updated as soon as info come in.
@@ -20,11 +20,19 @@ GW5WS,,HQ,Wales
 
 # VE Canada HQ
 VA2RAC,DUB,HQ,(VE2FK) RAC QC Canada (2023)
-VA3RAC,,HQ,RAC ON Canada 
+VA3RAC,,HQ,RAC ON Canada
+VA6RAC,,HQ,RAC AB Canada 
+VE1RAC,,HQ,RAC NS Canada
+VE4RAC,,HQ,RAC MB Canada
 VE5RAC,,HQ,RAC SK Canada 
-VE7RAC,,HQ,RAC BC Canada 
-VE9RAC,,HQ,RAC NB Canada 
-VY1RAC,,HQ,RAC Yukon Whitehorse Territy Canada
+VE6RAC,,HQ,RAC AB Canada
+VE7RAC,,HQ,RAC BC Canada
+VE8RAC,,HQ,RAC NT Canada 
+VE9RAC,,HQ,RAC NB Canada
+VO2RAC,,HQ,RAC NL Canada 
+VY0RAC,,HQ,RAC NU Canada
+VY1RAC,,HQ,RAC YT Yukon Whitehorse Territy Canada
+VY2RAC,,HQ,RAC PE Canada
 
 # VK HQ Stations (2023)
 VK1WIA,Andrew,HQ,(VK1DA)
@@ -45,11 +53,11 @@ ZL3GA,Geoff,Team Quake Contesters Kaiapoi New Zeland
 ZL4RA,Richard,Team Quake Contesters Queenstown New Zeland
 
 # Expedition + World Traveller Plus Team (2023)
-ZF2CA,Collin,Grand Cayman 
+ZF2CA,Collin,(G4CWH) Grand Cayman 
 5B/G3VYI,Mike,,
-5Z4VJ,Andy,Nairobi Kenya
-9G5XA,Alan,Ghana 
-5Z4VJ,ANDY,(G3AB) 
+5Z4VJ,Andy,(G3AB) Nairobi Kenya
+9G5XA,Alan,(G3XAQ) Ghana 
+6Y5HN,Nigel,Kingston Jamaica
 
 # Team Grimsby Mariners (2023)
 G3TBK,Dave,(Captain) Team Grimisby Mariners - nr. Sleaford,

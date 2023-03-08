@@ -26,7 +26,7 @@ BEGIN {
     if ($1 ~ /^[0-9,A-Z]/ && nm ~ /^[A-Z]+$/) {
 #      if (name[$1] != "" && name[$1] != nm)
       if (name[$1] != "")
-        printf("\"%s\" reappears as \"%s\"\n", line[$1], $0) > "/dev/stderr";
+        printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr";
 #        printf("%s replaced by %s for %s\n", name[$1], nm, $1) > "/dev/stderr";
       line[$1] = $0;
       call[$1] = $1;
