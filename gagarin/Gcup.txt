@@ -1,0 +1,21 @@
+!!Order!!,Call,Sect,UserText
+#
+# GCUP
+# Info file, log what you copy.
+# Last Edit,2023-03-04
+# info from UA9QCQ
+# Send info or corrrection direct to ve2fk@arrl.net
+#
+RJ1O,KP,Plesetsk Cosmodrome
+RT2C,CU,Mission Control Center
+RT3F,CP,Cosmonaut Training Center
+R5AG,AL,Aerospace R&D Center ROSTO
+R108M,RG,Yuri Gagarin's place of birth
+RG61PP,YG,Yuri Gagarin's place of birth
+RT4D,MP,Landing Site of Yuri Gagarin 
+RG2X,RK,Motherland of Russian cosmonautics
+RC3XC,LA,Aerospace laboratory
+RW0A,SA,Aerospace Academy
+RW0J,KV,Cosmodrome Vostochny
+R2VA,PC,Research Institute of Parachute Engineering
+U4MIR,CV,Cosmonaut Alexander Volkov
