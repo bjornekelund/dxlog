@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-03-07
+# 1-Last Edit,2023-03-09
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -9587,7 +9587,7 @@ W1ARY,MARCEL,CT,
 W1AST,LARRY,VT,Longmeadow MA
 W1AU,RICK,CT,West Hartford CT
 W1AUV,,MA,
-W1AW,HIRAM,CT,
+W1AW/4,Dwight,KY,(KM4FO) VOTA
 W1AWB,,MA,
 W1BCC,BRAD,NH,
 W1BCC/M,BRAD,MA,Winchester NH

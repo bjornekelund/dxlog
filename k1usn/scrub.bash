@@ -31,7 +31,7 @@ BEGIN {
     }
 
     if (call[$1] != "") {
-      printf("\"%s\" reappears as \"%s\"\n", line[$1], $0);
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0);
     }
     line[$1] = $0;
     call[$1] = $1;

@@ -968,6 +968,7 @@ GI4SZW,Jim,,County Armagh Northern Ireland
 GM0EPO,John,1974,Scotland  (Possibly QRP)
 GM0EUL,Peter,1899,Duns Scotland
 GM0LIR,Phil,,Wishaw Scotland
+GM0OPS,John,,East Kibriege Scotland
 GM2CWO,,,(Various users)  Scotland
 GM2V,Chris,2436,(GM3WOJ)  Scotland
 GM3JOB,Rod,2204,Irvine Scotland
@@ -1167,7 +1168,7 @@ IZ3GOM,GAbrielle,,San Tomaso Agordino BL Italy
 IZ3IRJ,Al,,
 IZ3YPS,Guido,,Cadoneghe Italy
 IZ4AKO,Pierluigi,,Vigarano Mainarda Italy
-IZ4APU,Gabriele,,Bologna Italy
+IZ4APU,Gabe,,(Gabrielle) Bologna Italy
 IZ4ORF,Joi,,Parma Italy
 IZ5BBS,Renato,,Barberino Di Mugello Italy
 IZ7DJR,Nigo,,Foggia Italy
@@ -2257,6 +2258,7 @@ KB1H,Dick,MA,Attleboro MA
 KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
 KB1NO,John,3020,Norfolk MA
+KB1VUN,Eric,CWA,Lebanon NH
 KB1VX,Barry,ME,Kittery ME
 KB1W,Len,MA,(Lenny)  Pittsfield MA
 KB1WTF,Nicolas,MA,Foxboro MA
@@ -2503,6 +2505,7 @@ KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
 KF0FFL,Dan,MN,Saint Paul MN
+KF0GVX,Ryan,NE,Plattsmouth NE
 KF1P,Bob,SC,Gaffney SC
 KF3B,Alan,2754,Alburtis PA
 KF3G,Sam,PA,Havertown PA
@@ -3451,6 +3454,7 @@ N6EV,Paul,380,El Camino Village CA
 N6EWT,Chris,CA,Redondo Beach CA
 N6FP,Doug,CA,Benicia CA
 N6GQ,Jeff,67,Santa Cruz CA
+N6GV,Gary,CA,Alameda CA
 N6HCN,John,1914,Yorba Linda CA
 N6HD,David,1098,Woodland Hills CA
 N6HE,Ray,2022,Rancho Palos Verdes CA
@@ -3906,6 +3910,7 @@ NW2K,Dean,1065,Springwater NY
 NW2Z,Robert,2392,Asheboro NC
 NW3H,Bill,PA,Harleysville PA
 NW3Y,CC,2185,(Chick) Seaford DE
+NW3Y/1,CC,2185,Orleans VT
 NW4V,Ed,348,Midlothian VA
 NW6P,Tom,CA,Cupertino CA
 NX3T,Martin,PA,Aldan PA
@@ -4564,6 +4569,7 @@ VA3FN,John,ON,
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
+VA3IJK,John,ON,New Hamburg ON
 VA3IK,Brian,ON,Carp ON
 VA3JFF,Jeff,ON,Welland ON
 VA3KSF,Keith,ON,Corunna ON
@@ -4643,9 +4649,9 @@ VE2QA,Vlad,QC,Beaconsfield QC
 VE2SG,Step,QC,Quebec QC
 VE2SRP,Simon,2144,(VE2ZM) St Joseph du Lac QC
 VE2SSS,Pete,QC,Jonquiere QC
+VE2TG,Yvon,QC,Wolinak QC
 VE2VAB,George,QC,Gatineau QC
 VE2VIA,Jean,QC,Chicoutimi QC
-VE2WRTC,DUB,QC,WRTC special event
 VE2WU,Marten,QC,Covey Hill
 VE2ZDX,Andre,QC,Montreal QC
 VE2ZM,Simon,2144,(VE2SRP) St-Joseph-du-Lac QC
