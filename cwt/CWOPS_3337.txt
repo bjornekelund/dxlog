@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-08
+# Last Edit,2023-03-12
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -2332,6 +2332,7 @@ KC1KUG,Bray,NH,Farmington NH
 KC1LZX,Rob,2417,Worcester MA
 KC1RL,Ric,MA,Falmouth MA
 KC1SA,Steve,CT,Wallingford CT
+KC2IGE,Matt,NY,Massapequa Park NY
 KC2JAJ,John,NY,Oneida NY
 KC2KWA,Bob,NC,Angier NC
 KC2LM,Ed,2334,Albuquerque NM
@@ -3235,7 +3236,7 @@ N3RD,Dave,232,Phoenixville PA
 N3RM,Theo,PA,Lebanon PA
 N3RS,Sig,34,Glenmoore PA
 N3RSD,Frank,DE,Wilmington DE
-N3RTW,Sean,CWA,Springfield VA
+N3RTW,Sean,VA,Springfield VA
 N3SD,Greg,1768,Aliquippa PA
 N3SW,Scott,2397,Cumberland PA
 N3TM,Thayer,PA,Harmony PA
@@ -4832,7 +4833,8 @@ VP9UKR,YURI,21,VE3DZ BERMUDA
 VQ9JC,Jim,389,Panama City Beach FL USA
 VQ9LA,Larry,644,Grandview MO USA
 VU2BGS,Kumar,,Bangalore India
-VU2PTT,Prasad,615,BAngalore India
+VU2CPL,Manoj,3337,Bangalore India
+VU2PTT,Prasad,615,Bangalore India
 VX3TM,Vlad,2543,Ottawa ON
 VY1EI,Eric,YT,Whitehorse YT Canada
 VY2SS,Rob,PE,O'LEARY PE
