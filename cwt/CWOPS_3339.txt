@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-13
+# Last Edit,2023-03-15
 # for use during a CWT
 # updated to member 3302 with numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -2603,7 +2603,7 @@ KH6NO,JJ,3223,Henderson NV
 KH6TU,Alan,217,Wailuku HI
 KH6Y,Bob,HI,Mililani HI
 KH7Y,Fred,216,Ocean View HI
-KI0F,Roger,CWA,Wabasha MN
+KI0F,Roger,3339,Wabasha MN
 KI0I,Mark,1187,Garden City VA
 KI0KN,Jim,1995,Loveland CO
 KI0T,Mark,MO,Clinton MO
