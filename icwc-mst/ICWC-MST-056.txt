@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-03-13
+# Last Edit,2023-03-14
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN for corr.
 
@@ -15,6 +15,8 @@ KB1VUN,ERIC,
 G3SQU,CHRIS,
 WN5T,Mike,
 WB3EML,Chuck,PA
+N1ETO,Glenn,
+VE3TMV,Tim,
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -50,7 +52,6 @@ WB3EML,Chuck,PA
 8P9AA,Yuri,21,Barbados (VE3DZ)
 8P9AL,Chuck,969,Barbados
 8P9NX,Peter,,Barbados (W0SA)
-8P9NX,PETER,8P,
 8Q7ZO,Mark,1224,(N5ZO)
 9A/N4XU,Bob,,Zagreb Croatia
 9A/S57KM,Sandi,,9A,
@@ -366,7 +367,6 @@ AG4EA,Bill,2373,Pelzer SC
 AG4JT,Matt,VA,Virginia Beach VA
 AG5FX,Jamie,OK,Altus OK
 AG5M,Richard,1747,Richland WA
-AG5QX,Mike,2401,Houston TX
 AG5QX,MIKE,TX,
 AG5W,Greg,TX,Georgetown TX
 AG6FU,Phil,CA,Berkeley CA
@@ -1679,7 +1679,6 @@ K4EOR,George,1655,Cataula GA
 K4ESE,Neill,NC,Lake Waccaw NC
 K4EU,Steve,1329,Culpeper VA
 K4EWG,Pete,502,Stockbridge GA
-K4FJU,HAL,NC
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
 K4FT,John,304,Crab Orchard KY
@@ -1785,7 +1784,6 @@ K5AUP,Jim,FL,Zellwood FL
 K5AX,Tom,107,Dickinson TX
 K5AZR,Ed,LA,Folson LA
 K5BGB,Rod,TX,Bryan TX
-K5BRY,JOE,TX,
 K5BRY,Joe,TX,Austin TX
 K5CI,Leo,2262,Plano TX
 K5CID,James,MS,Jackson MS
@@ -3190,7 +3188,6 @@ N1FV,John,WV,Dellslow WV
 N1GKE,Myrt,929,Hope RI
 N1GSA,Gary,CT,New Fairfield CT
 N1HN,Dus,ME,Windsor ME
-N1HN,DUSTIN,ME,Windsor ME
 N1KL,Kevin,MA,Wheelwright MA
 N1KM,Mark,RI,Bristol RI
 N1KW,Bob,1022,Homer Glen IL
@@ -3430,7 +3427,6 @@ N4OI,Ken,1536,Troutman NC
 N4OK,Bob,3023,Snellville GA
 N4ONR,LEO,SC,Kingstree SC
 N4OO,Brian,1045,Marietta GA
-N4OQV,BRUCE,
 N4OQV,BRUCE,FL,Jacksonville FL
 N4OX,Bill,1038,Mc David FL
 N4PD,Paul,663,Leesburg VA
@@ -5432,7 +5428,6 @@ W5ZW,Mark,AZ,Booneville AZ
 W6/VE4SF,Bruce,2978,
 W6AEA,Geo,1478,Spokane Valley WA
 W6AIM,Jim,CA,Orange CA
-W6AQ,Dave,2198,
 W6AQ,DAVE,OK,Dave Bell Memorial RC
 W6AT,Lanny,CA,Big Bear Lake CA
 W6AYC,Joe,2884,Atascadero CA
