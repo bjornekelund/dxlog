@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-03-14
+# Last Edit,2023-03-20
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN for corr.
 
@@ -17,6 +17,9 @@ WN5T,Mike,
 WB3EML,Chuck,PA
 N1ETO,Glenn,
 VE3TMV,Tim,
+KB4VU,Frank,
+VK3GQ,PETER,
+K9VEG,JEFF,
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -4718,7 +4721,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Eastern QC
+VE2FK,Dub,1181,BRAVO CWT - MST - SST
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
