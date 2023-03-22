@@ -1,11 +1,14 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-15
+# Last Edit,2023-03-21
 # for use during a CWT
-# updated to member 3302 with numbers removed for unpaid dues
+# Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
+# Thanks K7SV K9SO KG5U N3JT N5KD N7WY W6TN SM7IUN 
 # CWOPS
+W1AW/4,CATHY,2988,(W4CMG) Nashville TN
+W4/W1AW,Pete,TN,(WM4Q) Bon Aqua TN
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -2789,6 +2792,7 @@ KP4/W1VE,Gerry,191,(W1VE)
 KP4/W4XO,Lex,2217,Puerto Rico
 KP4AF,Carlos,2518,Ponce PR
 KP4AW,Danny,1526,Guyama PR
+KP4DX,Luis,3340,Manati PR
 KP4EJ,Carlos,1501,Salinas PR
 KP4JFR,Jose,PR,Trujillo Alto PR
 KP4JRS,Jose,3071,Trulillo PR
@@ -4120,7 +4124,7 @@ OZ7JC,Jorgen,,Skals Denmark
 P4/K3DMG,Lee,1837,
 P40LE,Andy,39,Aruba  (also K2LE)
 P40TA,Ken,,Martell  CA USA
-P44L,John,P4,?
+P44L,John,P4,Aruba
 PA0ABM,Wino,2890,Huijbergen Netherlands
 PA0GRU,Dick,3175,Heemstede Netherlands
 PA0HOP,Hans,414,Leuth Netherlands
@@ -4217,6 +4221,7 @@ R6AF,Vic,406,Novorossiysk Russia
 R6AF/P,Vic,406,Russia
 R6KD,Slave,,Alushta Russia
 R7DA,Alex,,Novorossiysk Russia
+R9AE,Alex,UA9,Chelyabinsk Asiatic Russia
 R9SK,Vlad,,Mednogorsk Asiatic Russia
 RA2FV,Anatoly,,Rybnoe Russia
 RA3AV,Alek,,Moscow Russia
@@ -4908,7 +4913,7 @@ W0VX,Dave,967,Garland TX
 W0WL,Joe,3327,Sammamish WA
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
-W0XM,Bob,KS,Shawnee KS
+W0XM,Bob,3341,Shawnee KS
 W0ZP,Wayne,IN,South Bend IN
 W1AAX,Harry,MA,Scituate MA
 W1AGE,Carl,CWA,Framingham MA
