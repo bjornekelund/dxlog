@@ -1,7 +1,7 @@
 # A1CLUB Weekly Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-03-21
+# Last updated 2023-03-24
 2E0DCW=GERALD
 2E0FPW=JK
 2E0OBO=BOB
@@ -2526,7 +2526,7 @@ F6AXX=NORBERT
 F6BCW=DIDIER
 F6BEE=JACQUES
 F6BIP=JEAN
-F6BUL=LO
+F6BUL=JOACHIM
 F6CBL=ANDRE
 F6CDX=JEAN
 F6CEL=GHIS
@@ -9480,7 +9480,7 @@ LZ4W=IVO
 LZ4WM=IVO
 LZ4YJ=ROSENH
 LZ5DB=MILEN
-LZ5DD=DANIEL
+LZ5DD=DAN
 LZ5GB=EUGEN
 LZ5IL=VLADI
 LZ5K=RC

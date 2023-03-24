@@ -1,18 +1,12 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-22
+# Last Edit,2023-03-24
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9SO KG5U N3JT N5KD N7WY W6TN SM7IUN 
 # CWOPS
-W1AW/4,CATHY,2988,(W4CMG) Nashville TN
-W4/W1AW,Pete,TN,(WM4Q) Bon Aqua TN
-EA3RR,PEPPUS,,Barcelona Spain
-IK0YUT,Luigi,,Perugia Italia
-NH6HE,DI,WA,Seatle WA
-
 
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
@@ -697,6 +691,7 @@ EA3IEB,Lorenzo,3309,Arenys de Mar Spain
 EA3IGR,Sergio,3310,Arenys de Mar Spain
 EA3M,Roger,3229,Sabadell Spain
 EA3NN,Dany,,Tarragona Spain
+EA3RR,PEPPUS,,Barcelona Spain
 EA4BB,Nando,2981,Masdrid Spain
 EA4GMX,Felipe,,Cuenca Spain
 EA4HKF,Jose,,Puertollano Spain
@@ -1112,6 +1107,7 @@ IK0XCB,Clay,598,Roma Italia (SC-EU Amb.)
 IK0XFD,Giordano,1570,Roma Italy
 IK0YGJ,Carlo,574,Rome Italia
 IK0YUJ,Luigi,,Castello Italy
+IK0YUT,Luigi,,Perugia Italia
 IK0YVV,Marco,1505,Terni Italia
 IK1HGE,Bob,2632,Almese Italy
 IK1NEG,Gab,,Imperia IM Italy
@@ -1849,7 +1845,7 @@ K5UO,Mike,TX,Conroe TX
 K5UR,Rick,2439,Little Rock AR
 K5UTG,Warren,OK,Shawnee OK
 K5UV,Mike,2701,Newailla OK
-K5UZ,David,1316,Little Rock AR
+K5UZ,Dave,1316,Little Rock AR
 K5VBA,Stan,3182,Huntsville AL (Grayling Township MI for summer)
 K5VG,John,3226,Woodbridge VA
 K5VI,Andy,TX,(Andrew) El Paso TX
@@ -1989,6 +1985,7 @@ K7KPA,Kevin,UT,Orem UT
 K7KY,Doug,1396,Brookings OR
 K7LV,George,800,Las Vegas NV
 K7LVJ,John,1833,Burlington WA
+K7MK,Jim,3342,Boise ID
 K7MNF,Mike,CWA,Blaine WA
 K7MOA,Key,1594,Athens GA
 K7MOA/4,Key,1594,Athens GA
@@ -1999,7 +1996,7 @@ K7NT,Mike,3275,Olympia WA
 K7NXL,Dan,3255,West Richland WA
 K7ON,Brian,AZ,Stanfield AZ
 K7PAX,Paula,WA,Port Angeles WA
-K7PD,Del,UT,
+K7PD,Del,UT,Central UT
 K7PKA,Paula,3055,Big Arm MT
 K7PKG,Matt,AZ,Tucson AZ
 K7QA,Tom,1959,Missoula MT
@@ -3771,6 +3768,7 @@ NG7A,George,2206,Rillito AZ
 NG7M,Max,1201,Syracuse UT
 NG7W,Matt,1586,Bow WA
 NG7Z,Paul,AZ,Marana AZ
+NH6HE,DI,WA,Seatle WA
 NH6O,Bob,3234,Honolulu HI
 NH6V,Rob,HI,Wailoloa HI
 NI0C,Chuck,431,Saint Louis MO
@@ -4583,7 +4581,7 @@ VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
 VA3IJK,John,ON,New Hamburg ON
-VA3IK,Brian,ON,Carp ON
+VA3IK,Brian,3343,Carp ON
 VA3JFF,Jeff,ON,Welland ON
 VA3KSF,Keith,ON,Corunna ON
 VA3OPN,Glenn,457,Roblin ON
@@ -4617,7 +4615,6 @@ VA7KH,Steve,3039,Ladysmith BC
 VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada (Western Amb.)
 VA7ST,Bud,1622,Lake Country BC
-VC3YOTA,Maria,3059,(VE3OMV)  Oakville ON
 VE1AOE,Don,1703,Truro NS
 VE1ASE,Mike,NB,Quispamsis NB
 VE1BAB,Wayne,NS,Port Williams NS
@@ -5833,7 +5830,7 @@ WD5DBV,Roy,290,Cade LA
 WD5GRW,Jim,3245,Allen TX
 WD5HCK,Russ,3263,Ardmore OK
 WD5RS,Russ,TX,Milford TX
-WD6T,Dave,2079,Berkeley CA
+WD6T,Dave,CA,(2079) Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
 WD8DIN,Sis,VA,Richmond VA
 WD8PKF,Alan,3202,Algona IA

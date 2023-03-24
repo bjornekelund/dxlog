@@ -1,10 +1,10 @@
 !!Order!!,Call,Name,UserText,
 #
 # 0- VE2FK CW-RTTY Personal Names/Friends list
-# 1- Last Edit,2023-03-15 
+# 1- Last Edit,2023-03-21 
 # 2- Add your name, correction = direct to ve2fk@arrl.net
 # 3- Use  {NAME}  in macro to send.
-
+# 4- Thanks SM7IUN
 # A1AWT
 
 2E0DCW,Gerald,London England
@@ -2532,7 +2532,6 @@ F6BCW,Didier,Genouilly France
 F6BEE,JACQUES,
 F6BIP,JEAN,
 F6BUL,JOACHIM,Annecy France
-F6BUL,Lo,Annecy France
 F6CBL,ANDRE,
 F6CDX,JEAN,
 F6CEL,Ghis,Pignicourt France
@@ -4172,7 +4171,6 @@ K0DI,DAVID,
 K0DQ,Scott,McLean VA
 K0DSL,DIANE,FL
 K0DTJ,Brian,Half Moon Bay CA
-K0DTQ,John,Coon Rapids MN
 K0DTQ,John,Coon Rapids MN
 K0DU,JERRY,
 K0DVH,STEVE,AZ
@@ -6290,7 +6288,6 @@ K9AJ,Mike,Crete IL
 K9ALZ,BRUCE,South Elgin IL
 K9ATX,ANDY,WI
 K9AVJ,PETE,
-K9AW,GARY,
 K9AW,GARY,Oakland Park FL
 K9AW/KH2,GARY,
 K9AWM,ANDY,Washington IN
@@ -6477,7 +6474,6 @@ K9USA,JIM,
 K9UT,Jerry,Richmond IN
 K9UW,MIKE,
 K9VA,KURT,Vienna VA
-K9VA,Kurt,Vienna VA
 K9VD,RANDY,WA
 K9VGE,GEORGE,WI
 K9VHF,RANDY,WI
@@ -8706,7 +8702,6 @@ KN4TFW,KEN,SC
 KN4UCN,BOB,AL
 KN4UUR,ANDY,SC
 KN4VCE,MIKE,Woodbridge VA
-KN4VCE,Mike,Woodbridge VA
 KN4VV,John,Fairfax VA
 KN4WZX,JEFF,GA
 KN4Y,Ed,
@@ -9493,7 +9488,6 @@ LZ4WM,IVO,
 LZ4YJ,Rosenh,Russe 7000 Bulgaria
 LZ5DB,Milen,Kazanlak Bulgaria
 LZ5DD,DAN,Sofia Bulgaria
-LZ5DD,DANIEL,
 LZ5GB,Eugen,Sofia Bulgaria
 LZ5IL,Vladi,
 LZ5K,RC,
@@ -10388,7 +10382,6 @@ N3ST,Bryan,
 N3SW,Scott,Cumberland PA
 N3TE,STEVE,MD
 N3TG,Red,
-N3TM,THAYER,Harmony PA
 N3TM,Thayer,Harmony PA
 N3TO,BOB,MD
 N3TOD,Igor,Gaithersburg MD
@@ -11807,7 +11800,6 @@ NG2T,KEPI,NY
 NG3A,Chas,(AA4LS) RC
 NG3I,Tim,Clarksville TN
 NG3J,FRED,Halifax PA
-NG3J,Fred,Honey Brook PA
 NG3K,BILL,MD
 NG3O,BILL,MD
 NG3P,Gwen,Jeffersonville PA
@@ -12164,7 +12156,6 @@ NU7Y,Quint,Oro Valley AZ
 NU8A,DAVE,
 NU8J,BRYAN,WV
 NU8M,JOHN,MI
-NU8Z,KEN,
 NU8Z,MARK,Tecumseh MI
 NV0U,RANDY,MO
 NV1G,GREG,
@@ -12638,7 +12629,6 @@ OM2DT,Dusan,Senica Slovak Republic
 OM2DX,MICHAL,
 OM2KW,BRAN,
 OM2VL,LACI,Dunajska Streda Slovak Republic
-OM2VL,Laci,Dunajska Streda Slovak Republic
 OM3CPF,Dus,Slovak Republic
 OM3CPS,PETER,
 OM3EY,Ed,Banovce N.Bebr Slovak Republic
@@ -18257,7 +18247,6 @@ WA5JWU,MIKE,
 WA5KBH,GEORGE,Lake Charles LA
 WA5KKY,WALT,
 WA5LFD,RICH,TX
-WA5LHM,SCOTT,Georgetown TX
 WA5LHM,Tom,Georgetown TX
 WA5LSV,LARRY,TX
 WA5LXS,Dennis,Carrollton TX
