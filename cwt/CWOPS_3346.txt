@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-25
+# Last Edit,2023-03-27
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -4146,6 +4146,7 @@ PA1BBO,Bert,3132,Hellendoorn Netherlands
 PA1FOX,Alex,PA,Hengelo Netherlands
 PA1LEX,Lex,,Hardewijk Netherlands
 PA1LIO,Adriaan,,Eemnes Netherlands
+PA2A,Steve,3346,Brielle Netherlands
 PA2G,Gerard,3107,Capelle Ann Den IJssel Netherlands
 PA2PIM,PIM,,Houten Netherlands
 PA2RG,Roel,3326,Vleuten Netherlands
