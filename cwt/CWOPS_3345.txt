@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-24
+# Last Edit,2023-03-25
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -4592,7 +4592,7 @@ VA3RJ,Dave,ON,Toronto ON
 VA3SAX,Steve,ON,Nepen ON
 VA3SB,Serge,1488,Missisauga ON (Possibly QRP)  (East Amb.)
 VA3SY,Syl,2433,Alfred ON
-VA3TMV,Tim,ON,Maryhill ON
+VA3TMV,Tim,3345,Maryhill ON
 VA3TTB,Chuck,ON,Holland Landing ON
 VA3UKR,Maria,ON,
 VA3WB,Dennis,ON,Oakville
@@ -4808,7 +4808,7 @@ VK2IOW,Patrick,2791,Millthorpe Austrilia
 VK3CWB,Moz,1895,(Maurie) Mildura Australia
 VK3ELT,Roger,,Upwey Vic Australia
 VK3GDM,David,,Melbourne Australia
-VK3GQ,Peter,,Montrose Australia
+VK3GQ,Peter,3344,Montrose Australia
 VK3OU,Andrew,,Eltham Ausralia
 VK3QB,Chris,2949,Foster Austrilia
 VK4AQ,Rossco,,Innisfail Australia
