@@ -1,6 +1,6 @@
 # SP DX participants database
 # Based on call history data by Chris SP5KP, SN5N
-# File last updated 2021-09-26
+# Last updated 2023-03-29
 3Z0R=K
 3Z0X=R
 3Z100ZOSP=M

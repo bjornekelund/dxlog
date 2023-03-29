@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-27
+# Last Edit,2023-03-28
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -841,7 +841,7 @@ G0JPS,Kit,2080,(Chris)  Bristol England
 G0KDZ,Mike,,N York England
 G0LLX,Andy,2954,Blackpool England
 G0MDR,Fred,G,St. Albans England
-G0MFR,Gareth,G,Dorset England
+G0MFR,Gareth,2490,Dorset England
 G0MGM,Rob,1771,Bourne End England
 G0NIG,Nigel,,W Yorkshire England
 G0OOD,Tim,2941,Norwich England
@@ -1563,7 +1563,7 @@ K3GG,Ben,3301,Quakertown PA
 K3GHH,John,1212,Towson MD
 K3GHH/2,John,1212,Newcomb NY
 K3GHH/5,John,1212,
-K3HW,Bill,PA,Harleysville PA
+K3HW,Bill,1998,Harleysville PA
 K3IE,Hunter,990,Brentwood TN
 K3IN,Peter,MD,Thurmont MD
 K3IU,Ken,364,Portsmouth RI
@@ -1891,7 +1891,7 @@ K6HTN,Kate,1068,Pasadena CA (CO Mgr. CW Academy)
 K6HZR,Jose,CA,La Verne CA
 K6IFF,Bill,CA,Claremont CA
 K6III,Jerry,CA,Grass Valley CA
-K6IJ,Fred,216,Pine Grove CA
+K6IJ,Brian,3038,(ex:W6BRY) Valley Springs CA
 K6JEB,Jack,1044,El Sobrante CA
 K6JJR,Mark,CA,Auburn CA
 K6JS,Jim,2312,Rohnert Park CA (Possibly QRP)
@@ -2181,11 +2181,11 @@ K9TI,Brian,IN,Granger IN
 K9UCX,Ken,2693,Springfield IL
 K9UIY,Vic,505,Freeport IL
 K9UQN,Don,TN,Walland TN
-K9UR,Joe,2102,(ex: K7JOE)  Bloomington IN
+K9UR,Joe,2102,Bloomington IN
 K9UT,Jerry,IN,Richmond IN
 K9VA,Kurt,VA,Vienna VA
 K9VEG,Jeff,VA,Manassas VA
-K9VP,Roger,IN,Richmond IN
+K9VP,Roger,1016,Richmond IN
 K9VV,Fubar,524,Christiansted VI (Virgin Is)
 K9WA,Jim,IL,Colona IL
 K9WO,Steve,2992,Portage WI
@@ -4069,7 +4069,7 @@ OM0CS,Kamil,1194,Bardejov Slovak Rep.
 OM0DX,Pedro,,Presov Slovak Republic
 OM0RM,Jindra,2787,Spisske Hanusovce
 OM2DT,Dusan,,Senica Slovak Republic
-OM2VL,Laci,OM,Dunajska Streda Slovak Republic
+OM2VL,Laci,1542,Dunajska Streda Slovak Republic
 OM3CPF,Dus,,Slovak Republic
 OM3EY,Ed,,Banovce N.Bebr Slovak Republic
 OM3GI,Jozef,OM,Spisska Teplica Slovak Republic
@@ -5327,7 +5327,6 @@ W6AQ,Dave,CA,
 W6AT,Lanny,CA,Big Bear Lake CA
 W6AYC,Joe,2884,Atascadero CA
 W6BK,Dave,1165,Murrieta CA
-W6BRY,Brian,3038,Valley Springs CA
 W6BUX,Bux,2603,(Gurbux) Chatsworth CA
 W6CL,Carol,OK,Tulsa OK
 W6CWO,,CA,Pacific CWops Club (Los Altos CA)
@@ -5347,7 +5346,6 @@ W6KC,Jim,1266,Santa Monica CA
 W6KSR,Ed,CA,Yorba Linda CA
 W6LD,John,CA,Atherton CA
 W6LEN,Jess,1840,Huntington Beach CA
-W6M,Jim,KS,
 W6ML,Jim,1266,(W6KC Mammoth Lakes CA)
 W6MOB,Sam,CA,Fremont CA
 W6MYN,Joe,CA,Long Beach CA
