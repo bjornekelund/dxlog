@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-29
+# Last Edit,2023-03-31
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -3088,6 +3088,7 @@ N0XE,Jim,IA,Sioux City IA
 N0YY,Rick,1434,Marion IA
 N0ZIB,Adam,MO,Pevely MO
 N1AE,John,MA,South Easton MA
+N1AC,Scott,FL,Cape Coral FL
 N1AOK,Charlie,3050,Fort Collins CO
 N1BG,Fred,1030,Gibsonville NC
 N1CC,Mike,2817,Scottsdale AZ
@@ -3711,6 +3712,7 @@ NC5G,George,TX,Gallantin TX
 NC6K,Eric,1640,Poway CA
 NC7M,Marc,1002,Boring OR
 ND1X,John,CT,Gaylordsville CT
+ND2O,Bob,3347,Oak Island NC
 ND2T,Tom,110,Palo Alto CA
 ND3D,Bob,MD,Baltimore MD
 ND4K,Dave,2945,Milledgeville GA
@@ -4582,7 +4584,7 @@ VA3FN,John,ON,
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
-VA3IJK,John,ON,New Hamburg ON
+VA3IJK,John,3348,New Hamburg ON
 VA3IK,Brian,3343,Carp ON
 VA3JFF,Jeff,ON,Welland ON
 VA3KSF,Keith,ON,Corunna ON
@@ -4641,7 +4643,7 @@ VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,BRAVO  CWT - SST - MST
+VE2FK,Dub,1181,Look for VA2RAC HQ CW April 18 WARD
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
