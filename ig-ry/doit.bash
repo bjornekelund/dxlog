@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTFILE=RTTYOPS_WW_db.txt
+OUTFILE=IG-RY_db.txt
 FILE=`ls IG_WW_* | tail -1 2> /dev/null`
 
 dos2unix -q $FILE
@@ -33,7 +33,7 @@ BEGIN {
   }
 }
 END {
-  printf("#0 Database for SCC RTTY, IG-RY, and RTTYops WW DX contests\n");
+  printf("#0 Database for IG-RY, SCC RTTY and RTTYops WW DX contests\n");
   printf("#1 Based on data collected and maintained by Claude VE2FK\n");
   printf("#2 Report errors and updates to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));

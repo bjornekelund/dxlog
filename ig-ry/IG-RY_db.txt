@@ -1,7 +1,7 @@
-# Database for SCC RTTY, IG-RY, and RTTYops WW DX contests
+# Database for IG-RY, SCC RTTY and RTTYops WW DX contests
 # Based on data collected and maintained by Claude VE2FK
 # Report errors and updates to ve2fk@arrl.net
-# Last updated 2023-03-24
+# Last updated 2023-04-03
 2E0GBC=2006
 2E0SQL=2002
 2E0TQR=2007
@@ -318,6 +318,7 @@ DK1AUP=2005
 DK1AW=1967
 DK1GW=1966
 DK1WA=1969
+DK2FG=1967
 DK2NPM=2003
 DK2VM=1978
 DK3DG=1968

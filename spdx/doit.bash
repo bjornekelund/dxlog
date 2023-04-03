@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=`ls SPDX[^_]* | tail -1 2> /dev/null`
+FILE=`ls SPDX*[0-9]* | tail -1 2> /dev/null`
 OUTFILE=SPDX_db.txt
 
 dos2unix -q $FILE

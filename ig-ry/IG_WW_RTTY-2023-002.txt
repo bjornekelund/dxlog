@@ -4,7 +4,7 @@
 # Current contest: SCRY replacing SCCRTTY
 # Exch = Years of your first lic.
 # IG_WW_RTTY
-# LastEdit,2023-03-23
+# LastEdit,2023-04-02
 # SCRY
 # Thanks SM7IUN for his help
 2E0GBC,2006,
@@ -323,6 +323,7 @@ DK1AUP,2005,
 DK1AW,1967,
 DK1GW,1966,
 DK1WA,1969,
+DK2FG,1967,
 DK2NPM,2003,
 DK2VM,1978,
 DK3DG,1968,

@@ -1,9 +1,9 @@
 # Created by Chris SP5KP, SN5N - 2023 Mar 29 
 !!Order!!,Call, Sect
-# Current contest: SPDXcw/ssb 2023 Apr 1/2
+# Current contest: SPDXcw/ssb 
 # Rules: https://spdxcontest.pzk.org.pl/2023/
 # SPDX
-# Updated from log of VE2FK 2023-04-01 at 2130z
+# Updated from log of VE2FK 2023-04-02
 3Z0R,K,
 3Z0X,R,
 3Z100ZOSP,M,
@@ -27,15 +27,17 @@
 3Z9M,G,
 HF0H,M,
 HF0WFF,R,
+HF0ZZ,Z,
 HF100HCH,U,
 HF1A,Z,
-HF1K,Z,
 HF1D,Z,
+HF1K,Z,
 HF3P,W,
 HF3R,W,
 HF3Y,B,
 HF4I,J,
 HF4U,O,
+HF50F,J,
 HF5L,R,
 HF5WIM,R,
 HF5ZM,R,
@@ -3531,6 +3533,7 @@ SQ5IRH,R,
 SQ5IRO,R,
 SQ5IXA,R,
 SQ5IZX,R,
+SQ5J,R,
 SQ5JD,R,
 SQ5JD/8,K,
 SQ5JOB,R,

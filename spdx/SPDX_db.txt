@@ -1,6 +1,6 @@
 # SP DX participants database
 # Based on call history data by Chris SP5KP, SN5N
-# Last updated 2023-04-02
+# Last updated 2023-04-03
 3Z0R=K
 3Z0X=R
 3Z100ZOSP=M
@@ -24,6 +24,7 @@
 3Z9M=G
 HF0H=M
 HF0WFF=R
+HF0ZZ=Z
 HF100HCH=U
 HF1A=Z
 HF1D=Z
@@ -33,6 +34,7 @@ HF3R=W
 HF3Y=B
 HF4I=J
 HF4U=O
+HF50F=J
 HF5L=R
 HF5WIM=R
 HF5ZM=R
@@ -3528,6 +3530,7 @@ SQ5IRH=R
 SQ5IRO=R
 SQ5IXA=R
 SQ5IZX=R
+SQ5J=R
 SQ5JD/8=K
 SQ5JD=R
 SQ5JOB=R
