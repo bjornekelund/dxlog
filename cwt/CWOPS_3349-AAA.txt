@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-03-31
+# Last Edit,2023-04-03
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -2773,7 +2773,6 @@ KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
 KO4GBD,Aaron,3121,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
-KO4GEO,Mike,CWA,Nashville TN
 KO4LAO,Jim,3200,Travelers Rest SC
 K4KVC,Ken,FL,The Villages FL
 KO4UHE,Rick,KY,Danville KY
@@ -3286,7 +3285,7 @@ N4DW,Dave,923,Kingsport TN
 N4EEB,John,2335,Astor FL
 N4EEV,Mike,1600,Richmond Hills GA
 N4EII,Al,2291,Cary NC
-N4EL,Nat,OH,Tipp City OH
+N4EL,Nat,3349,Tipp City OH
 N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
@@ -5897,7 +5896,7 @@ WN1M,Mike,CT,South Glastonbury CT
 WN4AFP,Dave,1208,Greenville SC
 WN4R,Byron,FL,Lady Lake FL
 WN5V,Dave,2642,Welsh LA
-WN5T,Mike,3314,Nashville TN
+WN5T,Mike,3314,(Previously KO4GEO) Nashville TN
 WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
