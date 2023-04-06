@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-04-03
+# Last Edit,2023-04-04
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -443,8 +443,9 @@ CU3HQ,Dave,,Lajes Azores
 CX6VM,Jorge,525,Cerro Largo Uruguay
 CX7CW,Phil,570,Montevideo Uruguay
 CX7TT,Tom,518,Rocha Uruguay
+D4NA,Timo,2967,(OH1NOA)
 D4Z,Phil,1354,(HB9ARF) QRV for WPX
-DA0BCC,Mario,2801,Germany
+DA0BCC,Sven,2697,Germany
 DD5CF,Colin,DL,Bonn Germany (QRP)
 DD5KG,Gabor,2471,Munich Germany
 DD5XX,Saki,2354,Esslingen  (nr Stuttgart) Germany
@@ -920,6 +921,7 @@ G4FJW,Chris,,Kent England
 G4GIR,Ian,,Bedford England
 G4HLN,Larry,3073,Summerset England
 G4HOM,Fred,,Birmingham England
+G4HSO,Peter,,nr London England
 G4HXL,Larry,,Colne England
 G4HZE,Ed,2753,Saltash England
 G4HZV,Bob,1636,Guildford England
@@ -1318,6 +1320,7 @@ K0VBU,Bill,844,Overland Park KS
 K0VW,JJ,2098,(John)  Apple Valley MN
 K0VXU,Russ,836,Stilwell KS
 K0WA,Lee,1859,Newton KS
+K0WEW,Kent,KS,Leawood KS
 K0WOI,Dan,IA,Minburn IA
 K0XP,Steve,CA,Mission Viejo CA
 K0XQ,Sean,1844,Andover MN
@@ -2484,6 +2487,7 @@ KE5AKL,Mike,NM,Albuquerque NM
 KE5AZ,Ken,3162,Houston TX
 KE5C,John,TX,Temple TX
 KE5EN,Eric,3009,Plano TX
+KE5ES,Dave,TX,Clyde TX
 KE5FRF,Heath,LA,Greenwell Springs LA
 KE5KOV,Jay,TX,Allen TX
 KE5MI/0,Bill,CO,
@@ -3609,7 +3613,7 @@ N8OO,Vic,LA,Pineville LA
 N8PE,John,OH,Xenia OH
 N8RQJ,Harold,OH,Columbus OH
 N8RR,Chas,WV,Charleston WV
-N8RZO,Ken,MI,Bad Axe MI
+N8RZO,Ken,3351,Bad Axe MI
 N8TCP,Roger,OH,Perma Heights OH
 N8TD,Tom,749,Dayton OH
 N8UM,John,1535,Oak Ridge TN
@@ -4176,6 +4180,7 @@ PA3KC,Jurgen,,Eindhoven Netherlands
 PA3OES,Andre,,Emmen Netherlands
 PA4M,Mark,,Houten Netherlands
 PA4N,Frank,1161,Almere Netherlands
+PA4OES,Andre,,Emmen Netherlands
 PA5KT,Henk,1962,Abtskerke Netherlands
 PA5V,Bob,179,Boskoop Netherlands
 PA5XM,Kees,,AW Waddinxveen Netherlands
@@ -4248,6 +4253,7 @@ RN1QA,Yuri,,Vologodska Russia
 RN3DN,Serge,,Moskovskaya Russia
 RN4W,Igor,,Izhevsk Russia
 RO5A,Joe,,Moscow Russia
+RO5O,Alex,,Voronezh Russia
 RO9O,Alex,,Novosibirskij Asiatic Russia
 RQ3D,Alex,,Moscow Russia
 RT1Q,Andy,,Volgodskaya Russia
@@ -4934,6 +4940,7 @@ W1CZ,Pich,NY,College Point NY
 W1EBI,George,9,Acton MA  (Also VA2EBI)
 W1EBM,Gary,784,Brookline NH
 W1EQ,Bob,871,Putnam CT
+W1ETI,Chris,ME,Edgecomb ME
 W1FCV,John,917,Andover CT
 W1FJ,Al,504,Topsfield MA
 W1FOX,Brian,TX,Frisco TX
@@ -5746,7 +5753,6 @@ WB3BIQ,Rick,PA,Irwin PA
 WB3DPS,Mark,PA,Library PA
 WB3EGD,Rich,3122,Hazleton PA
 WB3JGP,Randy,CA,El Cerrito CA
-WB3JQ,,PA,?
 WB3LJQ,Vincent,3120,Latrobe PA
 WB4AEG,Hal,1646,Adairsville GA
 WB4AQL,Mike,498,Chickamauga GA
@@ -5764,6 +5770,7 @@ WB5BKL,Nick,1371,Lake Buchanan TX (K3-QRP)
 WB5HOW,Victor,TX,Houstor TX
 WB5K,Jay,1769,Allen TX
 WB5LXJ,Greg,TX,Garland TX
+WB5N,Dave,3350,Houston TX
 WB5OZA,Doug,LA,Estherwood LA
 WB6BEE,Don,VA,Williamsburg VA
 WB6BRY,Brian,CA,Valley Springs CA
@@ -6001,6 +6008,7 @@ WZ8P,Ev,OH,Zanesville OH
 XE1IM,Hector,XE,Puebla Mexico
 XE1KK,Ramon,,Mexico City
 XE1YZY,Pete,,Queretaro Mexico
+XE2F,Rafa,,Mexico
 XE2V,Mode,,La Paz Mexico
 XE2X,Jorge,796,Hidalgo TX
 XE3A,Pablo,3138,Yucatan Mexico

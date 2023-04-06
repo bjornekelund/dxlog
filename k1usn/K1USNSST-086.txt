@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-03-28
+# 1-Last Edit,2023-04-04
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -838,6 +838,7 @@ AK8E,STEVE,AZ,
 AK9F,AL,IL,
 AK9L,,IL,
 AL1G,CAT,AK,
+AL7AF,LEN,AK,Fairbanks AK
 AL7B,DICK,AK,
 AL7O,,MO,
 AL7O/W0,,MO,
@@ -858,6 +859,7 @@ DF6RI,ALFRED,DX,Happurg Germany
 DF7CP,STEFAN,DX,Eldena Germany
 DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
+DG1HTT,MO,DX,Halle Germany
 DH1NTT,Terry,DX,Aschaffenburg Germany
 DH4NWG,MARTIN,DX,Hersbruck Germany
 DJ0AQ,KAZIK,DX,Idar-Oberstein Germany
@@ -934,6 +936,7 @@ EI2KW,DICK,DX,Kildare Ireland
 EI3HA,TONY,DX,Strandhill Sligo Ireland
 EI4JZ,BRONEK,DX,Roscommon Ireland
 EI4KO,COLM,DX,Dublin Ireland
+EI5LB,GERD,DX,Kingscourt Ireland
 EI9JF,NICKY,DX,Kildare Ireland
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
 F4ABV,DENIS,DX,?
@@ -965,6 +968,7 @@ F6DQV,Jean,DX,Vieille-Brioude France
 F6FGG,MAURICE,DX,Augisey France
 F6GWB,Gerard,DX,Elancourt France
 F6KRK,JAC,DX,RC Bretonneux France
+F8BCU,XAVIER,DX,France
 F8DPM,MICHEL,DX,LLupia France
 FG8NY,JEAN,DX,St Claude Guadeloupe
 G0EKH,Ken,DX,Devon England
@@ -1011,6 +1015,7 @@ GW4J,STEW,DX,Bangor Wales
 GW4ZAR,DAVE,DX,Flintshire Wales
 GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW7APP,Ian,DX,Anlesey Wales
+HA5BDO,GABOR,DX,Szodliget Hungary
 HA8RJ,ATI,DX,Soltvadkert Hungary
 HA8WZ,GYURI,DX,Bekescsaba Hungary
 HB0/DL5YL,TINA,DX,DXP
@@ -1047,6 +1052,7 @@ IK4POF,ALF,DX,Calderara Reno Bo Italy
 IK5NFJ,STEFANO,DX,Cevoli PI Italy
 IK6FAW,BRUNO,DX,ASCOLI PICENO IALY,
 IK7FPU,TONY,DX,Sannicandro Italy
+IN3TWX,WOLF,DX,Tirolo Italy
 IQ1IV,RO,DX,Ivrea Italy
 IU0PIO/7,LECCE,DX,?
 IU1AUG,Diego,DX,Tavagnasco Italy
@@ -1848,6 +1854,7 @@ K3TD,TAD,NC,
 K3TEF,DAN,PA,
 K3TEJ,JOHN,PA,
 K3TF,TOM,PA,
+K3THS,AARON,PA,Altoona PA
 K3TKJ,,DE,
 K3TM,ROGER,MD,
 K3TN,JOHN,MD,
@@ -3525,6 +3532,7 @@ KA3ZPA,,MD,
 KA4AXS,,FL,
 KA4BVG,RICH,TN,
 KA4CDN,MIKE,VA,
+KA4ECV,JOHN,TN,
 KA4FVE,MIKE,SC,
 KA4GAV,BILL,MN,
 KA4GFY,,VA,
@@ -4027,6 +4035,7 @@ KC3EF,DICK,FL,
 KC3EID,JERRY,PA,West Chester PA
 KC3ELW,ERIC,MD,
 KC3FQF,ROSTI,NY,
+KC3FQF/M,ROSTI,PA,
 KC3GEM,,PA,
 KC3HGR,TOM,MD,Edgewater MD
 KC3HLD,CHRIS,PA,
@@ -5949,6 +5958,7 @@ N0ZKK,,MO,
 N0ZT,DAN,MO,Saint Louis MO
 N1ADM,DAN,GA,
 N1AE,JOHN,MA,
+N1AI,DAVE,NH,Nashua NH
 N1AM,JOHN,MA,
 N1AOB,STEVE,CT,Woodbury CT
 N1AW,AL,MA,
@@ -8587,6 +8597,7 @@ UA3DEA,VAL,DX,Serghiev Posad Russia
 UG9A,Dmitriy,DX,Chelyabinsk Russia
 UN7QF,GENNA,DX,Almaty Kazakhstan 
 UR3QX,GENO,DX,Zaporizhia Ukraine
+UR4EZ,VICTOR,DX,Ukraine
 UR5EH,ALEKS,DX,Ukraine
 UR5KHQ,KEN,DX,Rivne Ukraine
 UR5MM,RUDY,DX,Partizanskaya Ukraine
@@ -8987,6 +8998,7 @@ VE3MJU,JIM,ON,
 VE3MKX,MIKE,ON,
 VE3MM,RICK,ON,
 VE3MO,JIM,ON,
+VE3MRX,BILL,ON,Oakville ON
 VE3MS,RODGER,ON,
 VE3MTG,LARRY,ON,
 VE3MV,DOUG,ON,East York ON
@@ -9207,6 +9219,7 @@ VE7BTO,JACK,BC,
 VE7BYI,ALBERT,BC,
 VE7CA,MARKUS,BC,
 VE7CC,LEE,BC,
+VE7CCY,SCOTT,BC,Langley BC
 VE7CF,JACK,BC,
 VE7CFD,DAVE,BC,
 VE7CNW,TONY,BC,
@@ -11402,6 +11415,7 @@ W7IZ,SCOTT,OR,
 W7JET,BRIAN,AZ,Apache Junction AZ
 W7JF,,MT,
 W7JMM,JIM,OR,
+W7JMP,JIM,OR,Portland OR
 W7JNM,BOB,OR,Portland OR
 W7JRD,Jim,ID,Hope ID
 W7JU,,AZ,
@@ -12812,6 +12826,7 @@ WB5IDY,STEVE,TX,
 WB5JJJ,GEORGE,AR,
 WB5K,JAY,TX,
 WB5KDC,,OK,
+WB5KXW,BRIAN,TX,Fort Worth TX
 WB5KYK,,MS,
 WB5LBT,,LA,
 WB5LXJ,GREG,TX,
@@ -13486,6 +13501,7 @@ WW1ME,RICK,ME,
 WW2DDM,,VA,
 WW2DX,LEE,NY,
 WW2J,,NY,
+WW2L,LEVENT,NJ,Holmdel NJ
 WW2P,TIM,NY,
 WW2PT,PAUL,TX,
 WW2R,,TX,
@@ -13557,6 +13573,8 @@ XE2AD,DAVE,DX,Aguascalientes Ags Mexico
 XE3A,PABLO,DX,Yucatan Mexico
 YL3JD,HANZ,DX,Lkskile Latvia
 YO3FFF,Christi,DX,Bucuresti Romaina
+YO3XX/P,MIRCEA,DX,
+YU1SY,PRODAN,DX,
 YU7OQA,KARLO,DX,?
 YU9CF,ZORAN,DX,Cacak Serbia
 YV1LBB,Lorenzo,DX,Maracaibo Zulia Venezuela
