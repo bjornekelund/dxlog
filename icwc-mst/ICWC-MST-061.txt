@@ -2,36 +2,21 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-03-27
+# Last Edit,2023-04-03
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
-
-KI3C,TERRY,
-NU8Z,MARK,
-HA3IC,PISTI,
-PA2WLE,BERT,
-K3GG,BEN,
-KB1VUN,ERIC,
-G3SQU,CHRIS,
-WN5T,Mike,
-WB3EML,Chuck,PA
-N1ETO,Glenn,
-VE3TMV,Tim,
-KB4VU,Frank,
-VK3GQ,PETER,
-K9VEG,JEFF,
-N7VS,Steve,
-AK2U,Ken,
-KD4IW,Steve,
-N3RTW,Sean,
-N8HVW,Todd,
-W7DLR,Dave,
+KI0F,ROGER,
+KD9VGM,NOAH,
+W7JMP,JIM,
+KC6D,DON,
+PA2WLE,VAN,
+EA5XQ,JUAN,
 
 
 2E0DCW,Gerald,,London England
-2E0OBO,Bob,2381,Edingthorpe Norfolk England
+2E0OBO,Bob,,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
-3D2AG,Antoine,2554,Suva Fiji
+3D2AG,Antoine,,Suva Fiji
 3DA0AQ,Hans,,Manzini Swaziland
 3Z50GP,Dick,,(SP9GR) Czesthochdwa Poland
 4O3A,Ranko,,Montenegro
@@ -41,55 +26,55 @@ W7DLR,Dave,
 4X1VF,Jan,,Givatayim Israel
 4X4DK,Ami,,Rehovot Israel
 4X4FC,ALEX,4X,Netanya Israel
-4X4NJ,Riki,275,D.N. Israel Modin (also K7NJ)
-4X4PP,Eric,1442,Migdalim Israel
-4X6FB,Aaron,3121,Haifa Israel
-4X6GP,Vic,5,Rehovot Israel (K2VCO)
-4X6KF,Moshe,659,Natanya Israel
-4Z1UF,Ilya,636,Lod Israel
-4Z4DX,Dov,175,Ramat Hasharon Israel
+4X4NJ,Riki,,D.N. Israel Modin (also K7NJ)
+4X4PP,Eric,,Migdalim Israel
+4X6FB,Aaron,,Haifa Israel
+4X6GP,Vic,,Rehovot Israel (K2VCO)
+4X6KF,Moshe,,Natanya Israel
+4Z1UF,Ilya,,Lod Israel
+4Z4DX,Dov,,Ramat Hasharon Israel
 4Z4KX,Mark,,Rishon Le-Zion Israel
 4Z5LA,Ros,,Nofim Israel
-5B/UX1HW,Art,1890,
+5B/UX1HW,Art,,
 5T5PA,Johannes,,Nouadhibou Mauritania
-6Y2T,Yuri,21,Jamaica (VE3DZ)
+6Y2T,Yuri,,Jamaica (VE3DZ)
 6Y5WJ,Josh,,St-Elizabeth Jamaica
-7J1ABD,Dan,1176,Tokyo Japan
+7J1ABD,Dan,,Tokyo Japan
 7S3A,Jan,,Sundbruk Sweden
-7X2TT,Abdel,2344,(M0NPT)  Alger Algeria
-7X3DA,Hamid,1676,Laghouat Algeria
+7X2TT,Abdel,,(M0NPT)  Alger Algeria
+7X3DA,Hamid,,Laghouat Algeria
 7Z1HL,Harry,,Riyadh Saudi Arabia
-8P9AA,Yuri,21,Barbados (VE3DZ)
-8P9AL,Chuck,969,Barbados
+8P9AA,Yuri,,Barbados (VE3DZ)
+8P9AL,Chuck,,Barbados
 8P9NX,Peter,,Barbados (W0SA)
-8Q7ZO,Mark,1224,(N5ZO)
+8Q7ZO,Mark,,(N5ZO)
 9A/N4XU,Bob,,Zagreb Croatia
 9A/S57KM,Sandi,,9A,
-9A1AA,Ivo,2447,Belisce Croatia
-9A2AJ,Tom,2506,(Tomislav)  Lipik Croatia
+9A1AA,Ivo,,Belisce Croatia
+9A2AJ,Tom,,(Tomislav)  Lipik Croatia
 9A2EU,Zlatko,,Zapresic Croatia
 9A2KI,Ico,,near Slavonbski Brod Croatia
 9A2N,Dado,,Novska Croatia
 9A2UN,Bert,,Hektoroviceva Solin
 9A3R,Amir,,Pazin Croatia
-9A3SM,Mato,3098,Zagreb Croatia
+9A3SM,Mato,,Zagreb Croatia
 9A3SMS,Srdan,,Dubrovnik Croatia
-9A3XV,Sale,2590,Zagred Croatia
-9A5KVU,Mike,1247,(N1EN)  (Remote)  Croatia
-9A5MX,Sven,2697,(remote)  Also DJ4MX Croatia
+9A3XV,Sale,,Zagred Croatia
+9A5KVU,Mike,,(N1EN)  (Remote)  Croatia
+9A5MX,Sven,,(remote)  Also DJ4MX Croatia
 9A5W,Nikola,,Velika Gorica Croatia
-9A7R,Braco,1482,Draganic Croatia
+9A7R,Braco,,Draganic Croatia
 9A9A,Emil,,Zagreb Croatia
-9A9CW,Rif,2576,Croatia
+9A9CW,Rif,,Croatia
 9A9XX,Marin,,Rijeka Croatia
 9H/SV1DAY,Manos,9H,
 9H1XT,John,,Xghajra Malta
-9H3AK,Steve,1268,Malta  (KL7SB)
+9H3AK,Steve,,Malta  (KL7SB)
 9M6BG,Alex,,E Malaysia
-9N7DX,Dov,175,Nepal
-9V1VV,John,678,Singapore
-9V1YC,James,66,Singapore
-A61AD,Don,2,Dubai UAE
+9N7DX,Dov,,Nepal
+9V1VV,John,,Singapore
+9V1YC,James,Singapore
+A61AD,Don,,Dubai UAE
 AA0AI,Steve,IA,North Liberty IA
 AA0AW,Doug,MN,Duluth MN
 AA0FO,Marsh,1532,Kansas City KS
@@ -209,6 +194,7 @@ AB5EB,Mike,2115,New Braunfels TX
 AB5M,Scott,2738,Grencoe OK
 AB5OR,Joe,1338,Tupelo MS
 AB5X,BOB,TX,Pasadena TX
+AB5XM,Allan,
 AB5XS,Jim,2916,Hurst TX
 AB6BR,Tony,3089,Castro Valley CA
 AB6CC,Charles,CA,Fairfield CA
@@ -433,6 +419,7 @@ AJ8B,Bill,1567,Waynesville OH
 AJ8M,Bruce,OH,Medina OH
 AJ9C,Mike,741,Marion IN
 AK1MD,Alex,MA,Newton Center MA
+AK2U,Ken,
 AK4AO,Doug,2145,Annandale VA
 AK4AT,John,2391,Willis VA
 AK4EX,STUART,TN,Clarksville TN
@@ -904,6 +891,7 @@ G3OAC,Ken,,Derby England
 G3OKA,John,,Meols Virral UK
 G3PXT,Gordon,,Norwich England
 G3ROO,Ian,,Rosemount England
+G3SQU,CHRIS,
 G3SVK,Fred,1357,Romford Essex England
 G3SYS,Darrel,1578,Tucson AZ (AA7FV)
 G3SZU,Keith,2784,Lancashire England
@@ -1028,6 +1016,7 @@ HA2NP,Robert,,Pilis Hungary
 HA2NY,Feri,,Tatabanya Hungary
 HA2SB,Gabor,,Papa Hungary
 HA3HK,Zoli,,Lengyeloti Hungary
+HA3IC,PISTI,
 HA3MN,Egon,,Nyirabrany Hungary
 HA3YGD,Zoli,,Lengyeltoti Hungary
 HA4AA,Andras,,Budapest Hungary
@@ -1585,6 +1574,7 @@ K3FCG,OJ,FL,Brooksville CC Tampa FL
 K3FH,Mike,2516,Wexford PA
 K3FX,Charlie,NJ,Bradley Beach NJ
 K3GBB,George,2612,Mount Airy MD
+K3GG,BEN,
 K3GHH,John,1212,Towson MD
 K3GHH/2,John,1212,Newcomb NY
 K3GHH/5,John,1212,
@@ -2229,6 +2219,7 @@ K9UQN,Don,TN,Walland TN
 K9UR,Joe,2102,(ex: K7JOE)  Bloomington IN
 K9UT,Jerry,IN,Richmond IN
 K9VA,Kurt,VA,Vienna VA
+K9VEG,JEFF,
 K9VP,Roger,1016,Richmond IN
 K9VV,Fubar,524,Christiansted VI (Virgin Is)
 K9WA,Jim,IL,Colona IL
@@ -2312,6 +2303,7 @@ KB1H,Dick,MA,Attleboro MA
 KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
 KB1NO,John,3020,Norfolk MA
+KB1VUN,ERIC,
 KB1VX,Barry,ME,Kittery ME
 KB1W,Len,MA,(Lenny)  Pittsfield MA
 KB1WTF,Nicolas,MA,Foxboro MA
@@ -2340,6 +2332,7 @@ KB4KBS,Scott,GA,Roswell GA
 KB4LA,Dave,AL,Albertville AL
 KB4QQJ,Randy,NC,Burlington NC
 KB4U,JIM,GA,Decatur GA
+KB4VU,Frank,
 KB4WLF,Wolf,1982,(Dwight)  Brookhaven GA
 KB5EDR,Rich,TX,Lufkin TX
 KB5FLA,Rich,AR,Russellville AR
@@ -2484,6 +2477,7 @@ KD2ST,Al,2711,Mount Laurel NJ
 KD2TUU,TOM,PA,
 KD4AJF,JEFF,,NC
 KD4EE,Scott,1330,Bellevue KY
+KD4IW,Steve,
 KD4LYC,Andrew,DC,Washington DC
 KD4OS,Emmett,1188,Virginia Beach VA
 KD4Q,Bob,2743,Flager Beach FL
@@ -2693,6 +2687,7 @@ KI0KN,Jim,1995,Loveland CO
 KI0T,Mark,MO,Clinton MO
 KI1U,Mike,2327,Cheshire CT
 KI2N,Mark,2730,La Fayette NY
+KI3C,TERRY,
 KI3F,Denny,2008,Harrisburg PA
 KI4EZL,Steve,NC,Fayetteville NC
 KI4FW,Rick,VA,Arlington VA
@@ -3190,6 +3185,7 @@ N1DG,Don,2,Duxbury MA
 N1DN,Phil,CT,West Hartford CT
 N1EA,David,MA,Green Harbor MA
 N1EN,Mike,1247,Windsor CT
+N1ETO,Glenn,
 N1EXC,JUAN,MA,Methuen MA
 N1FG,Larry,2012,ex:KJ1RE Deerfield NH
 N1FJ,Andy,MA,Florence MA
@@ -3345,6 +3341,7 @@ N3RD,Dave,232,Phoenixville PA
 N3RM,Theo,PA,Lebanon PA
 N3RS,Sig,34,Glenmoore PA
 N3RSD,Frank,DE,Wilmington DE
+N3RTW,Sean,
 N3SD,Greg,1768,Aliquippa PA
 N3SW,Scott,2397,Cumberland PA
 N3TM,Thayer,PA,Harmony PA
@@ -3678,6 +3675,7 @@ N7TR,Rich,95,Reno NV
 N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
+N7VS,Steve,
 N7WY,Bob,1406,Cheyenne WY
 N7XE,JIM,NV,Bethleham PA
 N7XM,Josh,WV,Dayton NV
@@ -3703,6 +3701,7 @@ N8FYL,John,MI,Troy MI
 N8GAS,Greg,MI,Bloomfield Hills MI
 N8HHG,Paul,OH,Northfield Center OH
 N8HP,Ed,OH,Middletown OH
+N8HVW,Todd,
 N8IGM,JOE,MI,Hale MI
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
@@ -4017,6 +4016,7 @@ NU6N,Arka,2152,Sunnyvale CA (Southwest Amb.)
 NU6T,Richard,CA,Fair Oaks CA
 NU7J,Tom,WA,Marysville WA
 NU7Y,Quint,1261,Oro Valley AZ
+NU8Z,MARK,
 NV1U,Tom,2303,The Villages FL
 NV3N,Stu,1815,Pennsylvania Furnace PA
 NV4C,IAN,GA,Roswell GA
@@ -4253,6 +4253,7 @@ PA2RG,ROEL,
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
+PA2WLE,BERT,
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands
@@ -4832,6 +4833,7 @@ VE3SIF,Ron,3082,Guelph ON
 VE3SMA,Steve,ON,Burlington ON
 VE3TM,Vlad,2543,Ottawa ON
 VE3TMK,Dave,3019,(AB1KT) Toronto ON
+VE3TMV,Tim,
 VE3TW,Stan,1563,Scarborough ON
 VE3TZF,KEITH,
 VE3UEE,RC,,RADIO CLUB
@@ -4907,6 +4909,7 @@ VK2IOW,Patrick,2791,Millthorpe Austrilia
 VK3CWB,Moz,1895,(Maurie) Mildura Australia
 VK3ELT,Roger,,Upwey Vic Australia
 VK3GDM,David,,Melbourne Australia
+VK3GQ,PETER,
 VK3QB,Chris,2949,Foster Austrilia
 VK4AQ,Rossco,,Innisfail Australia
 VK4TJF,James,1191,Stafford Heights Australia (OC Amb.)
@@ -5515,6 +5518,7 @@ W7CQW,Quint,ID,Post Falls ID
 W7CT,Jim,287,Mentone AL
 W7CWO,,,CWops Northwestern Div. (Bigfork Montana)
 W7CXX,Jack,2454,Collins Aerospace ARC Wash. UT
+W7DLR,Dave,
 W7DZD,Darrel,WA,Bothell WA
 W7EE,Gary,1949,Bigfork MT
 W7EEE,Tim,1905,Seattle WA
@@ -5774,6 +5778,7 @@ WA3YRI,Bob,NJ,Lumberton NJ
 WA3ZKI,Alan,NJ,Cherry Hill NJ
 WA4AUG,Andy,2751,(AA5JF)  Augusta University GA
 WA4CDR,JOE,
+WA4CUQ,Allan,,TN
 WA4FAT,Bill,AL,Birmingham AL
 WA4IPU,Bruce,FL,Ocala FL
 WA4JFK,Steve,FL,Key West FL
@@ -5895,6 +5900,7 @@ WB3BIQ,Rick,PA,Irwin PA
 WB3DOM,RON,
 WB3DPS,Mark,PA,Library PA
 WB3EGD,Rich,3122,Hazleton PA
+WB3EML,Chuck,PA
 WB3JGP,Randy,CA,El Cerrito CA
 WB3JQ,,PA,?
 WB3LJQ,Vincent,3120,Latrobe PA
@@ -6055,6 +6061,7 @@ WN1M,Mike,CT,South Glastonbury CT
 WN1MB/2,JEFF,NY,
 WN4AFP,Dave,1208,Greenville SC
 WN4R,Byron,FL,Lady Lake FL
+WN5T,Mike,
 WN5V,Dave,2642,Welsh LA
 WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,1945,Centreville VA

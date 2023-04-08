@@ -2,8 +2,8 @@
 #
 # GCUP
 # Info file, log what you copy.
-# Last Edit,2023-03-04
-# info from UA9QCQ
+# Last Edit,2023-04-03
+# info from https://gccontest.ru/rules/
 # Send info or corrrection direct to ve2fk@arrl.net
 #
 RJ1O,KP,Plesetsk Cosmodrome
@@ -19,3 +19,4 @@ RW0A,SA,Aerospace Academy
 RW0J,KV,Cosmodrome Vostochny
 R2VA,PC,Research Institute of Parachute Engineering
 U4MIR,CV,Cosmonaut Alexander Volkov
+R8TT,AU,Orenburg Military Aviation Piloting School
