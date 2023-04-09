@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4270
-# Last updated 2023-03-12
+# Contains members up to #4271
+# Last updated 2023-04-09
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -56,6 +56,7 @@ DB8SM=4195
 DC0SK=4209
 DC1ML=3452
 DC1YY=4158
+DC2CW=4271
 DC2HR=3734
 DC3SHL=3814
 DC4LV=1236
@@ -553,7 +554,6 @@ DK2RL=2019
 DK2RT=3879
 DK2SD=1807
 DK2TC=3931
-DK2TK=90
 DK2VA=43
 DK2VM=1548
 DK2WU=3665

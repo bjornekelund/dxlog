@@ -16,7 +16,7 @@ BEGIN {
   FS=","
   max = 0;
   printf("#0 DIG members database\n");
-  printf("#1 Based on official member roster at diplom-interessen-gruppe.info\n");
+  printf("#1 Based on official member roster at https://diplom-interessen-gruppe.info \n");
   printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
 }
 {
@@ -26,7 +26,7 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
-}' | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
+}' | sort | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
