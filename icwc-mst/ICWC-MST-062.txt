@@ -2,16 +2,15 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-04-03
+# Last Edit,2023-04-10
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
 KI0F,ROGER,
 KD9VGM,NOAH,
 W7JMP,JIM,
 KC6D,DON,
-PA2WLE,VAN,
 EA5XQ,JUAN,
-
+W1SAV,SAVI,,CA,
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -4253,7 +4252,7 @@ PA2RG,ROEL,
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
-PA2WLE,BERT,
+PA2WLE,BERT,,Helmond Netherlands
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands

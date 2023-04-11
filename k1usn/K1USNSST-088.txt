@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-04-08
+# 1-Last Edit,2023-04-11
 # 2-Thanks to all for update via WS1L. 
 # 3-Send any corrections direct to ve2fk@arrl.net
 # 4-K1USN CW Slow Speed (ConTest) friday/sunday 
@@ -343,6 +343,7 @@ AC0MN,SHELLEY,MN,
 AC0N,NORM,MO,
 AC0OJ,JIM,IA,
 AC0RL,JERRY,KS,
+AC0TG,KEN,TX,Campbell TX
 AC0VM,DEBBIE,CO,Arvada CO
 AC0W,BILL,MN,
 AC1BS,CHUCK,ME,Trenton ME
@@ -852,8 +853,10 @@ CU8/NU6F,RON,DX,
 CX1CAN,ANIBAL,DX,Montevideo Uruguay
 DD4DA,GERHARD,DX,Dortmund Germany
 DD6DO,STEPHAN,DX,Berlin Germany
+DF1XC,DOC,DX,Spreewald Germany
 DF2DR,HERMANN,DX,Blastein Germany
 DF4ZK,GUNTER,DX,Wald-Michelbach Germany
+DF6JO,PAUL,DX,Neuss Germany
 DF6RI,ALFRED,DX,Happurg Germany
 DF7CP,STEFAN,DX,Eldena Germany
 DF8DU,UDO,DX,Hattingen Germany
@@ -981,6 +984,7 @@ G0NMY,MARK,DX,Staffordshire England
 G0UJA,James,DX,Kent England
 G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
+G3KAF,JIM,DX,Cheshire England
 G3OND,JOHN,DX,Birchington England
 G3RGD,RAY,DX,Birmingham England
 G3SQU,CHRIS,DX,Newcastle upon Tyne England
@@ -1048,6 +1052,7 @@ IK1PMR,Andrea,DX,Casale Monferrato Italy
 IK1RAG,ALVI,DX,Casale Monferrato Italy
 IK1VQO,GIAN,DX,Cuneo Italy
 IK1WNO,ENRICO,DX,Genova GE Italy
+IK2CRY,FRANCO,DX,Vignate Italy
 IK4POF,ALF,DX,Calderara Reno Bo Italy
 IK5NFJ,STEFANO,DX,Cevoli PI Italy
 IK6FAW,BRUNO,DX,ASCOLI PICENO IALY,
@@ -4344,6 +4349,7 @@ KD5REW,DON,LA,Kentwood LA
 KD5TXX,ED,KY,Lexington KY
 KD5UVV,DALE,MS,
 KD5VVI,,TX,
+KD5WCX,FRANK,AL,Madison AL
 KD5WHC,,MD,
 KD5YIL,,TX,
 KD5YZU,ERIK,TX,
@@ -5151,6 +5157,7 @@ KK7AC,ANDY,AZ,
 KK7AEA,DON,NV,Las Vegas NV
 KK7B,,OR,
 KK7BJ,,AZ,
+KK7CU,MARK,WY,Cheyenne WY
 KK7HI,FRANK,LA,New Orleans LA
 KK7JS,SCOTT,TX,
 KK7PW,JON,WA,Seattle WA
@@ -5357,6 +5364,7 @@ KN6OOT,RUSS,CA,Hughson CA
 KN6OZ,,CA,
 KN6PZO,HAN,CA,San Jose CA
 KN6RO,,GA,
+KN6TZK,WILL,CA,Visalia CA
 KN6Y,,CA,
 KN6YD,,CA,
 KN7A,TERRY,OR,Corvallis OR
@@ -7907,6 +7915,7 @@ ND2X,,TX,
 ND3D,BOB,MD,
 ND3F,,MD,
 ND3JJ,,PA,
+ND3JJ,JOANN,PA,Bethlehem PA
 ND3L,DES,PA,
 ND3N,TOM,OH,
 ND3R,PAUL,PA,
@@ -11426,6 +11435,7 @@ W7KQZ,,AZ,
 W7KRS,KURT,WA,
 W7KW,,AZ,
 W7KXB,BILL,AZ,
+W7KZM,KEN,AZ,Marana AZ
 W7LAR,,ID,
 W7LD,JACK,WA,
 W7LDT,,AZ,
@@ -13209,6 +13219,7 @@ WJ2L,BILL,TN,Charlotte TN
 WJ2O,DAVE,NY,
 WJ4HCP,CHARLES,TN,
 WJ5K,Rob,MS,Tupelo MS
+WJ5Z,ROY,TX,Tyler TX
 WJ6O,DAVE,CA,
 WJ6T,,CA,
 WJ7S,JOHN,UT,Saratoga Springs UT
@@ -13569,4 +13580,4 @@ YU7OQA,KARLO,DX,?
 YU9CF,ZORAN,DX,Cacak Serbia
 YV1LBB,Lorenzo,DX,Maracaibo Zulia Venezuela
 ZA4KC,TIM,DX,Kruja Albania
-ZZ0ZZZ,TEST,DX,End of file test line.
+EOF
