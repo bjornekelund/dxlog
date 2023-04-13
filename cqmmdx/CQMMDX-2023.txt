@@ -1,7 +1,7 @@
 !!Order!!, Call, Sect, UserText, 
 # 
 # CQMMDX
-# Last Edit,2022-05-01
+# Last Edit,2022-05-02
 # NOT for CQ-M International
 # Send any info, correction direct to ve2fk@arrl.net
 2E0FFT,EUQ,
@@ -178,6 +178,7 @@ F8DGF,EUM,
 F8DGF,EUM,
 FG1PP,NAM,
 FG8NY,NAM,
+FK8IK,
 FM4TI,NAM,
 FM5BH,NAM,
 FM5CW,NAM
@@ -198,7 +199,6 @@ G4IKR,EUQ,
 G4IRN,EUM,
 G7COD,EUM,
 G7COD,EUM,
-GJ0KYZ,EUM,
 GJ0KYZ,EUM,
 HA1AS,EUY,
 HA3HX,EUQ,
@@ -684,7 +684,8 @@ SV1GRN,EUQ,
 SV5KKU,EUM,
 T6A,ASM,
 T6AA,ASM,
-T77Z,EUM
+T77Z,EUM,
+TA4/OH2KW,EUM,
 TF3JB,EUM,
 TG9ADM,NAM,
 TG9AOR,NAM,
