@@ -1,11 +1,11 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-04-04
+# Last Edit,2023-04-12
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
-# Thanks K7SV K9SO KG5U N3JT N5KD N7WY W6TN SM7IUN 
+# Thanks K7SV K9SO KG5U N0TA N3JT N5KD N7WY W6TN SM7IUN 
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -181,6 +181,7 @@ AB4PP,JP,2572,(John)  Four Oaks NC
 AB4WL,Jim,AL,Fultondale AL
 AB5EB,Mike,2115,New Braunfels TX
 AB5M,Scott,2738,Grencoe OK
+AB5XM,Allan,TX,San Antonio TX
 AB6BR,Tony,3089,Castro Valley CA
 AB6CC,Charles,CA,Fairfield CA
 AB6UR,Dan,2315,Kerrville TX
@@ -303,7 +304,7 @@ AE7PG,Allen,WA,Chelan WA
 AE7TG,Allen,WA,Kent WA
 AE7US,Rocky,1781,Portland OR
 AE8TF,Tom,MI,Macomb MI
-AE5TI,Ryan,TN,
+AE5TI,Ryan,TN,Memphis TN
 AF1E,Joe,2605,Conover NC
 AF1R,Leandra,MA,Needham Heights MA
 AF1Z,Mark,258,O'Brien FL
@@ -1934,6 +1935,7 @@ K6TJ,Pete,CA,Los Altos CA
 K6TOR,Rick,2732,San Francisco CA
 K6TR,Paul,2589,(ex K2HZO)  Ukian CA
 K6TTT,Bruce,2595,Lancaster CA
+K6TXA,Bob,CA,
 K6UFO,Mark,403,San Francisco CA
 K6VN,Mike,2924,Valencia CA
 K6VVA,Rick,CA,Morgan Hill CA
@@ -2306,6 +2308,7 @@ KB7KP,Dave,UT,Pleasant View UT
 KB7N,Mark,WA,Redmond WA
 KB7Q,Gene,MT,Bozeman MT
 KB7QOA,Jeremy,ID,Caldwell ID
+KB7SDM,Ryan,WA,Seattle WA
 KB7V,Paul,CA,Mission Viejo CA
 KB8GAE,Rich,2123,Canfield OH
 KB8NOD,Ron,OH,Sidney OH
@@ -3044,6 +3047,7 @@ N0AV,Jim,359,Goldfield IA
 N0AX,Ward,1744,St-Charles MO
 N0BK,Bruce,2763,South Saint Paul MN
 N0BM,Brian,2772,Woodbury MN
+N0BUI,Mike,MN,
 N0CB,Royce,NE,Omaha NE
 N0CVW,Chas,2661,Fairway KS (North Central Amb.)
 N0CWO,,,Midwest CWops Club (Andover KS)
@@ -4034,7 +4038,7 @@ OK1US,Jiri,,No info
 OK1VD,Vasek,,Osice Czech Republic
 OK1VK,Pavel,OK,Prague Czech Republic
 OK1WSL,Josef,,Libchavy Czech Republic
-OK1XV,Joe,,
+OK1XV,Joe,,Kamyk Nad Vltavou Czech Republic
 OK1ZE,Vasek,,Hradec Kralove Czech Republic
 OK2AP,Milan,,Dusejov Czech Republic
 OK2BOB,Bob,,Olomouc Czech Republic
@@ -4160,7 +4164,6 @@ PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
 PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
 PA2WLE,Bert,,Helmond Netherlands
-PA2WLZ,Bert,,Helmond Netherlands
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands
@@ -4200,10 +4203,6 @@ PG2GF,Harm,,IJssel Netherlands
 PG4I,Jo,2225,(Joop)  Culemborg Netherlands
 PG6F,Dick,3175,Heemstede Netherlands
 PG7V,Jan,,Hulshorst Netherlands
-PJ2/AC6ZM,Juan,2419,Curacao
-PJ2/KL2A,Jon,77,
-PJ2/NA2U,Fred,2455,
-PJ4K,Dave,232,N3RD
 PJ4LS,Hans,849,Bonaire Netherland Antillies
 PJ7AA,Tom,1092,(AA9A)  Saint Maarten
 PJ7PL,Ed,,Cupecoy St Maarten
@@ -4324,7 +4323,6 @@ SF3A,Jan,,Sundsbruk Sweden (SM3CER)
 SI5Y,Kurt,SM,Ostervala Sweden (SM5BKK)
 SJ6W,Sten,,(SM6MIS)  Gothenburg Sweden
 SK2T,,,Umea Sweden (FURA Club Umea)
-SK5CD,Carl,,?
 SK6SAQ,,,Grimeton Sweden (World heritage radio station)
 SM0AIG,Ingemar,,Kista Sweden
 SM0BYD,Hans,998,Sollentuna Sweden
@@ -4391,7 +4389,7 @@ SN5N,Chris,,Lukow 1 Poland
 SN5Y,Cezar,,Warsaw Poland
 SN9EA,Cary,1828,(VE4EA) travelling
 SN9MT,Mirek,,Ruda Slaska Poland
-SO3O,Jan,SP,
+SO3O,Jan,SP,Kramsk Polanmd
 SO5CW,Fabian,1566,(DJ1YFK) Warka Poland
 SP1/UX1HW/M,Art,1890,Mobile SP!
 SP1AEN,Max,,Debrzno Poland
@@ -4443,7 +4441,6 @@ SV1CQN,Kostas,,Agrinio Greece
 SV1DAY,Manos,3334,Athens Greece
 SV1DOJ,Tassos,,Piraeus Greece
 SV1RUX,Dave,,Athens Greece
-SV2/N5ZO,Marco,1224,at J42L
 SV2BBK,Theo,1976,(Fanis) Thessaloniki Greece (Director)
 SV2BXA,Alex,2400,Thessaloniki Greece
 SV2HUD,Vas,3235,Thessaloniki Greece
@@ -4460,20 +4457,12 @@ TA2BD,Halil,,Istanbul Turkey
 TA2SE,Rifat,,Canakkale Turkey
 TA2SE/3,Rifat,,Canakkale Turkey
 TA7I,Ozkan,2646,Trabson Turkey
-TF/K4EU,Steve,1329,Iceland
-TF/K4NMR,Tom,2298,Iceland
-TF/K5KG,Geo,970,Iceland
 TF3DC,Oskar,285,Reykjavik Iceland
 TF3JB,Jonas,2803,Reykjavik Icland
 TF3Y,Yngvi,238,Reykjavik Iceland
 TF4M,Thor,177,Bildudalur Iceland
 TG9AJR,Juan,,Puerta Parada Guatemala
 TI5JON,Jon,,Desamparados Alajuela Costa Rica
-TI5KS,Kam,146,Costa Rica (N3KS)
-TI5W,Nate,445,Costa Rica (N4YDU)
-TI7W,Chris,1576,(KL9A)
-TO9W,John,471,(W9ILY) in Dxpedition
-TX5T,Madison,1479,(W5MJ) Austral Islands Tubuai
 TY2AC,Nicolas,,Cotonou Benin
 TZ4AM,Jeff,1716,Bamako Mali Africa
 UA1ABW,Val,,St.Petersburg Russia
@@ -4585,7 +4574,7 @@ VA3CWT,Gabriel,ON,Toronto ON
 VA3CX,Ron,1775,London ON (VE3FXX)
 VA3DKL,Dave,2847,Kitchener ON
 VA3FH,Victor,ON,Smihville ON
-VA3FN,John,ON,
+VA3FN,John,ON,Tecumseh ON
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
@@ -4700,8 +4689,9 @@ VE3GNA,Glenn,457,Roblin ON
 VE3GO,Ron,ON,Kingston ON
 VE3HEU,Vic,ON,Toronto ON
 VE3HX,Alan,ON,Ottawa ON
-VE3ICV,Paul,ON,
+VE3ICV,Paul,ON,Osgoode ON
 VE3IKV,Pete,ON,Cobourg ON
+VE3JZT,Jeff,ON,Brandford ON
 VE3KAE,Alan,ON,Kemptville ON
 VE3KBI,Paul,ON,North Yourk ON
 VE3KCY,Ken,ON,Alma ON
@@ -4780,7 +4770,7 @@ VE6RST,Max,3068,Leduc AB
 VE6SV,Rich,AB,Sherwood Park AB
 VE7AHA,Andy,352,Delta BC
 VE7ALQ,Yaakov,BC,Vancouver BC
-VE7BGJ,Walt,BC,
+VE7BGJ,Walt,BC,Chilliwacck BC
 VE7CC,Lee,139,Maple Ridge BC
 VE7CCY,Scott,BC,Langley BC
 VE7DZO,David,2106,Prince George BC
@@ -4793,7 +4783,8 @@ VE7KW,Keith,2182,Port Coquitlam BC
 VE7MR,Willi,427,Nanaimo BC
 VE7NNT,Paul,BC,
 VE7NZ,Ady,2758,(Adrian)  Coquitlam BC
-VE7SK,Bob,BC,Prince George BC
+VE7SK,Bob,3352,Prince George BC
+VE7WO,Brian,BC,Delta BC
 VE7XT,Rich,2831,Victoria BC
 VE8IR,Ian,NT,Yellowknife NT
 VE9AA,Mike,1347,Withheld NB
