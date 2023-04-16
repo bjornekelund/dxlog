@@ -1,7 +1,7 @@
 # LZ DX Contest database
 # Based on data collected and maintained by VE2FK and R9IR
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-11-21
+# Last updated 2023-04-16
 LZ01MLN=PK
 LZ0M=VN
 LZ1195IR=PD

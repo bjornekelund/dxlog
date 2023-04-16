@@ -1,7 +1,7 @@
 # MARCONI CLUB ARI LOANO members database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-10-04
+# Last updated 2023-04-16
 3B8CF=284
 3B8DB=539
 9A1AA=892

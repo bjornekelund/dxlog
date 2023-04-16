@@ -1,7 +1,7 @@
 # New York QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-10-12
+# Last updated 2023-04-16
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1629,6 +1629,7 @@ K2QY=ALB
 K2RB=CT
 K2RD=NV
 K2RET=NJ
+K2RNY=MON
 K2RNY=MON
 K2RP=CA
 K2RRB=NJ
@@ -10680,6 +10681,7 @@ W2KV=NJ
 W2LB=ONT
 W2LCQ=NEW
 W2LE=NJ
+W2LGA=ONO
 W2LGA=ONO
 W2LHL=NJ
 W2LJ=NJ

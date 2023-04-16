@@ -1,7 +1,7 @@
 # Pro CW/Digi Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-12-04
+# Last updated 2023-04-16
 3XA8DX=M
 4L1MA=M
 4Z5TC=M

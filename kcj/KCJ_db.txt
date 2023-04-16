@@ -1,6 +1,6 @@
 # KCJ contest database
 # Data collected and maintained by UR7QM
-# Last updated 2022-10-26
+# Last updated 2023-04-16
 7J3AOZ=HG
 7K1CRO=ST
 7K1DPE=ST
