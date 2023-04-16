@@ -1,6 +1,7 @@
-# UK EI CC database with six-position grids.
-# Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# Updated 2021-12-24.
+# UK EI CC database with six-position grids
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2023-04-16
 2E0NAQ=JO02UK
 2E0OBO=JO02RU
 2E0WHQ=IO91DN
@@ -54,7 +55,9 @@ EI5DI=IO63VG
 EI5JS=IO63OU
 EI5KF=IO52UG
 EI5KG=IO62SH
+EI5LA=IO52DG
 EI6JK=IO53TS
+EI6LA=IO63WE
 EI7CC=IO63WG
 EI7EE=IO52UG
 EI7GY=IO63WG

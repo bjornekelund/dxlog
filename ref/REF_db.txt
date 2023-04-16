@@ -1,6 +1,7 @@
-# REF database.
-# Based on call history data maintained by VE2FK ve2fk@arrl.net.
-# File created 2022-01-25.
+# REF database
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2023-04-16
 F0FRE=58
 F1AGR=46
 F1AIR=34

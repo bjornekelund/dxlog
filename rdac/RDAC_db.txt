@@ -1,7 +1,7 @@
 # RDAC database
 # Based on data collected and maintained data by VE2FK and UR7QM
 # Includes updates by NA3M and RA3R
-# Last updated 2023-04-09
+# Last updated 2023-04-16
 R0AA=KK08
 R0AB=KK24
 R0ABD=KK33

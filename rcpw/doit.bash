@@ -1,30 +1,13 @@
 #!/bin/bash
-cp raw.txt tmp.txt
-dos2unix -q tmp.txt
+FILE=raw.txt
+OUTFILE=RCPW_db.txt
 
-gawk '
-BEGIN {
-  FS=";";
-  last = 0;
-}
-{
-  if ($1 ~ /^[0-9]+$/ && $2 != "") {
-    member[$1] = $2;
-	if ($1 > last) last = $1;
-#    printf("Last updated: %d\n", last) > "/dev/stderr";
-  }
-  else
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
-}
-END {
-  printf("# RCPW members database based on http://rcpw.ru/members.html\n");
-  printf("# Contains members up to #%d\n", last);
-  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
-  for (i = 1; i <= last; i++)
-    if (member[i] != "")
-      printf("%s=PW%d\n", member[i], i);
-}' < tmp.txt > RCPW_db.txt
+echo Parsing $FILE
+dos2unix -q $FILE
 
-unix2dos -q RCPW_db.txt
+gawk -f rcpw.awk $FILE > $OUTFILE
+
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
 
 exit
