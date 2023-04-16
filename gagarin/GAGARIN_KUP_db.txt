@@ -1,7 +1,7 @@
 # Yuri Gagarin International DX Contest database
 # Data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-08
+# Last updated 2023-04-16
 R108M=RG
 R2VA=PC
 R5AG=AL

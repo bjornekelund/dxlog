@@ -1,7 +1,7 @@
 # EURASIA Championship database - 6-position grid locator
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-12-23
+# Last updated 2023-04-16
 2E0BPP=IO83SS
 2E0CVN=JO01AL
 2E0FTT=IO94BU
