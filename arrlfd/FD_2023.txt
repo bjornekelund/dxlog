@@ -1,10 +1,8 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
-# Last Edit, 2022-11-10
+# Last Edit,2022-06-24
 # Original file from Mike W1MI 2022 
-# Cleaned and update to 2023 RAC sections by Bjorn SM7IUN
 # Send new info/corrections DIRECT ve2fk@arrl.net
-#
 7L4IOU,1D,DX,
 AA0AC,1D,MN,Spirit Valley Amateurs
 AA0AW,1D,MN,
