@@ -1,6 +1,6 @@
 # AGCW-NTC Friendship QSO Party database
 # Based on call history data maintained by VE2FK
-# Last updated 2023-04-18
+# Last updated 2023-04-19
 # Report updates and corrections directly to ve2fk@arrl.net
 3A2LF=Claude;AGCW2048;
 3A2LV=Lionec;AGCW2064;

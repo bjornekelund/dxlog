@@ -26,7 +26,10 @@ BEGIN {
       }
     } else {
       if ($ecol !~ /^DX$/) {
-        printf("Exchange should be DX: \"%s\"\n", $0);
+        if ($1 != "" && $ecol != "")
+          printf("Exchange should be DX: \"%s\"\n", $0);
+        else
+          printf("Bad line: \"%s\"\n", $0);
       }
     }
 

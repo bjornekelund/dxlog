@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3352
-# Last updated 2023-04-18
+# Last updated 2023-04-19
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -716,6 +716,7 @@ EA8BMG=Luis;1063
 EA8CAC=Juan;EA8
 EA8CN=Andy;265
 EA8DDM=Carlos;EA
+EA8DNT=Glynn;2178
 EA8DP=Marino;EA
 EA8F=Franky;EA
 EA8KW=Carlos;1565

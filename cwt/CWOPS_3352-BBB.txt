@@ -723,6 +723,7 @@ EA8BMG,Luis,1063,La Hidalga Arago Canary Island
 EA8CAC,Juan,EA8,Canary Island
 EA8CN,Andy,265,Los Realejos Canary Island
 EA8DDM,Carlos,,Las Palmas Canary Island
+EA8DNT,Glynn,2178,Lanzarote Canara Isl. (also GW4MVA)
 EA8DP,Marino,,Las Palmas Canary Island
 EA8F,Franky,,Canary Island
 EA8KW,Carlos,1565,Las Palmas Canary Island
