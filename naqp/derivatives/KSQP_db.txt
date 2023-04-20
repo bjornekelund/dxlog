@@ -1,8 +1,7 @@
 # Kansas QSO Party database
 # Based on NAQP database by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
-4U1WB=DC
+# Last updated 2023-04-20
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1171,6 +1170,7 @@ K0ON=MN
 K0OO=MO
 K0OP=ND
 K0OU=MO
+K0OZ=MO
 K0PAE=MO
 K0PC=MN
 K0PFX=MO
@@ -6279,9 +6279,6 @@ KO8V=VA
 KO8Z=MI
 KO9A=IL
 KO9V=CO
-KP2N=FL
-KP4FP/W2=NY
-KP4KD/W4=FL
 KQ0X=IA
 KQ0Z=MO
 KQ1F=MA
@@ -9348,8 +9345,6 @@ NO9E=GA
 NO9S=IA
 NO9X=WI
 NO9Z=IL
-NP3K=FL
-NP4AC=TN
 NQ1DX=ME
 NQ1K=CT
 NQ2B=TN

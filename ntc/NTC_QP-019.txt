@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2023-03-14
-# Last number listed 207
+# Last edit,2023-04-13
+# Last number listed 211
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -10,9 +10,9 @@
 
 
 5X8C,Anton,154,(ON6NL)  Entebbe Uganda
-9A1AA,Peter,37,
+9A1AA,Ivo,37,
 9A3SM,Mato,136,
-AE1N,Layne,171,NH
+AE1N,Lane,171,NH
 CT7AUP,David,118,
 DC8ED,Karl,77,
 DF4WX,Micha,83,
@@ -20,12 +20,12 @@ DF7TV,Tom,64,
 DJ0SP,Hannes,124,
 DJ3TU,Norbert,146,
 DJ5CW,Fabian,99,
-DJ7AO,Steve,105,
+DJ7AO,Stefan,105,
 DJ9BM,Volker,84,
 DK8KK,Karl,79,
 DK8RE,Hans,199,
 DK9HE,Andy,89,
-DL0BRA,Hans,199,
+DL0BRA,Hans,199,(DK8RE)
 DL1DXL,Lothar,72,
 DL1JDQ,Stan,193,
 DL1LAF,Joachim,58,
@@ -35,21 +35,22 @@ DL3GJ,Greg,186
 DL3HAE,Wolf,138,
 DL3HWO,Herbert,143,
 DL3JAB,Andy,157,
-DL4FDM,Fri,74,
+DL4FDM,Fritz,74,
 DL4HJ,Jonny,133,
 DL4YR,Ralf,125,(DP4E)
 DL5XL,Felix,80,
+DL8KAZ,Dieter,211,
 DL/UA6AX,Yuri,174
-DM3ZM,Harlad,158,
+DM3ZM,Harald,158,
 DM4RW,Robert,73,
 DM5JBN,Eddy,190,
-DM5Z,EDDY,190,(DM5JBN)
+DM5Z,Eddy,190,(DM5JBN)
 DP1POL,Felix,80,
 DP4E,Ralf,125,(DL4YR)
 DR3I,Micha,83,
 EA1ARW,Luis,75,
-EA1IQ,Chus,68,
-EA3NO,Liuis,69,
+EA1IQ,Xesus,68,
+EA3NO,LLuis,69,
 EA5FID,Juan,67,
 EA5IUY,Gary,108,
 EA7EGU,Manuel,197,
@@ -68,7 +69,7 @@ G4RMV,Mike,115,
 G4RTJ,Colin,132,
 GW4D,Keith,106,
 GW4OKT,Keith,106,
-HB9CSA,Frotz,74,
+HB9CSA,Fritz,74,
 HB9EWO,Clemens,155,
 I5ECW,Vanni,164,
 I6HWD,Dom,187,
@@ -86,20 +87,23 @@ M0HEN,Theo,3,(PA3HEN)
 M0KTZ,Enzo,191,
 M3F,Mac,36,(G3WZD)
 N1GKE, Myrt,206,
-N2JJS,Giorgio,103,
+N2JJS,Gio,103,
+N4WEN,Carl,135,
 OE6FYG,Herbert,134,
-OE7TIR,Steve,105,
+OE8TIR,Stefan,105,
+OE7TIR,Stefan,105,
 OG2N,Jarmo,107,
 OH2BN,Jarmo,107,
 OK1DSA,Roman,207
 OK1RR,Martin,51,
 OK2BMA,Pavel,62,
+OK2BVX,Dali,209,
 OK2IW,Swat,148,
 ON2AD,Pat,34,
-ON3RLI,Rudy,153,
 ON4CAS,Egbert,57,
 ON4DN,David,185
 ON4CGW,Kurt,16,
+ON4RLI,Rudy,153,
 ON4VT,Danny,144,
 ON6NL,Anton,154,
 ON6QS,Gil,151,
@@ -109,11 +113,11 @@ ON8WR,Ward,152,
 ON9TT,Marc,196,
 OS4U,David,185,
 OT4V,Danny,144,(ON4VT)
-OT6E,Gil,151,
+OT6E,Gil,151,(ON6QS)
 PA0AGF,Remy,131,
 PA0BAK,Ron,9, 
 PA0CMU,Carel,76,
-PA0DIN,DJ,46,
+PA0DIN,Din,46,
 PA0GJV,Gerrit,113,
 PA0GRU,Dick,97,
 PA0HRM,Hans,182,
@@ -121,13 +125,14 @@ PA0HTT,Henk,116,
 PA0INA,Frans,183,
 PA0JSY,Jan,203,
 PA0KGB,Martin,141,
-PA0LCE,LOUIS,139,
+PA0LCE,Louis,139,
 PA0M,Thieu,110,
 PA0MIR,Nico,172,
 PA0Q,Hans,14,
 PA0QAW,Jac,177,
 PA0QRB,Harold,95,
 PA0RBA,Rienus,96,
+PA0RDT,Roelof,208,
 PA0SIM,Jan,59,
 PA0SLT,Wim,114,
 PA0XAW,Age,119,
@@ -155,7 +160,7 @@ PA3ARI,Mathieu,102,
 PA3ARM,Harry,176,
 PA3ATX,Jan,120,
 PA3BYW,Durk,32,
-PA3CNI,Will,54,
+PA3CNI,Willem,54,
 PA3CWG,Ron,192,
 PA3CWQ,Harry,20,
 PA3CXB,Jan,160,
@@ -170,7 +175,7 @@ PA3FTP,Louis,28,
 PA3FYE,Jacob,55,
 PA3GBK,Aeilko,130
 PA3GEO,Robert,17,
-PA3GNZ,Gose,4,(Tjeerd)  
+PA3GNZ,Gosse,4,(Tjeerd)  
 PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
 PA3HK,Henry,126,
@@ -188,7 +193,7 @@ PA5FN,Hans,195,
 PA5JW,Jan,142,
 PA5KT,Henk,56,
 PA5Z,Kees,93,
-PA7DN,Dick,173
+PA7DN,Dirk,173
 PA7F,Frank,181,
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
@@ -202,6 +207,7 @@ PB5DX,Harry,12,
 PB7TT,Ron,145,
 PC4E,Hans,33,
 PC4Y,Bert,85,
+PC6R,Dick,97,
 PC7E,Henk,104,
 PD0JMH,Jos,117,
 PD0SOT,Edwin,15,
@@ -209,7 +215,7 @@ PD0WLM,William,25,
 PD5MI,Mike,204,
 PD5N,Eric,179,
 PD7Q,Jacob,178,
-PE0CD,Chris,163,H
+PE0CD,Chris,163,
 PE1CDA,Peter,167, 
 PE1LDS,Ferry,169,
 PE1PYZ,Henk,39, 
@@ -217,6 +223,8 @@ PE1RCT,Andreas,122,
 PE2A,Frank,21,
 PE2JB,Jaco,188,
 PE4KH,Koos,165,
+PE6Q,Ad,121,
+PF40N,Ferry,169,(PE1LDS)
 PF44F,Enno,40, 
 PF5X,Enno,40,
 PF6NTC,Rien,150,NTC Special Event Call
@@ -226,25 +234,26 @@ PG4I,JO,2,
 PG6F,Dick,97,
 PG6NTC,JO,100,NTC Special Event Call
 PG7R,Ronald,61, 
-PI4NTC,200,NTC Club Station
+PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
 S58MU,Milan,66,
 SO5CW,Fabian,99 ,
 SP7N,Piotr,111,
 SP7OGP,Piotr,111,
 SP9BRP,Jan,202,
-SP9R,Jan,202,
+SP9R,Jan,202,(SP9BRP)
 SQ3RLL,Greg,186,(DL3GJ)
 SQ9S,Adam,38,
 SV2BBK,Theo,147,
+SV9RPE,Dick,210,
 SV9RNG,Pol,42,
 UA6AX,Yuri,174,
-UR3AMP,Mike,204,
+UR3AMP,Mike,204,(PD5MI)
 V31HE,Andreas,89,
 VE2FK,DUB,180,
 W4WEN,CARL,135,
 WZ4M,Tom,149,
-W6WYN,Reinier,205,
+W6WYN,Reinier,205,(PA3AAA)
 YL3JD,Hanz,11,
 YO6EX,Sico,94,
 YO8DOH,Stefan,60,
