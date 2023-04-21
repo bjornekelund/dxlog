@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-04-17
+# Last Edit,2023-04-20
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -3838,6 +3838,7 @@ NM8RT,Steve,MI,West Branch MI (Northern Mich ARST)
 NN0G,Dana,2910,Littleton CO
 NN0TE,Trent,2908,Cape Coral FL
 NN1C,Marty,2276,Waban MA
+NN1DX,Bob,3353,Waterbury CT
 NN2DX,Bray,NY,RHRDXA Pawling NY
 NN2L,Chuck,3231,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
