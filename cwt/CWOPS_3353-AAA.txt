@@ -263,6 +263,7 @@ AD6E,Alan,217,San Jose CA
 AD6FC,Fred,CA,Crescent City CA
 AD6JV,Bill,1719,Charlottesville VA
 AD7AF,Rich,OR,Ashland OR
+AD7HI,Scott,UT,or Tucumcari NM
 AD7I,Paul,2946,Middletown NJ
 AD7KG,Jed,UT,South Jordan UT
 AD8B,John,OH,Galena OH
@@ -2042,6 +2043,7 @@ K7ZYV,Carl,MS,Biloxi MS
 K8AAV,Rod,OH,Garrettsville OH
 K8AJS,John,1694,Wooster OH
 K8AJX,Fred,AL,Montgomery AL
+K8ANM,Bob,AZ,Paradise Valley AZ
 K8AQM,Ted,2043,Adrian MI
 K8AZT,John,2210,Livonia MI
 K8BAT,John,OH,Columbus OH
@@ -2784,6 +2786,7 @@ KO4GDB,Jim,GA,Dalton GA
 KO4LAO,Jim,3200,Travelers Rest SC
 K4KVC,Ken,FL,The Villages FL
 KO4UHE,Rick,KY,Danville KY
+KO4TFK,Steve,GA,Suwanee GA
 KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
 KO6U,Nathan,CA,Corona CA
@@ -3498,6 +3501,7 @@ N6PN,Matt,253,Concord CA
 N6RK,Rick,97,Galt CA
 N6RO,Ken,79,Oakley CA
 N6RSH,STEVE,NE,Gering NE
+N6RZ,Dave,CA,Santa Cruz CA
 N6TEM,Dave,CA,Mountain Center CA
 N6TH,Tim,CA,Los Gatos CA
 N6TR,Tree,83,Manning OR
@@ -3714,6 +3718,7 @@ NB7O,Kevin,3112,Hermiston OR
 NB8Q,Ron,MI,Flat Rock MI
 NC1M,Hugh,1668,Wesford MA
 NC3I,Doug,WA,Seattle WA
+NC3J,Bob,MD,Fallston MD
 NC3Y,Tom,2147,Sharpsburg MD
 NC4ON,Stefan,NC,Denver NC
 NC4RB,John,NC,Thomasville NC
