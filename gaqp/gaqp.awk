@@ -18,10 +18,13 @@ BEGIN {
       if (lines[$1] != "") {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }
-      lines[$1] = $0;
+      else {
       printf("%s=%s\n", $1, $col);
+      lines[$1] = $0;
+      }
     }
-    else if ($0 !~ /^(!|#|$)/ && $col != "")
+    else if ($0 !~ /^(!|#|$)/ && $col != "") {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    }
   } 
 }

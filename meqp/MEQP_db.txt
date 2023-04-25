@@ -1,7 +1,7 @@
-# MEQP database.
+# Maine QSO Party database
 # Data collected and maintained by Claude VE2FK
-# Report updates and corrections directly ve2fk@arrl.net
-# File last updated 2022-03-18
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2023-04-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -329,7 +329,6 @@ AB5TY=VA
 AB5VJ=PA
 AB5XM=TX
 AB5XS=TX
-AB5XS=TX
 AB5Z/7=MT
 AB5ZA/7=MT
 AB5ZA=MT
@@ -419,7 +418,6 @@ AC4BT=VA
 AC4CA=TX
 AC4D=TX
 AC4DP=GA
-AC4G=TN
 AC4G=TN
 AC4GW=KY
 AC4JI=TN
@@ -528,7 +526,6 @@ AD4TJ=VA
 AD4TR=FL
 AD4TT=FL
 AD4YQ=FL
-AD5A=TX
 AD5A=TX
 AD5BN=OK
 AD5CA=TX
@@ -1474,7 +1471,6 @@ K2GKM=NY
 K2GL=NJ
 K2GLS=NJ
 K2GN=NJ
-K2GO=VA
 K2GO=VA
 K2GTC=NY
 K2GWL=NY
@@ -6555,7 +6551,6 @@ N4CT=TX
 N4CU=FL
 N4CW=NC
 N4CWP=VA
-N4CWZ=NC
 N4CWZ=NC
 N4CYG=NY
 N4DBG=TN

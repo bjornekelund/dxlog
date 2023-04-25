@@ -1,7 +1,7 @@
 # Michigan QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -11663,7 +11663,6 @@ W5DKE=TX
 W5DLM=AL
 W5DNT=TX
 W5DS=OK
-W5DT=FL
 W5DT=OAKL
 W5DXS=TX
 W5EA=LA

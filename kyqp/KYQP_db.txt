@@ -1,7 +1,7 @@
 # Kentucky QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -2202,7 +2202,6 @@ K4FO=FL
 K4FOY=VA
 K4FPF=VA
 K4FT=LIN
-K4FT=SC
 K4FTO=VA
 K4FX=NC
 K4FXN=SHE

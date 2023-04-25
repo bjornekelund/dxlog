@@ -1,7 +1,7 @@
 # Louisiana QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -11261,7 +11261,6 @@ W3DQS=NC
 W3DQT=MD
 W3DSX=PA
 W3DYA=LINC
-W3DYA=TX
 W3EA=PA
 W3EC=PA
 W3EEE=FL
