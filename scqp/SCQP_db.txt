@@ -1,7 +1,7 @@
 # SCQP database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -14857,7 +14857,6 @@ WZ2S=NY
 WZ2T=NY
 WZ4L=TN
 WZ4M=DILL
-WZ4M=NC
 WZ5V=TN
 WZ5X=NC
 WZ6Z=CA

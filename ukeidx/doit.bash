@@ -1,6 +1,6 @@
 #!/bin/bash
-FILE=`ls UKEIDX* | tail -1 2> /dev/null`
-OUTFILE=ukeidx_db.txt
+FILE=`ls UKEIDXC* | tail -1 2> /dev/null`
+OUTFILE=UKEIDX_db.txt
 
 echo Parsing $FILE
 dos2unix -q $FILE
