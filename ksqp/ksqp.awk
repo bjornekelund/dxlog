@@ -6,9 +6,15 @@ BEGIN {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $3 ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
-    printf("%s=%s\n", toupper($1), toupper($3));
+  if (lines[$1] != "") {
+    printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
   }
-  else if ($0 !~ /^(!|#|$)/ && toupper($3) != "KS")
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+  else {
+    if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $3 ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
+      printf("%s=%s\n", toupper($1), toupper($3));
+      lines[$1] = $0;
+    }
+    else if ($0 !~ /^(!|#|$)/ && toupper($3) != "KS")
+      printf("Ignored: %s\n", $0) > "/dev/stderr";
+  }
 }
