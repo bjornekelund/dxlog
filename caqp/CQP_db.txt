@@ -1,7 +1,7 @@
 # California QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-25
+# Last updated 2023-04-26
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -971,13 +971,6 @@ AL7B=AK
 AL7O/W0=MO
 AL7O=MO
 AL7R=AZ
-CT1BWO=DX
-EA3HSO=DX
-EA5DFV=DX
-F4HWS=DX
-HI2AA=HI
-HI3MM=HI
-HI4MM=HI
 K0ACP=MI
 K0AD=MN
 K0AE=CO
@@ -9547,7 +9540,6 @@ NZ8J=OH
 NZ8K=WV
 NZ8O=MI
 NZ9R=IN
-PY5AMF=DX
 VA1CHP=MR
 VA1MM=MR
 VA1RST=MR

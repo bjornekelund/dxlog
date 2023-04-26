@@ -1,7 +1,7 @@
 # New England QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-26
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1344,6 +1344,7 @@ K1NA=AL
 K1ND=MI
 K1NDF=MIDMA
 K1NG=IL
+K1NPT=NEWRI
 K1NR=MIDMA
 K1NT=TX
 K1NUH=VA
@@ -10537,6 +10538,7 @@ W1TY=NY
 W1UE=BERMA
 W1UED=LITCT
 W1UMR=SULNH
+W1USB=WNDVT
 W1UU=BARMA
 W1UVJ=FL
 W1VIV=MIDMA

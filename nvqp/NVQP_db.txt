@@ -1,7 +1,7 @@
 # Nevada QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-26
 AA0A=MO
 AA0AA=NE
 AA0AW=MN
@@ -7464,7 +7464,6 @@ VE3NE=GTA
 VE3NFN=GTA
 VE3NNT=ONE
 VE3NYZ=ONS
-VE3NZ=GTA
 VE3NZ=GTA
 VE3OI=ONS
 VE3OIL=ONS

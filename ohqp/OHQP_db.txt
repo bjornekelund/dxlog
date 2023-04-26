@@ -1,7 +1,7 @@
 # Ohio QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-26
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -977,9 +977,6 @@ AL7B=AK
 AL7O/W0=MO
 AL7O=MO
 AL7R=AZ
-HI2AA=HI
-HI3MM=HI
-HI4MM=HI
 K0ACP=MI
 K0AD=MN
 K0AE=CO
@@ -2054,7 +2051,6 @@ K3VAR=PA
 K3VAT=MD
 K3VED=PA
 K3VGK=PA
-K3VIN=KY
 K3VIN=LOGA
 K3VJ=MD
 K3VLQ=PA
@@ -5798,7 +5794,6 @@ KJ7WCW=UT
 KJ7WN=WA
 KJ7WY=AZ
 KJ8F=ALLE
-KJ8F=FL
 KJ8O=MI
 KJ9B=IN
 KJ9C/7=MT
@@ -8392,7 +8387,6 @@ N8FYL=MI
 N8GB=WV
 N8GM=VA
 N8GNA=MI
-N8GU=FL
 N8GU=MADI
 N8HKU=MI
 N8HM=DC

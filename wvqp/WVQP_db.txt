@@ -1,7 +1,7 @@
 # West Virginia QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-26
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -14679,7 +14679,6 @@ WT6K=CA
 WT6P=AZ
 WT8C=OH
 WT8O=OH
-WT8WV=MON
 WT8WV=MON
 WT9Q=WI
 WT9U=IN

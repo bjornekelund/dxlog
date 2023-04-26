@@ -1,7 +1,7 @@
 # North Carolina QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-16
+# Last updated 2023-04-26
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -972,9 +972,6 @@ AL7B=AK
 AL7O/W0=MO
 AL7O=MO
 AL7R=AZ
-HI2AA=HI
-HI3MM=HI
-HI4MM=HI
 K0ACP=MI
 K0AD=MN
 K0AE=CO
@@ -5102,7 +5099,6 @@ KE2HG=PA
 KE2I=NY
 KE2N=VA
 KE2SD=NY
-KE2SX=NY
 KE2SX=WAK
 KE2U=NJ
 KE2VB=AZ
@@ -9329,7 +9325,6 @@ NS7N=WA
 NS8O=OH
 NS8Q=MI
 NS9I=MAC
-NS9I=WI
 NS9M=IN
 NS9N=IL
 NS9R=WI
