@@ -1,11 +1,11 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-04-20
+# Last Edit,2023-04-26
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
-# Thanks K7SV K9SO KA5M KG5U N0TA N3JT N5KD N7WY W6TN SM7IUN 
+# Thanks K7SV K9SO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -159,6 +159,7 @@ AB0BM,Gary,IA,Quimby IA
 AB0DK,Dave,1932,Kirksville MO
 AB0S,Tim,1857,Beloit KS
 AB0TX,Mike,2507,Halstead KS
+AB0WW,Peter,CA,Livermore CA
 AB1BA,Andy,NY,Monsey NY
 AB1BX,Andy,2191,Warren RI
 AB1CW,Howard,1117,Tyngsboro MA
@@ -436,7 +437,7 @@ CT1DRB,Dave,430,Paio Pires Portugal
 CT1ILT,Fil,2699,(CR6K)  S. Martinho da Gandara Portugal
 CT7AFN,Carlos,,Near Fatima Portugal
 CT7AGZ,Ken,2126,(G4RWD)  Carvoeiro LGA Portugal
-CT7AUP,David,,Arruda dos Vinhos Portugal
+CT7AUP,David,3356,Arruda dos Vinhos Portugal
 CT9/HA3NU,Larry,,
 CT9ABV,Ulf,1517,(DL5AXX)  Santana Madeira Island AF-014
 CU3AA,Joao,1804,Angra Do Heroismo Portugal
@@ -854,7 +855,7 @@ G0ORH,Ken,,Thatcham West Berkshire
 G0PNM,Peter,,Cornwall England
 G0RDO,John,,Newton Abbot Devon Egnland
 G0TPH,Al,2956,Desford England (Possibly QRP)
-G0TRT,Clemon,,Warminster England
+G0TRT,Cle,CWA,Warminster England (QRP)
 G0TZZ,Chris,,Sporte England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England
@@ -958,6 +959,7 @@ G4VIW,Andy,2586,Upminster England
 G4VYI,Mike,,Sheffield England
 G4WQI,Dean,3078,Witham England
 G4XUM,Martin,569,Shavington Crewe England
+G4ZXY,IAN,,Felixstone Road England
 G5CL,Ryan,422,Buckinghamshire England (Mainly QRP)
 G5VZ,Chris,2877,Pontefract England
 G7KSE,Alex,3212,Cumbria England (Possibly QRP)
@@ -977,7 +979,7 @@ GI4SZW,Jim,,County Armagh Northern Ireland
 GM0EPO,John,1974,Scotland  (Possibly QRP)
 GM0EUL,Peter,1899,Duns Scotland
 GM0LIR,Phil,,Wishaw Scotland
-GM0OPS,John,,East Kibriege Scotland
+GM0OPS,John,3358,East Kibriege Scotland
 GM2CWO,,,(Various users)  Scotland
 GM2V,Chris,2436,(GM3WOJ)  Scotland
 GM3JOB,Rod,2204,Irvine Scotland
@@ -1205,6 +1207,7 @@ JA6LCJ,Yuki,,(Yukihisa) Kumamoto Japan
 JA7QVI,Tac,,Miyagi Japan
 JA8CDG,Ken,161,Machida Tokyo Japan
 JE1TRV,Atsu,141,Machida-City Tokyo Japan (JA Amb.)
+JE8UHY,Toshi,,Honkaido Japan
 JF1EGO,Kaku,,Tokyo Japan
 JF1NHD,INO,JA,Ibaraki Japan
 JF1TTN,Masa,,Wako-City Japan
@@ -1665,6 +1668,7 @@ K4EOR,George,1655,Cataula GA
 K4ESE,Neill,NC,Lake Waccaw NC
 K4EU,Steve,1329,Culpeper VA
 K4EWG,Pete,502,Stockbridge GA
+K4FCG,OJ,FL,(K1KNQ)  Promoting Florida QSO Party
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
 K4FT,John,304,Yemassee SC
@@ -1715,6 +1719,7 @@ K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
 K4OAQ,Fritz,TN,Dublin VA or Bristol TN
 K4ODL,Randy,1464,Jasper GA
+K4OJ,OJ,FL,(W3US)  Promoting Florida QSO Party
 K4ORD,Riley,1024,Union Hall VA
 K4OSO,Milt,VA,Rockville VA
 K4OV,Rob,1592,Chapel NC
@@ -1982,6 +1987,7 @@ K7GT,Allan,682,Central Point OR
 K7HBN,George,2168,Bothell WA (Possibly QRP)
 K7III,Jason,2387,Shoreline WA
 K7INA,Russ,WA,Port Angeles WA
+K7IOL,Jim,TX,Dallas TX
 K7JA,Chip,CA,Garden Grove CA
 K7JKZ,John,OK,Oklahoma OK
 K7JPN,John,AZ,Scottsdale AZ
@@ -3014,6 +3020,7 @@ M0TJU,Evan,,Stockport England
 M0TZX,Ed,2462,Leicestershire England
 M0WDD,David,3204,Manchester England
 M0XUU,Pan,2895,Reading England
+M1AFQ,Alan,,Norfold England
 M1X,Steve,2451,(G0CKP)  Kent England
 M2D,Phil,1583,(G4NVR)  Northumberland England
 M2G,John,2379,(G4RCG)  Makefield England
@@ -3256,7 +3263,7 @@ N3RD,Dave,232,Phoenixville PA
 N3RM,Theo,PA,Lebanon PA
 N3RS,Sig,34,Glenmoore PA
 N3RSD,Frank,DE,Wilmington DE
-N3RTW,Sean,VA,Springfield VA
+N3RTW,Sean,3357,Springfield VA
 N3SD,Greg,1768,Aliquippa PA
 N3SW,Scott,2397,Cumberland PA
 N3TM,Thayer,PA,Harmony PA
@@ -3303,7 +3310,7 @@ N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
 N4EWT,Newt,GA,Decatur GA (Newton)
-N4FCG,OJ,FL,Florida QSO Party
+N4FCG,OJ,FL,(N4BP)  Promoting Florida QSO Party
 N4FP,Wayne,1090,Ocala FL (Possibly QRP)
 N4FP/M,Wayne,1090,6400/Maestro Hustler horz.
 N4FP/P,Wayne,1090,
@@ -3425,7 +3432,7 @@ N5LB,Lionel,1691,Weston Lakes TX
 N5LL,Leslie,TX,San Antonio TX
 N5LNX,Craig,TX,Hurst TX
 N5LYJ,Ken,994,Wichita Falls TX
-N5NA,Alan,TX,Midland TX
+N5NA,Alan,3354,Midland TX
 N5NHJ,Max,24,Allen TX
 N5NU,Jason,1920,Nacogdoches TX
 N5OE,Carl,983,Whitt TX
@@ -4646,7 +4653,7 @@ VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Look for VA2RAC HQ CW April 18 WARD
+VE2FK,Dub,1181,Florida QSO Party this weekend - GL
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
@@ -4693,7 +4700,7 @@ VE3FP,Adam,2323,(ex: VE3IZS) Eimwood ON
 VE3FU,Chris,2778,Kemptville ON
 VE3FWF,Bernie,ON,Kanata ON
 VE3FXX,Ron,1775,London ON
-VE3GFN,Mike,ON,Scarborough ON
+VE3GFN,Mike,1119,Scarborough ON
 VE3GNA,Glenn,457,Roblin ON
 VE3GO,Ron,ON,Kingston ON
 VE3HEU,Vic,ON,Toronto ON
@@ -4713,7 +4720,7 @@ VE3KQK,Mike,ON,St Thomas ON
 VE3KQN,Jim,ON,Pickering ON
 VE3KZ,Bob,2585,Milton ON
 VE3MA,Al,1860,Milton ON
-VE3MGY,Brian,1285,Sparta ON
+VE3MGY,Brian,ON,(1285) Sparta ON
 VE3MM,Rick,1947,St-Catherines ON
 VE3MS,Rodger,ON,Ottawa ON
 VE3MV,Doug,1642,East York ON
@@ -4883,6 +4890,7 @@ W0EJ,Bill,1269,Springfield SD
 W0EWD,Mike,IA,Des Moines IA
 W0FK,Lou,MO,Saint Louis MO
 W0GAS,Greg,2785,Larkspur CO
+W0GIB,Craig,MN,Mahtomedi MN
 W0GJ,Glenn,532,Calmar IA
 W0GTL,Chris,SD,Sioux Falls SD
 W0GXA,Bob,1349,Ely IA
@@ -5082,7 +5090,7 @@ W3EEK,Carl,PA,Tamaqua PA
 W3EF,Maury,632,Silver Spring MD
 W3EL,Billy,417,Newport News VA
 W3FSA,John,1552,Scarborough ME
-W3FV,Barry,PA,East Greenville PA
+W3FV,Barry,2025,East Greenville PA
 W3GC,Tom,FL,Ormond Beach FL
 W3GG,Burt,1994,Derwood MD
 W3GW,Joe,LA,St Francisville LA
@@ -5147,6 +5155,7 @@ W4CWA,Frank,3331,Cary NC
 W4DD,Jeff,GA,Gainsville GA
 W4DDD,Jim,FL,Orange Park FL
 W4DKS,Dan,321,Centreville VA
+W4DL,Mike,FL,Pompano Beach FL
 W4DR,Bob,VA,Midlothian VA
 W4DWS,Mayor,GA,Cave Spring GA
 W4DXX,Eric,1040,Bainbridge GA
@@ -5154,7 +5163,7 @@ W4EDE,Lee,30,Miami Beach FL
 W4EE,Jim,FL,Palm Bay FL
 W4ER,John,1189,Mobile AL (KX2 5w to attic ant. or /p)
 W4FC,Paul,SC,Greenville SC
-W4FCG,,FL,Florida Contest Group FL
+W4FCG,OJ,FL,(NF4A)  Promoting Florida QSO Party
 W4FKM,Claude,1342,Bristol TN
 W4FLN,Frank,FL,Cape Coral FL
 W4FO,Pat,FL,Hudson FL
@@ -5194,7 +5203,7 @@ W4MJE,Jim,1777,Mobile AL
 W4MPS,Marc,NC,Clayton NC
 W4MQC,Alan,182,Bokeelia FL
 W4MQC/1,Alan,182,
-W4MSL,DOC,CWA,Sharpsburg GA
+W4MSL,DOC,3355,Sharpsburg GA
 W4MUB,Mark,3025,Chandler AZ
 W4MY,Marty,NC,Erwin NC
 W4NA,Nate,1334,Gore VA
@@ -5457,7 +5466,7 @@ W7ZI,Mike,OR,Beaverton OR
 W7ZRC,Rod,1127,Meridian ID
 W8AKS,Marty,WV,Beckley WV
 W8BBQ,Mark,OH,Youngstown OH
-W8BG,Bill,OH,Strongsville OH
+W8BG,Bill,1493,Strongsville OH
 W8BI,Rob,OH,Dayton ARC OH
 W8BO,Phil,OH,Franklin OH
 W8BUB,Tom,OH,Hilliard OH
@@ -5897,7 +5906,7 @@ WM4Q,Pete,TN,Bon Aqua TN
 WM5H,Bob,LA,West Monroe LA
 WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA
-WM6Y,PJ,2280,(Phil) Fallbrook CA
+WM6Y,PJ,CA,(2280) (Phil) Fallbrook CA
 WM9Q,Ron,1170,Gurnee IL
 WN1M,Mike,CT,South Glastonbury CT
 WN4AFP,Dave,1208,Greenville SC

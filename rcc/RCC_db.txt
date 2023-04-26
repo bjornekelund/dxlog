@@ -1,6 +1,6 @@
 # RCC member database
 # Based on http://rcccup.ru/information/rcc-members
-# Last updated 2022-07-11
+# Last updated 2023-04-26
 R9AE=RCC2
 R2AA=RCC3
 RZ3K=RCC4
