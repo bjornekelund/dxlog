@@ -11,7 +11,7 @@ BEGIN {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
     else {
-      printf("%s=%s\n", toupper($1), toupper($3));
+      printf("%s=%s\n", $1, $3);
       lines[$1] = $0;
     }
   }

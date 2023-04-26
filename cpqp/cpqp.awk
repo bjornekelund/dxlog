@@ -12,17 +12,16 @@ BEGIN {
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
-  } else {
+  } else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $col ~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MA|MD|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|NL|NB|NS|PE|QC|ON|BC|NT|NU|YT|BAR|BOW|BRC|CCE|CCF|CFL|CHE|CMD|CNH|CRR|CSD|CSH|CSK|EDC|EDG|EDM|EDW|EMW|ERB|EST|EWE|FTH|FTM|GPM|LAK|LTH|MED|PRW|RDL|RDM|SPK|STA|STR|YEL|BTL|CAR|CYP|DES|MOO|PRA|RGL|RGQ|RGW|SKG|SKU|SKW|SOU|YOR|BRS|CHA|CHR|DAU|ELM|KIL|POR|PRO|SEL|STB|WPC|WPN|WPS|WSC)$/) {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
     else {
-      if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MA|MD|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|NL|NB|NS|PE|QC|ON|BC|NT|NU|YT|BAR|BOW|BRC|CCE|CCF|CFL|CHE|CMD|CNH|CRR|CSD|CSH|CSK|EDC|EDG|EDM|EDW|EMW|ERB|EST|EWE|FTH|FTM|GPM|LAK|LTH|MED|PRW|RDL|RDM|SPK|STA|STR|YEL|BTL|CAR|CYP|DES|MOO|PRA|RGL|RGQ|RGW|SKG|SKU|SKW|SOU|YOR|BRS|CHA|CHR|DAU|ELM|KIL|POR|PRO|SEL|STB|WPC|WPN|WPS|WSC)$/) {
-        printf("%s=%s\n", $1, $col);
-        lines[$1] = $0;
-      }
-      else if ($0 !~ /^(!|#|$)/ && $col != "")
-        printf("Ignored: %s\n", $0) > "/dev/stderr";
+      printf("%s=%s\n", $1, $col);
+      lines[$1] = $0;
     }
+  }
+  else if ($0 !~ /^(!|#|$)/ && $col != "") {
+    printf("Ignored: %s\n", $0) > "/dev/stderr";
   }
 }

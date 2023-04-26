@@ -11,10 +11,11 @@ BEGIN {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }
       else {
-        printf("%s=%s\n", toupper($1), toupper($3));
+        printf("%s=%s\n", $1, $3);
         lines[$1] = $0;
       }
   }
-  else if ($0 !~ /^(!|#|$)/ && toupper($3) !~ /^(HI|)$/)
+  else if ($0 !~ /^(!|#|$)/ && $3 !~ /^(HI|)$/) {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
+  }
 }
