@@ -8,19 +8,19 @@ BEGIN {
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($2 ~ /Exch1|State/) col = 1;
     if ($3 ~ /Exch1|State/) col = 2;
     if ($4 ~ /Exch1|State/) col = 3;
     if ($5 ~ /Exch1|State/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
-  } else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|QC|ON|MB|SK|AB|BC|NB|NL|NS|PE|NT|NU|YT|ADMS|ANTE|ARTH|BANN|BLAI|BOON|BOXB|BOYD|BRWN|BUFF|BURT|BUTL|CASS|CEDA|CHAS|CHER|CHEY|CLAY|COLF|CUMI|CUST|DAKO|DAWE|DAWS|DEUE|DIXO|DODG|DGLS|DUND|FILL|FRNK|FRON|FURN|GAGE|GARD|GARF|GOSP|GRAN|GREE|HALL|HAMI|HRLN|HAYE|HITC|HOLT|HOOK|HOWA|JEFF|JOHN|KEAR|KEIT|KEYA|KIMB|KNOX|LNCS|LINC|LOGA|LOUP|MDSN|MCPH|MERR|MORR|NANC|NEMA|NUCK|OTOE|PAWN|PERK|PHEL|PIER|PLAT|POLK|REDW|RICH|ROCK|SALI|SARP|SAUN|SCOT|SEWA|SHRD|SHRM|SIOU|STAN|THAY|THOM|THUR|VLLY|WASH|WAYN|WEBS|WHEE|YORK)$/) {
-      if (lines[$1] != "") {
-        printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
-      }
-      else {
-        printf("%s=%s\n", $1, $col);
-        lines[$1] = $0;
-      }
+  } 
+  else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|QC|ON|MB|SK|AB|BC|NB|NL|NS|PE|NT|NU|YT|ADMS|ANTE|ARTH|BANN|BLAI|BOON|BOXB|BOYD|BRWN|BUFF|BURT|BUTL|CASS|CEDA|CHAS|CHER|CHEY|CLAY|COLF|CUMI|CUST|DAKO|DAWE|DAWS|DEUE|DIXO|DODG|DGLS|DUND|FILL|FRNK|FRON|FURN|GAGE|GARD|GARF|GOSP|GRAN|GREE|HALL|HAMI|HRLN|HAYE|HITC|HOLT|HOOK|HOWA|JEFF|JOHN|KEAR|KEIT|KEYA|KIMB|KNOX|LNCS|LINC|LOGA|LOUP|MDSN|MCPH|MERR|MORR|NANC|NEMA|NUCK|OTOE|PAWN|PERK|PHEL|PIER|PLAT|POLK|REDW|RICH|ROCK|SALI|SARP|SAUN|SCOT|SEWA|SHRD|SHRM|SIOU|STAN|THAY|THOM|THUR|VLLY|WASH|WAYN|WEBS|WHEE|YORK)$/) {
+    if (lines[$1] != "") {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+    }
+    else {
+      printf("%s=%s\n", $1, $col);
+      lines[$1] = $0;
+    }
   }
   else if ($0 !~ /^(!|#|$)/ && $col != "") {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";

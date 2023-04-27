@@ -8,7 +8,6 @@ BEGIN {
 }
 {
   if ($0 ~ /!!Order!!/) {
-    if ($2 ~ /EXCH1|Exch1/) col = 1;
     if ($3 ~ /EXCH1/Exch1) col = 2;
     if ($4 ~ /EXCH1|Exch1/) col = 3;
     if ($5 ~ /EXCH1|Exch1/) col = 4;

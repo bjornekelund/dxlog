@@ -3,11 +3,9 @@ BEGIN {
 }
 {
   if ($1 ~ /!!Order!!/) {
-    if ($2 ~ /Power/) pcol = 1;
     if ($3 ~ /Power/) pcol = 2;
     if ($4 ~ /Power/) pcol = 3;
     if ($5 ~ /Power/) pcol = 4;
-    if ($2 ~ /State/) scol = 1;
     if ($3 ~ /State/) scol = 2;
     if ($4 ~ /State/) scol = 3;
     if ($5 ~ /State/) scol = 4;

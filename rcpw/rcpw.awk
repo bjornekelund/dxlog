@@ -1,4 +1,7 @@
 BEGIN {
+  printf("# RCPW members database based on http://rcpw.ru/members.html\n");
+  printf("# Contains members up to #%d\n", last);
+  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
   FS=";";
   last = 0;
 }
@@ -12,9 +15,6 @@ BEGIN {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
 }
 END {
-  printf("# RCPW members database based on http://rcpw.ru/members.html\n");
-  printf("# Contains members up to #%d\n", last);
-  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
   for (i = 1; i <= last; i++)
     if (member[i] != "")
       printf("%s=PW%d\n", member[i], i);

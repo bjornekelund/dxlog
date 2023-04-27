@@ -1,7 +1,7 @@
 # German DOK database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-11
+# Last updated 2023-04-27
 DA0A=N11
 DA0AA=B06
 DA0APOLLO=APOLLO

@@ -9,11 +9,9 @@ BEGIN {
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($2 ~ /State/) state = 1;
     if ($3 ~ /State/) state = 2;
     if ($4 ~ /State/) state = 3;
     if ($5 ~ /State/) state = 4;
-    if ($2 ~ /Name/) name = 1;
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;

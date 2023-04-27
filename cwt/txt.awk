@@ -1,4 +1,8 @@
 BEGIN {
+  printf("#0 CWOps CWT participants database\n");
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
+  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
   max = 0;
   maxname = "";
@@ -8,7 +12,7 @@ BEGIN {
   call = $1;
   name = $2;
   ID = toupper($3);
-  if (call ~ /^[A-Z0-9\/]{3,}$/ && (name != "" || ID != "")) {
+  if (call ~ /^[A-Z0-9/]{3,}$/ && (name != "" || ID != "")) {
 #    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr";    
     if (ID ~ /^ *$/) {
       if (call ~ /^3B9/) ID = "3B9";
@@ -110,14 +114,13 @@ BEGIN {
       if (call ~ /^ZP/) ID = "ZP";
       if (call ~ /^Z[R-S]/) ID = "ZS";
     }
-    if (toupper(ID) != ID && ID != "")
+    if (ID != ID && ID != "")
       printf("Exchange is \"%s\" when it should be \"%s\" for %s\n", ID, ID, call) > "/dev/stderr";
 
     if (call == "N5OT") ID = "2197";
     idvalid = ID ~ /^[1-9][0-9]{0,3}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]?$/;
     problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
 
-    name = name;
     namevalid = name ~ /^[A-Za-z]{2,}$/;
 
     if (!namevalid && name != "") {
@@ -127,7 +130,7 @@ BEGIN {
 
     if ((!namevalid && !idvalid) || problemid || (!namevalid && ID !~ /^([0-9]+|[A-Z]{2})$/)) {
 #      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {
       printf("%s=%s;%s\n", call, name, ID);
@@ -144,10 +147,6 @@ BEGIN {
   }
 }
 END {
-  printf("#0 CWOps CWT participants database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#3 Contains members up to #%d\n", max);
-  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
   printf("Longest name is \"%s\" (%d)\n", maxname, maxlen) > "/dev/stderr";
 }
