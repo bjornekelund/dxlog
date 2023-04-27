@@ -5,23 +5,7 @@ OUTFILE=ARRL_10M_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk '
-BEGIN {
-  FS=","
-}
-{
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|AGS|BAC|BCS|CAM|CHI|CHH|CMX|COA|COL|DGO|EMX|GTO|GRO|HGO|JAL|MIC|MOR|NAY|NLE|OAX|PUE|QRO|QUI|SLP|SIN|SON|TAB|TAM|TLX|VER|YUC|ZAC)$/) {
-    printf("%s=%s\n", $1, $3);
-  }
-  else if ($0 !~ /^(!|#|$)/)
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
-}
-END {
-  printf("#0 ARRL 10m database - state or province for US, Canadian, and Mexican stations\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-}' $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f arrl10.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

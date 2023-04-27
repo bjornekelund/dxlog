@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-04-26
+# Last Edit,2023-04-27
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -448,7 +448,7 @@ CX7CW,Phil,570,Montevideo Uruguay
 CX7TT,Tom,518,Rocha Uruguay
 D4NA,Timo,2967,(OH1NOA)
 D4Z,Phil,1354,(HB9ARF) QRV for WPX
-DA0BCC,Sven,2697,Germany
+DA0BCC,,,Bavarian Contest Club Germany
 DD5CF,Colin,DL,Bonn Germany (QRP)
 DD5KG,Gabor,2471,Munich Germany
 DD5XX,Saki,2354,Esslingen  (nr Stuttgart) Germany
@@ -725,7 +725,7 @@ EA8BMG,Luis,1063,La Hidalga Arago Canary Island
 EA8CAC,Juan,EA8,Canary Island
 EA8CN,Andy,265,Los Realejos Canary Island
 EA8DDM,Carlos,,Las Palmas Canary Island
-EA8DNT,Glynn,2178,Lanzarote Canara Isl. (also GW4MVA)
+EA8DNT,Glen,2178,Lanzarote Canara Isl. (also GW4MVA)
 EA8DP,Marino,,Las Palmas Canary Island
 EA8F,Franky,,Canary Island
 EA8KW,Carlos,1565,Las Palmas Canary Island
@@ -962,6 +962,7 @@ G4XUM,Martin,569,Shavington Crewe England
 G4ZXY,IAN,,Felixstone Road England
 G5CL,Ryan,422,Buckinghamshire England (Mainly QRP)
 G5VZ,Chris,2877,Pontefract England
+G7BED,Chris,,Northampton England
 G7KSE,Alex,3212,Cumbria England (Possibly QRP)
 G7VJR,Michael,968,via M0OXO England
 G8AJM,Chris,G,Maidenhead England
@@ -1004,7 +1005,7 @@ GW3YDX,Ron,100,Four Crosses Wales
 GW4GNY,Martin,,Wales
 GW4J,Stew,919,Wales (GW0ETF) (CWops President)
 GW4MM,Tim,2755,Goodwick Wales
-GW4MVA,Glen,2178,Flintshire Wales
+GW4MVA,Glen,2178,Flintshire Wales (Also EA8DNT)
 GW4OKT,Keith,1952,Near Chester Wales
 GW4PVM,Paul,2413,(G4PVM) Holy Island EU124 Wales
 GW4VXE,Tim,2755,St Nicholas Goodwick Wales
@@ -2917,6 +2918,7 @@ KX4FZ,Terry,2737,Bradenton FL
 KX4UI,Bill,CWA,Hosford FLFL
 KX6A,Mike,1782,Newport Beaach CA
 KX6X,Ken,AZ,Sierra AZ
+KX7M,Denny,NV,Carson City NV
 KX8I,,MD,Gaithersburg MD
 KX9DX,Rick,1074,Springfield IL
 KX9X,Sean,683,West Hartford CT
@@ -5906,7 +5908,7 @@ WM4Q,Pete,TN,Bon Aqua TN
 WM5H,Bob,LA,West Monroe LA
 WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA
-WM6Y,PJ,CA,(2280) (Phil) Fallbrook CA
+WM6Y,PJ,2280,(Phil) Fallbrook CA
 WM9Q,Ron,1170,Gurnee IL
 WN1M,Mike,CT,South Glastonbury CT
 WN4AFP,Dave,1208,Greenville SC
@@ -6092,6 +6094,7 @@ ZL2GVA,Gerard,3028,Blenheim New Zealand
 ZL2KE,Steve,1281,70km NE of Wellington
 ZL3CW,Jacky,3270,(F2CCW) Tauranga New Zealand
 ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
+ZL4BDG,Ben,,Upper Hutt New Zeland
 ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
 ZS1ANF,Oleg,3157,Western Cape South Africa

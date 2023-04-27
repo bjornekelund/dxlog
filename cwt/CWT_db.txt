@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3358
-# Last updated 2023-04-26
+# Last updated 2023-04-27
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -442,7 +442,6 @@ CX7CW=Phil;570
 CX7TT=Tom;518
 D4NA=Timo;2967
 D4Z=Phil;1354
-DA0BCC=Sven;2697
 DD5CF=Colin;DL
 DD5KG=Gabor;2471
 DD5XX=Saki;2354
@@ -718,7 +717,7 @@ EA8BMG=Luis;1063
 EA8CAC=Juan;EA8
 EA8CN=Andy;265
 EA8DDM=Carlos;EA
-EA8DNT=Glynn;2178
+EA8DNT=Glen;2178
 EA8DP=Marino;EA
 EA8F=Franky;EA
 EA8KW=Carlos;1565
@@ -955,6 +954,7 @@ G4XUM=Martin;569
 G4ZXY=IAN;G
 G5CL=Ryan;422
 G5VZ=Chris;2877
+G7BED=Chris;G
 G7KSE=Alex;3212
 G7VJR=Michael;968
 G8AJM=Chris;G
@@ -2901,6 +2901,7 @@ KX4FZ=Terry;2737
 KX4UI=Bill;CWA
 KX6A=Mike;1782
 KX6X=Ken;AZ
+KX7M=Denny;NV
 KX8I=;MD
 KX9DX=Rick;1074
 KX9X=Sean;683
@@ -5884,7 +5885,7 @@ WM4Q=Pete;TN
 WM5H=Bob;LA
 WM5S=Mac;TX
 WM6T=Tray;3125
-WM6Y=PJ;CA
+WM6Y=PJ;2280
 WM9Q=Ron;1170
 WN1M=Mike;CT
 WN4AFP=Dave;1208
@@ -6070,6 +6071,7 @@ ZL2GVA=Gerard;3028
 ZL2KE=Steve;1281
 ZL3CW=Jacky;3270
 ZL3XDJ=Brian;ZL
+ZL4BDG=Ben;ZL
 ZP9MCE=Manu;3103
 ZR2A=Ulrich;2470
 ZS1ANF=Oleg;3157
