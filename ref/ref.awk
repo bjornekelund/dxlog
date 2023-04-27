@@ -14,8 +14,15 @@ BEGIN {
     printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
   } else {
     exch = ($col ~ /^[1-9]$/) ? "0" $col : $col;
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && exch ~ /^F.$|[0-9][0-9AB]$/)
-      printf("%s=%s\n", $1, exch);
+    if ($1 ~ /^[0-9A-Z/]+$/ && exch ~ /^F.$|[0-9][0-9AB]$/) {
+      if (lines[$1] != "") {
+        printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      }
+      else {
+        printf("%s=%s\n", $1, exch);
+        lines[$1] = $0;
+      }
+    }
     else if ($0 !~ /^(!|#|$)/)
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
