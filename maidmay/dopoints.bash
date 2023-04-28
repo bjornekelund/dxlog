@@ -20,7 +20,7 @@ BEGIN {
       thisgrid = sprintf("%c", first) sprintf("%c", second);
       printf("# Rules for station with grid %s for bands %s\n", thisgrid, bandregex)
       for (modei = 0; modei < 3; modei++) {
-        printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;DEST->RCVD:^%s;^(%s)$;%s;%d\n", thisgrid, thisgrid, bandregex, modes[modei], points[modes[modei]] * 1);
+        printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;DEST->RCVD:^%s([0-9]{2})?$;^(%s)$;%s;%d\n", thisgrid, thisgrid, bandregex, modes[modei], points[modes[modei]] * 1);
         gridregex = "";
         notfirst = 0;
         for (fd = -1; fd < 2; fd++) {
@@ -65,7 +65,7 @@ BEGIN {
           }
         }
         printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;DEST->RCVD:^(%s)([0-9]{2})?$;^(%s)$;%s;%d\n", thisgrid, gridregex, bandregex, modes[modei], points[modes[modei]] * 1);
-        printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;ALL;^(%s)$;%s;%d\n", thisgrid, bandregex, modes[modei], points[modes[modei]] * 2);
+        printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;ALL;^(%s)([0-9]{2})?$;%s;%d\n", thisgrid, bandregex, modes[modei], points[modes[modei]] * 2);
       }
     }
   }
