@@ -30,6 +30,7 @@ echo  Creating 6-position grid database by parsing $FILE2
 #   printf("%d calls ignored in file #1\n", ignored) > "/dev/stderr";
 
 # }' > .tmp1
+touch .tmp1
 
 # Comma separated file
 cat $FILE2 | gawk '
@@ -38,7 +39,7 @@ BEGIN {
   ignored = 0;
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]{3,}$/ && $3 ~ /^[A-R][A-R][0-9][0-9]([A-X][A-X])?$/)
+  if ($1 ~ /^([A-Z0-9]+\/)?[0-9]?[A-Z]+[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $3 ~ /^[A-R][A-R][0-9][0-9]([A-X][A-X])?$/)
     printf("%s=%s\n", $1, $3);
   else {
     if ($3 != "" && $3 !~ /^[A-R][A-R][0-9][0-9]$/) 
@@ -59,7 +60,7 @@ BEGIN {
 }
 {
 #  printf("Call=%s Grid=%s Status=%s\n", $1, $2, $3) > "/dev/stderr";
-  if ($1 ~ /^[0-9,A-Z\/]{3,}$/ && $2 ~ /^[A-R][A-R][0-9][0-9][A-X][A-X]$/) {
+  if ($1 ~ /^[0-9A-Z/]{3,}$/ && $2 ~ /^[A-R][A-R][0-9][0-9][A-X][A-X]$/) {
 	if ($2 != gridlist[$1] && gridlist[$1] != "") {
 #	  printf("Younger file override. New value: %s = %s, was %s\n", $1, $2, gridlist[$1]) > "/dev/stderr";
 	}
