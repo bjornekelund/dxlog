@@ -62,7 +62,7 @@ BEGIN {
 #  printf("Call=%s Grid=%s Status=%s\n", $1, $2, $3) > "/dev/stderr";
   if ($1 ~ /^[0-9A-Z/]{3,}$/ && $2 ~ /^[A-R][A-R][0-9][0-9][A-X][A-X]$/) {
 	if ($2 != gridlist[$1] && gridlist[$1] != "") {
-#	  printf("Younger file override. New value: %s = %s, was %s\n", $1, $2, gridlist[$1]) > "/dev/stderr";
+	  printf("Younger file override. New value: %s = %s, was %s\n", $1, $2, gridlist[$1]) > "/dev/stderr";
 	}
 	callist[$1] = $1;
 	gridlist[$1] = $2;

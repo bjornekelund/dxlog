@@ -1,6 +1,6 @@
 # VHF/UHF 6-position grid data base
 # Credits to VE2FK and HB9THU
-# Last updated 2023-04-29
+# Last updated 2023-04-30
 2A0BJG=IO67HC
 2A1BGZ=IO86JC
 2C7SMV=IO81LN
