@@ -1,4 +1,4 @@
-!!Order!!,Call,UserTextLoc1,
+!!Order!!,Call,UserText,Loc1,
 # Last Edit,2023-04-28
 # Send any correction direct ve2fk@arrl.net
 # Thanks Beat HB9THU for updated file
@@ -37573,7 +37573,7 @@ G4ZYY,,IO91TJ,
 G4ZZZ,,IO82KT,
 G5AEP,,IO91,
 G5APJ,,IO83UP,
-G5B,TEAM FIVE BELLS ,IO92WS,IO92WS
+G5B,TEAM FIVE BELLS,IO92WS,IO92WS
 G5BBL/P,,IO81UC,
 G5BK,ASSOCIATION,IO92WS,IO81XW
 G5BK/P,,IO81XV,IO81WU

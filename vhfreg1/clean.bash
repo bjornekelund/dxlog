@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls VHFREG* | tail -1 2> /dev/null`
+FILE=`ls VHFREG1[^_-]* | tail -1 2> /dev/null`
 LOCAL=LOCAL.txt
 
 OUTFILE=VHFREG1-001.txt
@@ -7,66 +7,102 @@ OUTFILE4=VHFREG1_4-001.txt
 
 dos2unix -q $FILE
 
-echo  Creating 6-position grid database by parsing $FILE
+echo Creating 6-position grid database by parsing $FILE
 
 # Create 6-position grid file
-cat $FILE | gawk '
+
+cat $FILE $LOCAL| gawk '
 BEGIN {
-  printf("!!Order!!,Call,UserText,Loc1,\n");
+  printf("!!Order!!,Call,Loc1,UserText,\n");
   printf("# VHF/UHF 6-position grid data base\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   ignored = 0;
 }
 {
-  grid1 = $3;
-  grid2 = $4;
-  grid1ok = grid1 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}?$/
-  grid2ok = grid2 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}?$/
-  if ($1 ~ /^[0-9]?[A-Z]+[0-9]+[A-Z]+$/ && grid1ok) {
-    if (grid1ok && grid2ok && grid1 != grid2) {
-      printf("Disagreeing grids for %s: %s and %s\n", $1, grid1, grid2) > "/dev/stderr";
-      ignored++;
-    }
-    else {
-      printf("%s,%s,%s\n", $1, $2, grid1);
-    }
+  call = toupper($1);
+  callok = call ~ /^[0-9]?[A-Z]+[0-9]+[A-Z]+$/
+  name = toupper($2);
+  grid1 = toupper($3);
+  grid1ok = grid1 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/
+  grid2 = toupper($4);
+  grid2ok = grid2 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/
+  if (callok == 0) {
+#    printf("Bad call in: \"%s\"\n", $0) > "/dev/stderr";
+    ignored++;
+  }
+  else if (grid1ok == 0) {
+#    if (grid1 != "") printf("Bad grid in: \"%s\"\n", $0) > "/dev/stderr";
+    ignored++;
+  }
+  else if (grid2ok && grid1 != grid2) {
+#    printf("Disagreeing grids for %s: %s and %s\n", $1, grid1, grid2) > "/dev/stderr";
+    ignored++;
   }
   else {
-    # if (grid1 != "" && $3 !~ /^[A-R][A-R][0-9][0-9]$/) 
-      printf("Ignored in file #2: \"%s\"\n", $0) > "/dev/stderr";
-	  ignored++;
+    calls[call] = call;
+    names[call] = name;
+    grids[call] = grid1;
   }
 }
 END {
-  printf("%d calls ignored in file #2\n", ignored) > "/dev/stderr";
+  printf("%d calls ignored in file\n", ignored) > "/dev/stderr";
+  for (c in calls) {
+    printf("%s,%s,%s,\n", c, grids[c], names[c]);
+  }
 }' > $OUTFILE
-exit
 
+echo Created $OUTFILE with `cat $OUTFILE | wc -l` calls
+
+echo ----
 # Derive 4-position grid file
-gawk '
+
+echo Creating 4-position grid database by parsing $FILE
+
+cat $FILE $LOCAL| gawk '
 BEGIN {
-  FS="=";
+  printf("!!Order!!,Call,Loc1,UserText,\n");
+  printf("# VHF/UHF 4-position grid data base\n");
+  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=",";
   ignored = 0;
 }
 {
-  grid = substr($2, 0, 4);
-#  printf("Grid4: Call=%s Grid=%s\n", $1, grid) > "/dev/stderr";
-  if ($1 ~ /^[0-9A-Z\/]{3,}$/ && grid ~ /^[A-R][A-R][0-9][0-9]$/) {
-	if (grid != gridlist[$1] && gridlist[$1] != "") {
-#	  printf("Younger file override. New value: %s = %s, was %s\n", $1, grid, gridlist[$1]) > "/dev/stderr";
-	}
-	callist[$1] = $1;
-	gridlist[$1] = grid;
+  call = toupper($1);
+  callok = call ~ /^[0-9]?[A-Z]+[0-9]+[A-Z]+$/
+  name = toupper($2);
+  grid1 = toupper($3);
+  grid1ok = grid1 ~ /^[A-R]{2}[0-9]{2}/
+  grid2 = toupper($4);
+  grid2ok = grid2 ~ /^[A-R]{2}[0-9]{2}/
+  if (callok == 0) {
+#    printf("Bad call in: \"%s\"\n", $0) > "/dev/stderr";
+    ignored++;
+  }
+  else if (grid1ok == 0) {
+#    if (grid1 != "") printf("Bad grid in: \"%s\"\n", $0) > "/dev/stderr";
+    ignored++;
+  }
+  else if (grid2ok && grid1 != grid2) {
+#    printf("Disagreeing grids for %s: %s and %s\n", $1, grid1, grid2) > "/dev/stderr";
+    ignored++;
   }
   else {
-    printf("Grid4: Discarded line \"%s\"\n", $0) > "/dev/stderr";
-	ignored++;
+    calls[call] = call;
+    names[call] = name;
+    grids[call] = substr(grid1, 0, 4);
   }
-}'  $OUTFILE > $OUTFILE4
+}
+END {
+  printf("%d calls ignored in file\n", ignored) > "/dev/stderr";
+  for (c in calls) {
+    printf("%s,%s,%s,\n", c, grids[c], names[c]);
+  }
+}' > $OUTFILE4
 
-echo $OUTFILE4 created with `cat $OUTFILE4 | wc -l` calls
 
 unix2dos -q $OUTFILE $OUTFILE4
+
+echo Created $OUTFILE4 with `cat $OUTFILE4 | wc -l` calls
 
 exit
