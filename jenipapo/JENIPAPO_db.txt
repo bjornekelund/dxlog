@@ -1,0 +1,24 @@
+# Prefill database for Contest Batalha do Jenipapo
+# NB! Only contains calls not covered by rgx file
+# Last updated 2023-04-30
+PR4A=MG
+PR5J=PR
+PT4A=MG
+PV2B=SP
+PV4T=MG
+PW7M=MIL
+PW7P=PB
+ZV1AK=RJ
+ZV1BA=RJ
+ZV1D=RJ
+ZV2F=RJ
+ZV5DIR=SC
+ZW30BF=MIL
+ZW3T=RS
+ZW5AA=SC
+ZW5B=PR
+ZY2E=SP
+ZY3T=RS
+ZY5AA=PR
+ZY8BJ=BJ
+ZZ4A=MG
