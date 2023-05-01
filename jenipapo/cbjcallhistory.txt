@@ -1,6 +1,4 @@
 !!Order!!, Call, Name, Exch1, UserText, 
-#
-#
 # Criador PS7DX, Ed
 # Este arquivo é para ser usado nos Contest CBNR, FRP e CBJ
 # Qualquer correção enviar para ps7dx.ed@gmail.com
@@ -270,7 +268,6 @@ PU5DJD,,SC,
 PU5DPD,,SC,
 PU5DPL,,SC,
 PU5DUD,,SC,
-PU5GAT,,SC,
 PU5GAT,,YL,
 PU5GLG,,SC,
 PU5KGB,,SC,
@@ -464,7 +461,7 @@ PY2XL,,SP,
 PY2XMY,,SP,
 PY2XRM,,SP,
 PY2XRP,,SP,
-PY2XV,,PSP,
+PY2XV,,SP,
 PY2XYZ,,SP,
 PY2YS,,SP,
 PY2ZK,,SP,
