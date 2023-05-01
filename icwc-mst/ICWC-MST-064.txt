@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-04-17
+# Last Edit,2023-05-01
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
 KI0F,ROGER,
@@ -10,11 +10,12 @@ KD9VGM,NOAH,
 W7JMP,JIM,
 KC6D,DON,
 EA5XQ,JUAN,
-W1SAV,SAVI,,CA,
 K7NEW,MARK,
 N5KIP,TICK,
 KE0QKF,MIKE
 N2DGQ,ERNIE,
+N0FIH,Jerry,
+AK4R,Steve,
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England

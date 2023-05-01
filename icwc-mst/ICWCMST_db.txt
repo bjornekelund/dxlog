@@ -1,7 +1,7 @@
 # ICWS Medium Speed Test database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-27
+# Last updated 2023-05-01
 2E0DCW=GERALD
 2E0OBO=BOB
 3B9FR=ROBERT
@@ -414,6 +414,7 @@ AK4EX=STUART
 AK4HA=GLEN
 AK4IC=DAVID
 AK4NY=TOM
+AK4R=STEVE
 AK4SQ=DAN
 AK5CT=BILL
 AK5X=BILL
@@ -3107,6 +3108,7 @@ N0DNF=BILL
 N0EF=JOHN
 N0EK=ED
 N0FED=LOYD
+N0FIH=JERRY
 N0FN=NEIL
 N0GEF=GREG
 N0HC=CLIFF
