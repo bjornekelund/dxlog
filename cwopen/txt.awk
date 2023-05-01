@@ -13,7 +13,7 @@ BEGIN {
       printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     newname = toupper($col);
-    if ($1 ~ /^[0-9A-Z\/]+$/ && newname != "") {
+    if ($1 ~ /^[0-9A-Z/]+$/ && newname != "") {
       if (length(newname) > maxlen) {
         maxlen = length(newname);
         maxname = newname;

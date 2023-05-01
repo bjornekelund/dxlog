@@ -2,7 +2,7 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^(MI|FN|GR|IN|MA|MF|CA|PN|RN|YO)[0-9]{1,4}$/) {
+  if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^(MI|FN|GR|IN|MA|MF|CA|PN|RN|YO)[0-9]{1,4}$/) {
     printf("%s=%s\n", $1, $2);
   }
   else if ($0 !~ /^(!|#|$)/) {

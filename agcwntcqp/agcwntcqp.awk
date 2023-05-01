@@ -7,7 +7,7 @@ BEGIN {
   maxlen = 0;
 }
 {
-  callok = $1 ~ /^[0-9A-Z,\/]+$/;
+  callok = $1 ~ /^[0-9A-Z/]+$/;
   nameok = $2 ~ /^[A-Za-z]{2,10}$|^$/;
   hyphenated = $2 ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;
   firstok = $3 ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;

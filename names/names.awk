@@ -4,7 +4,7 @@ BEGIN {
 }
 {
   call = toupper($1)
-  if (call ~ /^[0-9,A-Z,\/]+$/ && $2 ~ /^[A-Za-z .\-0-9]+$/) {
+  if (call ~ /^[0-9A-Z/]+$/ && $2 ~ /^[A-Za-z .\-0-9]+$/) {
     if ($3 != "" && $3 != " ")
       printf("%s %s, %s\n", call, $2, $3);
     else

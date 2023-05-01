@@ -14,7 +14,7 @@ BEGIN {
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^[A-Z0-9]+$/) {
+  else if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^[A-Z0-9]+$/) {
     printf("%s=%s\n", $1, $col);
     if (length($col) > max) {
       longest = $col;

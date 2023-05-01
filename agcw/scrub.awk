@@ -2,7 +2,7 @@ BEGIN {
   FS=","
 }
 {
-  callok = $1 ~ /^[0-9A-Z,\/]+$/;
+  callok = $1 ~ /^[0-9A-Z/]+$/;
   nameok = $2 ~ /^[A-Za-z]{2,10}$|^$/;
   longname = $2 ~ /^[A-Za-z]{11,}$|^$/;
   hyphenated = $2 ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;

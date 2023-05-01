@@ -7,7 +7,7 @@ BEGIN {
 {
   call = $1;
   number = $2;
-  if (call ~ /^[0-9,A-Z,\/]+$/ && number ~ /^AC[0-9]+$/) {
+  if (call ~ /^[0-9A-Z/]+$/ && number ~ /^AC[0-9]+$/) {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }

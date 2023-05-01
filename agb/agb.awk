@@ -6,7 +6,7 @@ BEGIN {
   col = 2;
 }
 {
-  if ($1 ~ /^[0-9]+$/ && $2 ~ /^[A-Z0-9\/]+$/)
+  if ($1 ~ /^[0-9]+$/ && $2 ~ /^[A-Z0-9/]+$/)
     printf("%s=%s\n", $2, $1);
   else if ($0 !~ /^N/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";

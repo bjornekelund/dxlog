@@ -12,7 +12,7 @@ BEGIN {
       printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     newtext = toupper($col);
-    if ($1 ~ /^[0-9A-Z\/]+$/ && newtext != "") {
+    if ($1 ~ /^[0-9A-Z/]+$/ && newtext != "") {
       if (text[$1] != $col && text[$1] != newtext && text[$1] != "") {
 #        printf("Replaced %s with %s for %s\n", text[$1], newtext, $1) > "/dev/stderr";
         dupes++;

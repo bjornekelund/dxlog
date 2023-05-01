@@ -8,13 +8,12 @@ BEGIN {
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($2 ~ /Exch1/) col = 1;
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
-    if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^M$/)
+    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^M$/)
       printf("%s=%s\n", $1, $col);
     else if ($0 !~ /^(!|#|$)/)
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
