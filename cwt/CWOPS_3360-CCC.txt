@@ -1671,7 +1671,7 @@ K4EOR,George,1655,Cataula GA
 K4ESE,Neill,NC,Lake Waccaw NC
 K4EU,Steve,1329,Culpeper VA
 K4EWG,Pete,502,Stockbridge GA
-K4FCG,OJ,FL,(K1KNQ)  Promoting Florida QSO Party
+K4FCG,OJ,FL,Florida QSO Party
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
 K4FT,John,304,Yemassee SC
@@ -1722,7 +1722,7 @@ K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
 K4OAQ,Fritz,TN,Dublin VA or Bristol TN
 K4ODL,Randy,1464,Jasper GA
-K4OJ,OJ,FL,(W3US)  Promoting Florida QSO Party
+K4OJ,OJ,FL,Florida QSO Party
 K4ORD,Riley,1024,Union Hall VA
 K4OSO,Milt,VA,Rockville VA
 K4OV,Rob,1592,Chapel NC
@@ -3314,7 +3314,7 @@ N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
 N4EWT,Newt,GA,Decatur GA (Newton)
-N4FCG,OJ,FL,(N4BP)  Promoting Florida QSO Party
+N4FCG,OJ,FL,Florida QSO Party
 N4FP,Wayne,1090,Ocala FL (Possibly QRP)
 N4FP/M,Wayne,1090,6400/Maestro Hustler horz.
 N4FP/P,Wayne,1090,
@@ -5168,7 +5168,7 @@ W4EDE,Lee,30,Miami Beach FL
 W4EE,Jim,FL,Palm Bay FL
 W4ER,John,1189,Mobile AL (KX2 5w to attic ant. or /p)
 W4FC,Paul,SC,Greenville SC
-W4FCG,OJ,FL,(NF4A)  Promoting Florida QSO Party
+W4FCG,OJ,FL,Florida QSO Party
 W4FKM,Claude,1342,Bristol TN
 W4FLN,Frank,FL,Cape Coral FL
 W4FO,Pat,FL,Hudson FL
