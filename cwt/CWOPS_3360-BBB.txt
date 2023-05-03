@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-04-30
+# Last Edit,2023-05-02
 # for use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -993,6 +993,7 @@ GM4PVM,Paul,2413,Essex England
 GM4WZG,Bernie,GM,Dalgety Bay Scotland
 GM4X,Bernie,GM,Dalgety Bay Scotland
 GM4ZUK,Allan,GM,
+GM5AUG,Mike,,Newton Mearns Scotland
 GM5TDX,Ted,,Wishaw England
 GQ3WZD,Mac,1979,(Duncan)
 GU4CHY,Dick,1543,Channel Islands Guernsey
@@ -3674,6 +3675,7 @@ N9LQ,Joel,1996,Barrington IL
 N9MM,Norm,TX,Ponder TX
 N9NA,John,1390,Sun City West AZ
 N9NB,Ted,VA,Riner VA
+N9NC,Tom,NH,Lee NH
 N9NM,Barb,TX,(Barbara) Fredericksburg TX
 N9OK,Joe,IL,Woodstock IL
 N9OL,John,2383,Evansville IN
@@ -4656,7 +4658,7 @@ VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Florida QSO Party this weekend - GL
+VE2FK,Dub,1181,Eastern QC FN68hr
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
