@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3360
-# Last updated 2023-05-03
+# Last updated 2023-05-04
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -403,6 +403,7 @@ AL7N=Ed;AK
 AL7R=Brent;AZ
 AO1AAW=Juanjo;714
 BA1RB=Bin;564
+BA3AX=Tony;BY
 BA4TB=Dale;259
 C6AKQ=Bob;C6
 C6AQQ=Brian;302
@@ -847,7 +848,7 @@ G0ORH=Ken;G
 G0PNM=Peter;G
 G0RDO=John;G
 G0TPH=Al;2956
-G0TRT=Cle;CWA
+G0TRT=Cie;CWA
 G0TZZ=Chris;G
 G0UJK=Colin;G
 G0UYG=Andy;2453
@@ -2794,6 +2795,7 @@ KP3SK=Angel;1792
 KP3W=Jose;1499
 KP4/AC6ZM=Juan;2419
 KP4/KZ5D=Art;12
+KP4/N2IC=Steve;1790
 KP4/N5TOO=Van;1557
 KP4/W1VE=Gerry;191
 KP4/W4XO=Lex;2217
@@ -3711,6 +3713,7 @@ NB7M=John;WA
 NB7O=Kevin;3112
 NB8Q=Ron;MI
 NC1M=Hugh;1668
+NC1V=Mike;MA
 NC3I=Doug;WA
 NC3J=Bob;MD
 NC3Y=Tom;2147
@@ -3803,6 +3806,7 @@ NJ4Q=Will;2374
 NJ4V=Dan;2395
 NJ4X=Dave;MO
 NJ5N=Chris;2105
+NJ5T=John;TX
 NJ6Q=Jer;2617
 NJ7V=Red;3061
 NJ8J=Ben;2007
@@ -4927,6 +4931,7 @@ W1AJT=Art;2647
 W1AL=Scott;FL
 W1AO=Joe;125
 W1ARY=marcel;CT
+W1AW/1=HPM;CT
 W1CTN=Dave;NC
 W1CZ=Pich;NY
 W1EBI=George;9
