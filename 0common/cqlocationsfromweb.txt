@@ -76,22 +76,24 @@ NE	W0	Nebraska
 ND	W0	North Dakota
 SD	W0	South Dakota
 NL	VO	Newfoundland and Labrador
-MAR	VE1	Maritime (NS-PEI-NB)
+MAR	VE1	Maritime (NB-NS-PE)
 NS	VE1	Nova Scotia
 NB	VE9	New Brunswick
+PE	VY2	Prince Edward Island
 QC	VE2	Quebec
 ON	VE3	Ontario
 ONE	VE3	Ontario East
 ONN	VE3	Ontario North
 ONS	VE3	Ontario South
 GTA	VE3	Greater Toronto Area
+GH	VE3	Golden Horsehoe
 MB	VE4	Manitoba
 SK	VE5	Saskatchewan
 AB	VE6	Alberta
 BC	VE7	British Columbia
 NT	VE8	Northwest Territories
 YT	VY1	Yukon Territory
-PEI	VY2	Prince Edward Island
+TER	VY1	Yukon/NWT/Nunavut
 AK	KL	Alaska
 PAC	KH	Pacific
 PR	KP4	Puerto Rico
