@@ -5786,7 +5786,7 @@ WB4OWC,Jerry,AL,Springville AL
 WB4RFQ,Dan,1601,San Francisco CA
 WB4SON,Bob,2903,North Kingstown RI
 WB5BKL,Nick,1371,Lake Buchanan TX (K3-QRP)
-WB5HOW,Victor,TX,Houstor TX
+WB5HOW,Vic,3361,Houstor TX
 WB5K,Jay,1769,Allen TX
 WB5LXJ,Greg,TX,Garland TX
 WB5N,Dave,3350,Houston TX
