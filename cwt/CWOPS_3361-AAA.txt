@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-05-04
+# Last Edit,2023-05-08
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -880,6 +880,7 @@ G3MPN,Dave,,Wymondham England
 G3NKC,Dave,449,Wistaston Crewe England
 G3OAC,Ken,,Derby England
 G3OKA,John,,Meols Virral UK
+G3PLE,Duke,,nr. Heiston England
 G3PXT,Gordon,,Norwich England
 G3ROO,Ian,,Rosemount England
 G3SVK,Fred,1357,Romford Essex England
@@ -1280,7 +1281,7 @@ K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
 K0GU,Jay,CO,Wellington CO
 K0GUZ,Steve,1889,Grand Junction CO
-K0HB,Boy,MN,(231) Plymouth MN
+K0HB,,MN,(231)  "Just a boy and his radio"
 K0HD,John,2968,Cannon MN
 K0HT,Luc,GA,Summerville GA
 K0HX,Stan,1721,Poplar Bluff MO
