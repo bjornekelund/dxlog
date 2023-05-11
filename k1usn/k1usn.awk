@@ -6,7 +6,7 @@ BEGIN {
 {
   bad = 0;
   exch = $3;
-  if ($0 !~ /^(!|#|$)/ && $1 !~ /^ZZ0/) {
+  if ($0 !~ /^(!|#|$)/) {
     if ($2 !~ /^([A-Z][A-Za-z]+)?$/) {
         printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
     }
