@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-05-09
+# 1-Last Edit,2023-05-16
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L. 
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -950,6 +950,7 @@ EI4JZ,BRONEK,DX,Roscommon Ireland
 EI4KO,COLM,DX,Dublin Ireland
 EI5LB,GERD,DX,Kingscourt Ireland
 EI9JF,NICKY,DX,Kildare Ireland
+EOF
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
 F4ABV,DENIS,DX,?
 F4FUB,SEB,DX,Saint Blimont France
@@ -985,6 +986,7 @@ F8DPM,MICHEL,DX,LLupia France
 F8EHJ,HERVE,DX,Le Barp France
 F8GNV,RIC,DX,Le Mee sur seine France
 FG8NY,JEAN,DX,St Claude Guadeloupe
+G0ANV,DARYL,DX,Cambridge England
 G0EKH,Ken,DX,Devon England
 G0GZN,LINDY,DX,Poole England
 G0HKC,Keith,DX,Bristol
@@ -1019,6 +1021,7 @@ G6GLP,TONY,DX,Devon England
 G8RWG,NIELS,DX,Coulsdon England
 G8XTJ,JOHN,DX,Bucks England
 GM0EUL,PETER,DX,Duns Scotland
+GM0HUU,STEVE,DX,Paisley Scotland
 GM1J,JIM,DX,Edinburgh Scotland
 GM3JW,JOHN,DX,Haggs near Falkirk Scotland
 GM4ATA,JOHN,DX,Kilmarnock Scotland
@@ -1036,6 +1039,7 @@ HA8WZ,GYURI,DX,Bekescsaba Hungary
 HB0/DL5YL,TINA,DX,DXP
 HB9AUK,WALT,DX,Switzerland
 HB9BEG,ERNST,DX,Ostermundigen Switzerland
+HB9BGG,MARCO,DX,Lufingen Switzerland
 HB9BXF,FRANZ,DX,Meikirch Switzerland
 HB9DAX,FRED,DX,Landquart Swtzerland
 HB9DOS,ROBY,DX,Olivone/Luorscha Switzerland
@@ -1818,6 +1822,7 @@ K3MR,MATT,NJ,
 K3MSB,GORT,PA,
 K3MTR,TYLER,MD,
 K3NC,NEAL,VA,
+K3NCE,FRED,MD,Brookeville MD
 K3NCO,,MD,
 K3ND,,PA,
 K3NDM,BARRY,MD,
@@ -3741,6 +3746,7 @@ KB2AMY,EVAN,NY,
 KB2CKN,SEAN,NY,
 KB2DDM,,PA,
 KB2FM,,NJ,
+KB2GKC,JOHN,NY,Mohawk NY
 KB2HSH,JOHN,NY,
 KB2JZJ,ART,NY,
 KB2KOL,SCOTT,NY,
@@ -4098,6 +4104,7 @@ KC3PMD,JOE,NC,Souderton PA
 KC3Q,,PA,
 KC3QU,HANK,AL,
 KC3RLG,MATT,PA,Newtown PA
+KC3RN,KEVIN,PA,Pittsburgh PA
 KC3RYH,TIM,PA,Hershey PA
 KC3SDJ,ANDY,PA,ALLISON PARK PA
 KC3SLD,KYLE,PA,State College PA
@@ -4299,6 +4306,7 @@ KD2MX,PAUL,NJ,
 KD2NE,,NY,
 KD2NF,JERRY,NC,
 KD2NFZ,JORDAN,NY,Chittenango NY
+KD2OMV,PETE,NY,Watertown NY
 KD2P,,NJ,
 KD2PDE,BILL,NY,West Point NY
 KD2PWR,,NJ,Hackensack NJ
@@ -5244,6 +5252,7 @@ KM0O,TONY,MN,
 KM0T,,IA,
 KM1B,CHIYO,MA,Franklin MA
 KM1CC,MARCONI,MA,East Sandwich MA
+KM1NDY,MINDY,MA,South Boston MA
 KM1P,Joe,MA,Boston MA
 KM1X,,RI,
 KM1Z,FRAN,TN,
@@ -5692,6 +5701,7 @@ KW1K,JOE,FL,
 KW1U,MARCIA,MA,
 KW1X,Mark,MA,
 KW2A,PHIL,MD,Severna Park MD
+KW2AIR,DON,NY,Webster NY
 KW2D,,NY,
 KW2J,,NY,
 KW2O,,NY,
@@ -6604,6 +6614,7 @@ N4EEB,JOHN,FL,
 N4EES,JIM,TN,Dandridge TN
 N4EEV,MIKE,GA,
 N4EII,AL,NC,Cary NC
+N4EIS,JEFF,SC,Bishopville SC
 N4EK,ED,FL,
 N4EKG,,GA,
 N4EL,NAT,OH,Tipp City OH
@@ -6891,6 +6902,7 @@ N5FV,,TX,
 N5FZF,,TX,
 N5GD,GARY,MS,
 N5GEJ,,TX,
+N5GG,COLIN,TX,Lewisville TX
 N5GH,,MS,
 N5GJQ,MIKE,LA,
 N5GNA,BOB,GA,
@@ -7434,6 +7446,7 @@ N8BSG,,MI,
 N8BV,BRUCE,OH,
 N8BXP,,OH,
 N8CC,JEFF,MI,
+N8CEP,KEITH,OH,Boardman OH
 N8CIJ,DICK,OH,
 N8CJK,,MI,
 N8CKU,DWIGHT,GA,Alpharetta GA
@@ -8164,6 +8177,7 @@ NJ6I,BOB,CA,Rancho Palos Verdes CA
 NJ6Q,JER,CA,Encinitas CA
 NJ7I,,AZ,
 NJ7N,ART,AZ,
+NJ7V,RED,AZ,Mesa AZ
 NJ8J,BEN,GA,
 NJ8L,VERN,OH,Newark OH
 NJ8M,MORGAN,KS,
@@ -8234,6 +8248,7 @@ NN0G,DANA,CO,Littleton CO
 NN0Q,,MN,
 NN1AA,CW,MA,
 NN1C,BOB,MA,
+NN1F,AARON,NH,Bedford NH
 NN1N,DAVE,IL,
 NN1SS,JOHN,NH,
 NN2L,CHUCK,NY,Penfield NY
@@ -8639,6 +8654,7 @@ SM6EDG,GEORGE,DX,Floda Sweden
 SM6YNO,HANS,DX,KarlGustav Sweden
 SP2JFY,ANDY,DX,Malbork Poland
 SP2R,DAREK,DX,Czarnowko Poland
+SP3DGV,GENEK,DX,Niegoslawice Poland
 SP3MEY,GEDDY,DX,Kolo Poland
 SP5BB,FRANK,DX,Warszawa Poland
 SP5NZF,KUBA,DX,Warszawa Poland
@@ -9687,6 +9703,7 @@ W1/YO7ARY,MARCEL,CT,
 W1AA,,MA,
 W1AAD,,CT,
 W1AAF,MARK,ME,New Limerick ME
+W1AAF/QRP,MARK,ME,New Limerick ME
 W1AAX,HARRY,MA,
 W1ADW,STEVE,AZ,
 W1AF,SCOTT,MA,
@@ -9941,6 +9958,7 @@ W2ACS,JOSE,NC,Mount Holly NC
 W2ACY,RICK,TX,
 W2AFE,JAY,CA,Fremont CA
 W2AJW,ANDY,AZ,
+W2AK,TIM,PA,Philadelphia PA
 W2AMD,,NY,
 W2ARP,,NJ,
 W2AU,,NY,
@@ -9988,6 +10006,7 @@ W2EZ,,NY,
 W2EZB,,NY,
 W2FDJ,JOHN,NJ,
 W2FJA,HUGH,NY,
+W2FKN,RICH,NJ,Monroe Township NJ
 W2FMB,FRED,NJ,
 W2FU,JEFF,NY,
 W2FUI,,NY,
@@ -10187,6 +10206,7 @@ W2YC,DAVE,NJ,
 W2YE,DICK,VA,
 W2YK,FRANK,NY,
 W2YR,,NJ,
+W2YRL,JEFF,VA,Burke VA
 W2ZDP,,NC,
 W2ZI,,FL,
 W2ZQ,,NJ,
@@ -12808,6 +12828,7 @@ WB3EGD,RICK,PA,Hazleton PA
 WB3EML,Chuck,PA,
 WB3EPE,,PA,
 WB3ESR,GIL,PA,
+WB3HLF,TOM,MD,
 WB3JFS,JEFF,NV,
 WB3JGP,RANDY,CA,
 WB3JIJ,BEN,PA,
