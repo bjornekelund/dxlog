@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3362
-# Last updated 2023-05-11
+# Last updated 2023-05-18
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1495,6 +1495,7 @@ K2NEL/P=Sean;2232
 K2NEL=Sean;2232
 K2NV/VE3=Tony;1027
 K2NV=Tony;1027
+K2ON=Gary;NJ
 K2ONP=Doc;NY
 K2OO=Andy;OH
 K2OS=Frank;2194
@@ -2785,6 +2786,7 @@ KO4D=Fred;VA
 KO4GBD=Aaron;3121
 KO4GDB=Jim;GA
 KO4LAO=Jim;3200
+KO4O=Roger;AL
 KO4TFK=Steve;GA
 KO4UHE=Rick;KY
 KO4VW=Steve;3096
@@ -3379,7 +3381,7 @@ N4WDC=David;VA
 N4WJ=Frank;KY
 N4WLP=BILL;CWA
 N4WO=Greg;FL
-N4XD=Ron;NC
+N4XD=Ron;NM
 N4XL=Tom;2356
 N4XP=Tom;GA
 N4XY=Ed;GA
@@ -3768,7 +3770,7 @@ NF3R=Joel;1971
 NF4A=Charlie;282
 NF5KF=Klod;2326
 NF6N=Kyle;CA
-NF6P=Dave;FL
+NF6P=Dave;TN
 NF6R=Bill;CA
 NF7D=Bob;1279
 NF7X=Clayton;ID
@@ -3917,7 +3919,6 @@ NT4K=CJ;FL
 NT5I=Dennis;LA
 NT5PH=Pat;TX
 NT6Q=Marko;CA
-NT6X=Mike;
 NT6X=Mike;167
 NT7R=Steve;FL
 NT8B=Leon;VA
@@ -4011,6 +4012,7 @@ OH2EV=Esa;510
 OH2JSR=Denis;OH
 OH2KI=Jorma;144
 OH2KM=Jyri;OH
+OH2KW=Art;OH
 OH2MA=Jukka;OH
 OH2MGA=Sam;OH
 OH2MZA=Zaba;1856

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls FD_2022* | tail -1 2> /dev/null`
+INFILE=`ls FD_2023-001.txt | tail -1 2> /dev/null`
 OUTFILE=FD_2023.txt
 
 echo Parsing $INFILE

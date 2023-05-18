@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-05-11
+# Last Edit,2023-05-17
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1507,6 +1507,7 @@ K2NEL,Sean,2232,Albany NY
 K2NEL/P,Sean,2232,(Been heard QRP)
 K2NV,Tony,1027,Grand Island NY
 K2NV/VE3,Tony,1027,/MM Lake Ontario
+K2ON,Gary,NJ,Hamilton Square NJ
 K2ONP,Doc,NY,Troy NY
 K2OO,Andy,OH,Columbus OH
 K2OS,Frank,2194,Spencerport NY
@@ -2798,6 +2799,7 @@ KO4D,Fred,VA,Smithfield VA
 KO4GBD,Aaron,3121,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
 KO4LAO,Jim,3200,Travelers Rest SC
+KO4O,Roger,AL,Trinity AL
 K4KVC,Ken,FL,The Villages FL
 KO4UHE,Rick,KY,Danville KY
 KO4TFK,Steve,GA,Suwanee GA
@@ -3397,7 +3399,7 @@ N4WDC,David,VA,King George VA
 N4WJ,Frank,KY,Lexington KY
 N4WLP,BILL,CWA,Merritt Island FL
 N4WO,Greg,FL,Brooksville FL
-N4XD,Ron,NC,Pittsboro NC
+N4XD,Ron,NM,
 N4XL,Tom,2356,Greenwood SC
 N4XP,Tom,GA,Monroe GA
 N4XY,Ed,GA,Marietta GA
@@ -3786,7 +3788,7 @@ NF3R,Joel,1971,Pottstown PA
 NF4A,Charlie,282,Lynn Haven FL
 NF5KF,Klod,2326,(F5PBL) (Claude)  Plantation FL
 NF6N,Kyle,CA,Paso Robles CA
-NF6P,Dave,FL,Green Cove Springs FL
+NF6P,Dave,TN,TN RVing
 NF6R,Bill,CA,Bakersfield CA
 NF7D,Bob,1279,Kingman AZ
 NF7X,Clayton,ID,Lewiston ID
@@ -3935,7 +3937,6 @@ NT4K,CJ,FL,Winter Springs FL
 NT5I,Dennis,LA,New Orleans LA
 NT5PH,Pat,TX,Carrollton TX
 NT6Q,Marko,CA,(N5ZO) (1224) Calif. Alligators Contest Club (Escondido)
-NT6X,Mike,,(167) Santa Ana CA
 NT6X,Mike,167,Santa Ana CA
 NT7R,Steve,FL,Lakeland FL
 NT8B,Leon,VA,Falls Church VA
@@ -4029,6 +4030,7 @@ OH2EV,Esa,510,Espoo Finland
 OH2JSR,Denis,,Esbo Finland
 OH2KI,Jorma,144,Harviala Finland
 OH2KM,Jyri,,Roykka Finland
+OH2KW,Art,,Klaukkala Finland
 OH2MA,Jukka,,Helsinki Finland
 OH2MGA,Sam,,Heinola Finland
 OH2MZA,Zaba,1856,Pori Finland
