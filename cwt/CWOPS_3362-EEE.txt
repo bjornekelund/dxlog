@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-05-17
+# Last Edit,2023-05-20
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -613,7 +613,6 @@ DL6BE,Volkert,,Ostseebad Sellin Germany
 DL6KVA,Axel,1678,Rostock Germany
 DL6LBI,Ingo,,Ellerhoop Germany
 DL6MIG,Wil,,Wahlitz Germany
-DL6RAI,Ben,2776,Kuenhback Germany
 DL6RDR,Stephan,,Golding Germany
 DL6UNF,Frank,,Guben Germany
 DL7AA,Alex,,Greifswald Germany
@@ -4783,7 +4782,7 @@ VE4DL,David,MB,Winnipeg MB
 VE4EA,Cary,1828,Winnipeg MB
 VE4JBB,Jessy,MB,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
-VE4SF,Bruce,2978,Winnipeg MB
+VE4SF,AB,2978,(Bruce) Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
 VE4XT,Kellu,2795,Winnipeg MB
 VE4YL,Dave,MB,Winnipeg MB
