@@ -1,5 +1,5 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2023-04-13
+# Last edit,2023-0524
 # Last number listed 211
 # NTC_QP
 # Original file from Club list via VE2FK
@@ -237,7 +237,7 @@ PG7R,Ronald,61,
 PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
 S58MU,Milan,66,
-SO5CW,Fabian,99 ,
+SO5CW,Fabian,99,
 SP7N,Piotr,111,
 SP7OGP,Piotr,111,
 SP9BRP,Jan,202,
@@ -257,4 +257,4 @@ W6WYN,Reinier,205,(PA3AAA)
 YL3JD,Hanz,11,
 YO6EX,Sico,94,
 YO8DOH,Stefan,60,
-ZZ00ZZ last line of text
+ZZ00ZZ,,,last line of text
