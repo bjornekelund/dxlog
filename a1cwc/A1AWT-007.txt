@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,UserText,
 #
 # 0- 
-# 1- Last Edit,2023-05-22 
+# 1- Last Edit,2023-05-24 
 # 2- Add your name, correction = direct to ve2fk@arrl.net
 # 3- Use  {NAME}  in macro to send.
 # 4- Thanks SM7IUN and Mesa JF1UOX
@@ -259,7 +259,6 @@ AA5C,GREG,TX
 AA5CF,Ken,San Antonio TX
 AA5CK,THEO,OK
 AA5ET,MARCO,Albuquerque NM
-AA5JF,ANDY
 AA5JF,Andy,Augusta GA
 AA5JG,JOHN,OK
 AA5JS,JIM,TX
@@ -3978,8 +3977,8 @@ IW2MYH,MARIO,
 IW2NEF,FLAVIO,
 IW3FVZ,FABIO,
 IW3GXW,GINO,
-IW3IAU,GIANNI,
 IW3ILM,MAX,
+IW3IAU,Gianni,
 IW3IOD,CIANLUIGI,
 IW3RUA,PIETRO,
 IW3SGT,ALES,
@@ -4262,7 +4261,7 @@ JL1AHE,HIDE
 JL1CSY,MASA,
 JL1GEL,Aki,Tokyo Japan
 JL1IRB,Hoz,Sagamihara City Japan
-JL1LOF,KEN
+JL1LOF,KEN,
 JL8KUS,Tubo,Hokkaido Japan
 JL8MFM,TOSY
 JM1DQH/1,SAM
@@ -4279,7 +4278,6 @@ JM8PSY,JUN
 JM8QGN,TORI
 JN1FAO,YOSI
 JN1KMI,TAKA
-JN1THL,KEN
 JN1THL,Ken,Tokyo Japan (Director)
 JN1VFV,TSUGI
 JN1WFF,Naoki,Tochigi

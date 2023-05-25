@@ -1506,7 +1506,7 @@ K2NEL,Sean,2232,Albany NY
 K2NEL/P,Sean,2232,(Been heard QRP)
 K2NV,Tony,1027,Grand Island NY
 K2NV/VE3,Tony,1027,/MM Lake Ontario
-K2ON,Gary,NJ,Hamilton Square NJ
+K2ON,Gary,3167,Hamilton Square NJ
 K2ONP,Doc,NY,Troy NY
 K2OO,Andy,OH,Columbus OH
 K2OS,Frank,2194,Spencerport NY
@@ -3684,7 +3684,7 @@ N9LQ,Joel,1996,Barrington IL
 N9MM,Norm,TX,Ponder TX
 N9NA,John,1390,Sun City West AZ
 N9NB,Ted,VA,Riner VA
-N9NC,Tom,NH,Lee NH
+N9NC,Tom,3367,Lee NH
 N9NM,Barb,TX,(Barbara) Fredericksburg TX
 N9OK,Joe,IL,Woodstock IL
 N9OL,John,2383,Evansville IN
@@ -5084,7 +5084,7 @@ W2TE,Walt,NY,Babylon NY
 W2TJ,Tom,CWA,Binghamton NY
 W2TR,Gary,2136,The Villages FL
 W2TT,Ross,2716,Loveladies NJ
-W2VJN,Geo,OR,Roseburg OR
+W2VJN,Geo,205,Roseburg OR
 W2VM,Craig,1623,Niagara Falls NY
 W2VT,Richard,NY,Warwick NY
 W2WG,Bob,GA,Marietta GA

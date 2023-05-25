@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-05-01
+# Last Edit,2023-05-22
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
 KI0F,ROGER,
@@ -10,12 +10,19 @@ KD9VGM,NOAH,
 W7JMP,JIM,
 KC6D,DON,
 EA5XQ,JUAN,
+W1SAV,SAVI,,CA,
 K7NEW,MARK,
 N5KIP,TICK,
 KE0QKF,MIKE
 N2DGQ,ERNIE,
 N0FIH,Jerry,
 AK4R,Steve,
+W7BRS,JEFF,
+N5GG,COLIN,
+NX9Y,JASON,
+N4TOL,JOHN,
+N2JJF,DENIS,
+
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -1261,7 +1268,7 @@ K0DXC,Cal,152,Jackson OH
 K0EHR,Mark,CO,Littleton CO
 K0EJ,Mark,2016,Hixson TN
 K0ERE,Bill,AZ,Sun City AZ/Winter
-K0ES,Gerry,CO,Englewood CO
+K0ES,Jerry,CO,Englewood CO
 K0ESE,JERRY,,CO
 K0EU,Ken,1113,Denver CO
 K0EX,Mark,667,Colorado Springs CO
@@ -1547,7 +1554,7 @@ K2YEF,Bill,FL,New Smyrna Beach FL
 K2YGM,Bob,2130,New Hyde Park NY
 K2YGM/4,Bob,2130,in West Palm Beach for winter
 K2YR,Carl,2567,Porter Corners NY
-K2YWE,Dan,395,Annapolis MD
+K2YWE,Dan,395,
 K2YY,John,NJ,Moorestown NJ
 K2ZC,Dave,1405,North Haledon NJ
 K2ZF,Jim,716,Clark NJ
@@ -2327,7 +2334,7 @@ KB3RC,Ken,PA,Belleville PA  (Broad Mountain RC)
 KB3SAR,Jason,2875,Watertown NY
 KB3VQL,Jay,PA,Scott Township PA
 KB3Z,Mark,1483,Collegeville PA
-KB3ZGL,Steve,Annapolis MD,
+KB3ZGL,Steve,
 KB4BTH,STAN,NC,
 KB4CG,Jack,VA,Bealeton VA
 KB4DE,Bill,2093,Irmo SC
@@ -3254,7 +3261,7 @@ N2IC,Steve,1790,Hanover NM
 N2JDQ,Steve,NY,Rochester NY (Occ. QRP)
 N2JFD,Jim,1785,Sound Beach NY
 N2JJ,Jim,1128,Galway NY
-N2JJF,Dennis,NJ,
+N2JJF,Denis,NJ,
 N2JNE,Charlie,NY,Saugerties NY
 N2JT,Jack,640,Phillipsburg NJ
 N2JW,John,FL,Lake Mary FL
@@ -4306,7 +4313,7 @@ PT7BT,NETO,PY,Fortaleza Brazil
 PY1NB,Felipe,,Rio de Janeiro Brazil
 PY2BBQ,Hilton,,Sao Paulo Brazil
 PY2EGM,Sergio,,Sao Paulo Brazil
-PY2KC,Rodrigo,,Petropo;is Brazil
+PY2KC,Rodrigo,,Petropo Brazil
 PY2OMS,Oms,549,Florianopolis Brazil
 PY2XC,Carlos,,Sao Paulo Brazil
 PY4XX,Carlos,PY,Juiz de Fora Brazil
@@ -4750,7 +4757,7 @@ VE2NCG,Nick,QC,Montreal Nord QC
 VE2OXP,Klaus,QC,Matane sur Mer QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC
-VE2PID/W8,PIERRE,QC (REMOTE)
+VE2PID/W8,PIERRE,
 VE2QA,Vlad,QC,Beaconsfield QC
 VE2SG,Step,QC,Quebec QC
 VE2SRP,Simon,2144,(VE2ZM) St Joseph du Lac QC
@@ -4947,8 +4954,8 @@ VU2PAI,PAI,,MANGALORE India
 VU2PTT,Prasad,615,BAngalore India
 VY1EI,Eric,YT,Whitehorse YT Canada
 VY2DP,DAVE,
-VY2SS,Rob,PE,O'LEARY PE
-VY2XU,Ala,.PE,Montagne PE
+VY2SS,Rob,PE,
+VY2XU,Ala,PE,Montagne PE
 W0A,Mike,IA,(N5KB)  Sioux Rapieds IA
 W0AAE,Bob,2947,Maple MN
 W0AD,Paul,1977,Elden Prairie MN
@@ -5221,7 +5228,7 @@ W3TB,Ted,2477,Franklin TN
 W3TMZ,Jack,FL,Lecanto FL
 W3TW,Tom,1972,Huntington Station NY
 W3UA,Gene,2435,Bedford NH
-W3UL,Bill,1699,Annapolis MD
+W3UL,Bill,1699,MD
 W3UR,Bernie,26,Glenwood MD
 W3US,Rusty,2668,The Villages FL
 W3WH,Bill,PA,Houston PA
@@ -6253,4 +6260,4 @@ ZS5SJ,John,,Richards Bay South Africa
 ZS6AKU,Dirk,,Glenvista South Africa
 ZS6RI,Chris,1236,The Reeds South Africa
 ZS6UT,Ed,,Lynnwood Ridge South Africa
-ZZ0ZZZ/0,,LAST LINE OF FILE
+
