@@ -1,6 +1,6 @@
 #
 # Asiatic Russia Championship points file
-# File created 2022-01-11
+# Last updated 2023-05-25
 # Exchange range is from 44 to 817
 #
 44;44=5
