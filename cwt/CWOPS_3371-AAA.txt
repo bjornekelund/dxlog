@@ -1,11 +1,11 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-05-24
+# Last Edit,2023-05-31
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
-# Thanks K7SV K9SO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
+# Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
 # CWOPS
 
 2E0DCW,Gerald,,London England
@@ -137,7 +137,7 @@ AA7CT,Bob,OR,Seaside OR
 AA7FV,Darrel,1578,Tucson AZ
 AA7OA,Dan,OR,Astoria AZ
 AA7ST,John,2263,Marana AZ
-AA7TO,JR,NV,(Tracy)  Las Vegas NV
+AA7TO,JR,3369,(Tracy)  Las Vegas NV
 AA7TQ,Gord,2959,Spokane WA
 AA7V,Steve,AZ,Scottsdale AZ
 AA7WU,Mike,ID,Nammpa ID
@@ -161,7 +161,7 @@ AB0BM,Gary,IA,Quimby IA
 AB0DK,Dave,1932,Kirksville MO
 AB0S,Tim,1857,Beloit KS
 AB0TX,Mike,2507,Halstead KS
-AB0WW,Peter,CA,Livermore CA
+AB0WW,Peter,3371,Livermore CA
 AB1BA,Andy,NY,Monsey NY
 AB1BX,Andy,2191,Warren RI
 AB1CW,Howard,1117,Tyngsboro MA
@@ -2222,7 +2222,7 @@ K9XV,Tom,2270,Punta Gorda FL
 K9XW,John,2807,Elgin IL
 K9YC,Jim,CA,Santa Cruz CA
 K9YII,Fred,IL,Odin IL
-K9ZO,Al,1761,(Ralph)  Stanford IL
+K9ZO,Al,1761,(Ralph) Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA0PQW,Matt,MN,Ellendale MN
@@ -2760,6 +2760,7 @@ KM5G,Chuck,AR,Fayetteville AR
 KM5PO,Jim,2522,Hurst TX
 KM6JKI,Yoon,CA,San Jose CA
 KM6SJT,Erin,CA,(K6ERI) Santa Rosa CA
+KM6VOV,Steve,CA,Simi Valley CA
 KM6Z,Vlad,OH,North Royalton OH
 KM6ZT,Dave,1476,Battle Ground WA
 KM7Q,Bob,1353,Portland OR
@@ -2824,7 +2825,7 @@ KP4EJ,Carlos,1501,Salinas PR
 KP4JFR,Jose,PR,Trujillo Alto PR
 KP4JRS,Jose,3071,Trulillo PR
 KP4P,Tele,490,Ponce PR
-KP4PI,Jose,,Juncos PR
+KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ3H,Tony,NC,Greensboro NC
@@ -4886,6 +4887,7 @@ VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Alan,PE,Montagne PE
 W0A,Mike,IA,(N5KB)  Sioux Rapieds IA
 W0AAE,Bob,2947,Maple MN
+W0ABE,Justin,CO,Bellville CO
 W0AD,Paul,MN,Elden Prairie MN
 W0AG,Mike,1317,Crossville TN
 W0AJU,Rich,MO,St. Louis MO
@@ -5063,6 +5065,7 @@ W2MGF,Mike,NY,Bronx NY
 W2MKM,Ed,2681,Washington NJ
 W2MM,QCWA,FL,(W3US)  Quarter Century Wireless Assn.
 W2MSW,Mark,2790,Union NJ
+W2MV,Alan,3368,Bobbs Ferry NY
 W2NO,Dan,2174,Metuchen NJ
 W2NRA,Art,1955,Lake Grove NY
 W2OR,DJ,1384,(Mark) St-Augustine Beach FL
@@ -5430,6 +5433,7 @@ W6YR,Joe,1990,Yorba Linda CA
 W7ACM,Greg,WA,Everett WA
 W7AIT,Chip,CA,Modesto CA
 W7BCW,Bruce,2247,Sultan WA
+W7BRS,Jeff,WA,Fall City
 W7CQW,Quint,ID,Post Falls ID
 W7CT,Jim,287,Mentone AL
 W7CWO,,,CWops Northwestern Div. (Bigfork Montana)
@@ -5785,6 +5789,7 @@ WB3EGD,Rich,3122,Hazleton PA
 WB3JGP,Randy,CA,El Cerrito CA
 WB3LJQ,Vincent,3120,Latrobe PA
 WB4AEG,Hal,1646,Adairsville GA
+WB4AJL,Dave,NC,Whittier NC
 WB4AQL,Mike,498,Chickamauga GA
 WB4DNL,Gary,497,Virginia Beach VA
 WB4FDT,Pip,916,Baltimore MD
@@ -5797,7 +5802,7 @@ WB4OWC,Jerry,AL,Springville AL
 WB4RFQ,Dan,1601,San Francisco CA
 WB4SON,Bob,2903,North Kingstown RI
 WB5BKL,Nick,1371,Lake Buchanan TX (K3-QRP)
-WB5HOW,Vic,3361,Houstor TX
+WB5HOW,Vic,3361,Houston TX
 WB5K,Jay,1769,Allen TX
 WB5LXJ,Greg,TX,Garland TX
 WB5N,Dave,3350,Houston TX

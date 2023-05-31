@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-05-24
+# 1-Last Edit,2023-05-30
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L. 
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -582,7 +582,6 @@ AE5B,,TX,
 AE5EO,KEN,TX,Baytown TX
 AE5GT,CLINT,TX,
 AE5I,TOM,TX,Madison MS
-AE5JV,BLG,NH,?
 AE5K,,AR,
 AE5KM,COREY,TX,
 AE5L,AL,OK,
@@ -838,7 +837,6 @@ AK5R,GREG,AR,Magnolia AR
 AK5X,BILL,TX,Dallas TX
 AK5Y,WILL,TX,
 AK6A,BILL,OR,
-AK6FVV,BEN,CA,?
 AK7AR,OWEN,AZ,
 AK7AT,,ID,
 AK7AZ,ED,AZ,
@@ -940,7 +938,7 @@ EA5DO,NELO,DX,ManisesSpain
 EA5IUY,GARY,DX,Muro de Alcoy Spain
 EA6EJ,INI,DX,Palma de Mallorca Spain
 EA7EGU,MANUEL,DX,Lalaga Spain
-EA7KNQ,Ramon,DX,?
+EA7KNQ,Ramon,DX,Lora de Estepa Spain
 EA8DED,KARI,DX,
 EA8DJF,LEO,DX,Islas Canarias
 EA9OM,Heijo,DX,
@@ -952,11 +950,9 @@ EI4JZ,BRONEK,DX,Roscommon Ireland
 EI4KO,COLM,DX,Dublin Ireland
 EI5LB,GERD,DX,Kingscourt Ireland
 EI9JF,NICKY,DX,Kildare Ireland
-EOF
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
-F4ABV,DENIS,DX,?
 F4FUB,SEB,DX,Saint Blimont France
-F4HGA,GUS,DX,?
+F4HGA,GUS,DX,Changé France
 F4HGD,STEF,DX,Dunkerque France
 F4HVO,HUGO,DX,Toulouse France
 F4IGG,ERIC,DX,Guerard France
@@ -1297,7 +1293,6 @@ K0ZK,ARN,ME,Lebanon ME
 K0ZR,JEFF,VA,
 K0ZT,,CO,
 K0ZU,DOUG,TX,
-K1AAF,ART,VT,?
 K1AE,JOHN,MA,
 K1AJ,BRUCE,ME,
 K1APJ,ANDREW,CT,Portland CT
@@ -2545,6 +2540,7 @@ K5WQI,,TX,
 K5WSN,BILL,TX,Granbury TX
 K5XA,JOHN,TX,
 K5XH,MARK,AR,
+K5XI,SID,NV,
 K5XK,RON,AR,
 K5XQ,BUD,AL,
 K5XR,JOE,TX,
@@ -6247,6 +6243,7 @@ N2HTT,,NY,
 N2IC,STEVE,NM,
 N2IF,,NJ,
 N2IH,ROGER,AZ,
+N2IQD,GEORGE,GA,Loganville GA
 N2JCS,GARY,TX,
 N2JDQ,STEVE,NY,
 N2JE,JULIO,NJ,
@@ -8678,6 +8675,7 @@ TI2JS,JAVIER,DX,
 TI2SW,ARNIE,DX,
 TI4VAA,VICTOR,DX,
 UA3DEA,VAL,DX,Serghiev Posad Russia
+UA6AJB,VLAD,DX,Pervomaskaya Russia
 UG9A,Dmitriy,DX,Chelyabinsk Russia
 UN7QF,GENNA,DX,Almaty Kazakhstan 
 UR3QX,GENO,DX,Zaporizhia Ukraine
@@ -8711,6 +8709,7 @@ VA2IU,FRITZ,QC,Montreal QC
 VA2KD,Rolly,QC,(Rollande)  La Tuque QC
 VA2KT,CHRISTIAN,QC,Orford QC
 VA2NM,SIMON,QC,Verdun QC
+VA2NW,TOM,QC,Gatineau QC
 VA2OP,JAY,QC,
 VA2PHK,KICK,QC,
 VA2RAC,DUB,QC,World Amateur Radio Day
@@ -8961,6 +8960,7 @@ VE3CX,TOM,ON,
 VE3CZ,IAN,ON,
 VE3DC,,ON,
 VE3DDG,DARRELL,ON,
+VE3DJE,NEIL,ON,
 VE3DKL,DAVE,ON,
 VE3DMJ,MIKE,ON,
 VE3DOP,JOHN,ON,

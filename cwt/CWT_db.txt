@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3367
-# Last updated 2023-05-25
+# Contains members up to #3371
+# Last updated 2023-05-31
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -131,7 +131,7 @@ AA7CT=Bob;OR
 AA7FV=Darrel;1578
 AA7OA=Dan;OR
 AA7ST=John;2263
-AA7TO=JR;NV
+AA7TO=JR;3369
 AA7TQ=Gord;2959
 AA7V=Steve;AZ
 AA7WU=Mike;ID
@@ -155,7 +155,7 @@ AB0BM=Gary;IA
 AB0DK=Dave;1932
 AB0S=Tim;1857
 AB0TX=Mike;2507
-AB0WW=Peter;CA
+AB0WW=Peter;3371
 AB1BA=Andy;NY
 AB1BX=Andy;2191
 AB1CW=Howard;1117
@@ -2749,6 +2749,7 @@ KM5G=Chuck;AR
 KM5PO=Jim;2522
 KM6JKI=Yoon;CA
 KM6SJT=Erin;CA
+KM6VOV=Steve;CA
 KM6Z=Vlad;OH
 KM6ZT=Dave;1476
 KM7Q=Bob;1353
@@ -2811,7 +2812,7 @@ KP4EJ=Carlos;1501
 KP4JFR=Jose;PR
 KP4JRS=Jose;3071
 KP4P=Tele;490
-KP4PI=Jose;PR
+KP4PI=Jose;3370
 KP4TF=Eddie;PR
 KQ0E=Ron;2859
 KQ3H=Tony;NC
@@ -4867,6 +4868,7 @@ VY2SS=Rob;PE
 VY2XU=Alan;PE
 W0A=Mike;IA
 W0AAE=Bob;2947
+W0ABE=Justin;CO
 W0AD=Paul;MN
 W0AG=Mike;1317
 W0AJU=Rich;MO
@@ -5042,6 +5044,7 @@ W2MGF=Mike;NY
 W2MKM=Ed;2681
 W2MM=QCWA;FL
 W2MSW=Mark;2790
+W2MV=Alan;3368
 W2NO=Dan;2174
 W2NRA=Art;1955
 W2OR=DJ;1384
@@ -5409,6 +5412,7 @@ W6YR=Joe;1990
 W7ACM=Greg;WA
 W7AIT=Chip;CA
 W7BCW=Bruce;2247
+W7BRS=Jeff;WA
 W7CQW=Quint;ID
 W7CT=Jim;287
 W7CXX=Jack;2454
@@ -5763,6 +5767,7 @@ WB3EGD=Rich;3122
 WB3JGP=Randy;CA
 WB3LJQ=Vincent;3120
 WB4AEG=Hal;1646
+WB4AJL=Dave;NC
 WB4AQL=Mike;498
 WB4DNL=Gary;497
 WB4FDT=Pip;916
