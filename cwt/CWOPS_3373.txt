@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-05-31
+# Last Edit,2023-06-03
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -538,6 +538,7 @@ DK8ZB,Jo,,Muenster Germany
 DK9HE,Andy,2553,(Andreas)  Stelle Germany
 DK9IP,Win,,Karisruhe Germany
 DK9PY,Armin,2062,Waldalgesheim Germany
+DL/UX1HW/M,Art,1890,
 DL/KK0U,Jim,DL,
 DL0AF,Fritz,,RC Erwitte Germany
 DL0DA,Hardy,DL,Dresden Germany (DL1VDL)
@@ -1028,6 +1029,7 @@ HA3NU,Lacy,,Szekszard Hungary
 HA3YGD,Zoli,,Lengyeltoti Hungary
 HA4AA,Andras,,Budapest Hungary
 HA5AO,Istvan,1522,Budapest Hungary
+HA5BMS,Sandor,3372,Budapest Hungary
 HA5CQZ,Zoltan,,Budapest Hungary
 HA5JI,Gyuri,538,Budapest Hungary
 HA5MA,Laci,3286,Budapest Hungary
@@ -2802,7 +2804,7 @@ KO4LAO,Jim,3200,Travelers Rest SC
 KO4O,Roger,AL,Trinity AL
 K4KVC,Ken,FL,The Villages FL
 KO4UHE,Rick,KY,Danville KY
-KO4TFK,Steve,GA,Suwanee GA
+KO4TFK,Steve,3373,Suwanee GA  (Been heard QRP)
 KO4VW,Steve,3096,Roswell GA
 KO5USA,Tom,TX,Woodlands TX
 KO6U,Nathan,CA,Corona CA
@@ -3247,8 +3249,8 @@ N3CKI,Dave,3012,Calabash NC
 N3CU,Ken,PA,Quarryville PA
 N3CW,Ed,1509,Palm Coast FL
 N3CZ,Vlad,1891,Asheville NC
-N3DXX,Art,DE,(1232) Wilmington DE
-N3DXX/0,Art,,
+N3DXX,Art,1232,Wilmington DE
+N3DXX/0,Art,1232,
 N3EA,Al,1438,Lake Worth FL
 N3ED,Ed,PA,Clarks Summit PA
 N3FJ,Robert,PA,Chadds Ford PA
@@ -4714,7 +4716,7 @@ VE3EJ,John,513,Grasie ON
 VE3EP,Ian,ON,Cherry Valley ON
 VE3EY,Nick,3093,Etobicoke ON
 VE3FAL,Fred,ON,Thunder Bay ON
-VE3FP,Adam,2323,(ex: VE3IZS) Eimwood ON
+VE3FP,Adam,2323,Eimwood ON
 VE3FU,Chris,2778,Kemptville ON
 VE3FWF,Bernie,ON,Kanata ON
 VE3FXX,Ron,1775,London ON
@@ -5846,6 +5848,7 @@ WB9HFK,Mark,IL,Urbana IL
 WB9IXS,Jim,Wi,Wales WI
 WB9LUR,Randy,FL,Fort While FL
 WB9OQV,Jim,MO,
+WB9PRG,Gene,WI,Brantwood WI
 WB9QDL,Ken,CO,Louisville CO
 WB9VPG,Neil,KY,Union KY
 WB9Z,Jerry,707,Crescent City IL

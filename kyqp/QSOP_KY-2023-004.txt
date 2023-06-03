@@ -1,5 +1,5 @@
 !!Order!!,Call,Name,Exch1,UserText,
-# Last Edit,2023-05-28
+# Last Edit,2023-06-02
 # 0-This is helping file, LOG what you copy.
 # 1-Kentucky QSO Party
 # 2-Send new info/corrections DIRECT to ve2fk@arrl.net 			
@@ -38,10 +38,10 @@ KJ4EU,,GRV,Graves
 KJ4ND,,BOL,Boyle
 KJ4YLR,,MAD,Madison
 KK7YC,,EST,Estill
-KM4CH,,,Mobile
-KM4CH,,AND,Anderson
-KM4FO,,,Mobile +15 counties /W XYL KJ4SYZ driving.
-KM4FO/M,,,Mobile +15 counties /W XYL KJ4SYZ driving.
+KM4CH,,,Mobile +12 counties + Pam/KC4TUC at the wheel. (APRS)
+KM4CH/M,,,Mobile +12 counties + Pam/KC4TUC at the wheel. (APRS)
+KM4FO,,,Mobile +15 counties /W XYL KJ4SYZ driving. (APRS)
+KM4FO/M,,,Mobile +15 counties /W XYL KJ4SYZ driving. (APRS)
 KM4LDP,,BAL,Ballard
 KM4RO,,LOG,Logan
 KO4BWJ,,HSN,Harrison
@@ -76,6 +76,7 @@ WA4VXW,,LAU,Laurel
 WA5POK,,CTR,Carter
 WB2UBW,,MUH,Muhlenberg
 WB4DKQ,,WAY,Wayne
+WD4HVA,,,FUL HIC CAE
 WE5P,,MAD,Madison
 WT4U,,BEL,Bell
 WX4W,,OLD,Oldham (SSB)
@@ -2340,7 +2341,6 @@ K4FNK,,SC,
 K4FO,LES,FL,
 K4FOY,,VA,
 K4FPF,,VA,
-K4FT,JOHN,SC,
 K4FTO,ART,VA,
 K4FU,STEVE,FL,
 K4FX,BILL,NC,
