@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-06-03
+# Last Edit,2023-06-04
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -2905,7 +2905,7 @@ KW1C,Marty,ME,Fort Kent ME
 KW1L,Paul,MI,Ann Arbor MI
 KW1U,Marcia,706,Concord MA
 KW1X,Mark,2718,(ex:KA1YQC)   Franklin MA
-KW2A,Phil,MD,Severna Park MD
+KW2A,Phil,3374,Severna Park MD
 KW4AU,Kyle,AL,Pleasant AL
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL

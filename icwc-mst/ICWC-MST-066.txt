@@ -2,28 +2,9 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-05-22
+# Last Edit,2023-06-05
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
-KI0F,ROGER,
-KD9VGM,NOAH,
-W7JMP,JIM,
-KC6D,DON,
-EA5XQ,JUAN,
-W1SAV,SAVI,,CA,
-K7NEW,MARK,
-N5KIP,TICK,
-KE0QKF,MIKE
-N2DGQ,ERNIE,
-N0FIH,Jerry,
-AK4R,Steve,
-W7BRS,JEFF,
-N5GG,COLIN,
-NX9Y,JASON,
-N4TOL,JOHN,
-N2JJF,DENIS,
-
-
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -437,6 +418,7 @@ AK4EX,STUART,TN,Clarksville TN
 AK4HA,Glen,KY,Lexington KY
 AK4IC,David,SC,Landrum SC
 AK4NY,Tom,1544,Dahlonega GA
+AK4R,Steve,
 AK4SQ,Dan,1296,Lynchburg VA
 AK5CT,Bill,MS,Saltillo MS
 AK5X,Bill,TX,Dallas TX
@@ -737,6 +719,7 @@ EA5IUY,Gary,2508,Muro de Alcoy Spain
 EA5KA,Raul,1512,Castellon de la Plana Spain
 EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
+EA5XQ,JUAN,
 EA6BF,Josep,3072,Balearic Island
 EA6TS,Pedro,,Balearic Isl. Spain
 EA7/VE3NE,Lali,128,
@@ -2030,6 +2013,7 @@ K7MOA,Key,1594,Athens GA
 K7MOA/4,Key,1594,Athens GA
 K7MOT,Key,CA,San Diego Motorola ARC
 K7MQV,JIM,WA,East Wenatchee WA
+K7NEW,MARK,
 K7NJ,Riki,275,Cedar City UT 
 K7NM,Lee,801,West Point UT
 K7NT,Mike,WA,Olympia WA
@@ -2239,7 +2223,7 @@ K9WWS,Bill,CWA,Niles IL
 K9WWT,GEORGE,IN,Merrillville IN
 K9WX,Tim,1462,West Lafayette IN 
 K9WX/M,Tim,1462,Somewhere mobile
-K9WZB,Gerry,AZ,Lake Havasu City AZ
+K9WZB,Garry,AZ,Lake Havasu City AZ
 K9XV,Tom,FL,Punta Gorda FL
 K9XW,John,2807,Elgin IL
 K9YC,Jim,69,Santa Cruz CA
@@ -2430,6 +2414,7 @@ KC5F,Steve,NC,East Flat Rock NC
 KC5KWZ,John,LA,Metairie LA
 KC5PL,Dixon,LA,Houma LA
 KC5QIH,Chris,TX,Robinson TX
+KC6D,DON,
 KC6SSE,Mike,CA,Santa Rosa CA
 KC7V,Mike,260,Cave Creek AZ
 KC7ZO,Dan,MT,Stevensville MT
@@ -2521,6 +2506,7 @@ KD9OIN,Dan,IL,Aurora IL
 KD9PFS,ALEX,WI,Milwaukee WI
 KD9REA,FRANK,IL,Chicago IL
 KD9TSE,CHRIS,MN,Yorkville IL
+KD9VGM,NOAH,
 KE0EBK,Dave,KS,Topeka KS
 KE0EK,David,1819,Topeka KS
 KE0HWZ,Bill,CO,Hugo CO
@@ -2528,6 +2514,7 @@ KE0L,Jim,TN,Cleveland TN
 KE0LUA,Shawnna,3109,Carrollton MO
 KE0N,Eliot,MN,Minneapolis MN
 KE0NLJ,Mike,IA,Bena Vista ARC Sioux Rapids IA
+KE0QKF,MIKE
 KE0QMB,Dakota,MN,(CWops Club) Chanhassen MN
 KE0RWJ,Cary,1828,(VE4EA)
 KE0TT,Dan,2260,Rochester MN
@@ -2693,6 +2680,7 @@ KH6NO,JJ,NV,Henderson NV
 KH6TU,Alan,217,Wailuku HI
 KH6Y,Bob,HI,Mililani HI
 KH7Y,Fred,216,Ocean View HI
+KI0F,ROGER,
 KI0I,Mark,1187,Garden City VA
 KI0KN,Jim,1995,Loveland CO
 KI0T,Mark,MO,Clinton MO
@@ -3143,6 +3131,7 @@ N0DNF,Bill,ID,Pocatello ID
 N0EF,John,1299,Bozeman MT
 N0EK,ED,NY,Newark NY
 N0FED,Loyd,ID,Coeur d'Alene ID
+N0FIH,Jerry,
 N0FN,Neil,IA,Decorah IA
 N0GEF,Greg,MN,Annadale MN
 N0HC,CLIFF,CO,Westminister CO
@@ -3239,12 +3228,14 @@ N2AK,Mario,NJ,Medford NJ
 N2AML,Frank,NM,Albuquerque NM
 N2AN,Jeff,1715,Holliston MA (PCCC WC4E)
 N2ATB,Tony,213,Cherry Hill NJ
+N2AWE,Dave,
 N2BA,Brooke,NJ,Glen Ridge NJ
 N2BA/M,Brooke,,
 N2BTH,STAN,NC,
 N2CJ,Glenn,NJ,River Vale NJ
 N2DA,Craig,2806,Forest VA
 N2DE,Ric,NY,Pleasant Valley NY
+N2DGQ,ERNIE,
 N2EA,Jim,VT,Bristol VT
 N2ED,Ed,2264,Andover NJ
 N2EI,Skip,2060,(Tom) Beverly NJ
@@ -3467,6 +3458,7 @@ N4SR,Todd,1050,Knoxville TN
 N4TAE,NICK,AL,Theodore AL
 N4TB,Terry,106,Avon Park FL
 N4TMM,Jim,1791,Atlanta GA
+N4TOL,JOHN,
 N4TP,Pete,FL,Tampa ARC FL
 N4TY,Ty,501,Georgetown KY
 N4UB,Don,GA,BLAKELY GA
@@ -3509,6 +3501,7 @@ N5ER,John,3036,Cabot  AR (Occ. QRP)
 N5EVE,Frank,RI,Patucket RI
 N5FIW,Joel,IL,Barrington IL
 N5FO,Sam,1680,Tyrone NM
+N5GG,COLIN,
 N5GKJ,Gerald,LA,Metairie LA
 N5HC,Bruce,NM,Rio Rancho NM
 N5HDX,JOE,TX,Log Cabin TX
@@ -3522,6 +3515,7 @@ N5JR,Joel,1229,Rowlett TX
 N5KAE,Mark,TX,Lake Jackson TX
 N5KB,Mike,2495,Sioux Rapids IA
 N5KD,Pete,2800,Dallas TX
+N5KIP,TICK,
 N5KO,TREY,CA,Aptos CA
 N5KT,Gerald,1606,Houston TX
 N5KW,Pam,1863,Muskogee OK
@@ -4047,6 +4041,7 @@ NX4N,Chris,1917,Lutz FL
 NX8F,Ron,FL,Beverly Hills FL
 NX8Y,Ron,1598,Milford Center OH
 NX9G,Yan,1882,Bensenville IL
+NX9Y,JASON,
 NY0QV,BRUCE,
 NY1Z,Bub,NH,Salem NH
 NY2H,Lou,2176,Port Jeffeson Station NY
@@ -5006,6 +5001,7 @@ W0NEO,Duane,AR,Mountain Home AR
 W0NF,Pam,3008,Tucson AZ
 W0ODS,Jeff,1297,Coggon IA
 W0OJ,Phil,2723,Crestone CO
+W0OJY,Bill,
 W0OR,Bill,1162,Bloomington MN
 W0ORH,Randy,MO,Saint Louis MO
 W0PF,Dave,MO,Kennett MO
@@ -5525,6 +5521,7 @@ W6YR,Joe,1990,Yorba Linja CA
 W7ACM,Greg,WA,Everett WA
 W7AIT,Chip,CA,Modesto CA
 W7BCW,Bruce,2247,Sultan WA
+W7BRS,JEFF,
 W7CQW,Quint,ID,Post Falls ID
 W7CT,Jim,287,Mentone AL
 W7CWO,,,CWops Northwestern Div. (Bigfork Montana)
@@ -5543,6 +5540,7 @@ W7GVE,Ed,AZ,Golden Valley AZ
 W7IDM,Roy,ID,Meridian ID
 W7IY,Stu,1620,Stafford VA
 W7JET,Brian,2993,Apache Junction AZ
+W7JMP,JIM,
 W7JRD,Jim,2994,Hope ID
 W7KF,Doug,2183,Whitefish MT
 W7KFI,Susan,2275,Gulfport MS
@@ -6260,4 +6258,3 @@ ZS5SJ,John,,Richards Bay South Africa
 ZS6AKU,Dirk,,Glenvista South Africa
 ZS6RI,Chris,1236,The Reeds South Africa
 ZS6UT,Ed,,Lynnwood Ridge South Africa
-
