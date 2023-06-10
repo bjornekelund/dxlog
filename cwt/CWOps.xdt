@@ -265,6 +265,7 @@ DK7PE Rudi #2864 Mainz Germany
 DK8SR Paul #2539 Moegglingen Germany
 DK9HE Andy #2553 (Andreas) Stelle Germany
 DK9PY Armin #2062 Waldalgesheim Germany
+DL/UX1HW/M Art #1890 
 DL1FY Erwin #2636 Moosinning Germany
 DL1IAO Stef #1884 (SM9A) Birkenfeld Germany
 DL1NKB Bernd #2486 Forchheim Germany
@@ -472,6 +473,7 @@ GW7APP Ian #2896 Anglesey Wales
 GW7N Glen #2178 (GW4MVA) Flintshire Wales
 HA0NAR Laszlo #2172 Debrecen Hungary
 HA5AO Istvan #1522 Budapest Hungary
+HA5BMS Sandor #3372 Budapest Hungary
 HA5JI Gyuri #538 Budapest Hungary
 HA5MA Laci #3286 Budapest Hungary
 HA5NR Gabor #2471 Budapest Hungary
@@ -1035,6 +1037,7 @@ K8LBQ Bain #2320 Columbus GA (Been heard QRP)
 K8LSB Marc #1447 West Hartford CT
 K8MP Joe #2415 Delaware OH
 K8MR Jim #2533 Chagrin Falls OH
+K8NA Ted #365 Troy MI
 K8NZ Ron #2119 Columbus Ohio
 K8OD Joe #1484 West Branch MI
 K8OIP Scott #2858 Farmington NM
@@ -1158,6 +1161,7 @@ KC9YL Anne #3070 Francis Creek WI
 KD0NPM Rich #2295 Niskayuna NY
 KD2E Dave #2420 Toms River NJ
 KD2FSH Jerry #1918 Surprise AZ
+KD2HE Vic #2536 (VE3HEU) New York NY
 KD2KW Ken #2478 Oak Point TX
 KD2QDD Don #2922 Saugerties NY
 KD2RKN Jason #2919 Greenville SC
@@ -1272,6 +1276,7 @@ KI7VEM Ken #2937 Wilsonville OR
 KI7WNS Jacob #2731 Flagstaff AZ
 KI7Y Jim #699 Milwaykie OR
 KI9T Pat #2293 Springfield IL
+KJ3Q Al #2027 Weston FL
 KJ4M Gene #2109 Birmingham AL
 KJ4R Ed #3080 Sumter SC
 KJ4YM Mark #2317 Marietta GA (Been heard QRP)
@@ -1341,6 +1346,7 @@ KO1H John #3268 Van Buren ME (Been heard QRP)
 KO4AXD Brian #2745 Suffolk VA
 KO4GBD Aaron #3121 Palm Beach FL
 KO4LAO Jim #3200 Travelers Rest SC
+KO4TFK Steve #3373 Suwanee GA (Been heard QRP)
 KO4VW Steve #3096 Roswell GA
 KO8SCA AC #2408 (Adrian) Bayside NY
 KP2/K3CT John #466 
@@ -1391,6 +1397,7 @@ KV8Q Tom #2175 Powell OH
 KW0J Gary #3066 Bettendorf IA
 KW1U Marcia #706 Concord MA
 KW1X Mark #2718 (ex:KA1YQC)  Franklin MA
+KW2A Phil #3374 Severna Park MD
 KW4WA Julio #2849 Royal Palm Beach FL
 KW5CW Jim #2346 Anna TX
 KW7Q Steve #1039 Ft Collins CO
@@ -1568,6 +1575,8 @@ N3CI Dave #2010 Choctaw OK (Been heard QRP)
 N3CKI Dave #3012 Calabash NC
 N3CW Ed #1509 Palm Coast FL
 N3CZ Vlad #1891 Asheville NC
+N3DXX Art #1232 Wilmington DE
+N3DXX/0 Art #1232 
 N3EA Al #1438 Lake Worth FL
 N3FR Bob #3156 Pittsburgh PA
 N3FZ Bryan #2273 Finksburg MD
@@ -1630,6 +1639,7 @@ N4KS Ken #1274 New Smyrna Beach FL (QRP K2/10)
 N4KS/3 Ken #1274 Delaware
 N4KW Pete #1638 Hurdle Mills NC
 N4LSJ Tom #3094 Cincinnati OH
+N4NM Chuck #1228 Huntsville AL
 N4NQ Sid #1611 Lawrenceville GA
 N4NSS Kyle #2821 Sebring FL
 N4NTO Tripp #2821 Tarboro NC (Been heard QRP)
@@ -1671,7 +1681,7 @@ N5EIL Neil #1635 Terrell TX (Mostly QRP)
 N5EP Steve #3171 Naperville IL
 N5ER John #3036 Cabot AR (Been heard QRP)
 N5FO Sam #1680 Tyrone NM
-N5GG Cilin #3364 Lewisville TX
+N5GG Colin #3364 Lewisville TX
 N5IR Bill #799 Sanger TX
 N5JB John #2980 Parker TX
 N5JR Joel #1229 Rowlett TX
@@ -2012,6 +2022,7 @@ ON4VT Danny #2170 Hulshout Belgium
 ON5UK Luk #971 De Pinte(OV) Belgium
 ON5ZO Franki #56 Herne Belgium
 ON6LY Francis #2429 (OP4A) Turnhout An Belgium
+ON6PJ Jelle #2736 Heule Belgium
 ON6WP Pol #1009 Wuustwezel Belgium
 ON7PQ Pat #2365 Kortryk Belgium
 OP4A Francis #2429 (ON6LY) Turnhout An Belgium
@@ -2165,6 +2176,7 @@ UA9BA Willy #428 Asiatic Russia
 UR2Y Val #2698 Chernivtsi Ukraine
 UR5ECW Alex #3230 Ukraine
 UR7GO Alex #2685 Kherson Ukraine
+US0MF Serge #381 Lisichansk Ukraine
 US2YW Slava #2828 Chernivtsi Ukraine
 UT3UZ Alex #614 Kiev Ukraine
 UT4UZ Yuri #21 Kiev Ukraine (also VE3DZ)
@@ -2243,11 +2255,12 @@ VE3DZ Yuri #21 Niagara-On-The-Lake ON
 VE3EFM Les #1701 Mississauga ON (VE3ABN)
 VE3EJ John #513 Grasie ON
 VE3EY Nick #3093 Etobicoke ON
-VE3FP Adam #2323 (ex: VE3IZS) Eimwood ON
+VE3FP Adam #2323 Eimwood ON
 VE3FU Chris #2778 Kemptville ON
 VE3FXX Ron #1775 London ON
 VE3GFN Mike #1119 Scarborough ON
 VE3GNA Glenn #457 Roblin ON
+VE3HEU Vic #2536 Toronto ON
 VE3KI Rich #783 Richmond ON (ECA Amb./CWT Mgr.)
 VE3KIU Dave #3077 Ottawa ON
 VE3KP Ken #1246 Peterborough ON
@@ -2578,6 +2591,7 @@ W5OV Bob #1760 Cuyahoga Falls OH
 W5PET Dick #2316 Louisville KY
 W5RZ Dennis #1352 Dover AR
 W5SG Bill #45 Spring TX
+W5SJ Bill #1980 Fort Smith AR (Been heard QRP)
 W5TM Ed #1336 Henryetta OK
 W5TN Dave #2353 Dripping Springs TX
 W5TUF James #1609 Covington LA
@@ -2655,6 +2669,7 @@ W7RX Scott #2034 Eugene OR
 W7SAG John #1582 Eagle ID (Been heard QRP)
 W7SAG/0 John #1582 
 W7UT Bob #200 Huron SD
+W7VP Bill #1802 Woodinville WA
 W7VQ Rick #2441 N Salt Lake UT
 W7XT Dick #2004 Missoula MT
 W7Y Dale #404 Cheyenne WY (WC7S)
@@ -2945,6 +2960,7 @@ ZR2A Ulrich #2470 Port Elizabeth SA
 ZS1ANF Oleg #3157 Western Cape South Africa
 ZS1C Raoul #338 Kraaifontein SA (AFS Amb. Director)
 ZS1EL Vidi #13 Somerset Mall South Africa
+ZS1X Dirk #1106 Parklands Cape Town South Africa
 ZS5PG Matt #3359 Malvern Durban South Africa
 ZS6MSW Mike #3247 South Africa
 ZS6RI Chris #1236 The Reeds South Africa

@@ -1,7 +1,7 @@
 # ARRL Field Day database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-05-18
+# Last updated 2023-06-10
 7L4IOU=1D;DX
 AA0AC=1D;MN
 AA0AJ=1D;MN
@@ -1856,7 +1856,7 @@ K4CNY=1C;AL
 K4COM=1F;TN
 K4CP=2A;TN
 K4CPO=4A;TN
-K4CQ=2A;VA
+K4CQ=3A;VA
 K4CQO=1D;GA
 K4CTC=1D;VA
 K4CU=1E;SC
@@ -7326,6 +7326,7 @@ N0UB=1D;MO
 N0UC=1E;MN
 N0UD=1B;ND
 N0UEP=1B;MI
+N0UI=1D;MO
 N0UK=1E;MN
 N0UMP=3A;MO
 N0UW=5A;MN
@@ -9922,6 +9923,7 @@ VE2FAB=1D;QC
 VE2FCR=1D;QC
 VE2FD=1D;QC
 VE2FGL=1D;QC
+VE2FK=1D;QC
 VE2FTX=1B;QC
 VE2FU=1D;QC
 VE2GAT=1E;QC
