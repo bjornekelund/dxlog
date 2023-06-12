@@ -2,9 +2,19 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-06-05
+# Last Edit,2023-06-12
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
+CT7/W1UU,PETE,
+KO4OL,AL,
+AI2U,TOM,
+K4EAK,SKIP,
+JI4JUI,TORI,
+JR2ANC,MAC,
+JG1UQD,TAKU,
+KA3MTT,NATHAN,
+
+
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -3145,7 +3155,7 @@ N0JL,Jim,IA,Chillicothe IA
 N0KK,Kirk,698,New Hope MN
 N0KQ,Bill,1463,Brighton CO
 N0KV,Barry,1723,Parker CO
-N0LY,Jonas,
+N0LY,Jona,
 N0MII,Jeff,MO,Ballwin MO (Occ. QRP)
 N0MP,Bill,AZ,Mesa AZ
 N0MPM,Mike,IA,Pella IA
