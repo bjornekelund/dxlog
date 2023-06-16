@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-06-06
+# 1-Last Edit,2023-06-15
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L. 
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -870,6 +870,7 @@ DF6RI,ALFRED,DX,Happurg Germany
 DF7CP,STEFAN,DX,Eldena Germany
 DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
+DG1HP,MO,DX,Offenbach/Queich Germany
 DG1HTT,MO,DX,Halle Germany
 DH1NTT,Terry,DX,Aschaffenburg Germany
 DH4NWG,MARTIN,DX,Hersbruck Germany
@@ -914,6 +915,7 @@ DL6SDW,JOE,DX,Neu-Ulm Germany
 DL7BS,Bern,DX,Berlin Germany
 DL7DS,DAN,DX,Neuss Germany
 DL7USW/P,MARK,DX,Berlin Germany
+DL8MGD,LEO,DX,
 DL9AAA,JUERGEN,DX,Groebenzell Germany
 DL9BDM,EILERT,DX,?
 DL9CM,ROLF,DX,Rheinbach Germany
@@ -1170,6 +1172,7 @@ K0HNL,DAN,MA,Acton MA
 K0HS,,SD,
 K0HT,LU,GA,
 K0HX,STAN,MO,
+K0II,Ben,
 K0IJ,DAVE,WI,
 K0IMI,LYNN,KS,Overland Park KS
 K0INN,TOM,MO,Chesterfield MO
@@ -4043,6 +4046,7 @@ KC2CZK,RICH,NY,Solvay NY
 KC2DLR,,PA,
 KC2EKI,,NY,
 KC2EQA,LARRY,NY,Plattsburgh NY
+KC2EQA/QRP,LARRY,NY,Plattsburgh NY
 KC2FZG,TONY,NJ,
 KC2HEI,MIKE,NY,Wappingers Falls NY
 KC2IGE,MATT,NY,Massapequa Park NY
@@ -4993,6 +4997,7 @@ KI4KGK,BILLY,GA,Atlanta GA
 KI4MFX,TOM,VA,
 KI4MM,PAT,FL,Clearwater FL
 KI4MZC,DON,GA,
+KI4ODO,MARVIN,NC,Wendell NC
 KI4POV,WILL,AL,Athens AL
 KI4PS,JERRY,VA,
 KI4SCO,JERRY,TN,no info
@@ -5162,6 +5167,7 @@ KK4DSD,ANDY,SC,
 KK4EIR,KEN,VA,
 KK4EVJ,Ed,KY,Allensville KY
 KK4HEG,FRED,NC,
+KK4ITX,JON,ME,Zephyrhills FL
 KK4JSJ,,KY,
 KK4KSM,DALTON,FL,Lake City FL
 KK4KVP,KEN,FL,no info
@@ -5725,6 +5731,7 @@ KW4HQ,STEVEN,GA,
 KW4J,BILL,AL,
 KW4LQ,DAN,VA,
 KW4LTD,CAL,AL,Deatsville AL
+KW4NJA,SCOTT,GA,Athens GA
 KW4TO,GLENN,VA,Midlothian VA
 KW4UV,NICK,KY,
 KW4WA,JULIO,FL,Royal Palm Beach FL
@@ -5756,6 +5763,7 @@ KX4BI,VANCE,AL,
 KX4HL,PAT,FL,
 KX4MI,JAN,SC,
 KX4NM,JEFF,FL,
+KX4P,JOHN,NC,Pittsboro NC
 KX4PQ,GREG,GA,Peachtree City GA
 KX4TT,,FL,
 KX4UI,WIM,FL,Hosford FL
@@ -5937,6 +5945,7 @@ N0JRN,,MO,
 N0JW,,CO,
 N0KBD,DAVID,MN,
 N0KC,,KS,
+N0KCJ/J,JOHN,MN,Roseville MN
 N0KE,PHIL,CO,
 N0KEV,,KS,
 N0KEY,,WI,
@@ -7089,6 +7098,7 @@ N5ZR,,OR,
 N5ZT,RED,TX,
 N5ZWO,,LA,
 N5ZY,,OK,
+N6AA,Dick,CA,
 N6AA,DICK,CA,
 N6AB,JOHN,WA,
 N6AFV,,NV,
@@ -8645,6 +8655,8 @@ PY5AMF,Mar,DX,Paranagua Brazil
 PY5EG,ONJ,DX,
 PY5HOT,Mike,DX,
 PY6AM,TONY,DX,Salvador Brazil
+R2GG,VICTOR,DX,Lipetskaya Russia
+R3TIY,ANDY,DX,Nizhny Novgorod Russia
 RA1ALS,MAK,DX,St. Petersburg Russia
 RA4ACX,ALEXEY,DX,Volgograd Russia
 RL3P,SLAVA,DX,Tula Region
@@ -8680,6 +8692,7 @@ TF3SG,GUDMI,DX,Reykjavik Iceland
 TI2JS,JAVIER,DX,
 TI2SW,ARNIE,DX,
 TI4VAA,VICTOR,DX,
+UA1APX,VAL,DX,Saint Petersburg Russia
 UA3DEA,VAL,DX,Serghiev Posad Russia
 UA6AJB,VLAD,DX,Pervomaskaya Russia
 UG9A,Dmitriy,DX,Chelyabinsk Russia
@@ -12445,6 +12458,7 @@ WA4LBT,,NC,
 WA4LIT,,AL,
 WA4LKD,JOHN,FL,
 WA4MIT,,AL,
+WA4MOH,GLEN,NC,Newport NC
 WA4MSU,,FL,
 WA4MVI,,SC,
 WA4NIV,BUD,TN,
@@ -13516,6 +13530,7 @@ WS0Y,JAY,ND,Fargo ND
 WS0Z,DAVE,MO,
 WS1F,,CT,
 WS1L,CHUCK,MA,North Adams MA
+WS2C,STEVE,NJ,Sewell NJ
 WS2E,,PA,
 WS2L,,NJ,
 WS3C,MIKE,PA,
@@ -13686,6 +13701,7 @@ YL3JD,HANZ,DX,Lkskile Latvia
 YO3FFF,Christi,DX,Bucuresti Romaina
 YO3XX/P,MIRCEA,DX,
 YO8OU,LIV,DX,
+YQ0RN,FLORIN,DX,Salaj Romania
 YU1SY,PRODAN,DX,
 YU7OQA,KARLO,DX,?
 YU9CF,ZORAN,DX,Cacak Serbia
