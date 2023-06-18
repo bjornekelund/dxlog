@@ -2,7 +2,7 @@
 
 #FILE=`ls VHF_U* | tail -1 2> /dev/null`
 FILE=`ls VHFREG1-* | tail -1 2> /dev/null`
-FILE4=`ls VHFREG1_* | tail -1 2> /dev/null`
+FILE4=`ls VHFREG1-* | tail -1 2> /dev/null`
 
 OUTFILE=vhf_uhf_r1_db.txt
 OUTFILE4=vhf_uhf_r1_4_db.txt
@@ -71,7 +71,7 @@ BEGIN {
       printf("Replacing %s with %s for %s\n", grids[call], grid1, call) > "/dev/stderr";
     }
     calls[call] = call;
-    grids[call] = grid1;
+    grids[call] = substr(grid1,1,4);
   }
   else {
     if ($0 !~ /^(!|#|$)/) printf("Bad entry in: \"%s\"\n", $0) > "/dev/stderr";

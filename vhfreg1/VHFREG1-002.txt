@@ -1,5 +1,5 @@
 !!Order!!,Call,Loc1,UserText,
-# Last updated 2023-05-01
+# Last updated 2023-06-14
 # Thanks Bjorn/SM7IUN for his help
 # VHF/UHF 6-position grid data base
 # VHFREG1
@@ -28779,7 +28779,7 @@ G8WSM,IO81PH,,
 G8WVI,IO93JH,,
 G8WWC,IO91PO,,
 G8WYR,IO93EU,,
-G8X,JO00EW,,
+G8X,IO80EW,
 G8XCK,IO91PM,,
 G8XDD,IO90MX,,
 G8XEV,IO91TP,,
