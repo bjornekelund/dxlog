@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-06-14
+# Last Edit,2023-06-18
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1590,6 +1590,7 @@ K3JHT,John,PA,Pittsburgh PA
 K3JLM,Dennis,PA,Benton PA
 K3JST,John,PA,Johnstown PA
 K3JT,Terry,1398,Morgantown WV
+K3JWI,Ken,3378,Harrijson TN
 K3LR,Tim,943,West Middlesex PA
 K3MD,John,750,Winfield PA (NE-US Amb.)
 K3MIY,Ron,PA,Clarion PA
@@ -2226,7 +2227,7 @@ K9YII,Fred,IL,Odin IL
 K9ZO,Al,1761,(Ralph) Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
-KA0PQW,Matt,MN,Ellendale MN
+KA0PQW,Matt,3377,Ellendale MN
 KA1CFP,Marshall,VA,Virginia Beach VA
 KA1EFO,Ron,3081,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
