@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #FILE=`ls VHF_U* | tail -1 2> /dev/null`
-FILE=`ls VHFREG1-* | tail -1 2> /dev/null`
-FILE4=`ls VHFREG1-* | tail -1 2> /dev/null`
+FILE=`ls clean/VHFREG1-* | tail -1 2> /dev/null`
+FILE4=`ls clean/VHFREG1_4-* | tail -1 2> /dev/null`
 
 OUTFILE=vhf_uhf_r1_db.txt
 OUTFILE4=vhf_uhf_r1_4_db.txt
