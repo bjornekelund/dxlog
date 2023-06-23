@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-06-21
+# Last Edit,2023-06-22
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -4932,6 +4932,7 @@ W0MU,Mike,CO,Parker CO
 W0NEO,Duane,AR,Mountain Home AR
 W0NF,Pam,3008,Tucson AZ
 W0NP,Dave,3220,Colorado Springs CO
+W0NY,Nick,3381,Brainerd MN
 W0ODS,Jeff,1297,Coggon IA
 W0OJ,Phil,2723,Crestone CO
 W0OR,Bill,1162,Bloomington MN
