@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-06-22
+# Last Edit,2023-06-25
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1522,7 +1522,6 @@ K2QB,Jim,935,Niagara Falls NY
 K2QBN,Evan,2611,Holiday FL
 K2QO,Mark,573,Clarence NY
 K2RB,Rick,CT,Trumbull CT
-K2RB,Rick,NY,Trumbull CT
 K2RD,Ira,63,Reno NV
 K2RP,Ron,CA,Encinitas CA
 K2RS,Jack,CT,Ansonia CT
@@ -2483,7 +2482,6 @@ KE0L,Jim,TN,Cleveland TN
 KE0LUA,Shawnna,3109,Carrollton MO
 KE0N,Eliot,MN,Minneapolis MN
 KE0NLJ,Mike,IA,Bena Vista ARC Sioux Rapids IA
-KE0QKF,Mike,3277,Iowa City  IA
 KE0QKF,Mike,3277,Iowa City IA
 KE0QMB,Dakota,MN,(CWops Club) Chanhassen MN
 KE0RWJ,Cary,1828,(VE4EA)
@@ -2806,7 +2804,6 @@ KO4GBD,Aaron,3121,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
 KO4LAO,Jim,3200,Travelers Rest SC
 KO4O,Roger,AL,Trinity AL
-K4KVC,Ken,FL,The Villages FL
 KO4UHE,Rick,KY,Danville KY
 KO4TFK,Steve,3373,Suwanee GA  (Been heard QRP)
 KO4VW,Steve,3096,Roswell GA
@@ -3004,6 +3001,7 @@ LZ3ZZ,Aleko,LZ,Koprinka Bulgaria
 LZ4YJ,Rosenh,,Russe 7000 Bulgaria
 LZ5DB,Milen,LZ,Kazanlak Bulgaria
 LZ5GB,Eugen,,Sofia Bulgaria
+LZ5N,Spas,2001,Lom Bulgaria
 LZ5PW,Vasy,,(Vassil)  Plovdiv Bulgaria
 LZ5R,Milen,LZ,Plovdiv Bulgaria  (LZ5DB)
 LZ5N,Boyko,2653,(LZ1HW) Burgas Bulgaria
@@ -5034,7 +5032,6 @@ W2CQ,Bill,928,Fort Lauderdale FL
 W2CS,Gary,1008,Dartmouth MA
 W2DWL,Dennis,NJ,Swedesboro NJ
 W2ECK,Paul,3164,Savannah GA
-W2ECK,Paul,3164,Savannah GA
 W2ET,Bill,MD,Chestertown MD
 W2FV,John,WA,Trout Lake WA
 W2GC,Frank,SC,Little River SC
@@ -6123,7 +6120,7 @@ ZL2GVA,Gerard,3028,Blenheim New Zealand
 ZL2KE,Steve,1281,70km NE of Wellington
 ZL3CW,Jacky,3270,(F2CCW) Tauranga New Zealand
 ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
-ZL4BDG,Ben,,Upper Hutt New Zeland
+ZL4BDG,Ben,3382,Upper Hutt New Zeland
 ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
 ZS1ANF,Oleg,3157,Western Cape South Africa
