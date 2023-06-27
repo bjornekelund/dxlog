@@ -1,13 +1,12 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-06-18
+# 1-Last Edit,2023-06-27
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L. 
 # 4-Send any corrections direct to ve2fk@arrl.net
 # 5-K1USN CW Slow Speed (ConTest) friday/sunday 
 # K1USNSST
-NN7O,Tom,CA,Bishop CA
 2E0GKC,PAUL,DX,Osfordshie England
 2E0XET,JOHN,DX,Redditch England
 2I0WLZ,ANDREW,DX,Portadown Northern Ireland
@@ -470,6 +469,7 @@ AD0TZ,RYAN,KS,
 AD0W,,MN,
 AD0YM,MIKE,MO,Jefferson City MO
 AD1C,JIM,CO,
+AD3DX,MARILYN,AL,Bessemer AL
 AD3Y,LARRY,NJ,
 AD3Z,,PA,
 AD4AX,ED,VA,
@@ -670,6 +670,7 @@ AG2S,,NJ,
 AG2T,ALEX,NY,
 AG2Y,JOE,NY,Webster NY
 AG3G,,PA,
+AG3G,STUART,PA,Huntingdon Valley PA
 AG3I,MARTY,PA,Greensburg PA
 AG3J,ERIC,MD,Langhorne PA
 AG3L,RICH,PA,
@@ -873,6 +874,7 @@ DF8DU,UDO,DX,Hattingen Germany
 DF9GH,HARRY,DX,Freiburg Germany
 DG1HP,MO,DX,Offenbach/Queich Germany
 DG1HTT,MO,DX,Halle Germany
+DG1STT,MO,DX,
 DH1NTT,Terry,DX,Aschaffenburg Germany
 DH4NWG,MARTIN,DX,Hersbruck Germany
 DJ0AQ,KAZIK,DX,Idar-Oberstein Germany
@@ -926,6 +928,7 @@ DL9UO,MIKE,DX,Ahrensfelde Germany
 DM1AA,ANDRE,DX,Frankfurt am Main Germany
 DM5WGL,WIN,DX,Berlin Germany
 DM6EE,Lutz,DX,Wolfsburg Germany
+E77F,FERID,DX,
 EA1AAE,Manel,DX,Soria Spain
 EA1AVX,JOSE,DX,Soria Spain
 EA1FEN,AMADO,DX,Principality of Asturias Spain
@@ -946,6 +949,7 @@ EA8DED,KARI,DX,
 EA8DJF,LEO,DX,Islas Canarias
 EA9OM,Heijo,DX,
 EB1MM,JOAQUIN,DX,Valdelafuente Leon Spain
+EC1CNW,ELIAS,DX,
 EI2HIB,MARTIN,DX,Waterford Irland
 EI2KW,DICK,DX,Kildare Ireland
 EI3HA,TONY,DX,Strandhill Sligo Ireland
@@ -954,6 +958,7 @@ EI4KO,COLM,DX,Dublin Ireland
 EI5LB,GERD,DX,Kingscourt Ireland
 EI9JF,NICKY,DX,Kildare Ireland
 ES4RM,SERGEI,DX,Narva Joesuu Estonia
+EW8CP,VLAD,DX,Belarus
 F4FUB,SEB,DX,Saint Blimont France
 F4HGA,GUS,DX,Changé France
 F4HGD,STEF,DX,Dunkerque France
@@ -1017,6 +1022,7 @@ G4IWO,NICK,DX,Littleborough England
 G4UDG,KRIS,DX,Staffordshire England
 G4VME,RICHARD,DX,Cambridge England
 G4WSQ,JOHN,DX,BH23 Area England
+G4XWJ,TIM,DX,Dorset England
 G5C,MALCOLM,DX,
 G6GLP,TONY,DX,Devon England
 G8RWG,NIELS,DX,Coulsdon England
@@ -1432,6 +1438,7 @@ K1RH,,MD,
 K1RI,BOB,RI,North Scituate RI
 K1RID,ED,ME,Kittlry ME
 K1RIF,CHRIS,MA,Leverett MA
+K1RIK,RICK,CT,East Hartford CT
 K1RM,VIN,CT,
 K1RMF,BURT,VT,
 K1RO,MARK,NH,
@@ -1662,6 +1669,7 @@ K2TE,ED,FL,
 K2TH,TOM,MA,Rockaway NJ
 K2TJ,ANDY,NY,
 K2TL,JIM,NJ,Howell NJ
+K2TNO,BILL,NC,
 K2TOP,TOPPY,NJ,
 K2TQC,BILL,NY,
 K2TT,BILL,NY,
@@ -2861,6 +2869,7 @@ K7GS,GARY,WA,
 K7GT,ALLAN,OR,
 K7GX,,OR,
 K7HBN,GEORGE,WA,
+K7HJE,GEORGE,AZ,?
 K7HKR,BRIAN,AZ,
 K7HP,HANK,AZ,
 K7HPH,,UT,
@@ -3567,6 +3576,7 @@ KA3S,,PA,
 KA3SJK,,PA,
 KA3TMV,TIM,ON,Mc Murray PA
 KA3TTT,AUSTIN,PA,Philadelphia PA
+KA3UAW,SHELL,PA,Scranton PA
 KA3UIP,JOE,PA,Clarion PA
 KA3UOL,,PA,
 KA3WGF,Jim,PA,
@@ -4116,6 +4126,7 @@ KC3RN,KEVIN,PA,Pittsburgh PA
 KC3RYH,TIM,PA,Hershey PA
 KC3SDJ,ANDY,PA,ALLISON PARK PA
 KC3SLD,KYLE,PA,State College PA
+KC3SSC,JOHN,MD,Clarksburg MD
 KC3SVR,TOM,MD,Bel Air MD
 KC3T,,CT,
 KC3TAU,DALE,MD,Hampstead MD
@@ -4213,6 +4224,7 @@ KC8IMB,,OH,
 KC8IVC,,OH,
 KC8J,WALT,CA,
 KC8KYV,RANDY,WV,richwood WV
+KC8LA,GLENN,OH,West Milton OH
 KC8R,ED,MI,
 KC8RPV,DENNY,OH,
 KC8WH,MIKE,OH,
@@ -5041,6 +5053,7 @@ KI5RHL,JAMES,OK,Bethany OK
 KI5SXE,BRANDON,TX,Wylie TX
 KI5T,WADE,LA,
 KI5TD,,MD,
+KI5UBL,MIKE,TX,Houston TX
 KI5X,GEO,TX,
 KI6DY,BOB,KS,
 KI6DY/0,,KS,
@@ -5118,6 +5131,7 @@ KJ4ZN,STEVE,AL,
 KJ4ZQD,STAN,VA,
 KJ5T,STEVE,TX,
 KJ5X,,TX,
+KJ5XF,TONY,TX,Wimberley TX
 KJ5Y,PAT,TX,
 KJ6CA,,CA,
 KJ6DQ,ROL,TX,
@@ -5812,6 +5826,7 @@ KZ3W,GORDON,PA,
 KZ4A,RANDY,AL,
 KZ4FLA,DAVID,FL,Fort Myers FL
 KZ4KX,TERRY,KY,
+KZ4U,MARK,AL,Birmingham AL
 KZ4ZZ,,FL,
 KZ5A,,TX,
 KZ5D,ART,LA,New Ibria LA
@@ -5829,6 +5844,7 @@ LU1JIC,DANIEL,DX,Concordia ER Argentina
 LU3AWL,HECTOR,DX,Ciudad de Buenos Aiores Argentina
 LU3VED,MAR,DX,(Martin)  General Roca Argentina
 LU7GFH,JAVIER,DX,Chaco Argentina
+LY7AS,SERGEJ,DX,Vilnius Lithuania
 LZ1GG,COSTA,DX,Samokov Bulgaria
 LZ1GH,GEORGE,DX,Ravnets Bulgaria
 LZ1ON,DIMO,DX,Zagora Bulgaria
@@ -6564,7 +6580,7 @@ N4AAI,WALT,TN,
 N4AB,AL,TN,
 N4ABT,CLEVE,TN,
 N4ACW,EMILY,VA,
-N4AF,HOWIE,NC,Blounts Creek NC
+N4AF,AL,NC,Blounts Creek NC
 N4AH,,SC,
 N4AHO,DOUG,SC,Walhalla SC
 N4AHX,ALLEN,NC,Laurel Springs NC
@@ -7641,7 +7657,7 @@ N8XD,,MI,
 N8XE,,OH,
 N8XMS,,MI,
 N8XP,,OH,
-N8XX,ASHLEY,MI,
+N8XX,BILL,NJ,
 N8YF,,OH,
 N8YSZ,,VA,
 N8YXR,BOB,MI,
@@ -7903,6 +7919,7 @@ NA4IT,,TN,
 NA4J,JIM,NC,Winston Salem NC
 NA4K,STEVE,TN,
 NA4L,DAVE,VA,
+NA4MM,PAUL,AL,Montgomery AL
 NA4O,MARK,GA,Marietta GA
 NA4W,CORT,AL,
 NA5AR,,TX,
@@ -8236,7 +8253,7 @@ NM1A,,FL,
 NM1J,JACK,MA,
 NM1K,,CT,
 NM1W,,NH,
-NM2A,MARK,NY,Pulaski NY
+NM2A,MARK,NY,Pulaski NY  (Montana for summer)
 NM2L,GREG,GA,
 NM3A,DAN,PA,Export PA
 NM3E,,PA,
@@ -8311,6 +8328,7 @@ NN7A,,AZ,
 NN7CW,WOLF,FL,
 NN7D,,AZ,
 NN7M,BRYAN,WA,Seattle WA
+NN7O,Tom,CA,Bishop CA
 NN7SS,BURT,WA,
 NN7X,,AZ,
 NN7ZZ,DON,UT,
@@ -10098,6 +10116,7 @@ W2LK,LES,NY,
 W2LL,,NY,
 W2LRO,,NJ,
 W2LU,,NY,
+W2LVP,BILL,NY,Bloomfield NY
 W2MC,,NJ,
 W2MF,MANNY,NJ,
 W2MKM,ED,NJ,
