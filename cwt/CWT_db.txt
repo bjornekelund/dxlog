@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3383
-# Last updated 2023-06-27
+# Contains members up to #3385
+# Last updated 2023-06-30
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -842,7 +842,7 @@ G0MDR=Fred;G
 G0MFR=Gareth;2490
 G0MGM=Rob;1771
 G0NIG=Nigel;G
-G0OBQ=Gerald;G
+G0OBQ=Gerry;3385
 G0OOD=Tim;2941
 G0OOR=Tony;2971
 G0ORH=Ken;G
@@ -954,6 +954,7 @@ G4VIW=Andy;2586
 G4VYI=Mike;G
 G4WQI=Dean;3078
 G4XUM=Martin;569
+G4XWJ=Tim;3384
 G4ZXY=IAN;G
 G5CL=Ryan;422
 G5VZ=Chris;2877
@@ -2206,7 +2207,7 @@ K9WWS=Bill;CWA
 K9WWT=GEORGE;IN
 K9WX/M=Tim;1462
 K9WX=Tim;1462
-K9WZB=Gerry;AZ
+K9WZB=Garry;AZ
 K9XE=Will;3196
 K9XR=Al;IL
 K9XV=Tom;2270
@@ -2341,7 +2342,7 @@ KC0TVD=Chris;IA
 KC0UDT=Matt;MO
 KC0URL=Ray;1872
 KC0VKN=Joe;635
-KC0WEA=Tony;CWA
+KC0WEA=Tony;CO
 KC0WHR=Gary;MO
 KC1AID=Len;MA
 KC1APK=Dave;VT
@@ -2959,6 +2960,7 @@ LU1AW=Juan;1835
 LU3MAM=Osvaldo;LU
 LU5DX=Martin;2986
 LX/DJ1YFK=Fabian;1566
+LX1NO=Norby;LX
 LY2AX=Arunas;LY
 LY2CO=Rimas;LY
 LY5A=Jonas;1459
@@ -3641,6 +3643,7 @@ N8VAR=Ron;OH
 N8VW=Pat;OH
 N8WE=Glen;OH
 N8XE=Jason;3291
+N8ZFH=Gary;MI
 N8ZV=Bob;3257
 N8ZYA=John;WV
 N9BOR=Mike;312
@@ -4155,6 +4158,7 @@ P4/K3DMG=Lee;1837
 P40LE=Andy;39
 P40TA=Ken;P4
 P44L=John;P4
+PA/DK5KK=Kolja;1965
 PA0ABM=Wino;2890
 PA0GRU=Dick;3175
 PA0HOP=Hans;414
@@ -4903,6 +4907,7 @@ W0KU=Scott;1988
 W0LGU=Tom;MN
 W0LPF=Pete;1779
 W0LTL=Mike;AZ
+W0MN=Gil;MN
 W0MU=Mike;CO
 W0NEO=Duane;AR
 W0NF=Pam;3008

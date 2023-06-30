@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-06-27
+# Last Edit,2023-06-28
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -850,7 +850,7 @@ G0MDR,Fred,G,St. Albans England
 G0MFR,Gareth,2490,Dorset England
 G0MGM,Rob,1771,Bourne End England
 G0NIG,Nigel,,W Yorkshire England
-G0OBQ,Gerald,,Whitley Bay England
+G0OBQ,Gerry,3385,Whitley Bay England
 G0OOD,Tim,2941,Norwich England
 G0OOR,Tony,2971,Norfold England
 G0ORH,Ken,,Thatcham West Berkshire
@@ -962,6 +962,7 @@ G4VIW,Andy,2586,Upminster England
 G4VYI,Mike,,Sheffield England
 G4WQI,Dean,3078,Witham England
 G4XUM,Martin,569,Shavington Crewe England
+G4XWJ,Tim,3384,Dorset England
 G4ZXY,IAN,,Felixstone Road England
 G5CL,Ryan,422,Buckinghamshire England (Mainly QRP)
 G5VZ,Chris,2877,Pontefract England
@@ -2219,7 +2220,7 @@ K9WWS,Bill,CWA,Niles IL
 K9WWT,GEORGE,IN,Merrillville IN
 K9WX,Tim,1462,West Lafayette IN
 K9WX/M,Tim,1462,Somewhere mobile
-K9WZB,Gerry,AZ,Lake Havasu City AZ
+K9WZB,Garry,AZ,Lake Havasu City AZ
 K9XE,Will,3196,Carlock IL
 K9XR,Al,IL,Tinley Park IL
 K9XV,Tom,2270,Punta Gorda FL
@@ -2354,7 +2355,7 @@ KC0TVD,Chris,IA,Leighton IA
 KC0UDT,Matt,MO,Troy MO
 KC0URL,Ray,1872,Plymouth MN
 KC0VKN,Joe,635,Iowa City IA
-KC0WEA,Tony,CWA,Colorado Springs CO
+KC0WEA,Tony,CO,Colorado Springs CO
 KC0WHR,Gary,MO,Strafford MO
 KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
@@ -2976,6 +2977,7 @@ LU1AW,Juan,1835,Buenos Aires Argentina
 LU3MAM,Osvaldo,,(L33M) Mendoza Argenetina
 LU5DX,Martin,2986,Lujan Argentina
 LX/DJ1YFK,Fabian,1566,
+LX1NO,Norby,,Strassen Luxembourg
 LY2AX,Arunas,,Kaunas Lithuania
 LY2CO,Rimas,,Mazeikiai Lithuania
 LY5A,Jonas,1459,Siauliai Lithuania
@@ -3660,6 +3662,7 @@ N8VAR,Ron,OH,Huber Heights OH
 N8VW,Pat,OH,Columbus OH
 N8WE,Glen,OH,Centerville OH
 N8XE,Jason,3291,Hilliard OH
+N8ZFH,Gary,MI,Woodhaven MI
 N8ZV,Bob,3257,Amherst OH
 N8ZYA,John,WV,Charleston WV
 N9BOR,Mike,312,Skokie IL
@@ -4175,6 +4178,7 @@ P4/K3DMG,Lee,1837,
 P40LE,Andy,39,Aruba  (also K2LE)
 P40TA,Ken,,Martell  CA USA
 P44L,John,P4,Aruba
+PA/DK5KK,Kolja,1965,
 PA0ABM,Wino,2890,Huijbergen Netherlands
 PA0GRU,Dick,3175,Heemstede Netherlands
 PA0HOP,Hans,414,Leuth Netherlands
@@ -4669,7 +4673,7 @@ VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Eastern QC
+VE2FK,Dub,1181,Eastern QC.
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
@@ -4925,6 +4929,7 @@ W0KU,Scott,1988,Denver CO
 W0LGU,Tom,MN,Center City MN
 W0LPF,Pete,1779,Saint Peters MO
 W0LTL,Mike,AZ,Tucson AZ
+W0MN,Gil,MN,
 W0MU,Mike,CO,Parker CO
 W0NEO,Duane,AR,Mountain Home AR
 W0NF,Pam,3008,Tucson AZ
