@@ -2,9 +2,9 @@ How to Use the HQ Station Pre-fill Files in the IARU Contest
 
 Send HQ callsign updates/corrections to Joe, OZ0J, contest@oz0j.dk
 
-Latest addition (test call):   V85T BDARA
+Latest addition (test call):   II9HQ ARI
 
-Last updated:  24 June 2023 04:07 UTC
+Last updated:  29 June 2023 18:12 UTC
 
 Data files included in this Zip:
 
@@ -24,14 +24,14 @@ N1MM and N1MM+:
    N1MM:   Select iaru.txt
 4. Click Open
 5. From the menu, select Configure | Enable Call History Lookup
-6. Enter V85T and the logger should prefill BDARA as the exchange
+6. Enter II9HQ and the logger should prefill ARI as the exchange
 
 Writelog (TNX W5XD):
 
 1. Extract iaru2023.adi from the ITU.zip file
 2. From the Writelog menu, select Tools | Preset Exchange from ADI file
 3. Select the iaru2023.adi file
-4. Enter V85T and Writelog should prefill BDARA as the exchange
+4. Enter II9HQ and Writelog should prefill ARI as the exchange
 
 Win-Test:
 
@@ -43,8 +43,8 @@ Win-Test:
 4. Press Alt-X to view the "Extra information" window
    Right click on the window, select "Extra data files..."
    Click [Add...], select iaru2023.xdt, click OK
-5. Enter V85T and Win-Test should prefill BDARA as the exchange
-   "BDARA" should also appear in the Extra Information window
+5. Enter II9HQ and Win-Test should prefill ARI as the exchange
+   "ARI" should also appear in the Extra Information window
 
    NOTE: For an explanation of why both files should be updated, please read this post:
    http://lists.f5mzn.org/pipermail/support/2017-June/085580.html
@@ -58,25 +58,25 @@ DXLog.net (TNX W9PA, SM7IUN):
     Right-click on the window and select "Extra data files"
     Click the Add button, browse to the above selected location, select iaru2023
 .xdt, and click OK.
-5. Enter V85T and DXLog should prefill BDARA as the exchange
-   "BDARA" should also appear in the Extra information window
+5. Enter II9HQ and DXLog should prefill ARI as the exchange
+   "ARI" should also appear in the Extra information window
 
 TR4W (TNX N4TZ):
 
 1. Extract INITIAL.EX to TR4W root directory (same location as CTY.DAT file and TRMASTER.DTA)
-2. Enter V85T and TR4W should prefill BDARA as the exchange
+2. Enter II9HQ and TR4W should prefill ARI as the exchange
 
 SkookumLogger (TNX K1GQ):
 
 1. Choose File > Update IARU HQ Call History
 2. Select the IARU.TXT file in the file chooser
-3. Check that V85T prefills HQ code BDARA
+3. Check that II9HQ prefills HQ code ARI
 
 UcxLog (TNX OZ1BII):
  
 1. Extract iaru.txt to C:\UcxLog\MEMBER\
 2. Remember to delete old IARU files in C:\UcxLog\MEMBER\
-3. Enter V85T and the logger should prefill BDARA as the exchange in the Membership window
+3. Enter II9HQ and the logger should prefill ARI as the exchange in the Membership window
 
 73,
 Bob, N6TV
