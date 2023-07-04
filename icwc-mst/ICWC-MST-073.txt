@@ -2,7 +2,7 @@
 # 
 # Always LOG what is sent.
 # ICWC-MST
-# Last Edit,2023-06-25
+# Last Edit,2023-07-03
 # New medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA,
 CT7/W1UU,PETE,
@@ -15,6 +15,8 @@ JG1UQD,TAKU,
 KA3MTT,NATHAN,
 NA8D,Jerry,
 WB4ABY,Carl,
+AF4PX,Darrell,
+DL8MAS,Bernd,
 
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -143,7 +145,7 @@ AA6PM,Peter,3062,Saratoga CA
 AA6VX,Rich,CA,Orcutt CA
 AA6W,Don,2311,Saratoga CA
 AA6XA,Jeff,2118,Santa Clara CA
-AA7AZ,JIM,
+AA7AZ,JIM,OR,Hermiston OR
 AA7CT,Bob,OR,Seaside OR
 AA7FV,Darrel,1578,Tucson AZ
 AA7OA,Dan,OR,Astoria AZ
@@ -3331,13 +3333,13 @@ N3FJ,Robert,PA,Chadds Ford PA
 N3FR,Bob,3156,Pittsburgh PA
 N3FTO,Paul,PA,Media PA
 N3FZ,Bryan,2273,Finksburg MD
-N3GE,ROGER,PA
+N3GE,ROGER,PA,Eliazbethtown PA
 N3GGT,Ron,PA,Albrightsville PA
 N3HE,Dave,OH,Cincinati OH
 N3HEE,Joe,1283,Point of Rocks MD
 N3HIH,Frank,NC,Durham NC
 N3IQ,Brian,302,Mt Airy MD
-N3JG,JERRY,,
+N3JG,JERRY,WV,Paw Paw WV
 N3JT,Jim,1,Mclean VA and FL 
 N3JUY,Ridge,FL,(John)  Palm Coast
 N3KN,Tony,VA,Blacksburg VA
@@ -3354,7 +3356,7 @@ N3RD,Dave,232,Phoenixville PA
 N3RM,Theo,PA,Lebanon PA
 N3RS,Sig,34,Glenmoore PA
 N3RSD,Frank,DE,Wilmington DE
-N3RTW,Sean,
+N3RTW,Sean,VA,Springfield VA
 N3SD,Greg,1768,Aliquippa PA
 N3SW,Scott,2397,Cumberland PA
 N3TM,Thayer,PA,Harmony PA
@@ -4746,7 +4748,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,BRAVO CWT - MST - SST
+VE2FK,Dub,1181,Eastern QC.
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
