@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-06-28
+# Last Edit,2023-06-30
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1018,7 +1018,7 @@ GW4VXE,Tim,2755,St Nicholas Goodwick Wales
 GW7APP,Ian,2896,Anglesey Wales
 GW7N,Glen,2178,(GW4MVA)  Flintshire Wales
 HA0NAR,Laszlo,2172,Debrecen Hungary
-HA1AS,Zsike,,Gyor hungary
+HA1AS,Zsike,3388,Gyor hungary
 HA1RJ,Andras,,Gyor Hungary
 HA2EAV,Joe,,Komarom Hungary
 HA2NP,Robert,,Pilis Hungary
@@ -1420,7 +1420,7 @@ K1PX,Jim,1080,Easton CT
 K1QED,Robert,MA,Athol MA
 K1QVX,Bob,CT,Stratford CT
 K1QX,Craig,1358,Rindge NH
-K1RC,John,MA,
+K1RC,John,MA,Dracut MA
 K1RF,Steve,3003,Norwalk CT
 K1RH,Steve,1003,Westminster MD
 K1RI,Bob,RI,North Scituate RI
@@ -1501,9 +1501,9 @@ K2LP,Bud,MA,Eastham MA
 K2MF,Barry,1253,Lutz FL
 K2MGR,Kurt,915,Bainbridge NY
 K2MK,Mike,FL,Lakeland FL
-K2LML,Bill,FL,
+K2LML,Bill,FL,Fort Myers FL
 K2MMO,Mike,NY,Staten Island NY
-K2MN,Steve,NJ,
+K2MN,Steve,NJ,West Berlin NJ
 K2MRK,Mark,FL,Melbourne FL
 K2MYQ,Bill,NJ,Princeton NJ
 K2MYQ/1,Bill,ME,
@@ -1804,7 +1804,6 @@ K5EW,Stan,LA,Broussard LA
 K5FNQ,Art,795,Lafayette LA
 K5FP,Fred,392,Marble Falls TX
 K5FRC,,TX,Bonham TX (Fannin County ARC)
-K5GA,Bill,TX,Houston TX
 K5GH,George,1071,Greenwood TX
 K5GM,Pete,322,Austin TX
 K5GN,Dave,855,Houston TX
@@ -1954,7 +1953,7 @@ K6TJ,Pete,CA,Los Altos CA
 K6TOR,Rick,2732,San Francisco CA
 K6TR,Paul,2589,(ex K2HZO)  Ukian CA
 K6TTT,Bruce,2595,Lancaster CA
-K6TXA,Bob,CA,
+K6TXA,Bob,CA,Newport Beach CA
 K6UFO,Mark,403,San Francisco CA
 K6VN,Mike,2924,Valencia CA
 K6VVA,Rick,CA,Morgan Hill CA
@@ -2234,7 +2233,7 @@ KA0PQW,Matt,3377,Ellendale MN
 KA1CFP,Marshall,VA,Virginia Beach VA
 KA1EFO,Ron,3081,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
-KA1IS,Tom,ME,
+KA1IS,Tom,ME,Bethel ME
 KA1LOR,Len,MA,Shrewsburg MA
 KA1NP,Walt,3043,Tampa FL
 KA1RVM,Bill,3242,Holliston MA
@@ -2659,7 +2658,7 @@ KI5T,Wade,LA,Walker LA
 KI6M,Hans,2792,Cypress CA
 KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
-KI6RRN,Axel,CA,
+KI6RRN,Axel,CA,La Mesa CA
 KI6UP,JIM,TX,Atlanta TX
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
@@ -2742,7 +2741,7 @@ KL2ZZ,James,AK,Juneau AK
 KL3W,Tom,1461,Palmer AK
 KL7/K3GHH,John,1212,AK
 KL7IXW,Ward,2457,Fairbanks AK
-KL7QT,Ed,3190,Farbanks AK
+KL7QT,Ed,3190,Fairbanks AK
 KL7SB,Steve,1268,Anchorage AK
 KL7W,Tom,1461,Palmer AK
 KL9A,Chris,1576,Bozeman MT
@@ -2928,8 +2927,8 @@ KX2P,Jeff,2676,Glendale CO
 KX3H,Tony,2900,Waukesha WI
 KX4CWO,,,Roanoke CWops Club (Spotsylvania VA)
 KX4FZ,Terry,2737,Bradenton FL
-KX4UI,Bill,CWA,Hosford FLFL
-KX6A,Mike,1782,Newport Beaach CA
+KX4UI,Bill,CWA,Hosford FL
+KX6A,Mike,1782,Newport Beach CA
 KX6X,Ken,AZ,Sierra AZ
 KX7M,Denny,NV,Carson City NV
 KX8I,,MD,Gaithersburg MD
@@ -2973,6 +2972,7 @@ LB6RH,Jens,,Trondheim Norway
 LB8IB,OLAF,LA,Lorenskig Norway
 LC0X,Rag,933,Broabakken Norway
 LJ3RE,Rag,933,Broabakken Norway also LB3RE
+LT6M,Seba,,Lujan de Cuyo Argentina
 LU1AW,Juan,1835,Buenos Aires Argentina
 LU3MAM,Osvaldo,,(L33M) Mendoza Argenetina
 LU5DX,Martin,2986,Lujan Argentina
@@ -5633,7 +5633,6 @@ W9ZSJ,Geo,3106,Kildeer IL
 W9ZV,Bob,IL,Bolingbrook IL
 WA0BJR,Don,MO,Springfield MO
 WA0I,Randy,3299,Marshall MO
-WA0JZK,Larry,MO,Springfield MO
 WA0MHJ,Mark,MN,Ham Lake MN
 WA0NLK,Phil,CO,Canon City CO
 WA0USA,Vic,645,Palm Beach Gardens FL
