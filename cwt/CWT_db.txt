@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3388
-# Last updated 2023-06-30
+# Last updated 2023-07-05
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -626,6 +626,7 @@ DL8FBH=Mike;DL
 DL8HK=Karen;2829
 DL8IH=Willi;DL
 DL8KX=Tommy;DL
+DL8MAS=Bernd;DL
 DL8MX=Wil;DL
 DL8PG=Gerd;833
 DL8TG=Klaus;2524
@@ -1731,6 +1732,7 @@ K4QPL=Jim;244
 K4QS/M=Chuck;1749
 K4QS=Chuck;1749
 K4QU=Mike;2318
+K4RAB=Rick;FL
 K4RB=Bob;236
 K4RIC=Rich;VA
 K4RLC=Bob;3042
