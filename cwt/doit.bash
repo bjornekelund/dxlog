@@ -15,4 +15,6 @@ gawk -f xdt.awk $FILE | sed 's/  / /g' | sort > $XDTFILE
 echo $XDTFILE "created"
 unix2dos -q $XDTFILE
 
+cp $XDTFILE ../xdt
+
 exit

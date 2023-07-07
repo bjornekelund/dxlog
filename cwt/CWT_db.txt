@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3388
-# Last updated 2023-07-05
+# Contains members up to #3390
+# Last updated 2023-07-07
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -851,7 +851,7 @@ G0PNM=Peter;G
 G0RDO=John;G
 G0TPH=Al;2956
 G0TRT=Cie;CWA
-G0TZZ=Chris;G
+G0TZZ=Chris;3387
 G0UJK=Colin;G
 G0UYG=Andy;2453
 G0VQW=Sandy;G
@@ -1233,6 +1233,7 @@ JN1THL=Ken;161
 JN1WFF=Naoki;JA
 JO1LVZ=OM;JA
 JO4JFH=Hiro;JA
+JP3REM=Bill;3390
 JR1NHD=Shin;JA
 JS1DEH=YU;JA
 JS2AHG=Astu;141
@@ -1413,6 +1414,7 @@ K1RF=Steve;3003
 K1RH=Steve;1003
 K1RI=Bob;RI
 K1RID=Ed;2846
+K1RIF=Dick;MA
 K1RM=Vin;116
 K1RO=Mark;1306
 K1RV=Pi;639
@@ -1461,11 +1463,13 @@ K2AAW=Edib;NY
 K2ACX=Brian;2761
 K2AU=Mark;235
 K2AV=Guy;1671
+K2B=Jim;1
 K2CDX=Mike;NY
 K2CJ=Carl;2201
 K2CM=Geo;NY
 K2CS=Chris;NY
 K2CUB=Scott;2030
+K2D=Pete;8
 K2DB=Paul;686
 K2DIW=Seth;2051
 K2DM=George;2652
@@ -1482,7 +1486,6 @@ K2KQ=Don;192
 K2KRG/M=Steve;1926
 K2KRG=Steve;1926
 K2KW=Ken;80
-K2L=Dave;1208
 K2LE=Andy;39
 K2LML=Bill;FL
 K2LNS=Herb;2208
@@ -3540,6 +3543,7 @@ N7AKG=Alan;OR
 N7AUE=Muley;3237
 N7AWE=Jim;ID
 N7BV=Chuck;WA
+N7BVY=Steve;WA
 N7CLP=Cody;AZ
 N7CQR=Dan;OR
 N7DC=Danny;VA
@@ -4826,7 +4830,7 @@ VK3CWB=Moz;1895
 VK3ELT=Roger;VK
 VK3GDM=David;VK
 VK3GQ=Peter;3344
-VK3OU=Andrew;VK
+VK3OU=Andy;3386
 VK3QB=Chris;2949
 VK4AQ=Rossco;VK
 VK4TJF=James;1191
@@ -5233,6 +5237,7 @@ W4RM=Bill;2330
 W4RN=Mike;585
 W4RVU=Phil;FL
 W4SAA=Joe;FL
+W4SGN=Steve;VA
 W4SIG=Kerry;1700
 W4SKB=Steve;CA
 W4SPR=Spray;2259

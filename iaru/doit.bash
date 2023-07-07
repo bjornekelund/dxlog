@@ -30,6 +30,7 @@ BEGIN {
 
 unix2dos -q $OUTFILE
 cp $FOLDER/$XDTFILE .
+cp $FOLDER/$XDTFILE ../xdt
 
 echo Created $OUTFILE $XDTFILE
 

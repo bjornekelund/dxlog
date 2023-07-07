@@ -8,4 +8,6 @@ curl -s https://hsc.dj1yfk.de/db/hsc.xdt --output hsc.xdt
 
 echo Downloaded $DBFILE and $XDTFILE
 
+cp $XDTFILE ../xdt
+
 exit

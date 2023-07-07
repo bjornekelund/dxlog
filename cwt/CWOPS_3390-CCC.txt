@@ -1,13 +1,14 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-03
+# Last Edit,2023-07-06
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
 # CWOPS
-
+K2D,Pete,8,W1RM
+K2B,Jim,1,N3JT
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -859,7 +860,7 @@ G0PNM,Peter,,Cornwall England
 G0RDO,John,,Newton Abbot Devon Egnland
 G0TPH,Al,2956,Desford England (Been heard QRP)
 G0TRT,Cie,CWA,Warminster England (QRP)
-G0TZZ,Chris,,Sporte England
+G0TZZ,Chris,3387,Sporte England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England
 G0VQW,Sandy,,Swindon Wiltshire
@@ -1246,6 +1247,7 @@ JN1THL,Ken,161,Tokyo Japan (Director)
 JN1WFF,Naoki,,Tochigi
 JO1LVZ,OM,,Saitama Japan
 JO4JFH,Hiro,,Okayama Japan
+JP3REM,Bill,3390,Osaka Japan
 JR1NHD,Shin,,Kawasaki Kanagawa Japan
 JS1DEH,YU,,Tochigi Japan
 JS2AHG,Astu,141,Mishima City Japan
@@ -1426,6 +1428,7 @@ K1RF,Steve,3003,Norwalk CT
 K1RH,Steve,1003,Westminster MD
 K1RI,Bob,RI,North Scituate RI
 K1RID,Ed,2846,Kittery ME
+K1RIF,Dick,MA,
 K1RM,Vin,116,Plainville CT
 K1RO,Mark,1306,Newport NH
 K1RV,Pi,639,Abington MA
@@ -1495,7 +1498,6 @@ K2KQ,Don,192,Pleasantville NY
 K2KRG,Steve,1926,Canandaigua NY (Occ. /M or QRP)
 K2KRG/M,Steve,1926,
 K2KW,Ken,80,Evington VA
-K2L,Dave,1208,(WN4AFP)  Greenville SC
 K2LE,Andy,39,Manhasset NY
 K2LNS,Herb,2208,Wilkes Barre PA
 K2LP,Bud,MA,Eastham MA
@@ -3559,6 +3561,7 @@ N7AKG,Alan,OR,Gresham OR
 N7AUE,Muley,3237,(Jim)  Reno NV
 N7AWE,Jim,ID,Rathdrum ID
 N7BV,Chuck,WA,Port Angeles WA
+N7BVY,Steve,WA,SeatleWA
 N7CLP,Cody,AZ,Gilbert AZ
 N7CQR,Dan,OR,Portland OR
 N7DC,Danny,VA,Reva VA
@@ -4847,7 +4850,7 @@ VK3CWB,Moz,1895,(Maurie) Mildura Australia
 VK3ELT,Roger,,Upwey Vic Australia
 VK3GDM,David,,Melbourne Australia
 VK3GQ,Peter,3344,Montrose Australia
-VK3OU,Andrew,,Eltham Ausralia
+VK3OU,Andy,3386,Eltham Ausralia
 VK3QB,Chris,2949,Foster Austrilia
 VK4AQ,Rossco,,Innisfail Australia
 VK4TJF,James,1191,Stafford Heights Australia (OC Amb.)
@@ -5258,6 +5261,7 @@ W4RVU,Phil,FL,The Villages FL
 W4SAA,Joe,FL,Okeechobe FL
 W4SIG,Kerry,1700,Collierville TN
 W4SKB,Steve,CA,Kennesaw CA
+W4SGN,Steve,VA,Springfield VA
 W4SPR,Spray,2259,(Steve) Stuart FL
 W4SSF,Stan,TN,Lenoir City TN
 W4SV,Doc,3155,Townsend TN
