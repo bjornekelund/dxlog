@@ -1,10 +1,11 @@
 !!Order!!,Call,Name,Sect,UserText
 # File will be updated until contest
-# Info from 2021 results fixed stations plus all IOTA announced.
+# Info from 2022 results fixed stations plus all IOTA announced.
 # Info from NG3K RSGB Iota Contest Announced operations 2021
 # Info from OPDX Bulletin
+# Thanks Rob G4LMW for update
 # IOTA
-# Last Edit,2023-07-04
+# Last Edit,2023-07-09
 # RSGB IOTA contest, 
 # Send info, correction direct to ve2fk@arrl.net
 # Thanks to       for new info.
@@ -93,7 +94,7 @@
 9A8CV,JANEZ,EU136,Krk 
 9A8DV,,EU016,Drvenik Veli Croatia
 9A8M,,EU136,Krk
-9A8TQF,,EU136,
+9A8TQF,,EU170,
 9A8ZRS,,EU110,Sveti Ivan
 9H,,EU023,
 9H3DD,,EU023,Malta
@@ -296,7 +297,7 @@ EA6CA,,EU004,Balearic Islands
 EA6XQ,,EU004,Balearic Islands
 EA6ZS,,EU004,Mallorca and satellite islands
 EA8,,AF004,
-EA8AQV,,SG004,Gran Canaria LP
+EA8AQV,,AF004,Gran Canaria LP
 EA8CNR,,AF004,Gran Canaria LP
 EA8NQ,,AF004,Tenerife
 EA8NR,,AF004,Tenerife
@@ -393,7 +394,7 @@ FW,,OC054,
 G,,EU005,Great Britain,
 G0LKS,,EU120,Holy HP 24H
 G2F,,EU005,Great Britain,
-G2L,,EU124,Holy,
+G2L,,EU005,Holy,
 G3P,MIKE,EU005,Great Britain,
 G3Q,STEWART,EU005,Great Britain,
 G3RCV,,EU011,
@@ -434,7 +435,7 @@ GM0B,,EU123,Isle of Bute,
 GM0FGI,TOM,EU123,Isle of Bute,
 GM0HTT,ALAN,EU009,Orkney,
 GM0OGN,,EU010,Isle of Barra,
-GM0UKZ,,EU123,Isle of Arran,
+GM0UKZ,,EU005,Isle of Arran,
 GM0WAT,,EU010,Lewis & Harris
 GM0WED,,EU009,Orkney Islands,
 GM1J,JIM,EU092,Tanera Mor
@@ -466,7 +467,7 @@ GM9N,,EU123,Great Cumbrae,
 GS0AAA,,EU012,Shetland,
 GS3BSQ,,EU012,Shetland Island (Aberdeen ARS),
 GS6NX,,EU008,Isle of Gigha M1
-GS8VL,,EU010,
+GS8VL,,EU005,
 GU,,EU114,Guernsey,
 GU0UVH,,EU114,Alderney,
 GU3HFN,,EU114,Guernsey ARS
@@ -504,6 +505,7 @@ HQ8ID,,NA223,
 HQ9R,,NA057,
 HS1CKC,,AS107,
 HS8HEX,HAW,AS053,Phuket Island,
+I/DL3NC,,EU031,
 I3BQC,,EU131,Fisolo,
 IA5K,,EU028,
 IA5Z,,EU028,Capraia,
@@ -557,7 +559,7 @@ IT9,,EU025,Sicily,
 IT9BLB,,EU025,Sicily,
 IT9MUO,ALF,EU025,Sicily 
 IT9RBW,,EU025,Sicily,
-IT9RZU,,EU026,Sicily CW LP
+IT9RZU,,EU025,Sicily CW LP
 IT9VDQ,,EU025,Sicily,
 IT9YVO,,EU025,Sicily,
 IU1KZX,,EU028,Elba LP SSB 40-10m
@@ -593,7 +595,7 @@ JA6BZI,,AS077,Kyushu,
 JA6CVR,,AS077,Kyushu,
 JA6GMC,,AS077,Kyushu,
 JA6LCJ,,AS012,Amakusa Kami,
-JA6WJL,YASU,AS040,Fukye
+JA6WJL,YASU,AS077,Kyushu,
 JA8COE,TAKA,AS078,Hokkaido Island,
 JD,,AS007,Honshu,
 JD1BIA,,AS031,Chichi,
@@ -730,7 +732,7 @@ M6W,,EU005,Great Britain,
 M6Z,,EU005,Great Britain,
 M7A,,EU005,Great Britain,
 M7X,,EU120,Isle of Wight,
-M8C,,EU011,St Marys HP QRV 
+M8C,,EU111,St Marys HP QRV 
 M8Y,,EU005,
 M9K,SIMON,EU005,Great Britain,
 M9R,,EU005,Great Britain,
@@ -758,7 +760,7 @@ MJ8C,,EU099,Minkes Reef LP
 MK1K,DOMINIC,EU011,St-Agnes Island,
 MM0AMW,,EU005,Great Britain,
 MM0BQI,JIM,EU092,Tanera Mor,
-MM0JTV,,EU010,Barra LP
+MM0JTV,,EU005,Barra LP
 MM0TAI,,EU005,Great Britain,
 MM0TFU,,EU123,Isle of Arran
 MM1DJJ,,EU005,Great Britain,
@@ -794,7 +796,7 @@ N4XU,,NA058,St Simons
 N9EAJ,,NA055,Deer Isle CW-SSB 
 NH2T,,OC026,
 NL0H,,NA040,St Lawrence Alaska
-NL8F,TIM,NA055,Unalaska,
+NL8F,TIM,NA059,
 NN7SS,,NA065,Vashon W7BRS HP
 NP2X,,NA106,,St Croix HP
 NP3CW,JULIO,NA099,
@@ -848,7 +850,7 @@ OZ0TX,,EU125,Mando,
 OZ1ACB,,EU029,Sjaelland,
 OZ1HHH,,EU029,Sjaelland,
 OZ1IKY,,EU029,Sjaelland,
-OZ1IVA,,EU029,Sjaelland,
+OZ1IVA,,EU088,
 OZ1JFK,BRIAN,EU171,Vendsyssel-Thy,
 OZ1JTE,,EU029,Sjaelland,
 OZ1JVX,ARNE,EU171,Vendsyssel-Thy Nordjylland,
@@ -1001,7 +1003,7 @@ SM2BJT,,EU139,Seskaro,
 SM7CIL,ARNE,EU037,Oland,
 SM7ZAU,,EU037,
 SN0EG,,EU129,Usedom,
-SN0RX,,EU132,Wolin  
+SN0RX,,EU132,Wolin,DJ0IF CW 
 SN1A,,EU132,Wolin,
 SN1D,,EU132,Wolin,
 SO1RE,,EU132,Wolin,

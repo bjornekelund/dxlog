@@ -1,4 +1,4 @@
-Parsing ../naqp/NAQPCW.txt
+Parsing ../naqp/NAQPCWb.txt
 !!Order!!,Call,Name,State,UserText, --> state=0
 Ignored: C6AZM,JUAN,C6,
 Ignored: CO2KY,JOSE,CM,

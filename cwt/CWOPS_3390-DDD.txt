@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-06
+# Last Edit,2023-07-07
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -295,6 +295,7 @@ AE4QQ,Dave,1625,Bainbridge GA
 AE4RM,Roger,FL,Lakeland FL
 AE4Y,Kent,2002,Hendersonville NC
 AE5DT,Dennis,TX,Gilmer TX
+AE5JT,Jeff,3389,Fort Worth TX
 AE5WD,Clark,TX,McKinney TX
 AE5X,John,TX,Kingwood TX
 AE5XQ,Dave,TX,Frisco TX
@@ -2307,7 +2308,7 @@ KB3AAY,Ron,1866,Sykesville MD
 KB3CT,Matt,PA,Beaver Falls PA
 KB3FW,Harv,2982,Bluffton SC
 KB3ML,Paul,1495,Altoona PA
-KB3RC,Ken,PA,Belleville PA  (Broad Mountain RC)
+KB3RC,Ken,3378,(K3JWI) Belleville PA  (Broad Mountain RC)
 KB3SAR,Jason,2875,Watertown NY
 KB3VQL,Jay,PA,Scott Township PA
 KB3WFQ,ROB,PA,SCHWENKSVILLE PA

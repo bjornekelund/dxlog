@@ -1,7 +1,7 @@
 # Missouri QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-06-10
+# Last updated 2023-07-09
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -2592,7 +2592,6 @@ K5FP=TX
 K5FR=TX
 K5FUV=AR
 K5FXB=AR
-K5GA=TX
 K5GAT=TX
 K5GE=TX
 K5GH=TX

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2023-06-06
+# 1-Last Edit,2023-07-09
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK 
 # 4-Thanks Bob N7WY for CW-SSB update
@@ -2650,7 +2650,6 @@ K5FR,,TX,
 K5FUV,BILL,AR,
 K5FXB,,AR,
 K5FZ,RICH,MS,
-K5GA,BILL,TX,
 K5GAT,,TX,
 K5GDX,RAY,MS,
 K5GE,,TX,

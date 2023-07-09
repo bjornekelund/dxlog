@@ -1,7 +1,7 @@
 # Colorado QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-06-10
+# Last updated 2023-07-09
 4U1WB=MASA;DC
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
@@ -2530,7 +2530,6 @@ K5FR=;TX
 K5FUV=BILL;AR
 K5FXB=;AR
 K5FZ=RICH;MS
-K5GA=BILL;TX
 K5GAT=;TX
 K5GDX=RAY;MS
 K5GE=;TX
