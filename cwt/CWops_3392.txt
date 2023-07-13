@@ -1,14 +1,13 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-07
+# Last Edit,2023-07-12
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
 # CWOPS
-K2D,Pete,8,W1RM
-K2B,Jim,1,N3JT
+
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -79,6 +78,7 @@ AA0IZ,Jack,2943,Newberg OR
 AA0O,Pat,2626,Saint Petersburg FL
 AA0RS,Dave,2222,Platteville CO
 AA0YY,Mark,2809,Pacific MO
+AA0Z,Kyle,3392,Saint Louis MO
 AA1K,Jon,2055,Felton DE
 AA1TJ,Mike,VT,Roxbury VT
 AA1V,Don,53,Scituate MA
@@ -318,6 +318,7 @@ AF3K,John,2186,Naples FL
 AF4FG,Earl,GA,Lawrenceville GA
 AF4NC,Tom,1521,Yardley PA
 AF4PS,Henry,FL,Tempa FL
+AF4PX,Darrell,GA,Kingston GA 
 AF4QK,Ken,2746,Stedman NC
 AF4T,Doug,2675,Johnson City TN
 AF5CC,John,1675,Lawton OK
@@ -1282,7 +1283,7 @@ K0DXC,Cal,152,Jackson OH
 K0EHR,Mark,CO,Littleton CO
 K0EJ,Mark,2016,Hixson TN
 K0ERE,Bill,AZ,Sun City AZ/Winter
-K0ES,Jerry,CO,Englewood CO
+K0ES,Jerry,CWA,Englewood CO
 K0EU,Ken,CO,Denver CO
 K0EX,Mark,667,Colorado Springs CO
 K0FG,Fred,1893,Sunrise Beach MO
@@ -2157,6 +2158,7 @@ K9CW,Drew,979,Thomasboro IL
 K9DSD,Dave,CO,Colorado Springs CO
 K9DUR,Ray,IN,West Terre Haute IN
 K9DX,John,184,N Barrington IL
+K9EI,Matt,3391,Ellettsville IN
 K9EU,Erik,886,Naperville IL
 K9EXY,Rick,IN,Evansville IN
 K9FD,Merv,IL,Waterloo IL
@@ -2786,6 +2788,7 @@ KN4RNO,Carl,GA,Sharpsburg GA
 KN4VCE,Mike,VA,Woodbridge VA
 KN4VV,John,2331,Fairfax VA
 KN4YRM,Randy,2930,Plantation FL
+KN4YTA,Matt,NC,Lillington NC
 KN5A,AL,TX,Houston TX
 KN5CWO,,,Delta CWops Club (West Monroe LA)
 KN5O,Ted,LA,Covington LA
@@ -2837,6 +2840,7 @@ KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ3H,Tony,NC,Greensboro NC
+KQ4DAP,Cainan,GA,Perry GA
 KQ4R,Ed,FL,Port Orange FL
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7W,Matt,WA,Port Orchard WA
@@ -3641,6 +3645,7 @@ N8HHG,Paul,OH,Northfield Center OH
 N8HM,Paul,DC,Washington DC
 N8HN,Stan,3295,Ortonville MI
 N8HP,Ed,OH,Middletown OH
+N8HWV,Todd,WI,Green Bay WI
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
@@ -3753,6 +3758,7 @@ NB7M,John,WA,White Salmon WA
 NB7O,Kevin,3112,Hermiston OR
 NB8Q,Ron,MI,Flat Rock MI
 NC1M,Hugh,1668,Wesford MA
+NC2M,George,NY,Jamaica Estates NY
 NC1V,Mike,MA,Andover MA
 NC3I,Doug,WA,Seattle WA
 NC3J,Bob,MD,Fallston MD
@@ -5156,7 +5162,7 @@ W3TB,Ted,2477,Franklin TN
 W3TMZ,Jack,FL,Lecanto FL
 W3TW,Tom,1972,Huntington Station NY
 W3UA,Gene,2435,Bedford NH
-W3UL,Bill,1699,Annapolis MD
+W3UL,Bill,1699,Kennett Square PA
 W3UR,Bernie,26,Glenwood MD
 W3US,Rusty,2668,The Villages FL
 W3WH,Bill,PA,Houston PA
@@ -5909,6 +5915,7 @@ WF5K,Mal,LA,Mandeville LA
 WF6F,Ken,2386,Irvine CA
 WF7T,Brad,729,Nashville TN
 WG0M,Mike,1612,Minnetonka MN
+WG0MEZ,Greg,AL,Daphne AL
 WG3J,Eric,2473,Pittsville MD
 WG5H,Curt,1931,Houston TX
 WG5J,Darin,TX,Red Oak TX

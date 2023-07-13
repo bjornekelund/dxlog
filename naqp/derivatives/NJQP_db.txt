@@ -1,7 +1,7 @@
 # New Jersey QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-07-09
+# Last updated 2023-07-13
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -2754,7 +2754,7 @@ K6DT=CA
 K6DTT/1=ME
 K6DV=CA
 K6EFA=CA
-K6EI=CA
+K6EI=WA
 K6EID/4=GA
 K6EID=CA
 K6ELE=CA
@@ -8267,7 +8267,7 @@ N7WIT=WA
 N7WLC=CA
 N7WR=OR
 N7WW=WA
-N7WY=MO
+N7WY=WI
 N7XB=OR
 N7XCZ=NV
 N7XD=WY
@@ -11159,7 +11159,7 @@ W3UC=MD
 W3UG=MD
 W3UI=PA
 W3UJ=MD
-W3UL=MD
+W3UL=PA
 W3ULS=VA
 W3UM=PA
 W3UN=MD
