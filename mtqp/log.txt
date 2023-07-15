@@ -1,2 +1,2 @@
-Parsing ../naqp/NAQPCWb.txt
+Parsing ../naqp/NAQPCWc.txt
 Created MTQP_db.txt

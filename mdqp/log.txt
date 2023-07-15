@@ -1,4 +1,4 @@
-Parsing ../naqp/NAQPCWb.txt
+Parsing ../naqp/NAQPCWc.txt
 Ignored: 7L1WII,SAM,
 Ignored: 8P5A,TOM,
 Ignored: 8P6AM,KEITH,

@@ -1,4 +1,4 @@
-Parsing ../naqp/NAQPCWb.txt
+Parsing ../naqp/NAQPCWc.txt
 Ignored: C6AZM,JUAN,C6,
 Ignored: CO2KY,JOSE,CM,
 Ignored: FS/G4HSO,PETER,FS,

@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-12
+# Last Edit,2023-07-14
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -318,7 +318,7 @@ AF3K,John,2186,Naples FL
 AF4FG,Earl,GA,Lawrenceville GA
 AF4NC,Tom,1521,Yardley PA
 AF4PS,Henry,FL,Tempa FL
-AF4PX,Darrell,GA,Kingston GA 
+AF4PX,Darrell,3393,Kingston GA 
 AF4QK,Ken,2746,Stedman NC
 AF4T,Doug,2675,Johnson City TN
 AF5CC,John,1675,Lawton OK
@@ -2823,6 +2823,7 @@ KP2M,Phil,,Christiansted VI
 KP2Q,John,466,(K3CT)  St-Croix
 KP3N,Oz,3176,Carolina PR
 KP3SK,Angel,1792,Manassas VA (Fajardo PR)
+KP3U,Sam,SC,Duncan SC
 KP3W,Jose,1499,San Juan PR
 KP4/AC6ZM,Juan,2419,
 KP4/KZ5D,Art,12,
@@ -2937,6 +2938,7 @@ KX3H,Tony,2900,Waukesha WI
 KX4CWO,,,Roanoke CWops Club (Spotsylvania VA)
 KX4FZ,Terry,2737,Bradenton FL
 KX4UI,Bill,CWA,Hosford FL
+KX4Z,Gordon,NC,Newberry FL
 KX6A,Mike,1782,Newport Beach CA
 KX6X,Ken,AZ,Sierra AZ
 KX7M,Denny,NV,Carson City NV
@@ -3348,6 +3350,7 @@ N4GG,Hal,2288,Woodstock GA
 N4GJ,Wink,SC,Little River SC
 N4GK,Jim,AL,Decatur AL
 N4GL,Marty,1644,Ocala FL
+N4GO,Jay,3239,(ex:W4ZXT)  Richmond KY
 N4GU,Mike,737,Raleigh NC
 N4HAI,Tom,1099,Westerville OH
 N4HOE,Hal,3060,Ocala FL
@@ -3388,6 +3391,7 @@ N4OX,Bill,FL,Mc David FL
 N4PD,Paul,663,Leesburg VA
 N4PIR,Gary,1936,Greenville NC
 N4PJ,Art,1011,Leesburg FL
+N4PV,Bert,AL,Aubum AL
 N4PX,Ace,TN,(ARC)  Savannah TN
 N4QI,GEORGE,SC,Myrtle Beach SC
 N4QS,Dave,1653,Paducah KY
@@ -3957,7 +3961,7 @@ NT2J,Alex,NY,Nyack NY
 NT4K,CJ,FL,Winter Springs FL
 NT5I,Dennis,LA,New Orleans LA
 NT5PH,Pat,TX,Carrollton TX
-NT6Q,Marko,CA,(N5ZO) (1224) Calif. Alligators Contest Club (Escondido)
+NT6Q,ZO,CA,(N5ZO) (1224) Calif. Alligators Contest Club (Escondido)
 NT6X,Mike,167,Santa Ana CA
 NT7R,Steve,FL,Lakeland FL
 NT8B,Leon,VA,Falls Church VA
@@ -5294,9 +5298,9 @@ W4WXA,Tom,GA,Warner Robins GA
 W4XO,Lex,2217,(Alexis) Grantville GA
 W4YE,Buddy,396,Wirtz VA
 W4YES,Glenn,TN,Nashville TN
+W4YGT,Tom,FL,La Crosse FL
 W4YTG,Tom,TN,La Crosse TN
 W4ZGR,Peter,2850,Palm City FL
-W4ZXT,Jay,3239,Richmond KY
 W4ZYT,Don,55,Virginia Beach VA
 W5AG,Arch,LA,Lafayette LA
 W5AL,Roger,2412,(ex W6LAX) La Vernia TX
@@ -6056,7 +6060,7 @@ WY0M,Mike,MO,Saint Louis MO
 WY6K,Mike,2181,Parker TX
 WY7CWO,,WY,Rocky Mountain CWops Club (Cheyenne WY)
 WY7M,Chuck,WY,Worland WY
-WZ0W,Scott,MO,Moscow Mills MO
+WZ0W,Scott,3394,Moscow Mills MO
 WZ4M,Tom,CWA,Davidson NC
 WZ6T,Dave,CA,Vacaville CA
 WZ8P,Ev,OH,Zanesville OH

@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3392
-# Last updated 2023-07-13
+# Contains members up to #3394
+# Last updated 2023-07-15
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -312,7 +312,7 @@ AF3K=John;2186
 AF4FG=Earl;GA
 AF4NC=Tom;1521
 AF4PS=Henry;FL
-AF4PX=Darrell;GA
+AF4PX=Darrell;3393
 AF4QK=Ken;2746
 AF4T=Doug;2675
 AF5CC=John;1675
@@ -2808,6 +2808,7 @@ KP2M=Phil;KP2
 KP2Q=John;466
 KP3N=Oz;3176
 KP3SK=Angel;1792
+KP3U=Sam;SC
 KP3W=Jose;1499
 KP4/AC6ZM=Juan;2419
 KP4/KZ5D=Art;12
@@ -2920,6 +2921,7 @@ KX2P=Jeff;2676
 KX3H=Tony;2900
 KX4FZ=Terry;2737
 KX4UI=Bill;CWA
+KX4Z=Gordon;NC
 KX6A=Mike;1782
 KX6X=Ken;AZ
 KX7M=Denny;NV
@@ -3329,6 +3331,7 @@ N4GG=Hal;2288
 N4GJ=Wink;SC
 N4GK=Jim;AL
 N4GL=Marty;1644
+N4GO=Jay;3239
 N4GU=Mike;737
 N4HAI=Tom;1099
 N4HOE=Hal;3060
@@ -3369,6 +3372,7 @@ N4OX=Bill;FL
 N4PD=Paul;663
 N4PIR=Gary;1936
 N4PJ=Art;1011
+N4PV=Bert;AL
 N4PX=Ace;TN
 N4QI=GEORGE;SC
 N4QS=Dave;1653
@@ -3937,7 +3941,7 @@ NT2J=Alex;NY
 NT4K=CJ;FL
 NT5I=Dennis;LA
 NT5PH=Pat;TX
-NT6Q=Marko;CA
+NT6Q=ZO;CA
 NT6X=Mike;167
 NT7R=Steve;FL
 NT8B=Leon;VA
@@ -5271,9 +5275,9 @@ W4WXA=Tom;GA
 W4XO=Lex;2217
 W4YE=Buddy;396
 W4YES=Glenn;TN
+W4YGT=Tom;FL
 W4YTG=Tom;TN
 W4ZGR=Peter;2850
-W4ZXT=Jay;3239
 W4ZYT=Don;55
 W5AG=Arch;LA
 W5AL=Roger;2412
@@ -6031,7 +6035,7 @@ WY0M=Mike;MO
 WY6K=Mike;2181
 WY7CWO=;WY
 WY7M=Chuck;WY
-WZ0W=Scott;MO
+WZ0W=Scott;3394
 WZ4M=Tom;CWA
 WZ6T=Dave;CA
 WZ8P=Ev;OH
