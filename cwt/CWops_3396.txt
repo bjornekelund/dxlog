@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-14
+# Last Edit,2023-07-16
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -3621,7 +3621,7 @@ N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
 N7VM,Bill,CA,Fallbrook CA
-N7WA,Mike,WA,Kent WA
+N7WA,Mike,3395,Kent WA
 N7WY,Bob,1406,Cheyenne WY
 N7XM,Josh,WV,Dayton NV
 N7YT,Bill,1271,Seabeck WA
@@ -4911,7 +4911,7 @@ W0AJU,Rich,MO,St. Louis MO
 W0BBI,Bill,MO,Branson West MO
 W0BG,Mark,3240,Parker CO
 W0BH,Bob,669,Hesston KS
-W0BM,Byron,MN,Kasson MN
+W0BM,Pat,3396,Kasson MN
 W0BNW,Jim,IA,Boone IA
 W0BR,Bob,PA,Carlisle PA
 W0BV,Bob,753,Buena Vista CO
