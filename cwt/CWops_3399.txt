@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-16
+# Last Edit,2023-07-20
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -363,6 +363,7 @@ AH6V,Jeremy,HI,Ninole HI
 AH6VV,Carl,2300,Honolulu HI
 AH7I/W4,Bob,GA,
 AH7RF,Heather,3272,Honolulu HI (Been heard QRP)
+AH7RF/P,Heather,3272,
 AI0Y,Joe,3254,Nekoma ND
 AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
@@ -2281,6 +2282,7 @@ KA8HDE,Chuck,MN,Andover MN
 KA8SYV,Frank,2430,Charleston WV
 KA9BHD,Bob,1809,Bolingbrook IL
 KA9CAR,John,IL,Crystal Lake IL
+KA9FRH,Tom,CA,Huntington Beach CA
 KA9OUT,Al,3139,Lafayette IN
 KA9P,Scott,1698,Hinsdale IL
 KA9SXV,Joel,2046,Sturgeon BAy WI
@@ -2991,6 +2993,7 @@ LX/DJ1YFK,Fabian,1566,
 LX1NO,Norby,,Strassen Luxembourg
 LY2AX,Arunas,,Kaunas Lithuania
 LY2CO,Rimas,,Mazeikiai Lithuania
+LY4L,Mindis,3398,Kauno raj. Lithuania
 LY5A,Jonas,1459,Siauliai Lithuania
 LY5G,Vitas,1518,Vilnius Lithuania (Mostly QRP)
 LY6A,Rim,LY,Uzusaliai Lithuania
@@ -3204,6 +3207,7 @@ N2GA,George,344,Copiague NY
 N2GC,Mike,821,Huntington NY
 N2GG,Gil,2705,Belen NM
 N2GM,Geo,2808,Hillsdale NJ
+N2HC,Ken,CA,Hollister CA
 N2IC,Steve,1790,Hanover NM
 KP4/N2IC,Steve,1790,
 N2JDQ,Steve,NY,Rochester NY (Been heard QRP)
@@ -3373,7 +3377,7 @@ N4LAG,Andy,CWA,Asheville NC
 N4LSJ,Tom,3094,Cincinnati OH
 N4LW,Bob,CWA,Rockledge FL
 N4NBM,Al,FL,Winter Springs FL
-N4NM,Chuck,1228,Huntsville AL
+N4NM,Chuck,1288,Huntsville AL
 N4NQ,Sid,1611,Lawrenceville GA
 N4NR,Dennis,AL,Pelham AL
 N4NS,Ken,FL,Daytona Beach FL
@@ -3566,6 +3570,7 @@ N6ZD,Gary,CA,Lockwood CA
 N6ZFO,Bill,101,Kelseyville CA
 N6ZI,Al,CA,San Diego CA
 N6ZY,Alan,CA,Penn Valley CA
+N7AAE,Marty,NV,Sparks NV
 N7AKG,Alan,OR,Gresham OR
 N7AUE,Muley,3237,(Jim)  Reno NV
 N7AWE,Jim,ID,Rathdrum ID
@@ -3685,7 +3690,7 @@ N9BX,Bruce,MS,Ocean Springs MS
 N9CB,Larry,TN,Watertown TN
 N9CD,Larry,MN,Lacrescent MN
 N9CK,Steve,1287,Madison WI
-N9CO,Charlie,357,Sycamore IL
+N9CO,Chuck,357,Sycamore IL
 N9CIQ,Jay,WI,Altoona WI
 N9CX,Bill,OH,Gahanna OH
 N9DJ,John,IL,Harvard IL
@@ -4176,6 +4181,7 @@ OP4A,Francis,2429,(ON6LY) Turnhout An Belgium
 OQ3R,Mar,,Ciney Belgium
 OT4V,Danny,2170,(ON4VT)
 OT7T,John,,Merelbeke Belgium
+OV2T,Maarten,,North Jutland Denmark
 OV2V,Per,,Viuf Denmark
 OX3XR,Peter,1116,Nuuk Greenland
 OY1CT,Carsten,797,Kvivik Faroe Islands
@@ -4248,8 +4254,9 @@ PA7CG,Kees,,Netherlands
 PA7RA,Rien,284,Bergen op Zoom Netherlands
 PA8MM,Victor,,Purmerend Netherlands
 PA9WOR,Bart,,Apeldoorn/Almelo Netherlands
-PC4H,Henk,,Hoofddorp Netherlands
+PC4H,Henk,3399,Hoofddorp Netherlands
 PD2DX,Johan,,Overijssel Netherlands
+PD2R,Maarten,,Netherlands
 PE1RCT,Andreas,3273,Herten Netherlands
 PE2K,Adi,2638,Apeldoorn Netherlands  (Been heard QRP)
 PE5B,Ben,,Haren Netherlands
@@ -4646,6 +4653,7 @@ VA3TMV,Tim,3345,Maryhill ON
 VA3TTB,Chuck,ON,Holland Landing ON
 VA3UKR,Maria,ON,
 VA3WB,Dennis,ON,Oakville
+VA3WGX,Nic,ON,Ottawa OON
 VA3WHU,Carole,2773,Hamilton ON
 VA3YG,Brent,ON,Southampton ON (QRP)
 VA3ZB,Bruce,ON,Sault Ste-Marie ON
@@ -4867,6 +4875,7 @@ VK4AQ,Rossco,,Innisfail Australia
 VK4TJF,James,1191,Stafford Heights Australia (OC Amb.)
 VK4TT,Keith,,Wynnum North
 VK5EEE,Lou,,Findon Australia
+VK5GG,Graeme,3397,Christie Downs  Australia
 VK5PL,Dave,CWA,Williamstown Australia
 VK6ANC,Mark,1224,N5ZO
 VK6GX,Phil,2425,Gidgegannup Australia
@@ -5272,7 +5281,7 @@ W4RVU,Phil,FL,The Villages FL
 W4SAA,Joe,FL,Okeechobe FL
 W4SIG,Kerry,1700,Collierville TN
 W4SKB,Steve,CA,Kennesaw CA
-W4SGN,Steve,VA,Springfield VA
+W4SGN,Steve,CWA,Springfield VA
 W4SPR,Spray,2259,(Steve) Stuart FL
 W4SSF,Stan,TN,Lenoir City TN
 W4SV,Doc,3155,Townsend TN
@@ -5528,6 +5537,7 @@ W8EWH,Mark,2911,Novi MI
 W8FJ,John,201,Plymouth Meeting PA
 W8FK,Terry,CO,Cotopaxi CO
 W8FN,Randy,1864,Columbus NC
+W8FSM,Fred,MI,Fenton MI
 W8GF,Dick,MI,Warren MI
 W8GU,Mark,OH,Uniontown OH
 W8HOG,Jerry,OH,Lynchburg OH
