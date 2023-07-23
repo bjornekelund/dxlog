@@ -96,6 +96,8 @@ DJ1AT,Hartmut
 DJ1MM,Sergej
 DJ1OJ,Heijo
 EA8OM,Heijo
+DJ2HD,Mat
+ZS1AO,Mat
 DJ2MX,Mario
 9A4MX,Mario
 DP4X,Mario
@@ -164,6 +166,9 @@ DK2LO,Olaf
 DK2OY,Manfred
 DK2PZ,Fred
 KD2PZ,Fred
+K2PZ,Fred
+EI2ET,Fred
+G5EF,Fred
 DK2WU,Werner
 DK0TL,Werner
 DK2YL,Siggi
@@ -182,6 +187,7 @@ DK4VW,Ulli
 DK4WA,Andy
 DK4YJ,Matthias
 DK5MB,Tom
+DK5OH,Tim
 DK5ON,Andy
 DK5OS,Olaf
 DK5PD,Heinz Lothar
@@ -210,6 +216,8 @@ DK9IP,Winfried
 DK9OV,Roland
 DK9TN,Christoph
 DL1BUG,Red
+DL1DJH,Dominik
+DN1DH,Dominik
 DL1DVE,Thomas
 DL1GNM,Michael
 DL1GWS,Waldy
@@ -252,6 +260,8 @@ DL2NBU,Peter
 DL2NBY,Tom
 DL2OAP,Thomas
 DL2OE,Mike
+DM2X,Mike
+AI6CF,Mike
 DL2PR,Peter
 DL2QT,Heinz
 DN2MQT,Heinz
@@ -272,6 +282,7 @@ DN1BUX,Kai
 DL3MBG,Christian
 DL3MXX,Olaf
 DL3NC,Marcus
+DL3ON,Leon
 DL3RY,Achim
 DL4FN,Peter
 DL4GBA,Wilfried
@@ -292,6 +303,9 @@ DL4RDJ,Jörg
 DL4VK,Valentin
 DL4YAO,Christoph
 DL4ZA,Willi
+DL5AXX,Ulf
+DM6V,Ulf
+CT9ABV,Ulf
 DL5CW,Andreas
 DL5GAC,Robert
 DL5IC,Hans-Jürgen
@@ -324,6 +338,7 @@ DL6DH,Henning
 DL6EZ,Dieter
 DL6FBL,Ben
 DL6IAK,Mike
+CT7BJG,Mike
 HK1MK,Mike
 AG4RS,Mike
 DL6KVA,Axel
@@ -346,6 +361,7 @@ DL7CX,Olaf
 DL7LIN,Andre
 DL7ON,Fritz
 DL7UGN,Mike
+DM3Y,Mike
 DL7URH,Ragnar
 DL8DXL,Fred
 DL8DYL,Irina
@@ -402,8 +418,6 @@ OU4U,Marc
 DO4OD,Matze
 DO6SR,Robert
 9A5TU,Robert
-EA3KU,Fernando
-EC3A,Fernando
 F5MZN,Olivier
 F5NGA,Francois
 HA1AG,Zoli
@@ -422,6 +436,7 @@ M0CFW,Kazu
 MJ0CFW,Kazu
 K3LR,Tim
 KC1XX,Matt
+KH6YY,Alex
 KU1CW,Alex
 P40C,Alex
 EU1CW,Alex
@@ -429,6 +444,8 @@ V31CW,Alex
 KU7T,Andy
 LX1ER,Joel
 LX1MK,Raymond
+M0SDV,Jamie
+M7K,Jamie
 NN7CW,Wolf
 OE1EMS,Braco
 E77DX,Braco
@@ -439,6 +456,7 @@ OE2GEN,Gerald
 OE2LCM,Günther
 OE2VEL,Wolfgang
 OE5OHO,Oliver
+OE6MBG,Mike
 OE7AJT,Andy
 OE9MON,Carl
 OE2MON,Carl
@@ -479,8 +497,6 @@ PB7Z,Bernard
 PC5A,Aurelio
 PD1RP,Peet
 SP5XVY,Robert
-V51W,Martin
-DJ7KP,Martin
 V51WH,Gunter
 DK2WH,Gunter
 W7VJ,Andrew

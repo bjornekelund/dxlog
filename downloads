@@ -1,10 +1,20 @@
 #!/bin/bash
-DOWNLOADS=agb agcw bcc
 
-for contest in $DOWLOADS; do
-  cd contest
+DOWNLOADS="agb agcw foc hsc dig"
+
+echo $DOWNLOADS
+
+for contest in $DOWNLOADS; do
+  echo doing $contest
+  pwd
+  cd $contest
   ./doit.bash
   cd ..
 done
+
+cd bcc
+./regex-doit.bash
+cd ..
+
 
 exit
