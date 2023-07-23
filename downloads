@@ -1,0 +1,10 @@
+#!/bin/bash
+DOWNLOADS=agb agcw bcc
+
+for contest in $DOWLOADS; do
+  cd contest
+  ./doit.bash
+  cd ..
+done
+
+exit
