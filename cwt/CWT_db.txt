@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3399
-# Last updated 2023-07-21
+# Contains members up to #3400
+# Last updated 2023-07-25
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1029,6 +1029,7 @@ HA5JI=Gyuri;538
 HA5MA=Laci;3286
 HA5NR=Gabor;2471
 HA5UL=Feri;HA
+HA6NL=Laszlo;3400
 HA6OA=Gabi;HA
 HA7AP=Imre;HA
 HA7I=Laci;HA

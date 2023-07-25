@@ -5,13 +5,14 @@
 # Info from OPDX Bulletin
 # Thanks Rob G4LMW for update
 # IOTA
-# Last Edit,2023-07-09
+# Last Edit,2023-07-24
 # RSGB IOTA contest, 
 # Send info, correction direct to ve2fk@arrl.net
 # Thanks to       for new info.
 # Thanks to NA3M/Nick and VE3KI/Rich for the original file
 # This file will be updated until day before contest
 2E0,,EU005,Great Britain,
+2M0VGT,,EU123,Great Cumbrae LP
 2U0GSY,LIONEL,EU114,Guernsey,
 2U0SQL,,EU114,Guernsey
 3B6,,AF001,
@@ -71,6 +72,7 @@
 8S0W,MAGNUS,EU084,Muskoe
 9A/DL3NCI,,EU136,Ilovik HP CW
 9A/DM6EE,Lutz,EU136,Rab Island (Kvarner group)
+9A/OM2FY,,EU170,Pag CW LP
 9A0AA,,EU016,Vis Croatia
 9A0CI,,EU016,Vis
 9A0D,,EU170,Zirje
@@ -85,6 +87,7 @@
 9A3VIS,,EU016,Vis
 9A4A,,EU170,Croatia
 9A4KJ,,EU136,Rab SSB LP 12H
+9A4OP,,EU170,Zlarin DXP QRP
 9A4W,TOM,EU016,Brac
 9A5BDD,IVAN,EU170,Pag
 9A5YY,,EU136,Losinj
@@ -140,6 +143,7 @@ AO8,,AF004,
 AO8NQ,,AF004,
 AY3MI,,AS014,
 AY7X,,SA008,
+B2/BY1AA,,AS158,Xiaochangshan M1 HP
 B4R,,AS135,Qinshan
 B4T,,AS135,Kaishan M2 HP MixMode
 B4X,,AS135,
@@ -244,6 +248,7 @@ CU4DX,,EU175,Graciosa Island Azores
 CU5AQ,,EU175,Sao Jorge
 CY0,,NA063,Ile de sable NS (Canada)
 CY9,,NA094,Ile St-Paul (Canada)
+D3G,,AS060,Paegua Gwangju DX Club
 D4,,AF005,
 D4Z,,AF086,Sao Vincente 
 D6,,AF007,
@@ -255,7 +260,7 @@ DF5A,,EU057,Ruegen CW-SSB
 DF6QC,PETER,EU127,Helgoland
 DG1CMZ,,EU057,
 DG5LAC/P,,EU042,Halling Hooge  SSB HP 
-DK1A,,EU129,Usedom Multi-two
+DK1A,,EU129,Usedom M1
 DK3R,,EU057,Ruegen M1
 DK7YY,,EU057,
 DK8OL,STEFAN,EU042,Sylt
@@ -331,7 +336,7 @@ EI5KF,,EU115,Main Island of Ireland,
 EI7GY,,EU115,Main Island of Ireland,
 EI7M,JOHN,EU115,Main Island of Ireland,
 EI8JX,,EU115,Main Island of Ireland,
-EI9E,,EU115,Main Island of Ireland,
+EI9E,,EU115,Main Island of Ireland M1
 EJ0A,,EU006,Inisheer,
 EJ0GI,,EU006,
 EJ0SR,,EU121,
@@ -399,6 +404,7 @@ G3P,MIKE,EU005,Great Britain,
 G3Q,STEWART,EU005,Great Britain,
 G3RCV,,EU011,
 G3RLE,Bryan,EU005,
+G4ALE,,EU120,Isle of Wight
 G4PVM,Paul,EU005,
 G4R,,EU005,Great Britain,
 G5W,DON,EU005,Great Britain,
@@ -416,7 +422,9 @@ GB4CGS,,EU123,Bute Island,
 GB9IOW,,EU120,Isle of Wight,
 GD,,EU116,Isle of Man,
 GD2NV,,EU116,Isle of Man LP 
+GD3TTC,,EU116,Isle of Man
 GD4RFZ,,EU116,Isle of Man,
+GD6AD,,EU116,Isle of Man
 GD6IA,,EU116,Ilse of Man,
 GG4VMX,,EU005,Great Britain,
 GI,,EU115,Main Island of Ireland,
@@ -426,7 +434,8 @@ GI4JTF,,EU115,Ireland Main Island,
 GI5I,,EU115,
 GI5O,,EU122,Rathlin,
 GJ,,EU013,Jersey,
-GJ2A,,EU013,Jersey 
+GJ2A,,EU013,Jersey
+GJ0KYZ,,EU013,Jersey HP
 GJ3RCV,,EU099,
 GJ8A,,EU013,Jersey DXP LP
 GM,,EU005,Great Britain,
@@ -450,11 +459,12 @@ GM4BJM,,EU010,Uist
 GM4KGK,NORMAN,EU010,Isle of Lewis,
 GM4NFI,,EU008,Fladda,
 GM4SLV,,EU012,Mainland,
+GM4U/P,,EU010,Barra G4SGX CW
 GM5A,,EU005,
 GM5DX,,EU092,Summer Isles
 GM5O,,EU009,Orkney Main,
 GM5TO,,EU123,Isle of Arran,
-GM7A,,EU008,Skye 
+GM7A,,EU008,Lismore M1 
 GM7M,,EU123,Arran M2
 GM7O,ED,EU123,Isle of Arran,
 GM7V,,EU010,Benbecula M2 HP DXP
@@ -529,6 +539,7 @@ IG9Y,,AF019,Lampedusa Italy,
 IH9YMC,,AF018,Pantelleria 12 H
 II3Y,TEAM,EU130,Barbana LP DXP 
 II7P,,EU091,Brindisi Mixed LP 24H
+IJ7DX,,EU073,San Pietro
 IJ7T,,EU073,San Pietro,
 IJ7V,,EU073,San Pietro SSB
 IK8MRA,,EU144,Cirella,
@@ -544,6 +555,7 @@ IP1T,,EU083,Tino,M1 HP
 IP1X,,EU083,Gallinara
 IQ3AZ,,EU130,
 IQ3JT,,EU130,
+IQ3ME/P,,EU131,Lido
 IQ7HK,,EU091,Capezzone,
 IQ7IA,,EU091,Pedagne Italy,
 IR8A,,EU031,Ischia,
@@ -553,7 +565,7 @@ IS0BGL,,EU024,Sardinia,
 IS0BSR,,EU024,Sardinia,
 IS0DCR,,EU024,Sardinia,
 IS0SSY,,EU024,Sardinia,
-IS0SWW,,EU024,SARDINIA
+IS0SWW,,EU024,SARDINIA M1
 IS0XDA,,EU024,Sardinia,
 IT9,,EU025,Sicily,
 IT9BLB,,EU025,Sicily,
@@ -771,6 +783,7 @@ MM3LQK,,EU009,Stronsay,
 MM3N,,EU005,Great Britain,
 MM3T,DOUG,EU123,
 MM8C,,EU111,Ceann Ear Multi 2
+MM8Z,,EU123,Cumbrae
 MM9I,John,EU005,(GM0OPS)
 MN5A,,EU122,Rathlin DXP G3WVG 
 MO0CEF,,EU005,Great Britain,
@@ -805,6 +818,7 @@ NP4AW,,NA099,
 NP4EG,,NA099,Puerto Rico,
 NP4G,,NA099,Puerto Rico,
 OF1TD,,EU096,Korpo
+OG1N,,EU096,Houtskar Berghamn OH2TA
 OG4X,,EU096,
 OG5A,,EU140,Nuokot Finland
 OH0,,EU002,
@@ -842,10 +856,12 @@ OV7X,,EU172,Baage  M1 LP
 OX,,NA018,
 OX3LX,Bo,NA134,Aasiaat Isl.
 OY,,EU018,
-OY1CT,,EU018,Steymoy HP
+OY1CT,,EU018,Steymoy 
 OY1R,,EU018,Regin Faroe Islands,
+OZ/DL5GA,,EU125,Romo LP 12H
 OZ0FR,,EU029,Mon,
 OZ0J,Joe,EU029,Sjaelland
+OZ0ROM,,EU125,Romo DK1VK LP
 OZ0TX,,EU125,Mando,
 OZ1ACB,,EU029,Sjaelland,
 OZ1HHH,,EU029,Sjaelland,
@@ -925,6 +941,7 @@ PP5VX,,SA027,Sao Francisco,
 PQ5M,,SA027,Sao Francisco,
 PR2CI,,SA071,Couves
 PR5D,,SA047,Mel,
+PR6T,,SA080,Tinhare CW FT8
 PS1S,,SA077,Santana 
 PT6T,,SA080,
 PW2G,,SA071,Gatos Island,
@@ -941,6 +958,7 @@ PY0T,,SA010,
 PY5ARP,,SA047,Mel,
 PY5DC,,SA047,Mel 40m,
 PY6RA,,SA023,
+PY8WW,SA060,Cotijuba LP
 R0FA,,AS018,Sakhalin,
 R0LZ,,AS066,Reyneke
 R0MZ,,AS059,
@@ -1000,6 +1018,7 @@ SM0N,Erik,EU084,South Ljustero island
 SM0S,,EU084,Ornoe,
 SM1WXC,,EU020,
 SM2BJT,,EU139,Seskaro,
+SM7/OZ5BAL,,EU137,Hven Mixed mode
 SM7CIL,ARNE,EU037,Oland,
 SM7ZAU,,EU037,
 SN0EG,,EU129,Usedom,
@@ -1073,6 +1092,7 @@ TK5UX,,EU014,Corsica,
 TM1N,,EU064,Noirmoutier LP CW-SSB 
 TM2BI,,EU048,Bell Ile en Mer,
 TM5F,,EU095,Ratonneau
+TM5K,,EU065,Ouessant M2
 TM5KD,,EU048,Ile de Sein,
 TM5OL,,EU032,Oleron HP
 TM5S,,EU068,Ile de Sein DXP mixed LP
@@ -1111,7 +1131,7 @@ VA7FC,Mike,NA036,Vancouver Isl
 VA7ISL,,NA036,Vancouver,
 VA7PX,JOHN,NA075,
 VA7RN,LES,NA036,Vancouver,
-VB2M,RAQI,NA176,Ile aux marteau (Mingan zone2)
+VB2M,RAQI,NA176,Ile aux marteau (Petite) (Mingan zone2)
 VE1DT,GERALD,NA010,Homeville NS,
 VE1TRI,BARRY,NA081,
 VE7ACN,Mike,NA036,Vancouver Isl.
