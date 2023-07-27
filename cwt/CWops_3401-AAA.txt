@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-07-24
+# Last Edit,2023-07-26
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -833,6 +833,7 @@ F8DGY,Chris,3213,Boissile Le Roi France
 F8DML,Bernard,,Dunkerque France
 F8FQX,Nic,1755,France
 F8FSN,Georges,2610,Carpentras France
+F6KRK,Fran,,RadioClub Quentin en Yvelines France
 F8NUH,Jean,,St-Andre Le Gaz France
 FM/VE3DZ,Yuri,21,
 G0AYD,Dave,G,Wiltshire England
@@ -1114,6 +1115,7 @@ I2AZ,Joe,,Milano Italy
 I2CZQ,Peter,,Italia
 I2IFT,John,2704,Seriate Italy
 I2RTF,Piero,621,Brescia BS Italia
+I2VXJ,Gio,,San Colomano al Lambro Italy
 I2WIJ,Bob,2406,Milano Italy
 I5ECW,Vanni,1679,Montale PT Italy
 I5EFO,Emil,1486,Gragnano Lucca Italia
@@ -1471,7 +1473,6 @@ K1XM,Paul,74,Hudson MA
 K1XX,Charlie,FL,(VP2MMF)
 K1YM,John,MA,Carlisle MA
 K1YR,Lou,AZ,Peoria AZ
-K1YT,Bill,44,Stow MA
 K1YY,Bob,1783,Corvallis OR
 K1ZJA,Bill,2645,Asheville NC
 K1ZR,Shane,NH,Sandown NH
@@ -1801,7 +1802,7 @@ K5CM,Con,1662,(Connie) Muskogee OK
 K5CRX,Bob,TX,Allen TX
 K5DP,Mark,3000,Tulsa OK
 K5DQ,Peggy,TX,Santa Fe TX
-K5DU,Susan,TX,Manor TX
+K5DU,Susan,TX,(88)  Manor TX
 K5EDI,Brent,TX,Trophy Club TX
 K5EDM,Greg,1967,Benton AR
 K5EFJ,Emmett,LA,Minden LA
@@ -1825,6 +1826,7 @@ K5IU,Dick,1303,Prosper TX
 K5IX,Dave,1472,Brakettville TX (QRP)(often outdoor)
 K5IZO,John,TX,Houston TX
 K5JK,Tom,CO,Boulder CO
+K5JSG,Jerry,NY,Hamlin NY
 K5JTH,Jim,TX,Weatherford TX
 K5JX,Rene,1003,Weslaco TX
 K5KB,Bill,TX,Medina TX
@@ -1939,7 +1941,7 @@ K6LRC,Bob,CA,Janesville CA (Lassen ARC)
 K6LRN,Rich,CA,Somerset CA
 K6MM,John,11,San Jose CA
 K6MR,Ken,1270,Anderson CA
-K6NA,Glen,CA,Valley Center CA
+K6NA,Glen,548,Valley Center CA
 K6NF,Carol,2939,San Jose CA
 K6NR,Dana,2380,Irvine CA
 K6NV,Bob,675,Truckee CA
@@ -2313,6 +2315,7 @@ KB3AAY,Ron,1866,Sykesville MD
 KB3CT,Matt,PA,Beaver Falls PA
 KB3FW,Harv,2982,Bluffton SC
 KB3ML,Paul,1495,Altoona PA
+KB3ND,Norm,PA,Coraoplis PA
 KB3RC,Ken,3378,(K3JWI) Belleville PA  (Broad Mountain RC)
 KB3SAR,Jason,2875,Watertown NY
 KB3VQL,Jay,PA,Scott Township PA
@@ -2527,7 +2530,7 @@ KE5MI/0,Bill,CO,
 KE5P,Bill,TX,Sherman TX
 KE6CWO,,CA,Southwestern CWops Club (Laguna Niguel CA)
 KE6JAC,Al,2872,San Jose CA
-KE6K,John,AZ,Surprise AZ
+KE6K,John,1427,Surprise AZ
 KE6MT,Rex,CA,Campbell CA
 KE6OIO,Ann,CA,Garden Grove CA
 KE6PY,Steve,3179,Escondido CA
@@ -2815,6 +2818,7 @@ KO4GBD,Aaron,3121,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
 KO4LAO,Jim,3200,Travelers Rest SC
 KO4O,Roger,AL,Trinity AL
+KO4OL,Al,KY,Richmond KY
 KO4UHE,Rick,KY,Danville KY
 KO4TFK,Steve,3373,Suwanee GA  (Been heard QRP)
 KO4VW,Steve,3096,Roswell GA
@@ -3267,6 +3271,7 @@ N3BQ,Jack,3199,Dover PA
 N3BXY,David,IL,Lake Forest IL
 N3CI,Dave,2010,Choctaw OK (Been heard QRP)
 N3CKI,Dave,3012,Calabash NC
+N3CO,Russ,MI,Byron Center MI
 N3CU,Ken,PA,Quarryville PA
 N3CW,Ed,1509,Palm Coast FL
 N3CZ,Vlad,1891,Asheville NC
@@ -3471,6 +3476,7 @@ N5LB,Lionel,1691,Weston Lakes TX
 N5LL,Leslie,TX,San Antonio TX
 N5LNX,Craig,TX,Hurst TX
 N5LYJ,Ken,994,Wichita Falls TX
+N5MI,Mark,TX,Odessa TX
 N5NA,Alan,3354,Midland TX
 N5NHJ,Max,24,Allen TX
 N5NU,Jason,1920,Nacogdoches TX
@@ -3660,6 +3666,7 @@ N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
 N8KH,Ken,FL,Melbourne FL
+N8KLX,Jerry,MI,Utica MI
 N8KMY,Craig,MI,Kalkaska MI
 N8KOM,Steve,MI,Royal Oak MI
 N8KR,Ken,IN,New Haven IN
@@ -4405,7 +4412,7 @@ SM3KMB,Ben,,Nyland Sweden
 SM4ASX,Len,,Orebro Sweden
 SM4DQE,Lars,SM,Ludvika Sweden (also SE4E)
 SM4EMO,Ken,,Kumla Sweden
-SM5ACQ,Don,SM,Vasteras Sweden
+SM5ACQ,Don,1573,Vasteras Sweden
 SM5AJV,Ingo,2097,Vallingby Sweden (also SE5E)
 SM5BKK,Kurt,SM,Ostervala Sweden (also SI5Y)
 SM5CCE,Kjell,169,Tystberga Sweden
@@ -4911,6 +4918,7 @@ VU2CPL,Manoj,3337,Bangalore India
 VU2PTT,Prasad,615,Bangalore India
 VX3TM,Vlad,2543,Ottawa ON
 VY1EI,Eric,YT,Whitehorse YT Canada
+VY1JT,Jim,1,(N3JT) Yukon Canada
 VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Alan,PE,Montagne PE
 W0AAE,Bob,2947,Maple MN
@@ -5181,7 +5189,7 @@ W3UR,Bernie,26,Glenwood MD
 W3US,Rusty,2668,The Villages FL
 W3WH,Bill,PA,Houston PA
 W3WHK,Saul,1392,Philadelphia PA
-W3WL,Wes,GA,Roswell GA
+W3WL,Wes,868,Roswell GA
 W3WW,Don,896,Jensen Beach FL
 W3YJ,Harry,PA,Pittsburg PA
 W3YQ,Tim,1742,Elkins WV
@@ -5778,6 +5786,7 @@ WA9JBR,Jon,LA,Baton Rouge LA
 WA9LEY,Lee,1304,Orland Park IL (Occ. QRP + attic ant.)
 WA9LKF,Bob,IL,Dekalb IL
 WA9MNF,ED,2306,Lombard IL
+WA9PWP,Paul,3401,Stoughton WI
 WA9SEO,Mike,1748,Shorewood IL
 WA9TZE,Jim,WI,South Milwaukee WI
 WA9ZZ,Anne,3034,Deer Park WI
