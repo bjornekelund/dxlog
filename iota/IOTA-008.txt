@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations 2021
 # Info from OPDX Bulletin
 # IOTA
-# Last Edit,2023-07-26
+# Last Edit,2023-07-27
 # RSGB IOTA contest, 
 # Send info, correction direct to ve2fk@arrl.net
 # Thanks Rob G4LMW, Paul G4PVM for update
@@ -72,8 +72,9 @@
 8Q,,AS013,
 8S0W,MAGNUS,EU084,Muskoe
 9A/DL3NCI,,EU136,Ilovik HP CW
-9A/DM6EE,Lutz,EU136,Rab Island (Kvarner group)
 9A/OM2FY,,EU170,Pag CW LP
+9A/OM6NM,,EU016,Brac
+9A/S53MR,,EU136,Cres SSB LP
 9A0AA,,EU016,Vis Croatia
 9A0CI,,EU016,Vis
 9A0D,,EU170,Zirje
@@ -92,6 +93,7 @@
 9A4W,TOM,EU016,Brac
 9A5BDD,IVAN,EU170,Pag
 9A5YY,,EU136,Losinj
+9A6SAI,,EU110,Sv Ivan na Puciniu >SSB LP
 9A6V,,EU170,Vrgada
 9A7B,,EU016,Brac
 9A8AMS,,EU110,
@@ -667,8 +669,10 @@ JW2US,,EU063,Svalbard,
 JW5E,,EU026,
 JX,,EU022,
 K1IMI,,NA137,Bailey 
+K1VSJ,,NA046,Martha's Vineyard LP 12H
 K4QQG,,NA110,Hilton Head  SSB
 K7K,,NA070,Kiska Island Alaska  CW-SSB 10-40m
+KB4YPN,,NA083,Tangier
 KD2RD,,NA126,Long
 KG4,,NA015,
 KH0,,OC086,
@@ -804,11 +808,11 @@ MS0YHC,,EU120,Orkney
 MU0FAL,COLIN,EU114,Guernsey,
 MU0GSY,LIONEL,EU114,Guernsey,
 MU2K,,EU114,Guernsey ARS
-MU5E,,EU114,Guernsey GU4YOX CW
+MU5E,,EU114,Guernsey GU4YOX CW HP 12H
 MW1MDH,,EU005,Great Britain,
 MW8T,,EU005,Great Britain,
 MX5A,,EU011,St-Mary's (G3WVG) DXP
-N2GC,,NA026,Long Isl.
+N2GC,,NA026,Long Isl. CW
 N3QQ,,NA065,Whidbey CW SSB
 N4T,,NA079,Tortuga Isl
 N4XU,,NA058,St Simons
@@ -857,6 +861,7 @@ OU2W,,EU029,Sjaelland,
 OU3A,,EU029,
 OU4ZZ,,EU171,Vendsyssel-Thy/Nordjylland,
 OV1CDX,FRANK,EU029,Sjaelland,
+OV2T,,EU171,Vendsyssel Thy Mixed LP 24H
 OV3X,,EU029,Falster,
 OV7X,,EU172,Baage  M1 LP
 OX,,NA018,
@@ -1204,7 +1209,7 @@ VY2LPH,,NA029,Prince Edward Canada,
 VY2OX,,NA029,Prince Edward Canada,
 VY2SS,Robby,NA029,Prince Edward Canada,
 VY2TT,Ken,NA029,Prince Edward CW SSB Canada HP
-W4KAZ,,NA067,Grand LP Cape Lookout NC
+W4KAZ,,NA067,Core Banks M1 Mixed LP
 W4MY,,NA067,Harkers DXP North Carolina
 WB8YJF/4,,NA067,Ocracoke 
 WH2D,,OC026,Guam,
