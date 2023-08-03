@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3402
-# Last updated 2023-08-02
+# Last updated 2023-08-03
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1661,6 +1661,7 @@ K4BKD=Pete;GA
 K4BSK=Earl;3044
 K4CJX=Steve;TN
 K4CWT=;AL
+K4DGJ=Sam;NC
 K4DJ=Rich;NC
 K4DME=Dave;2815
 K4DXV=Steve;1966
@@ -2494,6 +2495,7 @@ KE1F=Lou;769
 KE1J=Lars;2037
 KE2CWO=;NY
 KE2D=Bob;1796
+KE2LW=Ron;NY
 KE2SX=Gregg;NC
 KE2WY=Bob;NY
 KE2YK=Gary;NY
@@ -2839,6 +2841,7 @@ KQ4R=Ed;FL
 KQ7A=Rio;AZ
 KQ7W=Matt;WA
 KR2AA=Eric;2550
+KR2H=Fred;NJ
 KR2Q=Doug;438
 KR3E=Ed;ND
 KR4AE=Alan;1460

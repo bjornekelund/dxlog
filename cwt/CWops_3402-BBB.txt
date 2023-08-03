@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-08-01
+# Last Edit,2023-08-02
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1674,6 +1674,7 @@ K4BKD,Pete,GA,Marietta GA
 K4BSK,Earl,3044,Matthews NC
 K4CJX,Steve,TN,Nashville TN
 K4CWT,,AL,Southeastern CWops Club (Huntsville AL)
+K4DGJ,Sam,NC,Matthews NC
 K4DJ,Rich,NC,Hickory NC
 K4DME,Dave,2815,Emporia VA
 K4DXV,Steve,1966,Louisville TN
@@ -2507,6 +2508,7 @@ KE1F,Lou,769,Palm Coast FL
 KE1J,Lars,2037,South Kingstown RI
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
+KE2LW,Ron,NY,Rochester NY
 KE2SX,Gregg,NC,Wake Forest NC
 KE2WY,Bob,NY,Syracuse NY
 KE2YK,Gary,NY,East Yaphand NY
@@ -2853,6 +2855,7 @@ KQ4R,Ed,FL,Port Orange FL
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7W,Matt,WA,Port Orchard WA
 KR2AA,Eric,2550,Staten Island NY
+KR2H,Fred,NJ,Fair Lawn NJ
 KR2Q,Doug,438,Randolph NJ
 KR3E,Ed,ND,Derwood MD (CWops Outreach Committee Chairman)
 KR4AE,Alan,1460,Cleveland GA (Full Time QRP K3/10 @ 5w)

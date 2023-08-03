@@ -1,11 +1,10 @@
-Parsing ../naqp/NAQPCWc.txt
+Parsing ../naqp/NAQPCW-002.txt
 !!Order!!,Call,Name,State,UserText, --> state=0
 Ignored: C6AZM,JUAN,C6,
 Ignored: CO2KY,JOSE,CM,
 Ignored: FS/G4HSO,PETER,FS,
 Ignored: HH2AA,MATT,HH,
 Ignored: HI2AA,BILL,HI,
-Ignored: HI3MM,CESAR,HI,
 Ignored: HI4MM,OM,HI,
 Ignored: HP1DAV,XX,HP,
 Ignored: HP3SS,ROBBY,HP,
@@ -20,6 +19,7 @@ Ignored: NP2J,DAN,KP2,
 Ignored: NP2X,ED,KP2,
 Ignored: NP3A,ERIC,KP4,
 Ignored: NP3MJ,JUAN,KP4,
+Ignored: NP3Y,PAUL,KP4,
 Ignored: NP4AW,CARLOS,KP4,
 Ignored: NP4BM,,KP4,
 Ignored: NP4Z,PIPE,KP4,
