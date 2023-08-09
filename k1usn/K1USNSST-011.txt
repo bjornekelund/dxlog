@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-<<<<<<<< HEAD:k1usn/K1USNSST-008.txt
-# 1-Last Edit,2023-07-25
-========
-# 1-Last Edit,2023-08-06
->>>>>>>> c518ca1 (Update):k1usn/K1USNSST-010.txt
+# 1-Last Edit,2023-08-08
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L. 
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -589,6 +585,7 @@ AE4Y,KENT,NC,
 AE5AA,EARL,AR,
 AE5B,,TX,
 AE5EO,KEN,TX,Baytown TX
+AE5EZ,ROGER,CWA,Flower Mound TX
 AE5GT,CLINT,TX,
 AE5I,TOM,TX,Madison MS
 AE5K,,AR,
@@ -863,10 +860,7 @@ AL7B,DICK,AK,
 AL7O,,MO,
 AL7O/W0,,MO,
 AL7R,BRENT,AZ,
-<<<<<<<< HEAD:k1usn/K1USNSST-008.txt
-========
 AL7T,DOYLE,MN,Carlos MN
->>>>>>>> c518ca1 (Update):k1usn/K1USNSST-010.txt
 AZ1A,JUAN,DX,Buenos Aires Argentina
 CE1EW,MARI,DX,Copiapo Chile
 CM6SQ,NELSON,DX,Caibarien Cuba
@@ -914,6 +908,7 @@ DL1CWM,Konrad,DX,Helsa Germany
 DL1EAR,Adnreas,DX,
 DL1HR,RALPH,DX,Bad Laasphe Germany
 DL1VJL,WOLFGANG,DX,Goppein Germany
+DL2DBU,NORBERT,DX,
 DL2GWZ,ALEX,DX,Speye Germany
 DL3MIM,MIMMO,DX,Schefflenz Germany
 DL3NAA,PETER,DX,Kehl Germany
@@ -941,6 +936,7 @@ DL9BDM,EILERT,DX,?
 DL9CM,ROLF,DX,Rheinbach Germany
 DL9EBA,PETER,DX,Duisburg Germany
 DL9LM,YURI,DX,Schwerin Germany
+DL9UAS,BERND,DX,(K9UAS)  nr Heidelberg Germany
 DL9UO,MIKE,DX,Ahrensfelde Germany
 DM1AA,ANDRE,DX,Frankfurt am Main Germany
 DM2DX,STEFFAN,DX,Neuburg am Rhein Germany
@@ -1022,6 +1018,7 @@ G0JJI,PETE,DX,Poole Dorset England
 G0KAY,TRYSTAN,DX,Lancashire England
 G0NMY,MARK,DX,Staffordshire England
 G0PZA,GARO,DX,Sunbury on Thames England
+G0TDB,PAUL,DX,Wiltshire England
 G0UJA,James,DX,Kent England
 G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
@@ -1037,6 +1034,7 @@ G3ZBU,AL,DX,Horsham England
 G3ZRJ,TOM,DX,
 G4AIU,EA,DX,Wellington England
 G4EBK,GEORGE,DX,Grimsby England
+G4ETS,JULIAN,DX,Gloucestershire England
 G4FAD,RICH,DX,Hereford England
 G4FKI,DAVE,DX,Bedford England
 G4HLN,LARRY,DX,Somerset England
@@ -1045,6 +1043,7 @@ G4UDG,KRIS,DX,Staffordshire England
 G4VME,RICHARD,DX,Cambridge England
 G4WSQ,JOHN,DX,BH23 Area England
 G4XWJ,TIM,DX,Dorset England
+G4YDL,PAUL,DX,Berkshire England
 G5C,MALCOLM,DX,
 G6GLP,TONY,DX,Devon England
 G8RWG,NIELS,DX,Coulsdon England
@@ -1113,7 +1112,9 @@ IU0PIO/7,LECCE,DX,?
 IU1AUG,Diego,DX,Tavagnasco Italy
 IU3MIK/P,ANDREA,DX,Terviso Italy
 IU5PDY,NAME,DX,Livorno Italy
+IU5PTB,PAOLO,DX,Bibbona Italy
 IU5RFA,SIMONE,DX,Prato Italy
+IV3DDO,GIORGIO,DX,Friuli Venezia Giulia Italy
 IV3VIR,LUCIO,DX,Trieste Italy
 IW0OBX,ROBY,DX,
 IW1CHJ,GIAMPI,DX,Torino Italy
@@ -3335,6 +3336,7 @@ K9DR,DAN,WY,
 K9DRP,DON,IL,Marshall IL
 K9DSD,DAVE,CO,Colorado Springs CO
 K9DSR,RAY,IN,
+K9DTH,RON,IL,Godfrey IL
 K9DU,JIM,MN,
 K9DUR,RAY,IN,
 K9DX,JOHN,IL,
@@ -3815,6 +3817,7 @@ KB2YSI,DON,NY,Hamilton NY
 KB2YVY,OLLIE,NJ,
 KB3AAY,RON,MD,
 KB3BYA,TONY,PA,
+KB3ENW,HARV,SC,
 KB3EOF,SANDY,MD,Middletown MD
 KB3EYY,STEVE,PA,Oakmont PA
 KB3FBR,JOE,PA,Johnstown PA
@@ -4262,6 +4265,7 @@ KC8FS,,WV,
 KC8GCR,GLENN,NC,
 KC8GTA,,MI,
 KC8GTE,KELLY,MI,McMillan MI
+KC8GTX,MIKE,MI,Birmingham MI
 KC8GYW,,OH,
 KC8HKI,,GA,
 KC8HNZ,JASON,OH,
@@ -4337,6 +4341,7 @@ KD0NB,,IA,
 KD0NBF,CHRIS,KS,
 KD0OIX,DWIGHT,KS,
 KD0PYF,AL,WY,
+KD0QV,JIM,IA,Cedar Falls IA
 KD0RC,LEN,CO,Broomfield CO
 KD0S,JIM,SD,
 KD0SU,,CO,
@@ -4560,6 +4565,7 @@ KD9RXU,Harry,IL,Naperville IL
 KD9TSE,CHRIS,MN,Yorkville IL
 KD9TWA,Ken,IL,Evanston IL
 KD9VAY,LARRY,IN,Bremen IN
+KD9VGM,NOAH,WI,Jackson WI
 KE0A,ROD,ND,
 KE0AHD,JOHN,CO,Monument CO
 KE0BZ,,NE,
@@ -4948,6 +4954,7 @@ KG5V,MIKE,CT,
 KG5VK,STEVE,TX,
 KG5WAW,JIM,TX,Rockwall TX
 KG5WJZ,LUKE,TX,Leander TX
+KG5WPZ,TOM,NM,Albuquerque NM
 KG5ZMQ,BOB,LA,
 KG5ZQ,LARRY,OK,
 KG6AY,ART,AZ,
@@ -5203,6 +5210,7 @@ KJ9B,KEN,IN,
 KJ9C,MEL,MT,
 KJ9C/7,MEL,MT,
 KJ9I,,WI,
+KK0DJ,DENNIS,IA,Mason City IA
 KK0ECT,ERIC,CO,Fort Collins CO
 KK0I,JACK,WI,
 KK0Q,,CO,
@@ -5249,6 +5257,7 @@ KK4SNO,SCOTT,VA,Woodbridge VA
 KK4TA,,FL,
 KK4TBC,GREG,NC,Fayetteville NC
 KK4UYT,THOR,VA,
+KK4UZK,JORDAN,VA,Broad Run VA
 KK4VA,KEN,VA,
 KK4WS,TIM,KY,
 KK4WZX,MISHER,NC,
@@ -5885,6 +5894,7 @@ KZ4ZZ,,FL,
 KZ5A,,TX,
 KZ5D,ART,LA,New Ibria LA
 KZ5ED,ERIC,NC,
+KZ5EN,ERIC,NC,
 KZ5H,SETH,TX,Houston TX
 KZ5Z,JOHN,OK,Springer OK
 KZ9DX,ZIGGY,IL,
@@ -8683,6 +8693,7 @@ NZ9R,,IN,
 OE1ALW,Ulf,DX,Vioenna Austria
 OE1TKW,HELMUT,DX,Wien Austria
 OE3IAK,ANDREAS,DX,Wienerherberg Austria
+OE3IDS,WILLI,DX,St.Veit An Der Goelsen Austria
 OE8RVK,ROBERT,DX,Klagenfurt Austria
 OE9NFI,EGON,DX,Bludenz Austria
 OG6B,ZABA,DX,
@@ -8744,6 +8755,7 @@ PY5HOT,Mike,DX,
 PY6AM,TONY,DX,Salvador Brazil
 R2GG,VICTOR,DX,Lipetskaya Russia
 R3TIY,ANDY,DX,Nizhny Novgorod Russia
+R6CV,Val,DX,Krasnodar Russia
 RA1ALS,MAK,DX,St. Petersburg Russia
 RA4ACX,ALEXEY,DX,Volgograd Russia
 RL3P,SLAVA,DX,Tula Region
@@ -8790,6 +8802,7 @@ UR4EZ,VICTOR,DX,Ukraine
 UR5EH,ALEKS,DX,Ukraine
 UR5KHQ,KEN,DX,Rivne Ukraine
 UR5MM,RUDY,DX,Partizanskaya Ukraine
+UT3UY,TOLY,DX,Ukraine
 UX5VK,JURA,DX,Ukraine
 V31MU,MIKE,DX,
 V4/W3UL,BILL,DX,
@@ -8812,6 +8825,7 @@ VA2FB,BOB,QC,
 VA2FDT,BOB,QC,
 VA2GE,MARCEL,QC,Sherbrooke QC
 VA2GU,ROY,QC,
+VA2IDX,ERIC,QC,Mt-St-Hilaire QC
 VA2IU,FRITZ,QC,Montreal QC
 VA2KD,Rolly,QC,(Rollande)  La Tuque QC
 VA2KT,CHRISTIAN,QC,Orford QC
@@ -8820,6 +8834,7 @@ VA2NW,Tom,QC
 VA2NW,TOM,QC,Gatineau QC
 VA2OP,JAY,QC,
 VA2PHK,KICK,QC,
+VA2QDB,DOM,QC,Victoriaville QC
 VA2RAC,DUB,QC,World Amateur Radio Day
 VA2RC,FRANCOIS,QC,
 VA2SG,PETE,QC,
@@ -10092,6 +10107,7 @@ W2BEE,,VA,
 W2BHK,,VA,
 W2BIE,,NY,
 W2BJN,JOEL,AL,
+W2BX,GLEN,NC,Winston Salem NC
 W2CDO,PETER,MD,
 W2CE,,NJ,
 W2CG,,NJ,
@@ -11735,10 +11751,7 @@ W7SOM,JOHN,AZ,Bothell WA
 W7SST,,OR,
 W7SUR,SPENCER,UT,
 W7SW,,AZ,
-<<<<<<<< HEAD:k1usn/K1USNSST-008.txt
-========
 W7SW,,AZ,Sun City West AZ
->>>>>>>> c518ca1 (Update):k1usn/K1USNSST-010.txt
 W7SWB,WILL,WA,Trout Lake WA
 W7SWL,BOB,AZ,
 W7SZ,,WA,
@@ -12892,6 +12905,7 @@ WB1ERE,,NY,
 WB1FJH,STEVE,MA,
 WB1FLA,,MA,
 WB1GQR,,VT,
+WB1GYZ,BOB,CT,Wallingford CT
 WB1LLY,BILLY,GA,Register GA
 WB1WM,BRENT,MA,Rowley MA
 WB2AA,,NJ,
@@ -12909,6 +12923,7 @@ WB2FVR,MIKE,FL,Plant City FL
 WB2IFV/QRP,BOB,NJ
 WB2JEP,ALAN,AZ,
 WB2JNA,,MD,
+WB2JNA,JEFF,MD,Cockeysville MD
 WB2JSM,,NY,
 WB2KAO,TIM,NY,Rochester NY
 WB2KEC,BILL,NY,
@@ -13272,6 +13287,7 @@ WD4LSS,,NC,
 WD4LYV,,GA,
 WD4LZC,STU,KY,
 WD4MRI,ROY,AL,Clumbiana AL
+WD4MSM,BARRY,IN,South Bend IN
 WD5ACR,MATT,CO,
 WD5AGO,,OK,
 WD5BJR,MANNY,LA,
