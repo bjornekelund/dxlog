@@ -349,10 +349,10 @@ DL6NBC,Harry
 DL6NCY,Stefan
 DL6NDW,Horst
 DP8M,Horst
-DL6RAI,Ben
 DL6RBH,Josef
 DL6RBO,Toni
 DL6RDR,Stefan
+DL6WT,Jürgen
 DL7AT,Andy
 DA0T,Andy
 OZ0TX,Andy
@@ -457,6 +457,14 @@ OE2LCM,Günther
 OE2VEL,Wolfgang
 OE5OHO,Oliver
 OE6MBG,Mike
+IU3QMK,Mike
+IB3M,Mike
+KH7XX,Mike
+S79AA,Mike
+9H3SM,Mike
+5Z4AA,Mike
+OE6Z,Mike
+VY2YY,Mike
 OE7AJT,Andy
 OE9MON,Carl
 OE2MON,Carl

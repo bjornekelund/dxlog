@@ -371,6 +371,7 @@ G8DX         2067 Jack
 G8VG          331 Pete
 G9W          2136 Mark (M0DXR)
 GB0DOE       2095 Pete (G3FRR)
+GB0DOG       2191 Chris (G5VZ)
 GB0GKA       2132 Tony (G3ZRJ)
 GB0GKH       2132 Tony (G3ZRJ)
 GB1FOC       2048 Andy (G0IBN)
@@ -484,6 +485,7 @@ GR4BWP       1746 Fred (G4BWP)
 GU4CHY       1855 Dick
 GU4YOX       2014 Bob
 GW3KGV       1309 Ken
+GW4D         2137 Keith (GW4OKT)
 GW4OKT       2137 Keith
 GW8DX        2067 Jack (G8DX)
 GW8VG         331 Pete (G8VG)
@@ -543,7 +545,7 @@ K1BG         2083 Bruce
 K1DG         1801 Doug
 K1DW         2089 Dallas
 K1ESE        2079 John
-K1FOC        1966 Gary (W1EBM)
+K1FOC        2079 John (K1ESE)
 K1GUP        1593 Jerry
 K1JD         1612 John
 K1NVY        2157 Fred
@@ -578,8 +580,9 @@ K4BSK        2190 Earl
 K4EWG        1263 Pete
 K4JJW        1967 Dick
 K4LT         1576 Doug (AD8CW)
-K4OSO        1927 Milt (WX3M)
+K4OSO        1927 Milt
 K4QS         2125 Chuck
+K4T          1177 Tom (K3TW)
 K4UEE        1759 Bob
 K4UX         2183 Al
 K4WJ         1749 John
@@ -612,7 +615,6 @@ K6XG         1868 Dave
 K6ZB         1885 Bruce
 K7FOC        1957 Bill (W7GKF)
 K7HP         2063 Hank
-K7JA         2123 Chip
 K7NJ         1476 Riki
 K7RC         1760 Tom (K5RC)
 K7SV         1866 Larry
@@ -623,7 +625,6 @@ K8MFO        1186 Don
 K8ZH         1549 Rick
 K9DX         1681 John
 K9FN         2001 Dave
-K9QVB        1507 John
 K9UIY        1627 Vic
 K9VKY        2188 Brian
 K9WA         1306 Jim
@@ -660,6 +661,7 @@ KU0K         1979 Bill (K0VBU)
 KU8E         1870 Jeff
 KW7Q         2168 Steve
 KW9N         1830 Pat (N9RV)
+KY4GS        2215 Amanda
 KY7M         1741 Lee
 KZ5D         1761 Art
 LA30EUDXF     494 Rag (LA5HE)
@@ -743,6 +745,7 @@ N4AF         1712 Howie
 N4CJ         1308 Chris (G4BUE)
 N4FOC        1515 Mark (W4CK)
 N4FP         2150 Wayne
+N4JEH        2216 Jenna
 N4TY         1699 Tyler
 N4UB         1490 Don
 N4WJ         1183 Frank
@@ -895,6 +898,7 @@ SC3N         1656 Andy (EA8CN)
 SC80FOC      2084 Jim (SM2EKM)
 SD1A         2021 Eric (SM1TDE)
 SG3TXF       1266 Nigel (OE5TXF)
+SJ6R         2114 Mats (RM2D)
 SK3GK        1656 Andy (EA8CN)
 SM0AHO       1516 Bo (HB9BFQ)
 SM1TDE       2021 Eric
@@ -1171,7 +1175,7 @@ WP3C         1965 Alfredo
 WS0TA        1636 Fred (KT5X)
 WT3A         2097 Bob (DU7ET)
 WW4CW        1749 John (K4WJ)
-WX3M         1927 Milt
+WX3M         1927 Milt (K4OSO)
 XF2LF        1741 Lee (KY7M)
 XP3A         1376 Peter (OX3XR)
 XQ3CJ        2052 Motoaki (JA1GZV)
