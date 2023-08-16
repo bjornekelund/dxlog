@@ -1,7 +1,7 @@
 # Netherlands Telegraphy Club QSO Party database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# Last updated 2023-07-21
+# Last updated 2023-08-16
 5X8C=Anton;154
 9A1AA=Ivo;37
 9A3SM=Mato;136
@@ -15,6 +15,7 @@ DJ3TU=Norbert;146
 DJ5CW=Fabian;99
 DJ7AO=Stefan;105
 DJ9BM=Volker;84
+DK3ABM=Gosse;222
 DK8KK=Karl;79
 DK8RE=Hans;199
 DK9HE=Andy;89
@@ -47,6 +48,7 @@ EA5FID=Juan;67
 EA5IUY=Gary;108
 EA7EGU=Manuel;197
 F5NLX=Jean;41
+F6DXE=Dick;219
 F6JOE=Jean;44
 F8DTU=Frank;49
 F8NUH=Jean;43
@@ -56,6 +58,7 @@ G3J=Mike;115
 G3WZD=Mac;36
 G3XTZ=Graham;166
 G4CPA=Geoff;123
+G4ETS=Julian;220
 G4HLN=Larry;140
 G4RMV=Mike;115
 G4RTJ=Colin;132
@@ -119,6 +122,7 @@ PA0HRM=Hans;182
 PA0HTT=Henk;116
 PA0INA=Frans;183
 PA0JSY=Jan;203
+PA0KBN=Klaas;221
 PA0KGB=Martin;141
 PA0LCE=Louis;139
 PA0M=Thieu;110
@@ -171,6 +175,7 @@ PA3FYE=Jacob;55
 PA3GBK=Aeilko;130
 PA3GEO=Robert;17
 PA3GNZ=Gosse;4
+PA3GSV=Jan;223
 PA3HEB=Marcel;159
 PA3HEN=Theo;3
 PA3HK=Henry;126
