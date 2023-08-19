@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-08-08
+# 1-Last Edit,2023-08-15
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L. 
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -588,6 +588,7 @@ AE5EO,KEN,TX,Baytown TX
 AE5EZ,ROGER,CWA,Flower Mound TX
 AE5GT,CLINT,TX,
 AE5I,TOM,TX,Madison MS
+AE5JT,JEFF,TX,Fort Worth TX
 AE5K,,AR,
 AE5KM,COREY,TX,
 AE5L,AL,OK,
@@ -910,6 +911,7 @@ DL1HR,RALPH,DX,Bad Laasphe Germany
 DL1VJL,WOLFGANG,DX,Goppein Germany
 DL2DBU,NORBERT,DX,
 DL2GWZ,ALEX,DX,Speye Germany
+DL3BBE,HANS,DX,Bad Bentheim Germany
 DL3MIM,MIMMO,DX,Schefflenz Germany
 DL3NAA,PETER,DX,Kehl Germany
 DL3NCR,GEORG,DX,Aspach Germany
@@ -1019,6 +1021,7 @@ G0KAY,TRYSTAN,DX,Lancashire England
 G0NMY,MARK,DX,Staffordshire England
 G0PZA,GARO,DX,Sunbury on Thames England
 G0TDB,PAUL,DX,Wiltshire England
+G0TRT,CIE,DX,Warmiinster England
 G0UJA,James,DX,Kent England
 G1HIU,NORMAN,DX,Suffolk England
 G2CWO,MAC,DX
@@ -1110,6 +1113,7 @@ IN3XSV,STEF,DX,Trento Italy
 IQ1IV,RO,DX,Ivrea Italy
 IU0PIO/7,LECCE,DX,?
 IU1AUG,Diego,DX,Tavagnasco Italy
+IU2ECB,MAURO,DX,Rivolta D'Adda Italy
 IU3MIK/P,ANDREA,DX,Terviso Italy
 IU5PDY,NAME,DX,Livorno Italy
 IU5PTB,PAOLO,DX,Bibbona Italy
@@ -3680,6 +3684,7 @@ KA6W,TED,CA,
 KA6WBQ,,NY,
 KA6WKE,MARK,CA,
 KA7GPP,DAN,WA,Arlington WA
+KA7HPJ,PETER,WA,Goldendale WA
 KA7MDM,GREG,WA,
 KA7SKY,,AZ,
 KA7T,DON,ID,
@@ -3712,6 +3717,7 @@ KA9CAR,JOHN,IL,Crystal Lake IL
 KA9DCU,RAY,WI,Mt Horeb WI
 KA9DVX,JOHN,IL,Princeton IL
 KA9FON,MILT,MI,Hastings MI
+KA9FRH,TOM,CA,Huntington Beach CA
 KA9FZR,FRANK,WI,
 KA9I,JOE,IL,Plainfield IL
 KA9LMK,JOE,MI,
@@ -3835,6 +3841,7 @@ KB3MHB/0,BERT,CO,
 KB3MI,BUTCH,PA,
 KB3MM,,PA,
 KB3MP,,PA,
+KB3ND,NORMAN,PA,Coraopolis PA
 KB3NZJ,,DE,
 KB3P,MIKI,PA,
 KB3PD,,DE,
@@ -4798,6 +4805,7 @@ KF4DUE,,VA,
 KF4DZV,,GA,
 KF4ECG,JAMES,AL,
 KF4FC,FRED,VA,
+KF4GAA,DERREK,FL,Labelle FL
 KF4HAW,Dave,SC,Columbia SC
 KF4HOU,,TN,
 KF4JU,,FL,
@@ -6221,6 +6229,7 @@ N1NN,ROGER,MA,
 N1NQX,,MA,
 N1NUG,ROB,CT,
 N1NY,STAN,PA,New Milford CT
+N1OIE,JOHN,WA,Tenino WA
 N1PKA,MARCIA,NY,Pulaski NY
 N1PRR,GARY,AZ,Litchfield Park AZ
 N1QV,JIM,MA,
@@ -8677,6 +8686,7 @@ NY6Y,GARY,CA,
 NY7N,ANDY,AZ,
 NY7Z,DARREN,ID,
 NY9X,CHRIS,IL,
+NZ0T,BILL,MO,Shell Knob MO
 NZ1D,BILL,FL,Lady Lake FL
 NZ1J,DAVE,CT,
 NZ1R,,MA,
@@ -8772,6 +8782,7 @@ SM5CIL,ARNE,DX,Borghold Sweden
 SM5EDX,JOHN,DX,Vasteras Sweden
 SM6EDG,GEORGE,DX,Floda Sweden
 SM6YNO,HANS,DX,KarlGustav Sweden
+SN9MT,MIREK,DX,Ruda Slaska Poland
 SP2JFY,ANDY,DX,Malbork Poland
 SP2R,DAREK,DX,Czarnowko Poland
 SP3DGV,GENEK,DX,Niegoslawice Poland
@@ -8803,6 +8814,7 @@ UR5EH,ALEKS,DX,Ukraine
 UR5KHQ,KEN,DX,Rivne Ukraine
 UR5MM,RUDY,DX,Partizanskaya Ukraine
 UT3UY,TOLY,DX,Ukraine
+UW5RA,PETR,DX,Ukraine
 UX5VK,JURA,DX,Ukraine
 V31MU,MIKE,DX,
 V4/W3UL,BILL,DX,
@@ -8872,6 +8884,7 @@ VA3IK,BRIAN,ON,
 VA3IR,DAVID,ON,
 VA3JCL,JULIO,ON,
 VA3KA,KEN,ON,
+VA3KEI,KEITH,ON,Metcalfe ON
 VA3KOT,JOHN,ON,Owen Sound ON
 VA3KRJ,ROBERT,ON,Picton Ontario
 VA3KSF,KEITH,ON,Corunna ON
@@ -13561,6 +13574,7 @@ WN5T,Mike,TN,
 WN6K,PAUL,CA,
 WN6M,,CA,
 WN6R,,CA,
+WN6W,SAM,OR,Sherwood OR
 WN7S,DICK,VA,
 WN7T,PAUL,WA,
 WN7Y,RON,MT,
