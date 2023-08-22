@@ -3,24 +3,9 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2023-08-14
+# Last Edit,2023-08-21
 # Medium speed practice contest 20-25 WPM
-# Thanks SM7IUN, N0TA,
-
-K5JSG,JERRY,
-KY4XM,NICK,
-W0BM,PAT,
-NZ0T,BILL,
-WB0RLJ,JIM,
-CO8NMN,NOE,
-K7MSO,MIKE,
-WA3FRF,JOE,
-K4DGJ,SAM,
-K7SHR,PAUL,
-W4RAB,DAVE,
-NM5D,JEREMY,
-K1JH,JIM,
-
+# Thanks SM7IUN, N0TA, KA5M,
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -467,6 +452,7 @@ CO2IR,Frank,1147,La Habana Cuba
 CO2UE,Fred,,Habana Cuba
 CO6RD,Rey,1898,Sancti Spiritus Cuba
 CO8CY,Oriol,,Guantanamo Cuba
+CO8NMN,NOE,
 CO8NMN,Noe,2082,Santiago de Cuba
 CO8ZZ,Raul,1682,Las Tunas Cuba
 CR6K,Fil,2699,(CT1ILT)  S. Martinho da Gandara Portugal
@@ -1391,6 +1377,7 @@ K1IR,Jim,73,Sudbury MA
 K1IRF,Chris,
 K1IU,Bob,IA,Iowa City IA
 K1JD,John,75,Santa FE NM
+K1JH,JIM,
 K1KK,David,NC,Washington NC
 K1KNJ,Reg,ME,Woolwich ME
 K1KS,Al,1561,Lyndonville VT
@@ -1688,6 +1675,7 @@ K4BSK,Earl,3044,Matthews NC
 K4CBW,BRANT,,
 K4CJX,Steve,TN,Nashville TN
 K4CWT,AL,,Southeastern CWops Club (Huntsville AL)
+K4DGJ,SAM,
 K4DJ,Rich,NC,Hickory NC
 K4DME,Dave,2815,Emporia VA
 K4DXV,Steve,1966,Louisville TN
@@ -1842,6 +1830,7 @@ K5IU,Dick,1303,Prosper TX
 K5IX,Dave,1472,Brakettville TX (QRP)(often outdoor)
 K5IZO,John,TX,Houston TX
 K5JK,Tom,CO,Boulder CO
+K5JSG,JERRY,
 K5JTH,Jim,TX,Weatherford TX
 K5JX,Rene,1003,Weslaco TX
 K5KB,Bill,TX,Medina TX
@@ -2044,6 +2033,7 @@ K7MOA,Key,1594,Athens GA
 K7MOA/4,Key,1594,Athens GA
 K7MOT,Key,CA,San Diego Motorola ARC
 K7MQV,JIM,WA,East Wenatchee WA
+K7MSO,MIKE,
 K7NEW,MARK,
 K7NJ,Riki,275,Cedar City UT 
 K7NM,Lee,801,West Point UT
@@ -2063,6 +2053,7 @@ K7RI,Tom,WA,Seattle WA
 K7RL,Mitch,2285,Camano Island WA
 K7RR,Peter,1575,Silverdale WA
 K7SF,Steve,1137,West Linn OR
+K7SHR,PAUL,
 K7SO,Doc,WA,Espanola NM
 K7SS,Dan,2053,Seattle WA
 K7SV,Lar,1004,Spotsylvania VA
@@ -2608,7 +2599,6 @@ KE8GKO,JODY,,OH
 KE8VC,DAVID,MI,Allegan MI
 KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,2972,Oshkosh WI
-KEYEA,DAVE,
 KF0CCU,Mike,MN,Rochester MN
 KF0FFL,DAN,MN,Saint Paul MN
 KF0GE,EARL,MO,Prairie Home MO
@@ -3038,6 +3028,7 @@ KY4FH,Jim,NC,Lumberton NC
 KY4GS,Amanda,SC,Sycamore SC
 KY4GW,Joe,KY,Lawrenceburg KY
 KY4ID,Mike,SC,Trenton SC
+KY4XM,NICK,
 KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
@@ -3980,6 +3971,7 @@ NM2A,Mark,3014,Pulaski NY (Montana for summer)
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
+NM5D,JEREMY,
 NM5G,Keith,2570,Tomball TX 
 NM5M,Eric,974,Plano TX
 NM5N,Sam,2670,Ft Worth TX
@@ -4103,6 +4095,7 @@ NY4A,Gaea,132,Blounts Creek NC (Potomac Valley Radio Club)
 NY4G,Ariel,SC,Travelers Rest SC
 NY4ZZ,Neil,NC,Sneads Ferry NC
 NY6DX,John,NY,Jericho NY
+NZ0T,BILL,
 NZ1D,BILL,
 NZ2Z,Bob,GA,Kennesaw GA
 NZ3O,Byron,2026,West Chester PA
@@ -4518,8 +4511,8 @@ SM6MCW,Peter,2663,(SM6MCW) Axvall Sweden
 SM6MIS,Sten,,Gothenburg Sweden
 SM6NT,Lars,,Vegby Sweden
 SM6X,Len,,Gudhem Sweden (SM6CLU)
-SM6Y,AKE,,
 SM6XHM,Johan,2880,Aligsas Sweden
+SM6Y,AKE,,
 SM6YNO,Hans,,Karlgustav Sweden
 SM7ATL,Ulf,,Kalmar Sweden
 SM7BUA,Mats,1950,Bankeryd Sweden
@@ -5012,6 +5005,7 @@ W0AJU,Rich,MO,St. Louis MO
 W0BBI,Bill,MO,Branson West MO
 W0BET,DARREL,
 W0BH,Bob,669,Hesston KS
+W0BM,PAT,
 W0BNW,Jim,IA,Boone IA
 W0BR,Bob,PA,Carlisle PA
 W0BV,Bob,753,Buena Vista CO
@@ -5383,6 +5377,7 @@ W4PQ,JACK,FL,Naples FL
 W4QDV,DAVE,,GA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
+W4RAB,DAVE,
 W4RK,Bill,459,Jefferson City MO
 W4RKU,Kevin,1978,ex: KX4KU  Boston VA
 W4RM,Bill,2330,Nokesville VA
@@ -5829,6 +5824,7 @@ WA3AAN,GRANT,
 WA3AAN,Grant,2064,Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
 WA3FAE,Forrest,MD,
+WA3FRF,JOE,
 WA3GM,Greg,1827,Cheltenham PA
 WA3GPP,Rich,PA,Pittsburg PA
 WA3IVV,Rich,PA,Beaver Falls PA
@@ -5938,6 +5934,7 @@ WB0JRH,Terry,2774,Winton MN
 WB0OQV,Jim,MO,Marionville MO
 WB0PYF,Ray,MO,St. Louis MO
 WB0QVB,Tom,KY,Shepherdsville KY
+WB0RLJ,JIM,
 WB0RUR,Gary,AZ,Fayetteville AZ
 WB0SND,Mike,1469,De Soto MO
 WB0TUA,Derek,MO,Creve Coeur MO
