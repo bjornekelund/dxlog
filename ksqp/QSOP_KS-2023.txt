@@ -25,7 +25,7 @@ W0U,,SED,Sedgwick - W0SOE - Fixed
 K0F,,HVY,Harvey - WB0SMZ - Fixed
 N0F,,JEW,Jewell - KE0SYO - Portable
 W0F,,JOH,Johnson - AD0AB - Fixed
-K0L,,HAR,Harvey - N0LRA - Fixed
+K0L,,HVY,Harvey - N0LRA - Fixed
 N0L,,LEA,Leavenworth - N3AF - Fixed
 W0L,,REN,Reno - W0WR - Fixed
 K0O,,,(with K0A) - N5KW - Mobile
@@ -1125,7 +1125,6 @@ K0AV,ALAN,CO,
 K0AWU,BILL,MN,
 K0AXU,,MO,
 K0AZ,,MO,
-K0B,DAN,MO,
 K0BBC,MATT,SD,
 K0BEE,,CA,
 K0BHC,,NC,
@@ -1190,7 +1189,7 @@ K0FLY,,IA,
 K0FM,,MO,
 K0FQA,JEVON,MN,
 K0FVF,DAN,MN,
-K0FW,JEFF,
+K0FW,JEF,
 K0FX,DON,CO,
 K0FZG,BILL,MN,
 K0GAS,,CO,
