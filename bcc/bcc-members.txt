@@ -358,6 +358,7 @@ DA0T,Andy
 OZ0TX,Andy
 DL7AV,Thomas
 DL7CX,Olaf
+DL7FER,Felix
 DL7LIN,Andre
 DL7ON,Fritz
 DL7UGN,Mike
@@ -418,6 +419,7 @@ OU4U,Marc
 DO4OD,Matze
 DO6SR,Robert
 9A5TU,Robert
+EI5LA,Megan
 F5MZN,Olivier
 F5NGA,Francois
 HA1AG,Zoli
@@ -491,8 +493,11 @@ OU4X,Alex
 5P7Y,Alex
 PA0BWL,Wil
 PA0JED,Jan
+PA0GJV,Gerrit
 PA1AW,Alex
 PA1TX,Gerard
+PA2TMS,Tom
+PA9TOM,Tom
 PA3EWP,Ronald
 PA4OES,André
 EI5VAT,André

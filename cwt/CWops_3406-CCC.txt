@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-08-14
+# Last Edit,2023-08-23
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -291,6 +291,7 @@ AE2U,Mike,869,Chandler AZ
 AE3J,Bill,PA,Aston PA
 AE4DT,Jim,GA,Cartersville GA
 AE4EY,Fred,AL,Athens AL
+AE5EZ,Roger,TX,Flower Mound TX
 AE4QQ,Dave,1625,Bainbridge GA
 AE4RM,Roger,FL,Lakeland FL
 AE4Y,Kent,2002,Hendersonville NC
@@ -1047,6 +1048,7 @@ HA5CQZ,Zoltan,,Budapest Hungary
 HA5JI,Gyuri,538,Budapest Hungary
 HA5MA,Laci,3286,Budapest Hungary
 HA5NR,Gabor,2471,Budapest Hungary
+HA5TI,Pista,,Budapest Hungary
 HA5UL,Feri,,Karpitos Hungary
 HA6NL,Laszlo,3400,Kaolyfalva Hngary
 HA6OA,Gabi,,Szandavaralja Hugary
@@ -1400,6 +1402,7 @@ K1IG,George,2396,Wesford MA
 K1IR,Jim,73,Sudbury MA
 K1IU,Bob,IA,Iowa City IA
 K1JD,John,75,Santa FE NM
+K1JH,Jim,CA,Los Altos CA
 K1KK,David,NC,Washington NC
 K1KNJ,Reg,ME,Woolwich ME
 K1KS,Al,1561,Lyndonville VT
@@ -1608,7 +1611,7 @@ K3JST,John,PA,Johnstown PA
 K3JT,Terry,1398,Morgantown WV
 K3JWI,Ken,3378,Harrijson TN
 K3LR,Tim,943,West Middlesex PA
-K3MD,John,750,Winfield PA (NE-US Amb.)
+K3MD,John,PA,(750)  Winfield PA (NE-US Amb.)
 K3MIY,Ron,PA,Clarion PA
 K3MM,Ty,114,Damascus MD
 K3MTR,Tyler,MD,Pasadena MD
@@ -2401,6 +2404,7 @@ KC3KBE,Jon,MD,Silver Spring MD
 KC3M,Jack,3099,Montoursville PA
 KC3NDU,Keith,CWA,Lake Ariel PA
 KC3NNO,Steve,3236,Harrisburg PA
+KC3RYH,Tim,PA,Hershey PA
 KC3TAU,Dale,3323,Hampstead MD
 KC3TOM,Tom,PA,Burgettstown PA
 KC3X,Hollis,1725,Snow Hill NC
@@ -2857,7 +2861,7 @@ KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ3H,Tony,NC,Greensboro NC
-KQ4DAP,Cainan,GA,Perry GA
+KQ4DAP,Cainan,CWA,Perry GA
 KQ4R,Ed,FL,Port Orange FL
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7W,Matt,WA,Port Orchard WA
@@ -3949,6 +3953,7 @@ NP2J,Dan,KP2,Christiansted Virgin Islands
 NP2X,Fred,524,Christiansted VI
 NP2ZA,Zaba,1856,Jan 26 to Feb 5th
 NP3A,Eric,1112,San Juan PR
+NP3JD,Jose,,Guaynabo PR
 NP3K,Abe,1238,(Charlie)  Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
@@ -4152,6 +4157,7 @@ OK5OK,Jiri,,Czech Republic
 OK6DJ,David,,Holysov Czech Republic
 OK7AN,Petr,92,(OK2CQR)  Neratovice Czech Republic
 OK8AU,Slav,,Pruhonice Czech Republic
+OK8DJ,Draan,,Rosic Czech Republic
 OK8GO,Alex,2685,(UR7GO)
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
@@ -4433,6 +4439,7 @@ SM5CIL,Arne,1410,Rejmyre Sweden (SM7CIL)
 SM5COP,Rune,,Styckebruk Sweden
 SM5DJZ,Jan,SM,Knivsta Sweden
 SM5GLC,Lasse,1529,Linkoping Sweden
+SM5GRD,Kare,,Grillby Sweden
 SM5IMO,Dan,1854,Vingaker Sweden
 SM5LBR,Ray,,Progvaegen Sweden
 SM5S,GI,2094,(Goran) Torshalla Sweden (SM5SIC)
@@ -4679,6 +4686,7 @@ VA3WHU,Carole,2773,Hamilton ON
 VA3YG,Brent,ON,Southampton ON (QRP)
 VA3ZB,Bruce,ON,Sault Ste-Marie ON
 VA3ZC,Paul,ON,Oakville ON (Mag. Loop)
+VA4JP,Jack,MB,(K0JP)  Michell MB
 VA5SCA,Neil,SK,Canada
 VA6CA,Kam,2714,Calgary AB
 VA6SP,Peter,AB,Calgary AB
@@ -5727,6 +5735,7 @@ WA3NZR,John,1028,Lancaster PA
 WA3QNT,Bob,PA,Franklin PA
 WA3RWP,Walt,3142,(Wally) Williamsburg VA
 WA3TMR,Steve,NC,Fuquay Varina NC
+WA3TRA,Tony,GA,Alpharetta GA
 WA3TRE,Don,PA,McClure PA
 WA3WAW,Bill,PA,Uniontown PA
 WA3YRI,Bob,NJ,Lumberton NJ
@@ -5905,6 +5914,7 @@ WB9QDL,Ken,CO,Louisville CO
 WB9VPG,Neil,KY,Union KY
 WB9Z,Jerry,707,Crescent City IL
 WC0W,John,3123,Saint Johns FL
+WC2A,Ted,CA,San Mateo CA
 WC2C,Ron,NY,Brooklyn NY
 WC3O,Bob,PA,Tarentum PA
 WC4E,Jeff,1715,Holliston MA
