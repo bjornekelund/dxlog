@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-08-23
+# Last Edit,2023-08-27
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -3134,6 +3134,7 @@ N0KV,Barry,1723,Parker CO
 N0MII,Jeff,MO,Ballwin MO (Been heard QRP)
 N0MP,Bill,AZ,Mesa AZ
 N0MPM,Mike,IA,Pella IA
+N0NR,Glenn,CO,Denver CO
 N0OI,Scott,2628,Perris CA
 N0OJ,Ryan,3104,Merritt Island FL
 N0PP,Geo,2048,Iowa City IA
@@ -3492,7 +3493,7 @@ N5LB,Lionel,1691,Weston Lakes TX
 N5LL,Leslie,TX,San Antonio TX
 N5LNX,Craig,TX,Hurst TX
 N5LYJ,Ken,994,Wichita Falls TX
-N5MI,Mark,TX,Odessa TX
+N5MI,Mark,3407,Odessa TX
 N5NA,Alan,3354,Midland TX
 N5NHJ,Max,24,Allen TX
 N5NU,Jason,1920,Nacogdoches TX

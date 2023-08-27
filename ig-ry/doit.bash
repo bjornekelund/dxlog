@@ -1,7 +1,7 @@
 #!/bin/bash
 
 OUTFILE=IG-RY_db.txt
-FILE=`ls SCRY* | tail -1 2> /dev/null`
+FILE=`ls IG_WW* | tail -1 2> /dev/null`
 
 echo Parsing $FILE
 dos2unix -q $FILE

@@ -2,9 +2,9 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2023-08-26
+# 1-Last Edit,2023-08-27
 # 2-Send new info/corr. DIRECT to ve2fk@arrl.net
-# 3-Thanks to 
+# 3-Thanks to Bjorn/SM7IUN for his help
 # QSOPARTY TN
 # QSOP_TN
 # Counties first on the list then States and Prov.
@@ -66,8 +66,8 @@ KN4DUA,,HAMI,Hamilton
 KN4JGH,,WILL,Williamson
 KN4SLP,,FAYE,Fayette
 KN4TAK,,HARD,Hardeman
-KN4WGE,,SUMN,Sumner
-KN4YQR,,SUMN,Sumner
+KN4WGE,,SUMN,Summer
+KN4YQR,,SUMN,Summer
 KO4DHA,,MORG,Morgan
 KO4LMK,,SEVI,Sevier
 KO4OEH,,RUTH,Rutherford
@@ -601,7 +601,9 @@ AC4BT,JERRY,VA,
 AC4D,,TX,
 AC4DH,DENNIS,SC,
 AC4DP,DAVE,GA,
+AC4G,BRUCE,
 AC4GW,GREG,KY,
+AC4JI,,
 AC4MC,BOB,SC,
 AC4MG,MATT,GA,
 AC4PY,,KY,
@@ -1065,6 +1067,7 @@ AJ4EN,BOB,SC,
 AJ4F,ROBIE,TX,
 AJ4FI,RON,AL,
 AJ4LN,ERIC,VA,
+AJ4SB,ROB,
 AJ4TF,DAVID,NC,
 AJ4WT,MIKE,SC,
 AJ5E,ROB,SC,
@@ -2604,6 +2607,7 @@ K4TRH,,
 K4TTA,,
 K4TVO,,FL,
 K4TX,CHUCK,VA,
+K4TZ,TOM,
 K4TZZ,,NC,
 K4UE,,AL,
 K4UEE,BOB,GA,
@@ -6392,6 +6396,7 @@ KN4RFT,BEN,NC,
 KN4RNO,CARL,GA,
 KN4RQV,JEFF,VA,
 KN4RXT,SETH,VA,
+KN4SLP,TOM,
 KN4SM,,VA,
 KN4TCF,BRIAN,GA,
 KN4TFH,RICHARD,SC,
@@ -12094,6 +12099,7 @@ W4UTI,KARL,AL,
 W4UUM,,FL,
 W4UV,BUD,NC,
 W4UVA,,VA,
+W4UX,JIM,
 W4VAB,HUGH,
 W4VG,,VA,
 W4VHF,,NC,
