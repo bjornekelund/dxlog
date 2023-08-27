@@ -1,0 +1,10 @@
+Scrubbing QSOP_TN-2023-002.txt
+"AC4G,,LINC,Lincoln," reoccurs as "AC4G,,CLAY,Clay"
+Invalid county: "KN4WGE,,SUMM,Summer"
+Invalid county: "KN4YQR,,SUMM,Summer"
+"WB0CJB,,MAUR,Maury," reoccurs as "WB0CJB,,MAUR,"
+"AJ4SB,,RHEA,Rhea" reoccurs as "AJ4SB,ROB,FL,"
+"K4TZ,,WILS,Wilson" reoccurs as "K4TZ,TOM,KY,"
+"KN4SLP,,FAYE,Fayette" reoccurs as "KN4SLP,TOM,AR,"
+Invalid state: "N6VUY,,PR,"
+"W4UX,,JOHN,Johson" reoccurs as "W4UX,JIM,NC,"
