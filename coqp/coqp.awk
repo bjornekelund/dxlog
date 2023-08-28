@@ -1,22 +1,23 @@
 BEGIN {
   FS=","
   printf("#0 Colorado QSO Party database\n");
-  printf("#1 Based on NAQP database maintained by Claude VE2FK\n");
+  printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";
 }
 {
-  if ($0 ~ "!!Order!!") {
-    if ($3 ~ /State/) state = 2;
-    if ($4 ~ /State/) state = 3;
-    if ($5 ~ /State/) state = 4;
+  if ($1 ~ "!!Order!!") {
+    if ($3 ~ /Exch1/) state = 2;
+    if ($4 ~ /Exch1/) state = 3;
+    if ($5 ~ /Exch1/) state = 4;
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
-    printf("%s --> state=%d\n", $0, $state) > "/dev/stderr";
-  } else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $state ~ /^(AL|AK|AZ|AR|CA|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
+    printf("$1 = \"%s\" $2 = \"%s\" $3 = \"%s\" $4 = \"%s\" $5 = \"%s\"\n", $1, $2, $3, $4, $5) > "/dev/stderr";
+    printf("%s --> state=%d name=%d\n", $0, state, name) > "/dev/stderr";
+  } else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $state ~ /^(AL|AK|AZ|AR|CA|CT|DC|DE|FL|GA|HI|ID|IL|IA|IN|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT|ADA|ALA|ARA|ARC|BAC|BEN|BOU|BRO|CHA|CHE|CLC|CON|COS|CRO|CUS|DEL|DEN|DOL|DOU|EAG|ELB|ELP|FRE|GAR|GIL|GRA|GUN|HIN|HUE|JAC|JEF|KIC|KIO|LAA|LAK|LAP|LAR|LIN|LOG|MES|MIN|MOF|MON|MOR|MOT|OTE|OUR|PAR|PHI|PIT|PRO|PUE|RIB|RIG|ROU|SAG|SAJ|SAM|SED|SUM|TEL|WAS|WEL|YUM)$/) {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
