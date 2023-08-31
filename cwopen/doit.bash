@@ -17,5 +17,6 @@ echo Parsing $FILE
 gawk -f xdt.awk $FILE | sed 's/  / /g' | sort > $XDTFILE
 echo Created $XDTFILE
 unix2dos -q $XDTFILE
+cp $XDTFILE ../xdt
 
 exit

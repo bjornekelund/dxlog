@@ -13,11 +13,11 @@ BEGIN {
       printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
     newname = toupper($col);
-    if ($1 ~ /^[0-9A-Z/]+$/ && newname != "") {
+    if ($1 ~ /^[0-9A-Z/]+$/ && newname ~ /^[A-Z]+$/) {
       if (length(newname) > maxlen) {
         maxlen = length(newname);
         maxname = newname;
-        printf("Longer \"%s\"\n", $0) > "/dev/stderr";
+        # printf("Longer \"%s\"\n", $0) > "/dev/stderr";
       }
       if (name[$1] != $col && name[$1] != newname && name[$1] != "") {
 #        printf("Replaced %s with %s for %s\n", name[$1], newname, $1) > "/dev/stderr";
