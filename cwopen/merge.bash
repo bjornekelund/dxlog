@@ -1,13 +1,18 @@
 #!/bin/bash
 #FILE=`ls CWOPS* | tail -1 2> /dev/null`
-FILE=`ls CWOPSOPEN_2023-* | tail -1 2> /dev/null`
-OUTFILE=CWOpen_db.txt
-XDTFILE=CWOpen.xdt
+FILE1=CWOPSOPEN_2023-002.txt
+FILE2=Names_VE2FK-046.txt
+OUTFILE=CWOPSOPEN_2023_003.txt
 
+echo Parsing $FILE1 $FILE2
 
-dos2unix -q $FILE
+dos2unix -q $FILE1 $FILE2
 
-echo Parsing $FILE
+cat $FILE1 $FILE2 | awk '{if ($0 !~ /^(!|#|$)/) printf("%s\n", $0);}' | sort > temp1.txt
+
+exit
+
+echo Parsing $FILE1 $FILE2
 gawk -f txt.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
