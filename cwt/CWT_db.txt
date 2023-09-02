@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3407
-# Last updated 2023-08-27
+# Contains members up to #3408
+# Last updated 2023-09-02
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -442,6 +442,7 @@ CT7AFN=Carlos;CT
 CT7AGZ=Ken;2126
 CT7AUP=David;3356
 CT9/HA3NU=Larry;CT
+CT9ABO=Jozef;CT
 CT9ABV=Ulf;1517
 CU3AA=Joao;1804
 CU3H=Dave;CU
@@ -1037,7 +1038,7 @@ HA5MA=Laci;3286
 HA5NR=Gabor;2471
 HA5TI=Pista;HA
 HA5UL=Feri;HA
-HA6NL=Laszlo;3400
+HA6NL=Laci;3400
 HA6OA=Gabi;HA
 HA7AP=Imre;HA
 HA7I=Laci;HA
@@ -1343,6 +1344,7 @@ K0VXU=Russ;836
 K0WA=Lee;1859
 K0WEW=Kent;KS
 K0WOI=Dan;IA
+K0XF=Max;3408
 K0XP=Steve;CA
 K0XQ=Sean;1844
 K0XX=John;1273
@@ -1990,6 +1992,7 @@ K7BV=Dennis;NC
 K7CNT=Rick;2565
 K7CO=Jon;UT
 K7DRQ=Quentin;3210
+K7DWI=Art;TX
 K7EFW=Ed;3274
 K7EK=Gary;997
 K7ENA=Ed;OR
@@ -2966,6 +2969,7 @@ LA/DL4HCF=Hubert;LA
 LA0CX=Uli;LA
 LA1IO=Halvor;2651
 LA1K=Jens;LA
+LA1U=Jorn;LA
 LA1XFA=Tore;LA
 LA2T=Jan;LA
 LA3RK=Olaf;LA
@@ -3917,6 +3921,7 @@ NN5O=Larry;1327
 NN5P=Mad;1479
 NN6B=Joe;2709
 NN7M=Ryan;2245
+NN7O=Tom;CA
 NN7W=TC;2057
 NN9G=Dana;WI
 NO0B=James;IA
@@ -4137,7 +4142,7 @@ OK5OK=Jiri;OK
 OK6DJ=David;OK
 OK7AN=Petr;92
 OK8AU=Slav;OK
-OK8DJ=Draan;OK
+OK8DJ=Dragan;OK
 OK8GO=Alex;2685
 OK8RB=Dave;OK
 OK9RKZ=Riky;OK
@@ -4779,6 +4784,7 @@ VE3MV=Doug;1642
 VE3MVM=Mary;ON
 VE3NA=Al;ON
 VE3NE=Lali;128
+VE3NGN=Chad;ON
 VE3NI=Daniel;ON
 VE3NNT=Les;1701
 VE3NR=Bob;ON
@@ -6162,6 +6168,7 @@ ZL2KE=Steve;1281
 ZL3CW=Jacky;3270
 ZL3XDJ=Brian;ZL
 ZL4BDG=Ben;3382
+ZL4YY=Yannick;ZL
 ZP9MCE=Manu;3103
 ZR2A=Ulrich;2470
 ZS1ANF=Oleg;3157

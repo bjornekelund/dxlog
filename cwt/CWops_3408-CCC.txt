@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-08-27
+# Last Edit,2023-08-31
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -448,6 +448,7 @@ CT7AFN,Carlos,,Near Fatima Portugal
 CT7AGZ,Ken,2126,(G4RWD)  Carvoeiro LGA Portugal
 CT7AUP,David,3356,Arruda dos Vinhos Portugal
 CT9/HA3NU,Larry,,
+CT9ABO,Jozef,,Teplica Slovak Republic
 CT9ABV,Ulf,1517,(DL5AXX)  Santana Madeira Island AF-014
 CU3AA,Joao,1804,Angra Do Heroismo Portugal
 CU3H,Dave,,Lajes Azores
@@ -1050,7 +1051,7 @@ HA5MA,Laci,3286,Budapest Hungary
 HA5NR,Gabor,2471,Budapest Hungary
 HA5TI,Pista,,Budapest Hungary
 HA5UL,Feri,,Karpitos Hungary
-HA6NL,Laszlo,3400,Kaolyfalva Hngary
+HA6NL,Laci,3400,Kaolyfalva Hngary
 HA6OA,Gabi,,Szandavaralja Hugary
 HA7AP,Imre,,Budapest Hungary
 HA7I,Laci,,(HA7JTR)  Bogacs Hungary
@@ -1357,6 +1358,7 @@ K0VXU,Russ,836,Stilwell KS
 K0WA,Lee,1859,Newton KS
 K0WEW,Kent,KS,Leawood KS
 K0WOI,Dan,IA,Minburn IA
+K0XF,Max,3408,Colorado Springs CO
 K0XP,Steve,CA,Mission Viejo CA
 K0XQ,Sean,1844,Andover MN
 K0XX,John,1273,Fernandina Beach FL
@@ -2004,6 +2006,7 @@ K7BV,Dennis,NC,Turkey NC
 K7CNT,Rick,2565,Kingman AZ
 K7CO,Jon,UT,Kaysville UT
 K7DRQ,Quentin,3210,Tacoma WA
+K7DWI,Art,TX,Granbury TX
 K7EFW,Ed,3274,Hillsboro OR
 K7EK,Gary,997,Spanaway WA
 K7ENA,Ed,OR,Gresham OR
@@ -2984,6 +2987,7 @@ LA/DL4HCF,Hubert,
 LA0CX,Uli,,Halden Norway
 LA1IO,Halvor,2651,Algard Norway
 LA1K,Jens,,(LB6RH)  RC Trondheim Norway
+LA1U,Jorn,,Sorreisa Norway
 LA1XFA,Tore,,Fredrikstad Norway
 LA2T,Jan,,(LA7VV) Trondheimsgruppen Av NRRL Norway
 LA3RK,Olaf,,Oslo Norway
@@ -3938,6 +3942,7 @@ NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
 NN5P,Mad,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
 NN7M,Ryan,2245,Seattle WA
+NN7O,Tom,CA,Bishop CA
 NN7W,TC,2057,(Terry) Show Low AZ
 NN9G,Dana,WI,Appleton WI
 NO0B,James,IA,Tiffin IA
@@ -4158,7 +4163,7 @@ OK5OK,Jiri,,Czech Republic
 OK6DJ,David,,Holysov Czech Republic
 OK7AN,Petr,92,(OK2CQR)  Neratovice Czech Republic
 OK8AU,Slav,,Pruhonice Czech Republic
-OK8DJ,Draan,,Rosic Czech Republic
+OK8DJ,Dragan,,Rosic Czech Republic
 OK8GO,Alex,2685,(UR7GO)
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
@@ -4801,6 +4806,7 @@ VE3MV,Doug,1642,East York ON
 VE3MVM,Mary,ON,Amaranth ON
 VE3NA,Al,ON,Greely ON
 VE3NE,Lali,128,Etobicoke ON
+VE3NGN,Chad,ON,Stittsville ON
 VE3NI,Daniel,ON,Mississauga ON
 VE3NNT,Les,1701,Mississauga ON (Possibly Remote)
 VE3NR,Bob,ON,Scarborough ON
@@ -6188,6 +6194,8 @@ ZL2KE,Steve,1281,70km NE of Wellington
 ZL3CW,Jacky,3270,(F2CCW) Tauranga New Zealand
 ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
 ZL4BDG,Ben,3382,Upper Hutt New Zeland
+ZL4YY,Yannick,,Porirua New Zealand
+ZM4YY,Yannick,,Porirua New Zealand
 ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
 ZS1ANF,Oleg,3157,Western Cape South Africa
