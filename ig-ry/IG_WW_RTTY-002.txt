@@ -1,4 +1,17 @@
 !!Order!!,Call,Exch1,UserText
+#
+# Send new Info/Corr. DIRECT to ve2fk@arrl.net
+# Current contest: SCRY replacing SCCRTTY
+# DATA from 2023 SCRY results 
+# EXCH = first date of lic.
+# Exch = Years of your first lic.
+# IG_WW_RTTY
+# LastEdit,2023-09-03
+# SCRY
+# Thanks EA4GOY FOR UPDATE
+# Thanks SM7IUN for his help
+# Updated from log of VE2FK 2023
+
 2E0CVN,2007,
 2E0GBC,2006,
 2E0OBO,2010,
@@ -53,7 +66,7 @@
 9A6KZH,1996,
 9A6TT,2013,
 9A6ZT,1981,
-9A7B,1974,
+9A7B,1972,
 9A7DX,1998,
 9A7T,1976,
 9A7TJ,1989,
@@ -1138,7 +1151,7 @@ IK0TUM,1992,
 IK1BPL,1983,
 IK1DFH,1983,
 IK1RGK,1991,
-IK1SOW,1992,
+IK1SOW,1991,
 IK1TWC,1992,
 IK1ZVJ,1974,
 IK2AHB,1982,
