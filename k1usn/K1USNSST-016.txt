@@ -1,11 +1,11 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-08-29
+# 1-Last Edit,2023-09-05
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
-# 4-Thanks to SM7IUN for keeping an eye out for errors
 # 4-Send any corrections direct to ve2fk@arrl.net
+# 4-Thanks to SM7IUN for keeping an eye out for errors
 # 5-K1USN CW Slow Speed (ConTest) friday/sunday night 
 # K1USNSST
 2E0GKC,PAUL,DX,Osfordshie England
@@ -418,7 +418,7 @@ AC5OS,BILL,TX,Morgan TX
 AC5T,LYNN,TX,
 AC5TM,,LA,
 AC5TU,JIM,TX,
-AC5XK,DON,DC,Washington DC
+AC5XK,DON,MA,also DC at times.
 AC6GO,ROB,CA,Sunnyvale CA
 AC6JA,MIKE,CA,
 AC6NT,ERIC,TN,Franklin TN
@@ -1212,6 +1212,7 @@ K0HNL,DAN,MA,Acton MA
 K0HS,,SD,
 K0HT,LU,GA,
 K0HX,STAN,MO,
+K0IEO,TERRY,FL,St Petersburg FL
 K0II,Ben,
 K0IJ,DAVE,WI,
 K0IMI,LYNN,KS,Overland Park KS
@@ -2573,7 +2574,7 @@ K5UTG,WARREN,OK,
 K5UU,Jamie,TX,
 K5UV,MIKE,OK,
 K5UZ,DAVID,AR,
-K5VBA,STAN,AL,
+K5VBA,DON,MI,
 K5VG,JOHN,VA,Woodbridge VA
 K5VH,,TX,
 K5VI,ANDY,TX,
@@ -3015,6 +3016,7 @@ K7RI,TOM,WA,
 K7RJ,,UT,
 K7RL,MITCH,WA,
 K7RLN,RALPH,UT,
+K7ROG,ROG,AZ,Tucson AZ
 K7RSM,BOBBY,TX,
 K7RXC,,WY,
 K7SAM,,MT,
@@ -3153,6 +3155,7 @@ K8IA,BOB,AZ,
 K8IHQ,CARL,OH,Chardon OH
 K8IJ,CHAS,KY,Alexandria KY
 K8IRB,HARRY,MO,Lees Summit MO
+K8JH,JIM,MI,Rockford MI
 K8JL,JIM,MI,Clarkston MI
 K8JP,JOE,TX,
 K8JPM,BOB,OH,
@@ -3627,6 +3630,7 @@ KA3UOL,,PA,
 KA3WGF,Jim,PA,
 KA3WSZ,,DE,
 KA3WZY,DAVE,SC,
+KA3YGL,BRUCE,PA,South Connellsville PA
 KA3ZIP,,PA,
 KA3ZPA,,MD,
 KA4AXS,,FL,
@@ -4099,6 +4103,7 @@ KC1ME,,ME,
 KC1MXB,JB,ME,Springvale ME
 KC1NDI,KIM,ME,Freeport ME
 KC1NPZ,RICH,MA,Plymouth MA
+KC1RWM,JOSE,MA,Fall River MA
 KC1SA,STEVE,CT,
 KC1SQ,,MA,
 KC1UCK,CHUCK,ME,
@@ -4571,7 +4576,7 @@ KD9PFS,ALEX,WI,Milwaukee WI
 KD9PLD,JUSTIN,IN,Indianapolis IN
 KD9REA,Dean,IL,Chicago IL
 KD9RFR,DAVE,IN,New Albany IN
-KD9RKG,BOB,MO,
+KD9RKG,BOB,WI,
 KD9RXU,Harry,IL,Naperville IL
 KD9TSE,CHRIS,MN,Yorkville IL
 KD9TWA,Ken,IL,Evanston IL
@@ -4648,6 +4653,7 @@ KE3I,,MD,
 KE3K,BOB,MI,
 KE3KD,,PA,
 KE3LA,JIM,PA,
+KE3O,HILL,MD,Stevensville MD
 KE3X,KEN,DC,
 KE3ZT,STEVE,PA,
 KE4AER,BOB,KY,Hazard KY
@@ -5623,6 +5629,7 @@ KQ9L,RICH,IL,Orland Park IL
 KR1ST,ALEX,PA,
 KR2AA,ERIC,NY,
 KR2E,PAUL,AZ,
+KR2H,FRED,NJ,Fair Lawn NJ
 KR2Q,DOUG,NJ,
 KR3E,ED,MD,
 KR3T,JON,GA,Allentown PA
@@ -6090,6 +6097,7 @@ N0PP,JUERG,IA,
 N0QLR,BOB,CO,Peyton CO
 N0QLT,RUSS,MO,Webb City MO
 N0QM,LARRY,MO,
+N0QMQ,BOB,KS,Bazine KS
 N0QT,,NM,
 N0REN,,MN,
 N0RHL,,NE,
@@ -7282,6 +7290,7 @@ N6HD,DAVID,CA,
 N6HE,RAY,CA,
 N6HI,JOHN,AZ,
 N6IE,RON,CA,
+N6ILJ,PAUL,CA,Redlands CA
 N6JC,JIM,CA,El Dorado Hills CA
 N6JV,NORM,CA,
 N6JW,JOHN,CA,
@@ -8318,6 +8327,7 @@ NJ8D,TOM,MI,Homer MI
 NJ8J,BEN,GA,
 NJ8L,VERN,OH,Newark OH
 NJ8M,MORGAN,KS,
+NJ8V,DEW,OH,Shade OH
 NJ9Q,JOHN,IL,
 NJ9R,RELU,IL,
 NJ9Y,,IL,
@@ -8354,7 +8364,7 @@ NM1A,,FL,
 NM1J,JACK,MA,
 NM1K,,CT,
 NM1W,,NH,
-NM2A,MARK,MT,Pulaski NY  (Montana for summer)
+NM2A,MARK,NY,Pulaski NY  (Montana for summer)
 NM2L,GREG,GA,
 NM3A,DAN,PA,Export PA
 NM3E,,PA,
@@ -9604,6 +9614,7 @@ W0BF,GARY,AZ,
 W0BH,BOB,KS,
 W0BJ,,NE,
 W0BM,,MO,
+W0BM,PAT,MN,Kasson MN
 W0BOV,,MO,
 W0BR,BOB,PA,
 W0BR/1,BOB,CT,
@@ -10639,6 +10650,7 @@ W3ZKL,,PA,
 W3ZL,,NC,
 W3ZMN,,PA,
 W3ZQN,,PA,
+W3ZQN,BOB,PA,Lansdale PA
 W3ZR,,PA,
 W3ZRW,JOEL,MD,Siolver Spring MS
 W3ZWN,JOHN,SC,
@@ -13844,6 +13856,7 @@ WX7SJ,MARK,WA,
 WX7V,CHRIS,TX,Dallas TX
 WX8F,JIM,OH,Dayton OH
 WX8J,JIM,OH,
+WX8NN,ANDY,MI,Shelby TWP MI
 WX9U,PETER,AZ,Phoenix AZ
 WY0C,,KS,
 WY0V,GARY,IA,

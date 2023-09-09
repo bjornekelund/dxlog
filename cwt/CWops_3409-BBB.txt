@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-08-31
+# Last Edit,2023-09-06
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -337,6 +337,7 @@ AF7MM,Emma,3049,Battle Ground WA
 AF7QD,Jess,WA,Liberty Lake WA
 AF8A,Gary,2092,Mayfield Heights OH
 AF9W,Bob,1173,Clinton WA
+AG1C,Larry,MA,Upton MA
 AG2O,Mike,NY,Ransomville NY
 AG3I,Marty,2579,Greensburg PA
 AG3R,Pete,467,Highland Park IL
@@ -1613,7 +1614,7 @@ K3JST,John,PA,Johnstown PA
 K3JT,Terry,1398,Morgantown WV
 K3JWI,Ken,3378,Harrijson TN
 K3LR,Tim,943,West Middlesex PA
-K3MD,John,PA,(750)  Winfield PA (NE-US Amb.)
+K3MD,John,750,Winfield PA (NE-US Amb.)
 K3MIY,Ron,PA,Clarion PA
 K3MM,Ty,114,Damascus MD
 K3MTR,Tyler,MD,Pasadena MD
@@ -3915,7 +3916,7 @@ NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
 # NM2A,Mark,3014,Pulaski NY
-NM2A,Mark,3014,Pulaski NY (Montana for summer)
+NM2A,Mark,3014,Pulaski NY 
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
@@ -5164,6 +5165,7 @@ W2YR,John,751,Avon by the Sea NJ
 W2ZRA,Kevin,942,Cutchogue NY
 W3AC,Dave,1235,Forest VA
 W3AG,Joe,PA,Pittsburg PA
+W3AST,Jim,DE,Newark DE
 W3AT,Jim,NM,Santa Fe NM
 W3ATT,Brian,1301,Bayse VA
 W3AVP,Alex,PA,New Holland PA
@@ -5200,7 +5202,7 @@ W3PNM,Bill,1985,Willow Hill PA
 W3PU,Adrian,NY,Voyager DX Association
 W3QKA,John,PA,ork PA
 W3RE,Matt,2625,East Petersburg PA
-W3RGA,Pat,PA,Sunbury PA
+W3RGA,Pat,3409,Sunbury PA
 W3RJ,Rich,PA,Coopersburg PA
 W3RT,Emil,2410,Fairless Hills PA
 W3RZ,Lou,1963,Deer Park TX  (Been heard QRP)

@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2023-08-21
+# Last Edit,2023-09-04
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 2E0DCW,Gerald,,London England
@@ -1233,6 +1233,7 @@ JL8KUS,Tubo,1179,Hokkaido Japan
 JN1THL,Ken,161,Tokyo Japan (Director)
 JN1WFF,Naoki,,Tochigi
 JO1LVZ,OM,,Saitama Japan
+JQ2NUD,NORI,
 JR1NHD,Shin,,Kawasaki Kanagawa Japan
 JR2ANC,MAC,
 JS2AHG,Astu,,Mishima City Japan
@@ -2573,6 +2574,7 @@ KE4TWI,Wes,TN,Watertown TN
 KE5AKL,Mike,NM,Albuquerque NM
 KE5AZ,Ken,TX,Houston TX
 KE5C,John,TX,Temple TX
+KE5DXX,Colton,
 KE5EN,Eric,3009,Plano TX
 KE5FRF,Heath,LA,Greenwell Springs LA
 KE5JLN,Jason,AR,Paragould AR
@@ -5270,6 +5272,7 @@ W3RZ,Lou,1963,Deer Park TX
 W3SA,John,3074,NC,Indian Trail NC
 W3SD,Steve,PA,Richboro PA
 W3SFG,Steve,MD,Boonsboro MD
+W3TAS,TOM,
 W3TB,Ted,2477,Franklin TN
 W3TMZ,Jack,FL,Lecanto FL
 W3TW,Tom,1972,Huntington Station NY
