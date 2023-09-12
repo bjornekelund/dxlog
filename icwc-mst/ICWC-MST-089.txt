@@ -4,7 +4,7 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # Last Edit,2023-09-11
-
+# Thanks SM7yIUN for his help
 AE5EZ,ROGER,TX,
 W4RJF,RON,NC,
 W0GIB,CRAIG,MN,
@@ -464,8 +464,7 @@ CO2IR,Frank,1147,La Habana Cuba
 CO2UE,Fred,,Habana Cuba
 CO6RD,Rey,1898,Sancti Spiritus Cuba
 CO8CY,Oriol,,Guantanamo Cuba
-CO8NMN,NOE,
-CO8NMN,Noe,2082,Santiago de Cuba
+CO8NMN,Noe,,Santiago de Cuba
 CO8ZZ,Raul,1682,Las Tunas Cuba
 CR6K,Fil,2699,(CT1ILT)  S. Martinho da Gandara Portugal
 CR7AJL,Men,,Almada Portugal
@@ -3577,7 +3576,6 @@ N5LNX,Craig,TX,Hurst TX
 N5LOT,LEO,TX,Burkburnett TX
 N5LOW,TERRY,TX,Seabrook TX
 N5LYJ,Ken,994,Wichita Falls TX
-N5MI,MARK,
 N5MI,Mark,,Odessa TX,
 N5NA,Alan,TX,Midland TX
 N5NHJ,Max,24,Allen TX
@@ -5037,7 +5035,6 @@ W0DLE,Chuck,CO,Hartsel CO
 W0EA,Tom,953,Cedar Rapids IA
 W0EAR,Don,MN,Shoreview MN
 W0ECS,Frank,GA,Dallas GA
-W0EJ,BILL,
 W0EJ,Bill,1269,Springfield SD
 W0EWD,Mike,IA,Des Moines IA
 W0EXT,MIKE,CO,
@@ -5166,7 +5163,6 @@ W1ZF,Skip,MA,Needham MA
 W1ZT,Geo,174,Beverly MA
 W2AAB,Fred,1449,Fair Lawn NJ
 W2AFE,Jay,PA,Phoenixville PA
-W2APF,THAIRE,
 W2APF,Thaire,1627,Eaton Center NH
 W2CDO,Peter,2526,Potomac MD
 W2CQ,Bill,928,Fort Lauderdale FL
@@ -5228,7 +5224,6 @@ W2TE,Walt,NY,Babylon NY
 W2TR,Gary,2136,The Villages FL
 W2TT,Ross,2716,Loveladies NJ
 W2VJN,Geo,OR,Roseburg OR
-W2VM,CRAIG,
 W2VM,Craig,1623,Niagara Falls NY
 W2VRK,TONY,
 W2VT,Richard,NY,Warwick NY
@@ -5381,7 +5376,6 @@ W4NBS,Tom,1696,Trinity AL
 W4NF,Jack,2360,Manassas VA
 W4NI,Russ,TN,Nashville TN
 W4NPX,Bob,VA,Charlottesville VA
-W4NTA,JIM,
 W4NTA,Jim,GA,Peachtree Corners GA
 W4NU,John,760,Atlanta GA
 W4NZ,Ted,831,Chattanooga TN
@@ -5475,7 +5469,6 @@ W5KFT,Rob,TX,Bluffton TX
 W5KY,Kay,OK,Shawnee OK
 W5LA,Rags,1630,West Monroe LA
 W5LNI,John,1628,Rogers
-W5LXS,ROGER,
 W5LXS,Roger,3105,Midland TX
 W5MIG,Jerry,TX,Kerrville TX
 W5MJ,Madi,1479,Cedar Park TX (Occ. QRP)
@@ -5838,7 +5831,6 @@ WA2USA,Dennis,819,Newburgh IN
 WA2VAM,KEVIN,NY,Cortland NY
 WA2VYA,Frank,FL,Tallahassee FL
 WA2VZQ,Ken,NY,Saint James NY
-WA3AAN,GRANT,
 WA3AAN,Grant,2064,Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
 WA3FAE,Forrest,MD,
@@ -5882,7 +5874,6 @@ WA4ZLK,Bruce,NC,Raleigh NC
 WA5BDU,Nick,1429,Russellville AR
 WA5KBH,GEORGE,LA,Lake Charles LA
 WA5LHM,Tom,TX,Georgetown TX
-WA5LXS,DENNIS,
 WA5LXS,Dennis,1836,Carrollton TX
 WA5OBV,Phil,OK,Stillwater OK
 WA5PFJ,John,1629,Midland TX

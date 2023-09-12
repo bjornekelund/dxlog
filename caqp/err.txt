@@ -1,0 +1,12 @@
+Parsing QSOP_CA-2023-003.txt
+!!Order!!,Call,Name,EXCH1,UserText, --> Exchange column is 3
+Bad exchange: "W6T,,TRIM/SHAS,COUNTY LINE" should be DX
+"K6WSC,,SDIE,San Diego SO Exp." reoccurs as "K6WSC,BILL,AZ,"
+"K7GT,,SISK,SISKIYOU" reoccurs as "K7GT,ALLAN,OR,"
+"KI6QDH,,SACR," reoccurs as "KI6QDH,FRED,WY,"
+"KK6ZM,,SDIE,SAN DIEGO" reoccurs as "KK6ZM,PAT,WA,"
+"N6L,,LANG,LOS ANGELES" reoccurs as "N6L,,MO,"
+"N6MW,,SBAR," reoccurs as "N6MW,,VA,"
+Bad exchange: "N6VUY,,PR," should be DX
+"N6ZZ,,SCRU,SANTA CRUZ" reoccurs as "N6ZZ,,NM,"
+Created CQP_db.txt
