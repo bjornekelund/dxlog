@@ -1,7 +1,7 @@
 # California QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-09-12
+# Last updated 2023-09-13
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -8149,7 +8149,6 @@ N6MJ=ORAN
 N6MM=ALAM
 N6MU=ORAN
 N6MUF=SDIE
-N6MW/4=VA
 N6MW=SBAR
 N6MZ=WA
 N6N=SMAT
@@ -12275,6 +12274,7 @@ W6SRR=ALAM
 W6ST=AZ
 W6STI=TX
 W6SX=MONO
+W6T=TRIN/SHAS
 W6TA=LANG
 W6TCP=ALAM
 W6TED=RIVE

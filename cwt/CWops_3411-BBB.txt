@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-09-10
+# Last Edit,2023-09-13
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -1188,6 +1188,7 @@ IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
 IU1MRY,Fabrizio,I,Omegna Italy
 IU4APC,Andrea,,Cesena FC Italia
+IV3YNB,Matt,,Trieste Italy
 IV3ZUY,Dudine,,Aiello Del Friuli Italy
 IW0EFO,Daniele,,Italy
 IW2CNM,Alex,I,Ttaly
@@ -1733,7 +1734,7 @@ K4KRW,Rich,SC,Charlotte NC
 K4KSR,Bill,2107,Chesterfield VA (Full time QRP)
 K4KVC,Ken,FL,The Villages FL
 K4KZ,Lon,NC,Matthews NC
-K4LTA,Bill,TN,Oak Ridge TN
+K4LFL,Mark,NC,Charlotte NC
 K4LW,Bob,2717,Rockledge FL
 K4LY,Doug,SC,Inman SC
 K4ME,Ben,NC,Southern Shores NC
@@ -1960,7 +1961,7 @@ K6NF,Carol,2939,San Jose CA
 K6NR,Dana,2380,Irvine CA
 K6NV,Bob,675,Truckee CA
 K6PB,Pete,2469,Irvine CA
-K6PO,Paul,CA,San Diego CA
+K6PO,Paul,CA,(1758) San Diego CA
 K6RB,Rob,3,Santa Cruz CA (CWT Academy)
 K6RC,Dave,CA,Fair Oaks CA
 K6RJ,Rich,CA,Lake Elsinore CA
@@ -2156,6 +2157,7 @@ K8UO,,MI,Utica Shelby Emergency Com. Ass.
 K8UT,Larry,1672,Whitmore Lake MI
 K8VA,Mike,2468,Trenton MI
 K8WP,Jim,MI,Muskegon MI
+K8WS,Glenn,OH,Nount Veron OH
 K8WWS,Bill,2621,Middletown OH
 K8XF,Mike,1379,New Port Richey FL
 K8YIB,Jim,MI,Rapid City MI
@@ -3322,6 +3324,7 @@ N3MNT,Bob,MD,Annapolis MD
 N3ND,Dan,189,Wake Forest NC
 N3OC,Brian,2944,Brookeville MD
 N3QE,Tim,1223,Bethesda MD
+N3RA,Scott,3411,Salem OH
 N3RC,Roger,429,Sebastopol CA
 N3RD,Dave,232,Phoenixville PA
 N3RM,Theo,PA,Lebanon PA

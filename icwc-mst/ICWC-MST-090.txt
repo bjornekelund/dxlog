@@ -4,20 +4,9 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # Last Edit,2023-09-11
-# Thanks SM7yIUN for his help
-AE5EZ,ROGER,TX,
-W4RJF,RON,NC,
-W0GIB,CRAIG,MN,
-KD2VXW,OWEN,NY,
-JM8QGN,TORI,
-F/PA2PIM,PIM,,
-E25KAE,BUN,
-WD5HCK,KEM,
-
-
-
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+# Thanks SM7yIUN for his help
 2E0DCW,Gerald,,London England
 2E0OBO,Bob,,Edingthorpe Norfolk England
 3B9FR,Robert,,Rodriguez Island
@@ -321,6 +310,7 @@ AE4QQ,Dave,1625,Bainbridge GA
 AE4RM,Roger,FL,Lakeland FL
 AE4Y,Kent,2002,Hendersonville NC
 AE5DT,Dennis,TX,Gilmer TX
+AE5EZ,ROGER,TX,
 AE5I,TOM,TX,Madison MS
 AE5WD,Clark,TX,McKinney TX
 AE5X,John,TX,Kingwood TX
@@ -696,6 +686,7 @@ DP7D,Frank,,Essen Germany
 DR0OEIBS,Lutz,2654,(DM6EE)
 DU3LA,Larry,644,Mabalacat Phillippines (N0QM)
 E21EIC,Champ,264,Bangkok Thailand
+E25KAE,BUN,
 E29TGW,MEW,,Nonthaburi Thailand
 E7/Z35M,Vlado,E7,
 E71A,Emil,484,Sarajevo Bosnia and Herzegovina
@@ -793,6 +784,7 @@ EW1I,Alex,,Minsk Belarus
 EW1TZ,Serge,,Minsk Belarus
 EW7LO,Vlad,,Bobruisk Belarus
 EY8MM,Nodir,815,Dushanbe Tajikistan
+F/PA2PIM,PIM,,
 F2IL,Jean,,Ribeaucourt France
 F3OA,Mike,,Hyeres France
 F4GFT,Andy,,Paris France
@@ -1241,6 +1233,7 @@ JK2VOC,Yoshie,,Tsu-City Mie Japan
 JL1GEL,Aki,1202,Tokyo Japan
 JL1IRB,Hoz,420,Sagamihara City Japan
 JL8KUS,Tubo,1179,Hokkaido Japan
+JM8QGN,TORI,
 JN1THL,Ken,161,Tokyo Japan (Director)
 JN1WFF,Naoki,,Tochigi
 JO1LVZ,OM,,Saitama Japan
@@ -2509,6 +2502,7 @@ KD2RKN,Jason,2919,Greenville SC
 KD2S,Al,NJ,(Chris) High Bridge NJ
 KD2ST,Al,2711,Mount Laurel NJ
 KD2TUU,TOM,PA,
+KD2VXW,OWEN,NY,
 KD4AJF,JEFF,,NC
 KD4EE,Scott,1330,Bellevue KY
 KD4IW,Steve,
@@ -5040,6 +5034,7 @@ W0EWD,Mike,IA,Des Moines IA
 W0EXT,MIKE,CO,
 W0FK,Lou,MO,Saint Louis MO
 W0GAS,Greg,2785,Larkspur CO
+W0GIB,CRAIG,MN,
 W0GJ,Glenn,532,Calmar IA
 W0GTL,Chris,SD,Sioux Falls SD
 W0GV,GERRY,CO
@@ -5390,6 +5385,7 @@ W4QDV,DAVE,,GA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
 W4RAB,DAVE,
+W4RJF,RON,NC,
 W4RK,Bill,459,Jefferson City MO
 W4RKU,Kevin,1978,ex: KX4KU  Boston VA
 W4RM,Bill,2330,Nokesville VA
@@ -6075,6 +6071,7 @@ WD4LZC,Stu,KY,Louisville KY
 WD4MRI,Roy,
 WD5BZN,Dave,TX,Bellaire TX
 WD5DBV,Roy,290,Cade LA
+WD5HCK,KEM,
 WD5HOW,VICTOR,
 WD5RS,Russ,TX,Milford TX
 WD6T,Dave,2079,Berkeley CA
@@ -6101,7 +6098,7 @@ WG0M,Mike,1612,Minnetonka MN
 WG2C,JAY,NY,Brewster NY
 WG3I/M,ISAAC,MD,Bel Air MD
 WG3J,Eric,2473,Pittsville MD
-WG4H,MARIUS,GA,?
+WG4V,Marius,,Suwanee GA
 WG5H,Curt,1931,Houston TX
 WG5J,Darin,TX,Red Oak TX
 WH6R,Eran,HI,Honolulu HI
