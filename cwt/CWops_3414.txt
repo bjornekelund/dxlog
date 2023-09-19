@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-09-13
+# Last Edit,2023-09-18
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -175,6 +175,7 @@ AB1WV,Marcus,CT,Bethel CT
 AB1XB,Bill,MA,Harvard MA
 AB2E,Darrell,1305,Monroeville NJ
 AB2EZ,Stu,NJ,Princeton NJ
+AB2O,Mark,ME,
 AB2SO,Steve,NJ,Ocean City NJ
 AB2ZT,Venkat,NJ,Edison NJ
 AB3AH,Ed,PA,Hanover PA
@@ -291,7 +292,7 @@ AE2U,Mike,869,Chandler AZ
 AE3J,Bill,PA,Aston PA
 AE4DT,Jim,GA,Cartersville GA
 AE4EY,Fred,AL,Athens AL
-AE5EZ,Roger,TX,Flower Mound TX
+AE5EZ,Roger,3413,Flower Mound TX
 AE4QQ,Dave,1625,Bainbridge GA
 AE4RM,Roger,FL,Lakeland FL
 AE4Y,Kent,2002,Hendersonville NC
@@ -355,6 +356,7 @@ AG7CC,Cliff,ID,Moscow ID
 AG7TX,Dave,2861,Carson City NV
 AG9A,Mark,641,Lincolnwood IL
 AG9C,Bob,IN,Fort Wayne IN
+AG9G,Dwight,WI,Phillips WI
 AG9U,Ben,IL,Long Grove IL
 AH0AA,Gary,1949,Bigfork MT
 AH0U,Bruce,1825,Pittsburg CA
@@ -721,6 +723,7 @@ EA5IUY,Gary,2508,Muro de Alcoy Spain
 EA5KA,Raul,1512,Castellon de la Plana Spain
 EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
+EA5PL,Ferr,,Alicante Spain
 EA5XQ,Juan,3303,Almazora Spain
 EA6/EA3M,Roger,3229,Balearric Islands
 EA6BF,Josep,3072,Balearic Island
@@ -1785,6 +1788,7 @@ K4WA,Steve,3251,Destin FL
 K4WG,Gene,3360,Birmingham AL
 K4WJ,John,193,Trenton FL
 K4WNY,Don,TN,Millington TN
+K4WSD,Al,CWA,Tallahassee FL
 K4WTL,Travis,FL,Gainsville FL
 K4WW,Bo,2017,Louisville KY
 K4WY,John,VA,Fairfax Station VA
@@ -2117,6 +2121,7 @@ K8HU,Bob,2741,Chesapeake VA
 K8IA,Bob,666,Mesa AZ
 K8IHQ,Carl,OH,Chardon OH
 K8IU,Orville,PA,Royersford PA
+K8JH,Jim,MI,Rockford MI
 K8JP,Joe,TX,Omaha TX
 K8JPM,Bob,787,Hartville OH
 K8JQ,Steve,1402,Charleston WV
@@ -2583,6 +2588,7 @@ KF4QFJ,Jerome,VA,Suffolk VA
 KF4T,Brian,FL,Miami FL
 KF4ZGZ,Matt,NC,Walnut NC
 KF5GZJ,Mike,TX,Friendswood TX
+KF5JC,Jim,OK,Carescent OK
 KF5JUO,Lynda,TX,Allen TX
 KF5RDN,Julianne,TX,Alpine TX
 KF5TXL,Kenneth,TX,Allen TX
@@ -2868,7 +2874,7 @@ KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ3H,Tony,NC,Greensboro NC
-KQ4DAP,Cainan,CWA,Perry GA
+KQ4DAP,Cainan,3412,Perry GA
 KQ4R,Ed,FL,Port Orange FL
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7W,Matt,WA,Port Orchard WA
@@ -3773,6 +3779,7 @@ NA1VT,Andy,2050,Wilder VT
 NA2AA,David,1198,WAYNE NJ
 NA2CC,Chas,CA,(Charles)  Fairfield CA
 NA2M,Bill,NY,Mohegan Lake NY
+NA2MM,Joe,NY,Islip NY
 NA2N,Greg,FL,Apollo Beach FL
 NA2U,Fred,2455,Phoenix AZ
 NA3M,Nick,MD,Gaithersburg MD
@@ -5689,6 +5696,7 @@ W9UCR,Bob,1907,Cape Coral FL
 W9UM,Nick,IN,Griffith IN
 W9VE,Don,2099,Dallas TX
 W9VNE,Jim,214,Cincinnati OH
+W9Wi,Doug,TN,Nashville TN
 W9WR,John,2134,Floyds Knobs IN
 W9XA,Kermit,1094,Batavia IL
 W9XC,Les,IL,Urbana IL
@@ -5865,7 +5873,7 @@ WB3EGD,Rich,3122,Hazleton PA
 WB3JGP,Randy,CA,El Cerrito CA
 WB3LJQ,Vincent,3120,Latrobe PA
 WB4AEG,Hal,1646,Adairsville GA
-WB4AJL,Dave,NC,Whittier NC
+WB4AJL,Dave,3414,Whittier NC
 WB4AQL,Mike,498,Chickamauga GA
 WB4DNL,Gary,497,Virginia Beach VA
 WB4FDT,Pip,916,Baltimore MD

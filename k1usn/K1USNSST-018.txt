@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-09-11
+# 1-Last Edit,2023-09-19
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -231,6 +231,7 @@ AA9WJ,JEFF,IN,
 AA9WP,DON,WI,
 AA9WS,KRIS,WI,
 AB0BM,GARY,IA,Cherokee IA
+AB0CD,DICK,CO,Denver CO
 AB0H,TIM,MO,Battlefield MO
 AB0LR,FRANK,CO,
 AB0RX,GEORGE,MO,
@@ -713,6 +714,7 @@ AG7T,,WA,
 AG7WI,ED,WA,Graham WA
 AG9A,MARK,IL,
 AG9C,BOB,IN,
+AG9G,DWIGHT,WI,Phillips WI
 AG9S,,IN,
 AH2O,DENNIS,NY,
 AH6KO,STAN,HI,
@@ -936,6 +938,7 @@ DL6SDW,JOE,DX,Neu-Ulm Germany
 DL7BS,Bern,DX,Berlin Germany
 DL7DS,DAN,DX,Neuss Germany
 DL7USW/P,MARK,DX,Berlin Germany
+DL8ABG,FRANK,DX,Ilsede Germany
 DL8MGD,LEO,DX,
 DL9AAA,JUERGEN,DX,Groebenzell Germany
 DL9BDM,EILERT,DX,?
@@ -996,6 +999,7 @@ F5GSK,PIERRE,DX,La seyne sur mer France
 F5GVE,JEAN,DX,Janville en Beauce France
 F5IDJ,VAL,DX,
 F5JRC,JOHN,DX,Epaux-Bezu France
+F5JWH,PHIL,DX,Severac D'Aveyron France
 F5LLE,JLOUIS,DX,Narbonne=Place France
 F5NFB,JO,DX,Valenton France
 F5OIH,VINCE,DX,VAlence en Poitou France
@@ -1005,6 +1009,7 @@ F5RMN,YVON,DX,?
 F5ROL,MANU,DX,?
 F5SGI,JEAN,DX,Vannes France
 F5SGP,JEAN,DX,Tantonville France
+F5SSI,ANDRE,DX,Beauville France
 F5TFW,GEORGE,DX,Reipertswiller France
 F6BUL,JOACHIM,DX,Annecy France
 F6DQV,Jean,DX,Vieille-Brioude France
@@ -1057,6 +1062,7 @@ G5C,MALCOLM,DX,
 G6GLP,TONY,DX,Devon England
 G8RWG,NIELS,DX,Coulsdon England
 G8XTJ,JOHN,DX,Bucks England
+GI3TME,ROBERT,DX,Derry City Northern Ireland
 GM0EUL,PETER,DX,Duns Scotland
 GM0HUU,STEVE,DX,Paisley Scotland
 GM1J,JIM,DX,Edinburgh Scotland
@@ -1072,6 +1078,8 @@ GW4ZAR,DAVE,DX,Flintshire Wales
 GW4ZCM,KEN,DX,Nelson Caerphilly Wales
 GW7APP,Ian,DX,Anlesey Wales
 HA5BDO,GABOR,DX,Szodliget Hungary
+HA8BR,MISI,DX,Nagyszenas Hungary
+HA8RD,LACI,DX,Kiskoros Hungary
 HA8RJ,ATI,DX,Soltvadkert Hungary
 HA8WZ,GYURI,DX,Bekescsaba Hungary
 HB0/DL5YL,TINA,DX,DXP
@@ -1079,9 +1087,11 @@ HB9AUK,WALT,DX,Switzerland
 HB9BEG,ERNST,DX,Ostermundigen Switzerland
 HB9BGG,MARCO,DX,Lufingen Switzerland
 HB9BXF,FRANZ,DX,Meikirch Switzerland
+HB9CMW,RICH,DX,Zurich Switzerland
 HB9DAX,FRED,DX,Landquart Swtzerland
 HB9DOS,ROBY,DX,Olivone/Luorscha Switzerland
 HB9FAB,PAT,DX,Camignolo Switzerland
+HB9FNN,EMIL,DX,Lyss Switzerland
 HB9HBV,JEAN,DX,Muttenz Switzerland
 HB9HDV,YOSHI,DX,Bernex Switzerland
 HB9HFA,MARTIAL,DX,Broc Switzerland
@@ -1119,6 +1129,7 @@ IN3XSV,STEF,DX,Trento Italy
 IQ1IV,RO,DX,Ivrea Italy
 IU0PIO/7,LECCE,DX,?
 IU1AUG,Diego,DX,Tavagnasco Italy
+IU1OPK,RIC,DX,Torino Italy
 IU2ECB,MAURO,DX,Rivolta D'Adda Italy
 IU3MIK/P,ANDREA,DX,Terviso Italy
 IU5PDY,NAME,DX,Livorno Italy
@@ -2558,6 +2569,7 @@ K5TNP,,LA,
 K5TQ,GARY,NM,
 K5TR,GEO,TX,
 K5TRI,MIKE,WA,
+K5TS,DAVE,LA,Bentley LA
 K5TSK,HANK,AR,Pearcy AR
 K5TT,,OK,
 K5TTT,CHARLES,OK,
@@ -2577,7 +2589,7 @@ K5UTG,WARREN,OK,
 K5UU,Jamie,TX,
 K5UV,MIKE,OK,
 K5UZ,DAVID,AR,
-K5VBA,DON,MI,
+K5VBA,Stan,MI,
 K5VG,JOHN,VA,Woodbridge VA
 K5VH,,TX,
 K5VI,ANDY,TX,
@@ -4259,6 +4271,7 @@ KC5UOO,,OK,
 KC5WA,BOB,LA,
 KC5WX,GENE,TX,
 KC6D,DON,CA,Huntington Beach CA
+KC6EOA,BRADE,CA,Windsor CA
 KC6ZBE,DAVE,TX,League City TX
 KC7AQZ,DAVE,AZ,
 KC7ESB,,ID,
@@ -4753,6 +4766,7 @@ KE8FO,,MI,
 KE8FT,JOE,CA,
 KE8G,JIM,OH,
 KE8GKO,JODY,OH,Medina OH
+KE8HUM,TOM,MI,Plymouth MI
 KE8JTG,RUSTY,OH,
 KE8KIK,PHIL,OH,Massillon OH
 KE8M,DAVE,OH,
@@ -5085,6 +5099,7 @@ KI4FW,RICK,VA,
 KI4FWE,,VA,
 KI4IPI,,FL,
 KI4KGK,BILLY,GA,Atlanta GA
+KI4KXO,DANNY,GA,Buford GA
 KI4MFX,TOM,VA,
 KI4MM,PAT,FL,Clearwater FL
 KI4MZC,DON,GA,
@@ -5260,6 +5275,7 @@ KK4CQN,ANDY,GA,
 KK4CS,SCOTT,GA,
 KK4DDT,DUANE,GA,
 KK4DF,,GA,
+KK4DF,WALT,NC,Brevard NC
 KK4DSD,ANDY,SC,
 KK4EIR,KEN,VA,
 KK4EVJ,Ed,KY,Allensville KY
@@ -5731,6 +5747,7 @@ KT4XN,TOM,GA,
 KT5C,MIKE,TX,Tyler TX
 KT5D,,TN,
 KT5E,,CO,
+KT5LA,JAY,CA,Lawndale CA
 KT5MR,MIKE,TX,
 KT5V,DAVID,TX,
 KT5W,,LA,
@@ -7402,6 +7419,7 @@ N6WS,,CA,
 N6WT,KENT,CA,
 N6XG,WALT,CA,
 N6XI,RICK,CA,
+N6XK,TIM,CA,Los Gatos CA
 N6YEU,FRED,CA,
 N6YQ,ROB,CA,Victorville CA
 N6ZFO,BILL,CA,
@@ -7476,6 +7494,7 @@ N7IJ,,ID,
 N7IMI,EARL,OR,Canby OR
 N7IP,BOB,MT,
 N7IR,GARY,AZ,
+N7JI/5,SCOTT,AR,
 N7KDT,TODD,AL,
 N7KFL,,CA,
 N7KM,KEN,UT,
@@ -8847,6 +8866,7 @@ UR3QX,GENO,DX,Zaporizhia Ukraine
 UR4EZ,VICTOR,DX,Ukraine
 UR5EH,ALEKS,DX,Ukraine
 UR5KHQ,KEN,DX,Rivne Ukraine
+UR5LQT,GREG,DX,
 UR5MM,RUDY,DX,Partizanskaya Ukraine
 UT3UY,TOLY,DX,Ukraine
 UW5RA,PETR,DX,Ukraine
@@ -12580,6 +12600,7 @@ WA3OFR,MARK,MA,Attleboro MA
 WA3OPX,JOE,FL,?
 WA3PFA,CHAZ,
 WA3QWA,MARCO,VA,Chesapeake VA
+WA3RGH,CRAIG,VA,Fairfax VA
 WA3RGY,PHIL,NJ,Sewell NJ
 WA3RHW,,NJ,
 WA3RNC,JOHN,PA,Lewistown PA
@@ -13361,6 +13382,7 @@ WD5DDH,,TX,
 WD5DJT,,TX,
 WD5EWD,,TX,
 WD5F,FRED,FL,
+WD5FCA,ALAN,AL,Hoover AL
 WD5FGZ,,TX,
 WD5G,,TX,
 WD5HCK,RUSS,OK,Ardmore OK

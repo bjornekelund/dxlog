@@ -3,7 +3,7 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2023-09-11
+# Last Edit,2023-09-18
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 # Thanks SM7yIUN for his help
@@ -3976,7 +3976,7 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-NM2A,Mark,3014,Pulaski NY (Montana for summer)
+NM2A,Mark,3014,Pulaski NY 
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
@@ -4071,6 +4071,7 @@ NU6N,Arka,2152,Sunnyvale CA (Southwest Amb.)
 NU6T,Richard,CA,Fair Oaks CA
 NU7J,Tom,WA,Marysville WA
 NU7Y,Quint,1261,Oro Valley AZ
+NU8A,DAVE,
 NU8Z,MARK,
 NV1U,Tom,2303,The Villages FL
 NV3N,Stu,1815,Pennsylvania Furnace PA
@@ -5021,6 +5022,7 @@ W0BV,Bob,753,Buena Vista CO
 W0CAR,John,3153,Englewood CO
 W0CCA,Cap,1381,Dolores CO
 W0CD,Jim,KS,Ozawkie KS
+W0CKI,Gary,
 W0CO,Brad,1452,Pitkin CO
 W0CP,Walt,1752,Englewood CO
 W0CWO,,,Dakota CWops Club (Chanhassen MN)
