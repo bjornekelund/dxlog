@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-09-18
+# Last Edit,2023-09-20
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -375,6 +375,7 @@ AI2S,Ray,FL,Safety Harbor FL
 AI2T,Barry,NY,Owego NY
 AI3A,Alan,3053,Georgetown CA
 AI3W,Rick,UT,Murray UT
+AI4FH,WES,VA,Groucester VA
 AI5IN,Marty,TX,Waller TX
 AI6DO,Ryan,CA,Torrance CA
 AI6IE,Step,CA,Alta Loma  CA
@@ -647,6 +648,7 @@ DL8MAS,Bernd,DL,Friedberg Germany
 DL8MX,Wil,,Hochstadt Germany
 DL8PG,Gerd,833,Weyerbusch near Bonn Germany
 DL8TG,Klaus,2524,Wolfsburg Germany  (Been heard QRP)
+DL9BU,Burger,,Voerde Germany
 PZ5TG,Klaus,2524,(DL8TG) Surinam
 DL8UKW,Uli,,Zeuthen Germany
 DL9ABM,Stefan,1922,Bergen Germany
@@ -957,6 +959,7 @@ G4KQY,Mike,2987,Norwich England
 G4LJU,Colin,,Redhill England
 G4LMW,Rob,,Berkshire England
 G4LPP,Phil,2547,Sutton Norfolk England
+G4LXX,Ian,,Heatherlands England
 G4MEM,Mark,G,North Yorkshire England
 G4MPN,Dave,,Kent England
 G4NVR,Phil,1583,(M2D)  Northumberland England
@@ -2039,6 +2042,7 @@ K7KPA,Kevin,UT,Orem UT
 K7KY,Doug,1396,Brookings OR
 K7LV,George,800,Las Vegas NV
 K7LVJ,John,1833,Burlington WA
+K7MG,Jeff,WA,Bainbridge Island WA
 K7MK,Jim,3342,Boise ID
 K7MNF,Mike,CWA,Blaine WA
 K7MOA,Key,1594,Athens GA
@@ -3022,6 +3026,7 @@ LT6M,Seba,,Lujan de Cuyo Argentina
 LU1AW,Juan,1835,Buenos Aires Argentina
 LU3MAM,Osvaldo,,(L33M) Mendoza Argenetina
 LU5DX,Martin,2986,Lujan Argentina
+LW5HR,Diego,,Cordoba Argentina
 LX/DJ1YFK,Fabian,1566,
 LX1NO,Norby,,Strassen Luxembourg
 LY2AX,Arunas,,Kaunas Lithuania
@@ -5177,6 +5182,7 @@ W2ZRA,Kevin,942,Cutchogue NY
 W3AC,Dave,1235,Forest VA
 W3AG,Joe,PA,Pittsburg PA
 W3AST,Jim,DE,Newark DE
+W3ASW,Mike,DE,Newark DE
 W3AT,Jim,NM,Santa Fe NM
 W3ATT,Brian,1301,Bayse VA
 W3AVP,Alex,PA,New Holland PA
@@ -6177,6 +6183,7 @@ YT1E,Rod,,Lazarevac Serbia
 YT5FD,Slavko,,lajkovac Serbia
 YT5N,Mike,,Serbia
 YU6DX,Alex,YU,Novi Beograd Serbia
+YU7TBA,Balint,,Backa Topola Serbia
 Z32U,Zoki,Z3,North Macedonia
 Z33B,Kirk,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
