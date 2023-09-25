@@ -1,5 +1,5 @@
-# WWFF actication database
-# Last updated 2023-09-22
+# WWFF activation database
+# Last updated 2023-09-25
 2E0AGB=
 2E0CRV=
 2E0ESY=
@@ -45,7 +45,6 @@
 4Z5LX=
 4Z5PT=
 4Z5TT=
-599=
 5B4AIF=
 5B4AIX=
 5N7M=

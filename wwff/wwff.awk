@@ -11,7 +11,7 @@ BEGIN {
     if ($5 ~ /Name|NAME/) col = 4;
       printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^[A-Z0-9]+$/) {
+  else if ($1 ~ /^[A-Z0-9]+$/ && $1 ~ /[0-9]+/ && $1 ~ /[A-Z]+/) {
     printf("%s=%s\n", $1, $col);
     lines[$1] = $0;
   }
