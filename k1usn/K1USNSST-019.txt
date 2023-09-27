@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-09-19
+# 1-Last Edit,2023-09-26
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -317,6 +317,7 @@ AB8CI,BRUCE,VA,Manassas VA
 AB8CK,DMITRY,NJ,
 AB8DF,,MI,
 AB8DT,RON,MI,
+AB8DY,CRAIG,WV,Nitro WV
 AB8EU,,MI,
 AB8FE,RANDY,OH,
 AB8IT,TOM,MI,Howell MI
@@ -2015,6 +2016,7 @@ K4AL,,TN,
 K4ALE,BEVIN,VA,
 K4AMA,TONY,SC,
 K4AMC,JIM,TN,
+K4AMQ,AL,TN,Old Hickory TN
 K4ANA,JOHN,VA,Virginia Beach VA
 K4ANC,BILL,PA,?
 K4AOA,JIM,NC,
@@ -4133,6 +4135,7 @@ KC2BBU,CHRIS,NY,
 KC2BE,RANDY,NJ,Bellmawr NU
 KC2CZK,RICH,NY,Solvay NY
 KC2DLR,,PA,
+KC2EGL,MIKE,PA,Brookville PA
 KC2EKI,,NY,
 KC2EQA,LARRY,NY,Plattsburgh NY
 KC2EQA/QRP,LARRY,NY,Plattsburgh NY
@@ -5981,6 +5984,7 @@ M0NYW,JASON,DX,North Tyneside England
 M0RYB,PETER,DX,Norwich England
 M0SDB,DANNY,DX,Sheffield England
 M0SHM,STEVE,DX,Lancs England
+M0SUY,Demetre,DX,(SV1UY)  Gateshead England
 M0WDD,DAVID,DX,Salford Manchester England
 M1VPN,DAMIAN,DX,Honiton England
 M1X,STEVE,DX,Sevenoaks Kent Englad
@@ -7554,6 +7558,7 @@ N7SMT,DAVE,WA,
 N7SR,STEVE,FL,Bokeelia FL
 N7SU,DAN,AZ,
 N7TAT,PAT,OR,Salem OR
+N7TB,TERRY,OR,Salem OR
 N7TEW,GARY,AZ,
 N7TK,JOHN,WA,
 N7TL,,OR,
@@ -8850,6 +8855,7 @@ SP9GMI,JAN,DX,Pszczyna Poland
 SP9IHP,ANDY,DX,Czestochowa Poland
 SP9TKW,MAREK,DX,PGA Poland
 SV1CEI,NICK,DX,Nea Penteli Greece
+SV1UY,Demetre,DX,Athens Greece
 SV2HJQ,MICEL,DX,Ptolemaida Greece
 SV9RPE,DICK,DX,Lasithi Crete
 TF3SG,GUDMI,DX,Reykjavik Iceland
@@ -8977,7 +8983,7 @@ VA3UC,RON,ON,Walkerton ON
 VA3UKR,Maria,ON,Oakville ON
 VA3VT,JIMMY,ON,
 VA3WB,DENNIS,ON,
-VA3WGX,NICK,ON,Ottawa ON
+VA3WGX,NIC,ON,Ottawa ON
 VA3WN,TRAVIS,ON,
 VA3WR,JIM,ON,
 VA3WTM,BILL,ON,
@@ -9625,6 +9631,7 @@ W0AA,,MN,
 W0AAE,BOB,MN,
 W0AAW,,MO,
 W0AD,PAUL,MN,
+W0ADL,AARON,MN,Brooklyn Park MN
 W0AG,MIKE,TN,
 W0AH,,CO,
 W0AIH,PAUL,WI,
@@ -10776,7 +10783,7 @@ W4DUK,DAVE,VA,
 W4DUP,,TN,
 W4DVG,GEORGE,TN,
 W4DWN,DENNIS,GA,
-W4DWS,Mayor,GA,(Dennis) Cave Spring GA
+W4DWS,Dennis,GA,Cave Spring GA
 W4DXX,ERIC,GA,
 W4EAP,KARL,VA,Blacksburg VA
 W4EB,,GA,
@@ -13510,7 +13517,7 @@ WH6R,ERAN,HI,
 WH6YH,MIKE,GA,
 WH7M,LOU,HI,
 WI0V,GARY,NE,Chadron NE
-WI0WA,WALT,IA,
+WI0WA,BUGS,IA,
 WI1B,KEN,MA,Deerfield Beach FL
 WI1E,JERRY,VA,
 WI1G,JOHN,MA,
@@ -13685,6 +13692,7 @@ WP3PW,JOSE,FL,Sanford FL
 WP3R,,DX
 WP4F,DAN,DX,Toa Alta PR
 WP4IZQ,MELVIN,DX,Canovanas PR
+WP4TZ,MANUEL,DX,San Juan PR 
 WQ0N,RUSS,MN,
 WQ0P,,KS,
 WQ1H,,NH,
