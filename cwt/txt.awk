@@ -43,7 +43,7 @@ BEGIN {
       if (call ~ /^EX/) ID = "EX";
       if (call ~ /^EY/) ID = "EY";
       if (call ~ /^F[0-9]/) ID = "F";
-      if (call ~ /^([GM][0-9,K]|2E)/) ID = "G";
+      if (call ~ /^([GM][0-9KR]|2E)/) ID = "G";
       if (call ~ /^[GM]D/) ID = "GD";
       if (call ~ /^[GM]M/) ID = "GM";
       if (call ~ /^[GM]W/) ID = "GW";
@@ -104,13 +104,13 @@ BEGIN {
       if (call ~ /^YL/) ID = "YL";
       if (call ~ /^Y[BCD]/) ID = "YB";
       if (call ~ /^YO/) ID = "YO";
-      if (call ~ /^Y[TQ]/) ID = "YT";
+      if (call ~ /^Y[UTQ]/) ID = "YT";
       if (call ~ /^ZB/) ID = "ZB";
       if (call ~ /^Z3/) ID = "Z3";
       if (call ~ /^ZD7/) ID = "ZD7";
       if (call ~ /^ZD8/) ID = "ZD8";
       if (call ~ /^ZF/) ID = "ZF";
-      if (call ~ /^Z[LK]/) ID = "ZL";
+      if (call ~ /^Z[KLM]/) ID = "ZL";
       if (call ~ /^ZP/) ID = "ZP";
       if (call ~ /^Z[R-S]/) ID = "ZS";
     }
