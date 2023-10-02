@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-09-26
+# 1-Last Edit,2023-10-01
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -3213,7 +3213,6 @@ K8NMG,,OH,
 K8NOZ,,MI,
 K8NS,MIKE,FL,
 K8NT,,OH,
-K8NU,,OH,
 K8NU,CARL,OH,Columbus OH
 K8NVR,,OH,
 K8NWD,TIM,MI,
@@ -5277,7 +5276,6 @@ KK4CIS,ALAN,FL,
 KK4CQN,ANDY,GA,
 KK4CS,SCOTT,GA,
 KK4DDT,DUANE,GA,
-KK4DF,,GA,
 KK4DF,WALT,NC,Brevard NC
 KK4DSD,ANDY,SC,
 KK4EIR,KEN,VA,
@@ -9646,7 +9644,6 @@ W0BBI,BILL,MO,
 W0BF,GARY,AZ,
 W0BH,BOB,KS,
 W0BJ,,NE,
-W0BM,,MO,
 W0BM,PAT,MN,Kasson MN
 W0BOV,,MO,
 W0BR,BOB,PA,
@@ -10683,7 +10680,6 @@ W3ZI,,VA,
 W3ZKL,,PA,
 W3ZL,,NC,
 W3ZMN,,PA,
-W3ZQN,,PA,
 W3ZQN,BOB,PA,Lansdale PA
 W3ZR,,PA,
 W3ZRW,JOEL,MD,Siolver Spring MS
