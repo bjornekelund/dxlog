@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-09-29
+# Last Edit,2023-10-03
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -2890,7 +2890,6 @@ KR2H,Fred,NJ,Fair Lawn NJ
 KR2Q,Doug,438,Randolph NJ
 KR3E,Ed,ND,Derwood MD (CWops Outreach Committee Chairman)
 KR4AE,Alan,1460,Cleveland GA (Full Time QRP K3/10 @ 5w)
-KR4CRJ,Brian,NC,Stoneville NC
 KR4TH,Jerry,2128,Ooltewah TN
 KR4UA,Tom,GA,La Fayette GA
 KR6N,Bob,CA,El Dorado Hills CA

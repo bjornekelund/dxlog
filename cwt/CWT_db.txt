@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3416
-# Last updated 2023-10-01
+# Last updated 2023-10-04
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -2876,7 +2876,6 @@ KR2H=Fred;NJ
 KR2Q=Doug;438
 KR3E=Ed;ND
 KR4AE=Alan;1460
-KR4CRJ=Brian;NC
 KR4TH=Jerry;2128
 KR4UA=Tom;GA
 KR6N=Bob;CA
