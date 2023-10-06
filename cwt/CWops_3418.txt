@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-10-03
+# Last Edit,2023-10-06
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -566,7 +566,7 @@ DL1QQ,Sandy,1581,Hoexter Germany
 DL1REM,Frank,2382,Schoeppingen Germany
 DL1RNN,Lutz,,Wolfsburg Germany
 DL1ROT,Tom,,Muencheberg Germany
-DL1VDL,Hardy,DL,Dresden Germany
+DL1VDL,Hardy,2802,Dresden Germany
 DL1XX,Klaus,,Spechbach Germany
 DL2ANM,Heinz,,Altenburg Germany
 DL2CC,Frank,511,Dornstadt-Scharenstetten Germany
@@ -680,6 +680,7 @@ E29TGW,MEW,3285,Nonthaburi Thailand
 E7/Z35M,Vlado,E7,
 E70T,Vlado,E7,
 E71A,Emil,484,Sarajevo Bosnia and Herzegovina
+E72U,Vedo,E7,Brcko Bosnia and Herzegovina
 E73ESP,RC,,(Club Stjepan Polje)  Bosnia and Herzegovina
 E74D,Nermin,,Zenica Bosnia & Herzegovina
 E74X,Veljko,T9,LJubija Bosnia and Herzegovina
@@ -876,7 +877,8 @@ G0ORH,Ken,,Thatcham West Berkshire
 G0PNM,Peter,,Cornwall England
 G0RDO,John,,Newton Abbot Devon Egnland
 G0TPH,Al,2956,Desford England (Been heard QRP)
-G0TRT,Cie,CWA,Warminster England (QRP)
+G0TRT,Cie,CWA,Warminster England 
+W6/G0TRT,Cie,CWA,San Frisco USA
 G0TZZ,Chris,3387,Sporte England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England
@@ -1823,7 +1825,7 @@ K5CM,Con,1662,(Connie) Muskogee OK
 K5CRX,Bob,TX,Allen TX
 K5DP,Mark,3000,Tulsa OK
 K5DQ,Peggy,TX,Santa Fe TX
-K5DU,Susan,TX,(88)  Manor TX
+K5DU,Susan,88,Manor TX
 K5EDI,Brent,TX,Trophy Club TX
 K5EDM,Greg,1967,Benton AR
 K5EFJ,Emmett,LA,Minden LA
@@ -3402,7 +3404,7 @@ N4GL,Marty,1644,Ocala FL
 N4GO,Jay,3239,(ex:W4ZXT)  Richmond KY
 N4GU,Mike,737,Raleigh NC
 N4HAI,Tom,1099,Westerville OH
-N4HAY,Dic,NC,Morrisville NC
+N4HAY,Dick,NC,Morrisville NC
 N4HOE,Hal,3060,Ocala FL
 N4IJ,Doug,1938,(W5FN) Forest City NC
 N4IQ,Bill,1610,Simpsonville SC
@@ -3496,6 +3498,7 @@ N5ER,John,3036,Cabot  AR (Been heard QRP)
 N5EVE,Frank,RI,Patucket RI
 N5FIW,Joel,IL,Barrington IL
 N5FO,Sam,1680,Tyrone NM
+N5FZ,Paul,3418,Spring TX
 N5GG,Colin,3364,Lewisville TX
 N5GKJ,Gerald,LA,Metairie LA
 N5HC,Bruce,NM,Rio Rancho NM
@@ -3567,6 +3570,7 @@ N6ERD/1,Dan,CT,
 N6EV,Paul,380,El Camino Village CA
 N6EWT,Chris,CA,Redondo Beach CA
 N6FP,Doug,CA,Benicia CA
+N6FVY,John,CA,Lockwood CA
 N6GQ,Jeff,67,Santa Cruz CA
 N6GV,Gary,CWA,Alameda CA
 N6HCN,John,1914,Yorba Linda CA
@@ -3934,11 +3938,11 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-# NM2A,Mark,3014,Pulaski NY
-NM2A,Mark,3014,Pulaski NY 
+NM2A,Mark,3014,Pulaski NY
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
+NM5D,Jeremy,CWA,Las Cruces NM
 NM5G,Keith,2570,Tomball TX (South Central Amb.)
 NM5M,Eric,974,Plano TX
 NM5N,Sam,2670,Ft Worth TX
@@ -4826,7 +4830,7 @@ VE3MV,Doug,1642,East York ON
 VE3MVM,Mary,ON,Amaranth ON
 VE3NA,Al,ON,Greely ON
 VE3NE,Lali,128,Etobicoke ON
-VE3NGN,Chad,ON,Stittsville ON
+VE3NGN,Chad,CWA,Stittsville ON
 VE3NI,Daniel,ON,Mississauga ON
 VE3NNT,Les,1701,Mississauga ON (Possibly Remote)
 VE3NR,Bob,ON,Scarborough ON
@@ -4970,7 +4974,7 @@ VY1JT,Jim,1,(N3JT) Yukon Canada
 VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Alan,PE,Montagne PE
 W0AAE,Bob,2947,Maple MN
-W0ABE,Justin,CO,Bellville CO
+W0ABE,Justin,3417,Bellville CO
 W0AD,Paul,MN,Elden Prairie MN
 W0AG,Mike,1317,Crossville TN
 W0AJU,Rich,MO,St. Louis MO
@@ -5709,7 +5713,7 @@ W9UCR,Bob,1907,Cape Coral FL
 W9UM,Nick,IN,Griffith IN
 W9VE,Don,2099,Dallas TX
 W9VNE,Jim,214,Cincinnati OH
-W9Wi,Doug,TN,Nashville TN
+W9WI,Doug,TN,Nashville TN
 W9WR,John,2134,Floyds Knobs IN
 W9XA,Kermit,1094,Batavia IL
 W9XC,Les,IL,Urbana IL
