@@ -1,13 +1,14 @@
 BEGIN {
   FS=","
   printf("#0 TRC members database\n");
-  printf("#1 Data collected and maintained by Chris SP5KP\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#1 Data collected and maintained by LZ1ONK and VE2FK\n");
+  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {
   if ($1 == "!!Order!!") {
-    if ($3 == "Sect) col = 2;
+    if ($3 == "Sect") col = 2;
     if ($4 == "Sect") col = 3;
     if ($5 == "Sect") col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
@@ -21,7 +22,7 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else {
+  else if ($0 !~ /^(#|!|$)/) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
