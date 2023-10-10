@@ -5,7 +5,7 @@ OUTFILE=MCD_db.txt
 
 echo Downloading $FILE
 
-wget -q http://www.ariloano.it/marconiclub/List_Members_MC.csv -O $FILE
+curl -sS http://www.ariloano.it/marconiclub/List_Members_MC.csv -o $FILE
 
 dos2unix -q $FILE
 

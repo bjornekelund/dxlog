@@ -1,5 +1,5 @@
 # AGCW-DL Mitgliederliste;;
-# Revision 20230801;;
+# Revision 20231001;;
 # AGCW#;RUFZ;VORNAME
 18;DK4LX;Holger
 24;DL7DO;Ralf
@@ -71,7 +71,7 @@
 283;OK1YR;Karel
 284;OK1MIZ;Jaroslav
 289;DK6OX;Waldemar
-301;SWL-DL;Heiko
+301;DK4TL;Heiko
 304;DJ2VT;Hans-Georg
 319;IT9LPG;Giuseppe
 337;DK6AJ;Jürgen
@@ -239,7 +239,6 @@
 818;DL2OM;Roland
 819;DL4LF;Dirk
 821;DJ7JE;Klaus-Dieter
-823;DL8EF;Fritz
 824;DJ1BC;Dieter
 827;SP1DPA;Waldemar
 829;DF6NW;Friedrich
@@ -370,6 +369,7 @@
 1171;DK7SO;Valentin
 1172;OK2BMA;Pavel
 1173;WE6V;Jim
+1174;DJ9RT;Werner
 1175;DL3BBY;Harald
 1181;PY1QN;Ruben
 1183;DF2OF;Matthias
@@ -1009,7 +1009,6 @@
 2610;DL7BER;Rainer
 2611;OE1KYW;Kurt
 2612;DF5WA;Berthold
-2613;DL5NEQ;Jörg
 2615;DJ8WK;Stefan
 2618;OE3KLU;Charly
 2619;OE8CIQ;Christian
@@ -1228,7 +1227,6 @@
 2985;DK1WV;Joachim
 2986;DL7JSK;Thomas
 2990;DH2SN;Sascha
-2991;DF7WL;Jürgen
 2993;SP1EG;Wieslaw
 2993;DL6ES;Wieslaw
 2994;DL6ABB;Michael
@@ -1276,7 +1274,6 @@
 3061;M0GMT;Daniel
 3063;DF4DJ;Klaus
 3064;DL4MO;Lothar
-3065;DL7NL;Stefan
 3067;ON6NW;Walter
 3068;DJ2AVB;Giselher
 3069;DJ6QO;Dietrich
@@ -1323,7 +1320,6 @@
 3132;OH7QR;Erkki
 3133;DL5MM;Wolfgang
 3134;OE3SOB;Siegfried
-3136;DG4WT;Wolfgang
 3137;DH6AB;Ronalt
 3138;SP1EGN;Robert
 3139;HB9HSX;Antonio
@@ -1548,7 +1544,6 @@
 3461;DJ3KU;Wolfgang
 3462;DL2OBH;Andreas
 3463;DJ2IA;Dieter
-3464;DJ7PU;Udo
 3467;SP1TJ;Marek
 3468;DL5YBZ;Olaf
 3470;DL5IAH;Jörg
@@ -1652,7 +1647,6 @@
 3592;DL1CCW;Walter
 3593;HB9FGU;Michael
 3593;DF8WI;Michael
-3594;DK4DM;Raimund
 3597;WB5HQO;Forrest
 3598;DG2MEL;Wolfgang
 3600;DL8CD;Daniel
@@ -1750,7 +1744,6 @@
 3723;DL1USW;Ulrike Stephanie
 3724;I2CZQ;Pietro
 3725;OE6TZE;Thomas
-3726;DD8ZY;Stefan
 3727;F8GRY;Benoit
 3728;DK2XU;Günter
 3729;DJ5BY;Wolfgang
@@ -2255,3 +2248,11 @@
 4297;SWL-DL;Bibiana
 4298;F4JPY;Jeremy
 4299;SWL-DL;Beate
+4300;DL4SST;Simeon
+4301;SV1DAY;Manos
+4302;DL6KDS;Klaus-Dieter
+4303;DO1DCB;Christian
+4304;DO1AHW;Andreas
+4305;DO5OK;Olaf
+4306;DL9FCM;Ralf
+4307;DJ6PT;Maximilian

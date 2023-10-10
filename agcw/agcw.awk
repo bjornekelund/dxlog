@@ -7,7 +7,7 @@ BEGIN {
     if ($1 > max) max = $1;
     printf("%s=%s\n", $2, $1);
   }
-  else if ($0 !~ /#/) {
+  else if ($0 !~ /#/ && $0 !~ /SWL/) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
 }

@@ -3,7 +3,7 @@ INFILE=bcc-members.txt
 OUTFILE=BCC-regex.txt
 
 echo Downloading $INFILE...
-wget -q --no-hsts https://www.bavarian-contest-club.de/data/bcc-members.txt -O $INFILE
+curl -sS https://www.bavarian-contest-club.de/data/bcc-members.txt -o $INFILE
 
 echo Parsing $INFILE...
 dos2unix -q $INFILE

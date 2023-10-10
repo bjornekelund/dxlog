@@ -3,7 +3,7 @@ INFILE=bcc-members.xdt
 OUTFILE=BCC.xdt
 
 echo Downloading $INFILE...
-wget -q --no-hsts https://www.bavarian-contest-club.de/data/bcc-members.xdt -O $OUTFILE
+curl -sS https://www.bavarian-contest-club.de/data/bcc-members.xdt -o $OUTFILE
 
 cp $OUTFILE ../xdt
 

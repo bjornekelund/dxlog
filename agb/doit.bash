@@ -5,7 +5,7 @@ OUTFILE=AGB_db.txt
 
 echo Downloading $FILE
 
-wget -q http://ev5agb.com/club/agb-list.txt -O $FILE
+curl -sS http://ev5agb.com/club/agb-list.txt -o $FILE
 
 dos2unix -q $FILE
 

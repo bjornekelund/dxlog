@@ -4,7 +4,7 @@ OUTFILE=AGCW_db.txt
 
 echo Downloading $FILE
 
-wget --no-hsts https://www.agcw.de/wp-content/persist/Mitglieder.csv -O $FILE
+curl -sS https://www.agcw.de/wp-content/persist/Mitglieder.csv -o $FILE
 
 dos2unix -q $FILE
 

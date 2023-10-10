@@ -4,7 +4,7 @@ OUTFILE=DIG_db.txt
 
 echo Downloading $FILE
 
-wget -q https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -O $FILE
+curl -sS https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $FILE
 
 echo "Parsing" $FILE
 

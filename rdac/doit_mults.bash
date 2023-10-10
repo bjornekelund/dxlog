@@ -5,7 +5,7 @@ FILE=rda_eng.txt
 rm $FILE
 
 echo Downloading $FILE
-wget http://rdaward.org/$FILE
+wget -q http://rdaward.org/$FILE
 dos2unix -q $FILE
 
 sed 's/  /\t/g' rda_eng.txt | sed 's/\/ /\//g' | sed 's/ \/\t/\/\t/g' |\
