@@ -1,17 +1,15 @@
 BEGIN {
-  FS=","
+  FS=";"
 }
 {
-  if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^..[1-9][0-9]*$/) {
-    number = substr($2, 3);
-    printf("%s=%s\n", $1, number);
+  if ($1 ~ /^MC[1-9][0-9]*$/ && $2 ~ /^[A-Z0-9/]+/) {
+    printf("%s=%s\n", $2, $1);
   }
   else if ($0 !~/^(!|#|$)/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {
   printf("#0 MARCONI CLUB ARI LOANO members database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#1 Based on data from http://www.ariloano.it/marconiclub\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }
