@@ -5,7 +5,7 @@ BEGIN {
   if ($1 ~ /^MC[1-9][0-9]*$/ && $2 ~ /^[A-Z0-9/]+/) {
     printf("%s=%s\n", $2, $1);
   }
-  else if ($0 !~/^(!|#|$)/)
+  else if ($0 !~/num/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {
