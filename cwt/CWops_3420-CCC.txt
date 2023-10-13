@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-10-06
+# Last Edit,2023-10-12
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -749,6 +749,7 @@ EA8KW,Carlos,1565,Las Palmas Canary Island
 EA8NQ,Isi,,Tenerife Spain
 EA8OM,Heijo,425,Puerto de la Cruz Canary Island (DJ1OJ)
 EA8RM,Juan,EA8,Canary Islands
+EA8UP,Mike,,
 EA8ZS,Manuel,907,Las Palmas Canary Island
 EC7ABV,Tony,1558,Cadiz Spain
 EE8E,Juan,EA8,Canary Island
@@ -1534,6 +1535,7 @@ K2LML,Bill,FL,Fort Myers FL
 K2MMO,Mike,NY,Staten Island NY
 K2MN,Steve,NJ,West Berlin NJ
 K2MRK,Mark,FL,Melbourne FL
+K2TNO,Bill,NC,Beaufort NC
 K2MYQ,Bill,NJ,Princeton NJ
 K2MYQ/1,Bill,ME,
 K2NEL,Sean,2232,Albany NY
@@ -2058,6 +2060,7 @@ K7PAX,Paula,WA,Port Angeles WA
 K7PD,Del,UT,Central UT
 K7PKA,Paula,3055,Big Arm MT
 K7PKG,Matt,AZ,Tucson AZ
+K7ROG,Roger,AZ,Tucson AZ
 K7QA,Tom,1959,Missoula MT
 K7QBW,Robert,2091,Vernonia OR
 K7RAT,Tree,83,Boring ARC Manning OR
@@ -2437,7 +2440,7 @@ KC5F,Steve,NC,East Flat Rock NC
 KC5KWZ,John,LA,Metairie LA
 KC5PL,Dixon,LA,Houma LA
 KC5QIH,Chris,TX,Robinson TX
-KC6EOA,Bradley,CA,Windsor CA
+KC6EOA,Brad,CA,Windsor CA
 KC6SSE,Mike,CA,Santa Rosa CA
 KC7V,Mike,260,Cave Creek AZ
 KC7ZO,Dan,MT,Stevensville MT
@@ -2538,7 +2541,7 @@ KE1J,Lars,2037,South Kingstown RI
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
 KE2LW,Ron,NY,Rochester NY
-KE2SX,Gregg,NC,Wake Forest NC
+KE2SX,Gregg,1941,Wake Forest NC
 KE2WY,Bob,NY,Syracuse NY
 KE2YK,Gary,NY,East Yaphand NY
 KE3GK,Tom,3143,Glen Burnie MD
@@ -3430,7 +3433,7 @@ N4NQ,Sid,1611,Lawrenceville GA
 N4NR,Dennis,AL,Pelham AL
 N4NS,Ken,FL,Daytona Beach FL
 N4NSS,Kyle,2821,Sebring FL
-N4NTO,Tripp,2821,Tarboro NC (Been heard QRP)
+N4NTO,Tripp,NC,(2821)  Tarboro NC (Been heard QRP)
 N4NW,Tom,VA,Stafford VA
 N4NX,Bill,GA,Atlanta GA
 N4NYK,Doug,SC,Columbia SC
@@ -3502,7 +3505,7 @@ N5FZ,Paul,3418,Spring TX
 N5GG,Colin,3364,Lewisville TX
 N5GKJ,Gerald,LA,Metairie LA
 N5HC,Bruce,NM,Rio Rancho NM
-N5HZ,Jim,LA,Metairie LA
+N5HZ,Jim,1425,Metairie LA
 N5IKD,Robert,TX,Lake Dallas TX
 N5IR,Bill,799,Sanger TX
 N5JB,John,2980,Parker TX
@@ -3989,7 +3992,7 @@ NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
 NP4Z,Felipe,KP4,San Juan PR
 NQ0N,Pat,MO,Excelsior Springs MO
-NQ2W,WILL,NY,Diamond Point NY (Been heard QRP)
+NQ2W,WILL,3419,Diamond Point NY (Been heard QRP)
 NQ6E,Frank,CA,Santa Rosa CA
 NQ6N,Matt,1013,Brooklyn NY
 NQ9A,Carol,WI,Madison WI
@@ -4186,6 +4189,7 @@ OK5MM,Vit,2499,Slavkova Czech Republic
 OK5OK,Jiri,,Czech Republic
 OK6DJ,David,,Holysov Czech Republic
 OK7AN,Petr,92,(OK2CQR)  Neratovice Czech Republic
+OK7NV,JIRI,,
 OK8AU,Slav,,Pruhonice Czech Republic
 OK8DJ,Dragan,,Rosic Czech Republic
 OK8GO,Alex,2685,(UR7GO)
@@ -4412,6 +4416,7 @@ S51WO,Sam,,Koroskem Slovenia
 S52R,Tone,,Crnomelj Slovenia
 S53O,Ljubo,,Martjanci Blovenia
 S53R,Rob,492,Spodnja Idrija Slovenia
+S53ZO,Simon,S5,
 S55AC,Leon,,Zalec Slovenia
 S55N,Joc,2513,(Joze) Slovenia
 S56A,Mario,,Ljubljana Slovenia
@@ -4906,6 +4911,7 @@ VE7NZ,Ady,2758,(Adrian)  Coquitlam BC
 VE7SK,Bob,3352,Prince George BC
 VE7WO,Brian,BC,Delta BC
 VE7XT,Rich,2831,Victoria BC
+VE7ZO,Jim,BC,Bowser BC
 VE8IR,Ian,NT,Yellowknife NT
 VE9AA,Mike,1347,Withheld NB
 VE9AA/M,Mike,1347,NB (From his Mini Cooper)
@@ -5756,6 +5762,7 @@ WA2ELW,Rich,MO,
 WA2MBP,Jim,773,Marietta GA
 WA2OAX,Ira,534,Liberty NY
 WA2SI,Bert,842,Port Jefferson NY
+WA2TAX,Paul,CWA,Rochester NY
 WA2TBQ,Ron,NC,Raleigh NC
 WA2TGE,Mike,SC,Rock Hill SC
 WA2USA,Dennis,819,Newburgh IN
@@ -6236,10 +6243,12 @@ ZS1EL,Vidi,13,Somerset Mall South Africa
 ZS1I,Johan,,Heiderand South Africa
 ZS1X,Dirk,1106,Parklands Cape Town South Africa
 ZS2I,Johan,,Heiderand South Africa
+ZS2M,Ridi,3420,Steytlerville South Africa
 ZS4TX,Bernie,,Danhof SA
 ZS5PG,Matt,3359,Malvern Durban South Africa
 ZS5SJ,John,,Richards Bay South Africa
 ZS6AKU,Dirk,,Glenvista South Africa
+ZS6DX,Ridi,3420,Steytlerville South Africa
 ZS6MSW,Mike,3247,South Africa
 ZS6RI,Chris,1236,The Reeds South Africa
 ZS6UT,Ed,,Lynnwood Ridge South Africa
