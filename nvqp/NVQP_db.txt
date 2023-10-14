@@ -1,7 +1,7 @@
 # Nevada QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-10-13
+# Last updated 2023-10-14
 AA0A=MO
 AA0AA=NE
 AA0AW=MN
@@ -995,6 +995,7 @@ K0NR=CO
 K0NY=MN
 K0OB=MN
 K0OK=ORG
+K0OO=MO
 K0ORB=MO
 K0OTR=MN
 K0OU=MO
@@ -2100,7 +2101,7 @@ K6CEQ=SDG
 K6CSL=SJV
 K6CTA=SF
 K6CTW=ORG
-K6CZH=NVLAN
+K6CZH=NVWAS
 K6DAJ=EB
 K6DBG=SCV
 K6DDJ=ORG
@@ -4648,6 +4649,7 @@ KK7EL=AZ
 KK7GO=SCV
 KK7JS=NTX
 KK7LU=OR
+KK7SL=NVLAN
 KK7UL=AZ
 KK7UV=MT
 KK7UZ=WWA
