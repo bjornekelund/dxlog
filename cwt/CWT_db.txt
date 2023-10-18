@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3420
-# Last updated 2023-10-13
+# Contains members up to #3424
+# Last updated 2023-10-18
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -937,6 +937,7 @@ G4E=Chris;1294
 G4ERW=Dave;G
 G4FAD=Rich;547
 G4FJW=Chris;G
+G4FNL=Graham;3423
 G4GIR=Ian;G
 G4HLN=Larry;3073
 G4HOM=Fred;G
@@ -946,6 +947,7 @@ G4HZE=Ed;2753
 G4HZV=Bob;1636
 G4ILW=James;1729
 G4IRN=John;268
+G4IVV=Jon;G
 G4IZZ=Mike;2511
 G4KLE=Merv;3283
 G4KQY=Mike;2987
@@ -1999,6 +2001,7 @@ K7AHR=Andy;2460
 K7AJG=Al;VA
 K7AJM=Jim;1730
 K7AZT=Paul;1621
+K7BG=Matt;SD
 K7BTW=Rich;2313
 K7BV=Dennis;NC
 K7CNT=Rick;2565
@@ -2817,7 +2820,7 @@ KN4RNO=Carl;GA
 KN4VCE=Mike;VA
 KN4VV=John;2331
 KN4YRM=Randy;2930
-KN4YTA=Matt;NC
+KN4YTA=Matt;3424
 KN5A=AL;TX
 KN5O=Ted;LA
 KN6IPE=Den;2928
@@ -3635,7 +3638,6 @@ N7KT=Rob;3216
 N7KY=Tim;TN
 N7LOX=Brian;WA
 N7LU=Pat;1290
-N7MB=Mike;IL
 N7MQ=Steve;2215
 N7MU=Jim;2243
 N7NM=Doug;1944
@@ -3888,6 +3890,7 @@ NI4U=Mike;2820
 NI4Y=Lin;AL
 NI6T=Garry;CA
 NI8N=Jack;OH
+NI9F=Noah;3422
 NI9Y=Dan;2432
 NJ1F=Brian;2029
 NJ1T=Doug;2213
@@ -4316,6 +4319,7 @@ PR7AB=Junior;PY
 PS7CE=CHA;PY
 PY1NB=Felipe;PY
 PY2BBQ=Hilton;PY
+PY2CGB=Colin;3363
 PY2EGM=Sergio;PY
 PY2KC=Rodrigo;PY
 PY2OMS=Oms;549
@@ -5985,6 +5989,7 @@ WF7T=Brad;729
 WG0M=Mike;1612
 WG0MEZ=Greg;AL
 WG3J=Eric;2473
+WG4V=Marius;3421
 WG5H=Curt;1931
 WG5J=Darin;TX
 WH6R=Eran;HI

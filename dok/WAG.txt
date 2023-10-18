@@ -1,4 +1,4 @@
-!!Order!!, Call, Sect, UserText, 
+!!Order!!, Call, Exch1, UserText, 
 #
 # file for DARC contests (10m, EASTER, WAG, XMAS).
 # First compiled by DK9TN, 12/Oct/2021.

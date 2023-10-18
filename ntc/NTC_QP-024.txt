@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2023-09-18
-# Last number listed 228
+# Last edit,2023-10-18
+# Last number listed 236
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -15,11 +15,14 @@
 AE1N,Lane,171,NH
 CT7AUP,David,118,
 DC8ED,Karl,77,
+DF0VK,Bert,235,
+DF7DJ,Bert,235,
 DF4WX,Micha,83,
 DF7TV,Tom,64,
 DJ0SP,Hannes,124,
 DJ3TU,Norbert,146,
 DJ5CW,Fabian,99,
+DJ6QQ,Uwe,233,
 DJ7AO,Stefan,105,
 DJ9BM,Volker,84,
 DK3ABM,Gosse,222, ex PG5N
@@ -39,6 +42,7 @@ DL4FDM,Fritz,74,
 DL4YR,Ralf,125,(DP4E)
 DL5XL,Felix,80,
 DL8KAZ,Dieter,211,
+DL9BU,Burger,230,
 DL/UA6AX,Yuri,174
 DM3ZM,Harald,158,
 DM4RW,Robert,73,
@@ -54,6 +58,7 @@ EA3NO,LLuis,69,
 EA5FID,Juan,67,
 EA5IUY,Gary,108,
 EA7EGU,Manuel,197,
+EI9KO,Bob,234,
 F5NLX,Jean,41,(Jean-Marie) 
 F6DXE,Dick,219,
 F6JOE,Jean,44,
@@ -70,8 +75,11 @@ G4HLN,Larry,140,
 G4RMV,Mike,115,
 G4RTJ,Colin,132,
 G5VZ,Chris,213,
+GM3ZDH,Bob,234,
 GW4D,Keith,106,
 GW4OKT,Keith,106,
+HA8UT,Pista,232,
+HG8Z,Pista,232,
 HB9CSA,Fritz,74,
 HB9EWO,Clemens,155,
 I5ECW,Vanni,164,
@@ -88,11 +96,13 @@ KF0CR,Luc,98,
 LX/ON9TT,Marc,196,(ON9TT)
 M0HEN,Theo,3,(PA3HEN)
 M0KTZ,Enzo,191,
+M0NNQ,Leo,229,
 M0MPM,Micheal,227,
 M3F,Mac,36,(G3WZD)
 N1GKE, Myrt,206,
 N2JJS,Gio,103,
 N4WEN,Carl,135,
+OE3JRC,Hans,14,
 OE6FYG,Herbert,134,
 OE8TIR,Stefan,105,
 OE7TIR,Stefan,105,
@@ -151,7 +161,8 @@ PA1DI,Dick,168,
 PA1DMG,Marc,10, 
 PA1MAR,Marcel,6,
 PA1REG,Reg,87,
-PA1SL,Ton,184
+PA1SL,Ton,184,
+PA2A,Steve,236,
 PA2DK,Dennis,161,
 PA2G,Gerard,30,
 PA2JJB,Jan,24, 
@@ -262,6 +273,7 @@ SV2BBK,Theo,147,
 SV2SKD,Panos,228,
 SV9RPE,Dick,210,
 SV9RNG,Pol,42,
+TA2DA,Sabri,231,
 UA6AX,Yuri,174,
 UR3AMP,Mike,204,(PD5MI)
 V31HE,Andreas,89,
