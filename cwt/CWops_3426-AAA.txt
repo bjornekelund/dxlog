@@ -866,6 +866,7 @@ G0HKC,Keith,G,(1739) Salisbury England
 G0IBN,Andy,,Tollesbury Maldon England
 G0JPS,Kit,2080,(Chris)  Bristol England
 G0KDZ,Mike,,N York England
+G0KYA,Steve,3426,Wymondham England
 G0LLX,Andy,2954,Blackpool England
 G0MDR,Fred,G,St. Albans England
 G0MFR,Gareth,2490,Dorset England
@@ -966,6 +967,7 @@ G4LMW,Rob,,Berkshire England
 G4LPP,Phil,2547,Sutton Norfolk England
 G4LXX,Ian,,Heatherlands England
 G4MEM,Mark,G,North Yorkshire England
+G4MKP,Tel,3425,Cambridgehire England
 G4MPN,Dave,,Kent England
 G4NVR,Phil,1583,(M2D)  Northumberland England
 G4PFZ,John,2777,Norwich England
@@ -1458,7 +1460,7 @@ K1RF,Steve,3003,Norwalk CT
 K1RH,Steve,1003,Westminster MD
 K1RI,Bob,RI,North Scituate RI
 K1RID,Ed,2846,Kittery ME
-K1RIF,Dick,MA,
+K1RIF,Chris,MA,Leverett MA
 K1RM,Vin,116,Plainville CT
 K1RO,Mark,1306,Newport NH
 K1RV,Pi,639,Abington MA
@@ -3128,6 +3130,7 @@ MM0FME,Mik,2151,Mozzo Scotland
 MM0TWX,Pete,3085,Troon Scotland
 MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
+MM2T,Phil,GM,Wishaw (GM0LIR)
 MM3AWA,Gord,,Peterhead Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
@@ -3972,7 +3975,7 @@ NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
 NN5P,Mad,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
 NN7M,Ryan,2245,Seattle WA
-NN7O,Tom,CA,Bishop CA
+NN7O,Tom,CWA,Bishop CA
 NN7W,TC,2057,(Terry) Show Low AZ
 NN9G,Dana,WI,Appleton WI
 NO0B,James,IA,Tiffin IA
