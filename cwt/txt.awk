@@ -42,7 +42,7 @@ BEGIN {
       if (call ~ /^E[U-W]/) ID = "EU";
       if (call ~ /^EX/) ID = "EX";
       if (call ~ /^EY/) ID = "EY";
-      if (call ~ /^F[0-9]/) ID = "F";
+      if (call ~ /^F[0-9]/ || call ~ /^F\//) ID = "F";
       if (call ~ /^([GM][0-9KR]|2E)/) ID = "G";
       if (call ~ /^[GM]D/) ID = "GD";
       if (call ~ /^[GM]M/) ID = "GM";
