@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2023-10-18
+# 1-Last Edit,2023-10-20
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-
 # QSOP_IL
@@ -47,6 +47,7 @@ K9NR,,KANK,Kankakee
 K9NYO,,,(/P) KANE WILL
 K9NYO/P,,,(/P) KANE WILL
 K9PG,,DUPG,Du Page
+K9PW,,KANE,KANE
 K9RN,Jim,MCHE,McHenry  N7US  
 K9RVE,,,(/P) 
 K9UIY,,STEP,Stephenson
@@ -117,6 +118,7 @@ N9SB,,KNOX,Knox
 N9TCA,,KEND,Kendall
 N9TK,,COOK,Cook
 N9TO,,MCLN,McLean
+N9TTK,,EDGR,Edgar
 N9UPG,,ADAM,Adams
 N9WEW,,VERM,Vermilion
 NA9Q,,ROCK,ROCK ISLAND
@@ -9182,7 +9184,7 @@ N9TK,JIM,
 N9TMU,,FL,
 N9TO,ROB,
 N9TR,BEN,NY,
-N9TTK,JUSTIN,IN,
+N9TTK,JUSTIN,
 N9TTX,DAVE,WI,
 N9TX,KEITH,TX,
 N9TZL,,
