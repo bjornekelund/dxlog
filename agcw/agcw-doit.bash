@@ -23,11 +23,11 @@ gawk \
   }
 }
 END {
-  printf("#0 AGCW members database\n");
-  printf("#1 Based on official member roster at www.agcw.de\n");
-  printf("#2 Contains members up to #%d\n", max);
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+  printf("#00 AGCW members database\n");
+  printf("#01 Based on official member roster at www.agcw.de\n");
+  printf("#02 Contains members up to #%d\n", max);
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+}' $FILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
