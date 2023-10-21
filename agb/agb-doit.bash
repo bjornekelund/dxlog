@@ -12,9 +12,9 @@ dos2unix -q $FILE
 gawk \
 'BEGIN {
   FS=" "
-  printf("#0 AGB members database\n");
-  printf("#1 Based on http://ev5agb.com/club/agb-list.txt\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 AGB members database\n");
+  printf("#01 Based on http://ev5agb.com/club/agb-list.txt\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {
@@ -22,7 +22,7 @@ gawk \
     printf("%s=%s\n", $2, $1);
   else if ($0 !~ /^N/ && $0 !~ /-[0-9]/ && $0 !~ /delet/ && $0 != "")
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+}' $FILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
