@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3426
-# Last updated 2023-10-19
+# Contains members up to #3427
+# Last updated 2023-10-25
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -3956,7 +3956,7 @@ NN5O=Larry;1327
 NN5P=Mad;1479
 NN6B=Joe;2709
 NN7M=Ryan;2245
-NN7O=Tom;CWA
+NN7O=Tom;3427
 NN7W=TC;2057
 NN9G=Dana;WI
 NO0B=James;IA
@@ -4113,6 +4113,7 @@ OH2MZA=Zaba;1856
 OH2PM=Pertti;OH
 OH3BCX=Zaba;1856
 OH5BM=Tap;OH
+OH5JJL=Tom;OH
 OH5LQ=Pentti;OH
 OH5NZ=John;OH
 OH5RP=Raino;OH
@@ -4389,6 +4390,7 @@ RX3FC=Vlad;UA
 RX3QNE=Misha;UA
 RX4CD=Sergey;UA
 RX6CB=Ed;UA
+RX6FJ=Igor;UA
 RX9TX=Art;UA9
 RY3PAE=Savin;UA
 RY7KV=Mike;UA
@@ -4422,6 +4424,7 @@ SA6G=Lars;173
 SA7UFO=Uno;SM
 SC0T=Olle;SM
 SC3N=Andy;265
+SC6O=Ben;SM
 SD1A=Eric;1718
 SD5F=Klas;2163
 SD6F=Klas;2163
@@ -4558,6 +4561,7 @@ SV2BXA=Alex;2400
 SV2HUD=Vas;3235
 SV2KF=George;SV
 SV2SKD=Panos;3410
+SV3CEI=Nick;SV
 SV4/SV1DAY=Manos;SV
 SV5BYR=Mike;SV5
 SV8PMM=Panos;SV
@@ -6192,7 +6196,7 @@ Z33B=Kirk;Z3
 Z35M=Vlado;Z3
 ZA/G4PVM=Paul;2413
 ZA1EM=Elvira;3076
-ZA1ME=Miri;3279
+ZA1RR=Miri;3279
 ZB2CW=Derek;ZB
 ZB2FK=Tito;3244
 ZB2X=Jorma;144
