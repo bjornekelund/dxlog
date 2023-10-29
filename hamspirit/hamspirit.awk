@@ -11,12 +11,10 @@ BEGIN {
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } else {
-    if ($col ~/^(90|0[1-9]|[1-8][0-9])[A-R]{2}$/)
-    {
+    if ($1 ~ /^[A-Z0-9\/]{3,}$/ && $col ~ /^(90|0[1-9]|[1-8][0-9])[A-R]{2}$/) {
       printf("%s=%s\n", $1, $col);
     }
-    else if ($0 !~ /^(!|#|$)/)
-    {
+    else if ($0 !~ /^(!|#|$)/) {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
