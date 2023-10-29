@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-10-17
+# 1-Last Edit,2023-10-24
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -367,6 +367,7 @@ AC1HB,LOUIS,NH,Nashua NH
 AC1J,TOM,NH,
 AC1JR,JEFF,MA,Arlington MA
 AC1KV,DAN,CT,Ansonia CT
+AC1NI,BRIAN,RI,Coventry RI
 AC1Z,BOB,NH,
 AC2C,RON,MD,
 AC2EU,JIM,NY,Newburgh NY
@@ -425,7 +426,7 @@ AC5OS,BILL,TX,Morgan TX
 AC5T,LYNN,TX,
 AC5TM,,LA,
 AC5TU,JIM,TX,
-AC5XK,DON,MA,also DC at times.
+AC5XK,DON,DC,
 AC6GO,ROB,CA,Sunnyvale CA
 AC6JA,MIKE,CA,
 AC6NT,ERIC,TN,Franklin TN
@@ -921,6 +922,7 @@ DL1CC,Wolf,DX,Eisenhuettenstadt
 DL1CWM,Konrad,DX,Helsa Germany
 DL1EAR,Adnreas,DX,
 DL1HR,RALPH,DX,Bad Laasphe Germany
+DL1MDZ,PIT,DX,Eching am Ammersee Germany
 DL1VJL,WOLFGANG,DX,Goppein Germany
 DL2DBU,NORBERT,DX,
 DL2GWZ,ALEX,DX,Speye Germany
@@ -1043,6 +1045,7 @@ G0KAY,TRYSTAN,DX,Lancashire England
 G0MFR,GARETH,DX,Motcombe England
 G0NMY,MARK,DX,Staffordshire England
 G0PZA,GARO,DX,Sunbury on Thames England
+G0SKW,KARL,DX,Nottingham England
 G0TDB,PAUL,DX,Wiltshire England
 G0TRT,CIE,DX,Warmiinster England
 G0TUE,RAY,DX,Cumbria England
@@ -1143,6 +1146,7 @@ IK8SCR,NICOLA,DX,Calvizzno Italy
 IN3TWX,WOLF,DX,Tirolo Italy
 IN3XSV,STEF,DX,Trento Italy
 IQ1IV,RO,DX,Ivrea Italy
+IT9DNW,SALVATORE,DX,Messina Italy
 IU0PIO/7,LECCE,DX,?
 IU1AUG,Diego,DX,Tavagnasco Italy
 IU1OPK,RIC,DX,Torino Italy
@@ -3591,6 +3595,7 @@ KA1API,,NH,
 KA1ARB,,NC,
 KA1C,STEVE,MS,
 KA1CPR,WAYNE,MA,Byfield MA
+KA1CXD,WAYNE,VT,Shaftsbury VT
 KA1DBE,JEFF,VA,
 KA1F,TOM,MA,Saugus MA
 KA1G,,FL,
@@ -3886,7 +3891,7 @@ KB3MHB/0,BERT,CO,
 KB3MI,BUTCH,PA,
 KB3MM,,PA,
 KB3MP,,PA,
-KB3ND,NORMAN,PA,Coraopolis PA
+KB3ND,NORM,PA,Coraopolis PA
 KB3NZJ,,DE,
 KB3P,MIKE,PA,
 KB3PD,,DE,
@@ -5364,6 +5369,7 @@ KK7B,,OR,
 KK7BJ,,AZ,
 KK7CKU,TOM,AZ,Pinetop AZ
 KK7CU,MARK,WY,Cheyenne WY
+KK7FIM,BRAD,ID,Lewiston ID
 KK7HI,FRANK,LA,New Orleans LA
 KK7JS,SCOTT,TX,
 KK7PW,JON,WA,Seattle WA
@@ -5542,6 +5548,7 @@ KN4UUR,ANDY,SC,
 KN4VCE,MIKE,VA,Woodbridge VA
 KN4VUT,CHET,VA,Roanoke VA
 KN4VV,JOHN,CT,
+KN4WNI,STUART,NC,Hope Mills NC
 KN4WZX,JEFF,GA,
 KN4YB,TOM,FL,Hudson FL
 KN4YOO,ED,TN,
@@ -6696,6 +6703,7 @@ N3TJB,TODD,DE,Newark DE
 N3TM,THAYER,PA,Harmony PA
 N3TO,BOB,MD,
 N3TTT,,DE,
+N3TTT,AUSTIN,DE,DoverDE
 N3TU,,DE,
 N3TWM,,PA,
 N3UA,SEJO,VA,
@@ -7131,6 +7139,7 @@ N5IS,,TX,
 N5IW,,TX,
 N5JB,JOHN,TX,
 N5JEW,JIMMY,LA,
+N5JGE,JIM,TX,Lovelady TX
 N5JHV,,NM,
 N5JJ,RICK,TX,Alvin TX
 N5JLQ,SCOTT,TX,
@@ -8871,6 +8880,7 @@ RA4PBE,AZAT,DX,Kazan Russia
 RL3P,SLAVA,DX,Tula Region
 RM2D,Mats,DX,Odintsovskiy Russia
 RU9LA,ANDY,DX,Tyumen Russia
+S50R,LEO,DX,Idrija Slovenia
 S55N,JOC,DX,Smartno pri Slovenj Gradcu Slovenia
 S58R,RADO,DX,Celje Slovenia
 SB7S,ORJAN,DX,Nybro Sweden
@@ -8878,6 +8888,7 @@ SD1A,ERIC,DX,Visby Sweden
 SD6F,KLAS,DX,Askim Sweden
 SF1Z,JENS,DX,Gotlands-Tofta Sweden
 SF6W,Goran,DX,
+SM0BYD,HANS,DX,Sollentuna Sweden
 SM5CIL,ARNE,DX,Borghold Sweden
 SM5EDX,JOHN,DX,Vasteras Sweden
 SM6EDG,GEORGE,DX,Floda Sweden
@@ -8992,6 +9003,7 @@ VA3KOT,JOHN,ON,Owen Sound ON
 VA3KRJ,ROBERT,ON,Picton Ontario
 VA3KSF,KEITH,ON,Corunna ON
 VA3LM,LEN,ON,
+VA3LMI,GRAHAM,ON,Manotick ON
 VA3LML,ALEXANDER,ON,
 VA3LR,MIKE,ON,
 VA3MAX,FRANK,ON,Sault Ste Marie ON
@@ -13098,6 +13110,7 @@ WB2U,VIC,MD,Gaithersburg MD
 WB2UZE,HOW,NY,Manhasset NY
 WB2VVV,,RI,
 WB2WIK,STEVE,CA,Winnetka CA
+WB2WJF,ROSS,FL,Lantana FL
 WB2WPM,SHANE,NY,
 WB2YAF,,NY,
 WB2YIP,CHUCK,NJ,
@@ -13283,6 +13296,7 @@ WB8CZH,SEAN,FL,Tampa FL
 WB8DC,,OH,
 WB8DTT,MIKE,MI,Howell MI
 WB8EJN,TOM,MO,
+WB8ENE,ART,OH,Kent OH
 WB8FSV,,OH,
 WB8FXJ,WIL,OH,Cincinnati OH
 WB8IFM,,OH,
