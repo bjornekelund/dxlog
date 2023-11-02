@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2023-10-24
+# 1-Last Edit,2023-10-31
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -367,6 +367,7 @@ AC1HB,LOUIS,NH,Nashua NH
 AC1J,TOM,NH,
 AC1JR,JEFF,MA,Arlington MA
 AC1KV,DAN,CT,Ansonia CT
+AC1MN,HOWARD,MA,Lancaster MA
 AC1NI,BRIAN,RI,Coventry RI
 AC1Z,BOB,NH,
 AC2C,RON,MD,
@@ -880,6 +881,7 @@ CE1EW,MARI,DX,Copiapo Chile
 CM3OR,ZENI,DX,Bejucal Mayabeque Cuba
 CM6SQ,NELSON,DX,Caibarien Cuba
 CS5LX,JORGE,DX,Lisboa Portugal
+CT1BMW,JOSE,DX,Portimao Portugal
 CT1EDJ,JOSE,DX,Lisboa Portugal
 CT7AFI,JOSE,DX,Sintra Portugal
 CT7AUP,DAVID,DX,Arruda dos Vinhos Portugal
@@ -1135,6 +1137,7 @@ IK0TUJ,ANTONIO,DX,Monterotondo Italy
 IK1HGE,Bob,DX,Almese TO Italy
 IK1PMR,Andrea,DX,Casale Monferrato Italy
 IK1RAG,ALVI,DX,Casale Monferrato Italy
+IK1TGV,FLAVIO,DX,Maurizio Italy
 IK1VQO,GIAN,DX,Cuneo Italy
 IK1WNO,ENRICO,DX,Genova GE Italy
 IK2CRY,FRANCO,DX,Vignate Italy
@@ -2593,6 +2596,7 @@ K5TNP,,LA,
 K5TQ,GARY,NM,
 K5TR,GEO,TX,
 K5TRI,MIKE,WA,
+K5TRT,DAVE,AR,Springdale AR
 K5TS,DAVE,LA,Bentley LA
 K5TSK,HANK,AR,Pearcy AR
 K5TT,,OK,
@@ -2613,7 +2617,7 @@ K5UTG,WARREN,OK,
 K5UU,Jamie,TX,
 K5UV,MIKE,OK,
 K5UZ,DAVID,AR,
-K5VBA,Stan,MI,
+K5VBA,Stan,AL,
 K5VG,JOHN,VA,Woodbridge VA
 K5VH,,TX,
 K5VI,ANDY,TX,
@@ -6853,6 +6857,7 @@ N4HAI,TOM,OH,
 N4HAL,BILL,NC,
 N4HAY,DICK,NC,Morrisville NC
 N4HNH,DOUG,GA,Suwanee GA
+N4IAM,GARY,TN,Chattanooga TN
 N4IFJ,TIM,FL,Melbourne FL
 N4IG,DAVE,FL,
 N4IJ,DOUG,NC,
@@ -6924,6 +6929,7 @@ N4NW,TOM,VA,
 N4NX,,GA,
 N4NYK,DOUG,SC,
 N4OGW,TOR,MS,
+N4OI,KEN,NC,Troutman NC
 N4ONR,LEO,SC,Kingstree SC
 N4OO,BRIAN,GA,
 N4OQV,BRUCE,FL,Jacksonville FL
@@ -12023,6 +12029,7 @@ W8GX,,OH,
 W8HAP,,ME,
 W8HC,,WV,
 W8HCS,,MI,
+W8HFY,DAVID,OH,Kent OH
 W8HGH,BOB,VA,
 W8HMK,HAL,OH,
 W8HNI,,MI,
@@ -12708,6 +12715,7 @@ WA4ATJ,,NJ,
 WA4AUL,KEN,KY,
 WA4BKW,,VA,
 WA4BPJ,MIKE,NC,Raleigh NC
+WA4CHQ,NEIL,VA,Susan VA
 WA4CVL,SAM,SC,
 WA4DT,DIRK,SC,
 WA4DYD,STAN,GA,
@@ -12793,7 +12801,7 @@ WA5OBV,PHIL,OK,
 WA5OLT,,TX,
 WA5OYU,,MS,
 WA5P,CHRIS,TX,
-WA5PFJ,JOHN,TX,Midland TX
+WA5PFJ,JOHN,NM,
 WA5POK,TROLL,TN,
 WA5RES,,OK,
 WA5RML,ANDY,TX,
