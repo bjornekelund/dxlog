@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3488
-# Last updated 2023-11-02
+# Last updated 2023-11-03
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -4385,6 +4385,7 @@ RX3FC=Vlad;UA
 RX3QNE=Misha;UA
 RX4CD=Sergey;UA
 RX6CB=Ed;UA
+RX6FJ=Igor;UA
 RX9TX=Art;UA9
 RY3PAE=Savin;UA
 RY7KV=Mike;UA
@@ -4555,6 +4556,7 @@ SV2BXA=Alex;2400
 SV2HUD=Vas;3235
 SV2KF=George;SV
 SV2SKD=Panos;3410
+SV3CEI=Nick;SV
 SV4/SV1DAY=Manos;SV
 SV5BYR=Mike;SV5
 SV8PMM=Panos;SV
@@ -4939,7 +4941,6 @@ VO1BQ=Joe;1325
 VO1DD=Doug;VE
 VO1HP=Frank;684
 VO1HQ=Filipe;NL
-VO1MP=Gus;NL
 VO1SA=Rick;NL
 VO1TTT=Mike;1347
 VO1WIN=Gerry;191

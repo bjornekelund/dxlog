@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-11-01
+# Last Edit,2023-11-02
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -4402,7 +4402,7 @@ RX3FC,Vlad,,Russia
 RX3QNE,Misha,,Varonezh Russia
 RX4CD,Sergey,,Saratovskaya Russia
 RX6CB,Ed,,Novorossiysk Russia
-rx6fj,iGOR,,STAVROPOLSKY Russia
+RX6FJ,Igor,,Stavropolsky Russia
 RX9TX,Art,,(no info) Russia
 RY3PAE,Savin,UA,(RT5P) no info
 RY7KV,Mike,,Yalta
@@ -4575,7 +4575,7 @@ SV2BXA,Alex,2400,Thessaloniki Greece
 SV2HUD,Vas,3235,Thessaloniki Greece
 SV2KF,George,,Hellas Greece
 SV2SKD,Panos,3410,Palio Keramidi Greece
-SV3CEI,,Nick,,
+SV3CEI,Nick,,
 SV4/SV1DAY,Manos,SV,
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
@@ -4960,7 +4960,6 @@ VO1BQ,Joe,1325,St-John NL
 VO1DD,Doug,,Heart's Delight NL
 VO1HP,Frank,684,St-John's NL
 VO1HQ,Filipe,NL,Carmanville NL
-VO1MP,Gus,NL,Portugal Cove St Philips NL
 VO1SA,Rick,NL,St John's NL
 VO1TTT,Mike,1347,VE9AA Newfoundland
 VO1WIN,Gerry,191,(W1VE)

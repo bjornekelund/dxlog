@@ -1,8 +1,9 @@
 !!Order!!, Call, Name, Exch1, UserText,
 # Current contest: SACW
-# LASTEDIT,2023-10-30
+# LASTEDIT,2023-11-02
 # SACW
 # SEND NEW INFO/CORR. DIRECT TO VE2FK@ARRL.NET
+# Thanks SM7IUN for his help
 AZ1A,,16,
 LU1AAU,Ezequiel,QRP,
 LU1XJJ,,YL,
@@ -123,7 +124,6 @@ PY2ZA,Jose,M,
 PY3FF,Rafael,QRP,
 PY3KN,,11,
 PY3OO,Luiz,M,
-PY3OO,M,,
 PY3PS,,11,
 PY3TD,,11,
 PY3ZL,,11,
