@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3488
-# Last updated 2023-11-03
+# Last updated 2023-11-06
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -2536,6 +2536,7 @@ KE3KK=Ron;MA
 KE3X=Ken;460
 KE4D=John;1688
 KE4EA=Dave;3293
+KE4I=Den;3439
 KE4KY=Tom;1763
 KE4RG=Ken;1765
 KE4S=Dave;1508
@@ -3372,6 +3373,7 @@ N4DT=Danny;1740
 N4DU=Jim;GA
 N4DW=Dave;923
 N4EEB=John;2335
+N4EEL=Andy;3440
 N4EEV=Mike;1600
 N4EII=Al;2291
 N4EL=Nat;3349
@@ -3654,6 +3656,7 @@ N7RK=Dave;AZ
 N7RR=Bruce;846
 N7RT=Hardy;FL
 N7RVD=Brian;WA
+N7SE=Steve;CO
 N7SU=Dan;2283
 N7TB=Terry;1999
 N7TES=John;WA
@@ -3937,6 +3940,7 @@ NN0G=Dana;2910
 NN0TE=Trent;2908
 NN1C=Marty;2276
 NN1DX=Bob;3353
+NN1SS=John;NH
 NN2DX=Bray;NY
 NN2L=Chuck;3231
 NN2NN=Steve;NY
@@ -5358,7 +5362,7 @@ W4WQ=Jerry;2367
 W4WW=Eiichiro;PA
 W4WXA=Tom;GA
 W4XO=Lex;2217
-W4YDL=Joe;CWA
+W4YDL=Joe;3444
 W4YE=Buddy;396
 W4YES=Glenn;TN
 W4YGT=Tom;FL
