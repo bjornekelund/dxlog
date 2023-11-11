@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # CWops Call History for N1MM+ 
-# Last Edit,2023-11-02
+# Last Edit,2023-11-09
 # For use during a CWT
 # Some member numbers removed for unpaid dues
 # Provide content updates to this .txt file to VE2FK at ARRL.net
@@ -310,7 +310,7 @@ AE7OV,Gary,AZ,Payson AZ
 AE7PG,Allen,WA,Chelan WA
 AE7TG,Allen,WA,Kent WA
 AE7US,Rocky,1781,Portland OR
-AE8Q,Ed,OH,Delaware OH
+AE8Q,Ed,CWA,Delaware OH
 AE8TF,Tom,MI,Macomb MI
 AE5TI,Ryan,TN,Memphis TN
 AF1E,Joe,2605,Conover NC
@@ -820,6 +820,7 @@ F5PGA,Peter,,Vercheny France
 F5PLC,Mike,2370,Evette-Salbert France
 F5PXP,Jean,3404,France
 F5ROW,Eric,,Hardinvast France
+F5RQG,Chris,,Mouxy France
 F5SGI,Jean,2532,Prcues France
 F5TGR,Jean,,Dompierre sur Mer France
 F5TYQ,Elio,,Valencielles France
@@ -1023,7 +1024,7 @@ GM4JPZ,Colin,2537,Dundee Scottland
 GM4PVM,Paul,2413,Essex England
 GM4WZG,Bernie,GM,Dalgety Bay Scotland
 GM4X,Bernie,GM,Dalgety Bay Scotland
-GM4ZUK,Allan,GM,
+GM4ZUK,Allan,3441,Aberdeenshire Scotland
 GM5AUG,Mike,3366,Newton Mearns Scotland
 GM5TDX,Ted,3375,Wishaw England
 GQ3WZD,Mac,1979,(Duncan)
@@ -1138,6 +1139,7 @@ I2IFT,John,2704,Seriate Italy
 I2RTF,Piero,621,Brescia BS Italia
 I2VXJ,Gio,,San Colomano al Lambro Italy
 I2WIJ,Bob,2406,Milano Italy
+I4IKW,Mark,,Caster Del Rio Italy
 I5ECW,Vanni,1679,Montale PT Italy
 I5EFO,Emil,1486,Gragnano Lucca Italia
 I5LHY,Fabio,,Pisa Italy
@@ -2548,6 +2550,7 @@ KE3KK,Ron,MA,Boylson MA
 KE3X,Ken,460,Washington DC
 KE4D,John,1688,Lesburg FL
 KE4EA,Dave,3293,Spartanburg SC
+KE4I,Den,3439,Silver Creek GA
 KE4KY,Tom,1763,Fisherville KY
 KE4RG,Ken,1765,Gretna VA (Been heard QRP)
 KE4S,Dave,1508,Leesburg VA
@@ -2597,7 +2600,7 @@ KF4QFJ,Jerome,VA,Suffolk VA
 KF4T,Brian,FL,Miami FL
 KF4ZGZ,Matt,NC,Walnut NC
 KF5GZJ,Mike,TX,Friendswood TX
-KF5JC,Jim,OK,Carescent OK
+KF5JC,Jim,3442,Carescent OK
 KF5JUO,Lynda,TX,Allen TX
 KF5RDN,Julianne,TX,Alpine TX
 KF5TXL,Kenneth,TX,Allen TX
@@ -3390,6 +3393,7 @@ N4DT,Danny,1740,Spartanburg SC (Been heard QRP)
 N4DU,Jim,GA,Albany GA
 N4DW,Dave,923,Kingsport TN
 N4EEB,John,2335,Astor FL
+N4EEL,Andy,3440,Norcross GA
 N4EEV,Mike,1600,Richmond Hills GA
 N4EII,Al,2291,Cary NC
 N4EL,Nat,3349,Tipp City OH
@@ -3672,6 +3676,7 @@ N7RK,Dave,AZ,Phoenix AZ
 N7RR,Bruce,846,Blaine WA
 N7RT,Hardy,FL,Brooksville FL
 N7RVD,Brian,WA,Kenmore WA
+N7SE,Steve,CO,Montrose Co
 N7SU,Dan,2283,(Daniel) Phoenix AZ
 N7TB,Terry,1999,Corvallis OR
 N7TES,John,WA,Puyallup WA
@@ -3955,6 +3960,7 @@ NN0G,Dana,2910,Littleton CO
 NN0TE,Trent,2908,Cape Coral FL
 NN1C,Marty,2276,Waban MA
 NN1DX,Bob,3353,Waterbury CT
+NN1SS,John,NH,Milford NH
 NN2DX,Bray,NY,RHRDXA Pawling NY
 NN2L,Chuck,3231,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
@@ -4291,6 +4297,7 @@ PA2TA,TJ,2955,(Tjakko)  Papendrecht Netherlands
 PA2WLE,Bert,,Helmond Netherlands
 PA3AAV,Gert,2624,Oost Beemster Netherlands
 PA3ACA,Hans,1320,Spijkenisse Netherlands
+PA3AM,Gerrit,,Hattem Netherlands
 PA3BFH,Herman,2485,Kudelstaart Netherlands
 PA3BUD,Onno,1852,Rotherdam Netherlands
 PA3CNI,Willem,,Apeldoorn Netherlands
@@ -4417,6 +4424,7 @@ S51RU,Marjan,,Bistrica Slovenia
 S51V,Silvo,,Ljutomer Slovenia
 S51WO,Sam,,Koroskem Slovenia
 S52R,Tone,,Crnomelj Slovenia
+S53M,Miha,S5,Murska Sobota Slovenia
 S53O,Ljubo,,Martjanci Blovenia
 S53R,Rob,492,Spodnja Idrija Slovenia
 S53ZO,Simon,S5,
@@ -4979,6 +4987,7 @@ VU2CPL,Manoj,3337,Bangalore India
 VU2PTT,Prasad,615,Bangalore India
 VX3TM,Vlad,2543,Ottawa ON
 VY1EI,Eric,YT,Whitehorse YT Canada
+VY1JA,J,1234,Whitehorse YT
 VY1JT,Jim,1,(N3JT) Yukon Canada
 VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Alan,PE,Montagne PE
@@ -5379,7 +5388,7 @@ W4WQ,Jerry,2367,Cartersville GA
 W4WW,Eiichiro,PA,Pittsburg PA
 W4WXA,Tom,GA,Warner Robins GA
 W4XO,Lex,2217,(Alexis) Grantville GA
-W4YDL,Joe,CWA,Hubert NC
+W4YDL,Joe,3444,Hubert NC
 W4YE,Buddy,396,Wirtz VA
 W4YES,Glenn,TN,Nashville TN
 W4YGT,Tom,FL,La Crosse FL
@@ -5936,6 +5945,7 @@ WB8EJN,Tom,788,Saint Peters MO
 WB8HF,Bill,1605,Adrian MI
 WB8JAY,Dan,2559,New Philadelphia OH
 WB8JUI,Rick,OH,Bellevue OH
+WB8LZR,Ron,NC,Cary NC
 WB8MIW,Pat,MI,Grand Rapids MI
 WB8SCT,Jack,1709,Springboro OH
 WB8SIW,Jim,IL,Marion IL
