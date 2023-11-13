@@ -2,11 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3488
-<<<<<<< HEAD
-# Last updated 2023-11-03
-=======
-# Last updated 2023-11-09
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
+# Last updated 2023-11-13
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -309,11 +305,7 @@ AE7OV=Gary;AZ
 AE7PG=Allen;WA
 AE7TG=Allen;WA
 AE7US=Rocky;1781
-<<<<<<< HEAD
-AE8Q=Ed;OH
-=======
 AE8Q=Ed;CWA
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 AE8TF=Tom;MI
 AF1E=Joe;2605
 AF1R=Leandra;MA
@@ -821,10 +813,7 @@ F5PGA=Peter;F
 F5PLC=Mike;2370
 F5PXP=Jean;3404
 F5ROW=Eric;F
-<<<<<<< HEAD
-=======
 F5RQG=Chris;F
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 F5SGI=Jean;2532
 F5TGR=Jean;F
 F5TYQ=Elio;F
@@ -1025,11 +1014,7 @@ GM4JPZ=Colin;2537
 GM4PVM=Paul;2413
 GM4WZG=Bernie;GM
 GM4X=Bernie;GM
-<<<<<<< HEAD
-GM4ZUK=Allan;GM
-=======
 GM4ZUK=Allan;3441
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 GM5AUG=Mike;3366
 GM5TDX=Ted;3375
 GQ3WZD=Mac;1979
@@ -1142,10 +1127,7 @@ I2IFT=John;2704
 I2RTF=Piero;621
 I2VXJ=Gio;I
 I2WIJ=Bob;2406
-<<<<<<< HEAD
-=======
 I4IKW=Mark;I
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 I5ECW=Vanni;1679
 I5EFO=Emil;1486
 I5LHY=Fabio;I
@@ -1803,7 +1785,7 @@ K4WA=Steve;3251
 K4WG=Gene;3360
 K4WJ=John;193
 K4WNY=Don;TN
-K4WSD=Al;CWA
+K4WSD=Al;3443
 K4WTL=Travis;FL
 K4WW=Bo;2017
 K4WY=John;VA
@@ -2556,10 +2538,7 @@ KE3KK=Ron;MA
 KE3X=Ken;460
 KE4D=John;1688
 KE4EA=Dave;3293
-<<<<<<< HEAD
-=======
 KE4I=Den;3439
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 KE4KY=Tom;1763
 KE4RG=Ken;1765
 KE4S=Dave;1508
@@ -2609,11 +2588,7 @@ KF4QFJ=Jerome;VA
 KF4T=Brian;FL
 KF4ZGZ=Matt;NC
 KF5GZJ=Mike;TX
-<<<<<<< HEAD
-KF5JC=Jim;OK
-=======
 KF5JC=Jim;3442
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 KF5JUO=Lynda;TX
 KF5RDN=Julianne;TX
 KF5TXL=Kenneth;TX
@@ -3400,10 +3375,7 @@ N4DT=Danny;1740
 N4DU=Jim;GA
 N4DW=Dave;923
 N4EEB=John;2335
-<<<<<<< HEAD
-=======
 N4EEL=Andy;3440
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 N4EEV=Mike;1600
 N4EII=Al;2291
 N4EL=Nat;3349
@@ -3686,10 +3658,7 @@ N7RK=Dave;AZ
 N7RR=Bruce;846
 N7RT=Hardy;FL
 N7RVD=Brian;WA
-<<<<<<< HEAD
-=======
 N7SE=Steve;CO
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 N7SU=Dan;2283
 N7TB=Terry;1999
 N7TES=John;WA
@@ -3973,10 +3942,7 @@ NN0G=Dana;2910
 NN0TE=Trent;2908
 NN1C=Marty;2276
 NN1DX=Bob;3353
-<<<<<<< HEAD
-=======
 NN1SS=John;NH
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 NN2DX=Bray;NY
 NN2L=Chuck;3231
 NN2NN=Steve;NY
@@ -4313,10 +4279,7 @@ PA2TA=TJ;2955
 PA2WLE=Bert;PA
 PA3AAV=Gert;2624
 PA3ACA=Hans;1320
-<<<<<<< HEAD
-=======
 PA3AM=Gerrit;PA
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 PA3BFH=Herman;2485
 PA3BUD=Onno;1852
 PA3CNI=Willem;PA
@@ -4444,10 +4407,7 @@ S51RU=Marjan;S5
 S51V=Silvo;S5
 S51WO=Sam;S5
 S52R=Tone;S5
-<<<<<<< HEAD
-=======
 S53M=Miha;S5
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 S53O=Ljubo;S5
 S53R=Rob;492
 S53ZO=Simon;S5
@@ -5008,10 +4968,7 @@ VU2CPL=Manoj;3337
 VU2PTT=Prasad;615
 VX3TM=Vlad;2543
 VY1EI=Eric;YT
-<<<<<<< HEAD
-=======
 VY1JA=;1234
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 VY1JT=Jim;1
 VY2SS=Rob;PE
 VY2XU=Alan;PE
@@ -5410,11 +5367,7 @@ W4WQ=Jerry;2367
 W4WW=Eiichiro;PA
 W4WXA=Tom;GA
 W4XO=Lex;2217
-<<<<<<< HEAD
-W4YDL=Joe;CWA
-=======
 W4YDL=Joe;3444
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 W4YE=Buddy;396
 W4YES=Glenn;TN
 W4YGT=Tom;FL
@@ -5971,10 +5924,7 @@ WB8EJN=Tom;788
 WB8HF=Bill;1605
 WB8JAY=Dan;2559
 WB8JUI=Rick;OH
-<<<<<<< HEAD
-=======
 WB8LZR=Ron;NC
->>>>>>> 9b0b7d4b3ae35d18a5c2a3aaf614c4e1744237b1
 WB8MIW=Pat;MI
 WB8SCT=Jack;1709
 WB8SIW=Jim;IL
