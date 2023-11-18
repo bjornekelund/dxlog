@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3488
-# Last updated 2023-11-13
+# Last updated 2023-11-18
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -2397,6 +2397,7 @@ KC1KUG=Bray;NH
 KC1LZX=Rob;2417
 KC1RL=Ric;MA
 KC1SA=Steve;CT
+KC2EGL=Mike;PA
 KC2IGE=Matt;NY
 KC2JAJ=John;NY
 KC2KWA=Bob;NC
@@ -2405,6 +2406,7 @@ KC2LMX=Bob;NJ
 KC2LSD=Cody;2627
 KC2SZ=Jim;NJ
 KC2ZBZ=Don;NY
+KC3C=Tim;PA
 KC3CVN=Patrick;DC
 KC3FQF=Rosti;2783
 KC3JJF=Daryl;MD
@@ -4138,6 +4140,7 @@ OK1FKM=Petr;OK
 OK1GS=Miro;OK
 OK1KT=Vrata;OK
 OK1MAG=Karelk;OK
+OK1MKH=Martin;OK
 OK1NE=Julius;OK
 OK1NU=Jan;OK
 OK1OA=Jiri;OK
@@ -4478,6 +4481,7 @@ SM6CMU=Ingemar;SM
 SM6CNN=Andy;176
 SM6CUK=Lars;173
 SM6CWK=Sven;SM
+SM6DHF=Goran;SM
 SM6F=Lars;173
 SM6FKF=Fredy;999
 SM6IQD=Rolf;SM
@@ -4847,7 +4851,7 @@ VE3PQ=Paul;ON
 VE3PVI=Tom;1735
 VE3QN=Bryan;ON
 VE3RDE=Roger;2957
-VE3RIA=Andrew;1025
+VE3RIA=Drew;1025
 VE3RUA=Jack;1047
 VE3SIF=Ron;3082
 VE3SMA=Steve;ON
@@ -6007,7 +6011,7 @@ WI2C=John;NY
 WI2E=Joe;PA
 WI4P=John;AL
 WI6T=Rex;CO
-WI6X=Jim;CA
+WI6X=Jim;CWA
 WJ0C=Steve;2997
 WJ1B=Harold;752
 WJ2O=Dave;1093
@@ -6030,7 +6034,7 @@ WM4Q=Pete;TN
 WM5H=Bob;LA
 WM5S=Mac;TX
 WM6T=Tray;3125
-WM6Y=PJ;2280
+WM6Y=PJ;CA
 WM9Q=Ron;1170
 WN1M=Mike;CT
 WN4AFP=Dave;1208
