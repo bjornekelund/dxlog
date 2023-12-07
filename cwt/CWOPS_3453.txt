@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2023-12-06
+# Last Edit,2023-12-07
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -6192,6 +6192,7 @@ XQ1KZ,Nicolas,,Antofagasta Chile
 XQ4CW,Roberto,,Curico Chile
 XV2W,Larry,1209,Ho Chi Minh City Vietnam
 XV9D,Mats,1820,Phan Thiet Vietnam
+YB0ECT,Pri,3453,Jakarta Indonesia
 YD2UWF,Saka,,Sleman Indonesia
 YL1ZF,Kas,2256,Riga Latvia
 YL2AG,Alex,,Riga Latvia

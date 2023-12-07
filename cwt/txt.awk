@@ -121,7 +121,7 @@ BEGIN {
     idvalid = ID ~ /^[1-9][0-9]{0,3}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]?$/;
     problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
 
-    namevalid = name ~ /^[A-Za-z]{2,}$/;
+    namevalid = name ~ /^[A-Za-z]{1,}$/;
 
     if (!namevalid && name != "") {
       printf("Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
