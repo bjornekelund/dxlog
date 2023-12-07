@@ -1,0 +1,30 @@
+# 9A DX database
+# Based on call history data maintained by VE2FK
+# Last updated 2023-12-07
+# Report updates and corrections directly to ve2fk@arrl.net
+9A1A=ZG
+9A1AA=BM
+9A1CRT=ZG
+9A1DX=DA
+9A1RBZ=ZG
+9A2AA=ST
+9A2DQ=ZG
+9A2KI=SB
+9A3SMS=DU
+9A3SMS=DU
+9A3VM=DU
+9A3XV=ZG
+9A3XV=ZG
+9A5D=DU
+9A5X=VZ
+9A6A=ZG
+9A6A=ZG
+9A6JOY=MA
+9A6T=ZG
+9A7C=ZG
+9A7IMR=ZG
+9A7V=VZ
+9A9A=ZG
+9A9A=ZG
+9A9CW=ZG
+9A9XX=RI

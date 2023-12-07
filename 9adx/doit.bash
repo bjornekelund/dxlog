@@ -1,0 +1,14 @@
+#!/bin/bash
+
+FILE=`ls 9ADX[^_]* | tail -1 2> /dev/null`
+OUTFILE=9ADX_db.txt
+
+dos2unix -q $FILE
+echo Parsing $FILE
+
+gawk -f 9adx.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
+
+exit
