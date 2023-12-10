@@ -1,6 +1,6 @@
 !!Order!!, Call,Exch1,UserText,
 # 9ADX
-# Last edit,2023-12-07
+# Last edit,2023-12-08
 # New info will be added when available
 # 
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -227,7 +227,6 @@
 9A7WA,DA,
 9A7Y,PU,
 9A8A,VZ,
-9A8A,BJ,
 9A8DX,NA,
 9A8M,NA,
 9A8XX,PU,
