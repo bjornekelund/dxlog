@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2023-12-13
+# Last Edit,2023-12-15
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -959,7 +959,7 @@ G4HZE,Ed,2753,Saltash England
 G4HZV,Bob,1636,Guildford England
 G4ILW,James,1729,London England
 G4IRN,John,268,Thames Ditton England
-G4IVV,Jon,,Cambridgeshire England
+G4IVV,Jon,3455,Cambridgeshire England
 G4IZZ,Mike,2511,Cheltenham England
 G4KLE,Merv,3283,Huntingdon England
 G4KQY,Mike,2987,Norwich England
@@ -1014,7 +1014,7 @@ GI4SJQ,George,,Armagh Northern Ireland
 GI4SZW,Jim,,County Armagh Northern Ireland
 GM0EPO,John,1974,Scotland  (Been heard QRP)
 GM0EUL,Peter,1899,Duns Scotland
-GM0LIR,Phil,,Wishaw Scotland
+GM0LIR,Phil,3456,Wishaw Scotland
 GM0OPS,John,3358,East Kibriege Scotland
 GM2CWO,,,(Various users)  Scotland
 GM2V,Chris,2436,(GM3WOJ)  Scotland
@@ -1282,6 +1282,7 @@ JN1WFF,Naoki,,Tochigi
 JO1LVZ,OM,,Saitama Japan
 JO4JFH,Hiro,,Okayama Japan
 JP3REM,Bill,3390,Osaka Japan
+JQ1LCW,Lucy,3288,Inagi Tokyo Japan
 JR1NHD,Shin,,Kawasaki Kanagawa Japan
 JS1DEH,YU,,Tochigi Japan
 JS2AHG,Astu,141,Mishima City Japan
@@ -3140,7 +3141,7 @@ MM0FME,Mik,2151,Mozzo Scotland
 MM0TWX,Pete,3085,Troon Scotland
 MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
-MM2T,Phil,GM,Wishaw (GM0LIR)
+MM2T,Phil,3456,Wishaw (GM0LIR)
 MM3AWA,Gord,,Peterhead Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
@@ -4724,7 +4725,6 @@ VA2MA,MA,QC,also VE3VIG
 VA2NM,Simon,3249,Verdun QC
 VA2OT,DAN,QC,MONTREAL QC
 VA2RAC,,QC,RAC HQ
-VA2SG,Pete,QC,Jonquiere QC
 VA2UR,Guy,QC,(VE2BWL)
 VA2WA,Vic,2212,Boucherville QC (COSBoard)
 VA2XZA,Jon,QC,(Jonathan)  L'Ile Perrot QC
@@ -4824,6 +4824,7 @@ VE2VIA,Jean,QC,Chicoutimi QC
 VE2WU,Marten,QC,Covey Hill
 VE2ZDX,Andre,QC,Montreal QC
 VE2ZM,Simon,2144,(VE2SRP) St-Joseph-du-Lac QC
+VE2ZQ,Pete,QC,Jonquiere QC
 VE3ABN,Les,1701,Mississauga ON (VE3NNT)
 VE3AIH,Art,ON,Cornwall ON
 VE3AXC,Carl,ON,Mississauga ON
