@@ -1,11 +1,17 @@
 !!Order!!, Call,Exch1,UserText,
 # 9ADX
-# Last edit,2023-12-12
+# Last edit,2023-12-15
 # New info will be added when available
 # 
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Mirko/9A6KX for update, Ivo/9A1AA
 # This is helping file, LOG what is sent.
+9A5M,OS,
+9A6A,ZG,
+9A/KT3V,ZG,
+9A0KG,ST,
+9A4BT,VZ,
+
 9A0AA,KZ,
 9A0BR,ST,
 9A0P,PU,
@@ -194,7 +200,6 @@
 9A5X,VZ,
 9A5Y,KT,
 9A5ZP,ZG
-9A6A,ST,
 9A6ALN,KZ,
 9A6B,ZG,
 9A6C,ST,
@@ -207,7 +212,7 @@
 9A6KFA,DA,
 9A6KTB,KA,
 9A6KX,PU,
-9A6M,KC,
+9A6M,KZ,
 9A6R,KA,
 9A6SUH,ST,
 9A6T,ZG,
