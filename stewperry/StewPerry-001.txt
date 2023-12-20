@@ -3,7 +3,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2023-10-17 
+# 3-Last Edit,2023-12-19 
 # 4-Last updated from log of VE2FK
 # 5-
 # ARRLIDC
@@ -10024,6 +10024,7 @@ XE1XA,RAMON,EK09,
 XE1YJS,MAX,EK09,
 XE2AC,,DL81,
 XE2AT,LUIS,DL81,
+XE2F,,DL55,
 XE2IA,AL,DL44,
 XE2MX,,DM11,
 XE2OR,PEPE,DL98,

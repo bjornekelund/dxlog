@@ -2,7 +2,7 @@
 # Also used for Makrothen and CQ WW VHF contests
 # Data collected and maintained by VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Last updated 2023-10-18
+# Last updated 2023-12-20
 2E0CVN=IO80
 2E0INN=IO83
 2E0KIM=JO03
@@ -9997,6 +9997,7 @@ XE1XA=EK09
 XE1YJS=EK09
 XE2AC=DL81
 XE2AT=DL81
+XE2F=DL55
 XE2IA=DL44
 XE2MX=DM11
 XE2OR=DL98
