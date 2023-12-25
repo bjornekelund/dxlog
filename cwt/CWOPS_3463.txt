@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2023-12-15
+# Last Edit,2023-12-23
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -304,6 +304,7 @@ AE5WD,Clark,TX,McKinney TX
 AE5X,John,TX,Kingwood TX
 AE5XQ,Dave,TX,Frisco TX
 AE6RF,Donald,CA,Boulder Creek CA
+AE6VL,Roland,3458,Martinez CA
 AE6Y,Andy,38,Monte Sereno CA
 AE7EU,Martin,2725,Bend OR
 AE7I,Craig,NV,Reno NV
@@ -1316,7 +1317,7 @@ K0DXC,Cal,152,Jackson OH
 K0EHR,Mark,CO,Littleton CO
 K0EJ,Mark,2016,Hixson TN
 K0ERE,Bill,AZ,Sun City AZ/Winter
-K0ES,Jerry,CWA,Englewood CO
+K0ES,Jerry,3459,Englewood CO
 K0EU,Ken,CO,Denver CO
 K0EX,Mark,667,Colorado Springs CO
 K0FG,Fred,1893,Sunrise Beach MO
@@ -1798,6 +1799,7 @@ K4SNX,Bill,NC,New Bern NC
 K4SPO,Paul,KY,Lexington KY
 K4SX,Ron,810,Wright City MO
 K4TD,Rick,1081,Harvest AL
+K4TNE,Jeff,3457,New Bern
 K4TZ,Tom,1993,Bowling Green KY
 K4UEE,Bob,543,Marietta GA
 K4VBM,Bob,GA,Peachtree Corners GA
@@ -1984,7 +1986,7 @@ K6NV,Bob,675,Truckee CA
 K6PB,Pete,2469,Irvine CA
 K6PO,Paul,CA,(1758) San Diego CA
 K6RB,Rob,3,Santa Cruz CA (CWT Academy)
-K6RC,Dave,CA,Fair Oaks CA
+K6RC,Dave,2363,Fair Oaks CA
 K6RJ,Rich,CA,Lake Elsinore CA
 K6RM,Barry,NC,Bolivia NC
 K6RQT,Ryan,1172,Shell Beach CA
@@ -2212,6 +2214,7 @@ K9FZ,Alex,WI,Hudson WI
 K9GDF,Rich,Wi,Greenfield WI 
 K9GS,Gary,1032,Mukwonago WI
 K9GY,Eric,IL,Lansing IL
+K9HIM,Dave,IL,Monee IL
 K9HXO,Bill,FL,Parrish FL
 K9IBM,Dan,WI,Janesville WI
 K9ID,Ron,IL,Buffalo Grove IL
@@ -3423,10 +3426,11 @@ N4GG,Hal,2288,Woodstock GA
 N4GJ,Wink,SC,Little River SC
 N4GK,Jim,AL,Decatur AL
 N4GL,Marty,1644,Ocala FL
+N4GN,Tim,3463,Humacao PR
 N4GO,Jay,3239,Richmond KY
 N4GU,Mike,737,Raleigh NC
 N4HAI,Tom,1099,Westerville OH
-N4HAY,Dick,NC,Morrisville NC
+N4HAY,Dick,3460,Morrisville NC
 N4HOE,Hal,3060,Ocala FL
 N4IJ,Doug,1938,(W5FN) Forest City NC
 N4IQ,Bill,1610,Simpsonville SC
@@ -3453,7 +3457,7 @@ N4NQ,Sid,1611,Lawrenceville GA
 N4NR,Dennis,AL,Pelham AL
 N4NS,Ken,FL,Daytona Beach FL
 N4NSS,Kyle,2821,Sebring FL
-N4NTO,Tripp,NC,(2821)  Tarboro NC (Been heard QRP)
+N4NTO,Tripp,2821,Tarboro NC (Been heard QRP)
 N4NW,Tom,VA,Stafford VA
 N4NX,Bill,GA,Atlanta GA
 N4NYK,Doug,SC,Columbia SC
@@ -4054,7 +4058,7 @@ NT8B,Leon,VA,Falls Church VA
 NU1N,Brian,MA,Brookline MA
 NU1O,Chris,1670,Longmeadow MA
 NU2J,Marc,NJ,Bloomfield NJ
-NU3A,Ken,DE,Newark DE
+NU3A,Ken,3462,Newark DE
 NU4C,Paul,FL,Ormond Beach FL
 NU6N,Arka,2152,Sunnyvale CA  (Southwest Amb.)
 NU6T,Rich,CWA,Fair Oaks CA
@@ -4938,6 +4942,7 @@ VE7BGJ,Walt,BC,Chilliwacck BC
 VE7CC,Lee,139,Maple Ridge BC
 VE7CCY,Scott,BC,Langley BC
 VE7DZO,David,2106,Prince George BC
+VE7EN,Larry,BC,Victoria BC
 VE7GPG,Greg,BC,Creston BC
 VE7IO,Fred,2696,Surrey BC
 VE7JH,Gabor,2702,Crofton BC
@@ -5017,7 +5022,7 @@ VY1JT,Jim,1,(N3JT) Yukon Canada
 VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Alan,PE,Montagne PE
 W0AAE,Bob,2947,Maple MN
-W0ABE,Justin,3417,Bellville CO
+W0ABE,Fin,3417,Bellville CO
 W0AD,Paul,MN,Elden Prairie MN
 W0AG,Mike,1317,Crossville TN
 W0AJU,Rich,MO,St. Louis MO
@@ -5349,6 +5354,7 @@ W4KEP,Chas,VA,Blacksburg VA
 W4KIL,Andy,NC,Hillsborough NC
 W4KLY,Paul,GA,(1568)  Stone Mountain GA
 W4KX,Tom,NC,Cary NC
+W4LEW,Lauren,VA,N. Chesterfield VA
 W4LJ,Doug,2823,Columbia SC
 W4LRB,Ben,2852,Florence MA
 W4LSV,Barry,1132,Cleveland TN
@@ -5447,6 +5453,7 @@ W5GAI,Skip,1649,Carriere MS
 W5GJ,Bob,2416,Venice FL
 W5GMD,Glen,TX,Alvin TX
 W5GN,Barry,3148,Dallas TX
+W5GW,Gary,3461,Mountain Coty TX
 W5HFF,Ross,TX,Richmond TX
 W5HPQ,Steve,NM,Santa Fe NM
 W5IZ,Al,622,Burleson TX
@@ -6010,7 +6017,6 @@ WD4CFN,Steve,2228,Nashville TN
 WD4EBR,Paul,TN,Pigeon Forge TN
 WD4ERM,Ken,GA,Quitman GA
 WD4EX,Val,1546,Atlanta GA
-WD4FMG,Lauren,VA,Midlothian VA
 WD4LZC,Stu,KY,Louisville KY
 WD4MRI,Roy,AL,Columbiana AL
 WD5BZN,Dave,TX,Bellaire TX
@@ -6056,6 +6062,7 @@ WI2E,Joe,PA,Easton PA
 WI4P,John,AL,Alexander City AL
 WI6T,Rex,CO,Centennial CO
 WI6X,Jim,CWA,Irvine CA
+WI9P,Reed,CWA,Shoreview MN
 WJ0C,Steve,2997,Colorado Springs CO
 WJ1B,Harold,752,Cheshire CT
 WJ2O,Dave,1093,Mc Connellsville NY
@@ -6093,6 +6100,7 @@ WN9J,Mark,1100,Swquim WA
 WN9W,Dave,OH,Bentleyville OH
 WO1X,Tom,1310,Bristol CT
 WO4O,Ric,1311,Grand Island FL
+WO5T,Sam,TX,Austin TX
 WO6W,Bob,2634,Menlo Park VA
 WO9B,Mike,2203,New Berlin WI
 WP3A,Jaime,PR,Coamo PR
