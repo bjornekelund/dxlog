@@ -3,7 +3,7 @@
 # 0- 
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Last Edit,2023-12-19 
+# 3-Last Edit,2023-12-29 
 # 4-Last updated from log of VE2FK
 # 5-
 # ARRLIDC
@@ -3421,7 +3421,7 @@ K2LS,,FM60,
 K2LWR,,FN02,
 K2MFY,,FN30,
 K2MGR,,FN22,
-K2MK,MIKE,EM73,
+K2MK,MIKE,FN31,
 K2NV,,FN03,
 K2ONP,,FN32,
 K2OS,,FN13,
