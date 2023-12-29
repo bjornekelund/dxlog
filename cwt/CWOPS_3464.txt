@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2023-12-23
+# Last Edit,2023-12-28
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -117,6 +117,7 @@ AA5BG,Richard,454,Mc Kinney TX
 AA5CF,Ken,2680,San Antonio TX
 AA5JF,Andy,2751,Augusta GA
 AA5KD,Duane,OK,Oklahoma OK
+AA5LH,Lee,CO,Colorado Sp^rings CO
 AA5ND,John,3248,Mission CA
 AA5OY,Bob,LA,Metairie LA
 AA5QY,Floyd,AR,Gentry AR
@@ -466,6 +467,7 @@ CX7TT,Tom,518,Rocha Uruguay
 D4NA,Timo,2967,(OH1NOA)
 D4Z,Phil,1354,(HB9ARF)
 DA0BCC,Mario,,Bavarian Contest Club Germany
+DC1YY,Reini,,Munich Germany
 DD5CF,Colin,DL,Bonn Germany  (QRP)
 DD5KG,Gabor,2471,Munich Germany
 DD5XX,Saki,2354,Esslingen  (nr Stuttgart)  Germany
@@ -735,6 +737,7 @@ EA6/EA3M,Roger,3229,Balearric Islands
 EA6BF,Josep,3072,Balearic Island
 EA6EJ,INI,3276,Palma de Mallorca Spain
 EA6TS,Pedro,,Balearic Isl. Spain
+EA6UP,Migueel,,Balearic Isl.
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
@@ -1224,6 +1227,7 @@ IZ2FME,Mik,2151,Borghetto Italy
 IZ3ASA,Rudy,3088,Mestre VE Italy
 IZ3GOM,Gabrielle,,San Tomaso Agordino BL Italy
 IZ3IRJ,Al,
+IZ3NVR,Stef,,Roncade Italy
 IZ3YPS,Guido,,Cadoneghe Italy
 IZ4AKO,Pierluigi,,Vigarano Mainarda Italy
 IZ4APU,Gabe,,(Gabrielle) Bologna Italy
@@ -4556,6 +4560,7 @@ SN9EA,Cary,1828,(VE4EA) travelling
 SN9MT,Mirek,,Ruda Slaska Poland
 SO3O,Jan,SP,Kramsk Polanmd
 SO5CW,Fabian,1566,(DJ5CW)  Warka Poland
+SO7NA,Szymon,,Poland
 SP1/UX1HW/M,Art,1890,Mobile SP!
 SP1AEN,Max,,Debrzno Poland
 SP1ALK,Jan,,Szczecin Poland
@@ -4752,6 +4757,7 @@ VA3RJ,Dave,ON,Toronto ON
 VA3SAX,Steve,ON,Nepen ON
 VA3SB,Serge,1488,Missisauga ON (Been heard QRP)  (East Amb.)
 VA3SY,Syl,2433,Alfred ON
+VA3TAR,Ted,CWA,Toronto ON
 VA3TMV,Tim,3345,Maryhill ON
 VA3TTB,Chuck,ON,Holland Landing ON
 VA3UKR,Maria,ON,
@@ -6081,7 +6087,7 @@ WK9M,Randy,TN,Lenoir City TN
 WL7E,Joe,AK,Soldotna AK
 WM3O,Steve,PA,Philadelphia PA
 WM4I,Burke,1798,Wytheville VA
-WM4Q,Pete,TN,Bon Aqua TN
+WM4Q,Pete,3464,Bon Aqua TN
 WM5H,Bob,LA,West Monroe LA
 WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA
@@ -6235,6 +6241,7 @@ YO5OHO,Chris,1079,Turda Romania
 YO6DDF,Val,,Tirgu Mures Romania
 YO6LB,Laszo,,Tirgu Mures Romania
 YO7YO,Max,,Romania
+YO8/LZ4UU,Iliya,,
 YO9AYN,Ion,,Jud. Dambovita Romania
 YO9GDN,Marian,,Sotanga/DB Romania
 YO9GNF,Jack,,Romania
