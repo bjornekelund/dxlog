@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 # ARRLRTTY
 # FTROUNDUP
-# Last Edit,2023-11-20
+# Last Edit,2023-12-05
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn/SM7IUN for corrections.
@@ -6093,7 +6093,7 @@ N4IQ,BILL,SC,
 N4IR,JIM,TN,
 N4IRN,JOHN,MD,
 N4IS,,FL,
-N4IW,,VA,
+N4IW,David,VA,
 N4JAH,,NC,
 N4JED,,VA,
 N4JF,JERRY,AL,
