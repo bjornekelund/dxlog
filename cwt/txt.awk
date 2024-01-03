@@ -29,7 +29,7 @@ BEGIN {
       if (call ~ /^B[AY]/) ID = "BY";
       if (call ~ /^(CE|X[QR])/) ID = "CE";
       if (call ~ /^C6/) ID = "C6";
-      if (call ~ /^CO/) ID = "CO";
+      if (call ~ /^CO/) ID = "CM";
       if (call ~ /^C[R-T]/) ID = "CT";
       if (call ~ /^CU/) ID = "CU";
       if (call ~ /^D[A-R]/) ID = "DL";

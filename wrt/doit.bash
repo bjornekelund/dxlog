@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls ../naqp/NAQP[^_]* | tail -1 2> /dev/null`
+FILE=`ls WRT[^_]* | tail -1 2> /dev/null`
 OUTFILE=WRT_db.txt
 
 echo Parsing $FILE

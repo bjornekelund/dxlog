@@ -1,7 +1,7 @@
 #!/bin/bash
 FOLDER="`pwd`/derivatives"
 echo $FOLDER
-LIST="mdqp msqp mtqp ndqp nhqp njqp vtqp wrt"
+LIST="mdqp msqp mtqp ndqp nhqp njqp vtqp"
 test -e "$FOLDER" || mkdir $FOLDER
 rm -f $FOLDER/*
 

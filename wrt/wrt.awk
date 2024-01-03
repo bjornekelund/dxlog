@@ -1,37 +1,153 @@
 BEGIN {
-  FS=","
   printf("#0 Weekly RTTY Contest database\n");
   printf("#1 Data collected and maintained by Claude VE2FK\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=","
+  max = 0;
+  maxname = "";
   maxlen = 0;
-  longest = "";
 }
 {
-  if (lines[$1] != "") {
-    printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+  call = $1;
+  name = toupper($2);
+  ID = $3;
+  if (call ~ /^[A-Z0-9/]{3,}$/ && (name != "" || ID != "")) {
+#    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr";    
+    if (call !~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]*[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/) {
+      ID = "";
+      if (call ~ /^3B9/) ID = "3B9";
+      if (call ~ /^3DA/) ID = "3DA";
+      if (call ~ /^4O/) ID = "4O";
+      if (call ~ /^4[X-Z]/) ID = "4Z";
+      if (call ~ /^5T/) ID = "5T";
+      if (call ~ /^6Y/) ID = "6Y";
+      if (call ~ /^8P/) ID = "8P";
+      if (call ~ /^9A/) ID = "9A";
+      if (call ~ /^9M6/) ID = "9M6";
+      if (call ~ /^(7[X-Z]|HZ)/) ID = "HZ";
+      if (call ~ /^9H/) ID = "9H";
+      if (call ~ /^B[AY]/) ID = "BY";
+      if (call ~ /^(CE|X[QR])/) ID = "CE";
+      if (call ~ /^C6/) ID = "C6";
+      if (call ~ /^CO/) ID = "CM";
+      if (call ~ /^C[R-T]/) ID = "CT";
+      if (call ~ /^CU/) ID = "CU";
+      if (call ~ /^D[A-R]/) ID = "DL";
+      if (call ~ /^E2/) ID = "HS";
+      if (call ~ /^E7/) ID = "E7";
+      if (call ~ /^E[A-F]/) ID = "EA";
+      if (call ~ /^E[I-J]/) ID = "EI";
+      if (call ~ /^ER/) ID = "ER";
+      if (call ~ /^ES/) ID = "ES";
+      if (call ~ /^E[U-W]/) ID = "EU";
+      if (call ~ /^EX/) ID = "EX";
+      if (call ~ /^EY/) ID = "EY";
+      if (call ~ /^F[0-9]/ || call ~ /^F\//) ID = "F";
+      if (call ~ /^FS/) ID = "FS";
+      if (call ~ /^([GM][0-9KR]|2E)/) ID = "G";
+      if (call ~ /^[GM]D/) ID = "GD";
+      if (call ~ /^[GM]M/) ID = "GM";
+      if (call ~ /^[GM]W/) ID = "GW";
+      if (call ~ /^[GM]U/) ID = "GU";
+      if (call ~ /^[GM]I/) ID = "GI";
+      if (call ~ /^[GM]J/) ID = "GJ";
+      if (call ~ /^H[AG]/) ID = "HA";
+      if (call ~ /^HB[1-9]/) ID = "HB";
+      if (call ~ /^HC/) ID = "HC";
+      if (call ~ /^HH/) ID = "HH";
+      if (call ~ /^HI/) ID = "HI";
+      if (call ~ /^HK/) ID = "HK";
+      if (call ~ /^HP/) ID = "HP";
+      if (call ~ /^HR/) ID = "HR";
+      if (call ~ /^I[0-9,K-N,T-Z]/) ID = "I";
+      if (call ~ /^IS0/) ID = "IS0";
+      if (call ~ /^(J[A-S]|7[JKL])/) ID = "JA";
+      if (call ~ /^JT/) ID = "JT";
+      if (call ~ /^KP2/) ID = "KP2";
+      if (call ~ /^[KNW]P4/) ID = "KP4";
+      if (call ~ /^L[A-N]/) ID = "LA";
+      if (call ~ /^L[O-W]/) ID = "LU";
+      if (call ~ /^LX/) ID = "LX";
+      if (call ~ /^LY/) ID = "LY";
+      if (call ~ /^LZ/) ID = "LZ";
+      if (call ~ /^OD/) ID = "OD";
+      if (call ~ /^OE/) ID = "OE";
+      if (call ~ /^O[G-J]/) ID = "OH";
+      if (call ~ /^O[KL]/) ID = "OK";
+      if (call ~ /^OM/) ID = "OM";
+      if (call ~ /^O[N-T]/) ID = "ON";
+      if (call ~ /^O[U-Z]/) ID = "OZ";
+      if (call ~ /^P4/) ID = "P4";
+      if (call ~ /^P[A-I]/) ID = "PA";
+      if (call ~ /^PJ7/) ID = "PJ7";
+      if (call ~ /^P[P-Y]/) ID = "PY";
+      if (call ~ /^PZ/) ID = "PZ";
+      if (call ~ /^(R[1-7][A-Z]|R[A-Z][1-9]|UA[1-7])/) ID = "UA";
+      if (call ~ /^(R[089][A-Z]|R[A-Z][089]|UA[089])/) ID = "UA9";
+      if (call ~ /^S5/) ID = "S5";
+      if (call ~ /^(S[A-M]|[78]S)/) ID = "SM";
+      if (call ~ /^(S[N-R]|3Z|HF)/) ID = "SP";
+      if (call ~ /^ST/) ID = "ST";
+      if (call ~ /^S[V-Z][01234678]/) ID = "SV";
+      if (call ~ /^S[V-Z]5/) ID = "SV5";
+      if (call ~ /^S[V-Z]9/) ID = "SV9";
+      if (call ~ /^(T6|YA)/) ID = "YA";
+      if (call ~ /^T[ABC]/) ID = "TA";
+      if (call ~ /^TF/) ID = "TF";
+      if (call ~ /^TG/) ID = "TG";
+      if (call ~ /^TI/) ID = "TI";
+      if (call ~ /^TY/) ID = "TY";
+      if (call ~ /^UN/) ID = "UN";
+      if (call ~ /^U[R-Z]/) ID = "UR";
+      if (call ~ /^V3/) ID = "V3";
+      if (call ~ /^V4/) ID = "V4";
+      if (call ~ /^V[EOY]/) ID = "VE";
+      if (call ~ /^VK/) ID = "VK";
+      if (call ~ /^VP2M/) ID = "VP2M";
+      if (call ~ /^VU/) ID = "VU";
+      if (call ~ /^XE/) ID = "XE";
+      if (call ~ /^YL/) ID = "YL";
+      if (call ~ /^Y[BCD]/) ID = "YB";
+      if (call ~ /^YO/) ID = "YO";
+      if (call ~ /^Y[UTQ]/) ID = "YT";
+      if (call ~ /^ZB/) ID = "ZB";
+      if (call ~ /^Z3/) ID = "Z3";
+      if (call ~ /^ZD7/) ID = "ZD7";
+      if (call ~ /^ZD8/) ID = "ZD8";
+      if (call ~ /^ZF/) ID = "ZF";
+      if (call ~ /^Z[KLM]/) ID = "ZL";
+      if (call ~ /^ZP/) ID = "ZP";
+      if (call ~ /^Z[R-S]/) ID = "ZS";
+    }
+    idvalid = ID ~ /^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]?$/;
+    problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
+
+    namevalid = name ~ /^[A-Za-z]{2,}$/;
+
+    if (!namevalid && name != "") {
+      printf("Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
+      name = "";
+    }
+
+    if ((!namevalid && !idvalid) || problemid || (!namevalid && ID !~ /^([A-Z]{1,2})/)) {
+#      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
+      printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
+    }
+    else {
+      printf("%s=%s;%s\n", call, name, ID);
+#      printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
+      if (length(name) > maxlen) {
+        maxlen = length(name);
+        maxname = name;
+      }
+
+    }
   }
-  else {
-    if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
-      if (length($2) > maxlen) {
-        maxlen = length($2);
-        longest = $2;
-      }
-      printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
-      lines[$1] = $0;
-    } 
-    else if ($1 ~ /^[A-Z0-9]/ && $3 ~ /^(VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|8P|)$/) {
-      if (length($2) > maxlen) {
-        maxlen = length($2);
-        longest = $2;
-      }
-      printf("%s=%s;%s\n", toupper($1), toupper($2), toupper($3));
-    }
-    else if ($0 !~ /^(!|#|$)/) {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-    }
+  else if ($0 !~ /^(#|!|$)/ && !(name == "" && ID == "")){
+      printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {
-  printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
+  printf("Longest name is \"%s\" (%d)\n", maxname, maxlen) > "/dev/stderr";
 }
