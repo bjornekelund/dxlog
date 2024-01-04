@@ -1,7 +1,7 @@
 # Weekly RTTY Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-01-03
+# Last updated 2024-01-04
 4U1WB=MASA;DC
 7L1WII=SAM;JA
 8P5A=TOM;8P
@@ -9654,7 +9654,7 @@ NS9I=DWIGHT;WI
 NS9M=;IN
 NS9N=MARK;IL
 NS9R=DAVE;WI
-NT0EE=;MN
+NT0EE=SCOTT;MN
 NT0F=DON;IA
 NT0U=;MA
 NT0Y=;FL

@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2023-12-28
+# Last Edit,2024-01-03
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -174,6 +174,7 @@ AB1MC,Scott,ME,Northport ME
 AB1SG,Kyle,MA,North Adams MA
 AB1WV,Marcus,CT,Bethel CT
 AB1XB,Bill,MA,Harvard MA
+AD2BO,Russ,NY,Coram NY
 AB2E,Darrell,1305,Monroeville NJ
 AB2EZ,Stu,NJ,Princeton NJ
 AB2O,Mark,FL,Miami FL
@@ -2218,7 +2219,7 @@ K9FZ,Alex,WI,Hudson WI
 K9GDF,Rich,Wi,Greenfield WI 
 K9GS,Gary,1032,Mukwonago WI
 K9GY,Eric,IL,Lansing IL
-K9HIM,Dave,IL,Monee IL
+K9HIM,Dave,CWA,Monee IL
 K9HXO,Bill,FL,Parrish FL
 K9IBM,Dan,WI,Janesville WI
 K9ID,Ron,IL,Buffalo Grove IL
@@ -2241,6 +2242,7 @@ K9MM,John,120,Prospect Heights IL
 K9MMS,Gary,277,St-Charles IL
 K9MQ,Mark,IN,St John IN
 K9NN,Dale,2568,Carmel IN
+K9NO,Paul,IL,Roselle IL
 K9NR,Don,1072,Kankakee IL
 K9NW,Mike,2534,Hamilton OH
 K9NZ,Perry,IN,Metamora IN
@@ -2315,7 +2317,7 @@ KA5KPE,Bob,AR,Bella Vista AR
 KA5M,Marsh,1433,Shreveport LA
 KA5QQA,Rob,TX,Houston TX
 KA5ZLQ,Jackie,OR,Bend OR
-KA6AAE,Chuck,CA,Oakdale CA
+KA6AAE,Chuck,3465,Oakdale CA
 KA6AIL,Duaine,CA,Palmdale CA
 KA6JLT,Rob,NV,Reno NV
 KA6KKE,Ken,CA,Chino Hills CA
@@ -3181,7 +3183,7 @@ N0JL,Jim,IA,Chillicothe IA
 N0KK,Kirk,698,New Hope MN
 N0KQ,Bill,1463,Brighton CO
 N0KV,Barry,1723,Parker CO
-N0MII,Jeff,MO,Ballwin MO (Been heard QRP)
+N0MII,Jeff,3466,Ballwin MO (Been heard QRP)
 N0MP,Bill,AZ,Mesa AZ
 N0MPM,Mike,IA,Pella IA
 N0NR,Glenn,CO,Denver CO
@@ -3624,6 +3626,7 @@ N6NC,Lars,1290,La Jolla CA
 N6NF,Tom,2011,Woodside CA
 N6NR,Rich,WA,Tieton WA
 N6NT,Bruce,3281,Nebo NC
+N6PE,Rick,CA,Yorba Linda CA
 N6PF,Eli,3086,(Elliot)  Oakland CA
 N6PN,Matt,253,Concord CA
 N6RK,Rick,97,Galt CA
@@ -3707,6 +3710,7 @@ N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
 N7VM,Bill,CA,Fallbrook CA
+N7VS,Steve,OR,Portland OR
 N7WA,Mike,3395,Kent WA
 N7WY,Bob,1406,Rogersville MO
 N7XM,Josh,WV,Dayton NV
@@ -4767,6 +4771,7 @@ VA3WHU,Carole,2773,Hamilton ON
 VA3YG,Brent,ON,Southampton ON (QRP)
 VA3ZB,Bruce,ON,Sault Ste-Marie ON
 VA3ZC,Paul,ON,Oakville ON (Mag. Loop)
+VA4ADM,Paul,MB,Winnipeg MB
 VA4JP,Jack,MB,(K0JP)  Michell MB
 VA5SCA,Neil,SK,Canada
 VA6CA,Kam,2714,Calgary AB
@@ -4808,7 +4813,7 @@ VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Est du QC.
+VE2FK,Dub,1181,*** Happy New Year to all. ***
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68

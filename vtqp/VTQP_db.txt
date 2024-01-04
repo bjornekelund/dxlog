@@ -1,7 +1,7 @@
 # Vermont QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-01-02
+# Last updated 2024-01-04
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
