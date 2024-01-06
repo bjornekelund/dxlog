@@ -1,7 +1,8 @@
 # German DOK database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-12-17
+# Last updated 2024-01-06
+# Longest DOK is APOLLO with 6 characters.
 DA0A=N11
 DA0APOLLO=APOLLO
 DA0AZ=K21

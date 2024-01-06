@@ -26,5 +26,6 @@ BEGIN {
   }
 }
 END {
-  printf("Longest DOK is %s which is %d characters.\n", longest, max) > "/dev/stderr"; 
+  printf("Longest DOK is %s with %d characters.\n", longest, max) > "/dev/stderr"; 
+  printf("#4 Longest DOK is %s with %d characters.\n", longest, max); 
 }
