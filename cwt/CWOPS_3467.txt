@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-01-03
+# Last Edit,2024-01-05
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -2910,6 +2910,7 @@ KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ3H,Tony,NC,Greensboro NC
 KQ4DAP,Cainan,3412,Perry GA
+KQ4EFL,Mike,GA,Marietta GA
 KQ4R,Ed,FL,Port Orange FL
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7I,Jeff,OR,Portland OR
@@ -3591,6 +3592,7 @@ N6AN,Rex,CA,Pasadena CA
 N6ARA,Ara,3185,Montrose CA
 N6BT,Tom,281,Kingman AZ
 N6BV,Dean,CA,San Francisco CA
+N6CHU,Bob,WA,Graham WA
 N6CK,Greg,643,Ben Lomond CA
 N6CW,Terry,2279,San Diego CA
 N6DE,Dean,CA,Sunnyvale CA
@@ -4025,6 +4027,7 @@ NP3JD,Jose,,Guaynabo PR
 NP3K,Abe,1238,(Charlie)  Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
+NP4TT,Tim,3463,Humacao PR
 NP4Z,Felipe,KP4,San Juan PR
 NQ0N,Pat,MO,Excelsior Springs MO
 NQ2W,WILL,3419,Diamond Point NY (Been heard QRP)
@@ -4233,6 +4236,7 @@ OK8DJ,Dragan,,Rosic Czech Republic
 OK8GO,Alex,2685,(UR7GO)
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
+OL1T,David,,Holysov Czech Republic (Contest Call for OK6DJ)
 OL6M,Bob,,RC-Olomouc Czech Republic
 OL7R,PETER,2830,
 OL8R,Petr,2830,Ritka Czech Republic
@@ -4520,7 +4524,7 @@ SM5CIL,Arne,1410,Rejmyre Sweden (SM7CIL)
 SM5COP,Rune,,Styckebruk Sweden
 SM5DJZ,Jan,SM,Knivsta Sweden
 SM5GLC,Lasse,1529,Linkoping Sweden
-SM5GRD,Kare,,Grillby Sweden
+SM5GRD,Kare,3467,Grillby Sweden
 SM5IMO,Dan,1854,Vingaker Sweden
 SM5LBR,Ray,,Progvaegen Sweden
 SM5S,GI,2094,(Goran) Torshalla Sweden (SM5SIC)
