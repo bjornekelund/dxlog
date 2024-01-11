@@ -1,6 +1,5 @@
 #!/bin/bash
 FILE=`ls ICWC-* | tail -1 2> /dev/null`
-OUTFILE=ICWCMST_db.txt
 
 echo Scrubbing $FILE
 dos2unix -q $FILE
@@ -29,17 +28,16 @@ BEGIN {
       name[$1] = nm;
     }
     else if ($0 !~ /^(!|#|$)/) {
-    if (nm != "")
-      printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
-    else
-      printf("Lacking exchange: \"%s\"\n", $0) > "/dev/stderr";
+      if (nm != "") {
+        printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
+      }
+      else {
+#        printf("Lacking exchange: \"%s\"\n", $0) > "/dev/stderr";
+      }
     }
   }
 }
 END {
 }' $FILE
-
-unix2dos -q $OUTFILE
-echo Created $OUTFILE
 
 exit
