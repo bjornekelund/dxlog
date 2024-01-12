@@ -1,0 +1,180 @@
+1 RT3A (ex RU3AA UW3AA UW3HV) Konstantin Khachaturov (SK 04/05/2022)
+2 U3DR Vladimir Mitkevich (SK 04/29/1999)
+3 UA4RZ Evgeniy Kostromin (SK 11/18/2009)
+4 UA9BA (ex UW9AR) Vladimir Umanets
+5 UR7FM (ex RB5FU UB5FFJ) Gennady Kovalev
+6 UA4DY Viktor Shchurkin (SK September 1992)
+7 RL2D (ex RL3DS RAØBY R1FJA 4K2BY 4K4BDU 4K2BDU UA0BDU) Vladimir Malygin
+8 R5AE (ex RD3AE 4L1II UF6FII) Evgeniy Anishchenko
+9 UN7GM (ex UL7GM) Igor Dobrokhotov
+10 U6WF Ivan Priemyshev (SK)
+11 UAØQDL Vladimir Frolov (SK)
+12 UA3ARE Vladimir Sushansky (SK)
+13 UVØBB Anna Glotova (SK)
+14 UA9OP Valery Pozharskikh
+15 UA3AO Valery Pakhomov
+16 RA6AR Anatoly Stepanov
+17 R3HD (ex RU3HD R1ANN UV3HD) Vladimir Banishevsky
+18 UA9DD (ex UW9CP) Alexey Kryukov (SK 03/07/2018)
+20 UA4YR Vladimir Momot (SK)
+21 4K4AB (ex UVØAB) Alexander Malygin (SK 09/07/1991)
+22 UA6HZ (also N2WW) Valery Agabekov (SK 12/01/2017)
+23 UA3LDU (ex UA0BEO) Vitaly Sizov
+24 UN7BN (ex UL7BN) Vladimir Nikulin (SK June 2011)
+25 RU3AO (ex UW3AO) Nikolay Baygulov (SK 03.20.17)
+26 4K9W (ex UD6DKW) Vladimir Shishko
+27 UT0FT (ex RB5FT UB5FDG) Vladimir Grishchenko
+28 UA1ZX Boris Romanov (SK)
+29 UR3LC (ex UB5LBG UX1LR) Sergey Prokhorov
+30 RA1AOM Valery Pavlov
+31 RK6AF (ex UZ6AF) Konstantin Sevastyanov (QRT)
+32 DL8CA (ex UA3AD) Andrey Cherkezov
+33 UA3WFM Lyudmila Fedorova (SK 11/18/2019)
+35 UA3NU German Ushakov (SK)
+36 RM4Y (ex RZ1OM 4K4OM 4K2OIL UA1OIL) Sergey Bushkov (SK 07/09/2020)
+37 LZ1BC Dimitar Drachev (SK 1992)
+38 UA9OM Anatoly Epanchintsev (QRT)
+39 R7KBB (ex UU5JBB UB5JBB) Leonid Dudko
+40 UZ1RR (ex UZ8RR US1RR UR0RR UX8RR US0RR UB1RR UB5RR UB5CT) Vladimir Stepanenko
+41 UA3QAM Alexander Novichikhin
+42 RZ3DZ Vyacheslav Nikon
+43 UT5FFS (ex UT3FZ UB5FFZ) Sergey Fisakov (SK 2017)
+44 LZ2TU Dobri Hristov (SK 2020)
+45 TA1A Unal Akbal (SK)
+46 UT3FM (ex RB5FQ) Viktor Kalashnikov (SK August 2010)
+47 DL4CF (also M0HVM MM0HVM ex Y62QH) Jörg Volbrecht
+48 UA4CH Evgeniy Ivanov (SK)
+49 OZ1CAR Jens Henrik Nons (SK 09/11/2007)
+50 RN3W (ex RK3WW UA3EAC) Andrey Fomenko
+51 LZ2JE Wencislav Penkowski
+52 UR7VT (ex UB5VKM) Sergey Zhitny
+53 ES4AA (ex RR2RW) Sergey Sassov (QRT)
+54 VE3CRG Brian Henry Crook
+55 4X1GA (ex 4Z5DB UO5OBT) Arkady Grabois
+56 UA1CGS Sergey Alekseev (SK 03/15/2021)
+57 US9QA (ex RB5QP) Vladimir Shimko (SK)
+58 SM7FYK Henning Schön (SK)
+59 SM5AJH Stig Zackrisson (SK)
+60 SM6NFF Rolf Genne (SK)
+61 VE7FNP Carolyn Sharon (QRT)
+62 RZ3MM (ex RW1ZM UW1ZM) Vasily Gladyshevsky (SK 07.18.2023)
+64 UA9MJA Alexander Vasiltsov (SK)
+65 RA1AO Mikhail Mayburov (QRT)
+66 RU9O (ex UA9OBW) Sergey Chikin (SK 09/07/2017)
+67 K1RH Ralph Hirsch (SK)
+68 UR5FA (ex RB5FA) Oleg Vdovenko
+69 IK6BAK Eliseo Chiarucci
+70 IK2RMZ (also DL1GBZ) Martin Zurn
+71 LZ2AU Antoaneta Encheva
+73 RA3CO (also PZ5CO CN2CO C6AWL ex RA9CO RV9CFA) Dmitry Kryukov
+75 RX3QX (ex UV3QX) Ivan Kuznetsov
+76 UA5C (ex RZ3AZ UV3AEF) Alexander Gimanov
+77 UT7FO (ex RB5FO) Vasily Zhovtiy
+78 DL9MDW (also N9MDW) Christian Klotz
+79 UA9KT Yuri Perehvatov (QRT)
+80 U3DQ Alexey Rekach (SK)
+81 TA2DA Mehmet Sabri Saygiligil
+82 UW6HAI Alexander Sychev (QRT)
+83 W4OI (ex HK1AR N7BG) Anthony Rogozinski
+84 DK4LX Holger Matthiessen
+85 DL1PM Ernst Manske (SK)
+86 PAØINA Frans Oosthoek
+87 YT1E (ex YZ1AA YU1FD) Rodoljub Rankovich (SK)
+88 RU4HH (ex UU5JNW UB5JNW) Viktor Pertsev (SK 10/16/2009)
+89 DL4FDM (ex HB9CSA) Fritz Zwingli
+90 R3GM (ex RN3GM RW1ZZ UW1ZZ RA1WQ RA1QW) Dmitry Kolenchuk
+91 OM7YX (ex OM3ZX OK3YX) Robert Hnatek (QRT)
+92 SMØNFA (ex SM6NFA) Stig Grennestam (QRT)
+93 DL6MAA Hans Peter Helfert
+94 CT1JGA (also DL3MCO) Oliver Boehm
+95 UR7IF ( ex UB4IFI) Viktor Gladkov (SK)
+96 SP4R (ex SP4NI SP4HKB) Andrzej Barszczewski
+97 9A2WJ (ex YU2WJ) Milan Drlic (SK 06/25/2016)
+98 RO5O (ex UA3QG) Alexander Gribanov
+100 RQ9O (ex RØQA RXØQA UT3IQ UB3IQ UAØQGB) Sergey Khairulin
+101 UN2E (ex UL7EZ) Anatoly Makaenko
+102 RW4NM (ex UA4NBD) Andrey Loginov
+103 U5ND Nikolay Emshanov (SK)
+104 R7KM (ex UU7JM UB5JIM) Anatoly Prozorov
+105 DL7AMJ Dieter Martens (QRT)
+106 RW9DA (ex RX9CK UV9CK) Georgy Goncharov (QRT)
+107 RX6FJ (ex RA6EW UA6EDW) Igor Roshchupkin
+108 UK9AI (ex UI8AFI) Andrey Sychev (SK)
+109 VE3MS Roger Gordon McNicholl
+110 SM7BVO Rolf Karlsson (SK)
+111 PAØDIN Dean Hugma (SK 09/30/2023)
+112 HA8MT Ferenc Baraci
+113 HA3OV Antal Hudanik (SK)
+114 SP9DBA Ryszard Baerski
+115 SM4BZH (ex SMØBZH) Seppo Lilja (SK 03/29/2017)
+116 I7ALE Alessandro D'Onofrio
+117 SMØIN Knut Ronald Flink (SK 2002)
+118 UA9MCM Vadim Balandin
+119 UA6AUA Viktor Alekseev
+120 LZ1VP Vladislav Petrov
+121 LZ1AG Angel Nestorov
+122 N3JT James Talens
+123 SM4GL Hans Gunnar Eriksson (SK 11/16/2009)
+124 HA7UL Ferenc Horvath
+126 F6IIE Maurice Colombani-Gayer
+127 RN3ANT (ex UB5LSW) Vitaly Kuzmenko
+128 HA3OU Jozsef Ferenc
+129 LY3OQ (ex LY2BOQ) Alvydas Nenis (QRT)
+130 DK9EA Walter Bunzel (QRT)
+131 R3GG (ex RV3GG) Andrey Sokolov
+132 UA9PZ (ex UW9OQ) Vladimir Lavreev
+133 UT2UZ (ex RT4UZ) Mikola Fedoseev
+134 UA4PX Vladimir Guryanov (SK)
+135 HA3HK Zoltan Borbely
+136 UR5VCX (ex UB5VCX) Alexander Manannikov (QRT)
+137 ON5ME Oscar Verbank (SK 01/06/2007)
+138 UA3WU (ex UV3WU) Mikhail Shilov (QRT)
+139 UT5SY Gennady Zherdev (SK)
+140 ER1CW (ex UO5ON) Victor Lobikov
+141 R3LB (ex RA3LB) Vladimir Nizhegorodtsev
+142 UT5PX (ex RB5QX) Alexander Odnoral
+143 IK0ATK (ex IK1ATK) Salvatore Marino (SK)
+144 RN9RM (ex UA9RQ) Evgeniy Shutov
+145 EA7CEZ Angel Martinez Klaus (QRT)
+146 LA5DW Bjorn Dommersnes (QRT)
+147 N2AA Eugene Walsh (SK 07/19/2019)
+148 KE7V John Kiesel (SK 08/28/2019)
+149 RX1A (ex RX1AA UV1AA) Victor Stroganov
+150 ES4SM (ex ES3SM) Sergey Leonov (SK)
+151 HA3NU Laszlo Weiss
+153 UT4FJ (ex UB4JFJ) Alexander Naumov
+154 TA3GF (ex TA2BU) Huseyin Ozdurusu (SK 01/19/2019)
+155 UA3DJK Yuri Karasev (SK)
+156 SMØKCR Robert-Gunnar Rondalen
+157 DF4SA Cornelius Paul
+158 RA4WB (ex RU4WT UI9ACQ) Alexander Gavrilov
+159 RG6G (ex RW6HX UV6HVA) Alexey Smekhnov
+160 SM4OTI Stefan Knutsson
+161 G0HGA Angie Sitton (SK 05/09/2009)
+162 RV6AGG Boris Kochergov (SK)
+163 OK1RR Martin Kratoska
+164 UX4LL (ex UB4LPO) Oleg Usatov
+165 US3UW (ex UX3UW RT5UT) Nikolay Tur
+166 UA6ABN Nikolay Kutsenko
+167 LZ3RM Emil Milachkov
+168 UAØQN Leonid Tirsky (SK 03.10.2023)
+169 4K4BCU Alexander Isaevich (SK)
+170 R6AF (ex UA6AF) Viktor Kravchenko
+171 VE3XB (ex RAØFB) Yuri Romanov (SK 01.11.2021)
+172 VE2GOO Antoine Jequin (SK 2011)
+173 OE8CWG (ex OE4CSK) Georg Chapo
+174 UA4NU Evgeniy Filippov
+175 UA3DVF Vladimir Zakharov (QRT)
+176 I1YXN Libero Meriggi (SK)
+177 LZ3BG Zephyr Drachev
+180 RN2B (ex R2SA) Valery Sidorov
+181 EW7A Alexey Vasiliev
+182 R2BW (ex R0AI R0AIB) Grigory Anikin
+183 UA3AMY Vladimir Sutulov
+184 HB9DAX Manfred Eisel
+185 RM2D (also SM6LRR) Mats Strandberg
+186 RD1A Oleg Stribny
+187 UB6N Alexander Lebedev
+188 DL1OP Olaf Battenfeld (SK 05/11/2023)
+189 IN3EBZ Gerd Regele
+190 UA3AGW Dmitry Zaslavsky
