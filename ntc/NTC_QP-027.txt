@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2023-12-19
-# Last number listed 248
+# Last edit,2024-01-17
+# Last number listed 250
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -109,7 +109,7 @@ K3QP,Bill,248,(PA)
 K4HEN,Theo,3,(WI)
 K5QR,Andy,109,(TX)
 KF0CR,Luc,98,
-LA0HY,HY,NM,
+LA0HY,Memo,NM,
 LB2WD,Helge,NM,
 LX/ON9TT,Marc,196,(ON9TT)
 M0HEN,Theo,3,(PA3HEN)
@@ -126,6 +126,7 @@ OE8TIR,Stefan,105,
 OE7TIR,Stefan,105,
 OG2N,Jarmo,107,
 OH2BN,Jarmo,107,
+OK1DLA,Ludek,249,
 OK1DSA,Roman,207,
 OK1DZD,Zdenek,217,
 OK1DZ,Zdenek,217,
@@ -218,7 +219,7 @@ PA3EYM,Gert,90,
 PA3FOE,Cor,82,
 PA3FTP,Louis,28,
 PA3FYE,Jacob,55,
-PA3GBK,Aeilko,130
+PA3GBK,Aeilko,130,
 PA3GEO,Robert,17,
 PA3GNZ,Gosse,4,(Tjeerd) 
 PA3GSV,Jan,223, 
@@ -241,14 +242,15 @@ PA5KT,Henk,56,
 PA5Z,Kees,93,
 PA6FBE,Peter,243,(PA0PJE)
 PA6FAP,Peter,243,(PA0PJE)
-PA7DN,Dirk,173
+PA7DN,Dirk,173,
 PA7F,Frank,181,
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
 PA7RM,Rob,31, 
 PA8AD,Ad,121,
+PA8MM,Victor,250,
 PA9CW,Ton,81,
-PA9J,Jorrit,128
+PA9J,Jorrit,128,
 PA9O,Fil,63,
 PB2JJ,Jasper,27,
 PB5DX,Harry,12,
