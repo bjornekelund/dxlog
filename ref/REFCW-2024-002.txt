@@ -3,6 +3,8 @@
 # Based on data collected and maintained by Claude VE2FK and Vince F5OIH
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2024-01-02
+# Thanks SM7IUN
+# REFCW
 F1AAE,14,
 F1AAG,75,
 F1AAK,60,

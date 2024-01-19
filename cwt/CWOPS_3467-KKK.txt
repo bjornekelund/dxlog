@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-01-10
+# Last Edit,2024-01-18
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -2067,7 +2067,7 @@ K7KPA,Kevin,UT,Orem UT
 K7KY,Doug,1396,Brookings OR
 K7LV,George,800,Las Vegas NV
 K7LVJ,John,1833,Burlington WA
-K7MG,Jeff,WA,Bainbridge Island WA
+K7MG,Jeff,CWA,Bainbridge Island WA
 K7MK,Jim,3342,Boise ID
 K7MNF,Mike,CWA,Blaine WA
 K7MOA,Key,1594,Athens GA
@@ -2356,7 +2356,7 @@ KB1MEE,Mark,ME,Mexico ME
 KB1NO,John,3020,Norfolk MA
 KB1VUN,Eric,CWA,Lebanon NH
 KB1VX,Barry,ME,Kittery ME
-KB1W,Len,MA,(2038)  (Lenny)  Pittsfield MA
+KB1W,Len,2038,(Lenny)  Pittsfield MA
 KB1WTF,Nicolas,MA,Foxboro MA
 KB1YJ,William,NH,Stratham NH
 KB1ZEB,Larry,VT,Essex Junction VT
@@ -2913,6 +2913,7 @@ KP4P,Tele,490,Ponce PR
 KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
+KQ1O,Santi,VA,
 KQ3H,Tony,NC,Greensboro NC
 KQ4DAP,Cainan,3412,Perry GA
 KQ4EFL,Mike,GA,Marietta GA
@@ -3214,6 +3215,7 @@ N0UA,Vince,CO,Littleton CO
 N0UI,Tim,MO,Jefferson City MO
 N0UR,Jim,1445,Ellendale MN (Been heard QRP)
 N0VRP,Chris,3149,Georgetown TX
+N0W,Jim,MN,
 N0XC,Steve,WI,Osceola WI
 N0XE,Jim,IA,Sioux City IA
 N0YY,Rick,1434,Marion IA
@@ -4127,6 +4129,7 @@ OD5NJ,Gabe,,Mardiros Lebanon
 OE1TKW,Helmut,2770,Wien Austria
 OE2BZL,Knut,,Pfarrwerfen Austria
 OE3BBC,Rain,,Wien Austria
+OE3DIA,Ivan,OE,Vienna Austria
 OE3GSA,Gerd,537,Wolfsbach Austria
 OE3K,Ivan,,(OE1DIA) Vienna Austria
 OE3KAB,Karl,,Muenichsthal Austria
@@ -4496,6 +4499,7 @@ SD6M,Per,1773,Lindome Sweden (SA6BGR)
 SE0B,Claes,1849,Varmdo Sweden (SA0BXV)
 SE4E,Lars,SM,Ludvika Sweden (SM4DQE)
 SE5E,Ingo,2097,Vallingby Sweden (SM5AJV)
+SE5T,Kare,3467,(SM5GRD)  >Grillby Sweden
 SE6J,Johan,2880,(SM6XHM)  Alingsas Sweden
 SE6K,Mats,,Ugglarp Sweden
 SF0Z,Jens,2237,(SM0HEV) Upplands-Vasby Sweden
@@ -4531,7 +4535,7 @@ SM5CIL,Arne,1410,Rejmyre Sweden (SM7CIL)
 SM5COP,Rune,,Styckebruk Sweden
 SM5DJZ,Jan,SM,Knivsta Sweden
 SM5GLC,Lasse,1529,Linkoping Sweden
-SM5GRD,Kare,3467,Grillby Sweden
+SM5GRD,Kare,3467,(SE5T)  Grillby Sweden
 SM5IMO,Dan,1854,Vingaker Sweden
 SM5LBR,Ray,,Progvaegen Sweden
 SM5S,GI,2094,(Goran) Torshalla Sweden (SM5SIC)
@@ -5027,6 +5031,7 @@ VO1TTT,Mike,1347,VE9AA Newfoundland
 VO1WIN,Gerry,191,(W1VE)
 VO2AC,Chris,2778,(VE3FU)  Goose Bay NL
 VP2MDM,George,2652,(K2DM)  Montserrat
+VP2MDX,Thaire,1627,(W2APF)  Montserat
 VP2MKG,Geo,,(K5KG) Montserrat
 VP2MVV,Ken,697,Montserrat (N2ZN)
 VP2MXF,Nigel,166,Beru Montserrat (G3TXF)
@@ -5263,7 +5268,7 @@ W2ZRA,Kevin,942,Cutchogue NY
 W3AC,Dave,1235,Forest VA
 W3AG,Joe,PA,Pittsburg PA
 W3AST,Jim,DE,Newark DE
-W3ASW,Mike,DE,Newark DE
+W3ASW,Jim,DE,Newark DE
 W3AT,Jim,NM,Santa Fe NM
 W3ATT,Brian,1301,Bayse VA
 W3AVP,Alex,PA,New Holland PA
@@ -6292,6 +6297,7 @@ ZF2MJ,Dan,2164,N6MJ
 ZF2NE,Joe,,Cayman Isl.
 ZF2RX,Bray,,(3158)  (KC1KUG)
 ZF2SC,Scott,1698,Cayman Isl. (KA9P)
+ZF2SS,Bill,ZF,Cayman Brac
 ZF2VE,Gerry,191,(W1VE)  Cayman Isl.
 ZF9CW,Stan,272,(K5GO) Siloam Springs Cayman Islands
 ZL1BBW,Gavin,,Whangarei New Zealand

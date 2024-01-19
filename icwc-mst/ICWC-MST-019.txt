@@ -3,9 +3,27 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2024-01-09
+# Last Edit,2024-01-15
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+
+KB2WKJ,DAVE,
+WA9LKZ,RALPH,
+KN4YTA,MATT,
+AJ1S,ANDY,
+VA3FN,JOHN,
+OL1T,DAVID,
+N1XI,PAUL,
+KA4CDN,MIKE,
+
+DL8CLO,CLAUS,,Naila Germany
+KD9VNL,TOM,,Geneva IL
+N4AAJ,SCOTT,,Lexington KY
+N8JTR,JAY,,Grayling MI
+W0AZ,STEVE,,Durango CO
+WS7X,NOEL,,Ocala FL
+
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -2347,7 +2365,6 @@ KA5IXR,DAVE,,Austin TX
 KA5KPE,Bob,AR,Bella Vista AR
 KA5M,Marsh,1433,Shreveport LA
 KA5QQA,Rob,TX,Houston TX
-KA5QQA,ROBIN,,Houston TX
 KA5ZLQ,Jackie,OR,Bend OR
 KA6AIL,Duaine,CA,Palmdale CA
 KA6JLT,Rob,NV,Reno NV
@@ -2960,7 +2977,6 @@ KN6NVZ,Kevin,CA,Visalia CA
 KN6TAC,DON,,San Diego CA
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
-KN7Y,JACK,
 KN7Y,JACK,,Mesa AZ
 KN8CWO,,,Columbus OH
 KN8U,Bruce,2297,Atlanta GA
@@ -3247,7 +3263,6 @@ MI0WWB,Will,2081,(William) Baligowan N. Ireland (Occ. QRP)
 MJ0ASP,Mat,,Le Quai Bisson St.Brelade Jersey
 MM0FME,Mik,2151,Mozzo Scotland
 MM0TWX,PETE,,Troon Scotland
-MM0TWX,Pete,3085,Troon Scotland
 MM0WXE,Tony,3128,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
 MM2T,PHIL,
@@ -3642,7 +3657,6 @@ N5ARS,SEAN,MD
 N5AW,Marv,157,Burnet TX
 N5AW/0,Marv,157,Pagosa Springs CO
 N5BA,Brian,1453,Houston TX
-N5CO,DAVE,
 N5CO,DAVE,,Broken Arrow OK
 N5CW,Curt,572,Petal MS
 N5CWW,Charlie,2853,Las Cruces NM
@@ -3720,7 +3734,6 @@ N5ZC,Rich,2153,Amarillo TX
 N5ZO,Mark,1224,Escondido CA
 N6BT,TOM,AZ,Kingman AZ
 N6BV,Dean,CA,San Francisco CA
-N6CHU,BOB,
 N6CHU,BOB,,Graham WA
 N6CK,Greg,643,Ben Lomond CA
 N6CW,Terry,2279,San Diego CA
@@ -4025,7 +4038,6 @@ NE8J,Howard,1940,Coopersville MI
 NE9U,Scott,2438,Menomonie WI
 NF0N,Mike,1383,South Sioux City NE
 NF1A,ART,,Billerica MA
-NF1A,Art,MA,Billerica MA
 NF1R,Clay,CA,Stanford CA
 NF1U,Fred,CT,Burlington CT
 NF3R,Joel,1971,Pottstown PA
@@ -4194,7 +4206,7 @@ NU1O,Chris,1670,Longmeadow MA
 NU2J,Marc,NJ,Bloomfield NJ
 NU3A,Ken,DE,Newark DE
 NU4C,Paul,FL,Ormond Beach FL
-NU6N,Arka,2152,Sunnyvale CA (Southwest Amb.)
+NU6N,Ark,2152,Sunnyvale CA (Southwest Amb.)
 NU6T,Richard,CA,Fair Oaks CA
 NU7J,Tom,WA,Marysville WA
 NU7Y,Quint,1261,Oro Valley AZ
@@ -5055,7 +5067,7 @@ VE3YOTA,Maria,3059,ON
 VE3YT,Vic,2277,Kitchener ON
 VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
-VE4DL,David,MB,Winnipeg MB
+VE4DL,DAVE,MB,Winnipeg MB
 VE4EA,Cary,
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,AB,2978,Winnipeg MB
@@ -5526,7 +5538,6 @@ W4NF,Jack,2360,Manassas VA
 W4NI,Russ,TN,Nashville TN
 W4NPX,Bob,VA,Charlottesville VA
 W4NTA,JIM,,Peachtree Corners GA
-W4NTA,Jim,GA,Peachtree Corners GA
 W4NU,John,760,Atlanta GA
 W4NZ,Ted,831,Chattanooga TN
 W4OC,Don,SC,Boiling Springs SC
@@ -5910,7 +5921,6 @@ W9LR,Bill,WI,New Berlin WI
 W9LW,Jay,IN,Fort Wayne IN
 W9MDG,Mike,IL,Carlock IL
 W9MIC,MIKE,,Merritt Island FL
-W9MIC,Mike,IL,Naperville IL
 W9NJY,Andy,1348,Wauwatosa WI
 W9NX,Kent,866,Columbus IN
 W9NXM,Gus,1841,(Joel) Lake Zurich IL

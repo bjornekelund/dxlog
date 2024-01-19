@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls ../naqp/NAQP[^_]* | tail -1 2> /dev/null`
+FILE=`ls QSOP_VT* | tail -1 2> /dev/null`
 OUTFILE=VTQP_db.txt
 
 echo Parsing $FILE
