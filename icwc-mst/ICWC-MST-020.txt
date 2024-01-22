@@ -6,24 +6,6 @@
 # Last Edit,2024-01-15
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
-
-KB2WKJ,DAVE,
-WA9LKZ,RALPH,
-KN4YTA,MATT,
-AJ1S,ANDY,
-VA3FN,JOHN,
-OL1T,DAVID,
-N1XI,PAUL,
-KA4CDN,MIKE,
-
-DL8CLO,CLAUS,,Naila Germany
-KD9VNL,TOM,,Geneva IL
-N4AAJ,SCOTT,,Lexington KY
-N8JTR,JAY,,Grayling MI
-W0AZ,STEVE,,Durango CO
-WS7X,NOEL,,Ocala FL
-
-
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -434,6 +416,7 @@ AI8Z,Mike,CO,Cortez CO
 AI9IN,STEVE,IN,Oldenburg IN
 AJ1AJ,AJ,3084,(Andrew)  Amherst NH
 AJ1DM,John,1973,Westerly RI
+AJ1S,ANDY,
 AJ3AA,Nate,445,(N4YDU)  NC Contesters Youngsville
 AJ4F,Robie,TX,Kemah TX
 AJ4HP,Olon,1467,Casselberry FL
@@ -482,6 +465,7 @@ CA3FJK,Fernando,CWA,Santiago de Chilie
 CE2LR,Matt,2281,La Calera V Region Chile 
 CE3CT,Roberto,2837,Santiago Chile
 CE3DNP,Carlos,,Santiago Chile
+CG2X,DUB,,Royal Canadian Air Force Centennial
 CM3OR,ZENI,,Bejucal Mayabeque Cuba
 CM8NMN,Noe,2082,Santiago de Cuba
 CN8YR,Med,1656,Casablanca Morocco
@@ -689,6 +673,7 @@ DL7SX,Ruedi,,Berlin Germany
 DL7UC,Dirk,,Berlin Germany
 DL8BH,Bernd,2596,nr Kiel Germany
 DL8BV,Harry,,Goldenstedt Germany
+DL8CLO,CLAUS,,Naila Germany
 DL8FBH,Mike,,Buediwgen Germany
 DL8HK,Karen,2829,Quierschied Germany
 DL8IH,Willi,,Konz Germany
@@ -2356,6 +2341,7 @@ KA3QLF,Scott,1197,Dalton PA
 KA3SJK,Nicholas,PA,Broomall PA
 KA3TTT,Austin,PA,Philadelphia PA
 KA3UIP,JOE,PA,Clarion PA
+KA4CDN,MIKE,
 KA4DXP,Allen,WA,Olalla WA
 KA4RRU,Mike,1388,Catlett VA
 KA4RUR,Fred,2678,Saint Louis MO
@@ -2409,6 +2395,7 @@ KB1ZEB,Larry,VT,Essex Junction VT
 KB1ZIR,Eric,CT,Danbury CT
 KB2ADB,Art,NY,Lily Dale NY
 KB2PIZ,Mark,CWA,Forest Hills NY
+KB2WKJ,DAVE,
 KB3AAY,Ron,1866,Sykesville MD
 KB3CT,Matt,PA,Beaver Falls PA
 KB3FW,Harv,2982,Bluffton SC
@@ -2622,6 +2609,7 @@ KD9REA,FRANK,IL,Chicago IL
 KD9TSE,CHRIS,MN,Yorkville IL
 KD9UYC,MARK,,Fishers IN
 KD9VGM,NOAH,
+KD9VNL,TOM,,Geneva IL
 KE0EBK,Dave,KS,Topeka KS
 KE0EK,David,1819,Topeka KS
 KE0HWZ,Bill,CO,Hugo CO
@@ -2966,6 +2954,7 @@ KN4VV,John,2331,Fairfax VA
 KN4WNI,STUART,,Hope Mills NC
 KN4YB,TOM,FL,Hudson FL
 KN4YRM,Randon,2930,Plantation FL
+KN4YTA,MATT,
 KN5A,AL,TX,Houston TX
 KN5CWO,,,Delta CWops Club (West Monroe LA)
 KN5O,Ted,LA,Covington LA
@@ -3374,6 +3363,7 @@ N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
 N1VH,Marty,1927,Braintree MA
 N1XF,Glen,ME,South Berwick ME
+N1XI,PAUL,
 N1XS,Chris,1817,Dallas TX
 N1YL,Anne,2933,Greenfield MA
 N1ZTY,Ron,AZ,Scottsdale AZ
@@ -3523,6 +3513,7 @@ N3ZN,Tony,1690,Pittsburg PA
 N3ZP,Phil,PA,North Wales PA
 N3ZZ,Tom,793,Cupertino CA
 N4AAJ,Scott,
+N4AAJ,SCOTT,,Lexington KY
 N4ACW,Lisa,VA,Victoria VA (Robermont RC)
 N4AF,Al,132,Blounts Creek NC
 N4AHO,DOUG,SC,Walhalla SC
@@ -3891,6 +3882,7 @@ N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
 N8JOE,JOE,,CA
+N8JTR,JAY,,Grayling MI
 N8KG,KEN,
 N8KH,Ken,FL,Melbourne FL
 N8KMY,Craig,MI,Kalkaska MI
@@ -4371,6 +4363,7 @@ OK7AN,Petr,92,(OK2CQR)  Neratovice Czech Republic
 OK8AU,Slav,,Pruhonice Czech Republic
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
+OL1T,DAVID,
 OL6M,Bob,,RC-Olomouc Czech Republic
 OL8R,Petr,2830,Ritka Czech Republic
 OM0CS,Kamil,1194,Bardejov Slovak Rep.
@@ -4875,6 +4868,7 @@ VA3AJB,JOHN,
 VA3CX,Ron,1775,London ON (VE3FXX)
 VA3DKL,Dave,2847,Kitchener ON
 VA3FH,Victor,ON,Smihville ON
+VA3FN,JOHN,
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
 VA3ICC,Ian,ON,Brockville ON
@@ -5169,6 +5163,7 @@ W0ABE,FIN,
 W0AD,Paul,1977,Elden Prairie MN
 W0AG,Mike,1317,Crossville TN
 W0AJU,Rich,MO,St. Louis MO
+W0AZ,STEVE,,Durango CO
 W0BBI,Bill,MO,Branson West MO
 W0BET,DARREL,
 W0BH,Bob,669,Hesston KS
@@ -6111,6 +6106,7 @@ WA9GQT,ROD,IL,Collinsville IL
 WA9JBR,Jon,LA,Baton Rouge LA
 WA9LEY,Lee,1304,Orland Park IL (Occ. QRP + attic ant.)
 WA9LKF,Robert,IL,Dekalb IL
+WA9LKZ,RALPH,
 WA9MNF,ED,2306,Lombard IL
 WA9SEO,Mike,1748,Shorewood IL
 WA9TT,LARRY,WI,
@@ -6374,6 +6370,7 @@ WS6X,Jim,VA,Linville VA
 WS7DA,MIKE,
 WS7L,Carl,2557,Hillsboro OR
 WS7M,Mark,2069,Fort Collins CO
+WS7X,NOEL,,Ocala FL
 WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
