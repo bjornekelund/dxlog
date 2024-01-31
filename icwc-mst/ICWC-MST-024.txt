@@ -3,13 +3,39 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2024-01-29
+# Last Edit,2024-01-30
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 
+CT9/WT3J,JOHN,
+F6GSI,ALAN,,Nimes France
+G6HPC,GRAHAM,,Bristol England
+K0LRQ,RON,,Fenton MO
+K7CIE,MIKE,,Dallas OR
+KB1HFP,JAMIE,,Exeter NH
+KD9AIE,ADAM,,Rock Island IL
+KE2AEQ,TODD,
+KE2EH,MIKE,,Pocono Lake PA
+KE6RN,CAROL,,Calif. city ARC
+KE8EON,JAMES,,Ironton OH
+N0KKY,STAN,,Castle Rock CO
+N2EC,ED,,Alexandria VA
+N8TAU,BILL,,Alto MI
+W2TEF,TODD,,Glassboro NJ
+W3DF,DAN,,Westminster MD
+W3MAC,MAC,,Carnegie PA
+W7DR,DAVE,
+W7LHT,ZACH,,Vancouver WA
+W8BMO,BRAD,,Lafayette CO
+WA4BAN,RIK,,Youngsville NC
+WB1S,DAVE,,Fishers Island NY
+
+
 N4RLI,RALPH,
 WD4OIN,JACK,
-
+9A/WO5T,SAMm
+WO5T,SAM,
+W0EAS,Eric,
 
 K0ARG,JON,,Peyton CO
 K1FJG,JAY,,Shelton CT

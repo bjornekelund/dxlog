@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2024-01-17
-# Last number listed 250
+# Last edit,2024-01-30
+# Last number listed 252
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -12,6 +12,7 @@
 5X8C,Anton,154,(ON6NL)  Entebbe Uganda
 9A1AA,Ivo,37,
 9A3SM,Mato,136,
+AA2CW,Phil,251,
 AE1N,Lane,171,(NH)
 CT7AUP,David,118,
 DC8ED,Karl,77,
@@ -64,6 +65,7 @@ EA5FID,Juan,67,
 EA5IUY,Gary,108,
 EA7EGU,Manuel,197,
 EI9KO,Bob,234,
+F5IYJ,Phil,251,
 F5NLX,Jean,41,(Jean-Marie) 
 F6DXE,Dick,219,
 F6JOE,Jean,44,
@@ -275,6 +277,7 @@ PE1LDS,Ferry,169,
 PE1PYZ,Henk,39, 
 PE1RCT,Andreas,122,
 PE2A,Frank,21,
+PE2V,Vincent,252,
 PE2JB,Jaco,188,
 PE4KH,Koos,165,
 PE6Q,Ad,121,
@@ -297,7 +300,7 @@ S51Z,Zoran,226,
 S58MU,Milan,66,
 SF6W,Geo,238, (SM6EWB)
 SM6EWB,Geo,238,
-SO5CW,Fabian,99 ,
+SO5CW,Fabian,99,
 SP7N,Piotr,111,
 SP7OGP,Piotr,111,
 SP9BRP,Jan,202,
@@ -321,4 +324,4 @@ YL3JD,Hanz,11,
 YO6EX,Sico,94,
 YO7TBA,Balint,NM,
 YO8DOH,Stefan,60,
-ZZ00ZZ last line of text
+

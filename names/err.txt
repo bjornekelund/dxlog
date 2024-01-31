@@ -1,0 +1,20 @@
+Parsing Names_VE2FK-054.txt
+Ignored: "AB2E/VP9,,QSL viaAB2E"
+Ignored: "AC8PL,,Ann Arbor MI"
+Ignored: "VC6X,,VE6SV WPX"
+Ignored: "VC7G,,VE7UF WPX"
+Ignored: "VF1T,,VY1AAA WPX"
+Ignored: "VP2AEQ,,KE1B W6NN"
+Ignored: "VP2MDM,,K2DM"
+Ignored: "XL2G,,VA2CZ WPX"
+Created Opnames.xdt
+Ignored: "AB2E/VP9,,QSL viaAB2E"
+Ignored: "AC8PL,,Ann Arbor MI"
+Ignored: "VC6X,,VE6SV WPX"
+Ignored: "VC7G,,VE7UF WPX"
+Ignored: "VF1T,,VY1AAA WPX"
+Ignored: "VP2AEQ,,KE1B W6NN"
+Ignored: "VP2MDM,,K2DM"
+Ignored: "XL2G,,VA2CZ WPX"
+#3 Longest name is ALEKSANDRAS (11)
+Created NAMES_db.txt

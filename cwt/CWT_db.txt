@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3488
-# Last updated 2024-01-28
+# Last updated 2024-01-31
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -105,7 +105,7 @@ AA4MC=Mike;2332
 AA4NN=Joe;354
 AA4NP=Jim;1954
 AA4Q=Bill;AZ
-AA4SD=Kraig;SC
+AA4SD=Kraig;3475
 AA4V=Steve;1867
 AA5AD=Joe;2366
 AA5AU=Don;LA
@@ -1313,7 +1313,7 @@ K0CA=Cliff;903
 K0CF=Craig;IA
 K0CMH=Craig;MO
 K0DEQ=Bill;1683
-K0DME=Ben;CO
+K0DME=Ben;3476
 K0DQ=Scott;VA
 K0DTJ=Brian;717
 K0DTQ=John;MN
@@ -2765,7 +2765,6 @@ KJ7NYZ=Anna;3222
 KJ7V=Roger;WA
 KJ9C=Mel;898
 KJ9I=Dave;WI
-KK0ECT=Eric;2066
 KK0U=Jim;3067
 KK1CWO=Pete;91
 KK1MM=Mike;1272
@@ -2802,6 +2801,7 @@ KK7PW=Jon;3211
 KK7RR=Serge;2271
 KK7X=Dennis;ID
 KK8A=Jim;OH
+KK8O=Eric;2066
 KK9DX=Cornel;256
 KK9G=Dan;IN
 KK9H=Don;480
@@ -4779,7 +4779,7 @@ VA3WHU=Carole;2773
 VA3YG=Brent;ON
 VA3ZB=Bruce;ON
 VA3ZC=Paul;ON
-VA4ADM=Paul;MB
+VA4ADM=Paul;3474
 VA4JP=Jack;MB
 VA5SCA=Neil;SK
 VA6CA=Kam;2714
