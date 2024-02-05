@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2024-01-21
+# 1-Last Edit,2024-02-03
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK 
 # 4-Thanks Bjorn SM7IUN for corr. 
@@ -3641,7 +3641,8 @@ K9DR,DAN,WY,
 K9DSR,RAY,IN,
 K9DU,JIM,MN,
 K9DUR,RAY,IN,
-K9DX,JOHN,IL,
+K9DX,John,IL,
+K9DX/3,JOHN,DE,
 K9DXR,,IL,
 K9DYX,JIM,IN,
 K9EA,,IN,
@@ -6762,7 +6763,7 @@ KY4BP,BRIAN,KY,
 KY4E,TERRY,SC,
 KY4F,DOUG,AL,
 KY4GS,AMANDA,SC,
-KY4ID,MIKE,SC,
+KY4ID,DON,SC,(Mike) in memory of Don W4OC
 KY4KD,KEN,KY,
 KY4MAK,MARK,KY,
 KY4NA,LOU,KY,
@@ -14722,6 +14723,7 @@ WF3J,,VA,
 WF3M,BILL,PA,
 WF3T,STEVE,FL,
 WF4DD,,NC,
+WF4DX,VAL,FL,(NV9L-WB9Z-W4ZTH)
 WF4R,,VA,
 WF4W,RIC,GA,
 WF5E,LES,TX,

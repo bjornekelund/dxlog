@@ -1,7 +1,7 @@
 # North Dakota QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-01-30
+# Last updated 2024-02-05
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -3612,6 +3612,7 @@ K9DR=WY
 K9DSR=IN
 K9DU=MN
 K9DUR=IN
+K9DX/3=DE
 K9DX=IL
 K9DXR=IL
 K9DYX=IN
@@ -14634,6 +14635,7 @@ WF3J=VA
 WF3M=PA
 WF3T=FL
 WF4DD=NC
+WF4DX=FL
 WF4R=VA
 WF4W=GA
 WF5E=TX

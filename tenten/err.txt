@@ -1,0 +1,9 @@
+Parsing 1010RTTY-013.txt
+"KB5OBJ,LARRY,TX," reoccurs as "KB5OBJ,LARRY,TX,78192,"
+"KD8ODX,JIM,OH," reoccurs as "KD8ODX,JIM,OH,78194,"
+"KD8TO,TOM,OH," reoccurs as "KD8TO,TOM,OH,78195,"
+Ignored: "VE2FK,DUB,QC,EasternQC,"
+Ignored: "VK3LVH,LENNY,VK,V"
+Ignored: "WN5A,JACK,TX,TX,,"
+Longest name is WELLINGTON (10)
+Created TENTEN_db.txt

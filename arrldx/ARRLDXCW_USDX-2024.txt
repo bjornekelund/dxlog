@@ -3,7 +3,7 @@
 # ARRL International (For DX and US side)
 # ARRLDXCW
 # ARRLDXSSB 
-# Last Edit,2023-02-19
+# Last Edit,2024-02-03
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn SM7IUN for corrections.
@@ -451,7 +451,7 @@ AB7GP,,UT,,
 AB7I,BEN,WA,,
 AB7MP,MARK,WA,,
 AB7NK,MARY,AZ,,
-AB7R,GREG,WA,,
+AB7R,GREG,ID,,
 AB7RW,PHIL,WA,,
 AB7YB,,ID,,
 AB7ZU,MIKE,AZ,,
@@ -3842,7 +3842,6 @@ K5FR,,TX,,
 K5FUV,BILL,AR,,
 K5FXB,,AR,,
 K5FZ,RICH,MS,,
-K5GA,BILL,TX,,
 K5GAT,,TX,,
 K5GDX,RAY,MS,,
 K5GE,,TX,,
@@ -3922,7 +3921,6 @@ K5MQ,DAVE,LA,,
 K5MR,STEVE,TX,,
 K5MV,JEFF,TX,,
 K5MXG,CHAR,TX,,
-K5NA,RICK,TX,,
 K5NJK,,TX,,
 K5NOF,AL,TX,,
 K5NRC,,AR,,
@@ -16654,6 +16652,7 @@ WF3J,,VA,,
 WF3M,BILL,PA,,
 WF3T,STEVE,FL,,
 WF4DD,,NC,,
+WF4DX,VAL,FL,
 WF4R,,VA,,
 WF4W,RIC,GA,,
 WF5E,LES,TX,,
