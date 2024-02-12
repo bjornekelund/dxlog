@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=PACC.txt
+FILE=`ls PACC-* | tail -1 2> /dev/null`
 OUTFILE=PACC_db.txt
 
 echo Parsing $FILE

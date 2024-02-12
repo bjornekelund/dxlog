@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-02-07
+# Last Edit,2024-02-12
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Some member numbers removed for unpaid dues
@@ -312,13 +312,14 @@ AE6RF,Donald,CA,Boulder Creek CA
 AE6VL,Roland,3458,Martinez CA
 AE6Y,Andy,38,Monte Sereno CA
 AE7EU,Martin,2725,Bend OR
-AE7I,Craig,NV,Reno NV
+AE7I,Craig,3492,Reno NV
+AE7I,Craig,CWA,Reno NV
 AE7IS,Frank,OR,Forest Grove OR
 AE7OV,Gary,AZ,Payson AZ
 AE7PG,Allen,WA,Chelan WA
 AE7TG,Allen,WA,Kent WA
 AE7US,Rocky,1781,Portland OR
-AE8Q,Ed,CWA,Delaware OH
+AE8Q,Ed,3478,Delaware OH
 AE8TF,Tom,MI,Macomb MI
 AF1E,Joe,2605,Conover NC
 AF1R,Leandra,MA,Needham Heights MA
@@ -496,6 +497,7 @@ DF5RF,Gernot,,Schwalbach Germany
 DF5RI,Laft,,no info
 DF6FQ,Juergen,,Kahl a Main Germany
 DF6RI,Alfred,,Happurg Germany
+DF7CB,Chris,3484,Bainbridge Isl. WA
 DF7CP,Stefan,,Eldena Germany
 DF7TV,Tom,2613,Stuttgart Germany
 DF7XR,Fritz,,Preussisch Oldendorf Germany
@@ -725,6 +727,7 @@ EA3M,Roger,3229,Sabadell Spain
 EA3NN,Dany,,Tarragona Spain
 EA3RR,PEPPUS,,Barcelona Spain
 EA3VN,Enric,,Llinars Del Valles Spain
+EA3VN,Enric,3493,Llinars Del Valles Spain
 EA4BB,Nando,2981,Madrid Spain
 EA4GMX,Felipe,,Cuenca Spain
 EA4HKF,Jose,,Puertollano Spain
@@ -1771,6 +1774,7 @@ K4KRW,Rich,SC,Charlotte NC
 K4KSR,Bill,2107,Chesterfield VA (Full time QRP)
 K4KVC,Ken,FL,The Villages FL
 K4KZ,Lon,NC,Matthews NC
+K4LFL,Mark,3491,Charlotte NC
 K4LFL,Mark,NC,Charlotte NC
 K4LW,Bob,2717,Rockledge FL
 K4LY,Doug,SC,Inman SC
@@ -2230,7 +2234,7 @@ K9FZ,Alex,WI,Hudson WI
 K9GDF,Rich,Wi,Greenfield WI 
 K9GS,Gary,1032,Mukwonago WI
 K9GY,Eric,IL,Lansing IL
-K9HIM,Dave,3472,Monee IL
+K9HIM,Dave,CWA,(3472)  Monee IL
 K9HXO,Bill,FL,Parrish FL
 K9IBM,Dan,WI,Janesville WI
 K9ID,Ron,IL,Buffalo Grove IL
@@ -2736,7 +2740,9 @@ KI5DDO,Joey,2950,Cedar Park TX
 KI5EE,Joe,LA,Lake Charles LA
 KI5IO,Nolan,2549,Plano TX
 KI5PED,Andy,TX,Houston TX
+KI5PGL,Matt,TX,Murphy TX
 KI5T,Wade,LA,Walker LA
+KI5YGT,Tom,TX,Denton TX
 KI6M,Hans,2792,Cypress CA
 KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
@@ -2849,6 +2855,7 @@ KM5PO,Jim,2522,Hurst TX
 KM5X,Gary,TX,Dallas TX
 KM6JKI,Yoon,CA,San Jose CA
 KM6SJT,Erin,CA,(K6ERI) Santa Rosa CA
+KM6VOV,Steve,3489,Simi Valley CA
 KM6VOV,Steve,CA,Simi Valley CA
 KM6Z,Vlad,OH,North Royalton OH
 KM6ZT,Dave,1476,Battle Ground WA
@@ -3084,6 +3091,7 @@ LY8O,Remi,1858,Vilnius Lithuania
 LZ/SV1DAY,Manos,,IC-705 QRP
 LZ1HW,Spas,2001,Lom Bulgaria
 LZ1PID,Plam,,Sofia Bulgaria
+LZ1PID,Plamen,3490,Sofia Bulgaria
 LZ1QI,Petko,,Bulgaria
 LZ1QN,Boyko,2653,Burgas Bulgaria
 LZ1UK,Savi,,Plovdiv Bulgaria
@@ -3171,6 +3179,7 @@ MM2T,Phil,3456,Wishaw (GM0LIR)
 MM3AWA,Gord,,Peterhead Scotland
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
+MW0SAW,Steve,3486,Pontypridd Wales
 N0AC,Bill,1252,IA (Been heard QRP)
 N0AC/M,Bill,1252,
 N0AIE,Everett,SD,Springfield SD
@@ -3480,7 +3489,7 @@ N4NQ,Sid,1611,Lawrenceville GA
 N4NR,Dennis,AL,Pelham AL
 N4NS,Ken,FL,Daytona Beach FL
 N4NSS,Kyle,2821,Sebring FL
-N4NTO,Tripp,2821,Tarboro NC (Been heard QRP)
+N4NTO,Tripp,NC,(2821)  Tarboro NC (Been heard QRP)
 N4NW,Tom,VA,Stafford VA
 N4NX,Bill,GA,Atlanta GA
 N4NYK,Doug,SC,Columbia SC
@@ -3677,6 +3686,7 @@ N7AAE,Marty,NV,Sparks NV
 N7AKG,Alan,OR,Gresham OR
 N7AUE,Muley,3237,(Jim)  Reno NV
 N7AWE,Jim,ID,Rathdrum ID
+N7BAS,Bobbie,3479,Eugene OR
 N7BV,Chuck,WA,Port Angeles WA
 N7BVY,Steve,WA,SeatleWA
 N7CLP,Cody,AZ,Gilbert AZ
@@ -3742,6 +3752,7 @@ N8BJQ,Steve,103,New Carlisle OH
 N8CC,Jeff,MI,Nashville MI
 N8CPA,Steve,OH,Hilliard OH
 N8CVL,Scott,NE,Plattsmouth NE
+N8DD,Chas,OH,Shaker Heights ON
 N8DEA,Dean,OH,Marblehead OH
 N8DLL,David,MI,Ortonville MI
 N8DNA,Mike,1743,Medina OH
@@ -3860,6 +3871,7 @@ NA5C,Steve,2154,McAllen TX
 NA5G,Ed,170,Broussard LA
 NA6M,Mark,925,Georgetown TX
 NA6O,Gary,1345,Livermore CA
+NA6S,Chuck,3465,Oakdale CA
 NA6Z,Don,2727,Hawthorne CA
 NA7C,Ted,1289,Sandy UT
 NA8Q,Rob,2874,Maumee OH
@@ -4623,6 +4635,7 @@ SP9OGP,Piotr,3147,(SP7N)  Poland
 SP9R,Jan,,Krakow Poland
 SP9RXP,Peter,,Niedzica Poland
 SQ1WO,Wojtek,,Szczecin Poland
+SQ5AZY,Bogdan,3495,Radzymin Poland
 SQ5VCO,Adam,2781,Chrzczanka-Folwark Poland
 SQ5WAJ,Jacek,,Plock Poland
 SQ6GIT,Konrad,2045,Pisarzowice Poland
@@ -4697,6 +4710,7 @@ UR5YKO,Artem,,Chernivtsi Ukraine
 UR5ZW,Victor,,Pervomaysk Ukraine
 UR7GO,Alex,2685,Kherson Ukraine
 UR8UQ,Alex,,
+UR8UQ,Alex,3487,Ukraine
 US0KF,Jackob,,Rovno Ukraine
 US0MF,Serge,381,Lisichansk Ukraine
 US2YW,Slava,2828,Chernivtsi Ukraine
@@ -4908,6 +4922,7 @@ VE3KZ,Bob,2585,Milton ON
 VE3MA,Al,1860,Milton ON
 VE3MGY,Brian,ON,(1285) Sparta ON
 VE3MM,Rick,1947,St-Catherines ON
+VE3MRX,Bill,3480,Oakville ON
 VE3MS,Rodger,ON,Ottawa ON
 VE3MV,Doug,1642,East York ON
 VE3MVM,Mary,ON,Amaranth ON
@@ -5051,6 +5066,7 @@ VP9UKR,YURI,21,VE3DZ BERMUDA
 VQ9JC,Jim,389,Panama City Beach FL USA
 VQ9LA,Larry,644,Grandview MO USA
 VU2BGS,Kumar,,Bangalore India
+VU2CDP,Deepak,3481,Pnne India
 VU2CPL,Manoj,3337,Bangalore India
 VU2PTT,Prasad,615,Bangalore India
 VU3SPD,Speed,,Bangalore India
@@ -5627,6 +5643,7 @@ W7EE,Gary,1949,Bigfork MT
 W7EEE,Tim,1905,Seattle WA
 W7FB,Dave,301,Lees Summit MO
 W7GB,Don,1186,Moses Lake WA
+W7GE,Pauli,WA,Redmond WA
 W7GET,Garret,MT,Plains MT
 W7GF,Mike,2005,Eugene OR
 W7GFW,Greg,3052,Seattle WA
@@ -6103,7 +6120,9 @@ WI2C,John,NY,Center Moriches NY
 WI2E,Joe,PA,Easton PA
 WI4P,John,AL,Alexander City AL
 WI6T,Rex,CO,Centennial CO
+WI6X,Jim,3482,Irvine CA
 WI6X,Jim,CWA,Irvine CA
+WI9P,Reed,3483,Shoreview MN
 WI9P,Reed,CWA,Shoreview MN
 WJ0C,Steve,2997,Colorado Springs CO
 WJ1B,Harold,752,Cheshire CT

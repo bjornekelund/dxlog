@@ -1,10 +1,10 @@
 !!Order!!, Call, Sect, UserText
 #
-# Database for PACC Contest 2022
+# Database for PACC Contest 
 # Based on preleminary works by DL5JQ
 # Created by RM1F software at 13.02.2021 11:16:58
-# Last Edit,2022-02-25
-# Thanks update Jan/PA4JJ
+# Last Edit,2024-02-12
+# Thanks update Jan/PA4J
 # Send new info/corrections DIRECT ve2fk@arrl.net
 # PACC
 PA0AA,UT,
@@ -5524,7 +5524,7 @@ PA4H,GD,
 PA4HIM,ZH,
 PA4HJH,FR,
 PA4HM,DR,
-PA4J,UT,
+PA4J,ZL,
 PA4JB,ZH,
 PA4JJ,DR,
 PA4JM,ZH,
@@ -5906,6 +5906,7 @@ PC5Q,GD,
 PC5W,LB,
 PC6M,NB,
 PC6NHW,UT,
+PC6R,NH,
 PC6REC,GD,
 PC7A,FR,
 PC7M,OV,
