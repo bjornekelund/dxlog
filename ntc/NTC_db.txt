@@ -1,7 +1,7 @@
 # Netherlands Telegraphy Club QSO Party database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# Last updated 2024-01-31
+# Last updated 2024-02-15
 5X8C=Anton;154
 9A1AA=Ivo;37
 9A3SM=Mato;136
@@ -89,6 +89,7 @@ HB9CSA=Fritz;74
 HB9EWO=Clemens;155
 HG8Z=Pista;232
 I5ECW=Vanni;164
+I5SKK=Alex;253
 I6HWD=Dom;187
 IK0PHU=Tony;47
 IK1YRA=Carl;135

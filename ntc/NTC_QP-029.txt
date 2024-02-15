@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2024-01-30
-# Last number listed 252
+# Last edit,2024-02-06
+# Last number listed 253
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -99,6 +99,7 @@ I5ECW,Vanni,164,
 I6HWD,Dom,187,
 IK0PHU,Tony,47,
 IK1YRA,Carl,135,
+I5SKK,Alex,253,
 IK6BAK,Eliseo,35,
 IN3CEL,Claudio,NM,
 IN3FHE,Helga,88,
