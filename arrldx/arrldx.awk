@@ -16,8 +16,9 @@ BEGIN {
     power = $pcol;
     state = $scol;
     exchange = "";
-    if (lines[call] != "")
-      printf("Repeat d entry: \"%s\" and \"%s\"\n", line[call], $0) > "/dev/stderr";
+    if (lines[call] != "") { 
+      printf("Repeated entry: \"%s\" and \"%s\"\n", lines[call], $0) > "/dev/stderr";
+    }
     lines[call] = $0;
     if (call ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|V[A-EOXY]|C[FGJ])/) {
   	  if (state ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {

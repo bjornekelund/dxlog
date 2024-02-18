@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRLDX*`
+INFILE=`ls ARRLDX[^_]* | tail -1 2> /dev/null`
 OUTFILE=ARRL_DX_db.txt
 
 echo Parsing $INFILE
