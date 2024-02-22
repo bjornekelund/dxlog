@@ -57,7 +57,7 @@ BEGIN {
       if (call ~ /^HR/) ID = "HR";
       if (call ~ /^I[0-9,K-N,T-Z]/) ID = "I";
       if (call ~ /^IS0/) ID = "IS0";
-      if (call ~ /^J[A-S]/) ID = "JA";
+      if (call ~ /^(J[A-S]|7L)/) ID = "JA";
       if (call ~ /^JT/) ID = "JT";
       if (call ~ /^KP2/) ID = "KP2";
       if (call ~ /^[KNW]P4/) ID = "PR";

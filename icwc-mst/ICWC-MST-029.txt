@@ -3,9 +3,33 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2024-02-06
+# Last Edit,2024-02-20
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+AI5G,MARK,,Frisco TX
+DL1TW,TOM,,Erlangen Germany
+DM7TW,PAUL,,Backnang Germany
+G1EEQ,STUART,,East Yorkshire England
+G1KOT,MIKE,,Basildon England
+G3VGZ,BRIAN,,Yarm England
+HA7RJA,ROB,,Mikebeda Hungary
+IU2RNU,MICHELE,,Caravaggio Italy
+KK4HSJ/QRP,TOM,,Nashville TN
+N4PDY,MIKE,,Sterling VA
+PE3V,VIN,,Leimuiden Netherlands
+R7CA,ANDREY,,Krasnodar Russia
+VU2PHD,MAT,,Kattappana South India
+W2PDY/4,LEW,,FL,
+WA1HFF,STEVE,,Longmeadow MA
+WB7DKZ,ANDY,,Trevor WI
+WU8T,TOM,,Battle Ground WA
+
+N6NEU,JOHN,
+AI7FF,BOB,
+AD8JL,TIM,
+KD9RKG,BOB,
+K3THS,AARON,
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -946,6 +970,7 @@ G3WCY,Brian,,Hampshire England
 G3WGN,Dave,482,Okehampton England
 G3WPH,Mike,,Berkshire England
 G3WRJ,Dick,2209,Hitchin Gngland
+G3WW,DEZ,
 G3WZD,Mac,1979,(Duncan) (News & Notes) Somerset England
 G3XLG,Ray,1365,Norfolk England
 G3XPO,Ken,,(M3XPO) Kent England
@@ -960,6 +985,7 @@ G4AFU,Paul,,Bedale England
 G4AJY,Dave,,Benfleet Essex England
 G4AON,Dave,,East Yorkshire England
 G4AXX,Mark,1057,Saffron Walden England
+G4BSW,NIGEL,,Margate England
 G4BSW,Nigel,2083,Margate England
 G4BUE,Chris,1294,West Sussex England (G4E N4CJ)
 G4CCX,Chris,2003,Norfork England
@@ -1006,6 +1032,7 @@ G4VIW,Andy,2586,Upminster England
 G4VYI,Mike,,Sheffield England
 G4WQI,Dean,3078,Witham England
 G4XUM,Martin,569,Shavington Crewe England
+G4YTK,STEVE,,Cannock England
 G5CL,Ryan,422,Buckinghamshire England (Mainly QRP)
 G5VZ,Chris,2877,Pontefract England
 G6HPC,GRAHAM,,Bristol England
@@ -1201,6 +1228,7 @@ IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
 IU0PIO/7,LECCE,DX,?
 IU1MRY,Fabrizio,3108,Omegna Italy
+IU3BRO,TELIO,,Padova Italy
 IU4APC,Andrea,,Cesena FC Italia
 IV3ZUY,Dudine,,Aiello Del Friuli Italy
 IW0EFO,Daniele,,Italy
@@ -1632,6 +1660,7 @@ K3ES,Brian,PA,Cooksburg PA
 K3ESE,Lloyd,2504,Reisters Town MD  (Occ. QRP)
 K3EST,Bob,CA,Davis CA
 K3EW,Phil,2236,Gaithersburg MD
+K3FBR,SKIPPY,,Tulsa OK
 K3FCG,OJ,FL,Brooksville CC Tampa FL
 K3FH,Mike,2516,Wexford PA
 K3FX,Charlie,NJ,Bradley Beach NJ
@@ -2225,6 +2254,7 @@ K8VA,Mike,2468,Trenton MI
 K8WP,Jim,MI,Muskegon MI
 K8WS,GLENN,OH,Mount Vernon OH
 K8WWS,Bill,2621,Middletown OH
+K8XCO,CHAR,,Mancelona MI
 K8XF,Mike,1379,New Port Richey FL
 K8YIB,Jim,MI,Rapid City MI
 K8ZT,Al,OH,Stow OH
@@ -2288,6 +2318,7 @@ K9OZ,Bruce,852,Lisle IL
 K9PL,Philip,IL,Morton Grove IL
 K9PLX,Chuck,2839,Warrenville IL
 K9PM,Paul,2573,Box Elder SD
+K9PW,PETE,
 K9PY,Jerry,IL,Midlothian IL
 K9QJS,Hoop,WA,San Juan Island WA
 K9QVB,John,159,Wilmette IL
@@ -3016,6 +3047,7 @@ KO5USA,TOM,TX,Bullard TX
 KO6U,Nathan,CA,Corona CA
 KO8SCA,Ady,2408,(Adrian)  Bayside NY
 KP2/K3CT,John,466,
+KP2/N9TTK,JUSTIN,
 KP2A,JOHN,VI,Charlotte Amalie VI
 KP2M,Phil,,Christiansted VI
 KP2Q,John,466,(K3CT)  St-Croix
@@ -3180,6 +3212,7 @@ LA7GIA,Ken,LA,Hagan Norway
 LA7RRA,Piotr,3140,Loten Norway
 LA7XIA,Morten,,Kopervik Norway
 LA8OM,Chris,1848,Hafrsfjord Norway
+LA9FG,NOL,,Volda Norway
 LB1GB,Bjorn,992,Oslo Norway
 LB2TB,Lars,,(2842) Tranby Norway
 LB3RE,Rag,933,Broabakken Norway
@@ -3353,6 +3386,7 @@ N1DN,Phil,CT,West Hartford CT
 N1EA,David,MA,Green Harbor MA
 N1EN,Mike,1247,Windsor CT
 N1ETO,Glenn,
+N1ETO,GLENN,,Swansea MA
 N1EXC,JUAN,MA,Methuen MA
 N1FG,Larry,2012,ex:KJ1RE Deerfield NH
 N1FJ,Andy,MA,Florence MA
@@ -3492,6 +3526,7 @@ N3DXX,Art,DE,(1232) Wilmington DE
 N3DXX/0,Art,,
 N3EA,Al,1438,Lake Worth FL
 N3ED,Ed,PA,Clarks Summit PA
+N3EMZ,JERRY,
 N3FJ,Robert,PA,Chadds Ford PA
 N3FR,Bob,3156,Pittsburgh PA
 N3FTO,Paul,PA,Media PA
@@ -4401,6 +4436,7 @@ OM0DX,Pedro,,Presov Slovak Republic
 OM0RM,Jindra,2787,Spisske Hanusovce
 OM2DT,Dusan,,Senica Slovak Republic
 OM2VL,Laci,1542,Dunajska Streda Slovak Republic
+OM3CLS,VLAD,,Bystrica Slovak Republic
 OM3CPF,Dus,,Slovak Republic
 OM3EY,Ed,,Banovce N.Bebr Slovak Republic
 OM3TBG,Milan,,Nitra Slovak Republic
@@ -4495,6 +4531,7 @@ PA3GLH,Rimus,,Doorn Netherlands
 PA3GSV,Jan,2932,Alphen aan den Rijn Netherlands
 PA3HEN,Theo,2481,(K4HEN)  Purmerend Netherlands
 PA3KC,Jurgen,,Eindhoven Netherlands
+PA3MM,JAN,,Minnertsga Netherlands
 PA3MVE,MAURICE,,Standdaarbuiten Netherlands
 PA3OES,Andre,,Emmen Netherlands
 PA4M,Mark,,Houten Netherlands
@@ -4533,6 +4570,7 @@ PY2EGM,Sergio,,Sao Paulo Brazil
 PY2KC,Rodrigo,,Petropo Brazil
 PY2OMS,Oms,549,Florianopolis Brazil
 PY2XC,Carlos,,Sao Paulo Brazil
+PY3TX,CLEBER,,Imbe Brazil
 PY4XX,Carlos,PY,Juiz de Fora Brazil
 PY5EG,Oms,549,Curitiba Brazil
 PZ5KV,Axel,1678,(DL6KVA)  Brazil
@@ -4623,6 +4661,7 @@ SA7UFO,Uno,,Hassleholm Sweden
 SB6D,Nick,
 SC0T,Olle,SM,Uplands Vasby Sweden
 SC3N,Andy,265,Iggo Island Sweden (EA8CN)
+SC6O,BEN,
 SD1A,Eric,1718,Visby Sweden (SM1TDE)
 SD5F,Klas,2163,
 SD6F,Klas,2163,Askim Sweden (SM6JWR) (Occ. QRP)
@@ -5212,7 +5251,6 @@ W0DAS,Dave,CO,Fort Collins CO
 W0DLE,Chuck,CO,Hartsel CO
 W0EA,Tom,953,Cedar Rapids IA
 W0EAR,Don,MN,Shoreview MN
-W0EAS,Eric,
 W0ECS,Frank,GA,Dallas GA
 W0EJ,Bill,1269,Springfield SD
 W0EWD,Mike,IA,Des Moines IA
@@ -5287,6 +5325,7 @@ W1EBI,George,9,Acton MA  (Also VA2EBI)
 W1EBM,Gary,784,Brookline NH
 W1EP,CARL,MA,Framingham MA
 W1EQ,Bob,871,Putnam CT
+W1ETI,Chris,
 W1FCV,John,917,Andover CT
 W1FJ,Al,504,Topsfield MA
 W1FOX,Brian,TX,Frisco TX
@@ -6445,6 +6484,7 @@ WU7F,Mark,1351,Centerville UT
 WU7X,Dale,WA,Spokane WA
 WU8R,Roman,OH,Wellston OH
 WV1D,Pat,2854,Weymouth MA
+WV3H,MIKE,,South Riding VA
 WV4P,Ron,TN,Savannah TN
 WV4S,Bob,NC,Winston Salem NC
 WW0K,Zac,IA,Ames IA

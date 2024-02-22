@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-02-16
+# Last Edit,2024-02-21
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -35,6 +35,7 @@
 6Y2T,Yuri,21,Jamaica (VE3DZ)
 6Y5WJ,Josh,,St-Elizabeth Jamaica
 7J1ABD,Dan,1176,Tokyo Japan
+7L2VPL,Hide,,Chiba Japan
 7S3A,Jan,,Sundbruk Sweden
 7X2TT,Abdel,2344,(M0NPT)  Alger Algeria
 7X3DA,Hamid,1676,Laghouat Algeria
@@ -1279,7 +1280,6 @@ JF1UOW,Mit,3452,Kanagawa Japan
 JF1UOX,Misa,3011,(NQ1J)  Kanagawa Japan
 JF2FIU,Yoshifumi,,Toyohashi Japan
 JF3KNW,Nobu,394,Kato City Japan
-JF3NBDW,,Maeda,
 JH1GNU,Shigeru,713,Kanagawa Japan
 JH1JDI,Mai,1199,Asaka Japan
 JH3MUV/2,Yoshie,,(JK2VOC)  Mie Japan
@@ -2066,6 +2066,7 @@ K7GM,Rick,3402,Greenville NC
 K7GS,Gary,1624,Spokane WA
 K7GT,Allan,682,Central Point OR
 K7HBN,George,WA,Bothell WA (Been heard QRP)
+K7HP,Hank,AZ,Phoenix AZ
 K7III,Jason,2387,Shoreline WA
 K7INA,Russ,WA,Port Angeles WA
 K7IOL,Jim,TX,Dallas TX
@@ -2235,7 +2236,7 @@ K9FZ,Alex,WI,Hudson WI
 K9GDF,Rich,Wi,Greenfield WI
 K9GS,Gary,1032,Mukwonago WI
 K9GY,Eric,IL,Lansing IL
-K9HIM,Dave,CWA,(3472)  Monee IL
+K9HIM,Dave,3472,Monee IL
 K9HXO,Bill,FL,Parrish FL
 K9IBM,Dan,WI,Janesville WI
 K9ID,Ron,IL,Buffalo Grove IL
@@ -2620,6 +2621,7 @@ KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
 KE8NJW,Jeff,3297,Delaware OH
+KE8USW,Mike,WV,Saint Albans WV
 KE9I,George,IL,Northbrook IL
 KE9SA,Chuck,WI,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
@@ -2931,7 +2933,7 @@ KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ1O,Santi,VA,
 KQ3H,Tony,NC,Greensboro NC
-KQ4EFL,Mike,GA,Marietta GA
+KQ4EFL,Mike,3492,Marietta GA
 KQ4R,Ed,FL,Port Orange FL
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7I,Jeff,3470,Portland OR
@@ -3236,7 +3238,7 @@ N0VRP,Chris,3149,Georgetown TX
 N0W,Jim,MN,
 N0XC,Steve,WI,Osceola WI
 N0XE,Jim,IA,Sioux City IA
-N0YY,Rick,1434,Marion IA
+N0YY,Rick,1434,Hillsville VA
 N0ZIB,Adam,MO,Pevely MO
 N1AC,Scott,FL,Cape Coral FL
 N1AE,John,MA,South Easton MA
@@ -3632,7 +3634,7 @@ N6EV,Paul,380,El Camino Village CA
 N6EWT,Chris,CA,Redondo Beach CA
 N6FP,Doug,CA,Benicia CA
 N6FS,Fred,MI,Ann Arbor MI
-N6FVY,John,CWT,Lockwood CA
+N6FVY,John,CA,Lockwood CA
 N6GQ,Jeff,67,Santa Cruz CA
 N6GV,Gary,CWA,Alameda CA
 N6HCN,John,1914,Yorba Linda CA
@@ -4396,6 +4398,7 @@ PD2DX,Johan,,Overijssel Netherlands
 PD2R,Maarten,,Netherlands
 PE1RCT,Andreas,3273,Herten Netherlands
 PE2K,Adi,2638,Apeldoorn Netherlands  (Been heard QRP)
+PE2V,Vin,,Borne Netherlands
 PE5B,Ben,,Haren Netherlands
 PE5O,Onno,1852,Rotherdam Netherlands
 PF5X,Enno,2531,Cuijk Netherlands
@@ -4531,6 +4534,7 @@ SF0Z,Jens,2237,(SM0HEV) Upplands-Vasby Sweden
 SF1Z,Jens,2237,(SM0HEV) Sweden
 SF3A,Jan,,Sundsbruk Sweden (SM3CER)
 SI5Y,Kurt,SM,Ostervala Sweden (SM5BKK)
+SF6J,Goran,3471,Skovde Sweden
 SJ6R,Mats,1820,Swedem (RM2D)
 SJ6W,Sten,,(SM6MIS)  Gothenburg Sweden
 SK2T,,,Umea Sweden (FURA Club Umea)
@@ -5360,6 +5364,7 @@ W3YY,Bob,517,Clifton VA
 W3ZF,Dan,3069,Highlands Ranch CO
 W3ZL,Cliff,NC,Davidson NC
 W3ZWN,John,SC,Columbia SC
+W4/G0TRT,Cie,3429,Orlando FL
 W4/LZ5KF,Claude,2326,(F5PBL)
 W4ALF,Chris,KY,Independence KY
 W4ANE,Jim,SC,Columbia SC
@@ -5796,7 +5801,7 @@ W9LR,Bill,WI,New Berlin WI
 W9LW,Jay,IN,Fort Wayne IN
 W9MC,Mile,TX,Leander TX
 W9MDG,Mike,IL,Carlock IL
-W9MIC,Mike,IL,Naperville IL
+W9MIC,Mike,FL,Merritt Island FL
 W9NJY,Andy,1348,Wauwatosa WI
 W9NX,Kent,866,Columbus IN
 W9NXM,Gus,1841,(Joel) Lake Zurich IL
@@ -5999,6 +6004,7 @@ WB3DPS,Mark,PA,Library PA
 WB3EGD,Rich,3122,Hazleton PA
 WB3JGP,Randy,CA,El Cerrito CA
 WB3LJQ,Vincent,3120,Latrobe PA
+WB4ABY,Carl,GA,Alpharetta, GA
 WB4AEG,Hal,1646,Adairsville GA
 WB4AJL,Dave,3414,Whittier NC
 WB4AQL,Mike,498,Chickamauga GA
@@ -6082,6 +6088,7 @@ WD4ERM,Ken,GA,Quitman GA
 WD4EX,Val,1546,Atlanta GA
 WD4LZC,Stu,KY,Louisville KY
 WD4MRI,Roy,AL,Columbiana AL
+WD4MSM,Barry,CWA,South Bens IN
 WD5BZN,Dave,TX,Bellaire TX
 WD5DBV,Roy,290,Cade LA
 WD5GRW,Jim,3245,Allen TX
@@ -6111,7 +6118,7 @@ WF5K,Mal,LA,Mandeville LA
 WF6F,Ken,2386,Irvine CA
 WF7T,Brad,729,Nashville TN
 WG0M,Mike,1612,Minnetonka MN
-WG0MEZ,Greg,AL,Daphne AL
+WG0MEZ,Greg,CWA,Daphne AL
 WG3J,Eric,2473,Pittsville MD
 WG4V,Marius,3421,Suwanee GA
 WG5H,Curt,1931,Houston TX
@@ -6165,7 +6172,7 @@ WN9J,Mark,1100,Swquim WA
 WN9W,Dave,OH,Bentleyville OH
 WO1X,Tom,1310,Bristol CT
 WO4O,Ric,1311,Grand Island FL
-WO5T,Sam,CWA,Austin TX
+WO5T,Sam,3500,Austin TX
 WO6W,Bob,2634,Menlo Park VA
 WO9B,Mike,2203,New Berlin WI
 WP3A,Jaime,PR,Coamo PR
@@ -6242,6 +6249,7 @@ WW9R,Pat,730,Big Bend WI
 WW9S,Gary,IL,Lake Forest IL
 WW9W,Robert,TX,Allen TX
 WX0B,Jay,620,Sunnyvale TX
+WX1S,Fred,NH,Strafford NH
 WX2S,Steve,1757,Kingston NJ
 WX3M,Milt,775,Rockville VA
 WX4W,CW,1991,(Curtis) Crestwood KY
