@@ -1,3 +1,5 @@
+# YOTA_2024 one yr should be added
+# data from results session 3 2023
 2E0GYI,54,
 2E0HEV,49,
 2E0KUD,32,
