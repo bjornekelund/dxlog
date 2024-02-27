@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-02-25
+# Last Edit,2024-02-27
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -47,7 +47,7 @@
 8Q7ZO,Mark,1224,(N5ZO)
 9A/N4XU,Bob,,Zagreb Croatia
 9A/S57KM,Sandi,9A,
-9A1AA,Ivo,9A,Belisce Croatia
+9A1AA,Ivo,2447,Belisce Croatia
 9A2AJ,Tom,2506,(Tomislav)  Lipik Croatia
 9A2EU,Zlatko,,Zapresic Croatia
 9A2KI,Ico,,near Slavonbski Brod Croatia
@@ -68,7 +68,7 @@
 9H1XT,John,,Xghajra Malta
 9H3AK,Steve,1268,Malta  (KL7SB)
 9M6BG,Alex,,E Malaysia
-9N7AA,Robert,9N,Nepal
+9N7AA,Robert,492,Nepal
 9N7DX,Dov,175,Nepal
 9V1VV,John,678,Singapore
 9V1YC,James,66,Singapore
@@ -796,7 +796,7 @@ EI6KT,John,2965,DublinIreland
 EI6KW,Slav,,Ashbourne Ireland
 EI6LA,Rafal,3194,Wicklow Ireland
 EI7BA,John,,Whitegate Co. Cork. Ireland
-EI7LC,Eamo,EI,County Galway Ireland
+EI7LC,Eamo,3403,County Galway Ireland
 EI8KW,Ryan,3225,Dublin Ireland
 EI9KY,Colm,,Waterford Ireland
 ER/UW7LL,Yarik,2229,
@@ -1247,6 +1247,7 @@ IZ3YPS,Guido,,Cadoneghe Italy
 IZ4AKO,Pierluigi,,Vigarano Mainarda Italy
 IZ4APU,Gabe,,(Gabrielle) Bologna Italy
 IZ4ORF,Joi,,Parma Italy
+IZ4VSZ,Mark,3503,nr Modena Italy
 IZ5BBS,Renato,,Barberino Di Mugello Italy
 IZ7DJR,Nigo,,Foggia Italy
 IZ7GEG,Luca,,S. Vito Dei Normanni Italy
@@ -1315,7 +1316,7 @@ JT1CS,Bat,,Ulaabaatar Mongolia
 JT1DA,Enkh,,Ulaanbaatar Mongolia
 JT1DX,Bat,,Ulaabaatar Mongolia
 JT1F,RC,,Ulaanbaatar DX Club Mongolia
-K0AD,Al,MN,Plymouth MN
+K0AD,Al,138,Plymouth MN
 K0AF,Andy,IA,(2990)  Cedar Rapids IA
 K0ALN,Bob,CO,Aspen CO
 K0ALT,Rose,3118,(Christine)  CO
@@ -1345,7 +1346,7 @@ K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
 K0GU,Jay,CO,Wellington CO
 K0GUZ,Steve,1889,Grand Junction CO
-K0HB,,MN,(231)  "Just a boy and his radio"
+K0HB,Hans,231,"Just a boy and his radio"
 K0HD,John,2968,Cannon MN
 K0HT,Luc,GA,Summerville GA
 K0HX,Stan,1721,Poplar Bluff MO
@@ -2131,7 +2132,7 @@ K7ZD,Gary,1814,Phoenix AZ
 K7ZOO,Curt,2075,Tucson AZ
 K7ZYV,Carl,MS,Biloxi MS
 K8AAV,Rod,OH,Garrettsville OH
-K8AJS,John,OH,Wooster OH
+K8AJS,John,1694,Wooster OH
 K8AJX,Fred,AL,Montgomery AL
 K8ANM,Bob,AZ,Paradise Valley AZ
 K8AQM,Ted,2043,Adrian MI
@@ -3279,7 +3280,7 @@ N1SP,Randy,3026,Bennington VT
 N1SU,Jason,NY,Port Washington NY
 N1SUZ,Suzanne,CT,Danbury CT
 N1TA,Mike,MA,Westfield MA
-N1TO,Ed,FL,Sebastian FL
+N1TO,Ed,685,Sebastian FL
 N1TWC,Jeff,OH,Dublin OH
 N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
@@ -3346,7 +3347,7 @@ N2TTL,Jay,FL,Fort Myers FL
 N2UD,Tom,CWA,Osprey FL
 N2UN,Tony,NY,New York NY
 N2UT,Bob,NM,New Mex. Big River Contesters
-N2UU,Bob,NJ,Voorhees NJ
+N2UU,Bob,121,Voorhees NJ
 N2WCQ,Yuri,21,Buffalo NY
 N2WF,Scott,2488,Mc Donough GA
 N2WG,Bill,NC,Wilmington NC  (QRP)
@@ -3723,7 +3724,7 @@ N7MU,Jim,2243,Covington WA
 N7NM,Doug,1944,Olalla WA
 N7NR,Dave,2927,Huntington Beach CA
 N7OC,Stan,WA,Custer WA
-N7ON,John,NV,Reno NV
+N7ON,John,628,Reno NV
 N7PHI,Derek,UT,Saint George UT
 N7QT,Rob,2637,Clyde Hill WA
 N7RC,Dick,CA,Marysville CA
@@ -4500,7 +4501,7 @@ S51WO,Sam,,Koroskem Slovenia
 S52R,Tone,,Crnomelj Slovenia
 S53M,Miha,S5,Murska Sobota Slovenia
 S53O,Ljubo,,Martjanci Blovenia
-S53R,Rob,S5,Spodnja Idrija Slovenia
+S53R,Rob,492,Spodnja Idrija Slovenia
 S53ZO,Simon,S5,
 S55AC,Leon,,Zalec Slovenia
 S55N,Joc,2513,(Joze) Slovenia
@@ -4654,6 +4655,7 @@ SQ6MIH,Barteck,,Warta Boleslawiecka Poland
 SQ8LUV,Chris,SP,Near Lubun Poland
 SQ9IWA,Tomasz,SP,Wodsislaw Slaski Poland
 SQ9S,Adam,2309,Pszow Poland
+ST2AR,Rob,492,(S53R)
 SV0XCC/9,Paul,1009,Crete Greece
 SV1ACL,John,,Marousi Greece
 SV1CEI,Nik,,Nea Penteli Greece
@@ -4753,7 +4755,7 @@ UX1HW/M,Art,1890,Mobile in Ukraine
 UX1IW,Serge,,Donetsk ME
 UX1UA,Sergei,522,Kyiv Ukraine
 UX1VT,Pavlo,,Kirivogradska Ukraine
-UX2HB,Waddy,UR,Poltava Ukraine
+UX2HB,Waddy,2538,Poltava Ukraine
 UX7VA,Vlad,,Kirovogradskaya Ukraine
 UY1HY,VAl,UR,Poltavskayua Ukraine
 UY2UA,Vlad,,Donetsk Ukraine
@@ -5174,7 +5176,7 @@ W1EBM,Gary,784,Brookline NH
 W1EQ,Bob,871,Putnam CT
 W1ETI,Chris,ME,Edgecomb ME
 W1FCV,John,917,Andover CT
-W1FJ,Al,MA,Topsfield MA
+W1FJ,Al,504,Topsfield MA
 W1FOX,Brian,TX,Frisco TX
 W1GD,Gerry,2500,Jefferson MA
 W1GF,Greg,2688,Falmouth ME
@@ -6222,7 +6224,7 @@ WT9P,CJ,IL,(1346) Aurora IL
 WT9Q,Vic,2594,Kewaskum WI
 WT9U,Jim,1674,Elkhart IN
 WU0L,Mark,SD,Brandon SD
-WU4B,Clark,GA,Marietta GA
+WU4B,Clark,1869,Marietta GA
 WU4D,Clark,VA,Virginia Beach VA
 WU4F,Rob,SC,Lexington SC
 WU6E,Den,CA,Manteca CA
