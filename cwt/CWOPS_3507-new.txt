@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-02-27
+# Last Edit,2024-02-28
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -313,6 +313,7 @@ AE5XQ,Dave,TX,Frisco TX
 AE6RF,Donald,CA,Boulder Creek CA
 AE6VL,Roland,3458,Martinez CA
 AE6Y,Andy,38,Monte Sereno CA
+AE7AP,Rob,CWA,Helena MT
 AE7EU,Martin,2725,Bend OR
 AE7I,Craig,875,Reno NV
 AE7IS,Frank,OR,Forest Grove OR
@@ -1222,6 +1223,7 @@ IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
 IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
 IU1MRY,Fabrizio,I,Omegna Italy
+IU3QEZ,Simo,3506,Thiene Italy
 IU4APC,Andrea,,Cesena FC Italia
 IV3YNB,Matt,,Trieste Italy
 IV3ZUY,Dudine,,Aiello Del Friuli Italy
@@ -1377,6 +1379,7 @@ K0OSW,Ken,NM,Newis NM
 K0OU,Club,MO,Raytown MO
 K0PC,Pat,947,Chanhassen MN
 K0PD,Dave,2035,Black Hawk CO
+K0PF,Chris,3507,Loveland CO
 K0PFX,Mel,271,Bridgeton MO
 K0PGE,Ron,1712,Laguna Niguel CA
 K0PK,Paul,2233,Eveleth MN
@@ -1413,6 +1416,7 @@ K1APJ,Andy,2466,Portland CT
 K1AQB,Bill,1708,Reno NV
 K1AR,John,1741,Windham NH
 K1ARR,Art,2844,Graniteville VT
+K1AV,Peter,RI,Cumberland RI
 K1AY,Chris,2405,Punta Gorda FL
 K1BG,Bruce,1276,Harvard MA (New England Amb.)
 K1BV,Ted,CT,Columbia CT
@@ -1506,7 +1510,7 @@ K1SX,Dave,MA,North Dighton MA (QRP)
 K1TA,Tom,CT,Stamford CT
 K1TH,Tom,720,Plymouth MA
 K1TL,Tom,367,Tiverton RI
-K1TN,Jim,WI,Crivitz WI
+K1TN,Jim,FL,Bradenton FL
 K1TR,Ed,1957,Windham NH
 K1TW,Tom,MA,Bedford MA
 K1TZQ,Howie,2822,Portsmouth RI
@@ -2270,6 +2274,7 @@ K9OZ,Bruce,852,Lisle IL
 K9PL,Philip,IL,Morton Grove IL
 K9PLX,Chuck,2839,Warrenville IL
 K9PM,Paul,2573,Box Elder SD
+K9PW,Pete,IL,Schaumburg IL
 K9PY,Jerry,IL,Midlothian IL
 K9QJS,Hoop,WA,San Juan Island WA
 K9RQ,Dan,FL,Weeki Wachee FL
@@ -4811,7 +4816,7 @@ VA3RJ,Dave,ON,Toronto ON
 VA3SAX,Steve,ON,Nepen ON
 VA3SB,Serge,1488,Missisauga ON (Been heard QRP)  (East Amb.)
 VA3SY,Syl,2433,Alfred ON
-VA3TAR,Ted,CWA,Toronto ON
+VA3TAR,Ted,3504,Toronto ON
 VA3TMV,Tim,3345,Maryhill ON
 VA3TTB,Chuck,ON,Holland Landing ON
 VA3UKR,Maria,ON,
@@ -5134,6 +5139,7 @@ W0MU,Mike,CO,Parker CO
 W0NEO,Duane,AR,Mountain Home AR
 W0NF,Pam,3008,Tucson AZ
 W0NP,Dave,3220,Colorado Springs CO
+W0NV,Niles,3505,Sioux City IA
 W0NY,Nick,3381,Brainerd MN
 W0ODS,Jeff,1297,Coggon IA
 W0OJ,Phil,2723,Crestone CO
@@ -5617,6 +5623,7 @@ W6OWP,Carl,TX,Livington TX
 W6PH,Kurt,CA,Inyo CA
 W6PHO,David,1903,Columbia CA
 W6QA,Tony,CWA,Placerville CA
+W6QEG,Mike,CWA,Murrieta GA
 W6QR,William,2449,Torrance CA
 W6QX,Steve,2870,San Marcos CA
 W6RGG,Bob,CA,Castro Valley CA
@@ -6241,6 +6248,7 @@ WV7S,Den,WA,Olympia WA
 WW0K,Zac,IA,Ames IA
 WW0SS,Nick,MN,Shoreview MN
 WW0WWV,Eric,CO,Fort Collins WWV ARC
+WW2I,Pete,CWA,Pittstown NJ
 WW2Y,Peter,NJ,Belle Mead NJ
 WW3S,Jim,2775,(Jamie)  Meadville PA
 WW4N,Tony,TN,Oak Ridge TN
