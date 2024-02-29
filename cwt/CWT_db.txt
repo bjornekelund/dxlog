@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3507
-# Last updated 2024-02-28
+# Contains members up to #3509
+# Last updated 2024-02-29
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1339,7 +1339,7 @@ K0FUZ=John;2796
 K0FX=Don;1326
 K0GU=Jay;CO
 K0GUZ=Steve;1889
-K0HB=Hans;231
+K0HB=Boys;231
 K0HD=John;2968
 K0HT=Luc;GA
 K0HX=Stan;1721
@@ -1691,6 +1691,7 @@ K3UQ=Kelly;3116
 K3US=John;VA
 K3UT=Phil;1537
 K3VIG=Ron;PA
+K3VTS=Matt;PA
 K3VZ=Don;PA
 K3WA=Bill;319
 K3WJV=Bill;1465
@@ -2655,6 +2656,7 @@ KF7GGN=Scott;OR
 KF7PXT=Matt;WA
 KF7QNS=Helen;2958
 KF7U=Chuck;AZ
+KF7UFF=Ben;WY
 KF7WX=Chris;3040
 KF7YHB=Wyatt;2564
 KF7Z=Danny;1468
@@ -3167,6 +3169,7 @@ MI0WWB=Will;2081
 MJ0ASP=Mat;GJ
 MM0FME=Mik;2151
 MM0TWX=Pete;3085
+MM0UMH=Les;3509
 MM0VPM=Alan;GM
 MM0WXE=Tony;GM
 MM2D=Phil;1583
@@ -3707,6 +3710,7 @@ N7KA=Arne;NM
 N7KM=Ken;UT
 N7KT=Rob;3216
 N7KY=Tim;TN
+N7LL=Dave;3508
 N7LOX=Brian;WA
 N7LU=Pat;1290
 N7MQ=Steve;2215
@@ -4148,7 +4152,7 @@ OE3DIA=Ivan;OE
 OE3GSA=Gerd;537
 OE3K=Ivan;OE
 OE3KAB=Karl;OE
-OE3KM/=Martin;OE
+OE3KME=Martin;OE
 OE3MWS=Fred;OE
 OE3OPW=Peter;OE
 OE3THC=Heinz;OE
@@ -4213,6 +4217,7 @@ OK1FFU=Petr;OK
 OK1FHD=Pepa;OK
 OK1FKM=Petr;OK
 OK1GS=Miro;OK
+OK1IC=Tom;OK
 OK1KT=Vrata;OK
 OK1MAG=Karelk;OK
 OK1MKH=Martin;OK
@@ -5134,6 +5139,7 @@ W0PR=Larry;2825
 W0PWE=Jerry;IA
 W0QL=Mark;3119
 W0RM=Ralph;IN
+W0RMX=Marty;VA
 W0RO=Ric;CO
 W0SA=Peter;MN
 W0SJS=Steve;446

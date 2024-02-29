@@ -1,7 +1,7 @@
 # ARRL DX database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-02-22
+# Last updated 2024-02-29
 2E0CVN=50
 3V8SS=100
 3W9A=500
@@ -21,6 +21,7 @@
 5H4WZ=500
 5P8X=KW
 5Z4VJ=400
+6Y1A=100
 6Y2T=K
 6Y3M=K
 7U7EE=100
@@ -5763,6 +5764,7 @@ KB4CAU=VA
 KB4CG=VA
 KB4CL=SC
 KB4DE=SC
+KB4DX=SC
 KB4ET=FL
 KB4FB=FL
 KB4FQ=NC

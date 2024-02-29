@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-02-28
+# Last Edit,2024-02-29
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -1348,7 +1348,7 @@ K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
 K0GU,Jay,CO,Wellington CO
 K0GUZ,Steve,1889,Grand Junction CO
-K0HB,Hans,231,"Just a boy and his radio"
+K0HB,Boys,231,"Just a boy and his radio"
 K0HD,John,2968,Cannon MN
 K0HT,Luc,GA,Summerville GA
 K0HX,Stan,1721,Poplar Bluff MO
@@ -1700,6 +1700,7 @@ K3UQ,Kelly,3116,North Potomac MD
 K3US,John,VA,Fairfax VA
 K3UT,Phil,1537,St-Simons Island GA NA058
 K3VIG,Ron,PA,Newfoundland PA
+K3VTS,Matt,PA,Warren PA
 K3VZ,Don,PA,MC Clure PA
 K3WA,Bill,319,Pittsboro NC
 K3WJV,Bill,1465,Tioga Junction PA
@@ -2664,6 +2665,7 @@ KF7GGN,Scott,OR,Corvallis OR
 KF7PXT,Matt,WA,Olympia WA
 KF7QNS,Helen,2958,Bonners Ferry ID
 KF7U,Chuck,AZ,Apache Junction AZ
+KF7UFF,Ben,WY,Laramie WY
 KF7WX,Chris,3040,Edmonds WA
 KF7YHB,Wyatt,2564,Kingman AZ
 KF7Z,Danny,1468,Big Piney WY
@@ -3181,6 +3183,7 @@ MI0WWB,Will,2081,(William) Baligowan N. Ireland (Been heard QRP)
 MJ0ASP,Mat,,Le Quai Bisson St.Brelade Jersey
 MM0FME,Mik,2151,Mozzo Scotland
 MM0TWX,Pete,3085,Troon Scotland
+MM0UMH,Les,3509,Isle of Islay Scotland
 MM0VPM,Alan,,nr Edinburg Scotland
 MM0WXE,Tony,GM,Perth Scotland
 MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
@@ -3722,6 +3725,7 @@ N7KA,Arne,NM,CORRALES NM
 N7KM,Ken,UT,Cedar City UT
 N7KT,Rob,3216,Kingman AZ
 N7KY,Tim,TN,Jackson TN
+N7LL,Dave,3508,Spokane WA
 N7LOX,Brian,WA,Tukwila WA
 N7LU,Pat,1290,Cortaro Contest Club San Diego CA
 N7MQ,Steve,2215,Powell WY
@@ -4163,7 +4167,7 @@ OE3DIA,Ivan,OE,Vienna Austria
 OE3GSA,Gerd,537,Wolfsbach Austria
 OE3K,Ivan,,(OE1DIA) Vienna Austria
 OE3KAB,Karl,,Muenichsthal Austria
-OE3KM/,Martin,,Golling an Der Erlauf Austria
+OE3KME,Martin,,Golling an der Erlauf Austria
 OE3MWS,Fred,,Krems an der Donau Austria
 OE3OPW,Peter,OE,Wien Austria
 OE3THC,Heinz,,Gross Ewzersdorf Austria
@@ -4228,6 +4232,7 @@ OK1FFU,Petr,,Louny Czech Republic
 OK1FHD,Pepa,,Czech Republic
 OK1FKM,Petr,,Policka Czech Republic
 OK1GS,Miro,,Czech Republic
+OK1IC,Tom,,Rozmital Czech Republic
 OK1KT,Vrata,,Hradec Kralove Czech Republic
 OK1MAG,Karelk,,Czech Republic
 OK1MKH,Martin,,Praka Czech Republic
@@ -5152,6 +5157,7 @@ W0PR,Larry,2825,Northfield MN
 W0PWE,Jerry,IA,Johnston IA
 W0QL,Mark,3119,Denver CO
 W0RM,Ralph,IN,Richmond IN
+W0RMX,Marty,VA,Vienna VA
 W0RO,Ric,CO,Colorado Springs CO
 W0SA,Peter,MN,Rochester MN
 W0SJS,Steve,446,Olivette MO
@@ -5623,7 +5629,7 @@ W6OWP,Carl,TX,Livington TX
 W6PH,Kurt,CA,Inyo CA
 W6PHO,David,1903,Columbia CA
 W6QA,Tony,CWA,Placerville CA
-W6QEG,Mike,CWA,Murrieta GA
+W6QEG,Mike,CWA,Murrieta CA
 W6QR,William,2449,Torrance CA
 W6QX,Steve,2870,San Marcos CA
 W6RGG,Bob,CA,Castro Valley CA
