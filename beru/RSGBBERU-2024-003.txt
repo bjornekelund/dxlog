@@ -1,9 +1,10 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2024-02-25
+# Last Edit,2024-03-01
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # The file will be updated as soon as info come in.
+
 !!Order!!,Call,Name,State,UserText,
 
 # HQ Follow 
@@ -18,7 +19,7 @@ GD6XX,,HQ,Isle of Man
 GU6XX,,HQ,Guernsey
 GJ6XX,,HQ,Jersey
 
-# VE Canada HQ
+# Canada HQ (2024)
 VA2RAC,,HQ,RAC QC Canada
 VA3RAC,,HQ,RAC ON Canada
 VA6RAC,,HQ,RAC AB Canada 
@@ -34,22 +35,22 @@ VY0RAC,,HQ,RAC NU Canada
 VY1RAC,,HQ,RAC YT Yukon 
 VY2RAC,,HQ,RAC PE Canada
 
-# VK HQ 2024
-VK2WIA,Dave,VK2WQ and Patrick VK2PN
-VK3WIA,Lee,VK3GK
-VK4WIA,Keith,VK4TT
-VK5WIA,Grant,VK5GR
-VK6WIA,Peter,VK6RZ
-VK7WIA,Martin,VK7GN
+# VK HQ (2024)
+VK2WIA,,HQ,Dave/VK2WQ and Patick/VK2PN
+VK3WIA,Lee,HQ,VK3GK
+VK4WIA,Keith,HQ,VK4TT
+VK5WIA,Grant,HQ,VK5GR
+VK6WIA,Peter,HQ,VK6RZ
+VK7WIA,Martin,HQ,VK7GN
 
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
-# Expedition
-G3VYI/6Y,Mike,Discovery Bay 2024
-G4SGX/6Y,Iain,
-5H3VJG,,Tanzania (G0VJG)
-ZF2CA,Colin,(G4CWH)
+# Team World Travellers Plus
+G3VYI/6Y,MIKE,Team World Travellers Plus
+G4SGX/6Y,Iain,Team World Travellers Plus
+ZF2CA,Colin,Team World Travellers Plus
+5H3VJG,,Tanzania (G0VJG) (Expedition)
 
 # 
 # Team Quake Contesters (2024)
@@ -87,7 +88,7 @@ VK2GR,Allan,
 VK4M,Alan,(VK4SN)
 VK1A/4,Bernd,
 
-# Australia Two 2024
+# Australia Two (2024)
 VK7BO,Alan,
 VL6M,Phil,(VK6GX)
 VJ3A,Steve,(VK3JA)
