@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-02-29
+# Last Edit,2024-03-02
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -6298,6 +6298,7 @@ XV2W,Larry,1209,Ho Chi Minh City Vietnam
 XV9D,Mats,1820,Phan Thiet Vietnam
 YB0ECT,Pri,3453,Jakarta Indonesia
 YD2UWF,Saka,,Sleman Indonesia
+YE4FNN,Abet,3510,Bangka Osl. Indonesia
 YL1ZF,Kas,2256,Riga Latvia
 YL2AG,Alex,,Riga Latvia
 YL2CB,Arky,,Riga Latvia
