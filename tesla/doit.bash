@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls TESLA_V* | tail -1`
+FILE=`ls ../stewperry/StewPerry-* | tail -1`
 OUTFILE=TESLA_db.txt
 
 echo Parsing $FILE
