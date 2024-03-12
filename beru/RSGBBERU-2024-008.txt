@@ -1,33 +1,33 @@
 
 # Current contest: RSGBBERU
-# Last Edit,2024-03-02
+# Last Edit,2024-03-09
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # The file will be updated as soon as info come in.
 
 !!Order!!,Call,Name,State,UserText,
 
-# HQ Follow 
-AT1HQ,,HQ,Bangalore India (2024)
+# HQ Follow (2024)
+AT1HQ,,HQ,Bangalore India 
 AT3T,,HQ,Bangalore India
 GI6XX,Richard,HQ,(GI4DOH)  Northern Ireland
 GM6XX,Terry,HQ,(GM3WUX)  Scotland
 GW6XX,,HQ,(GW4XUM)  Wales
-GB5CC,,HQ,(GM3WOJ) RSGB HQ
+GB5CC,Chris,HQ,(GM3WOJ) RSGB HQ
 G6XX,Jones,HQ,(M0ORD) England
 GD6XX,,HQ,Isle of Man
-GU6XX,,HQ,Guernsey
+GU6XX,Gob,HQ,(GU4YOX)  Guernsey
 GJ6XX,,HQ,Jersey
 
 # Canada HQ (2024)
-VA2RAC,,HQ,RAC QC Canada
-VA3RAC,,HQ,RAC ON Canada
+VA2RAC,DUB,HQ,(VE2FK)  RAC QC Canada
+VA3RAC,,HQ,(CCO)  RAC ON Canada
 VA6RAC,,HQ,RAC AB Canada 
 VE1RAC,,HQ,RAC NS Canada
 VE4RAC,,HQ,RAC MB Canada
 VE5RAC,,HQ,RAC SK Canada 
 VE6RAC,,HQ,RAC AB Canada
-VE7RAC,Steve,HQ,(VA7KH)  BC Canada
+VE7RAC,Steve,HQ,(VA7KH)  RAC BC Canada
 VE8RAC,,HQ,RAC NT Canada 
 VE9RAC,,HQ,RAC NB Canada
 VO2RAC,,HQ,RAC NL Canada 
@@ -37,37 +37,38 @@ VY2RAC,,HQ,RAC PE Canada
 
 # VK HQ (2024)
 VK2WIA,,HQ,Dave/VK2WQ and Patick/VK2PN
-VK3WIA,Lee,HQ,VK3GK
-VK4WIA,Keith,HQ,VK4TT
-VK5WIA,Grant,HQ,VK5GR
-VK6WIA,Peter,HQ,VK6RZ
-VK7WIA,Martin,HQ,VK7GN
+VK3WIA,Lee,HQ,VK3GK Narre Warren South
+VK4WIA,Keith,HQ,VK4TT Wynnum North 
+VK5WIA,Grant,HQ,VK5GR Highbury
+VK6WIA,Peter,HQ,VK6RZ Leeming
+VK7WIA,Martin,HQ,VK7GN Rosny Park Tasmania
 
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
-# Team World Travellers Plus
+# Team World Travellers Plus (2024)
+5Z4VJ,Andy,
 6Y6YI,MIKE,(G3VYI) Team World Travellers Plus
+9H6A,Ivan,9H1PI and John 9H1XT - Team World Travellers Plus
 G4SGX/6Y,Iain,Team World Travellers Plus
-ZF2CA,Colin,Team World Travellers Plus
+ZF2CA,Colin,(G4SGX) Team World Travellers Plus
 5H3VJG,,Tanzania (G0VJG) (Expedition)
+5Z4VJ,Andy,(G3AB)  Team World Travellers Plus
 
-# 
 # Team Quake Contesters (2024)
 ZL3P,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
-ZL3GA,Geoff,Team Quake Contesters
-ZL3DMC,Don,Team Quake Contesters
-ZL3AB,MARK,Team Quake Contesters Christchurch New Zeland
-ZL3GA,Geoff,Team Quake Contesters Kaiapoi New Zeland
-ZL4TT,Paul,Team Quake Contesters
-
+ZL3GA,Geoff,Team Quake Contesters - Kaiapoi New Zeland
+ZL3DMX,Don,Team Quake Contesters - Kaiapoi New Zealand
+ZL3AB,MARK,Team Quake Contesters - Christchurch New Zeland
+ZL3GA,Geoff,Team Quake Contesters - Kaiapoi New Zeland
+ZL4TT,Paul,Team Quake Contesters - Oamaru New Zeland
 
 # Team Grimsby Mariners (2023)
-G3TBK,Dave,(Captain) Team Grimisby Mariners - nr. Sleaford,
-G3SJJ,Chris,Team Grimisby Mariners - nr. Nottingham,
-G4EBK,George,Team Grimisby Mariners - Grimsby
-G3VIP,Graham,Team Grimisby Mariners - Grimsby 
-G4LPD,Richard,Team Grimisby Mariners - Nottingham
+G3TBK,Dave,nr. Sleaford,
+G3SJJ,Chris,nr. Nottingham,
+G4EBK,George,Grimsby
+G3VIP,Graham,Grimsby 
+G4LPD,Richard,Nottingham
 
 # Team Balunmasters (2022)
 G3WRR,Quin,South Norwood London England  
@@ -82,32 +83,32 @@ VE1ZA,Tony,Hammonds Plains NS
 VA1MM,Al,Bedford NS (also VE1AWP)
 
 # Australia One 2024
-VK6T,Kevin,(VK6LW)
-VK2BJ,Barry,
-VK2GR,Allan,
-VK4M,Alan,(VK4SN)
-VK1A/4,Bernd,
+VK6T,Kevin,(VK6LW) Australia
+VK2BJ,Barry, Australia One
+VK2GR,Allan, Australia One
+VK4M,Alan,(VK4SN) Australia One
+VK1A/4,Bernd, Australia One
+VL6T,Steve,(VK6VZ)   Australia One
 
 # Australia Two (2024)
-VK7BO,Alan,
-VL6M,Phil,(VK6GX)
-VJ3A,Steve,(VK3JA)
-VK5GG,Graeme,
-VL6T,Steve,(VK6VZ)
+VK7BO,Alan, - Australia Two
+VL6M,Phil,(VK6GX) - Australia Two
+VJ3A,Steve,(VK3JA) - Australia Two
+VK5GG,Graeme, - Australia Two
 
-# Team Essex CW ARC (2022)
-G4PVM,Paul,Essex England
-G8CW,Andy,Maldon England
-M5D,Dean,Witham Essex England
-G3G,Ray,Suffolk England
-M4J,Jon,Near Ipswich England
+
+# Team GE (2024)
+G4PVM,Paul,Essex England - Team GE
+M5DX,Nick,Sheffield England - Team GE
+G3BJ,Don,Church Stretton England - Team GE
+G3P,Mike,(G3WPH)  Berkshire England - Team GE
+G4FNL,Graham,Brighton England - Team GE
 
 # Team IVARC Veterans (2022)
 G3OTK,Rich,Hampshire England
 G3XSD,Graham,nr. Southampton England
 G4GBP,Collin,Fordingbridge England
 G8XEV,Steve,Romsey England
-
 
 # Marborough Team (2022)
 ZL3VZ,Bill,Blenheim New Zealand 
@@ -122,6 +123,7 @@ ZL1AZB,RD,Te Kuiti New Zealand
 2E0ZWW,BILLY,Petteridge Matfield Kent England	
 3B9AN,,Rodrigues Isl. DXP (F8AAN)	
 5B4AHJ,ALAN,Pafos District Cyprus
+5B/DL5CW,Paul,Cyprus
 5Q5M,,EU088,Anholt ONB6QR DXP	
 5W1SA,ATSUO,Japan,
 5Z4/G3AB,Andy,Nairobi Kenya	
@@ -133,7 +135,8 @@ ZL1AZB,RD,Te Kuiti New Zealand
 9H1AE,SAVVAS,Sliema Malta,	
 9H1CG,Joe,Pembroke PBK Malta	
 9H1MRC,,Marconi RC Malta,	
-9H1MRL,,Malta Radio League Valletta Malta,	
+9H1MRL,,Malta Radio League Valletta Malta,
+9H1PI,Ivan,Pembroke Malta	
 9H1XT,JOHN,Xghajra Malta,	
 9H3ET,PETER,Gozo Malta,	
 9H3FC,Kris,Mellieha Malta	
@@ -229,12 +232,12 @@ G3A,JOHN,(MM0JOM),
 G3AB,ANDY,,	
 G3AKN,BOB,,	
 G3B,RC,(G2DPQ) Shefford ARC,	
-G3BJ,DON,Church Stretton England	
 G3C,ED,(GM0WED),	
 G3CYC,PW,,	
 G3EAT,BILL,,	
 G3EBH,CLIFF,,	
-G3F,STEWART,(GM4AFF),	
+G3F,STEWART,(GM4AFF),
+G3G,Ray,Stowmarket England	
 G3GKC,IVAN,,	
 G3HEJ,DVM,Camberley England,	
 G3HGE,Tom,Suffolk England	
@@ -281,7 +284,6 @@ G3OND,JC,Birchington England
 G3OOK,JOHN,,	
 G3ORY,RG,Leicester England,	
 G3OYK,KD,	
-G3P,MIKE,(G3WPH) Berkshire England	
 G3PDH,MAL,Norwich England,	
 G3PHO,PETER,Old Whittington Chesterfield England,	
 G3PLE,Duke,nr Helston England	
@@ -540,7 +542,8 @@ G9N,RC,(GM6NX) Stirling District Amateur Radio Society,
 G9T,,(GW4WXM) Wrexham ARS,	
 G9V,,(M0VSQ) The Vulture Squadron Contest Group,	
 G9W,Mark,(M0DXR),	
-G9Y,,(M0YHC) The Young Hamsters,	
+G9Y,,(M0YHC) The Young Hamsters,
+GB2GM,Dave,(G4BUO) Poldu	
 GD0A,JOHN,(GW4SKA) Scarlett Point Isle of man,	
 GD3HDL,SYDNEY,,	
 GD4SKA,JOHN,(GW4SKA) Scarlett Point Isle of man,	
@@ -648,7 +651,8 @@ GW8Z,Nigel,(GW0IRW) IO72,
 GW9J,STEVE,(GW0GEI),	
 GW9T,,(GW4WXM) Wrexham ARS,	
 H40FN,SIGI,Solomon Islands,
-IL3P,,EU131.Pellestrina HP multi-op	
+IL3P,,EU131.Pellestrina HP multi-op
+J38R,DXP,Sauteurs Grenada	
 M/K1DJ,Rich,Herne Bay Kent UK	
 M0A,CHRIS,(G8APB),	
 M0AFZ,PATRICK,,	
@@ -738,7 +742,8 @@ M4F,,(G0GHK) Finningley Amateur Radio Society,
 M4I,,(GI4SJQ),	
 M4J,Jon,(G0DVJ)  Near Ipswich England	
 M4K,,(GD0EMG) The Manx Kippers,	
-M4M,Paul,(M0PNN) 	
+M4M,Paul,(M0PNN) 
+M4N,Mike,Cheltenham England	
 M4P,Paul,(M0PMV),	
 M4T,,(M0MDG) Middlesex DX Group,	
 M4U,,(G0RGH) (HARIG Club),	
@@ -751,7 +756,8 @@ M5D,Dean,(G4WQI)  Witham Essex England
 M5E,Olof,(G0CKV),	
 M5I,,(GI0RQK),	
 M5M,,(G4OGB),	
-M5R,ANTON,(MW0EDX),	
+M5R,ANTON,(MW0EDX),
+M5TXJ,David,Bleatarn England	
 M5X,Bryan,(G3RLE) Rochdale Lancs England	
 M5Z,Kazunori,M0CFW,	
 M6FIW,BOB,,	
@@ -1009,9 +1015,9 @@ VE2EZD,LOUIS,St-Georges QC,
 VE2FBD,FABI,,	
 VE2FD,STEVE,Deux-Montagnes QC,	
 VE2FET,SYLVAIN,Ste-Anne des Lacs QC,	
-VE2FFE,PIERRE,,	
-VE2FK,DUB,(Claude)  Matane QC,	
-VE2FK/P,CLAUDE,,	
+VE2FFE,PIERRE,,
+VE2FK,DUB,Matane QC,	
+VE2FK/P,DUB,,	
 VE2FU,PHIL,Quebec QC,	
 VE2FWW,NOEL,St-Bernard QC,	
 VE2FXL,LUC,St-Georges QC,	
@@ -1437,7 +1443,8 @@ VE9CQ,KEN,,
 VE9DX,ANDY,Rothesay NB,	
 VE9FX,LIN,,	
 VE9GLF,LINDA,,	
-VE9HF,Rick,Upper Kingsclear NB	
+VE9HF,Rick,Upper Kingsclear NB
+VE9KK,Mike,Moncton NB	
 VE9MCC,MCC,Maritime Contest Club,	
 VE9ML,Marcel,Moncton NB	
 VE9MS,MIKE,(VE9AA),	
