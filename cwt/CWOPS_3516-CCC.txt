@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-03-10
+# Last Edit,2024-03-13
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -1120,7 +1120,7 @@ HB9CSA,Fri,1084,Zurich-Altstetten
 HB9CTU,Herbert,,Kuttigen Switzerland
 HB9CVQ,Andy,219,Berikon Switzerland
 HB9DAQ,Peter,2592,Walzenhausen Switzerland
-HB9DAX,Fred,HB,Landquart Switzerland
+HB9DAX,Fred,687,Landquart Switzerland
 HB9DDZ,Nick,2442,Rheinsulz Switzerland
 HB9DHG,Fulvio,2889,Origilio Switzerland
 HB9DQJ,Marco,2747,Near Zurich Switzerland
@@ -1194,6 +1194,7 @@ IK2SAT,Mauro,,Nizzollina Italy
 IK2SGB,Abele,,Asola Italy
 IK2WAD,Joe,I,(Giosue) Zanica Italia
 IK2YYM,Giu,,Rovescala Italy
+IK3OII,Fabio,I,Veggiano Italy
 IK3VUT,Luca,3241,Oderzo-TV Italy
 IK3YBX,Ricky,2563,Venezia Italy
 IK4EWX,Ian,,Cento Italy
@@ -1350,7 +1351,7 @@ K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
 K0GU,Jay,CO,Wellington CO
 K0GUZ,Steve,1889,Grand Junction CO
-K0HB,Boys,231,"Just a boy and his radio"
+K0HB,Boy,231,"Just a boy and his radio"
 K0HD,John,2968,Cannon MN
 K0HT,Luc,GA,Summerville GA
 K0HX,Stan,1721,Poplar Bluff MO
@@ -3524,6 +3525,7 @@ N4PV,Bert,AL,Aubum AL
 N4PX,Ace,TN,(ARC)  Savannah TN
 N4QI,GEORGE,SC,Myrtle Beach SC
 N4QS,Dave,1653,Paducah KY
+N4RJ,Val,GA,Darien GA
 N4RKK,Jeff,FL,Gainsville FL
 N4RLD,Rick,GA,Moreland GA
 N4RR,Roger,IL,Rock Falls IL
@@ -4078,7 +4080,7 @@ NP3K,Abe,1238,(Charlie)  Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
 NP4TT,Tim,3463,Humacao PR
-NP4Z,Felipe,KP4,San Juan PR
+NP4Z,Pipe,KP4,(Felipe) San Juan PR
 NQ0N,Pat,MO,Excelsior Springs MO
 NQ2W,WILL,3419,Diamond Point NY (Been heard QRP)
 NQ6E,Frank,CA,Santa Rosa CA
@@ -5077,7 +5079,7 @@ VO1BQ,Joe,1325,St-John NL
 VO1DD,Doug,,Heart's Delight NL
 VO1HP,Frank,684,St-John's NL
 VO1HQ,Filipe,NL,Carmanville NL
-VO1KGZ,Gord,,St. Johns NL
+VO1KGZ,Gord,CWA,St. Johns NL
 VO1SA,Rick,NL,St John's NL
 VO1TTT,Mike,1347,VE9AA Newfoundland
 VO1WIN,Gerry,191,(W1VE)

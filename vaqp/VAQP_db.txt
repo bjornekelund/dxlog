@@ -1,7 +1,7 @@
 # Virginia QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-03-12
+# Last updated 2024-03-14
 2E0IWX=DX
 2E1JBC=DX
 3D2AG=DX
@@ -193,6 +193,7 @@ DL2VK=DX
 DL3DRN=DX
 DL3IAC=DX
 DL4CF=DX
+DL5AZZ=DX
 DL5XJ=DX
 DL5YM=DX
 DL7SX=DX
@@ -1644,6 +1645,7 @@ N4EDC=TN
 N4ELF=TN
 N4FAF=FRE
 N4FP=FL
+N4FTO=PRW
 N4FTV=TN
 N4GW=FL
 N4IJ=NC

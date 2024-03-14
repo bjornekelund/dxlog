@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3516
-# Last updated 2024-03-12
+# Last updated 2024-03-14
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1112,7 +1112,7 @@ HB9CSA=Fri;1084
 HB9CTU=Herbert;HB
 HB9CVQ=Andy;219
 HB9DAQ=Peter;2592
-HB9DAX=Fred;HB
+HB9DAX=Fred;687
 HB9DDZ=Nick;2442
 HB9DHG=Fulvio;2889
 HB9DQJ=Marco;2747
@@ -1185,6 +1185,7 @@ IK2SAT=Mauro;I
 IK2SGB=Abele;I
 IK2WAD=Joe;I
 IK2YYM=Giu;I
+IK3OII=Fabio;I
 IK3VUT=Luca;3241
 IK3YBX=Ricky;2563
 IK4EWX=Ian;I
@@ -1341,7 +1342,7 @@ K0FUZ=John;2796
 K0FX=Don;1326
 K0GU=Jay;CO
 K0GUZ=Steve;1889
-K0HB=Boys;231
+K0HB=Boy;231
 K0HD=John;2968
 K0HT=Luc;GA
 K0HX=Stan;1721
@@ -3509,6 +3510,7 @@ N4PV=Bert;AL
 N4PX=Ace;TN
 N4QI=GEORGE;SC
 N4QS=Dave;1653
+N4RJ=Val;GA
 N4RKK=Jeff;FL
 N4RLD=Rick;GA
 N4RR=Roger;IL
@@ -4063,7 +4065,7 @@ NP3K=Abe;1238
 NP4FW=Luigi;PR
 NP4H=Nomar;1550
 NP4TT=Tim;3463
-NP4Z=Felipe;KP4
+NP4Z=Pipe;KP4
 NQ0N=Pat;MO
 NQ2W=WILL;3419
 NQ6E=Frank;CA
@@ -5060,7 +5062,7 @@ VO1BQ=Joe;1325
 VO1DD=Doug;VE
 VO1HP=Frank;684
 VO1HQ=Filipe;NL
-VO1KGZ=Gord;VE
+VO1KGZ=Gord;CWA
 VO1SA=Rick;NL
 VO1TTT=Mike;1347
 VO1WIN=Gerry;191
