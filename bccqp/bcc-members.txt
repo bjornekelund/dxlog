@@ -344,7 +344,8 @@ DL6NBC,Harry
 DL6NCY,Stefan
 DL6NDW,Horst
 DP8M,Horst
-DL6RBH,Josef
+DL6RBH,Joe
+DR6W,Joe
 DL6RBO,Toni
 DR6R,Toni
 DL6RDR,Stefan
