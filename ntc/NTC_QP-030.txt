@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2024-02-06
-# Last number listed 253
+# Last edit,2024-03-02
+# Last number listed 258
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -13,6 +13,7 @@
 9A1AA,Ivo,37,
 9A3SM,Mato,136,
 AA2CW,Phil,251,
+AA2YK,Ernst,255,(NY)
 AE1N,Lane,171,(NH)
 CT7AUP,David,118,
 DC8ED,Karl,77,
@@ -104,6 +105,7 @@ IK6BAK,Eliseo,35,
 IN3CEL,Claudio,NM,
 IN3FHE,Helga,88,
 IT9GRR,Giorgio,NM,
+IU5RFA,Simone,256,
 IW2JJS,Gio,103,
 IZ1POZ,Paolo,175,
 K2KT,Tim,237,(VA)
@@ -111,6 +113,7 @@ K3PA,Drew,NM,(KS)
 K3QP,Bill,248,(PA)
 K4HEN,Theo,3,(WI)
 K5QR,Andy,109,(TX)
+KA1ULN,Niece,258,(MA)
 KF0CR,Luc,98,
 LA0HY,Memo,NM,
 LB2WD,Helge,NM,
@@ -119,14 +122,17 @@ M0HEN,Theo,3,(PA3HEN)
 M0KTZ,Enzo,191,
 M0NNQ,Leo,229,
 M0MPM,Micheal,227,
+M0SDB,Danny,254,
 M3F,Mac,36,(G3WZD)
-N1GKE, Myrt,206,(RI) 
+M3O,Danny,254,(M0SDB)
+N1GKE,Myrt,206,(RI) 
 N2JJS,Gio,103, 
 N4WEN,Carl,135,
 OE3JRC,Hans,14,
 OE6FYG,Herbert,134,
-OE8TIR,Stefan,105,
 OE7TIR,Stefan,105,
+OE8ACT,Patrick,257,
+OE8TIR,Stefan,105,
 OG2N,Jarmo,107,
 OH2BN,Jarmo,107,
 OK1DLA,Ludek,249,
@@ -290,7 +296,7 @@ PF6SINT,Enno,40,Xmas special call
 PG0S,Cor,8,
 PG2V,Serge,241,
 PG2W,Wouter,45,
-PG4I,JO,2,
+PG4I,JO,2,(QSO party manager)
 PG5V,Ger,212,
 PG6F,Dick,97,
 PG6NTC,JO,100,NTC Special Event Call

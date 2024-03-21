@@ -9,5 +9,9 @@ cp $OUTFILE ../xdt
 
 echo Created $OUTFILE
 
+cd ../xdt
+
+./upload.bash
+
 exit
 

@@ -16,5 +16,8 @@ echo $XDTFILE "created"
 unix2dos -q $XDTFILE
 
 cp $XDTFILE ../xdt
+cd ../xdt
+
+./upload.bash
 
 exit
