@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-03-21
+# Last Edit,2024-03-22
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 88 member numbers removed for unpaid dues on 16 Feb 2024
@@ -232,7 +232,7 @@ AC6SL,John,CA,Boulder Creek CA
 AC6T,Steve,CA,Santa Barbara CA
 AC6YY,Ned,1244,Santa Clara CA
 AC6ZM,Juan,2419,Loudon TN  (Southeast Amb.)
-AC7JW,Jason,UT,Woods Cross UT
+AC7JW,Jason,627,Woods Cross UT
 AC7T,Doug,822,Redmond WA
 AC8PL,Ulrich,MI,Ann Arbor MI
 AC8RG,Walt,2843,Dayton OH
@@ -568,7 +568,7 @@ DL/KK0U,Jim,DL,
 DL/UX1HW,Art,1890,
 DL/UX1HW/M,Art,1890,
 DL0AF,Fritz,,RC Erwitte Germany
-DL0DA,Hardy,DL,Dresden Germany  (DL1VDL)
+DL0DA,Hardy,2802,Dresden Germany  (DL1VDL)
 DL1AXX,Seb,,Cologne Germany
 DL1EJM,Christ,,Duisburg Germany
 DL1FY,Erwin,2636,Moosinning Germany
@@ -582,7 +582,7 @@ DL1QQ,Sandy,1581,Hoexter Germany
 DL1REM,Frank,DL,Schoeppingen Germany
 DL1RNN,Lutz,,Wolfsburg Germany
 DL1ROT,Tom,,Muencheberg Germany
-DL1VDL,Hardy,DL,Dresden Germany
+DL1VDL,Hardy,2802,Dresden Germany
 DL1XX,Klaus,,Spechbach Germany
 DL2ANM,Heinz,,Altenburg Germany
 DL2CC,Frank,511,Dornstadt-Scharenstetten Germany
@@ -1258,6 +1258,7 @@ IZ7GEG,Luca,,S. Vito Dei Normanni Italy
 IZ8VKW,Luigi,,Caserta Italia
 J6/K4ZGB,Tom,468,St-Lucia
 J6/WA4PGM,Kyle,255,
+J62K,Kyle,255,
 J68KC,Kyle,255,(WA4PGM)
 J68SS,Steve,1862,(NY3B)  St.Lucia
 J75Y,Doug,817,Dominica  (K1LI)
@@ -1321,7 +1322,7 @@ JT1DA,Enkh,,Ulaanbaatar Mongolia
 JT1DX,Bat,,Ulaabaatar Mongolia
 JT1F,RC,,Ulaanbaatar DX Club Mongolia
 K0AD,Al,138,Plymouth MN
-K0AF,Andy,IA,(2990)  Cedar Rapids IA
+K0AF,Andy,2990,Cedar Rapids IA
 K0ALN,Bob,CO,Aspen CO
 K0ALT,Rose,3118,(Christine)  CO
 K0AP,Dragan,370,Olathe KS
@@ -1557,7 +1558,7 @@ K2FX,Paul,NY,Ontario NY
 K2GO,Tom,518,Round Hills VA
 K2IW,Zach,2521,(Zachary)  Saratoga Springs NY
 K2KA,Dick,MA,Westford MA
-K2KQ,Don,NY,Pleasantville NY
+K2KQ,Don,192,Pleasantville NY
 K2KRG,Steve,1926,Canandaigua NY (Occ. /M or QRP)
 K2KRG/M,Steve,1926,
 K2KT,Tim,VA,Arlington VA
@@ -1620,7 +1621,7 @@ K2YGM/4,Bob,2130,in West Palm Beach for winter
 K2YR,Carl,2567,Porter Corners NY
 K2YWE,Dan,395,Annapolis MD
 K2YY,John,NJ,Moorestown NJ
-K2ZC,Dave,NJ,North Haledon NJ
+K2ZC,Dave,1405,North Haledon NJ
 K2ZF,Jim,716,Clark NJ
 K2ZM,John,NY,Rye Brook NY
 K2ZM/M,John,NY,Moorestown NJ
@@ -1688,7 +1689,7 @@ K3SEW,Ron,PA,Howard PA
 K3SFP,Peter,VA,Arlington VA
 K3SK,Steve,VA,Farmville VA
 K3STX,Paul,711,Potomac MD
-K3SV,Bill,FL,(1946) Dade City FL
+K3SV,Bill,1946,Dade City FL
 K3SW,SW,1964,(Steve)  Albrightsville PA
 K3TEJ,John,PA,Orwigsburg PA
 K3TF,Tom,PA,Norristown PA
@@ -1797,7 +1798,7 @@ K4MTI,Mike,FL,Panama City FL
 K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
-K4NMR,Tom,FL,Tampa FL
+K4NMR,Tom,2298,Tampa FL
 K4NNK,Gary,3165,Atlanta GA
 K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
@@ -2614,7 +2615,7 @@ KE5MI/0,Bill,CO,
 KE5P,Bill,TX,Sherman TX
 KE6CWO,,CA,Southwestern CWops Club (Laguna Niguel CA)
 KE6JAC,Al,2872,San Jose CA
-KE6K,John,AZ,Surprise AZ
+KE6K,John,1427,Welch,K,AZ,
 KE6MT,Rex,CA,Campbell CA
 KE6OIO,Ann,CA,Garden Grove CA
 KE6PY,Steve,3179,Escondido CA
@@ -2635,7 +2636,7 @@ KE8HXE,Brad,3264,Columbus OH
 KE8NJW,Jeff,3297,Delaware OH
 KE8USW,Mike,WV,Saint Albans WV
 KE9I,George,IL,Northbrook IL
-KE9SA,Chuck,WI,Oshkosh WI
+KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
 KF0FFL,Dan,MN,Saint Paul MN
 KF0GVX,Ryan,NE,Plattsmouth NE
@@ -3564,7 +3565,7 @@ N4ZR,Pete,1277,Phoenix MD
 N4ZZ,Don,902,Nashville TN
 N5AAS,Lane,2480,Hattiesburg MS
 N5AHM,Gary,2325,Biloxi MS
-N5AN,Bud,LA,Lafayette LA
+N5AN,Bud,140,Lafayette LA
 N5AW,Marv,157,Burnet TX
 N5AW/0,Marv,157,Pagosa Springs CO
 N5CW,Curt,572,Petal MS
@@ -3636,7 +3637,7 @@ N5ZO,Mark,1224,Escondido CA
 N6AA,Dick,CA,Topanga CA
 N6AN,Rex,CA,Pasadena CA
 N6ARA,Ara,3185,Montrose CA
-N6BT,Tom,AZ,Kingman AZ
+N6BT,Tom,281,Kingman AZ
 N6BV,Dean,CA,San Francisco CA
 N6CHU,Bob,WA,Graham WA
 N6CK,Greg,643,Ben Lomond CA
@@ -3770,7 +3771,7 @@ N7YT,Bill,1271,Seabeck WA
 N7YY,Dan,1865,Sandy OR (QRP)
 N7ZZ,Stu,WI,Green Bay WI
 N8AA,John,723,Fairfield OH
-N8AI,Chris,TX,Richmond TX
+N8AI,Chris,1934,Richmond TX
 N8BIZ,Bill,MI,Jonesville MI
 N8BJQ,Steve,103,New Carlisle OH
 N8CC,Jeff,MI,Nashville MI
@@ -3838,7 +3839,7 @@ N9DJ,John,IL,Harvard IL
 N9EAW,Tom,WI,New Berlin WI
 N9EDL,Ed,IN,Harlan IN
 N9EEE,Dick,3113,Pewaukee WI  Solid Copy Editor
-N9EP,Ed,IL,Deer Park IL
+N9EP,Ed,991,Deer Park IL
 N9EXL,Lyndel,2999,Mount Pulaski IL
 N9FB,Rob,IN,Whitestown IN
 N9FZ,Cainan,3412,(ex-KQ4DAP)  Perry GA
@@ -3932,6 +3933,7 @@ ND4V,Mike,GA,Norcross GA
 ND4Y,David,2414,Marlan KY
 ND7J,Bob,NC,Edneyville NC
 ND7T,Jerry,WA,Sammamish WA
+ND8L,Ray,3518,The Villages FL
 ND8MS,Mark,MI,Davison MI
 ND9G,Mike,2148,Mc Henry IL
 ND9M,Jim,389,Panama City Beach FL
@@ -4081,7 +4083,7 @@ NP3K,Abe,1238,(Charlie)  Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
 NP4TT,Tim,3463,Humacao PR
-NP4Z,Pipe,KP4,(Felipe) San Juan PR
+NP4Z,Pipe,350,(Felipe) San Juan PR
 NQ0N,Pat,MO,Excelsior Springs MO
 NQ2W,WILL,3419,Diamond Point NY (Been heard QRP)
 NQ6E,Frank,CA,Santa Rosa CA
@@ -4540,7 +4542,7 @@ SA6NIA,Oscar,,Alingsas Sweden
 SA7UFO,Uno,,Hassleholm Sweden
 SC0T,Olle,SM,Uplands Vasby Sweden
 SC3N,Andy,265,Iggo Island Sweden (EA8CN)
-SC6O,Ben,,
+SC6O,Ben,3519,Skovde Sweden
 SD1A,Eric,1718,Visby Sweden (SM1TDE)
 SD5F,Klas,2163,
 SD6F,Klas,2163,Askim Sweden (SM6JWR) (Been heard QRP)
@@ -4549,7 +4551,7 @@ SE0B,Claes,1849,Varmdo Sweden (SA0BXV)
 SE4E,Lars,SM,Ludvika Sweden (SM4DQE)
 SE5E,Ingo,2097,Vallingby Sweden (SM5AJV)
 SE5T,Kare,3467,(SM5GRD)  >Grillby Sweden
-SE6J,Johan,SM,(SM6XHM)  Alingsas Sweden
+SE6J,Johan,2880,(SM6XHM)  Alingsas Sweden
 SE6K,Mats,,Ugglarp Sweden
 SF0Z,Jens,2237,(SM0HEV) Upplands-Vasby Sweden
 SF1Z,Jens,2237,(SM0HEV) Sweden
@@ -4607,7 +4609,7 @@ SM6MCW,Peter,2663,(SM6MCW) Axvall Sweden
 SM6MIS,Sten,,Gothenburg Sweden
 SM6NT,Lars,,Vegby Sweden
 SM6X,Len,456,Gudhem Sweden (SM6CLU)
-SM6XHM,Johan,SM,Aligsas Sweden
+SM6XHM,Johan,2880,Aligsas Sweden
 SM6YNO,Hans,,Karlgustav Sweden
 SM7ATL,Ulf,,Kalmar Sweden
 SM7BUA,Mats,1950,Bankeryd Sweden
@@ -5514,8 +5516,7 @@ W4XO,Lex,2217,(Alexis) Grantville GA
 W4YDL,Joe,3444,Hubert NC
 W4YE,Buddy,396,Wirtz VA
 W4YES,Glenn,TN,Nashville TN
-W4YGT,Tom,FL,La Crosse FL
-W4YTG,Tom,TN,La Crosse TN
+W4YGT,Tom,3517,La Crosse FL
 W4ZGR,Peter,2850,Palm City FL
 W4ZYT,Don,55,Virginia Beach VA
 W5AG,Arch,LA,Lafayette LA

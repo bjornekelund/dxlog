@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-03-19
+# 1-Last Edit,2024-03-22
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -15,7 +15,7 @@
 2I0WLZ,ANDREW,DX,Portadown Northern Ireland
 4X1MK,RON,DX,Kibutz Urim Israel
 4X4FC,ALEX,DX,Netanya Israel
-4Z4DX,DOV,4X,
+4Z4DX,DOV,DX,
 4Z5PF,VICTOR,DX,Rehovott Israel
 5B4AHO,BAZ,DX,Paphos Cyprus
 5P5Q,VERNER,DX,Allinge Denmark
@@ -5030,6 +5030,7 @@ KF8N,BILL,VA,Chester VA
 KF8NW,LARRY,WV,Washington WV
 KF8O,RON,OH,Greenwich OH
 KF9D,ROGER,IL,Algonquin IL
+KF8DA,Roger,OH,Lancaster OH
 KF9LI,NATHAN,NY,
 KF9UJ,,IN,
 KF9VV,JIM,WI,Prairie du Sac WI
@@ -11102,7 +11103,6 @@ W4HY,,FL,
 W4HZ,,VA,
 W4HZD,WILL,TN,
 W4IDX,DAVID,AZ,Lake Havasu City AZ
-W4IFI,,VA,
 W4IFI,RANDY,CO,
 W4IHI,,FL,
 W4II,JOHN,AL,
