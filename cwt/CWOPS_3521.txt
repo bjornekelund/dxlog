@@ -2,10 +2,10 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-03-22
+# Last Edit,2024-03-28
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
-# 88 member numbers removed for unpaid dues on 16 Feb 2024
+# 
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
@@ -1131,6 +1131,7 @@ HB9FIR,Clay,598,Oriolo Romano Italy
 HB9GCE,Carl,,Schwarzsee Switzerland
 HB9HDV,Yoshi,,Bernex Switzerland
 HB9HSX,Tony,3298,Porza Switzerland
+HB9HZU,Luca,,Olten Switzerland
 HC2AO,Alex,,Guayaquil Ecuador
 HC2TDZ,Yuri,21,Ecuador (VE3DZ)
 HF1D,Jerzy,,Szczecin Poland
@@ -2217,8 +2218,10 @@ K8VAN,Bob,CWA,Branchville NJ
 K8WP,Jim,MI,Muskegon MI
 K8WS,Glenn,OH,Nount Veron OH
 K8WWS,Bill,2621,Middletown OH
+K8XCO,Charlene,MI,Mancelona MI
 K8XF,Mike,1379,New Port Richey FL
 K8YIB,Jim,MI,Rapid City MI
+K8YX,Roger,3520,Milford MI
 K8ZT,Al,OH,Stow OH
 K8ZZ,Ed,KS,Topeka KS
 K9ACM,Mike,2915,Mokena IL
@@ -3382,7 +3385,7 @@ N3AD/0,Alan,727,
 N3ALG,Jay,DE,Wilmington DE
 N3AM,John,6,Silver Spring MD
 N3AO,Carter,VA,Blacksburg VA
-N3ATQ,Scott,PA,Allentown PA
+N3ATQ,Scott,1759,Allentown PA
 N3BB,Jim,70,Austin TX
 N3BQ,Jack,3199,Dover PA
 N3BXY,David,IL,Lake Forest IL
@@ -3866,7 +3869,6 @@ N9RD,Jurgen,582,Westville IN
 N9RV,Pat,MT,Bonner MT
 N9SD,Scott,WI,Sussex
 N9SE,Marty,1562,Sharpsville IN
-N9SW,Gene,798,Wayne IL
 N9SZ,Steve,OH,Dayton OH
 N9TK,Jim,1986,Orland Park IL
 N9TTK,Justin,3150,Indianapolis IN
@@ -4436,6 +4438,7 @@ PJ4LS,Hans,849,Bonaire Netherland Antillies
 PJ7AA,Tom,1092,(AA9A)  Saint Maarten
 PJ7PL,Ed,,Cupecoy St Maarten
 PP5EG,Oms,549,Florianopolis Brazil
+PP5OO,Edson,3521,Blumenau Brazil
 PR7AB,Junior,,Guarabira Brazil
 PS7CE,CHA,,Natal Brazil
 PY1NB,Felipe,,Rio de Janeiro Brazil
@@ -4904,7 +4907,6 @@ VE2PID,Pierre,1278,Sherbrooke QC
 VE2QA,Vlad,QC,Beaconsfield QC
 VE2SG,Step,QC,Quebec QC
 VE2SRP,Simon,2144,(VE2ZM) St Joseph du Lac QC
-VE2SSS,Pete,QC,Jonquiere QC
 VE2TG,Yvon,QC,Wolinak QC
 VE2VAB,George,QC,Gatineau QC
 VE2VIA,Jean,QC,Chicoutimi QC
@@ -5558,7 +5560,7 @@ W5JYK,San,NC,Greensboro NC
 W5KFT,Rob,TX,Bluffton TX
 W5KY,Kay,OK,Shawnee OK
 W5LA,Rags,1630,West Monroe LA
-W5LNI,John,1628,Rogers
+W5LNI,John,1628,Rogers Arkansas
 W5LXS,Roger,3105,Midland TX
 W5MIG,Jerry,TX,Kerrville TX
 W5MJ,Madi,1479,Cedar Park TX (Been heard QRP)

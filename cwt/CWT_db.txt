@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3519
-# Last updated 2024-03-23
+# Contains members up to #3521
+# Last updated 2024-04-02
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1123,6 +1123,7 @@ HB9FIR=Clay;598
 HB9GCE=Carl;HB
 HB9HDV=Yoshi;HB
 HB9HSX=Tony;3298
+HB9HZU=Luca;HB
 HC2AO=Alex;HC
 HC2TDZ=Yuri;21
 HF1D=Jerzy;SP
@@ -2208,8 +2209,10 @@ K8VAN=Bob;CWA
 K8WP=Jim;MI
 K8WS=Glenn;OH
 K8WWS=Bill;2621
+K8XCO=Charlene;MI
 K8XF=Mike;1379
 K8YIB=Jim;MI
+K8YX=Roger;3520
 K8ZT=Al;OH
 K8ZZ=Ed;KS
 K9ACM=Mike;2915
@@ -3367,7 +3370,7 @@ N3AD=Alan;727
 N3ALG=Jay;DE
 N3AM=John;6
 N3AO=Carter;VA
-N3ATQ=Scott;PA
+N3ATQ=Scott;1759
 N3BB=Jim;70
 N3BQ=Jack;3199
 N3BXY=David;IL
@@ -3851,7 +3854,6 @@ N9RD=Jurgen;582
 N9RV=Pat;MT
 N9SD=Scott;WI
 N9SE=Marty;1562
-N9SW=Gene;798
 N9SZ=Steve;OH
 N9TK=Jim;1986
 N9TTK=Justin;3150
@@ -4421,6 +4423,7 @@ PJ4LS=Hans;849
 PJ7AA=Tom;1092
 PJ7PL=Ed;PJ7
 PP5EG=Oms;549
+PP5OO=Edson;3521
 PR7AB=Junior;PY
 PS7CE=CHA;PY
 PY1NB=Felipe;PY
@@ -4887,7 +4890,6 @@ VE2PID=Pierre;1278
 VE2QA=Vlad;QC
 VE2SG=Step;QC
 VE2SRP=Simon;2144
-VE2SSS=Pete;QC
 VE2TG=Yvon;QC
 VE2VAB=George;QC
 VE2VIA=Jean;QC

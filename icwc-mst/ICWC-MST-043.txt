@@ -3,9 +3,37 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2024-03-21
+# Last Edit,2024-03-26
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+HK3JK,GERMAN,
+K8DL,DAVE,,Columbus OH
+K8SAT,JIM,,Portland OR
+K9PW,PETE,,Schaumburg IL
+KD9WDR,BRENT,,Oconomowoc WI
+KE5CTT,PETE,,Laplace LA
+KE7F,MIKE,,Central Point OR
+KF0OKY,CJ,,Plattsmouth NE
+KN6UDK,WILLIAM,,Sacramento CA
+KO4HXC,LEO,,Vienna VA
+KQ4E,JIM,,Rogersville TN
+N0KO,RANDY,,Vanzant MO
+N2EEO,DAN,,Springville NY
+N3ATQ,SCOTT,,Allentown PA
+N9FZ,CAINAN,,Perry GA
+NP2KW,MANNY,,Christiansted VI
+PY6FX,FABIO,,Bahia Brazil
+SP2SGA,ADAM,,Janowiec Wikp Poland
+SV8SXF,KOSTAS,,Kaspakas Greece
+VA3TAR,TED,,Toronto ON
+VE3INE,MARY,,Toronto ON
+VE6VIC,VIC,,Okotoks AB
+W2BPL,CHRIS,,Bedford MA
+WB2IQG,PHIL,,Voorhees NJ
+WG8Y,FRANK,,Salisbury NC
+WS4K,ERIC,,Palm Bay FL
+
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -2361,6 +2389,7 @@ K9ZO,Al,1761,(Ralph)  Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA0BMX,JOE,KS,Topeka KS
+KA0PQW,Matt,
 KA0RTB,CATHY,MN,Rochester MN
 KA0RTM,MIKE,,MN
 KA1CFP,Marshall,VA,Virginia Beach VA
@@ -5113,6 +5142,7 @@ VE3HX,Alan,ON,Ottawa ON
 VE3ICV,Paul,ON,
 VE3IID,DOUG,
 VE3IKV,Pete,ON,Cobourg ON
+VE3INE,Mary,
 VE3JZT,JEFF,ON,Brantford ON
 VE3KAE,Alan,ON,Kemptville ON
 VE3KAH,MIKE,
