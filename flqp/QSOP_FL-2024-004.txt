@@ -1,27 +1,39 @@
 !!Order!!,Call,Exch1,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2024-04-02
+# 1-Last Edit,2024-04-08
 # 2-Send new info/corrections DIRECT to ve2fk@arrl.net 
 # 3-Info from FLQP site.
-# 4-Thanks Bjorn/SM7IUN for his help
+# 4-Thanks Bjorn/SM7IUN for his help and NX4N
 # QSOP_FL
 # QSOPARTY FL
 
 # Mobiles...
 AD4EB,,MOBILE CW with Melody KI4HVY (10-40m)
 AD4EB/M,,MOBILE CW with Melody KI4HVY (10-40m)
-K4OJ/M,,MOBILE CW
-W4AN/M,,MOBILE Mixte
+K4OJ/M,,MOBILE - CW
+W4AN/M,,MOBILE - Mixed
 #
-# 1X1 Special calls (CITRUS)
+# 1X1 Special calls (KEYS)
+K4K,BRO,Broward  (AI4WW)
+N4K,ORA,Orange  (N4WW)
+W4K,ESC,Escambia  (N4OX)
+K4E,PAS,Pasco  (K4EJ)
+N4E,IDR,Indian River  (N1TO)
+W4E,BAY,Bay  (NF4A)
+K4Y,HIL,Hillsborough  (N4TP)
+N4Y,ALC,Alachua  (N4UU)
+W4Y,LAK,Lake  (WO4O)
+K4S,HER,Hernando  (K2SG)
+N4S,SUW,Suwannee  (N4SVC)
+W4S,LAK,Lake  (NN7CW)
 
 # Expedition...
-NF4AC,GIL,GILCHRIST - Mixte
-
+NF4AC,,Gilchrist and Dixie - Mixte
+NR4DL,MON,Monroe - Mixed
 #
 # Fixed Stations... 
-NR4DL,MON,Monroe
+AA2WN,PAL,Parm Beach Mixed
 AC2N,CIT,CITRUS - SSB
 AA4NP,BRE,Brevard - CW
 AA4O,PIN,PINELLAS
@@ -30,6 +42,7 @@ AE4JB,HIL,Hillsborough
 AI4WW,BRO,Broward
 AJ4D,LEO,Leon - SSB
 AJ4HP,SEM,SEMINOLE
+K0CIE,CHA,CHARLOTTE - MIXED
 K1HG,SAN,Santa-Rosa
 K2CIB,OSC,OSCEOLA
 K2DS,PAS,PASCO
@@ -80,6 +93,7 @@ KQ4HBY,BRE,Brevard - SSB
 KQ4R,VOL,Volusia - CW 
 KT3T,HIG,Highlands
 KT4WA,MAO,Marion
+KU8E,DUV,DUVAL - MIXED
 KV4OP,ORA,ORANGE - SSB
 KZ1O,SUM,Sumter
 N0OJ,BRE,Breward
@@ -116,6 +130,7 @@ N8NN,MAO,MARION
 N9EEE,SUM,Sumter - CW
 N9NFT,POL,POLK
 NA4CW,BRE,Brevard
+NA4DC,BRO,BROWARD - MIXED
 NE8P,VOL,Volusia - Mixed
 NF4CQ,CLM,COLUMBIA
 NK4O,DAD,Miami-Dade
@@ -166,7 +181,6 @@ WB8ZNL,POL,Polk - SSB
 WF4X,WAL,Walton - Mixed
 WQ9X,BAY,Bay
 WX4E,CHA,Charlotte - Mixed
-
 #
 # Out of FL States and CDN Prov...
 !!Order!!,Call,Name,Exch1,UserText,
@@ -6832,7 +6846,7 @@ KU7K,JOE,OR,
 KU7T,ANDY,WA,
 KU7Y,RON,ID,
 KU7Z,MARK,UT,
-KU8E,JEFF,GA,
+KU8E,JEFF,
 KU8V,DAVID,VA,
 KU8Y,,MI,
 KU9RK,TOM,KY,
