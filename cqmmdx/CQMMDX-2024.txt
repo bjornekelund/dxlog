@@ -1,7 +1,7 @@
 !!Order!!, Call, Sect, UserText, 
 # 
 # CQMMDX
-# Last Edit,2022-05-02
+# Last Edit,2024-02-12
 # NOT for CQ-M International
 # Send any info, correction direct to ve2fk@arrl.net
 2E0FFT,EUQ,
@@ -382,6 +382,7 @@ N1RR,NAM,
 N1SNB,NAM,
 N1SOH,NAQ,
 N2MM,NAY,
+N4IW,NA,
 N4RSS,NAQ,
 N7FUL,NAM,
 N7RCS,NAQ,
@@ -716,6 +717,7 @@ VE1AI,NAM,
 VE2AWW,NAM,
 VE2BWL,NAM,
 VE2EBL,NAM,
+VE2FK,NA,
 VE3KZ,NAM,
 VE3OX,NAM,
 VE7YL,NAY,

@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-04-10
+# Last Edit,2024-04-12
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 
@@ -209,6 +209,7 @@ AC0VM,Debbie,3054,Arvada CO
 AC0W,Bill,1564,Austin MN
 AC1FE,Rich,783,Hancock NH  (VE3KI)
 AC1GF,Bob,NH,Hudson NH
+AC1RM,Len,ME,Remote at K1LZ
 AC2FA,Bob,1026,Getzville NY
 AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
@@ -284,6 +285,7 @@ AD8IG,Vlad,OH,North Royalton OH
 AD8J,John,1395,Asheville NC  (Possibly Remote)
 AD8J/HR9,John,1395,
 AD8JL,Tim,MI,Shelby Township MI
+AD8R,Lou,MI,Caseville MI
 AD8WR,Dave,2857,Granger IN
 AD8Y,David,OH,Cleveland Heights OH
 AD9AC,Ken,3321,IL,Litchfield IL
@@ -372,6 +374,7 @@ AG9G,Dwight,WI,Phillips WI
 AG9U,Ben,IL,Long Grove IL
 AH0AA,Gary,1949,Bigfork MT
 AH0U,Bruce,1825,Pittsburg CA
+AH6AA,Lee,HI,Naalehu HI
 AH6C,Jerry,FL,Gainesville FL
 AH6KO,Stan,1794,Keaau HI  (Big Island)
 AH6RE,Curt,830,Keaau HI
@@ -499,6 +502,7 @@ DF5RF,Gernot,,Schwalbach Germany
 DF5RI,Laft,,no info
 DF6FQ,Juergen,,Kahl a Main Germany
 DF6RI,Alfred,,Happurg Germany
+DF7C,Chris,3484,(DF7CB)
 DF7CB,Chris,3484,Bainbridge Isl. WA
 DF7CP,Stefan,,Eldena Germany
 DF7TV,Tom,2613,Stuttgart Germany
@@ -720,6 +724,7 @@ EA2HW,Enio,,San Sebastian Spain
 EA2KV,JC,2845,(Jose)  Zaragoza Spain
 EA2RCP,RC,,Radio Club Navarra Spain
 EA3BV,Jon,,Barcelona Spain
+EA3EE,Jose,,Cathlunya Spain
 EA3FZT,Francis,2560,Cubelles Spain
 EA3GHZ,Joan,,Tarragona Spain
 EA3HSO,Al,2132,Barcelona Spain
@@ -1329,9 +1334,8 @@ JT1DA,Enkh,,Ulaanbaatar Mongolia
 JT1DX,Bat,,Ulaabaatar Mongolia
 JT1F,RC,,Ulaanbaatar DX Club Mongolia
 K0AD,Al,138,Plymouth MN
-K0AF,Andy,2990,Cedar Rapids IA
+K0AF,Andy,IA,(2990)  Cedar Rapids IA
 K0ALN,Bob,CO,Aspen CO
-K0ALT,Rose,3118,(Christine)  CO
 K0AP,Dragan,370,Olathe KS
 K0ARS,Jim,mo,Macon MO
 K0AV,Alan,1129,Colorado Springs CO
@@ -2204,6 +2208,7 @@ K8OIP,Scott,2858,Farmington NM
 K8PGJ,Pete,MI,Troy MI
 K8PK,Peter,2226,Millford OH
 K8PO,Doug,847,Athens AL
+K8PT,Peter,PA,Philadelphia PA
 K8QKY,Steve,MI,Ann Arbor MI
 K8RDH,Rob,OH,Maumee OH
 K8RF,Dan,KP2,Christiansted VI
@@ -2389,7 +2394,7 @@ KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
 KB1VUN,Eric,CWA,Lebanon NH
 KB1VX,Barry,ME,Kittery ME
-KB1W,Len,MA,(Lenny)  Pittsfield MA
+KB1W,Len,2038,(Lenny)  Pittsfield MA
 KB1WTF,Nicolas,MA,Foxboro MA
 KB1YJ,William,NH,Stratham NH
 KB1ZEB,Larry,VT,Essex Junction VT
@@ -2463,7 +2468,6 @@ KC1KUG,Bray,NH,Farmington NH
 KC1LZX,Rob,2417,Worcester MA
 KC1RL,Ric,MA,Falmouth MA
 KC1SA,Steve,CT,Wallingford CT
-KC1TEK,Len,ME,Medway ME
 KC2EGL,Mike,PA,
 KC2IGE,Matt,NY,Massapequa Park NY
 KC2JAJ,John,NY,Oneida NY
@@ -2526,6 +2530,7 @@ KD0PQU,Romy,CO,Grand Junction CO
 KD0Q,Glenn,IA,Traer IA
 KD0UKC,Neil,IA,Decorah IA
 KD0VAS,Leroy,MN,Saint Paul MN
+KD0ZV,Rich,IA,Ankeny IA
 KD1CT,Bob,NH,Barnstead NH
 KD2BMX,Peter,NY,Nanuet NY
 KD2CAP,Brendan,IL,Long Grove IL
@@ -3162,6 +3167,7 @@ M0KHZ,Mart,,Ipswich England
 M0KTZ,Enzo,3206,London England
 M0LRQ,Pete,3380,Northamptonshire England
 M0MUI,Mui,2855,Norwich England
+M0MUT,Andy,,Ponypool Wales (or /MM)
 M0MZB,Matt,3468,Calder Brodge England
 M0NGN,Nige,2459,(Nigel) Durham England
 M0NNQ,LEO,3317,Brampton Cumbria Enland
@@ -4078,6 +4084,7 @@ NN7O,Tom,3427,Bishop CA
 NN7W,TC,2057,(Terry) Show Low AZ
 NN9G,Dana,WI,Appleton WI
 NO0B,James,IA,Tiffin IA
+NO1M,Rose,3118,(Christine)  CO
 NO3M,Ty,PA,East Brady PA
 NO3U,Otto,PA,Allison Park PA
 NO4J,Dave,FL,The Villages FL
@@ -4520,7 +4527,7 @@ RX3FC,Vlad,,Russia
 RX3QNE,Misha,,Varonezh Russia
 RX4CD,Sergey,,Saratovskaya Russia
 RX6CB,Ed,,Novorossiysk Russia
-RX6FJ,Igor,,Stavropolsky Russia
+RX6FJ,Igor,3527,Stavropolsky Russia
 RX9TX,Art,,(no info) Russia
 RY3PAE,Savin,UA,(RT5P) no info
 RY7KV,Mike,,Yalta
@@ -5709,6 +5716,7 @@ W7KF,Doug,2183,Whitefish MT
 W7KFI,Susan,MS,Gulfport MS
 W7KPL,Jerry,AZ,Scottsdale AZ
 W7KXB,Bill,1042,Apache Junction AZ
+W7LC,Bill,ID,Idaho Falls ID
 W7LG,Mike,2682,Lewistown PA (Been heard QRP)
 W7LXN,Myron,1166,Gilbert AZ
 W7MP,Adam,OR,Beaverton OR
@@ -5724,7 +5732,8 @@ W7RIP,Rip,2894,Bozeman MT
 W7RN,Tom,108,VC Highlands NV (K5RC)
 W7RX,Scott,2034,Eugene OR
 W7SAG,John,1582,Eagle ID (Been heard QRP)
-W7SAG/0,John,1582,
+W7SAG/0,John,1582
+W7STV,Steve,WA,Ephrata WA,
 W7SW,,AZ,(143) Sun City West AZ
 W7TAO,Todd,WA,Mount Vernon WA
 W7UDH,Dick,WA,Seattle WA
@@ -6277,6 +6286,7 @@ WU6X/4,Dennis,1632,(could be RV)
 WU7F,Mark,1351,Centerville UT
 WU7X,Dale,3260,Spokane WA
 WU8R,Roman,OH,Wellston OH
+WU8T,Tom,WA,Battle Ground WA
 WV1D,Pat,2854,Weymouth MA (Been heard QRP)
 WV4P,Ron,TN,Savannah TN
 WV4S,Bob,NC,Winston Salem NC

@@ -1,7 +1,7 @@
 # CQMM DX database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-04-27
+# Last updated 2024-04-13
 2E0FFT=EUQ
 3B8DB=AFM
 3D2AG=OCM
@@ -379,6 +379,7 @@ N1RR=NAM
 N1SNB=NAM
 N1SOH=NAQ
 N2MM=NAY
+N4IW=NA
 N4RSS=NAQ
 N7FUL=NAM
 N7RCS=NAQ
@@ -713,6 +714,7 @@ VE1AI=NAM
 VE2AWW=NAM
 VE2BWL=NAM
 VE2EBL=NAM
+VE2FK=NA
 VE3KZ=NAM
 VE3OX=NAM
 VE7YL=NAY
