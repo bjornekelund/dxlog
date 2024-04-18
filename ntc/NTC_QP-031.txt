@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2024-03-02
-# Last number listed 258
+# Last edit,2024-04-18
+# Last number listed 262
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -141,10 +141,12 @@ OK1DZD,Zdenek,217,
 OK1DZ,Zdenek,217,
 OK1LO,Lad,215,
 OK1RR,Martin,51,
+OK1WSL,Josef,262,
 OK2BMA,Pavel,62,
 OK2BTK,Petr,NM,
 OK2BVX,Dali,209,
 OK2IW,Swat,148,
+OM6MS,Miki,259,
 ON2AD,Pat,34,
 ON4CAS,Egbert,57,
 ON4DN,David,185
@@ -185,6 +187,7 @@ PA0RDT,Roelof,208,
 PA0RRU,Ru,245,
 PA0SIM,Jan,59,
 PA0SLT,Wim,114,
+PA0VAM,Wim,261,
 PA0VLD,Cees,242,
 PA0XAW,Age,119,
 PA1AT,Ger,198,
@@ -231,6 +234,7 @@ PA3FYE,Jacob,55,
 PA3GBK,Aeilko,130,
 PA3GEO,Robert,17,
 PA3GNZ,Gosse,4,(Tjeerd) 
+PA3GPX,Rene,260,
 PA3GSV,Jan,223, 
 PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
