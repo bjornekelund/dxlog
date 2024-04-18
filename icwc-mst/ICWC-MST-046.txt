@@ -6,6 +6,18 @@
 # Last Edit,2024-04-09
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+K6GRD,DICK,,Spanish Fork UT
+K6GVG/M,ROY,,
+K8ADH,BRUCE,,
+KB9BVN,BRIAN,,New Whiteland IN
+KD0ZIT,RICH,,Merriam KS
+KI4PB,JERRY,,
+N0WM,BILL,,Fallon MO
+N1TIM,TIM,,Danvers MA
+N3JFD,JOHN,,Finleyville PA
+W2AG,JOHN,,Carmel NY
+WK0E,MARTY,,Papillion NE
+
 IZ7LGT,FABIO,,Campi Salentina Italy
 K4II,SAM,,Sopartanburg SC
 KC4HN,CARL,,Hopatcong NJ

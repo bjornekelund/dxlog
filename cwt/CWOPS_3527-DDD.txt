@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-04-12
+# Last Edit,2024-04-17
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 
@@ -256,6 +256,7 @@ AD0UA,Ken,MO,Saint Peters MO
 AD0WE,Kurt,2167,Manhattan KS
 AD1C,Jim,131,Brighton CO
 AD2BO,Russ,NY,Coram NY
+AD3DX,Marilyn,AL,Bessemer AL
 AD4C,Hector,FL,Port St Lucie FL
 AD4DP,Dave,CWA,South Boston VA
 AD4EB,Jim,867,Thompsons Stn TN
@@ -6233,7 +6234,7 @@ WP3A,Jaime,PR,Coamo PR
 WP3C,Al,872,Utuado PR
 WP3ME,Joel,FL,Miami FL
 WP4F,Danny,1526,Toa Alta PR
-WP4TZ,Manuel,3512,San Juan PR
+WP4TZ,Manu,3512,(Manuel)  San Juan PR
 WQ2E,Jack,2054,Schenectady NY
 WQ3E,Josy,1135,Norristown PA
 WQ7O,Dennis,WA,Colbert WA
@@ -6294,7 +6295,7 @@ WV7S,Den,WA,Olympia WA
 WW0K,Zac,IA,Ames IA
 WW0SS,Nick,MN,Shoreview MN
 WW0WWV,Eric,CO,Fort Collins WWV ARC
-WW2I,Pete,CWA,Pittstown NJ
+WW2I,Peter,CWA,Pittstown NJ
 WW2Y,Peter,NJ,Belle Mead NJ
 WW3S,Jim,2775,(Jamie)  Meadville PA
 WW4N,Tony,TN,Oak Ridge TN

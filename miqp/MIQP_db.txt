@@ -1,7 +1,7 @@
 # Michigan QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-04-13
+# Last updated 2024-04-18
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -4774,6 +4774,7 @@ KC8YRK=GA
 KC8YSV=OH
 KC8ZH=IN
 KC8ZIQ=WAYN
+KC8ZMN=TUSC
 KC8ZQS=WV
 KC9AAX=IL
 KC9AER=IL
@@ -8556,6 +8557,7 @@ N8DPD=OH
 N8DWN=OH
 N8DX=PA
 N8DXR=MCLM
+N8DZR=MIDL
 N8EA=OAKL
 N8EBN=AZ
 N8ERL=SAGI
