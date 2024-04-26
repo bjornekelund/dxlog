@@ -12,7 +12,7 @@ for contest in $DOWNLOADS; do
   cd ..
 done
 
-cd bcc
+cd bccqp
 ./regex-doit.bash
 cd ..
 

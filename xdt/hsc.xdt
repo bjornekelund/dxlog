@@ -191,7 +191,6 @@ DJ5AB    1318 Jan
 DJ5AZ     296 Fred
 DJ5BG    1819 Benny
 DJ5CW    1754 Fabian
-DJ5DI     607 Fred
 DJ5DZ     324 Friedhelm
 DJ5EO     383 Harald
 DJ5IL     842 Karl
@@ -200,7 +199,6 @@ DJ5JH     372 Wolff
 DJ5MW    1579 Manfred
 DJ5MY    1883 Harry
 DJ5OM     919 Rolf
-DJ5PA     400 Frank
 DJ5PV     332 Ted
 DJ5QF     337 Pit
 DJ5QW    1303 Oliver
@@ -500,7 +498,6 @@ DL6MAA   1152 Peter
 DL6MKA   1988 Bernd
 DL6MLA   1772 Karl
 DL6NCY   1624 Stefan
-DL6UNF   1710 Frank
 DL6WR      57 Guenter
 DL6YCG   1489 Ben; Bernd
 DL7AV     475 Tom
@@ -596,14 +593,19 @@ E77Y     1748 Max; Maksim
 E78AV    1325 Ljube
 EA1ARW   1975 Luis
 EA1UJ    1746 Francisco
+EA2AJB   2017 Andres
 EA3M     1867 Roger
 EA4BB    2013 Fernando
 EA4CWW   1264 Dim
 EA4KA    1341 Eugenio
 EA4MC    1507 Juan (Manuel)
+EA4OR    2015 Nacho
 EA5ARC    466 John
+EA6BF    2016 Josep
+EA6EJ    2014 Ini
 EA7VK    1799 Juan
 EA7WA    1332 Angel
+EA8DNT   1360 Glynn
 EA8OM     368 Heijo
 EA8WH     949 Werner
 EI3KK    1707 Chris(tian)
@@ -683,7 +685,8 @@ F8LP     1093 Maurice
 F9HR       98 Robert
 F9IQ     1462 (Jean-) Claude
 F9NF     1375 Michel
-F9TZ       86 Robert
+FW2CW    1105 Jacky
+FW5N     1105 Jacky
 G0AOL    1574 Gillian yl
 G0AYN    1441 Ian
 G0CKP    1548 Steve
@@ -730,6 +733,7 @@ G4SAW    1308 Mick
 G4UOL    1435 Steven
 G4UZN    1275 Tony
 G4ZIB    1725 Tony
+G5VZ     2018 Chris
 GD4EIP   1906 Colyn
 GEFRR    1962 Pete
 GI0RTN   1850 Gerry
@@ -738,6 +742,7 @@ GM3JKS   1337 Frank
 GM3POI    549 Clive
 GM4EVS   1545 David; Dave
 GR0PNM   1962 Pete
+GW0FJT   1581 Jon(athan)
 GW0MFN   1632 Jaap
 GW4D     1981 Keith
 GW4MVA   1360 Glynn
@@ -762,6 +767,7 @@ HA3RD    1309 Tibor
 HA4A     1299 Zoli
 HA4FF    1299 Zoli
 HA4YF     748 Bela
+HA50HK   1593 Zoli
 HA5BPC   1634 Imre
 HA5DI     460 Laci
 HA5FW     547 Endre
@@ -900,6 +906,7 @@ K4HEN    1995 Theo
 K5DQ     1745 Peggy yl
 K6JHF     423 Henryk
 K7UQH     730 Kemper
+K7VTM     579 John
 K9GCI     387 Jerry
 KA1CW    1774 Theo
 KA2ETG   1825 Scott
@@ -907,10 +914,7 @@ KA5OHM   1303 Oliver
 KB3WVX   1116 Darko
 KG2KJ     859 Remigiusz
 KK8I     1205 Uli
-KL7AIR   1581 Jon(athan)
-KL7VA    1581 Jon(athan)
 KV1I     1852 Imi
-LA0CX     467 Uli
 LA2HN     796 Bjoern
 LA3IBA   1352 Hugo
 LA3LE    1022 Eyvind
@@ -967,7 +971,6 @@ N4PL      825 Waldemar
 N4WJ     1044 Frank
 N5IR     1927 Bill
 N9MDW    1410 Chris
-N9SW      321 Gene
 NN7CW    1925 Wolle
 OE1FEU    887 Peter
 OE1JJB   1122 Hanno
@@ -982,7 +985,6 @@ OE5HIL   1314 Manfred
 OE5MSM   1027 Mike
 OE5NNN   1636 Max
 OE5OEL    663 Edi
-OE5WLL    770 Willy
 OE6DUG   1586 Edgar
 OE6FEG   1954 Franz
 OE6FYG   1665 Herbert
@@ -1018,6 +1020,7 @@ OH3GD    1482 Kari
 OH3MAF    147 John
 OH4BC    1327 Jari
 OH4LYX   1654 Jyrki
+OH4X     1654 Jyrki
 OH4YR    1319 Mika
 OH5LLR   1989 Timo
 OH6DC     938 Jari
@@ -1093,18 +1096,15 @@ OZ2JV    1132 Jens
 OZ4UN     531 Paul
 OZ5AAH   1660 Preben; Ben
 OZ60VHSC 1457 Hjalmar
-OZ7YL     620 Svata yl
 OZ8CW    1457 Hjalmar
 OZ8SW    1561 Steen
 OZ8X     1973 Harald
 OZ9DX     183 Bent
 P40AA    1369 Mathias
 PA0ABM    987 Wino
-PA0DIN    999 Din
 PA0IKE   1893 Jan (Ike)
 PA0INA    956 Frans
 PA0LXL    279 Leo
-PA0VDV   1168 Joeke
 PA0VLA   1406 Jo
 PA160HZ   569 Bob
 PA1AG    1512 Zoli
@@ -1141,6 +1141,7 @@ PC7T     1270 Peter
 PF6SKCC  1100 Joop
 PG4I     1100 Joop
 PH60VHSC  956 Frans
+PI4VHC    569 Bob
 PR7PO     982 Alex 
 PY1BVY    976 Ron
 PY1EWN    989 Ronaldo
@@ -1253,7 +1254,6 @@ SP5LGT    966 Leo; Lech
 SP5SDA    499 Zenon
 SP60VHSC 1481 Artur
 SP6AAT    469 Jan
-SP6BLV    597 Andy
 SP6DMJ    742 Jan
 SP6OJE   1387 Robert
 SP6SO    1556 Jerzy
@@ -1281,6 +1281,7 @@ SW3JH     372 Wolff
 SW8YA     728 Gabi
 TA2DA    1597 Sabri
 TK5NN    1388 Patrick
+TL0CW    1141 Rudi
 TO3F      600 Mar
 UA1CGS   1499 Serge
 UA3AGW   1492 Dima
@@ -1321,6 +1322,7 @@ VK2BJL   1084 Harry
 VK2FEX    826 Janusz
 VK2IA     888 Bernd
 VK8DX    1953 Moto
+VP2ERK   1141 Rudi
 W0MM     1600 Laurent
 W0VTT    1849 Mike
 W1WLW     377 Calvin
@@ -1338,6 +1340,7 @@ WB6LQR   1754 Fabian
 WN1R      857 Tom
 WZ7N      372 Wolff
 XV9D     1099 Mats
+YB0LRR   1099 Mats
 YB2FEA   1307 Kundjana
 YB4FNN   1422 Abet
 YI9DX    1116 Darko
@@ -1346,6 +1349,7 @@ YO3APJ    593 Ady; Adrian
 YO3FLR   1790 Cristi
 YO3FU     548 Gheorghe
 YO3JW     639 Stefan
+YO3LR    1790 Cristi
 YO4PX    1409 Fery
 YO6EX    1832 Sico
 YO9HP     902 Alex(andru)

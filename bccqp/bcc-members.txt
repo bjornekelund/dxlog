@@ -11,6 +11,8 @@ AG4RS,Mike
 DB1WA,Alex
 DB2WD,Jens
 DN1MIA,Jens
+DB5SM,Klaus
+DN4KP,Klaus
 DB6JG,Peter
 DB7MA,Mario
 DB8NI,Andreas
@@ -172,7 +174,6 @@ DK2WU,Werner
 DK0TL,Werner
 DK2YL,Siggi
 DK2ZO,Wolfgang
-DK2ZZ,Karlheinz
 DK3GI,Roland
 DK3HV,Hanno
 DK3QJ,Georg
@@ -503,14 +504,16 @@ PA9TOM,Tom
 PA3EWP,Ronald
 PA4OES,André
 EI5VAT,André
-PA4VHF,Dick
 PA5MW,Mark
 PA9M,Marcel
 PA3FGI,Marcel
 PB0AED,Marcel
 PB7Z,Bernard
+PC0A,Dick
 PC5A,Aurelio
 PD1RP,Peet
+SA7LAV,Kalle
+DK2ZZ,Kalle
 SP5XVY,Robert
 V51WH,Gunter
 V55Y,Gunter
