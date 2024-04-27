@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-04-16
+# 1-Last Edit,2024-04-22
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -565,6 +565,7 @@ AD8J,JOHN,NC,Asheville NC
 AD8JL,TIM,MI,Shelby Township MI
 AD8R,LOU,MI,
 AD9AC,KEN,IL,Litchfield IL
+AD9CA,MIKE,IL,Newton IL
 AD9I,RON,IL,
 AD9T,,IN,
 AE0EE,BILL,MN,
@@ -1170,6 +1171,7 @@ I5OVS,PIERO,DX,Pistoia Italy
 I5SFU,GIO,DX,Fucecchio Italy
 IK0TUJ,ANTONIO,DX,Monterotondo Italy
 IK1HGE,Bob,DX,Almese TO Italy
+IK1LBL,MARIO,DX,Vallecrosia Italy
 IK1PMR,Andrea,DX,Casale Monferrato Italy
 IK1RAG,ALVI,DX,Casale Monferrato Italy
 IK1TGV,FLAVIO,DX,Maurizio Italy
@@ -1372,7 +1374,7 @@ K0SR,STEVE,MN,
 K0SRL,BOB,IA,
 K0TA,JOHN,CO,
 K0TC,RON,MN,Roseville MN
-K0TER,JERRY,CO,Colorado Springs CO
+K0TER,Mike,CO,Colorado Springs CO
 K0TEX,ROB,AL,
 K0TG,JOHN,MN,Vadnais MN
 K0THN,CHAS,KS,Lenexa KS
@@ -4462,7 +4464,7 @@ KC9HFV,JIM,IL,
 KC9HJO,,IN,
 KC9HOZ,SCOTT,IN,Butler IN
 KC9HTC,BRUCE,IN,Washington IN
-KC9IL,WARREN,AZ,
+KC9IL,WARREN,IL,
 KC9JS,,WI,
 KC9JVB,BOB,WA,Vancouver WA
 KC9K,DAVE,IL,
@@ -5306,6 +5308,7 @@ KI5SXE,BRANDON,TX,Wylie TX
 KI5T,WADE,LA,
 KI5TD,,MD,
 KI5UBL,MIKE,TX,Houston TX
+KI5VIR,JAY,OK,Holdenville OK
 KI5WWT,JOE,TX,Landcaster TX
 KI5X,GEO,TX,
 KI5YGT,TOM,TX,Denton TX
@@ -8498,6 +8501,7 @@ NG0R,,MN,
 NG1G,PAT,RI,
 NG1I,FRANK,MA,
 NG1J,,CT,
+NG1M,MIKE,RI,Wakefield RI
 NG1R,ROGER,CT,
 NG1V,HARSHA,MA,Westford MA
 NG2C,,NY,
@@ -13625,6 +13629,7 @@ WB9EEA,,IL,
 WB9FCP,,IN,
 WB9FIP,BRAD,WI,
 WB9FMC,KURT,IL,Orland Park IL
+WB9FMP,JIM,PA,Blue Ridge Summit PA
 WB9G,CHRIS,NY,
 WB9GCU,,IN,
 WB9GKA,,IL,
@@ -14168,6 +14173,7 @@ WT9Q,VIC,WI,
 WT9U,JIM,IN,
 WU0B,FOX,SC,
 WU0L,,TX,
+WU2L,JAKE,CO,Aurora CO
 WU2M,,NY,
 WU2T,,NJ,
 WU2X,SCOTT,NY,

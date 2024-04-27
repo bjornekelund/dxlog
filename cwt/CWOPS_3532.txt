@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-04-17
+# Last Edit,2024-04-26
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 
@@ -527,6 +527,7 @@ DJ2MX,Mario,2801,Muenchen Germany
 DJ2PR,Rudi,,Mainz Germany
 DJ3CQ,Jo,2969,(Juergen)  Groebenzell Germany
 DJ4CW,Simone,,Hamburg Germany
+DJ4DX,Andre,3529,Rhauderfehn Germany
 DJ4MX,Sven,2697,(9A5MX)  Muenchen Germany
 DJ5CW,Fabian,1566,Munich Germany (Been heard QRP)
 DJ6PC,Fred,,Anroechte Germany
@@ -1404,6 +1405,7 @@ K0RF,Chuck,887,Longmont CO
 K0RU,Rob,KS,Gardner KS
 K0SN,Tom,1344,Missoula MT
 K0TC,Ron,1421,Roseville MN
+K0TER,Mike,CO,Colorado Springs CO
 K0TG,John,1830,Vadnais MN
 K0TI,Dan,2836,Wodbury MN
 K0TQ,Mike,2434,North Vernon IN
@@ -1570,6 +1572,7 @@ K2FX,Paul,NY,Ontario NY
 K2GO,Tom,518,Round Hills VA
 K2IW,Zach,2521,(Zachary)  Saratoga Springs NY
 K2KA,Dick,MA,Westford MA
+K2QO,Mark,NY,Clarence NY
 K2KQ,Don,192,Pleasantville NY
 K2KRG,Steve,1926,Canandaigua NY (Occ. /M or QRP)
 K2KRG/M,Steve,1926,
@@ -2502,6 +2505,7 @@ KC5F,Steve,NC,East Flat Rock NC
 KC5KWZ,John,LA,Metairie LA
 KC5PL,Dixon,LA,Houma LA
 KC5QIH,Chris,TX,Robinson TX
+KC6D,Don,CA,Huntington Beach CA
 KC6EOA,Brad,CA,Windsor CA
 KC6SSE,Mike,CA,Santa Rosa CA
 KC7V,Mike,260,Cave Creek AZ
@@ -2780,6 +2784,7 @@ KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
 KI6RRN,Axel,CA,La Mesa CA
 KI6UP,JIM,TX,Atlanta TX
+KI7KY,Ben,UT,West Point UT
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
 KI7OY,Larry,CA,Yuba City CA
@@ -3084,6 +3089,7 @@ KZ5D,Art,12,New Ibria LA (CWops Vice-Pres. Activities + Events)
 KZ5H,Seth,TX,Houston TX (Been heard QRP)
 KZ6H,Steve,2286,Thousand Oaks CA
 LA/DL4HCF,Hubert,,
+LA/G0TRT,Cie,3429,
 LA0CX,Uli,,Halden Norway
 LA1IO,Halvor,2651,Algard Norway
 LA1K,Jens,,(LB6RH)  RC Trondheim Norway
@@ -3118,6 +3124,7 @@ LX1NO,Norby,,Strassen Luxembourg
 LY2AX,Arunas,,Kaunas Lithuania
 LY2CO,Rimas,,Mazeikiai Lithuania
 LY2J,Pranas,,Liudvinavas Lithuania
+LY2MM,Al,3532,Kaunas Lithuania
 LY4L,Mindis,LY,Kauno raj. Lithuania
 LY5A,Jonas,1459,Siauliai Lithuania
 LY5G,Vitas,LY,Vilnius Lithuania (Mostly QRP)
@@ -3574,6 +3581,7 @@ N4WO,Greg,FL,Brooksville FL
 N4XD,Ron,NC,Pittsboro NC
 N4XL,Tom,2356,Greenwood SC
 N4XP,Tom,GA,Monroe GA
+N4XTT,Mike,VA,Mendota VA
 N4XY,Ed,GA,Marietta GA
 N4XYZ,Jim,VA,Virginia Beach VA
 N4YDU,Nate,445,Youngsville NC
@@ -3653,7 +3661,7 @@ N5XZ,Allen,447,Richmond TX
 N5YT,Guy,MS,Purvis MS
 N5YZ,Bill,TX,Fairview TX
 N5ZC,Rich,2153,Amarillo TX
-N5ZO,Mark,1224,Escondido CA
+N5ZO,ZO,CA,Escondido CA
 N6AA,Dick,CA,Topanga CA
 N6AN,Rex,CA,Pasadena CA
 N6ARA,Ara,3185,Montrose CA
@@ -4315,6 +4323,7 @@ OK8GO,Alex,OK,(UR7GO)
 OK8RB,Dave,,Near Prague Czech Republic
 OK9RKZ,Riky,,Jenikiv Czech Republic  (QRP)
 OL1T,David,,Holysov Czech Republic (Contest Call for OK6DJ)
+OL1WARD,Martin,87,OK1RR
 OL6M,Bob,,RC-Olomouc Czech Republic
 OL7R,PETER,2830,
 OL8R,Petr,2830,Ritka Czech Republic
@@ -4944,6 +4953,7 @@ VE3CX,Tom,1399,Kaministiquia ON
 VE3DPC,Dave,ON,Peterborough ON
 VE3DTI,Jose,ON,Ottawa ON
 VE3DZ,Yuri,21,Niagara-On-The-Lake ON
+VE3DZP,Gary,3531,St Catharines ON
 VE3EFM,Les,1701,Mississauga ON (VE3ABN)
 VE3EIB,Nick,ON,Cambridge ON
 VE3EJ,John,513,Grasie ON
@@ -5353,7 +5363,7 @@ W2ZRA,Kevin,942,Cutchogue NY
 W3AC,Dave,1235,Forest VA
 W3AG,Joe,PA,Pittsburg PA
 W3AST,Jim,DE,Newark DE
-W3ASW,Jim,DE,Newark DE
+W3ASW,Mike,3528,Newark DE
 W3AT,Jim,NM,Santa Fe NM
 W3ATT,Brian,1301,Bayse VA
 W3AVP,Alex,PA,New Holland PA
@@ -5628,6 +5638,7 @@ W6AEA,Geo,1478,Spokane Valley WA
 W6AIM,Jim,CA,Orange CA
 W6AQ,Dave,CA,
 W6AT,Lanny,CA,Big Bear Lake CA
+W6AWG,Alan,CA,La Mirada CA
 W6AYC,Joe,2884,Atascadero CA
 W6BK,Dave,1165,Murrieta CA
 W6BUX,Bux,2603,(Gurbux) Chatsworth CA
@@ -6075,6 +6086,7 @@ WB5K,Jay,1769,Allen TX
 WB5LXJ,Greg,TX,Garland TX
 WB5N,Dave,3350,Houston TX
 WB5OZA,Doug,LA,Estherwood LA
+WB5YUZ,Dan,3530,Thorndale TX
 WB6BEE,Don,VA,Williamsburg VA
 WB6BRY,Brian,CA,Valley Springs CA
 WB6IQL,Jeff,CA,Saratoga CA
@@ -6224,8 +6236,7 @@ WN8F,Ken,NY,Ashland KY
 WN9J,Mark,1100,Swquim WA
 WN9W,Dave,OH,Bentleyville OH
 WO1X,Tom,1310,Bristol CT
-WO2T,Ed,3501,Fairfield NJ
-WO2Y,Al,3501,Farfield NJ
+WO2T,Al,3501,Fairfield NJ
 WO4O,Ric,1311,Grand Island FL
 WO5T,Sam,3500,Austin TX
 WO6W,Bob,2634,Menlo Park VA
@@ -6339,6 +6350,7 @@ XV2W,Larry,1209,Ho Chi Minh City Vietnam
 XV9D,Mats,1820,Phan Thiet Vietnam
 YB0ECT,Pri,3453,Jakarta Indonesia
 YD2UWF,Saka,,Sleman Indonesia
+YE1GXQ,George,,
 YE4FNN,Abet,3510,Bangka Osl. Indonesia
 YL1ZF,Kas,2256,Riga Latvia
 YL2AG,Alex,,Riga Latvia

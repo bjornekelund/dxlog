@@ -1,7 +1,7 @@
 # UA1DZ Memorial Cup database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-03-07
+# Last updated 2024-04-27
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -5627,7 +5627,7 @@ UA4HY=LO43
 UA4LCH=LO44
 UA4LKT=LO44
 UA4LKU=LO44
-UA4LL=LO44
+UA4LL=LO43
 UA4LS=LO44
 UA4M=LO44
 UA4NBA=LO48

@@ -1,6 +1,7 @@
 # Original file from NA3M, RN9C, RM1F
+# Thanks SM7IUN
 !!Order!!,Call,Exch1,
-# Last Edit,2023-04-27
+# Last Edit,2024-04-27
 # DZCUP
 # Send any new info or corrections direct ve2fk@arrl.net
 2E0BPP,IO83
@@ -5630,7 +5631,7 @@ UA4HY,LO43
 UA4LCH,LO44
 UA4LKT,LO44
 UA4LKU,LO44
-UA4LL,LO44
+UA4LL,LO43
 UA4LS,LO44
 UA4M,LO44
 UA4NBA,LO48
