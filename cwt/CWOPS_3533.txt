@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-04-26
+# Last Edit,2024-04-29
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 
@@ -1405,7 +1405,7 @@ K0RF,Chuck,887,Longmont CO
 K0RU,Rob,KS,Gardner KS
 K0SN,Tom,1344,Missoula MT
 K0TC,Ron,1421,Roseville MN
-K0TER,Mike,CO,Colorado Springs CO
+K0TER,Mike,3533,Colorado Springs CO
 K0TG,John,1830,Vadnais MN
 K0TI,Dan,2836,Wodbury MN
 K0TQ,Mike,2434,North Vernon IN
@@ -6397,7 +6397,7 @@ ZA/G4PVM,Paul,2413,Albania
 ZA1EM,Elvira,3076,Elbasan Albania
 ZA1RR,Miri,3279,Tirana Albania
 ZB2CW,Derek,,Gibraltar
-ZB2FK,Tito,3244,Gibraltar
+ZB2FK,Ernie,3244,Gibraltar
 ZB2X,Jorma,144,Gibraltar
 ZD8W,Oli,,Ascension Island (W6NV)
 ZF2AA,Mike,1347,VE9AA
