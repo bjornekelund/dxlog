@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-04-29
+# Last Edit,2024-05-01
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 
@@ -209,7 +209,6 @@ AC0VM,Debbie,3054,Arvada CO
 AC0W,Bill,1564,Austin MN
 AC1FE,Rich,783,Hancock NH  (VE3KI)
 AC1GF,Bob,NH,Hudson NH
-AC1RM,Len,ME,Remote at K1LZ
 AC2FA,Bob,1026,Getzville NY
 AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
@@ -963,7 +962,6 @@ G3YJQ,Fred,1378,Plymouth Devon England
 G3YLA,Jim,2015,Dereham England
 G3YXX,David,493,Hythe KE England
 G3ZRJ,Tony,,Devon England
-G3ZYV,Dave,356,Gillingham England
 G4AFU,Paul,,Bedale England
 G4AJY,Dave,,Benfleet Essex England
 G4AON,Dave,,East Yorkshire England
@@ -3840,6 +3838,7 @@ N8MUS,Jon,MI,Sault Sainte Marie MI
 N8NA,Karl,839,Wilmington DE
 N8OO,Vic,LA,Pineville LA
 N8PE,John,OH,Xenia OH
+N8RH,Rob,2874,Maumee OH
 N8RQJ,Harold,OH,Columbus OH
 N8RR,Chas,WV,Charleston WV
 N8RZO,Ken,3351,Bad Axe MI
@@ -3926,7 +3925,6 @@ NA6O,Gary,1345,Livermore CA
 NA6S,Chuck,3465,Oakdale CA
 NA6Z,Don,2727,Hawthorne CA
 NA7C,Ted,1289,Sandy UT
-NA8Q,Rob,2874,Maumee OH
 NA8V,Greg,1214,Emmett MI
 NA9L,Vern,IN,Mooresville IN
 NB0Z,James,KS,Atchison KS
@@ -4036,6 +4034,7 @@ NJ4P,Ace,TN,Savannah TN
 NJ4Q,Will,2374,Lynchburg VA
 NJ4V,Dan,2395,Evans GA
 NJ4X,Dave,MO,Lees Summit MO
+NJ5M,Len,MA,Remote at K1LZ
 NJ5N,Chris,2105,Whitney TX
 NJ5T,John,TX,Mexia TX
 NJ6Q,Jer,2617,(Jeremy)  Encinitas CA  (Been heard QRP)
