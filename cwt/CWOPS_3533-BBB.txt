@@ -255,6 +255,7 @@ AD0UA,Ken,MO,Saint Peters MO
 AD0WE,Kurt,2167,Manhattan KS
 AD1C,Jim,131,Brighton CO
 AD2BO,Russ,NY,Coram NY
+AD2CC,Saied,CWA,Cranbury NJ
 AD3DX,Marilyn,AL,Bessemer AL
 AD4C,Hector,FL,Port St Lucie FL
 AD4DP,Dave,CWA,South Boston VA
@@ -1452,6 +1453,7 @@ K1EBY,Frank,1593,Windsor CT
 K1ECU,Chas,2816,Pawcatuck CT
 K1EP,Ed,465,North Reading MA
 K1ESE,John,792,Waterford ME
+K1FJG,Jay,CWA,Shelton CT
 K1FQL,Martin,NH,Nashua NH
 K1FV,Sheila,MA,Medway MA
 K1GQ,Bill,NH,Wolfeboro NH
@@ -3979,7 +3981,7 @@ NE6NE,ZHUO,3117,San Jose CA
 NE6ZZ,STU,WI,
 NE7D,Rocky,829,Salem OR
 NE7EE,Chris,2616,Scottsdale AZ
-NE7TE,Chas,AZ,Wickenburg AZ
+NE7TE,Chas,CWA,Wickenburg AZ
 NE8J,Howard,MI,Coopersville MI
 NE9U,Scott,2438,Menomonie WI
 NF0N,Mike,1383,South Sioux City NE
