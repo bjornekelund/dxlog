@@ -2,7 +2,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-05-01
+# Last Edit,2024-05-03
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # 
@@ -1750,6 +1750,7 @@ K4BG,Bob,GA,Sylvania GA
 K4BKD,Pete,GA,Marietta GA
 K4BSK,Earl,3044,Matthews NC
 K4CJX,Steve,TN,Nashville TN
+K4CUE,Dick,3534,Forest VA
 K4CWT,,AL,Southeastern CWops Club (Huntsville AL)
 K4DGJ,Sam,NC,Matthews NC
 K4DJ,Rich,NC,Hickory NC
@@ -4920,6 +4921,7 @@ VE2FD,Steve,2607,Deux-Montagnes QC
 VE2FK,Dub,1181,*** Happy New Year to all. ***
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
+VE2GT,Pierre,QC,
 VE2HB,Dub,1181,Matane QC (also VE2FK) FN68
 VE2HEW,Tony,QC,Montreal QC
 VE2ICU,Paolo,QC,Montreal QC
