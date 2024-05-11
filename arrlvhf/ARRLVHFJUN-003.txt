@@ -3,7 +3,7 @@
 # Created by merging StewPerry-002.txt, Russian160_CallHist.txt,
 # and collecting disagreeing grids from qrz.com.
 # Thanks to Bjorn SM7IUN
-# LastEdit,2024-04-22
+# LastEdit,2024-05-09
 # Send info, correction direct to ve2fk@arrl.net
 # ARRLIDC
 # ARRLVHFJAN 
@@ -13132,6 +13132,7 @@ VA2NB,,FN15,
 VA2PRC,,FN46,
 VA2QR,,FN35,
 VA2SIB,,FN35,
+VA2VT,,FN35,
 VA2WA,,FN36,
 VA2WDQ,,FN35,
 VA3API,,EM93,
@@ -13207,6 +13208,7 @@ VE2FFE,,FN35,
 VE2FK,,FN68,
 VE2FU,,FN46,
 VE2FXL,,FN46,
+VE2GT,,FN36,
 VE2HB,,FN68,
 VE2HEW,,FN35,
 VE2HLS,,FN35,
@@ -13220,7 +13222,6 @@ VE2OXP,,FN68,
 VE2PEP,,FN35,
 VE2PI,,FN46,
 VE2PIB,,FN59,
-VE2PIJ,,FN46,
 VE2QV,,FN35,
 VE2RYY,,FN46,
 VE2TZT,,FN35,
