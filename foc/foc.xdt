@@ -238,7 +238,6 @@ EA2AJB       2153 Andres
 EA4BB        2054 Nando
 EA6BF        2182 Josep
 EA6EJ        2209 Ini
-EA8/G3YXX    1685 David (G3YXX)
 EA8BH        2226 Martti (OH2BH)
 ED6FOC       2182 Josep (EA6BF)
 EF6B         2182 Josep (EA6BF)
@@ -327,12 +326,10 @@ G3YC         2040 Phil (VK6GX)
 G3YIQ        1893 Bob (G3BA)
 G3YJQ        2066 Fred
 G3YLA        2128 Jim
-G3YXX        1685 David
 G3ZEM        1670 Bob (5B4AGN)
 G3ZGC        1752 Richard
 G3ZRJ        2132 Tony
 G3ZXZ        2195 Martin
-G3ZYV        1589 Dave
 G3ZZD        1693 Steve (VK6VZ)
 G4AFU        1546 Paul
 G4BSW        2140 Nigel
@@ -374,7 +371,6 @@ G5W          2006 Don (G3BJ)
 G6AY         1225 Jim (G3RTE)
 G6M          1984 Vic (G4BYG)
 G6VX         1573 Derek (G3NKS)
-G7VJR        1992 Mike
 G8DX         2067 Jack (GW8DX)
 G9W          2136 Mark (M0DXR)
 GB0DOE       2095 Pete (G0PNM)
@@ -452,7 +448,6 @@ GQ3YJQ       2066 Fred (G3YJQ)
 GQ3YLA       2128 Jim (G3YLA)
 GQ3YOR       1926 Drew (GM3YOR)
 GQ3YTS       1430 Rob (GM3YTS)
-GQ3YXX       1685 David (G3YXX)
 GQ3ZGC       1752 Richard (G3ZGC)
 GQ3ZXZ       2195 Martin (G3ZXZ)
 GQ4AFU       1546 Paul (G4AFU)
@@ -484,7 +479,6 @@ GQ4WQI       2107 Dean (G4WQI)
 GQ4YOX       2014 Bob (GU4YOX)
 GQ4ZUK       2201 Allan (GM4ZUK)
 GQ5VZ        2191 Chris (G5VZ)
-GQ7VJR       1992 Mike (G7VJR)
 GQ8DX        2067 Jack (GW8DX)
 GR150NIB     1189 Terry (GM3WUX)
 GR3KGV       1309 Ken (GW3KGV)
@@ -523,6 +517,7 @@ IN3FHE       2180 Helga
 IP0LOVE      2086 Marco (IK0YVV)
 IP0TRC       2086 Marco (IK0YVV)
 IR0FOC       1969 Simone (IS0AFM)
+IR0RIVA      1969 Simone (IS0AFM)
 IR7A         1305 Sandro (I7ALE)
 IS0AFM       1969 Simone
 IU0HMB       2178 Vlado
@@ -541,6 +536,7 @@ JA1GZV       2052 Motoaki
 JA1GZV/6     2052 Motoaki (JA1GZV)
 JA5DQH       1541 Aki
 JE1TRV       1959 Atsu (JS2AHG)
+JH1GNU       2231 Shige
 JS2AHG       1959 Atsu
 JS6UKY       2052 Motoaki (JA1GZV)
 JT4RR        2114 Mats (RM2D)
@@ -918,7 +914,7 @@ PZ5KV        2098 Axel (DL6KVA)
 PZ5T         1740 Yuri (VE3DZ)
 R7KZ         1621 Stan
 RM2D         2114 Mats
-RX6CB        2051 Eduard
+RX6CB        2051 Eduard (SV2TCY)
 S20A         1122 Tine (S50A)
 S21VJ        1564 Andy (5Z4VJ)
 S21YD        1571 Carl (SM6CPY)
@@ -960,7 +956,7 @@ ST2KSS       1790 Robert (S53R)
 SV1AOW       1704 Geo
 SV1RUX       2113 David
 SV2BBK       2166 Theo
-SV2TCY       2051 Eduard (RX6CB)
+SV2TCY       2051 Eduard
 SX200RUX     2113 David (SV1RUX)
 SX6A         2113 David (SV1RUX)
 SX8A         2113 David (SV1RUX)
@@ -997,6 +993,7 @@ V25DG        1801 Doug (K1DG)
 V25XF        1266 Nigel (OE5TXF)
 V26K         1921 Bud (AA3B)
 V31DJ        2131 Walt (W0CP)
+V31FK        1796 Fabian (DJ5CW)
 V31LZ        1826 Rumen (LZ1MS)
 V31UZ        1740 Yuri (VE3DZ)
 V31YN        1833 Gerd (DJ4KW)
@@ -1162,6 +1159,7 @@ W4MQC        1734 Alan
 W4NO         1494 Tony (K2SG)
 W4PID        2198 Dick
 W4PM         1687 Puck
+W4S          1177 Tom (K3TW)
 W4TJE        2118 Jack
 W4UHI        2105 Ken (K5WK)
 W4VQ         1299 Bob
@@ -1179,7 +1177,6 @@ W6RGG        1563 Bob
 W7AQK        2078 Dave
 W7E          1177 Tom (K3TW)
 W7GKF        1957 Bill
-W7QC         1849 Steve
 W7RF         2135 Dan
 W7RN         1760 Tom (K5RC)
 W8AV         1657 Goose
