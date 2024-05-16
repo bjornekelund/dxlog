@@ -1,6 +1,6 @@
 # UNDX Contestdatabase
 # Credits to SP5KP and VE2FK for collecting and consolidating the data
-# Last updated 2023-05-16
+# Last updated 2024-05-16
 UN0B=Z03
 UN0C=C14
 UN0EM=B18
