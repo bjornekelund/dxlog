@@ -1,12 +1,12 @@
 !!Order!!,Call,Name,Exch1,UserText,
+# 
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-05-14
+# Last Edit,2024-05-15
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
-# 
-# Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN 
+# Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -789,6 +789,7 @@ EF8O,Heijo,425,Puerto de Cruz Canary Islands
 EF8R,Juan,EA8,Gran Canaria Canary Islands
 EF8USA,Luis,,Canary Islands
 EF8X,Luis,,Canary Island
+EI/MoDHP,Ray,2090,
 EI2CN,Doug,1503,Ireland
 EI2HIB,Martin,,Waterford Ireland
 EI2IDB,Slav,,Meath Ireland
@@ -910,8 +911,8 @@ G0OBQ,Gerry,3385,Whitley Bay England
 G0OOD,Tim,2941,Norwich England
 G0OOR,Tony,2971,Norfold England
 G0ORH,Ken,,Thatcham West Berkshire
-G0PNM,Peter,,Cornwall England
 G0PDZ,Ian,,Kent England
+G0PNM,Peter,,Cornwall England
 G0RDO,John,,Newton Abbot Devon Egnland
 G0TPH,Al,2956,Desford England (Been heard QRP)
 G0TRT,Cie,3429,Warminster England
@@ -1027,6 +1028,7 @@ G4XWJ,Tim,3384,Dorset England
 G4YTK,Steve,3449,Cannok England
 G4ZXY,IAN,,Felixstone Road England
 G5CL,Ryan,422,Buckinghamshire England (Mainly QRP)
+G5HOW,Gavin,,Melton Mowbray England
 G5VZ,Chris,2877,Pontefract England
 G7BED,Chris,3431,Northampton England
 G7KSE,Alex,3212,Cumbria England (Been heard QRP)
@@ -1573,7 +1575,6 @@ K2FX,Paul,NY,Ontario NY
 K2GO,Tom,518,Round Hills VA
 K2IW,Zach,2521,(Zachary)  Saratoga Springs NY
 K2KA,Dick,MA,Westford MA
-K2QO,Mark,NY,Clarence NY
 K2KQ,Don,192,Pleasantville NY
 K2KRG,Steve,1926,Canandaigua NY (Occ. /M or QRP)
 K2KRG/M,Steve,1926,
@@ -1605,6 +1606,7 @@ K2PO,Bill,OR,Portland OR
 K2PS,Pete,FL,The Villages FL
 K2QB,Jim,935,Niagara Falls NY
 K2QBN,Evan,2611,Holiday FL
+K2QO,Mark,NY,Clarence NY
 K2QO,Mark,NY,Clarence NY
 K2RB,Rick,CT,Trumbull CT
 K2RD,Ira,63,Reno NV
@@ -1890,6 +1892,7 @@ K5DU,Susan,88,Manor TX
 K5EDI,Brent,TX,Trophy Club TX
 K5EDM,Greg,1967,Benton AR
 K5EFJ,Emmett,LA,Minden LA
+K5EHE,Dale,AR,Hot Springs AR
 K5EJF,Ray,TX,Hurst TX
 K5EMI,Bill,3127,Denton TX
 K5ESW,Paul,2665,Raleigh NC
@@ -2032,6 +2035,7 @@ K6NV,Bob,675,Truckee CA
 K6PB,Pete,2469,Irvine CA
 K6PO,Paul,CA,(1758) San Diego CA
 K6RB,Rob,3,Santa Cruz CA (CWT Academy)
+K6RB/4,Rob,3, 
 K6RC,Dave,CA,Fair Oaks CA
 K6RJ,Rich,CA,Lake Elsinore CA
 K6RM,Barry,NC,Bolivia NC
@@ -2993,6 +2997,7 @@ KR9U,Jim,IN,Fort Wayne IN
 KS0MO,KC,KS,Kansas City RC
 KS3K,Steve,FL,Boynton Beach FL
 KS3N,Tom,CWA,New Kensington PA
+KS4BG,ED,TN,LaFollette TN
 KS4L,Randy,AL,Huntsville AL
 KS4S,Wil,NC,Lumberton NC
 KS5A,Guff,391,Mesa AZ
@@ -3210,6 +3215,7 @@ M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth)  St Neots England
 M5S,John,268,(G4IRN)  Thames Ditton England
 M6O,Dave,482,Okehampton England (G3WGN)
+M7BLX,David,,Norwich England
 M8A,Angel,2862,(M0HDF)  Birmingham England
 MD0CCE,Bob,552,Ramsey Isle of Man
 MI0AYR,Paul,,Antrim Northern Ireland
@@ -4594,8 +4600,8 @@ SE6K,Mats,,Ugglarp Sweden
 SF0Z,Jens,2237,(SM0HEV) Upplands-Vasby Sweden
 SF1Z,Jens,2237,(SM0HEV) Sweden
 SF3A,Jan,,Sundsbruk Sweden (SM3CER)
-SI5Y,Kurt,SM,Ostervala Sweden (SM5BKK)
 SF6J,Goran,3471,Skovde Sweden
+SI5Y,Kurt,SM,Ostervala Sweden (SM5BKK)
 SJ6R,Mats,1820,Swedem (RM2D)
 SJ6W,Sten,,(SM6MIS)  Gothenburg Sweden
 SK2T,,,Umea Sweden (FURA Club Umea)
@@ -4733,6 +4739,7 @@ SV3CEI,Nick,,
 SV4/SV1DAY,Manos,SV,
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
+SV8SXF,KOSTAS,,KASPAKAS Greece
 SV9RNG,Pol,1009,Crete
 TA1UT,Bora,2768,Karakoy Istanbul Turkey
 TA2BD,Halil,,Istanbul Turkey
