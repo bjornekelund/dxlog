@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3541
-# Last updated 2024-05-19
+# Contains members up to #3588
+# Last updated 2024-05-21
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -204,6 +204,7 @@ AC0VM=Debbie;3054
 AC0W=Bill;1564
 AC1FE=Rich;783
 AC1GF=Bob;NH
+AC1RM=Len;ME
 AC2FA=Bob;1026
 AC2II=Robert;NY
 AC2IK=Frank;NY
@@ -388,6 +389,7 @@ AI3A=Alan;3053
 AI3W=Rick;UT
 AI4FH=WES;VA
 AI5IN=Mart;TX
+AI6CU=Tom;PA
 AI6DO=Ryan;CA
 AI6IE=Step;CA
 AI6O=Ed;1337
@@ -1752,6 +1754,7 @@ K4DME=Dave;2815
 K4DXV=Steve;1966
 K4DZR=Jerry;TN
 K4EA=Neal;2357
+K4EAK=Skip;GA
 K4EES=Ken;2389
 K4EET=Dave;1724
 K4EFZ=Chris;FL
@@ -4861,6 +4864,7 @@ VA3QV=Bob;ON
 VA3RJ=Dave;ON
 VA3SAX=Steve;ON
 VA3SB=Serge;1488
+VA3SP=Mike;ON
 VA3SY=Syl;2433
 VA3TAR=Ted;3504
 VA3TMV=Tim;3345
@@ -4886,6 +4890,7 @@ VA7DX=Neil;2691
 VA7ETR=Tamara;2619
 VA7GI=Guy;3256
 VA7KH=Steve;3039
+VA7NJI=Scott;2348
 VA7OM=Les;2739
 VA7QCE=Carole;1913
 VA7ST=Bud;1622
@@ -4971,7 +4976,7 @@ VE3HX=Alan;ON
 VE3ICV=Paul;ON
 VE3IID=Doug;ON
 VE3IKV=Pete;ON
-VE3INE=Mary;CWA
+VE3INE=Mary;3588
 VE3JZT=Jeff;ON
 VE3KAE=Alan;ON
 VE3KBI=Paul;ON
