@@ -3,7 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-05-23
+# Last Edit,2024-05-24
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -2244,7 +2244,7 @@ K8VAN,Bob,CWA,Branchville NJ
 K8WP,Jim,MI,Muskegon MI
 K8WS,Glenn,OH,Nount Veron OH
 K8WWS,Bill,2621,Middletown OH
-K8XCO,Charlene,CWA,Mancelona MI
+K8XCO,CHAR,3543,(Charlene)  Mancelona MI
 K8XF,Mike,1379,New Port Richey FL
 K8YIB,Jim,MI,Rapid City MI
 K8YX,Roger,3520,Milford MI
