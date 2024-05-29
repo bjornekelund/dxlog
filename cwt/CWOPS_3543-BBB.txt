@@ -3,7 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-05-24
+# Last Edit,2024-05-29
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -3189,6 +3189,7 @@ M0HWT,George,,Gloucester England
 M0IBC,David,,West Midlands England
 M0IHT,Harry,560,(M3X) Exeter England
 M0JWB,Jim,,Bistol England
+M0KHX,Mart,,Ipswich England
 M0KHZ,Mart,,Ipswich England
 M0KTZ,Enzo,3206,London England
 M0LRQ,Peter,3380,Northamptonshire England
@@ -4038,6 +4039,7 @@ NH6HE,DI,WA,Seatle WA
 NH6O,Bob,3234,Honolulu HI
 NH6V,Rob,HI,Wailoloa HI
 NI0C,Chuck,431,Saint Louis MO
+NI0CK,Nick,CO,Windsor CO
 NI0N,Leon,MN,Lakeville MN
 NI0R,Roger,400,St. Joseph MO
 NI1L,Les,2713,Bridgewater MA
@@ -5038,6 +5040,7 @@ VE3OTW,Jon,ON,Streetsville ON
 VE3OU,Ernie,ON,Cambridge ON
 VE3PQ,Paul,ON,Georgian Bluffs ON
 VE3PVI,Tom,1735,Ingleside ON
+VE3QAM,Mark,ON,Waterloo ON
 VE3QN,Bryan,ON,Gloucester ON
 VE3RDE,Roger,2957,Ottawa ON
 VE3RIA,Drew,1025,Brantford ON
@@ -6275,7 +6278,7 @@ WP3A,Jaime,PR,Coamo PR
 WP3C,Al,872,Utuado PR
 WP3ME,Joel,FL,Miami FL
 WP4F,Danny,1526,Toa Alta PR
-WP4TZ,Manu,3512,(Manuel)  San Juan PR
+WP4TZ,Manu,3512,San Juan PR
 WQ2E,Jack,2054,Schenectady NY
 WQ3E,Josy,1135,Norristown PA
 WQ7O,Dennis,WA,Colbert WA

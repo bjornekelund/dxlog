@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
 # Contains members up to #4337
-# Last updated 2024-05-24
+# Last updated 2024-05-29
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
