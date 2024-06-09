@@ -32,6 +32,10 @@ DF1DT,Klaus
 DF1LK,Kevin
 DN6LK,Kevin
 DF1LX,Peter
+DF1VB,Joe
+DN1VB,Joe
+KH2MM,Joe
+DL0DT,Joe
 DF2DR,Hermann
 DF2FM,Peter
 DF2LH,Thomas
@@ -166,10 +170,9 @@ DK2GZ,Harry
 DK2LO,Olaf
 DK2OY,Manfred
 DK2PZ,Fred
-KD2PZ,Fred
 K2PZ,Fred
 EI2ET,Fred
-G5EF,Fred
+G5EFV,Fred
 DK2WU,Werner
 DK0TL,Werner
 DK2YL,Siggi

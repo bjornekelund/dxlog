@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4337
-# Last updated 2024-05-29
+# Contains members up to #4339
+# Last updated 2024-06-09
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -257,6 +257,7 @@ DF8DL=975
 DF8DU=2438
 DF8DX=2374
 DF8FE=609
+DF8FL=4339
 DF8KN=2742
 DF8KY=3779
 DF8NO=601
@@ -764,6 +765,7 @@ DL1FCZ=1785
 DL1FU=1406
 DL1FY=4085
 DL1GBZ=897
+DL1GER=4338
 DL1GGM=4034
 DL1GLC=3260
 DL1GQE=1695
