@@ -9,7 +9,7 @@ BEGIN {
   maxlen = 0;
 }
 {
-  call = $1;
+  call = toupper($1);
   name = $2;
   ID = toupper($3);
   if (call ~ /^[A-Z0-9/]{3,}$/ && (name != "" || ID != "")) {

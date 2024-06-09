@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-06-04
+# 1-Last Edit,2024-06-06
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -158,7 +158,6 @@ AA5LH,LEE,CO,Colorado Springs CO
 AA5N,,TN,
 AA5ND,JOHN,CA,Mission Viejo CA
 AA5NT,DICK,TX,
-AA5QA,,TX,
 AA5QA,LEE,TX,Athens TX
 AA5SH,MIKE,LA,
 AA5SR,DAVE,TX,
@@ -5897,7 +5896,6 @@ KR7M,BILL,AZ,Tucson AZ
 KR7O,,CA,
 KR7Q,Dennis,WA,Stevensville WA
 KR7W,RICKY,ID,
-KR7X,,OR,
 KR7X,HANK,OR,Beaverton OR
 KR8L,BILL,IL,Metropolis IL
 KR8P,BRAD,MI,Twin Lake MI
@@ -10991,7 +10989,6 @@ W3SA,JOHN,NC,
 W3SB,,PA,
 W3SD,STEVE,PA,
 W3SDZ,,PA,
-W3SE,,CA,
 W3SE,BILL,FL,
 W3SFG,STEVE,MD,
 W3SK,ROY,PA,
@@ -11970,7 +11967,6 @@ W6UDO,JOE,OR,
 W6UE,,CA,
 W6UG,PHIL,CA,Cardiff CA
 W6UJX,,CA,
-W6UM,,CA,
 W6UM,PHIL,CA,San Luis Obispo CA
 W6US,,CA,
 W6VNR,JOE,CA,
