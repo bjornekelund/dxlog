@@ -19,7 +19,7 @@ BE07=Namur
 BE08=Hainaut
 BE09=Luxemburg
 BE10=West Flanders
-BE011=East Flanders
+BE11=East Flanders
 # BULGARIA
 BG01=Severozapaden
 BG02=Severen tsentralen
@@ -107,7 +107,7 @@ FR16=Martinique
 FR17=Mayotte
 FR18=La Réunion
 FR19=Saint Martin
-FR20=France d'outre-mer (2)
+FR20=France d’outre-mer (2)
 # GERMANY
 DE01=Baden-Württemberg
 DE02=Bavaria

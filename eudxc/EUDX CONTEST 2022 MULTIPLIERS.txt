@@ -1,4 +1,4 @@
-	AUSTRIA
+AUSTRIA	
 AT01	Vienna
 AT02	Salzburg
 AT03	Lower Austria
@@ -8,7 +8,7 @@ AT06	Styria
 AT07	Tyrol
 AT08	Carinthia
 AT09	Vorarlberg
-	BELGIUM
+BELGIUM	
 BE01	Bruxelles-Capital Region
 BE02	Walloon Brabant
 BE03	Flemish Brabant
@@ -19,15 +19,15 @@ BE07	Namur
 BE08	Hainaut
 BE09	Luxemburg
 BE10	West Flanders
-BE011	East Flanders
-	BULGARIA
+BE11	East Flanders
+BULGARIA	
 BG01	Severozapaden
 BG02	Severen tsentralen
 BG03	Severoiztochen
 BG04	Yugoiztochen
 BG05	Yugozapaden
 BG06	Yuzhen tsentralen
-	CZECH REPUBLIC
+CZECH REPUBLIC	
 CZ01	Prague
 CZ02	South Bohemia
 CZ03	South Moravia
@@ -42,32 +42,32 @@ CZ11	Central Bohemia
 CZ12	Ustí nad Labem
 CZ13	Zlín
 CZ14	Vysočina
-	CYPRUS
+CYPRUS	
 CY01	Nicosia
 CY02	Famagusta
 CY03	Limassol
 CY04	Larnaca
 CY05	Paphos
-	CROATIA
+CROATIA	
 HR01	Central Croatia
 HR02	Central and Southern Adriatic (Dalmatia)
 HR03	East Croatia (Slavonia)
 HR04	North Adria&Lika
 HR05	North-West Croatia
-	DENMARK
+DENMARK	
 DK01	Region Hovedstaden
 DK02	Region Midtjylland
 DK03	Region Nordjylland
 DK04	Region Sjælland
 DK05	Region Syddanmark
 DK06	Overseas Countries and Territories (1)
-	ESTONIA
+ESTONIA	
 EE01	Northern Estonia (Harju County)
 EE02	Western Estonia (Hiiu County, Lääne County, Pärnu County, Saare County)
 EE03	Central Estonia (Järva County, Lääne-Viru County, Rapla County)
 EE04	Northeastern Estonia (Ida-Viru County)
 EE05	Southern Estonia (Jõgeva County, Põlva County, Tartu County, Valga County, Viljandi County, Võru County)
-	FINLAND
+FINLAND	
 FI01	Lapland
 FI02	North Ostrobothnia
 FI03	Kainuu
@@ -87,7 +87,7 @@ FI16	Kymenlaakso
 FI17	Uusimaa
 FI18	Southwest Finland
 FI19	Åland
-	FRANCE
+FRANCE	
 FR01	Auvergne-Rhône-Alpes
 FR02	Bourgogne-Franche-Comté
 FR03	Bretagne (Brittany)
@@ -107,8 +107,8 @@ FR16	Martinique
 FR17	Mayotte
 FR18	La Réunion
 FR19	Saint Martin
-FR20	France d'outre-mer (2)
-	GERMANY
+FR20	France d’outre-mer (2)
+GERMANY	
 DE01	Baden-Württemberg
 DE02	Bavaria
 DE03	Berlin
@@ -125,7 +125,7 @@ DE13	Saxony
 DE14	Saxony-Anhalt
 DE15	Schleswig-Holstein
 DE16	Thuringia
-	GREECE
+GREECE	
 GR01	Attica
 GR02	Central Greece
 GR03	Central Macedonia
@@ -139,7 +139,7 @@ GR10	South Aegean
 GR11	Thessaly
 GR12	Western Greece
 GR13	Western Macedonia
-	HUNGARY
+HUNGARY	
 HU01	Northern Hungary
 HU02	Northern Great Plain
 HU03	Southern Great Plain
@@ -147,12 +147,12 @@ HU04	Central Hungary
 HU05	Central Transdanubia
 HU06	Western Transdanubia
 HU07	Southern Transdanubia
-	IRELAND
+IRELAND	
 IE01	Leinster
 IE02	Ulster
 IE03	Munster
 IE04	Connacht
-	ITALY
+ITALY	
 IT01	Abruzzo
 IT02	Aosta Valley
 IT03	Puglia
@@ -174,28 +174,28 @@ IT18	Trentino-Alto Adige
 IT19	Toscana
 IT20	Umbria
 IT21	Veneto
-	LATVIA
+LATVIA	
 LV01	Riga
 LV02	Kurzeme
 LV03	Latgale
 LV04	Zemgale
 LV05	Vidzeme
 LV06	Selija
-	LITHUANIA
-LT01	North (Šiauliai County,  Panevėžys County)
+LITHUANIA	
+LT01	North (Šiauliai County, Panevėžys County)
 LT02	East (Vilnius County, Utena County)
-LT03	Central (Tauragė County,  Kaunas County)
+LT03	Central (Tauragė County, Kaunas County)
 LT04	West (Klaipėda County, Telšiai County)
-LT05	South ( Marijampolė County,  Alytus County)
-	LUXEMBOURG
+LT05	South ( Marijampolė County, Alytus County)
+LUXEMBOURG	
 LX01	Luxembourg
-	MALTA
+MALTA	
 MT01	San Ġwann
 MT02	Gozo Region
 MT03	Northern Region
 MT04	South Eastern Region
 MT05	Southern Region
-	THE NETHERLANDS
+THE NETHERLANDS	
 NL01	Drenthe
 NL02	Flevoland
 NL03	Friesland
@@ -209,7 +209,7 @@ NL10	South Holland
 NL11	Utrecht
 NL12	Zeeland
 NL13	Overseas Countries and Territories (3)
-	POLAND
+POLAND	
 PL01	Greater Poland
 PL02	Kuyavia-Pomerania
 PL03	Lesser Poland
@@ -226,7 +226,7 @@ PL13	Subcarpathia
 PL14	Holy Cross Province
 PL15	Warmia-Masuria
 PL16	West Pomerania
-	PORTUGAL
+PORTUGAL	
 PT01	Açores
 PT02	Alentejo
 PT03	Algarve
@@ -234,7 +234,7 @@ PT04	Centro
 PT05	Lisboa e Vale Do Tejo
 PT06	Madeira, AF
 PT07	Norte
-	ROMANIA
+ROMANIA	
 RO01	Nord-Est development region
 RO02	Sud-Est development region
 RO03	Sud – Muntenia development region
@@ -243,7 +243,7 @@ RO05	Vest development region
 RO06	Nord-Vest development region
 RO07	Centru development region
 RO08	București – Ilfov development region
-	SLOVAKIA
+SLOVAKIA	
 SK01	Bratislava
 SK02	Trnava
 SK03	Trenčín
@@ -252,14 +252,14 @@ SK05	Žilina
 SK06	Banská Bystrica
 SK07	Prešov
 SK08	Košice
-	SLOVENIA
+SLOVENIA	
 SI01	Primorska
 SI02	Osrednja Slovenija
 SI03	Koroška
 SI04	Štajerska
 SI05	Prekmurje
 SI06	Ljubljana mesto
-	SPAIN
+SPAIN	
 ES01	Andalusia
 ES02	Catalonia
 ES03	Community of Madrid
@@ -279,7 +279,7 @@ ES16	Cantabria
 ES17	La Rioja
 ES18	Ceuta, AF
 ES19	Melilla, AF
-	SWEDEN
+SWEDEN	
 SE01	Stockholm
 SE02	Uppsala
 SE03	Södermanland
