@@ -1,9 +1,10 @@
 # Call history file for EU_DXC Contest
 # From raw and final score of 2024 Contest by OK1FIK
-# Last Edit,2024-06-06
+# Last Edit,2024-06-10
 # Send new info or corrections DIRECT  to ok1fik@atlas.cz
 # Update sent also to ve2fk@arrl.net
-# Updated from raw and final score of 2024 Contest, 
+# Updated from raw and final score of 2024 Contest,
+# EU_DXC 
 3Z9V=PL03
 4U1A=AT01
 4U9A=IT03
