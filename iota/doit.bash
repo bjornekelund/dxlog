@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls IOTA-* | tail -1 2> /dev/null`
+FILE=`ls IOTA_2* | tail -1 2> /dev/null`
 DBFILE=IOTA_db.txt
 XDTFILE=IOTA.xdt
 

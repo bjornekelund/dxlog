@@ -54,6 +54,7 @@ BEGIN {
       if (call ~ /^HB[1-9]/) ID = "HB";
       if (call ~ /^HC/) ID = "HC";
       if (call ~ /^HK/) ID = "HK";
+      if (call ~ /^(HL|DS)/) ID = "HL";
       if (call ~ /^HR/) ID = "HR";
       if (call ~ /^I[0-9,K-N,T-Z]/) ID = "I";
       if (call ~ /^IS0/) ID = "IS0";

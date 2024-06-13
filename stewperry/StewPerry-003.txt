@@ -2,6 +2,23 @@
 # Call history file for HF contests with four-position grid as exchange
 # Created by merging StewPerry-002.txt, Russian160_CallHist.txt,
 # and collecting disagreeing grids from qrz.com.
+# Thanks to Bjorn SM7IUN
+# LastEdit,2024-05-29
+# Send info, correction direct to ve2fk@arrl.net
+# ARRLIDC
+# ARRLVHFJAN 
+# ARRLVHFJUN 
+# ARRLVHFSEP 
+# CQWWVHF 
+# GRIDCHRTTY 
+# MAKRORTTY
+# RUSSIAN160
+# STEWPERRY 
+# TARAGRID 
+# WWDIGI 
+# SEQP
+# ECLIPSE
+
 2E0BPP,,IO83,
 2E0CVN,,JO01,
 2E0FTT,,IO94,
@@ -6896,6 +6913,7 @@ N4IPB,,EM73,
 N4IQ,,EM84,
 N4IR,,EM86,
 N4IS,,EL96,
+N4IW,,FM07,
 N4JED,,FM07,
 N4JF,,EM63,
 N4JIK,,EM04,

@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2024-05-20 
+# Last Edit,2024-06-12 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks Rob G4LMW, Paul G4PVM for update
@@ -70,10 +70,11 @@
 6Y,,NA097,
 6Y5WJ,,NA097,Jamaica
 7D5X,,OC245,Rupat
+7E4C,,OC144,Ketawai By TEAM
 7K1CPT,,AS007,Honshu
 7K1EQG,TOMOHIKO,AS007,Honshu
 7K1MAG/2,,AS007,Honshu
-7K4VPV,AS007,Honshu
+7K4VPV,,AS007,Honshu
 7L3DRK,,AS007,Honshu
 7M1MCY,,AS007,Honshu
 7N2UQC,,AS007,Honshu
@@ -578,6 +579,7 @@ GD3TTC,,EU116,Isle of Man
 GD4EIP,,EU116,Isle of Man
 GD4RFZ,,EU116,Isle of Man
 GD6AD,,EU116,Isle of Man
+GD6EFW,,EU116,Isle of Man ON6EF ON1BN
 GD6IA,,EU116,Ilse of Man
 GG4VMX,,EU005,Great Britain
 GI,,EU115,Main Island of Ireland
@@ -725,7 +727,7 @@ IM0P,,EU165,
 IO0C,,EU024,
 IO9Z,,EU025,Sicily
 IP1T,,EU083,Tino,
-IP1X,,EU083,Gallinara
+IP1X,,EU083,Gallinara DXP 24/H LP
 IQ3AZ,,EU130,La Schiusa
 IQ3JT,,EU130,Santa Maria di Barbana
 IQ7HK,,EU091,Capezzone,
@@ -782,6 +784,7 @@ J39BS,DEREK,NA024,
 J45K,,EU001,
 J45KLN,GORAN,EU001,
 J48A,,EU075,Aegina,
+J48FT,,EU067,Tinos DXP mixed
 J48J,,EU075,Aegina DXP 
 J48JJ,,EU072,
 J48K,,EU052,Kastos
@@ -1247,6 +1250,7 @@ P3X,,AS004,Cyprus
 P4,,SA036,
 P43E,,SA036,Aruba,
 PA0HFT,HANK,EU038,
+PA2G,,EU146,Schouwen Duiveland HP M1 24/H
 PA2JJB,JAN,EU038,Texel,
 PA2SWL,JIM,EU038,
 PA38EU,,EU038,Texel
@@ -1355,6 +1359,7 @@ SE5S,,EU084,Graso,
 SF1Z,Jens,EU020,Gotland  (SM0HEV)
 SK3T,,EU176,Agon DXP
 SK7OA,,EU138,
+SM/OV2E,,EU138,Senoren multi-mode
 SM0HRP,,EU084,Singo
 SM0JCA,Erik,EU084,South Ljustero island	
 SM0N,Erik,EU084,South Ljustero island

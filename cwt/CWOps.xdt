@@ -104,6 +104,7 @@ AC0W Bill #1564 Austin MN
 AC1FE Rich #783 Hancock NH (VE3KI)
 AC2FA Bob #1026 Getzville NY
 AC2KJ Dima #1376 East Setauket NY
+AC3JX Lisa #3559 Prospect PA
 AC3RA Rich #3300 Pittsburgh PA
 AC3U Bill #1699 St Marys City MD (W3UL Remote)
 AC4BT Jerry #1148 Herndon VA (CW Academy Mgr.)
@@ -122,6 +123,7 @@ AD0AB Jim #2114 Lenexa KS
 AD0IU Rob #864 Longmont CO
 AD0WE Kurt #2167 Manhattan KS
 AD1C Jim #131 Brighton CO
+AD2CC Saeid #3547 Cranboury NJ
 AD4EB Jim #867 Thompsons Stn TN
 AD4ES Chuck #2044 Melbourne FL
 AD4J Jim #1144 Norcross GA
@@ -354,6 +356,7 @@ EA8DNT Glen #2178 Lanzarote Canary Isl. (also GW4MVA)
 EA8KW Carlos #1565 Las Palmas Canary Island
 EA8OM Heijo #425 Puerto de la Cruz Canary Island (DJ1OJ)
 EA8ZS Manuel #907 Las Palmas Canary Island
+EC6PG Xisco #3555 Spain
 EC7ABV Tony #1558 Cadiz Spain
 EF8M Val #536 Canary Island (UA3DX)
 EF8N Andy #265 El Sauzal Canary Island
@@ -401,6 +404,7 @@ G0MGM Rob #1771 Bourne End England
 G0OBQ Gerry #3385 Whitley Bay England
 G0OOD Tim #2941 Norwich England
 G0OOR Tony #2971 Norfold England
+G0PDZ Ian #3556 Kent England
 G0TPH Al #2956 Desford England (Been heard QRP)
 G0TRT Cie #3429 Warminster England
 G0TZZ Chris #3387 Sporle England
@@ -442,6 +446,7 @@ G4ILW James #1729 London England
 G4IRN John #268 Thames Ditton England
 G4IVV Jon #3455 Cambridgeshire England
 G4IZZ Mike #2511 Cheltenham England
+G4KKU Andy #3562 Bristol
 G4KLE Merv #3283 Huntingdon England
 G4KQY Mike #2987 Norwich England
 G4LPP Phil #2547 Sutton Norfolk England
@@ -1091,6 +1096,7 @@ K8SIA Jim #748 Brighton MI
 K8UDH Bruce #1654 Wausa NE (QTX Mgr.)
 K8UT Larry #1672 Whitmore Lake MI
 K8VA Mike #2468 Trenton MI
+K8WS Glenn #3553 Mount Vernon OH
 K8WWS Bill #2621 Middletown OH
 K8XCO CHAR #3543 (Charlene) Mancelona MI
 K8XF Mike #1379 New Port Richey FL
@@ -1477,6 +1483,7 @@ LA4XX Hal #989 Heimdal Norway
 LA6PH John #2448 Isle of Hvaasser Norway
 LA8OM Chris #1848 Hafrsfjord Norway
 LB1GB Bjorn #992 Oslo Norway
+LB1KJ Erik #3551 Bergen Norway
 LB3RE Rag #933 Broabakken Norway
 LC0X Rag #933 Broabakken Norway
 LJ3RE Rag #933 Broabakken Norway also LB3RE
@@ -1948,6 +1955,7 @@ NG7W Matt #1586 Bow WA
 NG9T Gary #1936 Blounts Creek NC
 NH6O Bob #3234 Honolulu HI
 NI0C Chuck #431 Saint Louis MO
+NI0CK Nick #3550 Windsor CO
 NI0R Roger #400 St. Joseph MO
 NI1L Les #2713 Bridgewater MA
 NI4E Eric #1372 Charleston WV
@@ -2053,6 +2061,7 @@ NZ3O Byron #2026 West Chester PA
 NZ8J Tim #1217 Fairborn OH
 OE1TKW Helmut #2770 Wien Austria
 OE3GSA Gerd #537 Wolfsbach Austria
+OE3KME Martin #3557 Golling an der Erlauf Austria
 OE5FIN Fritz #2193 Hofkirchen Austria
 OE5TXF Nigel #166 (G3TXF) near Wels Austria
 OE6FYG Herb #1661 Fuerstenfeld Austria
@@ -2448,6 +2457,7 @@ VK8XX Joe #339 Floyd VA USA
 VO1AAM Yuri #21 also VE3DZ
 VO1BQ Joe #1325 St-John NL
 VO1HP Frank #684 St-John's NL
+VO1KGZ Gord #3552 St Johns NL
 VO1TTT Mike #1347 VE9AA Newfoundland
 VO1WIN Gerry #191 (W1VE)
 VO2AC Chris #2778 (VE3FU) Goose Bay NL
@@ -2666,6 +2676,7 @@ W4PA Scott #102 Knoxville TN
 W4PF Steve #2056 Louisville KY
 W4PM Puck #93 Mechanicsville VA
 W4QN Norm #1937 Jupiter FL
+W4RJF Ron #3548 Raleigh NC
 W4RK Bill #459 Jefferson City MO
 W4RKU Kevin #1978 Boston VA
 W4RM Bill #2330 Nokesville VA
@@ -2779,6 +2790,7 @@ W7JKC John #3313 Kyle TX
 W7JRD Jim #2994 Hope ID
 W7KF Doug #2183 Whitefish MT
 W7KXB Bill #1042 Apache Junction AZ
+W7LC Bill #3549 Idaho Falls ID
 W7LG Mike #2682 Lewistown PA (Been heard QRP)
 W7LXN Myron #1166 Gilbert AZ
 W7OLY Aubrey #1637 Olympia WA
@@ -2901,7 +2913,6 @@ WA7KJ Den #2863 Washougal WA
 WA7KVI Wes #2729 Auburn WA
 WA7LNW Jack #2454 Washington UT
 WA8IWK Allen #1061 West Bloomfield MI
-WA8KAN Dave #1961 Parkersburg WV
 WA8OJR Bruce #1850 Spartanburg SC
 WA8VSJ Art #674 Delray Beach FL
 WA8Y/M Steve #2289 Midland MI
@@ -2922,6 +2933,7 @@ WB2KAO Tim #2188 Rochester NY
 WB2PJH Dave #3195 Bridgewater NJ
 WB2UZE How #1361 Manhasset NY
 WB2WGX Rich #2630 Buffalo NY
+WB2WJF Ross #3558 Lantana FL
 WB3EGD Rich #3122 Hazleton PA
 WB3LJQ Vincent #3120 Latrobe PA
 WB4AEG Hal #1646 Adairsville GA
@@ -2967,6 +2979,7 @@ WC7S Dale #404 College Drive Cheyenne WY
 WD0END Ron #3018 Chanhassen MN
 WD4CFN Steve #2228 Nashville TN
 WD4EX Val #1546 Atlanta GA
+WD4MSM Barry #3546 South Bens IN
 WD5DBV Roy #290 Cade LA
 WD5GRW Jim #3245 Allen TX
 WD5HCK Russ #3263 Ardmore OK
@@ -3014,6 +3027,7 @@ WP4F Danny #1526 Toa Alta PR
 WP4TZ Manu #3512 San Juan PR
 WQ2E Jack #2054 Schenectady NY
 WQ3E Josy #1135 Norristown PA
+WQ5T Sally #3554 Sprindale AR
 WR4T Ted #2879 Cincinnati OH
 WR5J Curt #1362 Seattle WA
 WR5U Mike #89 New Iberia LA
@@ -3044,6 +3058,7 @@ WU6X/4 Dennis #1632 (could be RV)
 WU7F Mark #1351 Centerville UT
 WU7X Dale #3260 Spokane WA
 WV1D Pat #2854 Weymouth MA (Been heard QRP)
+WW2I Peter #3561 Pittstown NJ
 WW3S Jim #2775 (Jamie) Meadville PA
 WW5W Jeff #3115 Houston TX
 WW8D Tom #3131 Salem VA
@@ -3063,6 +3078,7 @@ XK1AAA Gerry #191 (W1VE)
 XV2W Larry #1209 Ho Chi Minh City Vietnam
 XV9D Mats #1820 Phan Thiet Vietnam
 YB0ECT Pri #3453 Jakarta Indonesia
+YE1GXQ Geo #3560 Bogor Indonesia
 YE4FNN Abet #3510 Bangka Osl. Indonesia
 YL1ZF Kas #2256 Riga Latvia
 YL3JD Hanz #2227 Ikskile Latvia
