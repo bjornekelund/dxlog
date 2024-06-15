@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls ALLASIA_* | tail -1 2> /dev/null`
+FILE=`ls ALLASIACW_* | tail -1 2> /dev/null`
 OUTFILE=ALLASIAN_db.txt
 
 echo Parsing $FILE
