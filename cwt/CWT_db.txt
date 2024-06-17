@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3588
-# Last updated 2024-06-15
+# Last updated 2024-06-17
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -4750,6 +4750,7 @@ SV2KF=George;SV
 SV2SKD=Panos;3410
 SV3CEI=Nick;SV
 SV4/SV1DAY=Manos;SV
+SV4SUR=Helena;3565
 SV5BYR=Mike;SV5
 SV8PMM=Panos;SV
 SV8SXF=KOSTAS;SV

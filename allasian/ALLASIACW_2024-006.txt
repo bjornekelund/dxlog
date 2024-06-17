@@ -2,7 +2,6 @@
 !!Order!!, Call,Exch1,
 # Age edited for 2023 to be editted for 2024
 # ALLASIACW
-# JARTSWWRTY
 # LastEdit,2024-06-15
 # Original file from IZ/W0IZ 
 # Send new info or corrections direct to ve2fk@arrl.net

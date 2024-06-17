@@ -3,7 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-06-14
+# Last Edit,2024-06-16
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -4769,6 +4769,7 @@ SV2KF,George,,Hellas Greece
 SV2SKD,Panos,3410,Palio Keramidi Greece
 SV3CEI,Nick,,
 SV4/SV1DAY,Manos,SV,
+SV4SUR,Helena,3565,Near city of Volos Greece
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
 SV8SXF,KOSTAS,,KASPAKAS Greece
