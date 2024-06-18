@@ -1,11 +1,16 @@
 
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
-# Last Edit,2023-06-07 
-# Original file from Mike W1MI 2023-05-17
-# Cleaned and converted to 2023 RAC sections by Bjorn SM7IUN
+# FDGOTA
+# Last Edit,2024-06-18 
+# Original file from Mike W1MI 
+# 
 # Send new info/corrections  DIRECT  ve2fk@arrl.net
-7L4IOU,1D,DX,
+# FDGOTA is the new name/callhistory for both FD and FDGOTA.
+# Thanks Bjorn SM7IUN for his help
+# Could not get 2023 FD results from ARRL to update, so we will
+# use 2023 file with update from users.
+
 AA0AC,1D,MN,Spirit Valley Amateurs
 AA0AJ,1D,MN,
 AA0AW,1D,MN,
@@ -1055,6 +1060,7 @@ K0DZX,1D,KS,
 K0EHR,1B,CO,
 K0EMT,1E,IN,Mid-MO ARC
 K0EOR,3A,MO,Eastern Ozarks ARC
+K0ETY,2A,MO,Mid-MO ARC (GOTA)
 K0EU,1B,CO,
 K0FE,1D,SC,Greer ARC
 K0FJ,1D,KS,Trojan ARC
@@ -1471,6 +1477,7 @@ K2HJ,1D,WNY,
 K2HT,1E,MO,
 K2HYD,1B,VA,Valley and Massanutten ARA
 K2I,4A,NNY,Thousand Islands Radio Club
+K2IN,2A,NNJ,444 DX Grp.
 K2IQ,2A,WNY,Utica ARC
 K2IW,1A,ENY,
 K2IWR,3A,WNY,Skyline ARC
@@ -1664,7 +1671,7 @@ K3HKI,2A,MDC,St. Mary's Co. ARA
 K3HMA,3A,MDC,Easton ARS
 K3IDE,2D,NC,
 K3IEC,3A,EPA,Cumberland ARC
-K3II,1A,EPA,Berger's Bandits Contest Club
+K3II,2A,EPA,Berger's Bandits Contest Club
 K3III,1B,WV,Signal Hill ARC
 K3ILC,1D,CO,Pikes Peak Radio Amateur Assn
 K3IMC,1D,GA,LaGrange ARC
@@ -7167,7 +7174,7 @@ KY4WIN,1D,KY,
 KY4X,2A,KY,Mammoth Cave ARC
 KY5M,1D,NTX,Johnson County ARC
 KY6M,1D,SB,
-KY7M,1E,AZ,
+KY7M,1B,CO,
 KY9I,1B,KY,Paducah ARA
 KZ0FOX,1D,NTX,McKinney ARC
 KZ1G,2B,UT,South Valley Radio Guys
@@ -8089,7 +8096,7 @@ N4PRS,1D,NC,Pamlico ARS
 N4PSS,1A,VA,(AA4WC GOTA) Warren Co. EmComm Group
 N4PVH,1E,NC,Brightleaf ARC
 N4PWG,1D,TN,Reelfoot ARC
-N4PX,2A,TN,Hardin and McNairy ARC
+N4PX,3A,TN,Hardin and McNairy ARC
 N4PY,1D,NC,Mila's Field Day Group
 N4QEP,1D,NFL,Santa Rosa Co. ARES
 N4QET,1B,NC,Etowah Valley ARC
@@ -9987,7 +9994,7 @@ VE2ZM,1B,QC,
 VE2ZS,1D,QC,Club Sation Répétitrice de Laval
 VE2ZWA,1D,QC,Club Radio Amateur de Quebec
 VE2ZYD,1D,QC,
-VE3AC,1D,GH,North Shore ARC (ON)
+VE3AC,,ONN,North Shore ARC (ON)
 VE3ACW,1E,ONS,London ARC
 VE3AIH,1D,ONE,Seaway Valley ARC
 VE3AIR,1E,ONE,Manotick ARG
@@ -10340,7 +10347,7 @@ VE6FT,1A,AB,Mayerthorpe Flying Tigers
 VE6FXL,1B,AB,Calgary ARA
 VE6GCM,1D,AB,
 VE6GRT,1E,AB,
-VE6JF,1D,AB,
+VE6JF,1B,AB,
 VE6JHH,1D,AB,Foothills ARS (AB)
 VE6JHK,1B,AB,Central Alberta ARC
 VE6KJA,1D,AB,
@@ -10496,7 +10503,7 @@ W0AAE,1D,WMA,
 W0ADL,1D,MN,Anoka Co. Radio Club
 W0AH,1D,WI,Wisconsin ARC
 W0AJ,1D,MO,Raytown ARC
-W0AK,3A,IA,Des Moines Radio Amateurs Assn.
+W0AK,5E,IA,Des Moines Radio Amateurs Assn.
 W0ALX,3A,MN,Runestone ARC
 W0AMR,1D,CO,
 W0AMT,1B,NM,
@@ -10528,6 +10535,7 @@ W0CN,1D,VA,W3AO Team
 W0CO,1B,CO,
 W0COE,1D,MN,Mining ARC/St. Paul (MN) Radio Club
 W0CP,1D,CO,High Desert Wireless
+W0CPH,5A,CO,Colorado Party Hams
 W0CQC,2A,CO,Colorado QRP Club
 W0CW,1D,MO,Carbon Co. DXCC
 W0CWO,1B,MN,Minnesota Wireless Assn
@@ -10928,7 +10936,7 @@ W1SKU,1D,MI,Oakland Co. ARS
 W1SMH,2A,EMA,Sturdy Memorial Hospital ARC
 W1SR,1D,AZ,Oro Valley ARC
 W1SRD,1D,SV,El Dorado County ARC
-W1SRG,1B,EMA,Southborough Rod & Gun ARC
+W1SRG,4D,WMA,Southborough Rod & Gun ARC
 W1STR,3A,EMA,Sci-Tech ARS
 W1SYE,2A,RI,Newport Co. Radio Club
 W1TBM,1D,MO,Eastern Ozarks ARC
@@ -11214,7 +11222,7 @@ W3CEB,1D,MDC,
 W3CF,1E,NFL,
 W3CG,1D,WPA,Union City Wireless Assn.
 W3CHB,1D,MDC,Columbia (MD) ARA
-W3CQ,2A,VA,(K4CQ GOTA) Lynchburg ARC
+W3CQ,3A,VA,(K4CQ GOTA) Lynchburg ARC
 W3CRZ,1E,OH,CRES ARC
 W3CSL,3A,WPA,Monessen ARC
 W3CU,2A,MDC,Maryland Mobileers ARC
@@ -12944,7 +12952,7 @@ W9PL,1D,WWA,Radio Club of Redmond
 W9PLW,1D,IN,Indianapolis RC
 W9QB,1D,IL,Bolingbrook ARS
 W9QL,2F,IL,(K9IQP GOTA) Lake Co. RACES/ARES
-W9RCA,3A,IN,(W9SU GOTA) Indy United ARC
+W9RCA,4A,IN,(W9SU GOTA) Indy United ARC
 W9RDA,1B,IL,
 W9REG,2A,IN,Tippecanoe ARA
 W9RH,5A,WI,Milwaukee Radio Amateurs' Club
@@ -12957,7 +12965,7 @@ W9SE,1D,IL,
 W9SIR,4A,IN,(W9OG GOTA) Tri-State ARS
 W9SRC,3A,IL,Suburban Technical ARS
 W9STS,1E,SC,Fox River Radio League
-W9SU,3A,IN,Indy United ARC
+W9SU,4A,IN,Indy United ARC
 W9SW,2A,IL,Chicago Suburban Radio Assn.
 W9SZ,1B,IL,
 W9TA,1D,WI,Sheboygan Co. ARC
