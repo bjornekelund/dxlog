@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3588
-# Last updated 2024-06-17
+# Last updated 2024-06-20
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1239,6 +1239,7 @@ IT9VDQ=Giu;1538
 IU0HMB/M=Vlado;I
 IU0HMB=Vlado;I
 IU1MRY=Fabrizio;I
+IU2OZU=Marco;I
 IU3BRO=Tilio;I
 IU3QEZ=Simo;3506
 IU4APC=Andrea;I
@@ -2915,7 +2916,7 @@ KM7Q=Bob;1353
 KM7W=Chris;1576
 KM9M=Zig;854
 KM9R=Mike;1502
-KN2D=Ken;FL
+KN2D=Ken;3566
 KN2X=John;NY
 KN4DEB=Arnie;2658
 KN4IIY=Eric;FL
@@ -3007,6 +3008,7 @@ KS0MO=KC;KS
 KS3K=Steve;FL
 KS3N=Tom;CWA
 KS4BG=ED;TN
+KS4E=John;VA
 KS4L=Randy;AL
 KS4S=Wil;NC
 KS5A=Guff;391
@@ -3138,6 +3140,7 @@ LU3MAM=Osvaldo;LU
 LU5DX=Martin;2986
 LW5HR=Diego;LU
 LX/DJ1YFK=Fabian;1566
+LX/PA2PIM=PIM;LX
 LX1NO=Norby;LX
 LY2AX=Arunas;LY
 LY2CO=Rimas;LY
@@ -3244,6 +3247,7 @@ MM2D=Phil;1583
 MM2T=Phil;3456
 MM3AWA=Gord;GM
 MM3AWD=Scott;GM
+MM7BFL=Laura;GM
 MM9I=John;GM
 MW0SAW=Steve;3486
 MX0ROA=DUKE;3365
@@ -4488,6 +4492,7 @@ PG4I=Jo;2225
 PG6F=Dick;3175
 PG7V=Jan;PA
 PJ2/NF9V=Rudy;593
+PJ2/W4IPC=Bob;PJ2
 PJ4K=Dave;232
 PJ4LS=Hans;849
 PJ7AA=Tom;1092

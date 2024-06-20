@@ -3,7 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-06-16
+# Last Edit,2024-06-19
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -1248,6 +1248,7 @@ IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
 IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
 IU1MRY,Fabrizio,I,Omegna Italy
+IU2OZU,Marco,,Gessate Italy
 IU3BRO,Tilio,,Padova Italy
 IU3QEZ,Simo,3506,Thiene Italy
 IU4APC,Andrea,,Cesena FC Italia
@@ -2924,7 +2925,7 @@ KM7Q,Bob,1353,Portland OR
 KM7W,Chris,1576,Bozeman MT (West Coast WWYC)
 KM9M,Zig,854,Lemont IL
 KM9R,Mike,1502,Reno NV
-KN2D,Ken,FL,Longwood FL
+KN2D,Ken,3566,Longwood FL
 KN2X,John,NY,Wurtsboro NY
 KN4DEB,Arnie,2658,Spotsylvania VA
 KN4IIY,Eric,FL,Winter Park FL
@@ -3016,6 +3017,7 @@ KR8V,Gary,1043,Clinton Township MI
 KR9U,Jim,IN,Fort Wayne IN
 KS0MO,KC,KS,Kansas City RC
 KS3K,Steve,FL,Boynton Beach FL
+KS4E,John,VA,Burke VA
 KS3N,Tom,CWA,New Kensington PA
 KS4BG,ED,TN,LaFollette TN
 KS4L,Randy,AL,Huntsville AL
@@ -3152,7 +3154,7 @@ LU3MAM,Osvaldo,,(L33M) Mendoza Argenetina
 LU5DX,Martin,2986,Lujan Argentina
 LW5HR,Diego,,Cordoba Argentina
 LX/DJ1YFK,Fabian,1566,
-LX/PA2PIM,,PIM,
+LX/PA2PIM,PIM,LX,
 LX1NO,Norby,,Strassen Luxembourg
 LY2AX,Arunas,,Kaunas Lithuania
 LY2CO,Rimas,,Mazeikiai Lithuania
@@ -3259,6 +3261,7 @@ MM2D,Phil,1583,(G4NVR)  IO88CB NE Scotland
 MM2T,Phil,3456,Wishaw (GM0LIR)
 MM3AWA,Gord,,Peterhead Scotland
 MM3AWD,Scott,,Scotland (QRP)
+MM7BFL,Laura,,Dailly Scotland
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
 MW0SAW,Steve,3486,Pontypridd Wales
 MX0ROA,DUKE,3365,Radio Oficers Association
@@ -4455,7 +4458,7 @@ PA1LIO,Adriaan,,Eemnes Netherlands
 PA1T,Tim,,Woudbloem Netherlands
 PA2A,Steve,3346,Brielle Netherlands
 PA2G,Gerard,3107,Capelle Ann Den IJssel Netherlands
-PA2PIM,PIM,,Houten Netherlands
+PA2PIM,PIM,PA,Houten Netherlands
 PA2RG,Roel,3326,Vleuten Netherlands
 PA2SQ,Simon,,Espel Netherlands
 PA2ST,Ben,2897,Spijkenisse Netherlands
@@ -4504,7 +4507,7 @@ PG4I,Jo,2225,(Joop)  Culemborg Netherlands
 PG6F,Dick,3175,Heemstede Netherlands
 PG7V,Jan,,Hulshorst Netherlands
 PJ2/NF9V,Rudy,593,
-PJ2/W4IPC,Bob,,Curacao (@PJ2T)
+PJ2/W4IPC,Bob,PJ2,Curacao (@PJ2T)
 PJ4K,Dave,232,(N3RD)
 PJ4LS,Hans,849,Bonaire Netherland Antillies
 PJ7AA,Tom,1092,(AA9A)  Saint Maarten

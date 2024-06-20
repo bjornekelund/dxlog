@@ -3,9 +3,18 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2024-06-11
+# Last Edit,2024-06-19
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+
+DK6XT,JO,,Harsefeld Germany
+K1PLL,LUIS,,Watertown MA
+KB9YOX,ADAM,,Indianapolis IN
+KC3VWK,DAVE,,Kennett Square PA
+KC4M,AL,,West End NC
+KI5WLJ,SCOTT,,Katy TX
+KN4MLR,Russ,,Louisville KY
+WJ4M,JIM,,San Anton io TX
 
 N1AIA,Scott,
 AJ4MY,RYAN,,Hephzibah GA
