@@ -3,7 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-06-21
+# Last Edit,2024-06-22
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -1691,6 +1691,7 @@ K3JSJ,Jason,MD,Bowie MD
 K3JST,John,PA,Johnstown PA
 K3JT,Terry,1398,Morgantown WV
 K3JWI,Ken,3378,Harrijson TN
+K3LB,Larry,3567,Nashville GA
 K3LR,Tim,943,West Middlesex PA
 K3MD,John,750,Winfield PA  (NE-US Amb.)
 K3MIY,Ron,PA,Clarion PA
@@ -3954,7 +3955,7 @@ NA1VT,Andy,2050,Wilder VT
 NA2AA,David,1198,WAYNE NJ
 NA2CC,Chas,CA,(Charles)  Fairfield CA
 NA2M,Bill,NY,Mohegan Lake NY
-NA2MM,Joe,NY,Islip NY
+NA2MM,Joe,3568,Islip NY
 NA2N,Greg,FL,Apollo Beach FL
 NA2U,Fred,2455,Phoenix AZ
 NA3M,Nick,MD,Gaithersburg MD
