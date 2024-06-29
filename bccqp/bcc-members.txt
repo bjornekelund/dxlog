@@ -218,6 +218,7 @@ DK9BM,Mike
 DK9IP,Winfried
 DK9OV,Roland
 DK9TN,Christoph
+DL1ASA,Tom
 DL1BUG,Red
 DL1DJH,Dominik
 DN1DH,Dominik
@@ -287,6 +288,9 @@ DL3NC,Marcus
 DL3ON,Leon
 DL3RY,Achim
 DL3UB,Ulf
+DL3YM,Andy
+CN2YM,Andy
+XV9YM,Andy
 DL4FN,Peter
 DL4GBA,Wilfried
 DL4HG,Olaf
@@ -450,6 +454,9 @@ V31CW,Alex
 KU7T,Andy
 LX1ER,Joel
 LX1MK,Raymond
+LX2A,Philippe
+LX7I,Philippe
+LX9DX,Philippe
 M0SDV,Jamie
 M7K,Jamie
 NN7CW,Wolf

@@ -169,7 +169,6 @@ CK3LYC       1994 Cezar (VE3LYC)
 CK3TM        2174 Vlad (VE3TM)
 CK3USP       2010 Pista (VE3USP)
 CK3VA        1753 Jeff (VE3VA)
-CK7AHA       1963 Andy (VE7AHA)
 CK7CC        1544 Lee (VE7CC)
 CN2MF        1634 Mike (KC7V)
 CN2OA        1174 Mike (F3OA)
@@ -664,7 +663,7 @@ KO8SCA       2143 Adrian
 KP2/KZ5D     1761 Art (KZ5D)
 KP3W         2184 Jose
 KP4DX        2214 Luis
-KP4FOC       1965 Alfredo (WP3C)
+KP4FOC       2214 Luis (KP4DX)
 KP4P         1594 Tele
 KR2FOC       1971 Rich (W2VT)
 KR2Q         2202 Doug
@@ -867,10 +866,10 @@ OQ3R         1493 Mar
 OU5E         2073 Jalmar (OZ8CW)
 OV2QRP       2099 Kim (OZ2A)
 OV7X         2192 Rene (DL2JRM)
-OX24KING     1376 Peter (OX3XR)
-OX24QUEEN    1376 Peter (OX3XR)
-OX3XR        1376 Peter
-OX50HRH      1376 Peter (OX3XR)
+OX24KING     1376 Peter (OZ6XT)
+OX24QUEEN    1376 Peter (OZ6XT)
+OX3XR        1376 Peter (OZ6XT)
+OX50HRH      1376 Peter (OZ6XT)
 OY/LA9SN     2225 Harald (OZ8X)
 OY1CT        1668 Caen
 OZ/LA9SN/p   2225 Harald (OZ8X)
@@ -880,7 +879,7 @@ OZ2A         2099 Kim
 OZ4UN        1554 Paul
 OZ5DX        1211 Hans
 OZ60VHSC     2073 Jalmar (OZ8CW)
-OZ6XT        1376 Peter (OX3XR)
+OZ6XT        1376 Peter
 OZ8CW        2073 Jalmar
 OZ8RO         494 Rag (LA5HE)
 OZ8SW        2018 Steen
@@ -1032,7 +1031,6 @@ VE3LYC       1994 Cezar
 VE3TM        2174 Vlad
 VE3USP       2010 Pista
 VE3VA        1753 Jeff
-VE7AHA       1963 Andy
 VE7CC        1544 Lee
 VE7SV        2103 Dale (CE2SV)
 VE9CB        2141 Dave (VE3KG)
@@ -1106,7 +1104,6 @@ VX3LYC       1994 Cezar (VE3LYC)
 VX3TM        2174 Vlad (VE3TM)
 VX3USP       2010 Pista (VE3USP)
 VX3VA        1753 Jeff (VE3VA)
-VX7AHA       1963 Andy (VE7AHA)
 VX7CC        1544 Lee (VE7CC)
 VY1JT        1067 Jim (N3JT)
 VY2IA        1740 Yuri (VE3DZ)
@@ -1227,7 +1224,7 @@ WW4CW        1749 John (K4WJ)
 WX3M         1927 Milt (K4OSO)
 XF2LF        1741 Lee (KY7M)
 XM3T         1740 Yuri (VE3DZ)
-XP3A         1376 Peter (OX3XR)
+XP3A         1376 Peter (OZ6XT)
 XQ3CJ        2052 Motoaki (JA1GZV)
 XT2MF        1634 Mike (KC7V)
 XT2WP        1746 Fred (G4BWP)
@@ -1295,4 +1292,5 @@ ZS1C         2012 Raoul
 ZS1EL         658 Vidi
 ZS1RBN       1513 Phil (G3SWH)
 ZS6FOC        744 Den (F5VHY)
+xKP4FOC      1965 Alfredo (WP3C)
 xM0RSE       2048 Andy (G0IBN)

@@ -3,11 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-<<<<<<<< HEAD:cwt/CWOPS_3568.txt
-# Last Edit,2024-06-22
-========
-# Last Edit,2024-06-26
->>>>>>>> cea0d3a (Update):cwt/CWOPS_3568-CCC.txt
+# Last Edit,2024-06-28
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -3632,7 +3628,7 @@ N4WO,Greg,FL,Brooksville FL
 N4XD,Ron,NC,Pittsboro NC
 N4XL,Tom,2356,Greenwood SC
 N4XP,Tom,GA,Monroe GA
-N4XTT,Mike,CWA,Mendota VA
+N4XTT,Mike,3570,Mendota VA
 N4XY,Ed,GA,Marietta GA
 N4XYZ,Jim,VA,Virginia Beach VA
 N4YDU,Nate,445,Youngsville NC
@@ -4099,7 +4095,7 @@ NJ8V,Dew,1969,Shade OH
 NJ9S,Bruno,2966,Mishawaka IN
 NK1N,Glen,2812,Hillsborough NJ
 NK2F,Phil,1842,(F5IYJ)
-NK2Y,Jay,NY,LaGrangeville NY
+NK2Y,Jay,3571,LaGrangeville NY
 NK3H,Mitch,3102,Paradise AZ
 NK4I,Tighe,1481,Summerville SC
 NK4O,AJ,2690,Miami FL
@@ -6373,7 +6369,7 @@ WU6X/4,Dennis,1632,(could be RV)
 WU7F,Mark,1351,Centerville UT
 WU7X,Dale,3260,Spokane WA
 WU8R,Roman,OH,Wellston OH
-WU8T,Tom,WA,Battle Ground WA
+WU8T,Tom,3569,Battle Ground WA
 WV1D,Pat,2854,Weymouth MA (Been heard QRP)
 WV4P,Ron,TN,Savannah TN
 WV4S,Bob,NC,Winston Salem NC

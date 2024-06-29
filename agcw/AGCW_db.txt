@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
 # Contains members up to #4340
-# Last updated 2024-06-18
+# Last updated 2024-06-23
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -408,7 +408,6 @@ DJ2VT=304
 DJ2WL=2136
 DJ2XY=3847
 DJ2YA=25
-DJ2ZA=2678
 DJ3AS=4021
 DJ3AX=3844
 DJ3BT=3392
@@ -1758,7 +1757,6 @@ NN7CW=3802
 NY4JB=3676
 OE1GOA=2491
 OE1IAH=4290
-OE1JWA=1399
 OE1KYW=2611
 OE1MHL=3456
 OE1PKS=1325
