@@ -3,7 +3,7 @@
 # CWOPS
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-06-28
+# Last Edit,2024-07-01
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -1952,7 +1952,7 @@ K5NT,Dave,2368,Richmond VA
 K5NZ,Mike,TX,Bedias TX
 K5OA,Russ,2158,Murrieta CA
 K5OGX,Phil,AR,Fort Smith AR
-K5OHY,Tim,CWA,Midland TX
+K5OHY,Tim,3573,Midland TX
 K5OT,Larry,127,Georgetown TX
 K5OY,Steve,2551,Bentonville AR
 K5PHB,Frank,TX,Liberty Hill TX
@@ -2803,7 +2803,7 @@ KI5DDO,Joey,2950,Cedar Park TX
 KI5EE,Joe,LA,Lake Charles LA
 KI5IO,Nolan,2549,Plano TX
 KI5PED,Andy,TX,Houston TX
-KI5PGL,Matt,TX,Murphy TX
+KI5PGL,Matt,3572,Murphy TX
 KI5T,Wade,LA,Walker LA
 KI5YGT,Tom,TX,Denton TX
 KI6M,Hans,2792,Cypress CA
@@ -4509,6 +4509,7 @@ PF5X,Enno,2531,Cuijk Netherlands
 PG1I,Marinus,,Noord-Holland Netherlands
 PG2GF,Harm,,IJssel Netherlands
 PG4I,Jo,2225,(Joop)  Culemborg Netherlands
+PG5M,Gerben,3576,Zuidlaren Netherlands
 PG6F,Dick,3175,Heemstede Netherlands
 PG7V,Jan,,Hulshorst Netherlands
 PJ2/NF9V,Rudy,593,
@@ -5175,6 +5176,7 @@ VK6HG,Rob,1029,Western Australia
 VK6LW,Kev,3362,Glen Forrest Australia
 VK6T,Kev,3362,Glen Forrest Australia
 VK7CW,Steve,1196,Tasmania Australia
+VK7ZA,Lance,3575,Tasmania Australia
 VK8XX,Joe,339,Floyd VA USA
 VO1AAM,Yuri,21,also VE3DZ
 VO1AW,BK,NL,(Brian)  Gander NL
@@ -6137,7 +6139,7 @@ WB3DPS,Mark,PA,Library PA
 WB3EGD,Rich,3122,Hazleton PA
 WB3JGP,Randy,CA,El Cerrito CA
 WB3LJQ,Vincent,3120,Latrobe PA
-WB4ABY,Carl,GA,Alpharetta, GA
+WB4ABY,Carl,3574,Alpharetta, GA
 WB4AEG,Hal,1646,Adairsville GA
 WB4AJL,Dave,3414,Whittier NC
 WB4AQL,Mike,498,Chickamauga GA
