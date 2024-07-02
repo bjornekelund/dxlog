@@ -6,7 +6,6 @@ BEGIN {
   printf("#2 Data collected and maintained by Claude VE2FK\n");
   printf("#3 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
-
 }
 {
   if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^(01|[1-9][0-9])$/ && $col !~ /^(99|00)$/) 
