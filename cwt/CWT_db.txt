@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3588
-# Last updated 2024-06-29
+# Last updated 2024-07-01
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -1943,7 +1943,7 @@ K5NT=Dave;2368
 K5NZ=Mike;TX
 K5OA=Russ;2158
 K5OGX=Phil;AR
-K5OHY=Tim;CWA
+K5OHY=Tim;3573
 K5OT=Larry;127
 K5OY=Steve;2551
 K5PHB=Frank;TX
@@ -2794,7 +2794,7 @@ KI5DDO=Joey;2950
 KI5EE=Joe;LA
 KI5IO=Nolan;2549
 KI5PED=Andy;TX
-KI5PGL=Matt;TX
+KI5PGL=Matt;3572
 KI5T=Wade;LA
 KI5YGT=Tom;TX
 KI6M=Hans;2792
@@ -4494,6 +4494,7 @@ PF5X=Enno;2531
 PG1I=Marinus;PA
 PG2GF=Harm;PA
 PG4I=Jo;2225
+PG5M=Gerben;3576
 PG6F=Dick;3175
 PG7V=Jan;PA
 PJ2/NF9V=Rudy;593
@@ -5158,6 +5159,7 @@ VK6HG=Rob;1029
 VK6LW=Kev;3362
 VK6T=Kev;3362
 VK7CW=Steve;1196
+VK7ZA=Lance;3575
 VK8XX=Joe;339
 VO1AAM=Yuri;21
 VO1AW=BK;NL
@@ -6117,7 +6119,7 @@ WB3DPS=Mark;PA
 WB3EGD=Rich;3122
 WB3JGP=Randy;CA
 WB3LJQ=Vincent;3120
-WB4ABY=Carl;GA
+WB4ABY=Carl;3574
 WB4AEG=Hal;1646
 WB4AJL=Dave;3414
 WB4AQL=Mike;498
