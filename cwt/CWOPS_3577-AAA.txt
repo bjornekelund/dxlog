@@ -1,9 +1,10 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
+# DX
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-07-01
+# Last Edit,2024-07-02
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -1064,6 +1065,7 @@ GM3WOJ,Chris,2436,(GM2V)  Near Inverness Scotland
 GM3WUX,Terry,2826,Glasgow Scotland
 GM3YOR,Drew,,Inverekip Scotland
 GM3ZUK,Allan,,Scotland
+GM4HBG,Ian,3577,Forth ML  Scotland
 GM4JPZ,Colin,2537,Dundee Scottland
 GM4PVM,Paul,2413,Essex England
 GM4WZG,Bernie,GM,Dalgety Bay Scotland
@@ -6012,7 +6014,7 @@ WA2TGE,Mike,SC,Rock Hill SC
 WA2USA,Dennis,819,Newburgh IN
 WA2VYA,Frank,FL,Tallahassee FL
 WA2VZQ,Ken,NY,Saint James NY
-WA3AAN,Grant,2064,Philadelphia PA
+WA3AAN,GM,2064,(Grant)  Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
 WA3FAE,Forrest,MD,
 WA3GM,Greg,1827,Cheltenham PA

@@ -3,41 +3,21 @@
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-<<<<<<<< HEAD:icwc-mst/ICWC-MST-065.txt
-# Last Edit,2024-06-19
+# Last Edit,2024-07-02
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 
-DK6XT,JO,,Harsefeld Germany
-K1PLL,LUIS,,Watertown MA
-KB9YOX,ADAM,,Indianapolis IN
-KC3VWK,DAVE,,Kennett Square PA
-KC4M,AL,,West End NC
-KI5WLJ,SCOTT,,Katy TX
-KN4MLR,Russ,,Louisville KY
-WJ4M,JIM,,San Anton io TX
-
-N1AIA,Scott,
-AJ4MY,RYAN,,Hephzibah GA
-K1LGQ,DENNIS,,Brookline NH
-K4VIB,BILL,,Mobile AL
-K6VOR,TAYLOR,,Simpsonville KY
-K8WZ,MIKE,,
-KA8YRV,MIKE,,Niles OH
-KC4HCH,ROGER,,
-KN9V,ED,,Whitestown IN
-KS4BG,ED,,Lafollwtte TN
-LZ1DJ,KOSTA,,Stara Zagora Bulgaria
-NN2X,TOM,,Allen TX
-UR4USC,NIK,
-W0UH,JERRY,,Amity MO
-WN6A,RICH,,Santa Cruz CA
-
-========
-# Last Edit,2024-06-24
-# Medium speed practice contest 20-25 WPM
-# Thanks SM7IUN, N0TA, KA5M,
->>>>>>>> cea0d3a (Update):icwc-mst/ICWC-MST-066.txt
+EX8KT,VICTOR,,Kant Kyrgyzstan
+G0VJH,JEFF,,Norwich England
+K0VU,GREG,,Shorewood MN
+KK4RR,RICK,,High Point NC
+N0TTK,DAN,,
+OE3HBS,HARALD,,Vienna Austria
+RX6MY,ALEX,,
+TI3GB,GREG,,San Jose Costa Rica
+W4HEA,CALVIN,,Milbrook AL
+W5ATJ,JIM,,Gallatin TN
+VC2TQSM,DUB,,Transat Quebec/St-Malo
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -6319,7 +6299,7 @@ WA2VAM,KEVIN,NY,Cortland NY
 WA2VLA,MIKE,
 WA2VYA,Frank,FL,Tallahassee FL
 WA2VZQ,Ken,NY,Saint James NY
-WA3AAN,Grant,2064,Philadelphia PA
+WA3AAN,GM,,(Grant)  Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
 WA3FAE,Forrest,MD,
 WA3FRF,JOE,
