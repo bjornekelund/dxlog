@@ -1,23 +1,21 @@
 !!Order!!,Call,Name,Misc,UserText,
-# International CW Council
 # Always LOG what is sent.
 # EXCH = NAME + NUMBER
 # ICWC-MST
-# Last Edit,2024-07-02
+# International CW Council
+# Last Edit,2024-07-098
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
+AI4IC,KAY,,Oak Ridge
+AK4D,TERRY,,Clemmons NC
+K8SNH,MATTY,,Navarre FL
+KB1KBI,TED,,Ledyard CT
+KM4N,JOHN,,Madison AL
+KQ3Q,LIDI,,Homestead FL
+LZ3ND,Nick,,Am Gries Germany
+N1OI,CORY,,Portsmouth RI
 
-EX8KT,VICTOR,,Kant Kyrgyzstan
-G0VJH,JEFF,,Norwich England
-K0VU,GREG,,Shorewood MN
-KK4RR,RICK,,High Point NC
-N0TTK,DAN,,
-OE3HBS,HARALD,,Vienna Austria
-RX6MY,ALEX,,
-TI3GB,GREG,,San Jose Costa Rica
-W4HEA,CALVIN,,Milbrook AL
-W5ATJ,JIM,,Gallatin TN
-VC2TQSM,DUB,,Transat Quebec/St-Malo
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -849,6 +847,7 @@ EV1R,Al,,Minsk Belarus
 EW1I,Alex,,Minsk Belarus
 EW1TZ,Serge,,Minsk Belarus
 EW7LO,Vlad,,Bobruisk Belarus
+EX8KT,VICTOR,,Kant Kyrgyzstan
 EY8MM,Nodir,815,Dushanbe Tajikistan
 F/PA2PIM,PIM,,
 F2IL,Jean,,Ribeaucourt France
@@ -950,6 +949,7 @@ G0TUE,RAY,,Cumbria England
 G0TZZ,Chris,,Sporte England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England
+G0VJH,JEFF,,Norwich England
 G0VQW,Sandy,,Swindon Wiltshire
 G0WCZ,Grae,1983,Brigaton England
 G1EEQ,STUART,,East Yorkshire England
@@ -1427,6 +1427,7 @@ K0UE,Clarence,CO,Boulder CO
 K0UK,Bill,1154,Grand Junction CO
 K0UU,Jeff,MN,Crystal Bay MN
 K0VBU,Bill,844,Overland Park KS
+K0VU,GREG,,Shorewood MN
 K0VW,John,2098,Apple Valley MN
 K0VXU,Russ,836,Stilwell KS
 K0WA,Lee,1859,Newton KS
@@ -3011,6 +3012,7 @@ KK4HSJ/QRP,TOM,,Nashville TN
 KK4NZH,Gene,GA,Loganville GA
 KK4R,Rob,1953,Yorktown VA
 KK4RF,Martin,VA
+KK4RR,RICK,,High Point NC
 KK4SJ,Gord,FL,Viera FL
 KK4TE,Chuck,AL,Axis AL
 KK5HT,ADAM,TX,Roanoke TX
@@ -3486,6 +3488,7 @@ N0SSM,Jim,MO,Columbia MO
 N0TA,John,885,Louisville CO
 N0TLW,Tom,2364,Des Moines IA
 N0TOP,John,MO,Kirkwood MO
+N0TTK,DAN,,
 N0UA,Vince,CO,Littleton CO
 N0UI,TIM,MO,Jefferson City MO
 N0UR,Jim,1445,Ellendale MN (Occ. QRP)
@@ -3727,6 +3730,7 @@ N4DT,Danny,1740,Spartanburg SC (Occ. QRP)
 N4DU,Jim,GA,Albany GA
 N4DW,Dave,923,Kingsport TN
 N4EEB,John,2335,Astor FL
+N4EEL,ANDY,
 N4EEV,Mike,1600,Richmond Hills GA
 N4EII,Al,2291,Cary NC
 N4EJF,JOE,,Selma AL
@@ -4466,6 +4470,7 @@ OE1TKW,Helmut,2770,Wien Austria
 OE2BZL,Knut,,Pfarrwerfen Austria
 OE3BBC,Rain,,Wien Austria
 OE3GSA,Gerd,537,Wolfsbach Austria
+OE3HBS,HARALD,,Vienna Austria
 OE3K,Ivan,,(OE1DIA) Vienna Austria
 OE3KAB,Karl,,Muenichsthal Austria
 OE3MWS,Fred,,Krems an der Donau Austria
@@ -4790,6 +4795,7 @@ RX3FC,Vlad,,Russia
 RX3QNE,Misha,,Varonezh Russia
 RX4CD,Sergey,,Saratovskaya Russia
 RX6CB,Ed,,Novorossiysk Russia
+RX6MY,ALEX,,
 RX9TX,Art,,(no info) Russia
 RY3PAE,Savin,2706,(RT5P) no info
 RY7KV,Mike,,Yalta
@@ -4989,6 +4995,7 @@ TF3SG,GUDMI,DX,Reykjavik Iceland
 TF3Y,Yngvi,238,Reykjavik Iceland
 TF4M,Thor,177,Bildudalur Iceland
 TG9AJR,Juan,,Puerta Parada Guatemala
+TI3GB,GREG,,San Jose Costa Rica
 TI5JON,Jon,,Desamparados Alajuela Costa Rica
 TI5KS,Kam,146,Costa Rica (N3KS)
 TI5W,Nate,445,Costa Rica (N4YDU)
@@ -5295,6 +5302,7 @@ VE3TMV,Tim,
 VE3TW,Stan,1563,Scarborough ON
 VE3TZF,KEITH,
 VE3UEE,RC,,RADIO CLUB
+VE3USP,PISTA
 VE3UTT,Art,2647,(W1AJT) Toronto ON
 VE3UXJ,CRAIG,,ON
 VE3VA,JEFF,
@@ -5768,6 +5776,7 @@ W4GD,John,FL,The Villages FL
 W4GFA,George,SC,Walhalla SC
 W4GJ,Bob,FL,Gainesville FL
 W4GNS,Gary,VA,Penhook VA
+W4HEA,CALVIN,,Milbrook AL
 W4HG,Wayne,494,Salisbury NC
 W4HOZ,Read,MS,Lucedale MS
 W4HXH,Dennis,FL,Port Saint Lucie FL
@@ -5872,6 +5881,7 @@ W4ZXT,JAY,,Richmond KY
 W4ZYT,Don,55,Virginia Beach VA
 W5AG,Arch,LA,Lafayette LA
 W5AP,JIM,
+W5ATJ,JIM,,Gallatin TN
 W5BIB,Steve,2350,Irvington AL
 W5BM,Dan,OK,(1377) Tulsa OK
 W5BOS,Lanny,TX,Keller TX

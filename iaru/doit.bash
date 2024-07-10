@@ -3,7 +3,7 @@ FOLDER=zipfiles
 ZIPFILE=$FOLDER/itu.zip
 DBFILE=$FOLDER/iaruhq.txt
 
-XDTFILE=iaru2023.xdt
+XDTFILE=iaru2024.xdt
 OUTFILE=iaruhq.txt
 
 mkdir -p $FOLDER

@@ -1,3 +1,4 @@
 Parsing NAQPCW.txt
+"N1AU,JOHN,MA," reoccurs as "N1AU,,MA,"
 Longest name is SEBASTIAN (9)
 Created NAQP_db.txt

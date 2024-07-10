@@ -1,10 +1,10 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# DX
+# 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-07-02
+# Last Edit,2024-07-09
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -4443,6 +4443,7 @@ P4/K3DMG,Lee,1837,
 P40LE,Andy,39,Aruba  (also K2LE)
 P40TA,Ken,,Martell  CA USA
 P44L,John,P4,Aruba
+P44W,John,204,(W2GD)  Aruba
 PA/DK5KK,Kolja,1965,
 PA0ABM,Wino,2890,Huijbergen Netherlands
 PA0GRU,Dick,3175,Heemstede Netherlands
@@ -4957,7 +4958,6 @@ VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada (Western Amb.)
 VA7ST,Bud,1622,Lake Country BC
 VA7XU,Dave,3428,Quesnel BC
-VC2TQSM,DUB,QC,Transat Quebec/St-Malo
 VE1AOE,Don,1703,Truro NS
 VE1ASE,Mike,NB,Quispamsis NB
 VE1BAB,Wayne,NS,Port Williams NS
@@ -5631,7 +5631,7 @@ W5BM,Dan,OK,(1377) Tulsa OK
 W5BOS,Lanny,TX,Keller TX
 W5BQ,Bruce,1631,North Richland Hills TX
 W5BXE,Rich,AR,Little Rock AR
-W5CN,Carl,CWA,Rio Rancho NM
+W5CN,Carl,3579,Rio Rancho NM
 W5CU,Sam,353,Edmond OK
 W5CW,Dave,OK,Okmulgee OK
 W5CWM,Martin,TX,Carrollton TX
@@ -6060,6 +6060,7 @@ WA6HNA,Greg,CA,Groveland CA
 WA6HZY,Jim,CA,Bakersfield CA
 WA6KYR,Rich,3172,Newhall CA
 WA6L,Doug,CA,Sacramento CA
+WA6RSV,Pablo,3578,Glendora CA
 WA6SCX,Neil,CA,Santa Maria CA
 WA6SVX,Mike,2692,Long Beach CA
 WA6URY,Dan,1176,Bellflower CA
