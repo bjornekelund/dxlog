@@ -7,8 +7,8 @@ BEGIN {
   lengthcall = length(call);
   iota = toupper($3);
   notignore = \
-    call ~ /^[0-9A-Z]/ && \
-    iota ~ /^[EU|OC|AS|NA|SA|AF|AN]/ && \
+    (call ~ /^[0-9A-Z]/) && \
+    (iota ~ /^(EU|OC|AS|NA|SA|AF|AN)/) && \
     (call ~ /[A-Z]$/ || call ~/\/[0-9A-Z]+$/ || call ~ /[0-9]{2}$/) && \
     lengthcall > 2 && \
     !(lengthcall < 6 && call ~ /[0-9]\//) && \

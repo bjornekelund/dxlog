@@ -6,8 +6,8 @@ BEGIN {
   lengthcall = length(call);
   iota = toupper($3);
   notignore = \
-    call ~ /^[0-9A-Z]/ && \
-    iota ~ /^[EU|OC|AS|NA|SA|AF|AN]/ && \
+    (call ~ /^[0-9A-Z]/) && \
+    (iota ~ /^(EU|OC|AS|NA|SA|AF|AN)/) && \
     (call ~ /[A-Z]$/ || call ~ /\/[0-9A-Z]+$/ || call ~ /[0-9]{2}$/) && \
     lengthcall > 2 && \
     !(lengthcall < 6 && call ~ /[0-9]\//) && \
@@ -15,8 +15,11 @@ BEGIN {
   isprefix = $1 ~ /[0-9]$|^[A-Z]{1,4}$|^[A-Z0-9]{1,3}\/|^[A-Z][0-9]$|^[0-9][A-Z]$/
   if (notignore)
     printf("%s=%s\n", call, iota);
-  else if ($0 !~ /^(!|#|$)/ && !isprefix)
+  else if ($0 !~ /^(!|#|$)/ && !isprefix){
+    printf("isprefix = %s\n", isprefix ? "true" : "false") > "/dev/stderr";
+    printf("notignore = %s\n", notignore ? "true" : "false") > "/dev/stderr";
 	  printf("TXT ignored: \"%s\"\n", $p) > "/dev/stderr";
+  }
 }
 END { 
   printf("#0 IOTA Contest database\n");

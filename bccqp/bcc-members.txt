@@ -291,6 +291,7 @@ DL3UB,Ulf
 DL3YM,Andy
 CN2YM,Andy
 XV9YM,Andy
+5X8B,Andy
 DL4FN,Peter
 DL4GBA,Wilfried
 DL4HG,Olaf
@@ -378,6 +379,8 @@ DL8LR,Frank
 DK8R,Frank
 DL8MAS,Bernd
 DM7W,Bernd
+DL8NY,Klaus
+DN3NY,Klaus
 DL8OH,Dieter
 DP6A,Dieter
 DN1OH,Dieter
