@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-07-12
+# Last Edit,2024-07-18
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -1251,6 +1251,7 @@ IT9SSI,Dario,2137,(W1SSI) Capo d'Orlando Messina Italy
 IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
 IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
+IU0OUL,Valerio,,Roma Italy
 IU1MRY,Fabrizio,I,Omegna Italy
 IU2OZU,Marco,,Gessate Italy
 IU3BRO,Tilio,,Padova Italy
@@ -2082,6 +2083,7 @@ K6XV,Bob,CA,Livermore CA
 K6XX,Bob,CA,Santa Cruz CA
 K6YDS,Bob,3259,Davis CA
 K6YF,Robert,CA,Atwater CA
+K6YLH,Jevon,CA,Aptos CA
 K6YXH,Norm,2304,Calabasas CA
 K6ZD,Dave,2157,San Jose CA
 K6ZGW,Barry,2390,Valley Glen CA
@@ -2613,7 +2615,7 @@ KD8RGW,Bud,3134,Westerville OH
 KD8RQE,Mike,1599,Coldwater MI
 KD8SAV,Gary,1089,Dayton OH
 KD9KHA,Andy,3320,Vandalia IL
-KD9LSV,Connor,IL,Decatur IL
+KD9LSV,Connor,3582,Decatur IL
 KD9LTN,Mike,IL,Coal Valley IL
 KD9OIN,Dan,IL,Aurora IL
 KD9UYC,Mark,3433,Fishers IN
@@ -2965,6 +2967,7 @@ KO4AXD,Brian,2745,Suffolk VA
 KO4D,Fred,VA,Smithfield VA
 KO4GBD,Aaron,3121,Palm Beach FL
 KO4GDB,Jim,GA,Dalton GA
+KO4GOF,Cohen,VA,Narrows VA
 KO4LAO,Jim,3200,Travelers Rest SC
 KO4O,Roger,AL,Trinity AL
 KO4OL,Al,3542,Richmond KY
@@ -3092,6 +3095,7 @@ KW4V,Les,FL,Casselberry FL
 KW4WA,Julio,2849,Royal Palm Beach FL
 KW5CW,Jim,2346,Anna TX
 KW6MYK,Michael,CA,Los Angeles CA
+KW6SEA,Justin,CWA,Santa Rosa CA
 KW7A,John,UT,Nephi UT
 KW7D,Paul,NM,Deming NM
 KW7Q,Steve,1039,Ft Collins CO
@@ -3682,6 +3686,7 @@ N5NA,Alan,3354,Midland TX
 N5NHJ,Max,24,Allen TX
 N5NU,Jason,1920,Nacogdoches TX
 N5OE,Carl,983,Whitt TX
+N5OP,Kim,3581,Norman OK
 N5OT,Mark,UAND,(2198) Bartlesville OK
 N5PHT,Gary,1489,Indianola Iowa
 N5PV,Sean,TX,Brookshire TX
@@ -5859,7 +5864,7 @@ W8FN,Randy,1864,Columbus NC
 W8FSM,Fred,MI,Fenton MI
 W8GF,Dick,MI,Warren MI
 W8GU,Mark,OH,Uniontown OH
-W8HFY,David,OH,Kent OH
+W8HFY,Dave,OH,Kent OH
 W8HOG,Jerry,OH,Lynchburg OH
 W8HW,Bruce,958,Port Saint Lucie FL
 W8IQ,Kurt,755,Toledo OH
@@ -6273,6 +6278,7 @@ WI1E,Jerry,VA,Bedford VA
 WI2C,John,NY,Center Moriches NY
 WI2E,Joe,PA,Easton PA
 WI4P,John,AL,Alexander City AL
+WI5ARD,Russ,LA,
 WI6T,Rex,CO,Centennial CO
 WI6X,Jim,3482,Irvine CA
 WI9P,Reed,3483,Shoreview MN

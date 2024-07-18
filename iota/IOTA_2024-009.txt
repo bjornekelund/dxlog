@@ -4,11 +4,11 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2024-07-10 
+# Last Edit,2024-07-15 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks Rob G4LMW, Paul G4PVM for update
-# Thanks to       for new info.
+# Thanks to Bjorn for his help.
 # Thanks to NA3M/Nick and VE3KI/Rich for the original file.
 # This file will be updated until day before contest.
 2E0,,EU005,Great Britain,
@@ -195,7 +195,7 @@ BH4TQX,,AS136,Chongming
 BI4IK,,AS150,Lingshan
 BI4IS,,AS150,Lingshan
 BI4IX,,AS150,Zucha Isl.	
-BI4SSB,,AS135,Kaishan
+BI4SSB,,AS135,Cheniu Shan M2 HP
 BI7PER,,AS129,Nanao
 BO0KS,,AS102,Kinmem
 BO0M,,AS113,Ma Tsu
@@ -707,6 +707,7 @@ IC8TEM,,EU031,Capri,
 IC8WIC,,EU031,Capri,
 ID9/IW4EBS,,EU017,Salina
 IE9DX,,EU051,Ustica,
+IF9/IT9PPG,,EU054,Favignana DXP CW LP
 IF9A,,EU054,Favignana
 IF9ZWA,MIKE,EU054,Favignana,
 IG9,,AF018,
@@ -737,6 +738,7 @@ IR5G,,EU028,Giannutri DXP 24h LP M2
 IR8A,,EU031,Ischia,
 IR9K,,EU025,Sicily 
 IS,,EU024,Sardinia,
+IS0/DL1KVN,,EU024,Sardinia MIX LP
 IS0/IU3MIK,,EU024,Sardinia
 IS0BGL,,EU024,Sardinia,
 IS0BSR,,EU024,Sardinia,
@@ -1269,6 +1271,7 @@ PA6Z,,EU146,
 PB2T,,EU146,Goeree Overflakkee
 PC6IOTA,,EU038,
 PD5CW,,EU146,
+PE146U,,EU146,Schouten Duiveland M2 24/hrs
 PE55TEX,,EU038,Texel
 PF10C,,EU146,Schouwen Duiveland Netherlands,
 PF14A,,EU146,Schouwen Duiveland,
@@ -1446,7 +1449,7 @@ TC0TC,,AS201,Siviada (Turkey),
 TF,,EU021,Iceland,
 TF3AO,SELI,EU021,Iceland,
 TF3VS,,EU021,Iceland
-TF3W,,EU021,Iceland
+TF3W,,EU021,Iceland MIX
 TF3Y,YNGVI,EU021,Iceland,
 TF7X,RC,EU071,Iceland,
 TI9,,NA012,
@@ -1506,6 +1509,7 @@ VA7PX,JOHN,NA075,
 VA7RN,LES,NA036,Vancouver,
 VE1DT,GERALD,NA010,Homeville NS,
 VE1TRI,BARRY,NA081,
+VE1YDX,,NA127,Brier by VE1JS 12 hrs (first) SSB
 VE7ACN,Mike,NA036,Vancouver Isl.
 VE7BGP,,NA036,Vancouver
 VE7CXZ,,NA036,Vancouver

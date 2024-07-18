@@ -3,18 +3,32 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2024-07-12
+# Last Edit,2024-07-16
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
-AI4IC,KAY,,Oak Ridge
-AK4D,TERRY,,Clemmons NC
-K8SNH,MATTY,,Navarre FL
-KB1KBI,TED,,Ledyard CT
-KM4N,JOHN,,Madison AL
-KQ3Q,LIDI,,Homestead FL
-LZ3ND,Nick,,Am Gries Germany
-N1OI,CORY,,Portsmouth RI
 
+AG4GN,JIM,
+DL5XL,FELIX,
+G4NBS,TONY,,Cambridge England
+K1CCO,ASA,,Norfolk VA
+K1CHM,CRAIG,,Westerly RI
+K4KUS,DAN,,Chester SC
+K9QJS,HOOP,,Franklin TN
+KF0RAG,TONY,,Monument CO
+KO4BVP,RICH,,Eastern KY
+N0UVI,NATE,,Everett WA
+N5EDF,ED,,Wichita Falls TX
+N5NR,PAUL,,Spring TX
+N9SZ,STEVE,,Raleigh NC
+PY4KU,JJ,,Belo Horizonte Brazil
+W7NNR,DAN,,Rathdrum ID
+WU7F,MARK,,Centerville UT
+
+KC3SJ,STEVE,
+W4DAN,DAN,
+W4AMV,ALLAN,
+K1IU,RO,
+W1SPI,RUSS,
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
@@ -424,6 +438,7 @@ AI2T,Barry,NY,Owego NY
 AI2U,TOM,
 AI3A,Alan,3053,Georgetown CA
 AI4FH,WES,,GLOUCESTER VA
+AI4IC,KAY,,Oak Ridge
 AI5G,MARK,,Frisco TX
 AI5IN,Marty,TX,Waller TX
 AI5IR,SAM,TX,
@@ -464,6 +479,7 @@ AK1MD,Alex,MA,Newton Center MA
 AK2U,Ken,
 AK4AO,Doug,2145,Annandale VA
 AK4AT,John,2391,Willis VA
+AK4D,TERRY,,Clemmons NC
 AK4EX,STUART,TN,Clarksville TN
 AK4HA,Glen,KY,Lexington KY
 AK4IC,David,SC,Landrum SC
@@ -2296,6 +2312,7 @@ K8SAT,JIM,,Portland OR
 K8SIA,Jim,748,Brighton MI
 K8SJ,Bill,MI,St Joseph MI
 K8SMK,SCOTT,OH,North Ridgeville OH
+K8SNH,MATTY,,Navarre FL
 K8TED,TED,OH,Brecksville OH
 K8TL,Tom,OH,Springfield OH
 K8TS,Dale,MI,Jackson MI
@@ -2487,6 +2504,7 @@ KB0UAZ,Jim,MN,West Saint Paul MN
 KB1BMF,Wolf,ME,Yarmouth ME
 KB1H,Dick,MA,Attleboro MA
 KB1HFP,JAMIE,,Exeter NH
+KB1KBI,TED,,Ledyard CT
 KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
 KB1NO,John,3020,Norfolk MA
@@ -2671,6 +2689,7 @@ KD2DUL,Steve,NJ,Princeton NJ
 KD2E,Dave,2420,Toms River NJ
 KD2EHH,Ed,NY,Duanesburg NY
 KD2EPM,Dom,NJ,Marlton NJ
+KD2FRN,JERRY,,
 KD2FSH,Jerry,1918,Ferfield NJ
 KD2FVG,Allen,NJ,Parsippany NJ
 KD2HE,Vic,2536,(VE3HEU)  New York NY
@@ -3072,6 +3091,7 @@ KM4JEG,BOB,
 KM4JTE,John,FL,Gainesville FL (Occ. QRP)
 KM4KY,MIKE,,Cary NC
 KM4LAO,Ruth,2063,Cana VA
+KM4N,JOHN,,Madison AL
 KM4OIX,John,1560,Lexington TN
 KM4SII,Mason,NC,Clemmons SC
 KM4WFP,TERI,GA,Johns Island SC
@@ -3179,10 +3199,12 @@ KQ0E,Ron,2859,Bemidji MN
 KQ1O,SANTI,,Midlothian VA
 KQ1RP,SCOTT,FL,Cape Coral FL
 KQ3H,Tony,NC,Greensboro NC
+KQ3Q,LIDI,,Homestead FL
 KQ4AAR,IKE,
 KQ4DAP,Cainan,,Perry GA
 KQ4E,JIM,,Rogersville TN
 KQ4EFL,MIKE,
+KQ4FR,MIKE,,
 KQ4JB,JOE,,Winston Salem NC
 KQ4LEO,IAN,,VA,Stepheens City VA
 KQ4R,Ed,FL,Port Orange FL
@@ -3365,6 +3387,7 @@ LZ2NG,Darin,LZ,Balchik Bulgaria
 LZ2PP,Valentin,,Razgrad Bulgaria
 LZ2RS,Rumi,,Gabrovo Bulgaria
 LZ3ND,Nick,,Am Gries 27 Germany
+LZ3ND,Nick,,Am Gries Germany
 LZ3ZZ,Aleko,LZ,
 LZ4YJ,Rosenh,,Russe 7000 Bulgaria
 LZ5DB,Milen,2193,Kazanlak Bulgaria
@@ -3433,6 +3456,7 @@ MM2T,PHIL,
 MM3AWD,Scott,,Scotland (QRP)
 MM9I,John,,(SM0OPS)  East Kilbridge Scotland
 N0AC,Bill,IA,(1252) Ankeny IA (Occ. QRP)
+N0AC,ROCKY,,
 N0AC/M,Bill,1252,
 N0AIE,Everett,SD,Springfield SD
 N0ANE,MIKE,,Saint Peter MN
@@ -3530,6 +3554,7 @@ N1LN,Bruce,1141,Chapel Hill NC
 N1LU,Don,CT,Stamford CT
 N1MM,Tom,CT,Vernon CT (N1MM Logger+)
 N1MT,MARK,FL,Land O Lakes FL
+N1OI,CORY,,Portsmouth RI
 N1PRR,Gary,AZ,
 N1RBD,Rich,2983,Duluth GA
 N1RM,Rick,2659,Reston VA
@@ -3887,6 +3912,7 @@ N5LYJ,Ken,994,Wichita Falls TX
 N5MI,Mark,,Odessa TX,
 N5NA,Alan,TX,Midland TX
 N5NHJ,Max,24,Allen TX
+N5NR,PAUL,,
 N5NU,Jason,1920,Nacogdoches TX
 N5OE,Carl,983,Whitt TX
 N5OT,Mark,UAND,(2198) Bartlesville OK
@@ -5146,6 +5172,7 @@ VA5SCA,Neil,SK,Canada
 VA6CA,Kam,2714,Calgary AB
 VA6CNC,MIKE,,Edmonton AB
 VA6NN,BRENT,,Cold Lake AB
+VA6RCN,KEVIN,,
 VA6SP,Peter,AB,Calgary AB
 VA7ADI,Adrian,BC,Abotrsford BC
 VA7BWG,,BC,Surrey BC
