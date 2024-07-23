@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2024-07-15 
+# Last Edit,2024-07-22 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks Rob G4LMW, Paul G4PVM for update
@@ -86,6 +86,7 @@
 8P,,NA021,
 8Q,,AS013,
 8S0W,MAGNUS,EU084,Muskoe
+9A/OM2ZZ,,EU016,Mljet CW 12H LP
 9A0A,,EU170,Pasman 
 9A0AA,,EU016,Vis Croatia
 9A0BR,,EU016,Brac
@@ -190,6 +191,7 @@ BG5BWZ,,AS141,
 BG5TOX,XUDA,AS138,Pingtan Is.
 BG5UDN,,AS138,Pingtan
 BH1OBD,,AS158,Dawangjia	
+BH2WRP,,AS158,Guanglu
 BH4BFS,,AS136,Chongming	
 BH4TQX,,AS136,Chongming 
 BI4IK,,AS150,Lingshan
@@ -251,6 +253,7 @@ CO8ZZ,,NA015,Cuba
 CO9KAA,,NA015,Cuba
 CQ2I,,EU150,
 CQ7C,,EU145,Culatra
+CQ7OTA,,EU145,Culatra DXP M1 LP
 CQ8SV,,EU089,
 CQ9T,,AF014,
 CQ9U,,AF047,
@@ -340,7 +343,7 @@ DX1ARC,,OC042,Luzon
 DX3EVM,,OC244,Dos Hermanas
 DX7EVM/9,,OC235,Camiguin
 DX8CAD,,OC130,Mindanao Isl. 
-DX9EVM,,OC130,Mindanao 
+DX9EVM,,OC130,Mindanao LP M1
 DY1P,,OC042,Luzon
 DZ50W,,OC130,
 E2E,,AS107,Si Chang
@@ -424,6 +427,7 @@ EJ6JP/0,,EU034,Hiiumaa
 EJ6KP,,EU121,Aranmore 
 EJ7EE,,EU121,
 EJ8KO,,EU121,Arranmore 
+EJ9MV,,EU121,Bere DXP
 ES0GP,,EU178,Manilaid,
 ES0IA,,EU034,Kassaar
 ES0MHI,,EU034,Hiiumaa
@@ -739,6 +743,7 @@ IR8A,,EU031,Ischia,
 IR9K,,EU025,Sicily 
 IS,,EU024,Sardinia,
 IS0/DL1KVN,,EU024,Sardinia MIX LP
+IS0/OM2FY,,EU024,Sardinia CW 24H LP
 IS0/IU3MIK,,EU024,Sardinia
 IS0BGL,,EU024,Sardinia,
 IS0BSR,,EU024,Sardinia,
@@ -932,6 +937,7 @@ JR6ITD,,AS077,Kyushu,
 JS,,AS007,Honshu,
 JS2NYJ,,AS007,Honshu
 JS6SRY,,AS024,Ishigaki,
+JS6UUC,,AS024,Ishigaki DXP CW-SSB LP 24H
 JS6SYR,,AS079,Shimoji,
 JW,,EU026,
 JW/B,,EU027,
@@ -940,7 +946,7 @@ JW2US,,EU063,Svalbard,
 JW5E,,EU026,
 JX,,EU022,
 K1IMI,,NA137,Bailey
-K1VSJ,,NA046,Martha's Vineyard
+K1VSJ,,NA046,Martha's Vineyard LP
 K4RUM,,NA026,Long
 K4TMC,,NA112,Bogue Banks Aka Emerald
 KC2MBV,,NA026,Long
@@ -1193,6 +1199,7 @@ OV1RR,,EU029,Sjaelland
 OV2T,,EU171,Vendsyssel Thy
 OV3W,,EU172,Aero
 OV3X,,EU029,Falster,
+OV4W,,EU172,Aaro M1 HP
 OV7X,,EU172,Bago
 OV9M,,EU171,Vendsyssel
 OX,,NA018,
@@ -1205,7 +1212,7 @@ OZ0J,Joe,EU029,Sjaelland
 OZ0ROM,,EU125,Romo DK1VK 
 OZ0TX,,EU125,Mando,
 OZ11A,,EU171,Vendsyssel
-OZ1AA,,EU029,Amager
+OZ1AA/P,,EU088,Anholt CW 12H LP
 OZ1AAR,,EU029,Sjaelland
 OZ1ACB,,EU029,Sjaelland,
 OZ1HHH,,EU029,Sjaelland,
@@ -1255,20 +1262,23 @@ P3R,,AS004,Cyprus,
 P3X,,AS004,Cyprus
 P4,,SA036,
 P43E,,SA036,Aruba,
+PA/DL6FBL,Ben,EU038,Texel Island
+PA/DA1DX,,EU038,Texel Island
 PA0HFT,HANK,EU038,
 PA2G,,EU146,Schouwen Duiveland HP M1 24/H
 PA2JJB,JAN,EU038,Texel,
 PA2SWL,JIM,EU038,
+PA2TMS,,EU038,Texel Island
 PA38EU,,EU038,Texel
 PA3FKN,,EU039,
 PA4EL,,EU146,Schouwen Duiveland	
 PA5TT,TEUN,EU146,Schouwen Duiveland
 PA6FUN,,EU038,
 PA6IOT,,EU038,Texel
-PA6TXL,,EU038,Texel,
+PA6TXL,,EU038,Texel Island,
 PA6WH,,EU038,Texel,
 PA6Z,,EU146,
-PB2T,,EU146,Goeree Overflakkee
+PB2T,,EU146,Goeree Overflakkee M2 24H
 PC6IOTA,,EU038,
 PD5CW,,EU146,
 PE146U,,EU146,Schouten Duiveland M2 24/hrs
@@ -1365,7 +1375,7 @@ SD1A,,EU020,Gotland
 SE2R,,EU139,Seskaro,
 SE5S,,EU084,Graso,
 SF1Z,Jens,EU020,Gotland  (SM0HEV)
-SK3T,,EU176,Agon DXP
+SK3T,,EU084,Blido M2
 SK7OA,,EU138,
 SM/OV2E,,EU138,Senoren multi-mode
 SM0HRP,,EU084,Singo
@@ -1507,8 +1517,6 @@ VA7ISL,,NA036,Vancouver,
 VA7NNT,,NA075,Gabriola
 VA7PX,JOHN,NA075,
 VA7RN,LES,NA036,Vancouver,
-VE1DT,GERALD,NA010,Homeville NS,
-VE1TRI,BARRY,NA081,
 VE1YDX,,NA127,Brier by VE1JS 12 hrs (first) SSB
 VE7ACN,Mike,NA036,Vancouver Isl.
 VE7BGP,,NA036,Vancouver
@@ -1557,6 +1565,7 @@ VO1HP,FRANK,NA027,Newfoundland Canada,
 VO1KVT,KEN,NA027,Lewisporte Nfld Canada,
 VO1MP,,NA027,Newfoundland Canada,
 VP2E,,NA022,Angilla,
+VP2EGM,,NA022,Anguilla LP
 VP2ETE,TEDDY,NA022,Angilla,
 VP2M,,NA103,
 VP2MDD,,NA103,
