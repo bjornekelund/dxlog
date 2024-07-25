@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-07-22
+# Last Edit,2024-07-24
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -156,6 +156,7 @@ AA8PH,Peter,MI,Munger MI
 AA8R,Randy,2214,Punta Gorda FL
 AA8TA,Joe,1821,Columbus OH (CO-Mgr. CW Academy)
 AA8TK,Evan,MI,Oak Park MI
+AA8UL,Lydia,WV,Parkersburg WV
 AA9A,Tom,1092,De Pere WI
 AA9H,Dave,2756,Fort Wayne IN
 AA9K,Bob,1006,Monteagle TN
@@ -2971,7 +2972,6 @@ KO4GOF,Cohen,VA,Narrows VA
 KO4LAO,Jim,3200,Travelers Rest SC
 KO4O,Roger,AL,Trinity AL
 KO4OL,Al,3542,Richmond KY
-KO4TCL,Tom,GA,Athens GA
 KO4TFK,Steve,3373,Suwanee GA  (Been heard QRP)
 KO4UHE,Rick,KY,Danville KY
 KO4VW,Steve,3096,Roswell GA
@@ -3619,6 +3619,7 @@ N4SR,Todd,1050,Knoxville TN
 N4TB,Terry,106,Avon Park FL
 N4TMM,Jim,1791,Atlanta GA
 N4TP,Pete,FL,Tampa ARC FL
+N4TTU,Tom,GA,Athens GA
 N4TY,Ty,501,Georgetown KY
 N4UB,Don,GA,BLAKELY GA
 N4UC,Art,858,Huntsville AL
@@ -5096,6 +5097,7 @@ VE3TM,Vlad,2543,Ottawa ON
 VE3TMK,Dave,3019,(N1RO) Toronto ON
 VE3TW,Stan,1563,Scarborough ON
 VE3UTT,Art,2647,(W1AJT) Toronto ON
+VE3VE,Jeff,ON, Richmond Hill ON
 VE3VGI,John,1373,St-Charles ON
 VE3VIG,MA,ON,Also VA2MA
 VE3VJC,Chauhan,ON,Markham ON
@@ -6349,6 +6351,7 @@ WS0TA,Fred,58,Santa Fe NM
 WS1D,Chuck,ME,Springvale ME
 WS1L,Chuck,2411,North Adams MA
 WS4G,Peter,TX,Georgetown TX
+WS4K,Eric,FL,Palm Bay FL
 WS4P,Al,SC,Tamassee SC
 WS5C,Ham,2760,(Hampton)  Whitehouse TX
 WS5D,Jack,3017,Clovis NM

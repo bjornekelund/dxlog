@@ -1,8 +1,11 @@
 Parsing ../naqp/NAQPCW.txt
+Ignored: EA5DFV,JOSE,
+Ignored: F4BHK,ERIK,
 Ignored: KG4HF,AL,KG4,
-Ignored: KH6ZM,MAX,
-Ignored: M1X,STEVE,
-"N1AU,JOHN,MA," reoccurs as "N1AU,,MA,"
-Ignored: VJ5W,GRANT,
-Ignored: WP3GW,ANGEL,
+Ignored: KH6ZM,MAX,,
+Ignored: KP4/K6DTT,AL,KP4,
+Ignored: M1X,STEVE,,
+Ignored: VJ5W,GRANT,,
+Ignored: WP3C,AL,KP4,
+Ignored: WP3GW,ANGEL,,
 Created NJQP_db.txt

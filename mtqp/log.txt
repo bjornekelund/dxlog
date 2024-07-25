@@ -1,3 +1,2 @@
 Parsing ../naqp/NAQPCW.txt
-"N1AU,JOHN,MA," reoccurs as "N1AU,,MA,"
 Created MTQP_db.txt
