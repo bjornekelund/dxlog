@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2024-07-21
+# 1-Last Edit,2024-07-27
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK 
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -585,6 +585,7 @@ AD0WW,FRANK,ND,
 AD1C,JIM,CO,
 AD1L,JIM,MA,
 AD2BO,RUSS,NY,
+AD2CC,SID,NJ,
 AD2CM,ART,NJ,
 AD2S,,NY,
 AD3V,,DE,

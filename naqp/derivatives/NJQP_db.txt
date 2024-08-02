@@ -1,7 +1,7 @@
 # New Jersey QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-07-25
+# Last updated 2024-08-02
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN

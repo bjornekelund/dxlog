@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2024-07-22 
+# Last Edit,2024-07-26 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks Rob G4LMW, Paul G4PVM for update
@@ -69,6 +69,7 @@
 6Y,,NA097,
 6Y5WJ,,NA097,Jamaica
 7D5X,,OC245,Rupat
+7E4A,,OC144,Indonesia
 7E4C,,OC144,Ketawai By TEAM
 7K1CPT,,AS007,Honshu
 7K1EQG,TOMOHIKO,AS007,Honshu
@@ -86,7 +87,9 @@
 8P,,NA021,
 8Q,,AS013,
 8S0W,MAGNUS,EU084,Muskoe
+9A/DL2JRM,,EU016,Mijet  CW 12H
 9A/OM2ZZ,,EU016,Mljet CW 12H LP
+9A/OM6NM,,EU036,Losiinj CW 24H
 9A0A,,EU170,Pasman 
 9A0AA,,EU016,Vis Croatia
 9A0BR,,EU016,Brac
@@ -113,7 +116,7 @@
 9A7B,,EU016,Brac
 9A8AMS,,EU110,
 9A8CV,JANEZ,EU136,Krk
-9A8DV,,EU016,Drvenik Veli Croatia
+9A8DV,,EU016,Drvenik Veli Croatia 24H
 9A8M,,EU136,Krk
 9A8TQF,,EU170,
 9A8ZRS,,EU110,Sveti Ivan
@@ -134,6 +137,7 @@
 9Q0D,,EU170,
 9V,,AS019,Singapore
 9V1DE,,AS019,Singapore
+9V1IO,,AS019,St John's DXP M1
 9V1IOTA,,AS019,Lazarus Aka Sakijang Pelepah
 9V1PW,,AS019,Singapore
 9V1RM,,AS019,Singapore
@@ -306,7 +310,7 @@ DF5A,,EU057,Ruegen
 DF6QC,PETER,EU127,Helgoland
 DG1CMZ,,EU057,
 DK1A,,EU129,Usedom
-DK3R,,EU057,Ruegen
+DK3R,,EU057,Ruegen M1
 DK7YY,,EU057,
 DK8OL,STEFAN,EU042,Sylt	
 DL1KZA,ANDREAS,EU057,Ruegen
@@ -315,16 +319,17 @@ DL2VFR,RIC,EU029,Enoe Island
 DL3KZA,,EU057,Ruegen
 DL3VM,,EU042,Amrum
 DL5KUD,JO,EU057,Ruegen 
-DL6MHW,,EU129,Usedom
+DL6MHW,Michael,EU129,Usedom CW 24H LP
 DL7AU,,EU129,Usedom
 DL8LEN,,EU129,Usedom
 DL9CW,,EU057,
 DM5JBN,,EU042,
 DM5ML,,EU047,Borkum
+DM60IOTA,,EU129,
 DO1TOM,,EU057,Hiddensee
 DO7ES,,EU057,Ruegen
 DR0F,,EU127,Neuwerk Island
-DT0IP,,AS148,Munyo
+DT0IP,,AS080,Republic of Korea
 DU,,OC042,Luzon	
 DU1EG,,OC042,Luzon
 DU1EV,,OC042,Luzon
@@ -334,7 +339,7 @@ DU7HF,,OC129,Cebu
 DU7RH,,OC129,Negros
 DV1DLX,,OC042,Luzon
 DV1FM,,OC042,Luzon
-DV1IIW,,OC042,Luzon
+DV1IIW,,OC042,Luzon LP
 DV1JM,,OC042,Luzon
 DV7MIS,,OC129,Cebu
 DV7SKY,,OC129,Cebu
@@ -342,6 +347,7 @@ DV8VMI,,OC130,Mindanao
 DW7EVQ,,OC129,Cebu
 DX1ARC,,OC042,Luzon 
 DX3EVM,,OC244,Dos Hermanas
+DX6EVM,,OC129,Guimaras 
 DX7EVM/9,,OC235,Camiguin
 DX8CAD,,OC130,Mindanao Isl. 
 DX9EVM,,OC130,Mindanao LP M1
@@ -403,6 +409,7 @@ EI2KM,,EU115,Main Island of Ireland,
 EI3CTB,Justin,EU115,Main Island of Ireland
 EI4KI,,EU115,Main Island of Ireland
 EI5KF,,EU115,Main Island of Ireland,
+EI4L,,EU115,Ireland
 EI6JK,,EU115,Main Island of Ireland
 EI7CC,,EU115,Main Island of Ireland
 EI7GY,,EU115,Main Island of Ireland,
@@ -411,7 +418,7 @@ EI7M,JOHN,EU115,Main Island of Ireland
 EI8JX,,EU115,Main Island of Ireland
 EI9E,,EU115,Main Island of Ireland 
 EI9HX,,EU115,Main Island of Ireland
-EI9KA,,EU115,Main Island of Ireland
+EI9KA,,EU006,Inisheer
 EJ0A,,EU006,Inisheer,
 EJ0GI,,EU006,
 EJ0SR,,EU121,
@@ -420,7 +427,7 @@ EJ1DD,,EU121,
 EJ1E,,EU121,
 EJ1Y,,EU103,Little Saltee  Ireland 
 EJ3HB,,EU121,Bere
-EJ3Z,,EU121,Inishbofin (in Galway)
+EJ3Z,,EU121,Inisboffin LP 
 EJ4DRC,,EU121,
 EJ4II,,EU103,
 EJ5KF,GERARD,EU121,Bere Ireland
@@ -444,6 +451,7 @@ ES4GP,,EU149,
 ES6TZ/0,,EU034,Hiiumaa
 ES8DJ,,EU178,Ruhunu (Estonia)
 ES8UD,,EU178,
+F4FVI/P,,EU064,Noirmoulier
 F4GYM/P,,EU048,Belle Ile DXP
 FG,,NA102,
 FG1JD,,NA102,GrandeTerre,
@@ -462,6 +470,7 @@ FM5CD,,NA107,Martinique,
 FM5FJ,,NA107,Martinique,
 FO,,OC046,
 FO/M,,OC027,
+FO/NX1P,Paula,OC027,north side of Nuku Hiva-Marquesses
 FO5MD,,OC067,Raiatea,
 FP,,NA032,StPierre Miquelon,
 FR,,AF016,
@@ -546,6 +555,7 @@ G4PVM,Paul,EU005,Great Britain
 G4R,,EU005,Great Britain
 G4RRM,,EU005,Great Britain
 G4VMX,,EU005,Great Britain
+G4WGE/P,,EU120,Isle of Wigh M1 LP 24H
 G5ADY,,EU005,Great Britain
 G5D,,EU005,Great Britain
 G5HY,,EU005,Great Britain
@@ -716,6 +726,7 @@ IF9/IT9PPG,,EU054,Favignana DXP CW LP
 IF9A,,EU054,Favignana
 IF9ZWA,MIKE,EU054,Favignana,
 IG9,,AF018,
+IG9ITO,,AF019,Lampedusa
 IG9Y,,AF019,Lampedusa Italy,
 IH9YMC,,AF018,Pantelleria
 II3Y,TEAM,EU130,Barbana DXP
@@ -935,6 +946,7 @@ JR6CSY,,AS077,Kyushu
 JR6CSY,TAKA,AS077,Kyushu,
 JR6GIM,,AS077,Kyushu,
 JR6ITD,,AS077,Kyushu,
+JR8YLY/1,,AS008,CW
 JS,,AS007,Honshu,
 JS2NYJ,,AS007,Honshu
 JS6SRY,,AS024,Ishigaki,
@@ -946,10 +958,12 @@ JW0W,,EU063,Prins Karis Forland
 JW2US,,EU063,Svalbard,
 JW5E,,EU026,
 JX,,EU022,
-K1IMI,,NA137,Bailey
+K1IMI,,NA137,Bailey M1 N4CW W4TMO
 K1VSJ,,NA046,Martha's Vineyard LP
+K3Y,,,YDXA IOTA Special Event at K3LR 
 K4RUM,,NA026,Long
 K4TMC,,NA112,Bogue Banks Aka Emerald
+K8R,,OC044,Samoa
 KC2MBV,,NA026,Long
 KD2RD,,NA126,Long
 KG4,,NA015,
@@ -1128,7 +1142,7 @@ MM3LQK,,EU009,Stronsay,
 MM3N,,EU005,Great Britain,
 MM3S,,EU012,Shetland Mainland byG0MFR
 MM3T,DOUG,EU123,
-MM5DB,,EU008,Isle of Tiree
+MM5DB,,EU008,
 MM7DVZ,,EU005,Great Britain
 MM8C,,EU111,Ceann Ear
 MM8Z,,EU123,Cumbrae
@@ -1147,6 +1161,7 @@ MW1MDH,,EU005,Great Britain,
 MW8T,,EU005,Great Britain
 MW8T,,EU005,Great Britain,	
 MX5A,,EU011,StMary's DXP
+N1LI,,NA137,Long K2DG
 N2GC,,NA026,Long Isl.
 N3QQ,,NA065,Whidbey
 N4T,,NA079,Tortuga Isl
@@ -1179,6 +1194,7 @@ OH1K,,EU140,Kaunissaari,
 OH1MA,JAAKKO,EU096,
 OH1SIC,,EU096,Nauvo Nagu,
 OH1TD,TONY,EU096,Korpo,
+OH3OJ/1,,EU095,
 OH3T,TONI,EU096,
 OH5AD,,EU140,
 OH5TS,Kari,EU140,Kuorsalo,
@@ -1207,8 +1223,9 @@ OV9M,,EU171,Vendsyssel
 OX,,NA018,
 OX3LX,Bo,NA134,Aasiaat Isl.
 OY,,EU018,
-OY1CT,,EU018,Steymoy
+OY1CT,,EU018,Faroe Islands
 OY1R,,EU018,Regin Faroe Islands,
+OZ/K3ZJ,,EU172,Fyn LP
 OZ0FR,,EU029,Mon,
 OZ0J,Joe,EU029,Sjaelland
 OZ0ROM,,EU125,Romo DK1VK 
@@ -1266,6 +1283,7 @@ P4,,SA036,
 P43E,,SA036,Aruba,
 PA/DL6FBL,Ben,EU038,Texel Island
 PA/DA1DX,,EU038,Texel Island
+PA/OQ4T,,EU146,Schouwen Duiveland ON4TO
 PA0HFT,HANK,EU038,
 PA2G,,EU146,Schouwen Duiveland HP M1 24/H
 PA2JJB,JAN,EU038,Texel,
@@ -1406,6 +1424,7 @@ SQ1KSA,,EU132,Wolin
 SQ6NEJ,,EU132,Wolin
 SV0XAF,MIKE,EU067,Paros,
 SV5,,EU001,
+SV5/DH8BQA,,EU001,Rodes QRP
 SV5DKL,,EU001,Rhodes
 SV8CS,,EU052,
 SV8/DH5FS,,EU052,Paxos
@@ -1467,6 +1486,7 @@ TF7X,RC,EU071,Iceland,
 TI9,,NA012,
 TK,,EU014,
 TK/SP2EKO,,EU014,Corsica
+TK0C,,EU014,Corsica M1
 TK1NB,,EU014,Corsica,
 TK4LS,,EU014,Corsica,
 TK4RC,,EU014,Corsica
@@ -1513,6 +1533,7 @@ V6,,OC010,
 V7,,OC028,
 V73AY,,OC029,Majuro,
 V8,,OC088,
+V85NPV,,OC088,Brunei
 V8AQM,,OC088,
 VA7FC,Mike,NA036,Vancouver Isl
 VA7ISL,,NA036,Vancouver,
@@ -1599,8 +1620,10 @@ VY2OX,,NA029,Prince Edward
 VY2OX,,NA029,Prince Edward Canada,
 VY2SS,Robby,NA029,Prince Edward Canada,
 VY2TT,Ken,NA029,Prince Edward Canada
+W1N,,NA046,Nantucket Island DXP
 W1WBB,,NA031,Rhode Island Aka Aquidneck
 W1WSF,,NA213,Dauphin
+W2A,,NA026,Spec Event
 W2Z,,NA026,Long
 W4FNZ,,NA058,St Simons
 W4KAZ,,NA067,Great
@@ -1719,6 +1742,7 @@ YJ,,OC035,
 YJ0GA,,OC035,Efate
 YJ8RN,,OC111,Emae
 YM0T,,AS159,Kefken,
+YM7KK/0,,AS154,Giresun DXP
 YP13S,,EU183,Sacalinu Mare,
 YV0,,NA020,
 YV7MAY,MAY,SA012,Margarita Isl.

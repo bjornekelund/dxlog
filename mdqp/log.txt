@@ -1,4 +1,4 @@
-Parsing ../naqp/NAQPCW.txt
+Parsing ../naqp/NAQPCW-002.txt
 Ignored: EA5DFV,JOSE,
 Ignored: F4BHK,ERIK,
 Ignored: KG4HF,AL,KG4,

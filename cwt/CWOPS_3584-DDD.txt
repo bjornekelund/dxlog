@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-07-24
+# Last Edit,2024-07-31
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -769,6 +769,7 @@ EA6EJ,INI,3276,Palma de Mallorca Spain
 EA6TS,Pedro,,Balearic Isl. Spain
 EA6UP,Migueel,,Balearic Isl.
 EA7/LZ1ZF,Gosho,,
+EA7/VE3NZ,Ben,,
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
@@ -2207,6 +2208,7 @@ K8FC,Joe,581,Sebastian FL
 K8FP,Daryl,OH,Huber Heights OH
 K8FU,Mark,OK,Wister OK
 K8G,Rich,2123,(KB8GAE) Canfield OH
+K8GB,Dave,MI,Sterling Heights MI
 K8GL,Greg,693,Saginaw MI
 K8GT,Gerry,2031,Farmington Hills MI
 K8GU,Ethan,2179,Woodbine MD
@@ -2520,6 +2522,7 @@ KC3M,Jack,3099,Montoursville PA
 KC3NDU,Keith,CWA,Lake Ariel PA
 KC3NNO,Steve,3236,Harrisburg PA
 KC3RYH,Tim,PA,Hershey PA
+KC3SJ,Steve,KY,Richmand KY
 KC3TAU,Dale,3323,Hampstead MD
 KC3TOM,Tom,PA,Burgettstown PA
 KC3X,Hollis,1725,Snow Hill NC
@@ -4240,6 +4243,7 @@ NX4N,Chris,1917,Lutz FL
 NX8F,Ron,FL,Beverly Hills FL
 NX8Y,Ron,1598,Milford Center OH
 NX9G,Yan,1882,Bensenville IL
+NY1E,Dick,ME,Dover Foxcroft
 NY1Z,Bub,NH,Salem NH
 NY2H,Lou,2176,Port Jeffeson Station NY
 NY2PO,Pat,2578,Glen Spey NY
@@ -4708,6 +4712,7 @@ SM6XHM,Johan,2880,Aligsas Sweden
 SM6YNO,Hans,,Karlgustav Sweden
 SM7ATL,Ulf,,Kalmar Sweden
 SM7BUA,Mats,1950,Bankeryd Sweden
+SM7CBS,Tore,SM,Farjestaden Sweden
 SM7CIL,Arne,1410,Borgholm Sweden (also SM5CIL)
 SM7DHF,Goran,3471,Sweden
 SM7DLK,Goran,,Saxtorp Sweden
@@ -4781,6 +4786,7 @@ SV1CEI,Nik,,Nea Penteli Greece
 SV1CQN,Kostas,,Agrinio Greece
 SV1DAY,Manos,3334,Athens Greece
 SV1DOJ,Tassos,,Piraeus Greece
+SV1ENG,Tony,SV,Irakliou Athens Greece
 SV1ME,Manos,3583,Artemis TK Greece
 SV1PMQ,Giannis,,Pireus Greece
 SV1RUX,Dave,,Athens Greece
@@ -5868,7 +5874,7 @@ W8FN,Randy,1864,Columbus NC
 W8FSM,Fred,MI,Fenton MI
 W8GF,Dick,MI,Warren MI
 W8GU,Mark,OH,Uniontown OH
-W8HFY,Dave,OH,Kent OH
+W8HFY,David,OH,Kent OH
 W8HOG,Jerry,OH,Lynchburg OH
 W8HW,Bruce,958,Port Saint Lucie FL
 W8IQ,Kurt,755,Toledo OH
@@ -6448,6 +6454,7 @@ YL2CV,Vlad,,Kuldiga Latvia
 YL2TD,Gene,YL,
 YL3JD,Hanz,2227,Ikskile Latvia
 YN2AA,Jeff,67,Grenada Nicaragua
+YO/DF7CB,Chris,3484,
 YO2BBX,Nel,,Timis Romania
 YO2CEQ,Dan,,Sannicolau Mare Romania
 YO2LEA,Nelu,,Ineu Romania
@@ -6484,6 +6491,7 @@ Z33B,Kirk,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
 ZA/G4PVM,Paul,2413,Albania
 ZA1EM,Elvira,3076,Elbasan Albania
+ZA1F,Fatos,ZA,Tirana Albania
 ZA1RR,Miri,3279,Tirana Albania
 ZB2CW,Derek,,Gibraltar
 ZB2FK,Ernie,3244,Gibraltar

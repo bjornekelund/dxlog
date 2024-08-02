@@ -1,13 +1,12 @@
 !!Order!!,Call,Name,UserText,
 #
 # 0- VE2FK CW-RTTY Personal Names/Friends list
-# 1- Last Edit,2024-07-31 
+# 1- Last Edit,2024-08-01 
 # 2- Add your name, correction = direct to ve2fk@arrl.net
 # 3- Use  {NAME}  in macro to send.
-# 4- Thanks to Bob/N7WY for update
-# 5- Thanks to Bjorn/SM7IUN for scrubbing the file
-# 6- Compatible avec les concours suivants:
-# 7- Can be mixed at end of other CHF.
+# 4- Thanks to Bjorn/SM7IUN for scrubbing the file
+# 5- Compatible avec les concours suivants:
+# 6- Can be mixed at end of other CHF.
 # 9ADX
 # A1AWT
 # AEGEANRTTY
@@ -144,7 +143,6 @@
 4X6GP,Vic,Rehovot Israel (K2VCO)
 4X6KF,Moshe,Natanya Israel
 4Z1UF,Ilya,Lod Israel
-4Z4DX,DOV,4X,
 4Z4DX,Dov,Ramat Hasharon Israel
 4Z4KX,Mark,Rishon Le-Zion Israel
 4Z5KU,LEON,
@@ -1920,7 +1918,6 @@ DL5SJP,KARL,
 DL5SSA,ULI,
 DL5WS,HANS,
 DL5WW,GUENTER,
-DL5XL,FELIX,
 DL5XL,Felix,Hagen im Bremischen Germany
 DL5YCI,Mic,Loehne Germany
 DL5YL,Tina,Germany
@@ -3827,7 +3824,6 @@ IK1TJK,PIER,
 IK1TWC,FRANCO,
 IK1UGX,ANGELO,
 IK1WNO,Enrico,Genova Italy
-IK1YRA,CARL,Tonno Italy
 IK1YRA,Carl,Torino Italy
 IK1ZFO,LUIGI,
 IK1ZVJ,Feuce,
@@ -4580,7 +4576,6 @@ K1CBR,TED,CO
 K1CCO,ASA,Norfolk VA
 K1CDX,Rich,Chicopee MA
 K1CGJ,JON,Dracut MA
-K1CHM,CRAIG,Westerly RI
 K1CHM,Craig,Westerly RI
 K1CP,Clif,Belfast ME
 K1CR,JOE,
@@ -4665,7 +4660,6 @@ K1LB,Woody,Reno NV
 K1LEE,LEE,CT
 K1LGM,Joe,Milford CT
 K1LGO,Dennis,Brookline NH
-K1LGQ,DENNIS,Brookline NH
 K1LGQ,Dennis,Brookline NH
 K1LHO,Mike,Meridien CT
 K1LI,BRIAN,VT
@@ -5393,8 +5387,7 @@ K4HR,Davy,Barnwell SC
 K4HSF,BILL,
 K4HTA,PAT,VA
 K4HYJ,HANK,GA
-K4IA,BUCK,VA,
-K4IA,Craig,Fredericksburg VA
+K4IA,Buck,Fredericksburg VA
 K4IBP,EARL,
 K4IE,HUNTER,AL
 K4IG,John,Jenkinsville SC
@@ -6426,7 +6419,6 @@ K8NFJ,HARRY,
 K8NIA,STEPHEN,
 K8NOZ,DON,
 K8NS,Mike,Port Orange FL
-K8NU,CARL,Columbus OH
 K8NU,Carl,Columbus OH
 K8NVR,Ed,
 K8NWD,TIM,MI
@@ -6584,7 +6576,6 @@ K9ER,ROY,
 K9EU,Erik,Naperville IL
 K9EXY,Rick,Evansville IN
 K9EZ,KENT,NC
-K9EZ,KENT,NC,
 K9FAA,FRED,Bloomington IN
 K9FD,Merv,Maunaloa HI
 K9FD/KH6,MERV,HI
@@ -6686,7 +6677,6 @@ K9PLX,Chuck,Warrenville IL
 K9PM,Paul,Box Elder SD
 K9PMM,MARK,Naples FL
 K9PMV,JERRY,IL
-K9PW,PETE,IL
 K9PW,PETE,Schaumburg IL
 K9PY,Jerry,Midlothian IL
 K9QBC,JOHN,
@@ -6694,7 +6684,6 @@ K9QC,DAVE,WI
 K9QH,MIKE,WI
 K9QHO,MIKE,
 K9QJS,HOOP,Franklin TN
-K9QJS,Hoop,San Juan Island WA
 K9QQ,BRIAN,IL
 K9RB,ROG,
 K9RJC,JIM,
@@ -6788,7 +6777,6 @@ KA0S,MATT,AL
 KA0SIX,LEO,Kansas City KS
 KA0UEH,TOM,
 KA0WBP,DON,
-KA0WWT,BUTCH,
 KA0WWT,BUTCH,NV,
 KA1AF,FRANK,FL
 KA1ARB,Rob,
@@ -8475,7 +8463,6 @@ KG5VK,Steve,near Ben Franklin TX
 KG5WJZ,LUKE,TX,Leander TX
 KG5WPZ,TOM,Albuquerque NM
 KG5YOV,BEN,Ellicott City MD
-KG5YOV,Ben,San Antonio TX
 KG5ZMQ,BOB,LA
 KG5ZQ,LARRY,OK
 KG6AY,ART,AZ
@@ -8920,7 +8907,6 @@ KK7UQ,CLINT,
 KK7X,Dennis,Rathdrum ID
 KK7YL,RITA,AZ
 KK8A,Jim,Leavittsburg OH
-KK8A,JIM,OH,
 KK8B,CHUCK,OH
 KK8D,SCOTT,OH
 KK8I,LEN,
@@ -9355,7 +9341,6 @@ KR7LD,REED,ID
 KR7M,BILL,Tucson AZ
 KR7RK,Keith,Tucson AZ
 KR7W,RICK,WA
-KR7X,HANK,Beaverton OR
 KR7X,Hank,Beaverton OR
 KR8V,Gary,Clinton Township MI
 KR9U,Jim,Fort Wayne IN
@@ -9373,7 +9358,6 @@ KS3H,LARRY,VA
 KS3K,Steve,Boynton Beach FL
 KS3N,Tom,New Kensington PA
 KS4BF,GARY,
-KS4BG,ED,
 KS4BG,ED,Lafollwtte TN
 KS4KJ,Steve,
 KS4KQ,DAVE,
@@ -10720,7 +10704,6 @@ N3AM,John,Silver Spring MD
 N3AO,Carter,Blacksburg VA
 N3AOE,Jim,
 N3ATE,NATE,PA
-N3ATQ,SCOTT,Allentown PA
 N3ATQ,Scott,Allentown PA
 N3BB,Jim,Austin TX
 N3BBQ,DAN,TX
@@ -12099,7 +12082,6 @@ N9SF,BOB,
 N9SJ,DEB,IL
 N9SW,Gene,Wayne IL
 N9SXJ,DICK,
-N9SZ,Steve,Dayton OH
 N9SZ,STEVE,Raleigh NC
 N9TCA,MARK,IL
 N9TEL,DAVE,
@@ -12354,7 +12336,6 @@ NG0E,JON,MN
 NG0Z,JOHN,MN
 NG1G,PAT,RI
 NG1I,FRANK,MA
-NG1M,MIKE,RI
 NG1M,MIKE,Wakefield RI
 NG1R,Roger,Danbury CT
 NG1V,HARSHA,Westford MA
@@ -12584,7 +12565,6 @@ NO5T,DAVID,Rockwall TX
 NO5W,Chuck,New Orleans LA
 NO6T,Mark,Cortaro Contest Club San Diego (N5ZO)
 NO7T,THOMAS,AZ
-NO8C,MIKE,
 NO8C,MIKE,Miller City OH
 NO8DX,JIM,K8MR
 NO8E,JOHN,
@@ -13403,7 +13383,6 @@ OY3JE,JAN,
 OZ/DM6EE,Lutz,
 OZ0F,JENS,
 OZ11A,LEIF,
-OZ1AAR,VILLY,DX,
 OZ1AAR,Villy,Horsholm Denmark
 OZ1ADL,JAN,
 OZ1DGQ,PER,
@@ -13590,7 +13569,6 @@ PA3GCU,RICH,
 PA3GDG,FRED,
 PA3GDP,CEES,
 PA3GLH,Rimus,Doorn Netherlands
-PA3GLH,RINUS,DX,
 PA3GMM,WIM,
 PA3GSV,Jan,Alphen aan den Rijn Netherlands
 PA3GVI,ROB,
@@ -14739,7 +14717,6 @@ TJ1MW,MIKE,
 TK/F6FGY,JACK,
 TK/SQ5RK,ROMEK,
 TM0P,SERGE,
-TM0QSM,,Transat Quebec/St-Malo
 TM1EMB,BRUNO,
 TM6A,PAT,
 TM6M,OLI,
@@ -15399,7 +15376,6 @@ VA7ST,Bud,Lake Country BC
 VA7SW,IAN,BC
 VA7XB,JOHN,BC
 VA7XX,PAT,BC
-VC2TQSM,,QC Transat Quebec/St-Malo
 VE1ALQ,DARRELL,
 VE1AOE,Don,Truro NS
 VE1ASE,Mike,Quispamsis NB
@@ -17955,7 +17931,6 @@ W6UB,Larry,Friendsville TN
 W6UDO,Joe,Crooked River Ranch OR
 W6UG,PHIL,Cardiff CA
 W6UM,Charlie,
-W6UM,PHIL,San Luis Obispo CA
 W6UV,JERRY,
 W6UZK,DAVID,
 W6VF,RC,
@@ -18301,7 +18276,6 @@ W8KX,JOHN,MI
 W8LIQ,JIM,
 W8LRL,Wally,
 W8LU,KEN,MI
-W8LVI,RON,OH,
 W8LVI,Ron,Pataskala OH
 W8LVN,Bill,Winthrop Harbor IL
 W8LYJ,RAY,CO
@@ -18537,7 +18511,6 @@ W9NET,John,
 W9NGA,DON,
 W9NHE,TED,WI
 W9NJY,Andy,Wauwatosa WI
-W9NJY,ANDY,WI,
 W9NL,KEVIN,
 W9NLP,TOM,WI
 W9NX,Kent,Columbus IN
@@ -20129,7 +20102,6 @@ WU6P,Nian,Sunnyvale CA
 WU6W,RICK,NV
 WU6X,Dennis,Auburn CA
 WU6X/4,Dennis,(could be RV)
-WU7F,MARK,Centerville UT
 WU7F,Mark,Centerville UT
 WU7R,CHARLES,MT
 WU8R,Roman,Wellston OH
