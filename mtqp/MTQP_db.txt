@@ -1,7 +1,7 @@
 # Montana QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-08-02
+# Last updated 2024-08-04
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -549,6 +549,7 @@ AC9TN=IL
 AC9TO=WI
 AC9VQ=IN
 AC9X=IN
+AC9XS=IN
 AD0AB=KS
 AD0BI=MO
 AD0DA=CO
@@ -1384,6 +1385,7 @@ K1EBY=CT
 K1EC=CT
 K1EEE=NH
 K1EFI=MD
+K1EIC=CT
 K1EO=MA
 K1EP/6=CA
 K1EP=MA
@@ -9706,6 +9708,7 @@ NU6N=CA
 NU6S=CA
 NU6T=CA
 NU7F=WA
+NU7I=AZ
 NU7J=WA
 NU7K=AZ
 NU7Y=AZ
@@ -9720,6 +9723,7 @@ NV0S=CO
 NV0U=MO
 NV1W=MA
 NV1X=VT
+NV3K=PA
 NV3Z=MD
 NV4B=AL
 NV4C=GA

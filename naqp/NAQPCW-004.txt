@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2024-07-27
+# 1-Last Edit,2024-08-02
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE2FK 
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -566,6 +566,7 @@ AC9TN,JOHN,IL,
 AC9TO,MARV,WI,
 AC9VQ,KEN,IN,
 AC9X,,IN,
+AC9XS,BRAILLE,IN
 AD0AB,JIM,KS,
 AD0BI,LAR,MO,
 AD0DA,,CO,
@@ -1405,6 +1406,7 @@ K1EBY,FRANK,CT,
 K1EC,CONRAD,CT,
 K1EEE,MIKE,NH,
 K1EFI,FRED,MD,
+K1EIC,BRAILLE,CT
 K1EO,,MA,
 K1EP,ED,MA,
 K1EP/6,,CA,
@@ -9774,6 +9776,7 @@ NU6N,ARK,CA,
 NU6S,,CA,
 NU6T,RICH,CA,
 NU7F,JOHN,WA,
+NU7I,BRAILLE,AZ
 NU7J,TOM,WA,
 NU7K,MIKE,AZ,
 NU7Y,QUINT,AZ,
@@ -9788,6 +9791,7 @@ NV0S,GARY,CO,
 NV0U,RANDY,MO,
 NV1W,JOE,MA,
 NV1X,,VT,
+NV3K,ADAM,PA,
 NV3Z,,MD,
 NV4B,CHRIS,AL,
 NV4C,IAN,GA,
