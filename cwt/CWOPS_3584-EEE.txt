@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-07-31
+# Last Edit,2024-08-05
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -769,7 +769,7 @@ EA6EJ,INI,3276,Palma de Mallorca Spain
 EA6TS,Pedro,,Balearic Isl. Spain
 EA6UP,Migueel,,Balearic Isl.
 EA7/LZ1ZF,Gosho,,
-EA7/VE3NZ,Ben,,
+EA7/VE3NZ,,Ben,
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
@@ -6424,6 +6424,7 @@ WX8C,Harry,2528,Grand Blanc MI
 WX8NN,Andy,MI,Shelby TWP MI
 WX9U,Pete,2913,Phoenix AZ
 WY0M,Mike,MO,Saint Louis MO
+WY3P,Steve,PA,
 WY6K,Mike,TX,Parker TX
 WY7CWO,,WY,Rocky Mountain CWops Club (Cheyenne WY)
 WY7M,Chuck,WY,Worland WY
