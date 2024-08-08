@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-08-05
+# Last Edit,2024-08-07
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -47,6 +47,7 @@
 8P9NX,Peter,,Barbados (W0SA)
 8Q7ZO,Mark,1224,(N5ZO)
 9A/N4XU,Bob,,Zagreb Croatia
+9A/W3WM,Will,9A,Remote
 9A/S57KM,Sandi,9A,
 9A1AA,Ivo,2447,Belisce Croatia
 9A2AJ,Tom,2506,(Tomislav)  Lipik Croatia
@@ -3094,6 +3095,7 @@ KW4GF,Ed,VA,Virginia Beach VA
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL
 KW4N,Tony,FL,Tallahassee FL
+KW4NJA,Scott,GA,Athens GA
 KW4V,Les,FL,Casselberry FL
 KW4WA,Julio,2849,Royal Palm Beach FL
 KW5CW,Jim,2346,Anna TX
@@ -3385,6 +3387,7 @@ N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
 N1VH,Marty,1927,Braintree MA
 N1XF,Glen,ME,South Berwick ME
+N1XI,Paul,NC,Lansing NC
 N1XS,Chris,1817,Dallas TX
 N1YL,Anne,2933,Greenfield MA
 N1ZTY,Ron,AZ,Scottsdale AZ
@@ -3622,7 +3625,7 @@ N4SR,Todd,1050,Knoxville TN
 N4TB,Terry,106,Avon Park FL
 N4TMM,Jim,1791,Atlanta GA
 N4TP,Pete,FL,Tampa ARC FL
-N4TTU,Tom,GA,Athens GA
+N4TTU,Tom,CWA,Athens GA
 N4TY,Ty,501,Georgetown KY
 N4UB,Don,GA,BLAKELY GA
 N4UC,Art,858,Huntsville AL
@@ -4268,6 +4271,7 @@ OE2BZL,Knut,,Pfarrwerfen Austria
 OE3BBC,Rain,,Wien Austria
 OE3DIA,Ivan,OE,Vienna Austria
 OE3GSA,Gerd,537,Wolfsbach Austria
+OE3HTC,Heinz,OE,Steinakirchen Austria
 OE3K,Ivan,,(OE1DIA) Vienna Austria
 OE3KAB,Karl,,Muenichsthal Austria
 OE3KME,Martin,3557,Golling an der Erlauf Austria
@@ -5909,6 +5913,7 @@ W8UA,Javan,2662,Rittman OH
 W8UE,Ted,MI,Ypsilanti MI
 W8UE/4,Ted,,
 W8UV,Phil,DE,Wilford DE
+W8UY,Terry,CWA,Defiance OH
 W8VNZ,Mark,MI,Montrose MI
 W8WOJ,Don,MI,Midland MI
 W8WTS,Jim,1689,Chagrin Falls OH
@@ -6178,6 +6183,7 @@ WB5K,Jay,1769,Allen TX
 WB5LXJ,Greg,TX,Garland TX
 WB5N,Dave,3350,Houston TX
 WB5OZA,Doug,LA,Estherwood LA
+WB5RYB,Bill,GA,Fayetteville GA
 WB5YUZ,Dan,3530,Thorndale TX
 WB6BEE,Don,VA,Williamsburg VA
 WB6BRY,Brian,CA,Valley Springs CA

@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3588
-# Last updated 2024-08-06
+# Last updated 2024-08-08
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -42,6 +42,7 @@
 8Q7ZO=Mark;1224
 9A/N4XU=Bob;9A
 9A/S57KM=Sandi;9A
+9A/W3WM=Will;9A
 9A1AA=Ivo;2447
 9A2AJ=Tom;2506
 9A2EU=Zlatko;9A
@@ -3079,6 +3080,7 @@ KW4GF=Ed;VA
 KW4JM=Scott;CWA
 KW4MG=Gary;FL
 KW4N=Tony;FL
+KW4NJA=Scott;GA
 KW4V=Les;FL
 KW4WA=Julio;2849
 KW5CW=Jim;2346
@@ -3368,6 +3370,7 @@ N1TX=Larry;912
 N1UO=Chris;RI
 N1VH=Marty;1927
 N1XF=Glen;ME
+N1XI=Paul;NC
 N1XS=Chris;1817
 N1YL=Anne;2933
 N1ZTY=Ron;AZ
@@ -3605,7 +3608,7 @@ N4SR=Todd;1050
 N4TB=Terry;106
 N4TMM=Jim;1791
 N4TP=Pete;FL
-N4TTU=Tom;GA
+N4TTU=Tom;CWA
 N4TY=Ty;501
 N4UB=Don;GA
 N4UC=Art;858
@@ -4251,6 +4254,7 @@ OE2BZL=Knut;OE
 OE3BBC=Rain;OE
 OE3DIA=Ivan;OE
 OE3GSA=Gerd;537
+OE3HTC=Heinz;OE
 OE3K=Ivan;OE
 OE3KAB=Karl;OE
 OE3KME=Martin;3557
@@ -5887,6 +5891,7 @@ W8UA=Javan;2662
 W8UE/4=Ted;
 W8UE=Ted;MI
 W8UV=Phil;DE
+W8UY=Terry;CWA
 W8VNZ=Mark;MI
 W8WOJ=Don;MI
 W8WTS=Jim;1689
@@ -6156,6 +6161,7 @@ WB5K=Jay;1769
 WB5LXJ=Greg;TX
 WB5N=Dave;3350
 WB5OZA=Doug;LA
+WB5RYB=Bill;GA
 WB5YUZ=Dan;3530
 WB6BEE=Don;VA
 WB6BRY=Brian;CA

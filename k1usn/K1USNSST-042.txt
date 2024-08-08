@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-07-30
+# 1-Last Edit,2024-08-06
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -9,6 +9,7 @@
 # 5-K1USN CW Slow Speed (ConTest) friday/sunday night 
 # DX
 # K1USNSST
+# K1USNSSTOP
 2E0GKC,PAUL,DX,Osfordshie England
 2E0IIV,STEVE,DX,Chester England
 2E0PKK,PAUL,DX,Southampton England
@@ -22,6 +23,7 @@
 5P5Q,VERNER,DX,Allinge Denmark
 8P9NX,PETER,DX,Rochester MN
 9A/DM6EE,LUTZ,DX,
+9A/KF0GVX,RYAN,DX,
 9A3KG,JURE,DX,Split Croatia
 9A3YT,DARKO,DX,Kastav Croatia
 9A5AX,Josip,DX,Dubrovnik Croatia
@@ -903,6 +905,7 @@ AL7R,BRENT,AZ,
 AL7T,DOYLE,MN,Carlos MN
 AZ1A,JUAN,DX,Buenos Aires Argentina
 CE1EW,MARI,DX,Copiapo Chile
+CE3FJK,FERNANDO,DX,
 CG2X,DUB,QC,Royal Canadian Air Force Centennial
 CM3OR,ZENI,DX,Bejucal Mayabeque Cuba
 CM6SQ,NELSON,DX,Caibarien Cuba
@@ -1430,6 +1433,7 @@ K0WHV,JOHN,IA,
 K0WHW,BILL,AZ,Tempe AZ
 K0WOI,DAN,IA,Minburn IA
 K0WRY,KENT,KS,
+K0WV,JOHN,WI,
 K0XB,RICK,MN,
 K0XB/6,RICK,CA,
 K0XG,RICHARD,IA,
@@ -1742,7 +1746,7 @@ K2KIR,,NY,
 K2KQ,DON,NY,
 K2KRG,STEVE,NY,Canandaigua NY
 K2KT,TIM,VA,Arlington VA
-K2KW,KEN,VA,
+K2KW,KEN,TX,
 K2KXK,KEN,NC,
 K2LCK,,NY,
 K2LCT,,CO,
@@ -1953,7 +1957,7 @@ K3IF/VE9,ILIE,NB,
 K3II,,PA,
 K3ILC,,CO,
 K3IPK,RICH,PA,
-K3IRV,HIV,NC,
+K3IRV,IRV,NC,
 K3ISH,,PA,
 K3IT,VASA,MD,
 K3IU,KEN,RI,
@@ -4289,6 +4293,7 @@ KC1NPZ,RICH,MA,Plymouth MA
 KC1RWM,JOSE,MA,Fall River MA
 KC1SA,STEVE,CT,
 KC1SQ,,MA,
+KC1TLE,JOHN,MA,
 KC1UCK,CHUCK,ME,
 KC1V,GEORGE,CT,Somers CT
 KC1WD,BARRY,MA,Framingham MA
@@ -6083,6 +6088,7 @@ KV0KV,,NE,
 KV0Q,,CO,
 KV1E,JACK,IA,
 KV1J,ERIC,MA,
+KV2C,YANG,VA,
 KV4UD,BILL,GA,
 KV4VO,BOB,FL,
 KV5D,,AR,
@@ -8177,6 +8183,7 @@ N9DD,TOM,IN,
 N9DFD,MIKE,GA,
 N9DG,,WI,
 N9DJ,JOHN,IL,
+N9DK,DAVE,CA,
 N9DR,DOUG,IN,
 N9DT,,IL,
 N9DX,,MI,
