@@ -1,0 +1,6 @@
+# URC DX RTTY prefill database
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2024-08-16
+SM6GPV=SWS
+SM7IUN=SSW

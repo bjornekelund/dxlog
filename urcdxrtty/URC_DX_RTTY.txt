@@ -1,0 +1,9 @@
+#
+!!Order!!,Call,Exch1,UserText
+# Send corrections direct to ve2fk@arrl.net
+# Last Edit,2022-04-06
+# Compiled by NO5W
+#
+SM7IUN,SSW,
+SM7IUN,SSW,
+SM6GPV,SWS,
