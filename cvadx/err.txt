@@ -1,0 +1,6 @@
+Scrubbing CVADXCW.txt
+Invalid entry: "PT5R,,,"
+Invalid entry: "PU1JAH,RJ,"
+Invalid entry: "PV8SM,,,RR,"
+Invalid entry: "PY8AA,PA,"
+Invalid entry: "ZZ2ZP,SP,"
