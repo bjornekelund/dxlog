@@ -1,5 +1,4 @@
 #!/bin/bash
-# File 2 should be the newer
 FILE=`ls CVADXCW*.txt | tail -1 2> /dev/null`
 OUTFILE=CVADX_db.txt
 

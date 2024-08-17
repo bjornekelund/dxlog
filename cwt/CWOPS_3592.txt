@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-08-14
+# Last Edit,2024-08-16
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -3236,7 +3236,7 @@ M0MUI,Mui,2855,Norwich England
 M0MUT,Andy,,Ponypool Wales (or /MM)
 M0MZB,Matt,3468,Calder Brodge England
 M0NGN,Nige,2459,(Nigel) Durham England
-M0NJW,Nigel,,West Yorkshire England
+M0NJW,Nigel,3592,West Yorkshire England
 M0NNQ,LEO,3317,Brampton Cumbria Enland
 M0NPT,Abdel,2344,(7X2TT) Nottingham England
 M0ORD,Rog,G,Pinkneys Green England
@@ -4666,6 +4666,7 @@ SE0B,Claes,1849,Varmdo Sweden (SA0BXV)
 SE4E,Lars,SM,Ludvika Sweden (SM4DQE)
 SE5E,Ingo,2097,Vallingby Sweden (SM5AJV)
 SE5T,Kare,3467,(SM5GRD)  >Grillby Sweden
+SE5V,Claes,1849,Sweden
 SE6J,Johan,2880,(SM6XHM)  Alingsas Sweden
 SE6K,Mats,,Ugglarp Sweden
 SF0Z,Jens,2237,(SM0HEV) Upplands-Vasby Sweden
