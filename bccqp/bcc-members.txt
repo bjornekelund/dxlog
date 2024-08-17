@@ -405,6 +405,7 @@ DL9NEI,Norbert
 DL9UP,Patrick
 DL9YAJ,Bernd
 DM2WB,Markus
+DM4KA,Stephan
 DM5EE,Ulrich
 DM5JBN,Andreas
 DM5TI,Hartmut
