@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-08-16
+# Last Edit,2024-08-17
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -4151,7 +4151,7 @@ NN1SS,John,NH,Milford NH
 NN2DX,Bray,NY,RHRDXA Pawling NY
 NN2L,Chuck,3231,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
-NN3Q,Russ,PA,Wernersville PA
+NN3Q,Russ,3593,Wernersville PA
 NN3W,Rich,VA,Vienna VA
 NN4K,Mac,1227,Stone Mountain GA
 NN4NT,Rob,AL,Madison AL
