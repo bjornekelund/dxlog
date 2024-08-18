@@ -10,4 +10,6 @@ gawk -f mdqp.awk $FILE | sort | sed 's/^#./#/g' > MDQP_db.txt
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit
