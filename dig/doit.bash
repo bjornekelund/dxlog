@@ -15,4 +15,6 @@ cat $FILE | sed 's/\"//g' | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/^\
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

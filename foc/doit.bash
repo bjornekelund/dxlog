@@ -1,11 +1,15 @@
 #!/bin/bash
+OUTFILE=FOC_db.txt
+XDTFILE=foc.xdt
 
-curl -s https://foc.telegraphy.de/db/FOC_db.txt --output FOC_db.txt
-curl -s https://foc.telegraphy.de/db/foc.xdt --output foc.xdt
+curl -s https://foc.telegraphy.de/db/FOC_db.txt --output $OUTFILE
+curl -s https://foc.telegraphy.de/db/foc.xdt --output $XDTFILE
 
 echo "Downloaded FOC_db.txt and foc.xdt"
-unix2dos -q foc.xdt FOC_db.txt
+unix2dos -q $XDTFILE $OUTFILE
 
-cp foc.xdt ../xdt
+cp $XDTFILE ../xdt
+
+../copytosourcetree.bash $OUTFILE
 
 exit

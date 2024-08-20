@@ -16,6 +16,8 @@ DN4KP,Klaus
 DB6JG,Peter
 DB7MA,Mario
 DB8NI,Andreas
+DC2CL,Claudia
+SA5YCL,Claudia
 DC2KN,Robert
 DC2VE,Frank
 DN1VN,Frank
