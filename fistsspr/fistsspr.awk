@@ -36,8 +36,9 @@ BEGIN {
     if (loccol > 0 && $loccol != "") location[$callcol] = $loccol;
     if (namecol > 0 && $namecol != "" && $namecol ~ /^[A-Za-z]+$/) name[$callcol] = $namecol;
 
+    if ($callcol ~ /^2E[0-9]/) location[$callcol] = "223";
     if ($callcol ~ /^[GM][BC]?[0-9]/) location[$callcol] = "223";
-    if ($callcol ~ /^[GM]D[0-9]/) location[$callcol] = "114";
+    if ($callcol ~ /^[GM2]D[0-9]/) location[$callcol] = "114";
     if ($callcol ~ /^[GM]I[0-9]/) location[$callcol] = "265";
     if ($callcol ~ /^[GM]J[0-9]/) location[$callcol] = "122";
     if ($callcol ~ /^[GM][MS][0-9]/) location[$callcol] = "279";
