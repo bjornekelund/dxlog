@@ -1,8 +1,7 @@
 BEGIN {
   printf("#0 UK EI CC database with six-position grids\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#1 Data collected and maintained by Tim EI2KA\n");
+  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }
 {
@@ -13,12 +12,17 @@ BEGIN {
     printf("\"%s\" --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } 
   else {
-    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^[A-Ra-r]{2}[0-9]{2}[A-Xa-x]{2}$/) {
-      if (lines[$1] != "") {
-        printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+    call = $1;
+    grid = $col;
+    if (call ~ /^[0-9A-Z/]+$/ && grid ~ /^[A-Ra-r]{2}[0-9]{2}[A-Xa-x]{2}$/) {
+      if (calls[$1] != "") {
+        if (grids[$1] != grid)
+          printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }
       else {
         printf("%s=%s\n", $1, $col);
+        calls[$1] = $1;
+        grids[$1] = $col;
         lines[$1] = $0;
       }
     }

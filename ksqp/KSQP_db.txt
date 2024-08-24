@@ -1,7 +1,7 @@
 # Kansas QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-08-20
+# Last updated 2024-08-24
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
