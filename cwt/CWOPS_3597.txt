@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-08-23
+# Last Edit,2024-08-24
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -5692,6 +5692,7 @@ W5GMD,Glen,TX,Alvin TX
 W5GN,Barry,3148,Dallas TX
 W5GW,Gary,3461,Mountain Coty TX
 W5HFF,Ross,TX,Richmond TX
+W5HK,Steve,3597,Bastrop TX
 W5HPQ,Steve,NM,Santa Fe NM
 W5IZ,Al,622,Burleson TX
 W5JAW,Jim,68,Austin TX
