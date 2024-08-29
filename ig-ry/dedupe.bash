@@ -1,7 +1,8 @@
 #!/bin/bash
 
 OUTFILE=SCRY_2024-900.txt
-FILE="BIG-IG_WW_RTTY.txt SCRY_2024-004.txt"
+NEW=`ls SCRY_2024-0* | tail -1 2> /dev/null`
+FILE="BIG-IG_WW_RTTY.txt $NEW"
 
 echo Parsing $FILE
 dos2unix -q $FILE

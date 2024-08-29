@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-08-24
+# Last Edit,2024-08-28
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -707,7 +707,7 @@ DM7EE,Christian,,Wolfsburg Germany
 DO4DXA,Marc,1851,Germering Germany (V31MA)
 DO6AN,Nils,3141,Hamburg Germany
 DP4X,Mario,2801,(DJ2MX)  Muenchen Germany
-DS1TUW,Ji,,Seoul South Korea
+DS1TUW,Ji,3600,Seoul South Korea
 DP7D,Frank,,Essen Germany
 DU3LA,Larry,644,Mabalacat Phillippines (N0QM)
 DU7ET,Bob,3523,Negros Oriental Philippines  (EX0ET)
@@ -2486,6 +2486,7 @@ KB8RGW,Bud,CWA,?
 KB8TT,Dave,OH,Eastlake OH
 KB8W,Dan,MI,Laurim MI
 KB8XG,Dave,MI,Muskegon MI
+KB9AY,Dan,IN,Greenwood IN
 KB9DKR,Carl,2258,Franklin TN
 KB9GKG,Ken,IN,Kokomo IN
 KB9ML,Mike,3024,Hagerstown IN
@@ -3017,7 +3018,7 @@ KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ1O,Santi,VA,
 KQ3H,Tony,NC,Greensboro NC
 KQ4DFV,Mike,CWA,Port Charlotte, FL
-KQ4E,Jim,TN,Rogersville TN
+KQ4E,Jim,3598,Rogersville TN
 KQ4EFL,Mike,3492,Marietta GA
 KQ4R,Ed,FL,Port Orange FL
 KQ4Y,Rick,FL,Fernandina Beach FL
@@ -3636,7 +3637,7 @@ N4SR,Todd,1050,Knoxville TN
 N4TB,Terry,106,Avon Park FL
 N4TMM,Jim,1791,Atlanta GA
 N4TP,Pete,FL,Tampa ARC FL
-N4TTU,Tom,CWA,Athens GA
+N4TTU,Tom,3599,Athens GA
 N4TY,Ty,501,Georgetown KY
 N4UB,Don,GA,BLAKELY GA
 N4UC,Art,858,Huntsville AL
@@ -3976,6 +3977,7 @@ N9UA,Mike,1097,Omro WI
 N9UNX,Chad,3151,Indianapolis IN
 N9VJ,Chuck,2799,Wauwatosa WI
 N9WKE,Bruce,2512,Champaign IL
+N9WKW,John,IN,Plainfield IN
 N9XX,Dan,601,New Berlin WI
 NA0F,LARRY,MN,Pengilly MN
 NA1LZ,Yan,IL,North America LZ Contest Club (Skokie IL)
@@ -4066,7 +4068,7 @@ NF3R,Joel,1971,Pottstown PA
 NF4A,Charlie,282,Lynn Haven FL
 NF5KF,Klod,2326,(F5PBL) (Claude)  Plantation FL
 NF6N,Kyle,CA,Paso Robles CA
-NF6P,Dave,TN,TN RVing
+NF6P,Dave,WI,WI RVing
 NF6R,Bill,CA,Bakersfield CA
 NF7D,Bob,1279,Kingman AZ
 NF7X,Clayton,ID,Lewiston ID
@@ -4375,6 +4377,7 @@ OK2BOB,Bob,,Olomouc Czech Republic
 OK2BTE,Alois,,Jablunkova Czech Republic
 OK2CQR,Petr,92,(OK7AN) Neratovice Czech Republic
 OK2FD,Karel,,Stare Hobzi Czech Republic
+OK2HBR,Zdenek,,Czech Republic
 OK2IW,Swat,3111,Praslavicz Czech Republic
 OK2JS,Jan,,Velka Bites Czech Republic
 OK2NAJ,Jiri,2740,Czech Republic
@@ -4456,6 +4459,7 @@ OT7T,John,,Merelbeke Belgium
 OV2T,Maarten,,North Jutland Denmark
 OV2V,Per,,Viuf Denmark
 OX3XR,Peter,1116,Nuuk Greenland
+OY/WT8P,Jim,2456,
 OY1CT,Carsten,797,Kvivik Faroe Islands
 OZ1AAR,Villy,2694,Horsholm Denmark
 OZ1JHM,Jal,1420,Lundby Denmark
@@ -5624,6 +5628,7 @@ W4PM,Puck,93,Mechanicsville VA
 W4QDV,Dave,GA,Powder Springs GA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
+W4REM,Ron,NC,Hayesville NC
 W4RJF,Ron,3548,Raleigh NC
 W4RK,Bill,459,Jefferson City MO
 W4RKU,Kevin,1978,Boston VA
@@ -6350,6 +6355,7 @@ WN5C,Sam,OK,Norman OK
 WN5T,Mike,TN,(Previously KO4GEO) Nashville TN
 WN5V,Dave,2642,Welsh LA
 WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
+WN7JT,Gabe,WA,Arlington WA
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
 WN8F,Ken,NY,Ashland KY
