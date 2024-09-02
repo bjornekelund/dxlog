@@ -1,6 +1,6 @@
 #!/bin/bash
 #FILE=`ls CWOPS* | tail -1 2> /dev/null`
-FILE=`ls CWOPSOPEN_2023-* | tail -1 2> /dev/null`
+FILE=`ls CWOPSOPEN_2024-* | tail -1 2> /dev/null`
 OUTFILE=CWOpen_db.txt
 XDTFILE=CWOpen.xdt
 
@@ -11,6 +11,8 @@ echo Parsing $FILE
 gawk -f txt.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
+
+../copytosourcetree.bash $OUTFILE
 
 echo
 
