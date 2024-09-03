@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-08-27
+# 1-Last Edit,2024-09-03
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -444,6 +444,7 @@ AC5T,LYNN,TX,
 AC5TM,,LA,
 AC5TU,JIM,TX,
 AC5XK,DON,DC,
+AC6CZ,CHARLEE,CA,
 AC6GO,ROB,CA,Sunnyvale CA
 AC6JA,MIKE,CA,
 AC6NT,ERIC,TN,Franklin TN
@@ -4717,6 +4718,7 @@ KD7H,ROB,WA,
 KD7HU,CHARLIE,MT,Billings MT
 KD7ICW,BRAD,OR,Banks OR
 KD7JG,JOE,OR,Summerville OR
+KD7KDO,PAUL,AZ,
 KD7LX,COREY,WA,Bingen WA
 KD7MSC,SEAN,OR,
 KD7MU,,WA,
@@ -4861,6 +4863,7 @@ KE1VT,KEVIN,VT,
 KE2AEQ,TODD,NY,?
 KE2CWO,Mike,NY,(K4RUM) 
 KE2D,BOB,NJ,
+KE2DVR,ANDREW,NY,
 KE2EH,MIKE,PA,Pocono Lake PA
 KE2LW,RON,NY,Rochester NY
 KE2N,,VA,
@@ -5902,10 +5905,12 @@ KQ4AAR,IKE,NC,Cary NC
 KQ4DAP,CAINAN,GA,Perry GA
 KQ4E,JIM,TN,Rogersville TN
 KQ4EFL,MIKE,GA,Marietta GA
+KQ4IOI,DAVE,FL,
 KQ4JB,JOE,NC,Winston Salem NC
 KQ4KX,RICHARD,FL,
 KQ4LA,JEFF,VA,
 KQ4LEO,IAN,VA,Stepheens City VA
+KQ4PNZ,MIKE,VA,
 KQ4R,ED,FL,
 KQ4RH,,VA,
 KQ4Y,RICK,FL,
@@ -6276,6 +6281,7 @@ M0RYB,PETER,DX,Norwich England
 M0SDB,DANNY,DX,Sheffield England
 M0SHM,STEVE,DX,Lancs England
 M0SUY,Demetre,DX,(SV1UY)  Gateshead England
+M0TWA,DAVID,G,
 M0VKR,LEE,DX,
 M0WDD,DAVID,DX,Salford Manchester England
 M1VPN,DAMIAN,DX,Honiton England
@@ -11447,6 +11453,7 @@ W4REB,,KY,
 W4REM,RON,NC,Hayesville NC
 W4RER,RALPH,FL,Dunnellon FL
 W4RFR,,TN,
+W4RFV,TONY,FL,
 W4RHG,,GA,
 W4RIN,RIN,GA,Cumming GA
 W4RJF,RON,NC,
@@ -13548,6 +13555,7 @@ WB2LBQ,PAUL,NY,Port Jefferson Stati NY
 WB2LMV,GLENN,NY,Napanoch NY
 WB2LOS,,NY,
 WB2LSP,,DE,
+WB2MFU,JIM,TX,
 WB2NFL,BOB,NY,
 WB2NPY,,NJ,
 WB2NVR,BOB,NY,
