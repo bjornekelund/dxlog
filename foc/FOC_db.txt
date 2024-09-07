@@ -1,4 +1,4 @@
-# Updated up to FOC #2234 - MQ0MZB. Updates to fabian@fkurz.net.
+# Updated up to FOC #2236 - GQ4PCE. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -276,6 +276,7 @@ G0EFO=Mike;2068
 G0GKH=Dave;1939
 G0HFL=Nick;2171
 G0IBN=Andy;2048
+G0KPE=Carl;2235
 G0MFR=Gareth;2204
 G0NAN=Josh;1925
 G0OPB=Tony;1777
@@ -354,6 +355,7 @@ G4IRN=John;2000
 G4IZZ=Mike;2210
 G4LFU=Tony;2091
 G4OKT=Keith;2137
+G4PCE=Richard;2236
 G4RCG=John;1899
 G4RMV=Mike;1649
 G4RWD=Ken;2129
@@ -412,6 +414,7 @@ GQ0GKH=Dave;1939
 GQ0HFL=Nick;2171
 GQ0HKS=Will;2176
 GQ0IBN=Andy;2048
+GQ0KPE=Carl;2235
 GQ0MFR=Gareth;2204
 GQ0PNM=Pete;2095
 GQ0VQW=Sandy;1931
@@ -472,6 +475,7 @@ GQ4KGK=Norman;2208
 GQ4LFU=Tony;2091
 GQ4MM=Tim;2218
 GQ4OKT=Keith;2137
+GQ4PCE=Richard;2236
 GQ4RCG=John;1899
 GQ4RMV=Mike;1649
 GQ4SIE=Rik;1503
@@ -1237,7 +1241,6 @@ XT2WP=Fred;1746
 XU7AAV=Andy;1564
 XU7ABC=Alan;1500
 XV/JA1GZV=Motoaki;2052
-XV2D=Mats;2114
 XV9D=Mats;2114
 XW2A=Andy;1564
 XX6IK=Manuel;1877

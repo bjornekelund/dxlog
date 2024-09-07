@@ -1,12 +1,14 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2024-08-01
+# 1-Last Edit,2024-08-16
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE5MX via WV4P
 # 4-This file use EXCH1  for exchange, not state.
 # 5-Thanks Bjorn SM7IUN for corr. 
 # WRT
+
+
 4U1WB,MASA,DC,
 7L1WII,SAM,7L,
 8P5A,TOM,8P,
@@ -12433,6 +12435,7 @@ W6AZ,,CA,
 W6BAZ,,CA,
 W6BBL,,CA,
 W6BCE,JOHN,CA,
+W6BFK,Dennis,FL,
 W6BG,MAX,CA,
 W6BH,,CA,
 W6BJH,,CA,
