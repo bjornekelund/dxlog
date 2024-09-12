@@ -8,6 +8,7 @@ CT7BJG,Mike
 DL6IAK,Mike
 HK1MK,Mike
 AG4RS,Mike
+DA1DX,Ben
 DB1WA,Alex
 DB2WD,Jens
 DN1MIA,Jens
@@ -346,7 +347,6 @@ DK0SAX,Guenter
 DL6DCX,Chris
 DL6DH,Henning
 DL6EZ,Dieter
-DL6FBL,Ben
 DL6KVA,Axel
 4K0CW,Axel
 DL6MFK,Robert

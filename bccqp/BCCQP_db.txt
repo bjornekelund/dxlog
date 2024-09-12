@@ -1,7 +1,9 @@
 # Database for Bavarian Contest Club QSO Party
 # Data collected by last QSO Party, submitted Logs/Top 7 UBN-Reports
-# Last updated 2024-03-15
+# Thanks for Valentin DL4VK
+# Last updated 2024-09-11
 8S0DX=M
+DA1DX=3XL
 DA3T=M
 DB100FK=XL
 DC1DR=4XL
