@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-09-07
+# Last Edit,2024-09-13
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -774,7 +774,7 @@ EA6EJ,INI,3276,Palma de Mallorca Spain
 EA6TS,Pedro,,Balearic Isl. Spain
 EA6UP,Migueel,,Balearic Isl.
 EA7/LZ1ZF,Gosho,,
-EA7/VE3NZ,,Ben,
+EA7/VE3NZ,Ben,,
 EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
@@ -4141,7 +4141,7 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-NM2A,Mark,3014,In Montana for summer
+NM2A,Mark,3014,Pulaski NY
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
@@ -5084,6 +5084,7 @@ VE3ICV,Paul,ON,Osgoode ON
 VE3IID,Doug,ON,Kitchener ON
 VE3IKV,Pete,ON,Cobourg ON
 VE3INE,Mary,3588,Toronto ON
+VE3JM,Vlad,,Nepean ON
 VE3JZT,Jeff,ON,Brandford ON
 VE3KAE,Alan,ON,Kemptville ON
 VE3KBI,Paul,ON,North Yourk ON
@@ -5183,7 +5184,7 @@ VE7NNT,Paul,BC,
 VE7NZ,Ady,2758,(Adrian)  Coquitlam BC
 VE7SK,Bob,3352,Prince George BC
 VE7WO,Brian,BC,Delta BC
-VE7ZO,Jim,BC,Bowser BC
+VE7ZO,Jim,3603,Bowser BC
 VE8IR,Ian,NT,Yellowknife NT
 VE9AA,Mike,1347,Withheld NB
 VE9AA/M,Mike,1347,NB (From his Mini Cooper)
