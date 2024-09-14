@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2023-09-24 from logs of VE2CSM, VE2FK
+# 1-Last Edit,2024-09-13 from logs of VE2CSM, VE2FK
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-Thanks to:
 # 4-This file is used for the following contest(s):
@@ -2428,7 +2428,6 @@ K5MQ,DAVE,LA,
 K5MR,STEVE,TX,
 K5MV,JEFF,TX,
 K5MXG,CHAR,TX,
-K5NA,RICK,TX,
 K5ND,JIM,TX,
 K5NJK,,TX,
 K5NOF,AL,TX,
@@ -2598,7 +2597,7 @@ K6DMZ,ED,CA,
 K6DT,,CA,
 K6DTT/1,,ME,
 K6DV,,CA,
-K6EI,JIM,WA,
+K6EI,JIM,CA,
 K6EID,,CA,
 K6EID/4,,GA,
 K6ELE,ED,CA,

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-09-10
+# 1-Last Edit,2024-09-14
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -987,7 +987,7 @@ DL5KX,WILFRIED,DX,koein Germany
 DL5RDO,SAM,DX,Cadolzburg
 DL5SFC,DENIS,DX,Balingen Germany
 DL5WO,OLIVER,DX,Mommenheim Germany
-DL5XL,FELIX,DL,Hagen im Bremischen Germany
+DL5XL,FELIX,DX,Hagen im Bremischen Germany
 DL5YV,BEN,DX,Greiz Germany
 DL6KW,LUZ,DX,Satteldorf Germany
 DL6SDW,JOE,DX,Neu-Ulm Germany
@@ -6288,7 +6288,7 @@ M0RYB,PETER,DX,Norwich England
 M0SDB,DANNY,DX,Sheffield England
 M0SHM,STEVE,DX,Lancs England
 M0SUY,Demetre,DX,(SV1UY)  Gateshead England
-M0TWA,DAVID,G,
+M0TWA,DAVID,DX,
 M0VKR,LEE,DX,
 M0WDD,DAVID,DX,Salford Manchester England
 M1VPN,DAMIAN,DX,Honiton England
@@ -7482,7 +7482,6 @@ N5NFI,,OK,
 N5NJ,,TX,
 N5NK,RON,TX,
 N5NQ,,MS,
-N5NR,,AR,
 N5NR,PAUL,TX,Spring TX
 N5NSH,,OK,
 N5NU,JASON,TX,
@@ -8775,7 +8774,7 @@ NM1A,,FL,
 NM1J,JACK,MA,
 NM1K,,CT,
 NM1W,,NH,
-NM2A,MARK,MT,
+NM2A,MARK,NY,Pulaski NY
 NM2L,GREG,GA,
 NM3A,DAN,PA,Export PA
 NM3E,,PA,
@@ -14504,7 +14503,7 @@ WZ5K,MARK,OK,Oklahoma City OK
 WZ5X,BILL,NC,
 WZ8P,EVERETT,OH,
 WZ9Y,MIKE,WI,Green Bay WI
-XE1/N7TD,BILL,XE, 
+XE1/N7TD,BILL,DX, 
 XE1HON,MANNY,DX,Sahuayo Mich Mexico
 XE2AD,DAVE,DX,Aguascalientes Ags Mexico
 XE3A,PABLO,DX,Yucatan Mexico
