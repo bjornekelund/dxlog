@@ -3,9 +3,9 @@
 # QSOP_TX
 # QSOPARTY TX
 # Send corrections direct to ve2fk@arrl.net
-# Last Edit,2022-04-06
+# Last Edit,2024-09-09
 # Compiled by NO5W
-#
+# More info to come
 8P9G,8P,
 9A0BB,9A,
 9A1KDE,9A,
@@ -741,7 +741,6 @@ K5MGO,AR,
 K5MIG,KERR,
 K5MOF,ATAS,
 K5MXJ,HARR,
-K5NA,TRAV,
 K5NB,FANN,
 K5NRO,TGRE,
 K5NSN,PARK,

@@ -3,36 +3,9 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2024-09-09
-
+# Last Edit,2024-09-16
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
-
-
-KD2NF,JERRY,
-VE4GH,GREG,
-
-KK0I,JACK,
-KD9WCE,RICH,
-
-
-KC3RN,KEVIN,
-W9MS,MARK,
-KA3MHM,JOHN,
-W2EQ,TOM,
-N2YC,JOHN,
-AE0G,LARRY,
-KK4AC,CHARLES,
-KI7KY,BEN,
-
-
-KW4NJA,SCOTT,
-KA0NES,JOHN,
-VE3MRX,BILL,
-KE5CW,TOM,
-DG2FDD,JENS,
-
-
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -341,6 +314,7 @@ AD8Y,David,OH,Cleveland Heights OH
 AD9AC,KEN,IL,Litchfield IL
 AD9CA,MIKE,,Newton IL
 AE0EE,Bill,MN,Minneapolis MN
+AE0G,LARRY,
 AE0P,Brian,1051,Yankton SD
 AE0Q,Glenn,2878,Arvada CO
 AE1CW,Jim,ME,Newburgh ME
@@ -569,6 +543,7 @@ DF7CP,Stefan,,Eldena Germany
 DF7TV,Tom,2613,Stuttgart Germany
 DF8LY,Sven,,Ruesselsheim Germany
 DF9TF,Rich,2493,Neuenburg Germany
+DG2FDD,JENS,
 DG3BCZ,Florian,,Stuhr Germany  (Occ. QRP)
 DG9OBI,FRANK,,DX,Eisdorf Germany
 DH4NWG,Martin,,Hersbruck Germany
@@ -586,6 +561,7 @@ DJ2IA,Dieter,,Sallgast Germany
 DJ2JES,Hardy,,Hainichen Germany
 DJ2MX,Mario,2801,Muenchen Germany
 DJ2PR,Rudi,,Mainz Germany
+DJ2SX,DANIEL,
 DJ3CQ,Jo,2969,(Juergen)  Groebenzell Germany
 DJ4CW,Simone,,Hamburg Germany
 DJ4MX,Sven,2697,(9A5MX)  Muenchen Germany
@@ -1792,6 +1768,7 @@ K3WT,Tom,732,Burnsville MN
 K3WW,Chas,178,Perkasie PA
 K3WWP,John,PA,Kittanning PA
 K3XA,Bill,763,Great Falls VA
+K3XO,RIP,
 K3YEO,Ron,1846,Lexington VA
 K3YMI,Jim,MD,Columbia MD
 K3YNY,Rick,MD,Germantown MD
@@ -2434,6 +2411,7 @@ K9ZO,Al,1761,(Ralph)  Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA0BMX,JOE,KS,Topeka KS
+KA0NES,JOHN,
 KA0PQW,Matt,
 KA0RTB,CATHY,MN,Rochester MN
 KA0RTM,MIKE,,MN
@@ -2454,6 +2432,7 @@ KA3DRR,Scot,CA,ShellBeach CA
 KA3J,Ron,MD,Bethea MD
 KA3KRJ,ROBERT,
 KA3LXM,Jim,2294,Upper Mariboro MD
+KA3MHM,JOHN,
 KA3MTT,NATHAN,
 KA3MTY,PAUL,PA,Allentown PA
 KA3NAM,Joe,KS,Olathe KS
@@ -2622,7 +2601,9 @@ KC3JJF,Daryl,MD,Baltimore MD
 KC3KBE,Jon,MD,Silver Spring MD
 KC3M,Jack,3099,Montoursville PA
 KC3MVP,JEFF,
+KC3MX,HARRY,
 KC3NDU,KEITH,,
+KC3RN,KEVIN,
 KC3SJ,STEVE,
 KC3SVR,TOM,MD,Bel Air MD
 KC3TOM,Tom,PA,Burgettstown PA
@@ -2705,6 +2686,7 @@ KD2KW,Ken,2478,Oak Point TX
 KD2MLY,Joe,NY,Brooklyn NY
 KD2MQE,DAVE,NY,
 KD2NEL,Sean,NY,Albany NY
+KD2NF,JERRY,
 KD2OMV,Peter,NY,Watertown NY
 KD2PDE,BILL,NY,West Point NY
 KD2QAW,MARK
@@ -2760,6 +2742,7 @@ KD9TSE,CHRIS,MN,Yorkville IL
 KD9UYC,MARK,,Fishers IN
 KD9VGM,NOAH,
 KD9VNL,TOM,,Geneva IL
+KD9WCE,RICH,
 KD9WDR,BRENT,,Oconomowoc WI
 KD9WFF,RANDALL,,Schererville IN
 KD9ZIG,ISAAC,,Rock Island IL
@@ -2807,6 +2790,7 @@ KE5AKL,Mike,NM,Albuquerque NM
 KE5AZ,Ken,TX,Houston TX
 KE5C,John,TX,Temple TX
 KE5CTT,PETE,,Laplace LA
+KE5CW,TOM,
 KE5DXX,Colton,
 KE5EN,Eric,3009,Plano TX
 KE5ES,Steve,
@@ -2990,6 +2974,7 @@ KI6OY,Lee,2013,Livermore CA
 KI6RRN,Axel,CA,La Mesa CA
 KI6TGS,SIGI,CA,San Francisco CA
 KI6UP,JIM,TX,Atlanta TX
+KI7KY,BEN,
 KI7MJR,DAVID,,UT
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
@@ -3027,11 +3012,13 @@ KJ7V,Roger,WA,Ephrata WA
 KJ9C,Mel,898,Indianapolis IN
 KJ9I,Dave,WI,Sullivan WI
 KK0ECT,Eric,2066,Fort Collins CO
+KK0I,JACK,
 KK0U,Jim,3067,Rock Hill MO
 KK1CWO,Pete,91,(W1UU)  Cape Cop ARC
 KK1MM,Mike,1272,Arlington VA
 KK1W,Jim,2479,Brimfield MA
 KK3F,Pat,MD,Frostburg MD
+KK4AC,CHARLES,
 KK4BNC,Randy,GA,Cataula GA
 KK4DF,Walt,NC
 KK4HSJ/QRP,TOM,,Nashville TN
@@ -3302,6 +3289,7 @@ KW2A,PHIL,
 KW4AU,Kyle,AL,Pleasant AL
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL
+KW4NJA,SCOTT,
 KW4V,Les,FL,Casselberry FL
 KW4WA,Julio,2849,Royal Palm Beach FL
 KW5CW,Jim,2346,Anna TX
@@ -3660,6 +3648,7 @@ N2WJW,GIL,,Hillsborough NJ
 N2WK,Wayne,1767,Holley NY (Occ. QRP)
 N2WKS,Zev,NJ,Teaneck NJ
 N2WY,Robert,NY,Hilton NY
+N2YC,JOHN,
 N2YLO,STEVE,,NY
 N2YO,Chip,405,Chantilly VA
 N2ZN,Ken,697,Walworth NY
@@ -4348,7 +4337,7 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-NM2A,Mark,3014,In Montana for summer 
+NM2A,Mark,3014,Pulaski NY 
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
@@ -5303,6 +5292,7 @@ VE3KZ,Bob,2585,Milton ON
 VE3MA,Al,1860,Milton ON
 VE3MGY,Brian,1285,Sparta ON
 VE3MM,Rick,1947,St-Catherines ON
+VE3MRX,BILL,
 VE3MS,Rodger,ON,Ottawa ON
 VE3MV,Doug,1642,East York ON
 VE3MVM,Mary,ON,Amaranth ON
@@ -5357,6 +5347,7 @@ VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,DAVE,MB,Winnipeg MB
 VE4EA,Cary,
+VE4GH,GREG,
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,AB,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
@@ -5636,6 +5627,7 @@ W2DEN,DEN,FL,Nokomis FL
 W2DM,GEORGE,
 W2DWL,Dennis,NJ,Swedesboro NJ
 W2ECK,Paul,GA,Savannah GA
+W2EQ,TOM,
 W2ET,Bill,MD,Chestertown MD
 W2FN,BOB,
 W2FV,John,WA,Trout Lake WA
@@ -6263,6 +6255,7 @@ W9LR,Bill,WI,New Berlin WI
 W9LW,Jay,IN,Fort Wayne IN
 W9MDG,Mike,IL,Carlock IL
 W9MIC,MIKE,,Merritt Island FL
+W9MS,MARK,
 W9NJY,Andy,1348,Wauwatosa WI
 W9NX,Kent,866,Columbus IN
 W9NXM,Gus,1841,(Joel) Lake Zurich IL
