@@ -56,7 +56,7 @@ BEGIN {
       if (call ~ /^HK/) ID = "HK";
       if (call ~ /^(HL|DS)/) ID = "HL";
       if (call ~ /^HR/) ID = "HR";
-      if (call ~ /^I[0-9,K-N,T-Z]/) ID = "I";
+      if (call ~ /^I[0-9,K-N,T-Z\/]/) ID = "I";
       if (call ~ /^IS0/) ID = "IS0";
       if (call ~ /^(J[A-S]|7L)/) ID = "JA";
       if (call ~ /^JT/) ID = "JT";
@@ -118,7 +118,6 @@ BEGIN {
     if (ID != ID && ID != "")
       printf("Exchange is \"%s\" when it should be \"%s\" for %s\n", ID, ID, call) > "/dev/stderr";
 
-    if (call == "N5OT") ID = "2197";
     idvalid = ID ~ /^[1-9][0-9]{0,3}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]?$/;
     problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
 

@@ -4,6 +4,7 @@
 # QSOPARTY WA
 # Last Edit,2024-09-17
 # Send new info/corrections DIRECT to ve2fk@arrl.net
+# Thanks Bjorn/SM7IUN for his help
 # WA Fixe/Portable/Mobile
 AG7KO,,PIE,Pierce
 K5EM,,KING,King

@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-09-13
+# Last Edit,2024-09-22
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -113,6 +113,7 @@ AA4LS,Chas,2133,Skyland NC
 AA4MB,Matt,TN,Germantown TN
 AA4MC,Mike,2332,South Boston VA
 AA4NN,Joe,354,Lake Wylie SC
+AA4NO,Bill,CWA,Wilmington NC
 AA4NP,Jim,1954,Merritt Island FL
 AA4Q,Bill,AZ,Scottdale AZ
 AA4SD,Kraig,3475,Charleston SC
@@ -260,7 +261,7 @@ AD0UA,Ken,MO,Saint Peters MO
 AD0WE,Kurt,2167,Manhattan KS
 AD1C,Jim,131,Brighton CO
 AD2BO,Russ,NY,Coram NY
-AD2CC,Saeid,3547,Cranboury NJ
+AD2CC,Saied,3547,Cranboury NJ
 AD3DX,Marilyn,AL,Bessemer AL
 AD4C,Hector,FL,Port St Lucie FL
 AD4DP,Dave,CWA,South Boston VA
@@ -295,6 +296,7 @@ AD8R,Lou,MI,Caseville MI
 AD8WR,Dave,2857,Granger IN
 AD8Y,David,OH,Cleveland Heights OH
 AD9AC,Ken,3321,IL,Litchfield IL
+AD9S,Bob,CWA,Croton on Hudson NY
 AE0DX,Adam,IA,IA
 AE0EE,Bill,MN,Minneapolis MN
 AE0P,Brian,1051,Yankton SD
@@ -709,6 +711,8 @@ DO6AN,Nils,3141,Hamburg Germany
 DP4X,Mario,2801,(DJ2MX)  Muenchen Germany
 DS1TUW,Ji,3600,Seoul South Korea
 DP7D,Frank,,Essen Germany
+DR2C,Adam,DL,
+DR6T,Fons,DL,
 DU3LA,Larry,644,Mabalacat Phillippines (N0QM)
 DU7ET,Bob,3523,Negros Oriental Philippines  (EX0ET)
 E21EIC,Champ,264,Bangkok Thailand
@@ -1150,6 +1154,7 @@ HB9AUK,Walt,2593,Wil/ZH Switzerland
 HB9BJL,Chris,2541,(W9BJL) Messen Switzerland
 HB9CAT,Marco,,Spluegen Switzerland
 HB9CBR,Bruno,,Meikirch Switzerland
+HB9CGL,Claude,HB,Prez-vers-Noreaz
 HB9CPS,Geo,,Faelladen Switzerland
 HB9CSA,Fri,1084,Zurich-Altstetten
 HB9CTU,Herbert,,Kuttigen Switzerland
@@ -1189,6 +1194,7 @@ HR9/W1UE,Dennis,,Portable Honduras
 HS0ZCK,Joe,339,Floyd VA USA
 HS0ZDJ,John,751,via W2YR USA
 HS0ZPP,Mark,1224,(N5ZO) Thailand
+I/G4ERW,Dave,,
 I/W9CF,Kevin,2901,
 I0GOJ,Tony,602,Roma RM Italia
 I0YQX,Italo,1746,Roma Italy
@@ -1789,7 +1795,7 @@ K4DME,Dave,2815,Emporia VA
 K4DXV,Steve,1966,Louisville TN
 K4DZR,Jerry,TN,Hendersonville TN
 K4EA,Neal,2357,Canton GA
-K4EAK,Skip,GA,Atlanta GA
+K4EAK,Skip,CWA,Atlanta GA
 K4EES,Ken,2389,Orange Beach AL
 K4EET,Dave,1724,Severn MD
 K4EFZ,Chris,FL,Apopka FL
@@ -2530,6 +2536,7 @@ KC3FQF,Rosti,2783,CT
 KC3JJF,Daryl,MD,Baltimore MD
 KC3KBE,Jon,MD,Silver Spring MD
 KC3M,Jack,3099,Montoursville PA
+KC3MX,Harry,VA,Newport News VA
 KC3NDU,Keith,CWA,Lake Ariel PA
 KC3NNO,Steve,3236,Harrisburg PA
 KC3RYH,Tim,PA,Hershey PA
@@ -2666,6 +2673,7 @@ KE4I,Den,3439,Silver Creek GA
 KE4KY,Tom,1763,Fisherville KY
 KE4RG,Ken,1765,Gretna VA (Been heard QRP)
 KE4S,Dave,1508,Leesburg VA
+KE4SC,Paul,SC,Graniteville SC
 KE4TWI,Wes,TN,Watertown TN
 KE5AKL,Mike,NM,Albuquerque NM
 KE5AZ,Ken,3162,Houston TX
@@ -2814,6 +2822,7 @@ KI1U,Mike,2327,Cheshire CT
 KI2N,Mark,2730,La Fayette NY
 KI3C,Terry,VA,Clifton VA
 KI3F,Denny,2008,Harrisburg PA
+KI4AMD,Marty,CWA,GladeSpring VA
 KI4EZL,Steve,NC,Fayetteville NC
 KI4FW,Rick,VA,Arlington VA
 KI4MZC,Don,1539,Cleveland GA (QRP)
@@ -3494,6 +3503,7 @@ N3CZ,Vlad,1891,Asheville NC
 N3DXX,Art,1232,Wilmington DE
 N3DXX/0,Art,1232,
 N3EA,Al,1438,Lake Worth FL
+N3FEL,Hal,CWA,Langhorne PA
 N3FJ,Robert,PA,Chadds Ford PA
 N3FR,Bob,3156,Pittsburgh PA
 N3FTO,Paul,PA,Media PA
@@ -3708,7 +3718,7 @@ N5NHJ,Max,24,Allen TX
 N5NU,Jason,1920,Nacogdoches TX
 N5OE,Carl,983,Whitt TX
 N5OP,Kim,3581,Norman OK
-N5OT,Mark,UAND,(2198) Bartlesville OK
+N5OT,Mark,2198,Bartlesville OK
 N5PHT,Gary,1489,Indianola Iowa
 N5PV,Sean,TX,Brookshire TX
 N5QQ,Ron,TX,Dallas TX
@@ -3906,7 +3916,7 @@ N8KLX,Jerry,MI,Utica MI
 N8KMY,Craig,MI,Kalkaska MI
 N8KOM,Steve,MI,Royal Oak MI
 N8KQ,Randy,OH,
-N8KR,Ken,IN,New Haven IN
+N8KR,Ken,3605,New Haven IN
 N8LA,Lou,1339,St-Louis MO
 N8LJ,Lee,MI,Metamora MI
 N8LR,Gary,1818,Saginaw MI
@@ -4059,7 +4069,7 @@ NE6NE,ZHUO,3117,San Jose CA
 NE6ZZ,STU,WI,
 NE7D,Rocky,829,Salem OR
 NE7EE,Chris,2616,Scottsdale AZ
-NE7TE,Chas,CWA,Wickenburg AZ
+NE7TE,Chuck,CWA,Wickenburg AZ
 NE8J,Howard,MI,Coopersville MI
 NE9U,Scott,2438,Menomonie WI
 NF0N,Mike,1383,South Sioux City NE
@@ -4829,7 +4839,7 @@ SV4/SV1DAY,Manos,SV,
 SV4SUR,Helena,3565,Near city of Volos Greece
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
-SV8SXF,KOSTAS,,KASPAKAS Greece
+SV8SXF,KOSTAS,CWA,KASPAKAS Greece
 SV9RNG,Pol,1009,Crete
 TA1UT,Bora,2768,Karakoy Istanbul Turkey
 TA2BD,Halil,,Istanbul Turkey
@@ -5084,7 +5094,7 @@ VE3ICV,Paul,ON,Osgoode ON
 VE3IID,Doug,ON,Kitchener ON
 VE3IKV,Pete,ON,Cobourg ON
 VE3INE,Mary,3588,Toronto ON
-VE3JM,Vlad,,Nepean ON
+VE3JM,Vlad,3604,Nepean ON
 VE3JZT,Jeff,ON,Brandford ON
 VE3KAE,Alan,ON,Kemptville ON
 VE3KBI,Paul,ON,North Yourk ON
@@ -5335,6 +5345,7 @@ W0WL,Joe,3327,Sammamish WA
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
 W0XM,Bob,3341,Shawnee KS
+W0ZB,Steve,CWA,Columbia MO
 W0ZP,Wayne,IN,South Bend IN
 W1AAX,Harry,MA,Scituate MA
 W1AGE,Carl,CWA,Framingham MA
@@ -5385,6 +5396,7 @@ W1QH,Harlan,CT,Danbury CT
 W1QI,Walt,CT,(Candlewood ARA - op: W1QK)
 W1QK,Dan,CT,(1506)  Brookfield CT
 W1QS,John,918,Waldoboro ME
+W1RBG,Rose,CWA,Haydenville MA
 W1RH,Bob,2443,Placerville CA
 W1RM,Pete,8,Burlington CT
 W1SAV,Savi,3130,Alhambra CA
@@ -5759,7 +5771,7 @@ W6/VE4SF,Bruce,2978,
 W6A,JIM,CA,(W6KC)  Route 66 on the air
 W6AEA,Geo,1478,Spokane Valley WA
 W6AIM,Jim,CA,Orange CA
-W6AQ,Dave,CA,
+W6AQ,Mark,2198,CA
 W6AT,Lanny,CA,Big Bear Lake CA
 W6AWG,Alan,CA,La Mirada CA
 W6AYC,Joe,2884,Atascadero CA
@@ -5817,7 +5829,7 @@ W6STR,Mike,1641,Santa Rosa CA
 W6SX,Hank,61,Mammoth Lakes CA
 W6TED,Ted,CA,San Diego CA
 W6TK,Dick,CA,Nipomo CA
-W6TLS,Terry,CA,Vislia CA
+W6TLS,Terry,CWA,Vislia CA
 W6TN,Trung,1707,Garden Grove CA (CWops Roster/Mbr. Dir.)
 W6UB,Larry,TN,Friendsville TN
 W6UDO,Joe,OR,Crooked River Ranch OR
@@ -6420,6 +6432,7 @@ WT9P,CJ,IL,(1346) Aurora IL
 WT9Q,Vic,2594,Kewaskum WI
 WT9U,Jim,1674,Elkhart IN
 WU0L,Mark,SD,Brandon SD
+WU1A,Chris,ME,Holden ME
 WU4B,Clark,1869,Marietta GA
 WU4D,Clark,VA,Virginia Beach VA
 WU4F,Rob,SC,Lexington SC
