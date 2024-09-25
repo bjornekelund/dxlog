@@ -4,7 +4,7 @@
 # 
 # CWops Call History for N1MM+ 
 # For use during a CWT
-# Last Edit,2024-09-22
+# Last Edit,2024-09-25
 # Provide content updates to this .txt file to VE2FK at ARRL.net
 # Report functional problems with this .txt file to N7WY at rocketmail.com
 # Thanks K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US W6TN SM7IUN
@@ -1414,6 +1414,7 @@ K0JVX,John,KS,Olathe KS
 K0JZ,Clarence,KS,Lawrence KS
 K0KG,Keith,1401,Rochert MN
 K0KT,Bill,IA,Ames IA
+K0LRQ,Ron,CWA,Fenton MO
 K0LUZ,Red,956,(Gary)  Longwood FL
 K0MD,Scott,305,Rochester MN
 K0MD/4,Scott,305,QRP portable
@@ -1648,6 +1649,7 @@ K2RSK,Peter,936,East Amherst NY
 K2SAN,Paul,TX,Selma TX
 K2SD,Scott,2266,Fleetwood NC
 K2SG,Tony,252,Little Egg Harbor NJ
+K2SSS,Ze,NY,Rochester NY
 K2SX,Dennis,124,Pawleys Island SC
 K2TNO,Bill,NC,Beaufort NC
 K2TQC,Bill,NY,Jamesville NY
@@ -5135,6 +5137,7 @@ VE3QAM,Mark,ON,Waterloo ON
 VE3QN,Bryan,ON,Gloucester ON
 VE3RDE,Roger,2957,Ottawa ON
 VE3RIA,Drew,1025,Brantford ON
+VE3RSA,Tom,ON,Mississauga ON
 VE3RUA,Jack,1047,Kenora (W6NF)
 VE3SIF,Ron,3082,Guelph ON (Been heard QRP)
 VE3SMA,Steve,ON,Burlington ON
@@ -5307,7 +5310,7 @@ W0IR,Dale,MN,Eagan MN
 W0IS,Rick,MN,St. Paul MN
 W0ITT,Gary,MO,Sturgeon MO
 W0IZ,IZ,CO,Cedaredge CO
-W0JX,Den,OH,Milan OH
+W0JX,Den,1263,Milan OH
 W0KFG,Rich,MN,Savage MN
 W0KU,Scott,1988,Denver CO
 W0LGU,Tom,MN,Center City MN
