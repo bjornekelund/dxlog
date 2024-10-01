@@ -1,7 +1,7 @@
 # ICWS Medium Speed Test database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-09-17
+# Last updated 2024-10-01
 2E0DCW=GERALD
 2E0IIV=STEVE
 2E0OBO=BOB
@@ -2372,6 +2372,7 @@ K9SO=FRED
 K9SS=NORB
 K9STM=SAM
 K9SW=DAVE
+K9TBD=JOEL
 K9TF=JIM
 K9UCX=KEN
 K9UIY=VIC
@@ -2816,6 +2817,7 @@ KF0GVX=RYAN
 KF0HLA=MAC
 KF0IDJ=RICH
 KF0KDI=BEN
+KF0NRV=DAN
 KF0OKY=CJ
 KF0RAG=TONY
 KF1P=BOB
