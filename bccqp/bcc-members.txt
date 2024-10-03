@@ -515,8 +515,6 @@ PA0GJV,Gerrit
 PA0JED,Jan
 PA1AW,Alex
 PA1TX,Gerard
-PA2TMS,Tom
-PA9TOM,Tom
 PA3EWP,Ronald
 PA4OES,André
 EI5VAT,André

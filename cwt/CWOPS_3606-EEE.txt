@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-10-01
+# Last Edit,2024-10-03
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -43,7 +43,7 @@
 8P9NX,Peter,,Barbados (W0SA)
 9A/N4XU,Bob,,Zagreb Croatia
 9A/S57KM,Sandi,9A,
-9A/W3WM,Will,9A,Remote
+9A/W3WM,Will,3602,Remote
 9A1AA,Ivo,2447,Belisce Croatia
 9A2AJ,Tom,2506,(Tomislav)  Lipik Croatia
 9A2EU,Zlatko,,Zapresic Croatia
@@ -320,6 +320,7 @@ AE6EN,Kevin,2251,Visalia CA
 AE6RF,Donald,CA,Boulder Creek CA
 AE6VL,Roland,3458,Martinez CA
 AE6Y,Andy,38,Monte Sereno CA
+AE6Z,CW,,Hamilton City CA
 AE7AP,Rob,CWA,Helena MT
 AE7EU,Martin,2725,Bend OR
 AE7I,Craig,875,Reno NV
@@ -387,7 +388,7 @@ AH6VV,Carl,2300,Honolulu HI
 AH7I/W4,Bob,GA,
 AH7RF,Heather,3272,Honolulu HI (Been heard QRP)
 AH7RF/P,Heather,3272,
-AH7RF/W5,Heater,3272,
+AH7RF/W5,Heather,3272,
 AI0Y,Joe,3254,Nekoma ND
 AI2Q,Alex,ME,Kennebunk ME
 AI2S,Ray,FL,Safety Harbor FL
@@ -1364,7 +1365,7 @@ JT1DA,Enkh,,Ulaanbaatar Mongolia
 JT1DX,Bat,,Ulaabaatar Mongolia
 JT1F,RC,,Ulaanbaatar DX Club Mongolia
 K0AD,Al,138,Plymouth MN
-K0AF,Andy,2990,Cedar Rapids IA
+K0AF,Andy,IA,(2990) Cedar Rapids IA
 K0ALN,Bob,CO,Aspen CO
 K0AOZ,Terry,MN,Lakeville MN
 K0AP,Dragan,370,Olathe KS
@@ -1612,6 +1613,7 @@ K2LE,Andy,39,Manhasset NY
 K2LML,Bill,FL,Fort Myers FL
 K2LNS,Herb,2208,Wilkes Barre PA
 K2LP,Bud,MA,Eastham MA
+K2MEU,John,NJ,Highlands NJ
 K2MF,Barry,1253,Lutz FL
 K2MGR,Kurt,915,Bainbridge NY
 K2MK,Mike,FL,Lakeland FL
@@ -2084,7 +2086,7 @@ K6TOR,Rick,2732,San Francisco CA
 K6TR,Paul,2589,(ex K2HZO)  Ukian CA
 K6TTT,Bruce,2595,Lancaster CA
 K6TXA,Bob,CA,Newport Beach CA
-K6UFO,Mark,403,San Francisco CA
+K6UFO,Mork,403,San Francisco CA
 K6VN,Mike,2924,Valencia CA
 K6VVA,Rick,CA,Morgan Hill CA
 K6WDE,Dave,CA,Running Springs CA
@@ -2375,6 +2377,7 @@ K9ZO,Al,1761,(Ralph) Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA0PQW,Matt,3377,Ellendale MN
+KA0WWT,Butch,NV,Mequite NV
 KA1CFP,Marshall,VA,Virginia Beach VA
 KA1EFO,Ron,3081,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
@@ -2830,6 +2833,7 @@ KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
 KI6RRN,Axel,CA,La Mesa CA
 KI6UP,JIM,TX,Atlanta TX
+KI7KWA,Gord,WA,Chehalis WA
 KI7KY,Ben,3540,West Point UT
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
@@ -2928,6 +2932,7 @@ KM4CUB,Ron,GA,Rockmart GA
 KM4DR,Gale,TX,Kerrville TX
 KM4FO,Dwight,1436,Madisonville KY
 KM4HI,Jim,FL,Ocala FL
+KM4JHK,Paul,CWA,Marion NC
 KM4JTE,John,FL,Gainesville FL (Been heard QRP)
 KM4LAO,Ruth,2063,Cana VA
 KM4SII,Mason,NC,Clemmons SC
@@ -4218,7 +4223,7 @@ NT2J,Alex,NY,Nyack NY
 NT4K,CJ,FL,Winter Springs FL
 NT5I,Dennis,LA,New Orleans LA
 NT5PH,Pat,TX,Carrollton TX
-NT6Q,ZO,1224,Calif. Alligators Contest Club (Escondido)
+NT6Q,ZO,CA,(1224)  Calif. Alligators Contest Club (Escondido)
 NT6X,Mike,167,Santa Ana CA
 NT7R,Steve,FL,Lakeland FL
 NT8B,Leon,VA,Falls Church VA
@@ -4372,6 +4377,7 @@ OK2CQR,Petr,92,(OK7AN) Neratovice Czech Republic
 OK2FD,Karel,,Stare Hobzi Czech Republic
 OK2HBR,Zdenek,,Czech Republic
 OK2IW,Swat,3111,Praslavicz Czech Republic
+OK2JIQ,Jiri,,
 OK2JS,Jan,,Velka Bites Czech Republic
 OK2NAJ,Jiri,2740,Czech Republic
 OK2OX,Jiri,,no info
@@ -4820,6 +4826,7 @@ SV4SUR,Helena,3565,Near city of Volos Greece
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
 SV8SXF,KOSTAS,CWA,KASPAKAS Greece
+SV8SXV,MILTOS,,CYCLADES Greece
 SV9RNG,Pol,1009,Crete
 TA1UT,Bora,2768,Karakoy Istanbul Turkey
 TA2BD,Halil,,Istanbul Turkey
@@ -5090,7 +5097,7 @@ VE3KQK,Mike,ON,St Thomas ON
 VE3KQN,Jim,ON,Pickering ON
 VE3KZ,Bob,2585,Milton ON
 VE3MA,Al,1860,Milton ON
-VE3MGY,Brian,1285,Sparta ON
+VE3MGY,Brian,ON,(1285) Sparta ON
 VE3MM,Rick,1947,St-Catherines ON
 VE3MRX,Bill,3480,Oakville ON
 VE3MS,Rodger,ON,Ottawa ON
@@ -5219,6 +5226,7 @@ VK7CW,Steve,1196,Tasmania Australia
 VK7TO,Lance,3575,Tasmania Australia
 VK7ZA,Lance,3575,Tasmania Australia
 VK8XX,Joe,339,Floyd VA USA
+VK9DX,Nick,VK9,Norfolk Island
 VO1AAM,Yuri,21,also VE3DZ
 VO1AW,BK,NL,(Brian)  Gander NL
 VO1BQ,Joe,1325,St-John NL
@@ -5378,7 +5386,7 @@ W1PID,Jim,1507,Sanbornton NH (Mosly QRP-Outdoor)
 W1PY,Matt,2444,Williamsburg MA
 W1QH,Harlan,CT,Danbury CT
 W1QI,Walt,CT,(Candlewood ARA - op: W1QK)
-W1QK,Dan,1506,Brookfield CT
+W1QK,Dan,CT,(1506) Brookfield CT
 W1QS,John,918,Waldoboro ME
 W1RBG,Rose,CWA,Haydenville MA
 W1RH,Bob,2443,Placerville CA
@@ -6486,6 +6494,7 @@ YL2TD,Gene,YL,
 YL3JD,Hanz,2227,Ikskile Latvia
 YN2AA,Jeff,67,Grenada Nicaragua
 YO/DF7CB,Chris,3484,
+YO2ARM,Lucian,,
 YO2BBX,Nel,,Timis Romania
 YO2CEQ,Dan,,Sannicolau Mare Romania
 YO2LEA,Nelu,,Ineu Romania
@@ -6516,6 +6525,7 @@ YT1E,Rod,,Lazarevac Serbia
 YT5FD,Slavko,,lajkovac Serbia
 YT5N,Mike,,Serbia
 YU6DX,Alex,YU,Novi Beograd Serbia
+YU7GM,Ivan,YU,
 YU7TBA,Balint,,Backa Topola Serbia
 Z32U,Zoki,Z3,North Macedonia
 Z33B,Kirk,,North Macedonia

@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2024-09-24 
+# 1-Last Edit,2024-10-03 
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-Thanks to: SM7IUN for his help
 # 4-This file is used for the following contest(s):
@@ -8627,6 +8627,12 @@ OM7OM,,SLA,
 OM8JP,,SLA,
 OM8LA,,SLA,
 OM8PG,,SLA,
+ON2AD,PAT,FDS,
+ON5GQ,BERNARD,FDS,
+ON6AT,PATRICK,FDS,
+ON6OM,RENE,FDS,
+ON6ZV,EDDY,FDS,
+ON9TT,MARC,FDS
 PA/DG8KAD,,NTL,
 PA0AWH,,NTL,
 PA0CGB,,NTL,

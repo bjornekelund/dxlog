@@ -1,4 +1,4 @@
-# Updated up to FOC #2236 - GQ4PCE. Updates to fabian@fkurz.net.
+# Updated up to FOC #2237 - JA1KIH. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -543,6 +543,7 @@ J88DR=Dave;1936
 J88XF=Nigel;1266
 JA1GZV=Motoaki;2052
 JA1GZV/6=Motoaki;2052
+JA1KIH=Takao;2237
 JA5DQH=Aki;1541
 JE1TRV=Atsu;1959
 JH1GNU=Shige;2231
@@ -1301,6 +1302,7 @@ ZS1C=Raoul;2012
 ZS1EL=Vidi;658
 ZS1RBN=Phil;1513
 ZS6FOC=Den;744
+xGB2NZ=Don;2006
 xGU5LOW=Enzo;2213
 xKP4FOC=Luis;2214
 xM0RSE=Iain;2024

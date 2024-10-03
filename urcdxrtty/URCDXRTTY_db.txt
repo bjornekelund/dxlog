@@ -1,7 +1,7 @@
 # URC DX RTTY prefill database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-10-01
+# Last updated 2024-10-03
 AA0AI=IOW
 AA0AW=MNS
 AA0BA=TNS
@@ -8612,6 +8612,12 @@ OM7OM=SLA
 OM8JP=SLA
 OM8LA=SLA
 OM8PG=SLA
+ON2AD=FDS
+ON5GQ=FDS
+ON6AT=FDS
+ON6OM=FDS
+ON6ZV=FDS
+ON9TT=FDS
 PA/DG8KAD=NTL
 PA0AWH=NTL
 PA0CGB=NTL

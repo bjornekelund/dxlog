@@ -1,7 +1,7 @@
 # A1CLUB Weekly Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-10-01
+# Last updated 2024-10-03
 2E0DCW=GERALD
 2E0FPW=JK
 2E0OBO=BOB
@@ -4192,7 +4192,7 @@ JF2LNC=NOB
 JF2NGM=TAKE
 JF2OZH=RYO
 JF2QNM=HIDE
-JF2SKV=MAZA
+JF2SKV=MAZ
 JF2UPM=KEI
 JF3KCH=YAMA
 JF3KNW=NOBU
