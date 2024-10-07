@@ -1,7 +1,7 @@
 # California QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-10-03
+# Last updated 2024-10-07
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -3035,7 +3035,7 @@ K6W=SOLA
 K6WC=SBEN
 K6WI=TEHA
 K6WK=SHAS
-K6WSC=SDIE
+K6WSC=AZ
 K6WV=SCLA
 K6WWV=SCLA
 K6XT=CO
@@ -12308,7 +12308,7 @@ W5ZN=AR
 W5ZO=TX
 W5ZPA=LA
 W5ZR=LA
-W6A=CALA
+W6A=SDIE
 W6AAN=MD
 W6ABE=SDIE
 W6ABL=MONT
