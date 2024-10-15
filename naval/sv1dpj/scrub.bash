@@ -1,7 +1,6 @@
 #!/bin/bash
 #FILE=`ls INORC.* | tail -1 2> /dev/null`
 FILE=NAVAL_db.txt
-OUTFILE=INORC_db.txt
 
 echo Parsing $FILE
 dos2unix -q $FILE

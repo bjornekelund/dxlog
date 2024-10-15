@@ -3,13 +3,15 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2024-09-30
+# Last Edit,2024-10-14
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 
 K9TBD,JOEL,
 KF0NRV,DAN,
-
+K2LML,BILL,
+K0C,DOM,
+OZ1CTZ,
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
@@ -4474,7 +4476,7 @@ NX9G,Yan,1882,Bensenville IL
 NX9Y,JASON,
 NY0QV,BRUCE,
 NY1P,JEFF,,West Simbury CT
-NY1Z,Bub,NH,Salem NH
+NY1Z,Bud,NH,Salem NH
 NY2H,Lou,2176,Port Jeffeson Station NY
 NY2PO,Pat,2578,Glen Spey NY
 NY3A,Steve,2296,Glen Rock PA

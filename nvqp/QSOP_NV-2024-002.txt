@@ -1,6 +1,6 @@
 !!Order!!,Call,Exch1,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2024-10-07
+# 1-Last Edit,2024-10-12
 # 2-Send new info/corrections DIRECT to ve2fk@arrl.net
 # 3-Thanks Bjorn SM7IUN for his help.
 # 4-NVQP Nevada use ARRL and RAC Sections in Exchange
@@ -1433,7 +1433,7 @@ K2LNS,EPA,
 K2LV,WNY,
 K2LYV,WCF,
 K2MIT,ENY,
-K2MK,ENY,
+K2MK,WCF,
 K2MMM,SNJ,
 K2MN,RI,
 K2MP,WNY,

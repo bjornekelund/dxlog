@@ -3,7 +3,7 @@
 # Created by merging StewPerry-002.txt, Russian160_CallHist.txt,
 # and collecting disagreeing grids from qrz.com.
 # Thanks to Bjorn SM7IUN
-# LastEdit,2024-10-08
+# LastEdit,2024-10-11
 # Send info, correction direct to ve2fk@arrl.net
 
 # MAKRORTTY
