@@ -9,6 +9,8 @@ DL6IAK,Mike
 HK1MK,Mike
 AG4RS,Mike
 DA1DX,Ben
+DA1TT,Jan
+PA1TT,Jan
 DB1WA,Alex
 DB2WD,Jens
 DN1MIA,Jens
@@ -133,8 +135,6 @@ F4VVG,Simon
 DJ4WT,Christian
 DQ9L,Christian
 DF0SC,Christian
-DJ5AN,Jan
-PA1TT,Jan
 DJ5CL,Ingo
 DJ5CW,Fabian
 SO5CW,Fabian
