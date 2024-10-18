@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2024-04-18
-# Last number listed 262
+# Last edit,2024-10-16
+# Last number listed 267
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -41,6 +41,7 @@ DL1JDQ,Stan,193,
 DL1LAF,Joachim,58,
 DL1SBF,Lothar,137,
 DL1UNK,Uwe,NM,
+DL1YGH,Matt,266,
 DL3GJ,Greg,186
 DL3HAE,Wolf,138,
 DL3HWO,Herbert,143,
@@ -91,6 +92,7 @@ GW4D,Keith,106,
 GW4OKT,Keith,106,
 G4WWZ,Alan,NM,
 G4YTK,Steve,NM,
+HA7RJA,Rob,264,
 HA8UT,Pista,232,
 HG8Z,Pista,232,
 HB9AXG,Tony,NM,
@@ -105,6 +107,7 @@ IK6BAK,Eliseo,35,
 IN3CEL,Claudio,NM,
 IN3FHE,Helga,88,
 IT9GRR,Giorgio,NM,
+IU3BRO,Tilio,263,
 IU5RFA,Simone,256,
 IW2JJS,Gio,103,
 IZ1POZ,Paolo,175,
@@ -114,9 +117,11 @@ K3QP,Bill,248,(PA)
 K4HEN,Theo,3,(WI)
 K5QR,Andy,109,(TX)
 KA1ULN,Niece,258,(MA)
+KD2ECB,Tilio,263,(IU3BRO)
 KF0CR,Luc,98,
 LA0HY,Memo,NM,
-LB2WD,Helge,NM,
+LB2WD,Helge,265,
+LB8VA,Ivar,267,
 LX/ON9TT,Marc,196,(ON9TT)
 M0HEN,Theo,3,(PA3HEN)
 M0KTZ,Enzo,191,
