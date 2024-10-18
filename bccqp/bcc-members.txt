@@ -422,6 +422,7 @@ DO1NPF,Peter
 DO2WW,Anja
 DO2XU,Timm
 5Q6T,Timm
+DA7T,Timm
 DO2XX,Robin
 DO4DXA,Marc
 V31MA,Marc

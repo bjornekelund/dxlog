@@ -3,10 +3,9 @@
 # CWOPS
 # Last Edit,2024-10-17
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
-# Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5NA N5KD N7WY N7US SM7IUN W6TN
+# Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
-2E0JGV,David,,Hethersett England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,1343,Rodriguez Island
 3D2AG,Antoine,2554,Suva Fiji
@@ -514,7 +513,6 @@ DF7C,Chris,3484,(DF7CB)
 DF7CB,Chris,3484,Bainbridge Isl. WA
 DF7CP,Stefan,,Eldena Germany
 DF7TV,Tom,2613,Stuttgart Germany
-DF7WY,Mike,,Aachen Germany
 DF7XR,Fritz,,Preussisch Oldendorf Germany
 DF8LY,Sven,,Ruesselsheim Germany
 DF8XC,Jak,,Rietberg Germany
@@ -1525,7 +1523,6 @@ K1MZ,Al,MA,Westfield MA
 K1MZM,Alan,3045,Montpelier VT
 K1NMF,Den,NH,Chichester NH
 K1NOK,Bob,764,Scituate MA
-K1NW,Brian,RI,Wakefield RI
 K1NY,Gerry,1929,Wantagh NY
 K1NZ,Maz,MA,Monson MA
 K1OA,Scott,736,Andover MA
@@ -2026,7 +2023,6 @@ K5YQF,Cecil,1370,Killen TX
 K5YZW,Ed,2290,Fort Worth TX
 K5ZD,Randy,899,Uxbridge MA
 K6ACQ,Spencer,CA,Redlands CA
-K6AJ,Mike,CA,Paso Robles CA
 K6AKW,Andy,CA,Menlo Park CA
 K6AM,John,CA,San Diego CA
 K6AR,Jim,546,Leucadia CA
@@ -2662,6 +2658,7 @@ KE1J,Lars,2037,South Kingstown RI
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
 KE2LW,Ron,NY,Rochester NY
+KE2SX,Gregg,1941,Wake Forest NC
 KE2WY,Bob,NY,Syracuse NY
 KE2YK,Gary,NY,East Yaphand NY
 KE3GK,Tom,MD,(3143)  Glen Burnie MD
@@ -3111,7 +3108,7 @@ KW1X,Mark,2718,Franklin MA
 KW2A,Phil,3374,Severna Park MD
 KW4AU,Kyle,AL,Pleasant AL
 KW4GF,Ed,VA,Virginia Beach VA
-KW4JAM,Jake,NC,Jacksonville NC
+KW4JAM,Jack,NC,Jacksonville NC
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL
 KW4N,Tony,FL,Tallahassee FL
@@ -3203,7 +3200,6 @@ LY7M,Al,,Anyksciai Lithuania
 LY8O,Remi,1858,Vilnius Lithuania
 LZ/SV1DAY,Manos,,IC-705 QRP
 LZ1HW,Spas,2001,Lom Bulgaria
-LZ1JZ,Tony,,Sofia Bulgaria
 LZ1NK,Niko,LZ,Karlovo Bulgaria
 LZ1PID,Plam,3490,Sofia Bulgaria
 LZ1QI,Petko,,Bulgaria
@@ -3392,7 +3388,6 @@ N1LU,Don,CT,Stamford CT
 N1MM,Tom,CT,Vernon CT (N1MM Logger+)
 N1OI,Corry,RI,Portsmouth RI
 N1PRR,Gary,AZ,Litchfield Park AZ
-N1PVP,Marino,MA,Carver MA
 N1QD,Joe,3278,Belmont MA
 N1RBD,Rich,2983,Duluth GA
 N1RM,Rick,2659,Reston VA
@@ -3461,7 +3456,6 @@ N2PD,Paul,NY,Middletown NY
 N2PH,Peter,NJ,Barnegat NJ
 N2PLG,Frank,3446,Deltona FL
 N2PP,Victor,NY,Baldwinsville NY
-N2PX,Gregg,1941,(ex:KE2SX) Wake Forest NC
 N2QV,Ric,2867,(Tariq)  New York NY
 N2RC,Mike,1203,Warwick NY
 N2RD,RAJ,NY,Syracuse NY
@@ -3631,6 +3625,7 @@ N4OO,Brian,1045,Marietta GA
 N4OQV,Bruce,3253,Jacksonville FL
 N4OX,Bill,FL,Mc David FL
 N4PD,Paul,663,Leesburg VA
+N4PF,Mike,3612,Cynthiana KY
 N4PJ,Art,1011,Leesburg FL
 N4PV,Bert,AL,Aubum AL
 N4PX,Ace,TN,(ARC)  Savannah TN
@@ -3725,7 +3720,7 @@ N5QQ,Ron,TX,Dallas TX
 N5RP,Bob,1797,Murphysboro IL
 N5RR,Bill,226,Hollister MO
 N5RZ,Gator,1221,Fredricksburg TX
-N5SGQ,Dale,CWA,Hot Springs AR
+N5SGQ,Dale,AR,Hot Springs AR
 N5SQR,Scott,NM,Albuquerque NM
 N5TIT,Jeff,TX,Dallas TX
 N5TJ,Jeff,3016,Austin TX
@@ -3925,7 +3920,7 @@ N8MU,Doug,VA,Roanoke VA
 N8MUS,Jon,MI,Sault Sainte Marie MI
 N8NA,Karl,839,Wilmington DE
 N8OO,Vic,LA,Pineville LA
-N8PE,John,OH,Bethel OH
+N8PE,John,OH,Xenia OH
 N8RH,Rob,2874,Maumee OH
 N8RQJ,Harold,OH,Columbus OH
 N8RR,Chas,WV,Charleston WV
@@ -5734,7 +5729,6 @@ W5LXS,Rog,3105,Midland TX
 W5MIG,Jerry,TX,Kerrville TX
 W5MJ,Madi,1479,Cedar Park TX (Been heard QRP)
 W5MKT,Dave,TX,Brackettville TX
-W5MOT,Dan,TX,(VA2OT)  Carrollton TX
 W5MT,Matt,1868,Murphy TX
 W5MX,Bryan,KY,BEREA KY
 W5NE,Alex,2141,Tyler TX
@@ -6261,7 +6255,6 @@ WB8LZR,Ron,NC,Cary NC
 WB8MIW,Pat,2224,Grand Rapids MI
 WB8SCT,Jack,1709,Springboro OH
 WB8SIW,Jim,IL,Marion IL
-WB9VGO,Bob,IL,Downers Grove IL
 WB8WKQ,Jeff,MI,Dryden MI
 WB8YHD,Frank,2899,Poland OH
 WB8YQJ,Don,CA,Carlsbad CA

@@ -2,6 +2,7 @@
 # ARRL-SCR
 # Current contest: ARRL School RoundUp.
 # Last Edit,2024-10-18
+# Thanks Bjorn/SM7IUN for his help.
 # Send new info/corrections to ve2fk@arrl.net
 AA0A,I,MO,
 AA0AA,I,NE,

@@ -1,4 +1,4 @@
-!!Order!!, Call, Exch1, UserText, 
+!!Order!!,Call,Exch1
 #
 # 4220 entries. Compiled by DK9TN, 15/Oct/2024.
 # DARC10M

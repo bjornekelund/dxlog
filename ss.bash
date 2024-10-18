@@ -1,5 +1,0 @@
- # !/bin/bash
-
-cd /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Contest
-grep MULT1 BDM.txt CWB.txt CUC.txt Baltic.txt ASCHAMP.txt AM_TEST.txt AGCWNTCQP.txt AEGEAN_RTTY.txt 9AACT.txt DARC_YL.txt EUFF_GP.txt ESLLKV_TALV.txt EUSPRINT.txt E7-6M-CUP.txt DTC.txt DIGR.txt IARU1FD_RUS.txt HA_YL_OM.txt HA3NS.txt POPOV.txt PGA_DIGI.txt PGA.txt RAEM.txt OKOM_SSB.txt NTCQP.txt NTCAP.txt LZVHFUHF.txt LZRADIODAY.txt LZMilara.txt LZHFField40.txt LZHFField.txt LZDXVHFUHF.txt KKSRRS.txt JENIPAPO.txt YU_UKT_Aktiviti.txt WIARDC.txt WFD.txt Valentine_Sprint.txt UKEICC80SS.txt UKEICC80.txt UA2_QP.txt TWO_CAPITALS.txt TMCR.txt TeslaMemorialHF.txt TENTENQP.txt TAVHFUHF.txt StewPerry.txt SSA_JT.txt SP_OTC.txt SMP.txt "SCHWABEN_UKW .txt" SCHWABEN_KW.txt SARL80MQP.txt R_ONY.txt RYBNICKIE.txt RTTYOPS_WS.txt RT3ASPRINT.txt RSGB_RoLo.txt RSGB_NFD_VHF.txt RSGB_LPC.txt RSGB_AFS_DATA.txt RSGB_AFS.txt RSGB_80m_CCd.txt RSGB_80m_CC.txt RSGB_2nd_160.txt RSGB_1st_160.txt RSGB-CLUB-CALLS.txt REF_THF.txt
-exit

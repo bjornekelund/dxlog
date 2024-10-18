@@ -1,12 +1,17 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2024-09-27
+# 1-Last Edit,2024-10-17
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE5MX via WV4P
 # 4-This file use EXCH1  for exchange, not state.
 # 5-Thanks Bjorn SM7IUN for corr. 
 # WRT
+
+K3KK,STAN,SC,
+W9YH,WILL,IL,
+K2PMD,PAUL,PA,
+
 4U1WB,MASA,DC,
 7L1WII,SAM,7L,
 8P5A,TOM,8P,
@@ -864,7 +869,7 @@ AH6RE,CURT,HI,
 AH6V,JEROME,HI,
 AI0L,,CO,
 AI0M,STAN,MN,
-AI0Y,JOE,MN,
+AI0Y,JOE,ND,
 AI0Y/9,JOE,IL,
 AI1G,RANDY,MA,
 AI1K,JOHN,AZ,
