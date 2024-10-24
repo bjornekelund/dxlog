@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-10-17
+# Last Edit,2024-10-23
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -421,6 +421,7 @@ AJ6DU,Ted,2269,San Jose CA
 AJ6ET,Ed,2935,Moreno VAlley CA
 AJ6GI,Jaime,2465,Portola Valley CA
 AJ6MQ,Brent,CA,Stockton CA
+AJ6V,Ed,3614,Los Altos Hills CA
 AJ7F,Tim,WA,Granite Falls WA
 AJ8B,Bill,1567,Waynesville OH
 AJ8M,Bruce,OH,Medina OH
@@ -726,6 +727,7 @@ E77DX,Braco,,Bosna & Herzegovina
 E77EA,Dragan,E7,Banja Luka Bosnia and Herzegovina
 E77XZ,Suad,,near Zenica Bosnia and Herzegovina
 EA1ARB,Vic,,Asturias Spain
+EA1CBX,Jose,3613,Porrino Spain
 EA1CS,Luis,,Aviles Spain
 EA1DP,Jose,EA,Cantabria Spain
 EA1DR,Oscar,,Cantabria Spain
@@ -932,7 +934,7 @@ G0OOR,Tony,2971,Norfold England
 G0ORH,Ken,,Thatcham West Berkshire
 G0PDZ,Ian,3556,Kent England
 G0PNM,Peter,,Cornwall England
-G0POT,Michael,,Thatcham England
+G0POT,Michael,3617,Thatcham England
 G0RDO,John,,Newton Abbot Devon Egnland
 G0TPH,Al,2956,Desford England (Been heard QRP)
 G0TRT,Cie,3429,Warminster England
@@ -1049,8 +1051,8 @@ G4XWJ,Tim,3384,Dorset England
 G4YTK,Steve,3449,Cannok England
 G4ZXY,IAN,,Felixstone Road England
 G5CL,Ryan,422,Buckinghamshire England (Mainly QRP)
-G5HOW,Gavin,,Melton Mowbray England
-G5NLD,Dennis,,Tetsworth England
+G5HOW,Gavin,3621,Melton Mowbray England
+G5NLD,Dennis,3618,Tetsworth England
 G5VZ,Chris,2877,Pontefract England
 G7BED,Chris,3431,Northampton England
 G7KSE,Alex,3212,Cumbria England (Been heard QRP)
@@ -1169,6 +1171,7 @@ HB9FBP,Francesco,,Lugano Switzerland
 HB9FIR,Clay,598,Oriolo Romano Italy
 HB9GCE,Carl,,Schwarzsee Switzerland
 HB9HDV,Yoshi,,Bernex Switzerland
+HB9HKN,Matej,3620,Zurich Switzerland
 HB9HSX,Tony,3298,Porza Switzerland
 HB9HZU,Luca,,Olten Switzerland
 HC2AO,Alex,,Guayaquil Ecuador
@@ -1488,7 +1491,7 @@ K1EBY,Frank,1593,Windsor CT
 K1ECU,Chas,2816,Pawcatuck CT
 K1EP,Ed,465,North Reading MA
 K1ESE,John,792,Waterford ME
-K1FJG,Jay,CWA,Shelton CT
+K1FJG,Jay,3619,Shelton CT
 K1FQL,Martin,NH,Nashua NH
 K1FV,Sheila,MA,Medway MA
 K1GQ,Bill,NH,Wolfeboro NH
@@ -2168,7 +2171,7 @@ K7QB,Robert,2091,
 K7RAT,Tree,83,Boring ARC Manning OR
 K7RF,Jon,OR,Portland OR
 K7RI,Tom,WA,Seattle WA
-K7RL,Mitch,2285, Camano Island WA
+K7RL,Mitch,WA,(2285)  Camano Island WA
 K7ROG,Roger,3473,Tucson AZ
 K7RR,Peter,1575,Silverdale WA
 K7SF,Steve,1137,West Linn OR
@@ -2198,6 +2201,7 @@ K7YEM,Steve,2604,University Place WA  (Been heard QRP)
 K7YMG,Tom,CA,Escondido CA
 K7ZD,Gary,1814,Phoenix AZ
 K7ZOO,Curt,2075,Tucson AZ
+K7ZQ,Walt,WA,
 K7ZYV,Carl,MS,Biloxi MS
 K8AAV,Rod,OH,Garrettsville OH
 K8AJS,John,1694,Wooster OH
@@ -2658,7 +2662,6 @@ KE1J,Lars,2037,South Kingstown RI
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
 KE2LW,Ron,NY,Rochester NY
-KE2SX,Gregg,1941,Wake Forest NC
 KE2WY,Bob,NY,Syracuse NY
 KE2YK,Gary,NY,East Yaphand NY
 KE3GK,Tom,MD,(3143)  Glen Burnie MD
@@ -2739,7 +2742,7 @@ KF7GGN,Scott,OR,Corvallis OR
 KF7PXT,Matt,WA,Olympia WA
 KF7QNS,Helen,2958,Bonners Ferry ID
 KF7U,Chuck,AZ,Apache Junction AZ
-KF7UFF,Ben,WY,Laramie WY
+KF7UFF,Ben,3615,Laramie WY
 KF7WX,Chris,3040,Edmonds WA
 KF7YHB,Wyatt,2564,Kingman AZ
 KF7Z,Danny,1468,Big Piney WY
@@ -3027,7 +3030,7 @@ KQ4DFV,Mike,CWA,Port Charlotte, FL
 KQ4E,Jim,3598,Rogersville TN
 KQ4EFL,Mike,3492,Marietta GA
 KQ4R,Ed,FL,Port Orange FL
-KQ4Y,Rick,FL,Fernandina Beach FL
+KQ4Y,Rick,NY,
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7I,Jeff,3470,Portland OR
 KQ7W,Matt,WA,Port Orchard WA
@@ -3456,6 +3459,7 @@ N2PD,Paul,NY,Middletown NY
 N2PH,Peter,NJ,Barnegat NJ
 N2PLG,Frank,3446,Deltona FL
 N2PP,Victor,NY,Baldwinsville NY
+N2PX,Gregg,1941,(ex:KE2SX)  Wake Forest NC
 N2QV,Ric,2867,(Tariq)  New York NY
 N2RC,Mike,1203,Warwick NY
 N2RD,RAJ,NY,Syracuse NY
@@ -3520,7 +3524,7 @@ N3MN,John,VA,Forest VA
 N3MNT,Bob,MD,Annapolis MD
 N3ND,Dan,189,Wake Forest NC
 N3OC,Brian,2944,Brookeville MD
-N3PP,Paul,CWA,Philadelphia PA
+N3PP,Paul,3622,Philadelphia PA
 N3QE,Tim,1223,Bethesda MD
 N3RA,Scott,3411,Salem OH
 N3RC,Roger,429,Sebastopol CA
@@ -5047,6 +5051,7 @@ VE2KM,Tony,2424,Dollard-Des-Ormeaux QC
 VE2MF,Mario,2556,Victoriaville QC
 VE2MFD,Mark,QC,St-Eustace QC
 VE2NCG,Nick,QC,Montreal Nord QC
+VE2OPB,Pierre,QC,Trois-Rivieres QC
 VE2OXP,Klaus,QC,Matane sur Mer QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC
@@ -5729,6 +5734,7 @@ W5LXS,Rog,3105,Midland TX
 W5MIG,Jerry,TX,Kerrville TX
 W5MJ,Madi,1479,Cedar Park TX (Been heard QRP)
 W5MKT,Dave,TX,Brackettville TX
+W5MOT,Dan,TX,Carrollton TX
 W5MT,Matt,1868,Murphy TX
 W5MX,Bryan,KY,BEREA KY
 W5NE,Alex,2141,Tyler TX
@@ -5786,6 +5792,7 @@ W6GJB,Glen,CA,Santa Cruz CA
 W6GMT,Brock,MN,(2211)  Marcell MN
 W6GMY,Terence,CA,Burlingame CA
 W6IYS,Bill,CA,Santa Rosa CA
+W6IZT,Greg,3616,Morganton GA
 W6JBR,JR,CA,(John) Oceanside CA
 W6JIM,Jim,2886,Walnut Creek CA
 W6JMP,Gene,1120,El Dorado Hills CA
