@@ -155,6 +155,7 @@ BAR - Bardejov
 HUM - Humenne
 KEZ - Kezmarok
 LEV - Levoca
+MED - Medzilaborce
 POP - Poprad
 SAB - Sabinov
 SNI - Snina
