@@ -3,20 +3,9 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2024-10-21
+# Last Edit,2024-10-27
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
-
-VE2OPS,PIRRE,,QC
-OZ1CTZ,BRIAN,
-
-
-K9TBD,JOEL,
-KF0NRV,DAN,
-K2LML,BILL,
-K0C,DOM,
-OZ1CTZ,
-
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -1361,6 +1350,7 @@ K0ARG,JON,,Peyton CO
 K0AV,Alan,1129,Colorado Springs CO
 K0BJ,Bruce,KS,Colby KS
 K0BRO,Ron,MO,Belton MO
+K0C,DOM,
 K0CA,Cliff,903,Hannibal MO
 K0CF,Craig,1834,Iowa City IA
 K0CMH,Craig,MO,St Louis MO
@@ -1619,6 +1609,7 @@ K2KT,TIM,,Arlington VA
 K2KW,Ken,80,Evington VA
 K2L,Dave,1208,(WN4AFP)  Greenville SC
 K2LE,Andy,39,Manhasset NY
+K2LML,BILL,
 K2LNS,Herb,2208,Wilkes Barre PA
 K2LP,Bud,MA,Eastham MA
 K2MF,Barry,1253,Lutz FL
@@ -2396,6 +2387,7 @@ K9SO,Fred,WI,Burlington WI
 K9SS,Norb,IL,Arlington Heighs IL
 K9STM,Sam,IL,New Lenox IL
 K9SW,Dave,IL,Downers Grove IL
+K9TBD,JOEL,
 K9TF,Jim,WI,West Allis WI
 K9UCX,Ken,2693,Springfield IL
 K9UIY,Vic,505,Freeport IL
@@ -2842,6 +2834,7 @@ KF0GVX,RYAN,
 KF0HLA,MAC,,Ames IA
 KF0IDJ,RICH,CO,Loveland CO
 KF0KDI,BEN,,Omaha NE
+KF0NRV,DAN,
 KF0OKY,CJ,,Plattsmouth NE
 KF0RAG,TONY,,Monument CO
 KF1P,Bob,SC,Gaffney SC
@@ -4673,6 +4666,8 @@ OV2V,Per,,Viuf Denmark
 OX3XR,Peter,1116,Nuuk Greenland
 OY1CT,Carsten,797,Kvivik Faroe Islands
 OZ1AAR,Villy,2694,Horsholm Denmark
+OZ1CTZ,
+OZ1CTZ,BRIAN,
 OZ1JHM,Jal,1420,Lundby Denmark
 OZ1OXQ,Vagn,3065,Allinge Denmark
 OZ1THC,Tommy,,Nyborg Denmark
@@ -5237,6 +5232,7 @@ VE2KM,Tony,2424,Dollard-Des-Ormeaux QC
 VE2MF,Mario,2556,Victoriaville QC
 VE2MFD,Mark,QC,St-Eustace QC
 VE2NCG,Nick,QC,Montreal Nord QC
+VE2OPB,PIRRE,,QC
 VE2OXP,Klaus,QC,Matane sur Mer QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC

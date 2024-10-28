@@ -16,4 +16,7 @@ gawk -f arrlss.awk $FILECW | sort | sed 's/#. /# /g' | sed 's/ARRL CW/ARRL SSB/g
 echo Created $OUTFILECW and $OUTFILESSB
 unix2dos -q $OUTFILECW $OUTFILESSB
 
+../copytosourcetree.bash $OUTFILECW
+../copytosourcetree.bash $OUTFILESSB
+
 exit

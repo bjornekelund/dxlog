@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-10-23
+# Last Edit,2024-10-27
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -280,6 +280,7 @@ AD7HI,Scott,UT,or Tucumcari NM
 AD7I,Paul,2946,Middletown NJ
 AD7KG,Jed,UT,South Jordan UT
 AD7KR,Steve,AZ,Tempe AZ
+AD7N,Ben,3540,(ex: KI7KY)  West Point UT  
 AD8B,John,OH,Galena OH
 AD8CW,Doug,412,Fairlawn OH
 AD8IG,Vlad,OH,North Royalton OH
@@ -319,7 +320,7 @@ AE6EN,Kevin,2251,Visalia CA
 AE6RF,Donald,CA,Boulder Creek CA
 AE6VL,Roland,3458,Martinez CA
 AE6Y,Andy,38,Monte Sereno CA
-AE6Z,CW,,Hamilton City CA
+AE6Z,CW,3628,Hamilton City CA
 AE7AP,Rob,CWA,Helena MT
 AE7EU,Martin,2725,Bend OR
 AE7I,Craig,875,Reno NV
@@ -453,7 +454,7 @@ C6ARU,Tim,,(N4UM) Bahamas
 C6AUM,Mike,1182,K4RUM in Bahamas
 C6AXX,Juan,,(AC6ZM)  Remote Bahamas
 C6AZM,Juan,2419,Bahamas
-CA3FJK,Fernando,CWA,Santiago de Chilie
+CA3FJK,Fer,3629,Santiago de Chilie
 CE2LR,Matt,2281,La Calera V Region Chile  (Director)
 CE3CT,Roberto,2837,Santiago Chile
 CN8YR,Med,1656,Casablanca Morocco
@@ -557,6 +558,7 @@ DK1WI,Ed,1602,Katzwinkel Germany
 DK2FE,Leo,,Kassel Germany
 DK2FG,Peter,,Brakel Germany
 DK3HM,Heinz,,Usingen Germany
+DK3RN,Peter,3625,Waldbroel Germany
 DK3WW,Uwe,2523,Kichendorf Germany
 DK3YD,Hans,,Muenchen Germany
 DK4BX,Erwin,,Heidelberg Germany
@@ -2460,6 +2462,7 @@ KB3AAY,Ron,1866,Sykesville MD
 KB3CT,Matt,PA,Beaver Falls PA
 KB3FW,Harv,2982,Bluffton SC
 KB3ILS,Keith,PA,Avondale
+KB3MDD,Pras,3630,Sgar Land TX
 KB3ML,Paul,1495,Altoona PA
 KB3ND,Norm,PA,Coraoplis PA
 KB3RC,Ken,PA,(3378) Belleville PA  
@@ -2839,7 +2842,6 @@ KI6OY,Lee,2013,Livermore CA
 KI6RRN,Axel,CA,La Mesa CA
 KI6UP,JIM,TX,Atlanta TX
 KI7KWA,Gord,WA,Chehalis WA
-KI7KY,Ben,3540,West Point UT
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
 KI7OY,Larry,CA,Yuba City CA
@@ -2993,7 +2995,7 @@ KO4GOF,Cohen,VA,Narrows VA
 KO4LAO,Jim,3200,Travelers Rest SC
 KO4O,Roger,AL,Trinity AL
 KO4OL,Al,3542,Richmond KY
-KO4OWS,David,CWA,Loganville GA
+KO4OWS,Dave,3627,Loganville GA
 KO4TFK,Steve,3373,Suwanee GA  (Been heard QRP)
 KO4UHE,Rick,KY,Danville KY
 KO4VW,Steve,3096,Roswell GA
@@ -4956,7 +4958,7 @@ VA2EBI,George,9,Ham-Sud QC  (also W1EBI)
 VA2FDT,Szabi,1193,Cap-Sante QC
 VA2MA,MA,QC,also VE3VIG
 VA2NM,Simon,3249,Verdun QC
-VA2OT,DAN,QC,MONTREAL QC
+VA2OT,DAN,3624,(W5MOT)  MONTREAL QC
 VA2RAC,,QC,RAC HQ
 VA2UR,Guy,QC,(VE2BWL)
 VA2WA,Vic,2212,Boucherville QC (COSBoard)
@@ -5734,7 +5736,7 @@ W5LXS,Rog,3105,Midland TX
 W5MIG,Jerry,TX,Kerrville TX
 W5MJ,Madi,1479,Cedar Park TX (Been heard QRP)
 W5MKT,Dave,TX,Brackettville TX
-W5MOT,Dan,TX,Carrollton TX
+W5MOT,Dan,3624,Carrollton TX
 W5MT,Matt,1868,Murphy TX
 W5MX,Bryan,KY,BEREA KY
 W5NE,Alex,2141,Tyler TX
@@ -5835,7 +5837,7 @@ W6STR,Mike,1641,Santa Rosa CA
 W6SX,Hank,61,Mammoth Lakes CA
 W6TED,Ted,CA,San Diego CA
 W6TK,Dick,CA,Nipomo CA
-W6TLS,Terry,CWA,Vislia CA
+W6TLS,Terry,3623,Vislia CA
 W6TN,Trung,1707,Garden Grove CA (CWops Roster/Mbr. Dir.)
 W6UB,Larry,TN,Friendsville TN
 W6UDO,Joe,OR,Crooked River Ranch OR
@@ -5959,7 +5961,7 @@ W8UA,Javan,2662,Rittman OH
 W8UE,Ted,MI,Ypsilanti MI
 W8UE/4,Ted,,
 W8UV,Phil,DE,Wilford DE
-W8UY,Terry,CWA,Defiance OH
+W8UY,Terry,3626,Defiance OH
 W8VNZ,Mark,MI,Montrose MI
 W8WOJ,Don,MI,Midland MI
 W8WTS,Jim,1689,Chagrin Falls OH
