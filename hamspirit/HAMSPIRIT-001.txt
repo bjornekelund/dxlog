@@ -1,9 +1,7 @@
 # Current contest: HAMSPIRIT cw-ssb
-# Last Edit,2024-09-12
+# Last Edit,2024-10-28
 # Thanks Nick/NA3M
 # HAMSPIRIT
-# HAMSPIRCW
-# HAMSPIRSSB
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 !!Order!!, Call, Name, Sect, UserText,
 2D0DRM,,27IO
