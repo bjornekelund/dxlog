@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-10-27
+# Last Edit,2024-10-29
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1326,6 +1326,7 @@ JA5DQH,Aki,777,Tokushima Japan
 JA6LCJ,Yuki,,(Yukihisa)  Kumamoto Japan
 JA7QVI,Tac,,Miyagi Japan
 JA8CDG,Ken,161,Machida Tokyo Japan
+JA8RUZ,Toshi,3632,Hokkaido Japan
 JE1PEN,Ted,3601,(WC2A)  Tokyo Japan
 JE1TRV,Atsu,141,Machida-City Tokyo Japan (JA Amb.)
 JE8UHY,Toshi,,Honkaido Japan
@@ -5182,7 +5183,7 @@ VE6GL,Jim,3451,St. Albert AB
 VE6JF,Jim,2009,Calgary AB
 VE6JTW,Jesse,3166,Cochrane AB
 VE6RST,Max,3068,Leduc AB
-VE6SV,Gord,AB,Sherwood Park AB
+VE6SV,Gord,3633,Sherwood Park AB
 VE7AHA,Andy,352,Delta BC
 VE7ALQ,Yaakov,BC,Vancouver BC
 VE7BGJ,Walt,BC,Chilliwacck BC
@@ -5897,6 +5898,7 @@ W7VP,Bill,WA,Woodinville WA
 W7VQ,Rick,2441,N Salt Lake UT
 W7VSE,Vic,OR,Medford OR
 W7VZ,Kent,UT,Clearfield UT
+W7WHO,Dennis,3631,Crooked River Ranch OR
 W7WHY,Tom,OR,(407) Coos Bay OR
 W7XT,Dick,2004,Missoula MT
 W7Y,Bob,1406,(N7WY) Cheyenne WY
