@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-10-29
+# Last Edit,2024-10-31
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -688,6 +688,7 @@ DL8UKW,Uli,,Zeuthen Germany
 DL9ABM,Stefan,1922,Bergen Germany
 DL9BU,Burger,,Voerde Germany
 DL9FCQ,Tom,,Greigericht Germany
+DL9LBG,Mike,,Kiel Germany
 DL9LM,Yuri,,Schwerin Germany
 DL9MDW,Chris,,Bad Aibling Germany (Also AD0DO)
 DL9MFY,Bodo,,Muenchen Germany
@@ -705,6 +706,7 @@ DM4G,Klaus,2524,(DL8TG) Wolfsburg Germany  (Been heard QRP)
 DM4WL,Dieter,,Kreisca Germany
 DM6EE,Lutz,2654,Wolfsburg Germany  (Been heard QRP)
 DM7EE,Christian,,Wolfsburg Germany
+DM7TW,Paul,,Backnang Germany
 DO4DXA,Marc,1851,Germering Germany (V31MA)
 DO6AN,Nils,3141,Hamburg Germany
 DP4X,Mario,2801,(DJ2MX)  Muenchen Germany
@@ -1529,6 +1531,7 @@ K1MZ,Al,MA,Westfield MA
 K1MZM,Alan,3045,Montpelier VT
 K1NMF,Den,NH,Chichester NH
 K1NOK,Bob,764,Scituate MA
+K1NW,Brian,RI,Wakefield RI
 K1NY,Gerry,1929,Wantagh NY
 K1NZ,Maz,MA,Monson MA
 K1OA,Scott,736,Andover MA
@@ -1621,7 +1624,7 @@ K2LE,Andy,39,Manhasset NY
 K2LML,Bill,FL,Fort Myers FL
 K2LNS,Herb,2208,Wilkes Barre PA
 K2LP,Bud,MA,Eastham MA
-K2MEU,John,NJ,Highlands NJ
+K2MEU,John,3635,Highlands NJ
 K2MF,Barry,1253,Lutz FL
 K2MGR,Kurt,915,Bainbridge NY
 K2MK,Mike,FL,Lakeland FL
@@ -2123,7 +2126,7 @@ K7BG,Matt,3447,Pierre SD
 K7BTW,Rich,2313,Rainer WA
 K7BV,Dennis,NC,Turkey NC
 K7CNT,Rick,2565,Kingman AZ
-K7CO,Jon,UT,Kaysville UT
+K7CO,Jon,3637,Kaysville UT
 K7DRQ,Quentin,3210,Tacoma WA
 K7DWI,Art,TX,Granbury TX
 K7EFW,Ed,3274,Hillsboro OR
@@ -2529,6 +2532,7 @@ KC1DLY,Matt,CT,Southington CT
 KC1KUG,Bray,NH,Farmington NH
 KC1RL,Ric,MA,Falmouth MA
 KC1SA,Steve,CT,Wallingford CT
+KC1TNO,Luka,MA,Mendon MA
 KC2EGL,Mike,PA,
 KC2IGE,Matt,NY,Massapequa Park NY
 KC2JAJ,John,NY,Oneida NY
@@ -2846,6 +2850,7 @@ KI7KWA,Gord,WA,Chehalis WA
 KI7MT,Greg,MT,Helena MT
 KI7OMH,Mike,2282,Tacoma WA
 KI7OY,Larry,CA,Yuba City CA
+KI7QCF,Forrest,3636,Spanish Fork UT
 KI7RS,Ryan,2708,Vail AZ
 KI7VEM,Ken,2937,Wilsonville OR
 KI7WNS,Jacob,2731,Flagstaff AZ
@@ -3029,7 +3034,7 @@ KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN  (Been heard QRP)
 KQ1O,Santi,VA,
 KQ3H,Tony,NC,Greensboro NC
-KQ4DFV,Mike,CWA,Port Charlotte, FL
+KQ4DFV,Mike,3638,Port Charlotte, FL
 KQ4E,Jim,3598,Rogersville TN
 KQ4EFL,Mike,3492,Marietta GA
 KQ4R,Ed,FL,Port Orange FL
@@ -3727,7 +3732,7 @@ N5QQ,Ron,TX,Dallas TX
 N5RP,Bob,1797,Murphysboro IL
 N5RR,Bill,226,Hollister MO
 N5RZ,Gator,1221,Fredricksburg TX
-N5SGQ,Dale,AR,Hot Springs AR
+N5SGQ,Dale,3634,Hot Springs AR
 N5SQR,Scott,NM,Albuquerque NM
 N5TIT,Jeff,TX,Dallas TX
 N5TJ,Jeff,3016,Austin TX
@@ -4683,7 +4688,7 @@ SC0T,Olle,SM,Uplands Vasby Sweden
 SC3N,Andy,265,Iggo Island Sweden (EA8CN)
 SC6O,Ben,3519,Skovde Sweden
 SD1A,Eric,1718,Visby Sweden (SM1TDE)
-SD5F,Klas,2163,
+SD6F,Klas,2163,Askim Sweden
 SD6M,Per,1773,Lindome Sweden (SA6BGR)
 SE0B,Claes,1849,Varmdo Sweden (SA0BXV)
 SE4E,Lars,SM,Ludvika Sweden (SM4DQE)
@@ -4841,7 +4846,8 @@ SV4/SV1DAY,Manos,SV,
 SV4SUR,Helena,3565,Near city of Volos Greece
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
-SV8SXF,KOSTAS,CWA,KASPAKAS Greece
+SV8SWF,Kostas,3639,Kaspakas Greece
+SV8SXF,KOSTAS,3639,KASPAKAS Greece
 SV8SXV,MILTOS,,CYCLADES Greece
 SV9RNG,Pol,1009,Crete
 TA1UT,Bora,2768,Karakoy Istanbul Turkey
@@ -5034,7 +5040,6 @@ VE1YVN,Sam,NS,Dartmouth NS
 VE2AEJ,Alan,336,Quebec
 VE2AEJ/3,Alan,336,
 VE2BWL,Guy,859,Magog QC
-VE2BZO,Andre,QC,Drummondville QC
 VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
@@ -5140,7 +5145,7 @@ VE3PVI,Tom,1735,Ingleside ON
 VE3QAM,Mark,ON,Waterloo ON
 VE3QN,Bryan,ON,Gloucester ON
 VE3RDE,Roger,2957,Ottawa ON
-VE3RIA,Drew,1025,Brantford ON
+VE3RIA,Andrew,1025,Brantford ON
 VE3RSA,Tom,ON,Mississauga ON
 VE3RUA,Jack,1047,Kenora (W6NF)
 VE3SIF,Ron,3082,Guelph ON (Been heard QRP)
@@ -5638,6 +5643,7 @@ W4NA,Nate,1334,Gore VA
 W4NBS,Tom,1696,Trinity AL
 W4NF,Jack,2360,Manassas VA
 W4NI,Russ,TN,Nashville TN
+W4NO,Tony,252,(K2SG)  NSS DX Group
 W4NPX,Bob,VA,Charlottesville VA
 W4NTA,Jim,GA,Peachtree Corners GA
 W4NU,John,760,Atlanta GA

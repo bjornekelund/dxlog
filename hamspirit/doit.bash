@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls HAMSPIRIT-* | tail -1 2> /dev/null`
+FILE=`ls HAMSPIRIT[^_]* | tail -1 2> /dev/null`
 OUTFILE=HAMSPIRIT_db.txt
 
 echo Parsing $FILE
