@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2024-10-26
+# 1-Last Edit,2024-11-01
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from the logs of VE5MX via WV4P
 # 4-This file use EXCH1  for exchange, not state.
@@ -13,6 +13,10 @@ W9YH,WILL,IL,
 K2PMD,PAUL,PA,
 VP5/NR4O,ERIC,VP5,
 NN7O,TOM,CA,
+
+W5EIT,LARRY,AR,
+W1KOI,EVAN,MA,
+
 
 4U1WB,MASA,DC,
 7L1WII,SAM,7L,
@@ -1332,7 +1336,7 @@ K0VM,VIC,IA,
 K0VPP,,WI,
 K0VSV,,IA,
 K0VVX,,SD,
-K0VW,JOHN,MN,
+K0VW,JOHN,WI,
 K0VW/4,JOHN,VA,
 K0VXU,RUSS,KS,
 K0WA,LEROY,KS,
@@ -4449,6 +4453,7 @@ KB6ODH,MIKE,CA,
 KB6TAL,,AZ,
 KB6VME,,CA,
 KB7AK,BEN,WA,
+KB7AZ,Carl,AZ
 KB7BRW,ALLAN,WA,
 KB7BTO,JON,WA,
 KB7DXN,BOB,ID,
@@ -8340,7 +8345,7 @@ N6HC,ARNIE,CA,
 N6HCN,JOHN,CA,
 N6HD,DAVID,CA,
 N6HE,RAY,CA,
-N6HI,JOHN,AZ,
+N6HI,JOHN,AZ,(Heard QRPP)
 N6HK,,CA,
 N6HQK,,CO,
 N6HR,,WA,
@@ -9870,6 +9875,7 @@ NZ4CW,CRAIG,SC,
 NZ4N,BRIAN,NC,
 NZ5M,,TX,
 NZ5P,,TX,
+NZ5X,Larry,TX,
 NZ6K,,CA,
 NZ6L,,CA,
 NZ6Q,JOHN,CA,
