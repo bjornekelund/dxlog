@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-10-29
+# 1-Last Edit,2024-11-05
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -979,6 +979,7 @@ DK6AC,MIKE,DX,Braunschweig Germany
 DK6XT,JO,DX,Harsefeld Germany
 DL1AMI,WERNER,DX,Nordhausen Germany
 DL1AVH,WIL,DX,Kahla Germany
+DL1BAK,LEO,DX,
 DL1CC,Wolf,DX,Eisenhuettenstadt
 DL1CWM,Konrad,DX,Helsa Germany
 DL1EAR,Adnreas,DX,
@@ -1011,6 +1012,7 @@ DL5XL,FELIX,DX,Hagen im Bremischen Germany
 DL5YV,BEN,DX,Greiz Germany
 DL6KW,LUZ,DX,Satteldorf Germany
 DL6SDW,JOE,DX,Neu-Ulm Germany
+DL6UEF,PAUL,DX,
 DL7BS,Bern,DX,Berlin Germany
 DL7DS,DAN,DX,Neuss Germany
 DL7USW/P,MARK,DX,Berlin Germany
@@ -1074,6 +1076,7 @@ ES4RM,SERGEI,DX,Narva Joesuu Estonia
 EW8CP,VLAD,DX,Belarus
 EX8KT,VICTOR,DX,Kant Kyrgyzstan
 F/OZ1CGQ,NIELS,DX,
+F1EST,ERIC,DX,
 F4FUB,SEB,DX,Saint Blimont France
 F4HGA,GUS,DX,Changé France
 F4HGD,STEF,DX,Dunkerque France
@@ -1203,6 +1206,7 @@ HB9BGG,MARCO,DX,Lufingen Switzerland
 HB9BXF,FRANZ,DX,Meikirch Switzerland
 HB9CMW,RICH,DX,Zurich Switzerland
 HB9DAX,FRED,DX,Landquart Swtzerland
+HB9DAX/QRP,FRED,DX,
 HB9DOS,ROBY,DX,Olivone/Luorscha Switzerland
 HB9FAB,PAT,DX,Camignolo Switzerland
 HB9FNN,EMIL,DX,Lyss Switzerland
@@ -6376,6 +6380,7 @@ M0KVI,OWEN,DX,East Sussex England
 M0LRQ,PETER,DX,Northamptonshire England
 M0MON/P,MARK,DX,Winderhere England
 M0MUI,MUI,DX,Norwich England
+M0MVO,RICK,DX, 
 M0NNQ,LEO,DX,Cumbria England
 M0NOM/P,MARK,DX,Windermere England
 M0NYW,JASON,DX,North Tyneside England
