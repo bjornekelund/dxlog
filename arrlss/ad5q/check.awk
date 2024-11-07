@@ -6,7 +6,6 @@ BEGIN {
   seccol = 5;
 }
 {
-
   if ($0 !~ /^(#|!)/) {
     if (call[$calcol] != "") {
       printf("Duplicate entry     : \"%s\" and \"%s\"\n", line[$calcol], $0) > "/dev/stderr";
@@ -33,5 +32,4 @@ BEGIN {
     call[$calcol] = $calcol;
   }
 }
-END {
-}
+END {}
