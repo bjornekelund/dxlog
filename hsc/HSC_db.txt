@@ -1,4 +1,4 @@
-# Updated 2024-Oct-29 to HSC 2021 by DJ5CW. Updates to fabian@fkurz.net.
+# Updated 2024-Nov-06 to HSC 2021 by DJ5CW. Updates to fabian@fkurz.net.
 # http://highspeedclub.org/ - This file is always up to date at: https://hsc.dj1yfk.de/db/HSC_db.txt
 4K0CW=1647
 4K100W=1531
@@ -963,6 +963,7 @@ M0GMT=1802
 M0HEN=1995
 M0HVM=1259
 M0IKE=1872
+M0KTZ=2020
 M0SIS=1642
 M1X=1548
 MM0GAA=1953

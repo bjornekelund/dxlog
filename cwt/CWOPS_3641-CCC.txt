@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-11-05
+# Last Edit,2024-11-07
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -72,6 +72,7 @@
 A61AD,Don,2,Dubai UAE
 AA0AI,Steve,IA,North Liberty IA
 AA0AW,Doug,MN,Duluth MN
+AA0BY,LARRY,OR,
 AA0FO,Marsh,1532,Kansas City KS
 AA0IZ,Jack,2943,Newberg OR
 AA0O,Pat,2626,Saint Petersburg FL
@@ -226,6 +227,7 @@ AC5EZ,Ken,TX,Oak Point TX
 AC5GG,Lee,TX,Kirbyville TX
 AC5JH,Tom,WI,Hillsboro WI
 AC5K,Wes,54,Billngs MO
+AC5M,SETH,OK,
 AC5O,Jeff,LA,Raceland LA
 AC5XK,Don,2989,Washington DC
 AC6AC,Buz,1911,Topanga CA
@@ -4691,7 +4693,7 @@ SD1A,Eric,1718,Visby Sweden (SM1TDE)
 SD6F,Klas,2163,Askim Sweden
 SD6M,Per,1773,Lindome Sweden (SA6BGR)
 SE0B,Claes,1849,Varmdo Sweden (SA0BXV)
-SE4E,Lars,SM,Ludvika Sweden (SM4DQE)
+SE4E,Lars,950,Ludvika Sweden (SM4DQE)
 SE5E,Ingo,2097,Vallingby Sweden (SM5AJV)
 SE5T,Kare,3467,(SM5GRD)  Grillby Sweden
 SE5V,Claes,1849,Sweden
@@ -4721,7 +4723,7 @@ SM2M,Per,2906,(SM2LIY)  Umea Sweden
 SM3EVR,Tord,261,Njurunda Sweden
 SM3KMB,Ben,,Nyland Sweden
 SM4ASX,Len,,Orebro Sweden
-SM4DQE,Lars,SM,Ludvika Sweden (also SE4E)
+SM4DQE,Lars,950,Ludvika Sweden (also SE4E)
 SM4EMO,Ken,,Kumla Sweden
 SM5ACQ,Don,1573,Vasteras Sweden
 SM5AJV,Ingo,2097,Vallingby Sweden (also SE5E)
@@ -5538,6 +5540,7 @@ W3MA,John,2664,Malvern PA
 W3MC,Mike,MD,Severn MD
 W3MF,John,PA,Kresgeville PA
 W3MS,Craig,MD,Salisbury MD
+W3NCK,NICK,DE,
 W3OKC,Steve,1808,Dover PA
 W3PD,John,PA,Boalsburg PA
 W3PNM,Bill,1985,Willow Hill PA
@@ -5602,6 +5605,7 @@ W4FLN,Frank,FL,Cape Coral FL
 W4FO,Pat,FL,Hudson FL
 W4FOA,Tony,229,Chickamauga GA
 W4FS,Tucker,NC,Efland NC
+W4GAL,GARY,FL,
 W4GD,John,FL,The Villages FL
 W4GFA,George,SC,Walhalla SC
 W4GJ,Bob,FL,Gainesville FL

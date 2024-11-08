@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3641
-# Last updated 2024-11-05
+# Last updated 2024-11-08
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -70,6 +70,7 @@
 A61AD=Don;2
 AA0AI=Steve;IA
 AA0AW=Doug;MN
+AA0BY=LARRY;OR
 AA0FO=Marsh;1532
 AA0IZ=Jack;2943
 AA0O=Pat;2626
@@ -224,6 +225,7 @@ AC5EZ=Ken;TX
 AC5GG=Lee;TX
 AC5JH=Tom;WI
 AC5K=Wes;54
+AC5M=SETH;OK
 AC5O=Jeff;LA
 AC5XK=Don;2989
 AC6AC=Buz;1911
@@ -4679,7 +4681,7 @@ SD1A=Eric;1718
 SD6F=Klas;2163
 SD6M=Per;1773
 SE0B=Claes;1849
-SE4E=Lars;SM
+SE4E=Lars;950
 SE5E=Ingo;2097
 SE5T=Kare;3467
 SE5V=Claes;1849
@@ -4707,7 +4709,7 @@ SM2M=Per;2906
 SM3EVR=Tord;261
 SM3KMB=Ben;SM
 SM4ASX=Len;SM
-SM4DQE=Lars;SM
+SM4DQE=Lars;950
 SM4EMO=Ken;SM
 SM5ACQ=Don;1573
 SM5AJV=Ingo;2097
@@ -5522,6 +5524,7 @@ W3MA=John;2664
 W3MC=Mike;MD
 W3MF=John;PA
 W3MS=Craig;MD
+W3NCK=NICK;DE
 W3OKC=Steve;1808
 W3PD=John;PA
 W3PNM=Bill;1985
@@ -5586,6 +5589,7 @@ W4FLN=Frank;FL
 W4FO=Pat;FL
 W4FOA=Tony;229
 W4FS=Tucker;NC
+W4GAL=GARY;FL
 W4GD=John;FL
 W4GFA=George;SC
 W4GJ=Bob;FL
