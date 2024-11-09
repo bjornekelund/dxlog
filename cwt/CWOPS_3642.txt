@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-11-07
+# Last Edit,2024-11-08
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -6392,7 +6392,7 @@ WN4R,Byron,FL,Lady Lake FL
 WN5C,Sam,OK,Norman OK
 WN5T,Mike,TN,(Previously KO4GEO) Nashville TN
 WN5V,Dave,2642,Welsh LA
-WN7JT,Gabe,WA,Arlington WA
+WN7JT,Gabe,3642,Arlington WA
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
 WN8F,Ken,NY,Ashland KY
