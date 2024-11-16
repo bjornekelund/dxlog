@@ -1,5 +1,5 @@
 # Current contest: HAMSPIRIT cw-ssb
-# Last Edit,2024-10-31
+# Last Edit,2024-11-14
 # Thanks Nick/NA3M
 # HAMSPIRIT
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -55756,7 +55756,7 @@ RN9AZ,,30MO
 RN9C,,30MO
 RN9CM,,30MO
 RN9MM,,30MO
-RN9N,,30OM
+RN9N,,30MO
 RN9RF,,30MO
 RN9S,,30LO
 RN9T,,30LO

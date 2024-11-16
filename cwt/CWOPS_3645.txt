@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-11-09
+# Last Edit,2024-11-15
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -864,6 +864,7 @@ F5IUZ,Moise,,Aubagne France
 F5IYC,Chris,,Tourcoing France
 F5IYJ,Phil,1842,Longeault France  (Been heard QRP)
 F5JLQ,Georges,,Calais France
+F5KTR,Jules,,France
 F5JU,Jon,,L'Hermitage France
 F5JVP,Didier,,Le Vieil Dampierre France
 F5MAI,Regis,,Nouvion le Vineux France
@@ -912,6 +913,7 @@ F8FSN,Georges,2610,Carpentras France
 F8NUH,Jean,,St-Andre Le Gaz France
 FM/VE3DZ,Yuri,21,
 FO/K7TD,Tery,1948,
+FR/F5SGI,Jean,2532,
 G0AYD,Dave,G,Wiltshire England
 G0BQV,Mary,,Tolworth England
 G0BYH,Geoff,,Buckinghamshire England
@@ -3515,7 +3517,7 @@ N3CZ,Vlad,1891,Asheville NC
 N3DXX,Art,1232,Wilmington DE
 N3DXX/0,Art,1232,
 N3EA,Al,1438,Lake Worth FL
-N3FEL,Hal,CWA,Langhorne PA
+N3FEL,Hal,3644,Langhorne PA
 N3FJ,Robert,PA,Chadds Ford PA
 N3FR,Bob,3156,Pittsburgh PA
 N3FTO,Paul,PA,Media PA
@@ -3648,7 +3650,7 @@ N4QI,GEORGE,SC,Myrtle Beach SC
 N4QS,Dave,1653,Paducah KY
 N4RJ,Val,GA,Darien GA
 N4RKK,Jeff,FL,Gainsville FL
-N4RLD,Rick,GA,Moreland GA
+N4RLD,Rick,744,Moreland GA
 N4RR,Roger,IL,Rock Falls IL
 N4RSS,Roger,2529,Dunwoody GA
 N4RT,Ron,2404,Bay Minette AL
@@ -3666,6 +3668,7 @@ N4UC,Art,858,Huntsville AL
 N4UCM,Doug,2920,Waunakee WI
 N4UM,Tim,FL,Vero Beach FL
 N4UP,Peter,1228,Victoria VA
+N4UU,,FL,Hawthome FL
 N4UZZ,Otto,2838,Montgomery AL
 N4VI,Chris,3174,Boulder CO
 N4WDC,David,VA,King George VA
@@ -4226,7 +4229,7 @@ NR4A,Sam,3095,Spring Hill FL
 NR4M,Steve,993,Locust Grove VA
 NR4N,Angel,VA,Manassas VA
 NR5W,Doug,2722,Seattle WA
-NS0R,Mo,1264,(Morgan) Topeka KS
+NS0R,To,1264,(Morgan) Topeka KS
 NS1DX,Gerry,191,(W1VE)
 NS3C,Dick,1807,Los Angeles CA (Been heard QRP)
 NS3L,Steve,3007,Nazareth PA
@@ -4849,8 +4852,8 @@ SV4/SV1DAY,Manos,SV,
 SV4SUR,Helena,3565,Near city of Volos Greece
 SV5BYR,Mike,,Dodecanese Greece
 SV8PMM,Panos,,Aegina Greece
-SV8SWF,Kostas,3639,Kaspakas Greece
-SV8SXF,KOSTAS,3639,KASPAKAS Greece
+SV8SWF,Kostas,3639,Argostoli Greece
+SV8SXF,Kostas,3645,KASPAKAS Greece
 SV8SXV,MILTOS,,CYCLADES Greece
 SV9RNG,Pol,1009,Crete
 TA1UT,Bora,2768,Karakoy Istanbul Turkey

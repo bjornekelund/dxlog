@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3643
-# Last updated 2024-11-11
+# Contains members up to #3645
+# Last updated 2024-11-16
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -864,6 +864,7 @@ F5IYJ=Phil;1842
 F5JLQ=Georges;F
 F5JU=Jon;F
 F5JVP=Didier;F
+F5KTR=Jules;F
 F5MAI=Regis;F
 F5MNK=LO;F
 F5MNW=Guy;F
@@ -910,6 +911,7 @@ F8FSN=Georges;2610
 F8NUH=Jean;F
 FM/VE3DZ=Yuri;21
 FO/K7TD=Tery;1948
+FR/F5SGI=Jean;2532
 G0AYD=Dave;G
 G0BQV=Mary;G
 G0BYH=Geoff;G
@@ -1603,7 +1605,6 @@ K2DB=Paul;686
 K2DIW=Seth;2051
 K2DM=George;2652
 K2EJ=Steve;3180
-K2EJT=Evan;3643
 K2EJT=Evan;3643
 K2EKM=Bill;VA
 K2EQ=Howard;NY
@@ -3504,7 +3505,7 @@ N3CZ=Vlad;1891
 N3DXX/0=Art;1232
 N3DXX=Art;1232
 N3EA=Al;1438
-N3FEL=Hal;CWA
+N3FEL=Hal;3644
 N3FJ=Robert;PA
 N3FR=Bob;3156
 N3FTO=Paul;PA
@@ -3637,7 +3638,7 @@ N4QI=GEORGE;SC
 N4QS=Dave;1653
 N4RJ=Val;GA
 N4RKK=Jeff;FL
-N4RLD=Rick;GA
+N4RLD=Rick;744
 N4RR=Roger;IL
 N4RSS=Roger;2529
 N4RT=Ron;2404
@@ -3655,6 +3656,7 @@ N4UC=Art;858
 N4UCM=Doug;2920
 N4UM=Tim;FL
 N4UP=Peter;1228
+N4UU=;FL
 N4UZZ=Otto;2838
 N4VI=Chris;3174
 N4WDC=David;VA
@@ -4215,7 +4217,7 @@ NR4A=Sam;3095
 NR4M=Steve;993
 NR4N=Angel;VA
 NR5W=Doug;2722
-NS0R=Mo;1264
+NS0R=To;1264
 NS1DX=Gerry;191
 NS3C=Dick;1807
 NS3L=Steve;3007
@@ -4837,7 +4839,7 @@ SV4SUR=Helena;3565
 SV5BYR=Mike;SV5
 SV8PMM=Panos;SV
 SV8SWF=Kostas;3639
-SV8SXF=KOSTAS;3639
+SV8SXF=Kostas;3645
 SV8SXV=MILTOS;SV
 SV9RNG=Pol;1009
 TA1UT=Bora;2768
