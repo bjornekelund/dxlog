@@ -5,7 +5,7 @@ OUTFILE=MCD_db.txt
 
 echo Downloading $FILE
 
-curl -sS http://www.ariloano.it/marconiclub/List_Members_MC.csv -o $FILE
+curl -sS https://www.marconiclub.it/List_Members_MC.csv -o $FILE
 
 dos2unix -q $FILE
 
@@ -15,5 +15,7 @@ sed 's/ //g' $FILE |\
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
+../copytosourcetree.bash $OUTFILE
 
 exit
