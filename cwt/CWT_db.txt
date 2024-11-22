@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3645
-# Last updated 2024-11-16
+# Last updated 2024-11-22
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -589,6 +589,7 @@ DL/UX1HW=Art;1890
 DL0AF=Fritz;DL
 DL0DA=Hardy;2802
 DL1AXX=Seb;DL
+DL1DT=Ole;DL
 DL1EJM=Christ;DL
 DL1FY=Erwin;2636
 DL1GRC=Sascha;DL
@@ -1229,6 +1230,7 @@ IK0YVV=Marco;1505
 IK1HGE=Bob;2632
 IK1NEG=Gab;I
 IK1PML=Otto;I
+IK1POK=Enriko;I
 IK1RGK=Aldo;I
 IK1WNO=Enrico;2525
 IK1YRA=Carl;2866
@@ -4903,6 +4905,7 @@ UT2UB=Andre;UR
 UT3GP=Vlad;UR
 UT3RN=Nick;UR
 UT3UZ=Alex;614
+UT4LW=Yuri;UR
 UT4UP=Alex;UR
 UT4UZ=Yuri;21
 UT4WA=Igor;UR

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-11-15
+# Last Edit,2024-11-20
 # Send new info or corr.  DIRECT  to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -591,6 +591,7 @@ DL/UX1HW/M,Art,1890,
 DL0AF,Fritz,,RC Erwitte Germany
 DL0DA,Hardy,2802,Dresden Germany  (DL1VDL)
 DL1AXX,Seb,,Cologne Germany
+DL1DT,Ole,,Bleicherode Germany
 DL1EJM,Christ,,Duisburg Germany
 DL1FY,Erwin,2636,Moosinning Germany
 DL1GRC,Sascha,,Kandern Germany
@@ -1235,6 +1236,7 @@ IK0YVV,Marco,1505,Terni Italia
 IK1HGE,Bob,2632,Almese Italy
 IK1NEG,Gab,,Imperia IM Italy
 IK1PML,Otto,,(Ottavio)  Borgone Di Susa Italy
+IK1POK,Enriko,,Italy
 IK1RGK,Aldo,,Novara Italy
 IK1WNO,Enrico,2525,Genova Italy
 IK1YRA,Carl,2866,Torino Italy
@@ -4913,6 +4915,7 @@ US3EW,Vlad,,Pavlograd Ukraine
 US3EZ,Serge,,Ukraine
 US4IRC,Gena,,Donetsk Ukraine
 UT1LF,Alex,,Khar'Kov Ukraine
+UT4LW,Yuri,,Ukraine
 UT2UB,Andre,,Klev UIkraine
 UT3GP,Vlad,,Kherson Ukraine
 UT3RN,Nick,,Chernigovskaya Ukraine
