@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3645
-# Last updated 2024-11-22
+# Contains members up to #3646
+# Last updated 2024-11-25
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -457,6 +457,7 @@ C6AZM=Juan;2419
 CA3FJK=Fer;3629
 CE2LR=Matt;2281
 CE3CT=Roberto;2837
+CF2I=Lajos;128
 CN8YR=Med;1656
 CO2IR=Frank;1147
 CO2UE=Fred;CM
@@ -536,6 +537,7 @@ DJ2JES=Hardy;DL
 DJ2MX=Mario;2801
 DJ2PR=Rudi;DL
 DJ3CQ=Jo;2969
+DJ3TU=Norbert;DL
 DJ4CW=Simone;DL
 DJ4DX=Andre;3529
 DJ4MX=Sven;2697
@@ -924,6 +926,7 @@ G0EFO=Mike;G
 G0ELZ=Bill;239
 G0EML=Ray;G
 G0FGE=Basil;3436
+G0FOZ=Si;3646
 G0HFL=Nick;G
 G0HKC=Keith;1739
 G0IBN=Andy;G
@@ -4695,16 +4698,16 @@ SE6J=Johan;2880
 SE6K=Mats;SM
 SF0Z=Jens;2237
 SF1Z=Jens;2237
-SF3A=Jan;SM
 SF6J=Goran;3471
 SI5Y=Kurt;SM
 SJ6R=Mats;1820
 SJ6W=Sten;SM
 SM0AIG=Ingemar;SM
 SM0BYD=Hans;998
+SM0D=Kari;3029
 SM0FPR=Mats;2125
 SM0HEV=Jens;2237
-SM0HRP=Cary;3029
+SM0HRP=Kari;3029
 SM0OEK=Jaan;2548
 SM1IRS=Andy;SM
 SM1TDE=Eric;1718
@@ -5121,7 +5124,7 @@ VE3MS=Rodger;ON
 VE3MV=Doug;1642
 VE3MVM=Mary;ON
 VE3NA=Al;ON
-VE3NE=Lali;128
+VE3NE=Lajos;128
 VE3NGN=Chad;CWA
 VE3NI=Daniel;ON
 VE3NNT=Les;1701

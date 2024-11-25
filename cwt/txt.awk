@@ -97,7 +97,7 @@ BEGIN {
       if (call ~ /^UN/) ID = "UN";
       if (call ~ /^U[R-Z]/) ID = "UR";
       if (call ~ /^V3/) ID = "V3";
-      if (call ~ /^V[EOY]/) ID = "VE";
+      if (call ~ /^(V[EOY]|CF)/) ID = "VE";
       if (call ~ /^VK/) ID = "VK";
       if (call ~ /^VP2M/) ID = "VP2M";
       if (call ~ /^VU/) ID = "VU";
