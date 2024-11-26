@@ -3,7 +3,7 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2024-11-18
+# Last Edit,2024-11-25
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 W3DX,ROB,
@@ -13,7 +13,7 @@ N6PHP,ROBIN,
 KK4E,DON,
 W1BOY,SAN,
 OM3YTS,ROB,
-
+N2DYT,GREG,
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
@@ -428,7 +428,7 @@ AI3A,Alan,3053,Georgetown CA
 AI4FH,WES,,GLOUCESTER VA
 AI4IC,KAY,,Oak Ridge
 AI5G,MARK,,Frisco TX
-AI5IN,Marty,TX,Waller TX
+AI5IN,Mart,TX,Waller TX
 AI5IR,SAM,TX,
 AI6DO,Ryan,CA,Torrance CA
 AI6IE,Step,CA,Alta Loma  CA

@@ -1,7 +1,7 @@
 # ICWS Medium Speed Test database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-11-22
+# Last updated 2024-11-26
 2E0DCW=GERALD
 2E0IIV=STEVE
 2E0OBO=BOB
@@ -415,7 +415,7 @@ AI3A=ALAN
 AI4FH=WES
 AI4IC=KAY
 AI5G=MARK
-AI5IN=MARTY
+AI5IN=MART
 AI5IR=SAM
 AI6DO=RYAN
 AI6IE=STEP
@@ -3571,6 +3571,7 @@ N2CJ=GLENN
 N2DA=CRAIG
 N2DE=RIC
 N2DGQ=ERNIE
+N2DYT=GREG
 N2EA=JIM
 N2EC=ED
 N2ED=ED

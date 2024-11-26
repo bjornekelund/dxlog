@@ -35,7 +35,10 @@ BEGIN {
       if (call ~ /^D[A-R]/) ID = "DL";
       if (call ~ /^E2/) ID = "HS";
       if (call ~ /^E7/) ID = "E7";
-      if (call ~ /^E[A-F]/) ID = "EA";
+      if (call ~ /^E[A-F]6/) ID = "EA6";
+      if (call ~ /^E[A-F]8/) ID = "EA8";
+      if (call ~ /^E[A-F]9/) ID = "EA9";
+      if (call ~ /^E[A-F][0123457]/) ID = "EA";
       if (call ~ /^E[I-J]/) ID = "EI";
       if (call ~ /^ER/) ID = "ER";
       if (call ~ /^ES/) ID = "ES";
