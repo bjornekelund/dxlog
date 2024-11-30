@@ -22,6 +22,6 @@ BEGIN {
 }
 END {
   printf("#3 Longest name is %s (%d)\n", maxname, maxlen);
-  printf("#3 Longest name is %s (%d)\n", maxname, maxlen) > "/dev/stderr";
+  printf("Longest name is %s (%d)\n", maxname, maxlen) > "/dev/stderr";
   printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
 }

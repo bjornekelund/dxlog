@@ -1,7 +1,7 @@
 # Ham Spirit Contest database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-11-16
+# Last updated 2024-11-30
 2D0DRM=27IO
 2D0PEY=27IO
 2E0APZ=27IO
@@ -69867,7 +69867,7 @@ W7QDM=06DN
 W7QF=06EL
 W7QHZ=06DM
 W7QL=06DN
-W7QM=06CN
+W7QM=06DM
 W7QN=06CN
 W7QQE=06CO
 W7QQF=06DN

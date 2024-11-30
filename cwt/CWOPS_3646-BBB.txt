@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-11-22
+# Last Edit,2024-11-27
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -2865,6 +2865,7 @@ KI7RS,Ryan,2708,Vail AZ
 KI7VEM,Ken,2937,Wilsonville OR
 KI7WNS,Jacob,2731,Flagstaff AZ
 KI7Y,Jim,699,Milwaykie OR
+KI8GM,Carl,VA,Bristow VA
 KI8P,Mark,FL,Indian Harbour Beach FL (KV4JQ)
 KI9R,Basil,IN,Greenville IN
 KI9T,Pat,2293,Springfield IL
@@ -4234,7 +4235,7 @@ NR4A,Sam,3095,Spring Hill FL
 NR4M,Steve,993,Locust Grove VA
 NR4N,Angel,VA,Manassas VA
 NR5W,Doug,2722,Seattle WA
-NS0R,To,1264,(Morgan) Topeka KS
+NS0R,MO,1264,(Morgan) Topeka KS
 NS1DX,Gerry,191,(W1VE)
 NS3C,Dick,1807,Los Angeles CA (Been heard QRP)
 NS3L,Steve,3007,Nazareth PA
