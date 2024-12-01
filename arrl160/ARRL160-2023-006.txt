@@ -2,7 +2,7 @@
 #
 # ARRL160
 # Corr/Updated to 2023 by Bjorn SM7IUN
-# LastEdit,2023-12-01
+# LastEdit,2024-11-04
 # MAR are now NB + NS, NT is TER and GTA is GH
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # This file need to use Exch1 in preamble
@@ -1165,7 +1165,6 @@ K1DW,LA,
 K1EA,WMA,
 K1EFI,MDC,
 K1EO,EMA,
-K1EP,NE,
 K1EQA,CO,
 K1ES,SV,
 K1ESE,ME,
@@ -2107,7 +2106,7 @@ K5UN,NTX,
 K5USA,OK,
 K5UTD,NTX,
 K5UV,OK,
-K5VG,SNJ,
+K5VG,OR,
 K5VIP,VA,
 K5VYT,CO,
 K5WA,STX,
@@ -10403,7 +10402,7 @@ WC6H,SJV,
 WC7Q,WWA,
 WC7S,WY,
 WC8VOA,OH,
-WC9C,IN,
+WC9C,WI,
 WD0BGZ,CO,
 WD0BMS,SD,
 WD0BWM,KS,

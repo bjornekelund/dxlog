@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-11-27
+# Last Edit,2024-11-30
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -4373,6 +4373,7 @@ OH6NJ,Jarno,,Jyska Finland
 OH6NVC,Mika,1919,Viiasaari Finland
 OH6OS,Juna,,Seinajoki Finland
 OH7CW,Panu,1559,Vlamylly Finland
+OH7MA,Taneli,OH,Finland
 OK1AK,Josef,,Tabor Czech Republic
 OK1AL,Kaj,,Usti nad Labem Czech Republic
 OK1AU,Stan,,Lysa nad Labem Czech Republic
@@ -6313,7 +6314,7 @@ WC5W,Dwight,IN,Macy IN
 WC6Y,Ken,2155,Scotts Valley CA
 WC7Q,Sam,1226,Woodinville WA
 WC7S,Dale,404,College Drive Cheyenne WY
-WC9C,Dean,IL,Algonquin IL
+WC9C,Dean,WI,New Berlin WI
 WD0BC,Bill,MO,St. Joseph MO
 WD0END,Ron,3018,Chanhassen MN
 WD0T,Todd,SD,Pierre SD
@@ -6621,4 +6622,4 @@ ZS6DX,Ridi,3420,Steytlerville South Africa
 ZS6MSW,Mike,3247,South Africa
 ZS6RI,Chris,1236,The Reeds South Africa
 ZS6UT,Ed,,Lynnwood Ridge South Africa
-ZS6WAR,Warren,,Secunda South Africa
+ZS6WAR,Warren,3647,Secunda South Africa

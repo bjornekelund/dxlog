@@ -3,7 +3,7 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2024-11-25
+# Last Edit,2024-11-30
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M,
 W3DX,ROB,
@@ -6611,7 +6611,7 @@ WC6Y,Ken,2155,Scotts Valley CA
 WC7F,JERRY,ID,Idaho Falls ID
 WC7Q,Sam,1226,Woodinville WA
 WC7S,Dale,404,College Drive Cheyenne WY
-WC9C,DEAN,IL,
+WC9C,DEAN,WI,
 WD0BC,Bill,MO,St. Joseph MO
 WD0END,Ron,3018,Chanhassen MN
 WD0T,Todd,SD,Pierre SD

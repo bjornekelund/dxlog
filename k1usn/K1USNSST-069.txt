@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2024-11-26
+# 1-Last Edit,2024-11-30
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -12522,7 +12522,7 @@ W7SST,,OR,
 W7STF,SAM,NY,King Ferry NY
 W7STV,STEVEN,WA,Ephrata WA
 W7SUR,SPENCER,UT,
-W7SW,Scotty,AZ,Sun City West AZ
+W7SW,,AZ,Sun City West AZ
 W7SWB,WILL,WA,Trout Lake WA
 W7SWL,BOB,AZ,
 W7SZ,,WA,
@@ -14086,6 +14086,7 @@ WC7Q,SAM,WA,
 WC7R,GARL,OR,
 WC7S,DALE,WY,
 WC8L,SONNY,WV,Center Point WV
+WC9C,DEAN,WI,
 WD0BC,BILL,MO,Saint Joseph MO
 WD0BGZ,ALAN,NE,
 WD0BQM,,NE,
