@@ -34,4 +34,6 @@ cp $FOLDER/$XDTFILE ../xdt
 
 echo Created $OUTFILE $XDTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

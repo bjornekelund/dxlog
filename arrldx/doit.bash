@@ -10,4 +10,6 @@ cat $INFILE | sort | gawk -f arrldx.awk | sort | sed 's/^\#. /\# /g' > ARRL_DX_d
 echo $OUTFILE created
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

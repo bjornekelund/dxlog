@@ -10,4 +10,6 @@ gawk -f bcqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

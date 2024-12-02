@@ -10,4 +10,6 @@ gawk -f eudxc.awk $FILE > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

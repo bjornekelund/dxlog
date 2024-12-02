@@ -10,6 +10,8 @@ gawk -f txt.awk $FILE | sort | sed 's/#. /# /g' > $DBFILE
 echo Created $DBFILE
 unix2dos -q $DBFILE
 
+../copytosourcetree.bash $DBFILE
+
 gawk -f xdt.awk $FILE | sort > $XDTFILE
 
 echo Created $XDTFILE

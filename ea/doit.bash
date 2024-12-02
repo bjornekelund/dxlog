@@ -12,4 +12,6 @@ cat $FILE1 $FILE2 | sed 's/ //g' | gawk -f ea.awk | sort | sed 's/#. /# /g' > $O
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

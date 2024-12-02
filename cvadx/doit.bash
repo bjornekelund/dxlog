@@ -10,4 +10,6 @@ cat $FILE | sed 's/ //g' | gawk -f cvadx.awk | sort | sed 's/#. /# /g' > $OUTFIL
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit
