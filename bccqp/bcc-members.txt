@@ -50,7 +50,6 @@ AE5MD,Pit
 DF0WI,Pit
 DK0WI,Pit
 DF2RG,Gary
-DF2TT,Gerd
 DF3CB,Bernd
 DF3IAL,Anders
 SM6CNN,Anders
@@ -360,6 +359,7 @@ DR6W,Joe
 DL6RBO,Toni
 DR6R,Toni
 DL6RDR,Stefan
+DL6RY,Yannick
 DL6WT,Jürgen
 DL7AT,Andy
 DA0T,Andy
