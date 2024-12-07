@@ -9,4 +9,6 @@ gawk -f spdx-rtty.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

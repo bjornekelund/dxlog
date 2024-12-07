@@ -10,4 +10,6 @@ gawk -f polar-radioman.awk $FILE > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

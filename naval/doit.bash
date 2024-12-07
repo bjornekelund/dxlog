@@ -10,4 +10,6 @@ gawk -f naval.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 echo $OUTFILE created
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

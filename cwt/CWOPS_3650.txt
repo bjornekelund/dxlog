@@ -1,9 +1,9 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-12-01
+# Last Edit,2024-12-06
 # Send new info or corr. DIRECT to ve2fk@arrl.net
-# Thanks K3CT K7SV K9ZO KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
+# Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
@@ -33,6 +33,7 @@
 6Y5WJ,Josh,,St-Elizabeth Jamaica
 7J1ABD,Dan,1176,Tokyo Japan
 7L2VPL,Hide,3538,Chiba Japan
+7Q2T,Gerry,191,(W1VE)
 7S3A,Jan,,Sundbruk Sweden
 7X2TT,Abdel,2344,(M0NPT) Alger Algeria
 7X3DA,Hamid,1676,Laghouat Algeria
@@ -768,6 +769,7 @@ EA3VN,Enric,3493,Llinars Del Valles Spain
 EA4BB,Nando,2981,Madrid Spain
 EA4GMX,Felipe,,Cuenca Spain
 EA4HKF,Jose,,Puertollano Spain
+EA4KA,Gene,3650,Leganes Spains
 EA4KD,Pete,,Madrid Spain
 EA4M,Rick,1070,(Ricardo) (EA4ZM) Aranjuez Spain
 EA4OR,Nacho,2218,Meco Madrid Spain
@@ -1872,7 +1874,7 @@ K4MTI,Mike,FL,Panama City FL
 K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
-K4NMR,Tom,2298,Tampa FL
+K4NMR,Tom,FL,(2298)  Tampa FL
 K4NNK,Gary,3165,Atlanta GA
 K4NP,Don,TN,Loudon TN
 K4OAH,Garey,VA,Glen Allen VA
@@ -2396,7 +2398,6 @@ K9XW,John,2807,Elgin IL
 K9YC,Jim,CA,Santa Cruz CA
 K9YII,Fred,IL,Odin IL
 K9ZMU,Kent,WI,West Bend WI
-K9ZO,Al,1761,(Ralph) Stanford IL
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA0PQW,Matt,3377,Ellendale MN
@@ -2741,6 +2742,7 @@ KF4QFJ,Jerome,VA,Suffolk VA
 KF4T,Brian,FL,Miami FL
 KF4ZGZ,Matt,NC,Walnut NC
 KF5GZJ,Mike,TX,Friendswood TX
+KF5INS,Mark,LA,kenner LA
 KF5JC,Jim,3442,Carescent OK
 KF5JUO,Lynda,TX,Allen TX
 KF5RDN,Julianne,TX,Alpine TX
@@ -3099,6 +3101,7 @@ KT5W,Will,NC,Fayette NC
 KT5X,Fred,58,Santa Fe NM
 KT6Q,,CA,Calif. Alligators Contest Club (Escondido CA)
 KT6V,,TX,Round Hill TX (Old friends AR Transmitting Society)
+KT8X,Dennis,MI,Saline MI
 KT9N,Chris,CWA,Leesburg VA
 KT9P,Scott,IL,Caledonia IL
 KT9X,Flip,2813,Pahrump NV
@@ -3521,9 +3524,11 @@ N3CO,Russ,MI,Byron Center MI
 N3CU,Ken,PA,Quarryville PA
 N3CW,Ed,1509,Palm Coast FL
 N3CZ,Vlad,1891,Asheville NC
+N3DD,Dom,3649,Newtown PA
 N3DXX,Art,1232,Wilmington DE
 N3DXX/0,Art,1232,
 N3EA,Al,1438,Lake Worth FL
+N3EMZ,Jerry,PA,Mount Pleasant PA
 N3FEL,Hal,3644,Langhorne PA
 N3FJ,Robert,PA,Chadds Ford PA
 N3FR,Bob,3156,Pittsburgh PA
@@ -4152,7 +4157,6 @@ NJ6Q,Jer,2617,(Jeremy) Encinitas CA (Been heard QRP)
 NJ7V,Red,3061,Mesa AZ
 NJ8J,Ben,2007,Marietta GA
 NJ8M,Morgan,1590,Topeka KS
-NJ8V,Dew,1969,Shade OH
 NJ9S,Bruno,2966,Mishawaka IN
 NK1N,Glen,2812,Hillsborough NJ
 NK2F,Phil,1842,(F5IYJ)
@@ -4338,6 +4342,7 @@ OE8TIR,Steve,2254,Carinthia Austria
 OE9TXF,Nigel,166,(G3TXF) Vorarberg Austria
 OE9WGI,Walt,2635,Neuziders Austria
 OF5ZA,Zaba,1856,
+OG1XMAS,Timo,2967,(OH1NOA)
 OG6B,Zaba,1856,OH1ZAA
 OH/UX1HW/M,Art,1890,Mobile
 OH0XX,Olli,328,Jaali Finland

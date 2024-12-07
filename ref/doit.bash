@@ -10,4 +10,6 @@ sed 's/ //g' $FILE | gawk -f ref.awk | sort | sed 's/#. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

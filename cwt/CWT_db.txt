@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3648
-# Last updated 2024-12-03
+# Contains members up to #3650
+# Last updated 2024-12-07
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -31,6 +31,7 @@
 6Y5WJ=Josh;6Y
 7J1ABD=Dan;1176
 7L2VPL=Hide;3538
+7Q2T=Gerry;191
 7S3A=Jan;SM
 7X2TT=Abdel;2344
 7X3DA=Hamid;1676
@@ -766,6 +767,7 @@ EA3VN=Enric;3493
 EA4BB=Nando;2981
 EA4GMX=Felipe;EA
 EA4HKF=Jose;EA
+EA4KA=Gene;3650
 EA4KD=Pete;EA
 EA4M=Rick;1070
 EA4OR=Nacho;2218
@@ -1866,7 +1868,7 @@ K4MTI=Mike;FL
 K4NA=Tom;AL
 K4NAX=Don;TN
 K4NE=Phil;2220
-K4NMR=Tom;2298
+K4NMR=Tom;FL
 K4NNK=Gary;3165
 K4NP=Don;TN
 K4OAH=Garey;VA
@@ -2390,7 +2392,6 @@ K9XW=John;2807
 K9YC=Jim;CA
 K9YII=Fred;IL
 K9ZMU=Kent;WI
-K9ZO=Al;1761
 K9ZTV=Kent;676
 KA0AAM=Dwayne;1497
 KA0PQW=Matt;3377
@@ -2735,6 +2736,7 @@ KF4QFJ=Jerome;VA
 KF4T=Brian;FL
 KF4ZGZ=Matt;NC
 KF5GZJ=Mike;TX
+KF5INS=Mark;LA
 KF5JC=Jim;3442
 KF5JUO=Lynda;TX
 KF5RDN=Julianne;TX
@@ -3090,6 +3092,7 @@ KT5W=Will;NC
 KT5X=Fred;58
 KT6Q=;CA
 KT6V=;TX
+KT8X=Dennis;MI
 KT9N=Chris;CWA
 KT9P=Scott;IL
 KT9X=Flip;2813
@@ -3509,9 +3512,11 @@ N3CO=Russ;MI
 N3CU=Ken;PA
 N3CW=Ed;1509
 N3CZ=Vlad;1891
+N3DD=Dom;3649
 N3DXX/0=Art;1232
 N3DXX=Art;1232
 N3EA=Al;1438
+N3EMZ=Jerry;PA
 N3FEL=Hal;3644
 N3FJ=Robert;PA
 N3FR=Bob;3156
@@ -4140,7 +4145,6 @@ NJ6Q=Jer;2617
 NJ7V=Red;3061
 NJ8J=Ben;2007
 NJ8M=Morgan;1590
-NJ8V=Dew;1969
 NJ9S=Bruno;2966
 NK1N=Glen;2812
 NK2F=Phil;1842
@@ -4326,6 +4330,7 @@ OE8TIR=Steve;2254
 OE9TXF=Nigel;166
 OE9WGI=Walt;2635
 OF5ZA=Zaba;1856
+OG1XMAS=Timo;2967
 OG6B=Zaba;1856
 OH/UX1HW/M=Art;1890
 OH0XX=Olli;328
