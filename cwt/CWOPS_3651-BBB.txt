@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-12-06
+# Last Edit,2024-12-11
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -295,6 +295,7 @@ AD8R,Lou,MI,Caseville MI
 AD8WR,Dave,2857,Granger IN
 AD8Y,David,OH,Cleveland Heights OH
 AD9AC,Ken,3321,IL,Litchfield IL
+AD9CA,Mike,IL,Newton IL
 AD9S,Bob,CWA,Croton on Hudson NY
 AE0DX,Adam,IA,IA
 AE0EE,Bill,MN,Minneapolis MN
@@ -2829,6 +2830,7 @@ KH6ND,Mike,HI,Honolu HI
 KH6NO,JJ,3223,Henderson NV
 KH6TU,Alan,217,Wailuku HI
 KH6Y,Bob,HI,Mililani HI
+KH6ZB,Steve,3641,(W0ZB) Waimanalo HI
 KH7X,Mike,AZ,
 KH7Y,Fred,216,Ocean View HI
 KI0F,Roger,3339,Wabasha MN
@@ -4145,6 +4147,7 @@ NI9F,Noah,3422,Jackson WI
 NI9Y,Dan,2432,Mishawaka IN
 NJ1F,Brian,2029,Saratoga Springs NY
 NJ1T,Doug,MA,Pittsfield MA
+NJ2OM,Mike,NJ, Hackettstown NJ
 NJ3K,Bruce,2431,Port Allegany PA
 NJ4P,Ace,TN,Savannah TN
 NJ4Q,Will,2374,Lynchburg VA
@@ -5491,7 +5494,7 @@ W2MGF,Mike,NY,Bronx NY
 W2MKM,Ed,2681,Washington NJ
 W2MM,QCWA,FL,(W3US) Quarter Century Wireless Assn.
 W2MSW,Mark,2790,Union NJ
-W2MV,Alan,3368,Bobbs Ferry NY
+W2MV,Alan,3368,Dobbs Ferry NY
 W2NO,Dan,2174,Metuchen NJ
 W2NRA,Art,1955,Lake Grove NY
 W2OR,DJ,1384,(Mark) St-Augustine Beach FL
@@ -5566,7 +5569,7 @@ W3PU,Adrian,NY,Voyager DX Association
 W3QKA,John,PA,ork PA
 W3RE,Matt,2625,East Petersburg PA
 W3RGA,Pat,3409,Sunbury PA
-W3RJ,Rich,PA,Coopersburg PA
+W3RJ,Rich,3651,Coopersburg PA
 W3RT,Emil,2410,Fairless Hills PA
 W3RZ,Lou,1963,Deer Park TX (Been heard QRP)
 W3SA,John,3074,NC
@@ -5917,7 +5920,7 @@ W7RIP,Rip,2894,Bozeman MT
 W7RN,Tom,108,VC Highlands NV (K5RC)
 W7RX,Scott,2034,Eugene OR
 W7STV,Steve,WA,Ephrata WA,
-W7SW,Scotty,143,Sun City West AZ
+W7SW,,143,Sun City West AZ
 W7TAO,Todd,1136,Mount Vernon WA
 W7UDH,Dick,WA,Seattle WA
 W7UT,Bob,200,Huron SD
@@ -6490,6 +6493,7 @@ WV7S,Den,WA,Olympia WA
 WW0K,Zac,IA,Ames IA
 WW0SS,Nick,MN,Shoreview MN
 WW0WWV,Eric,CO,Fort Collins WWV ARC
+WW1T,Scott,FL,Cape Coral FL
 WW2I,Peter,3561,Pittstown NJ
 WW2Y,Peter,NJ,Belle Mead NJ
 WW3S,Jim,2775,(Jamie) Meadville PA
