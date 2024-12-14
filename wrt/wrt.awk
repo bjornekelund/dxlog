@@ -105,6 +105,7 @@ BEGIN {
       if (call ~ /^V[EOY]/) ID = "VE";
       if (call ~ /^VK/) ID = "VK";
       if (call ~ /^VP2M/) ID = "VP2M";
+      if (call ~ /^VP5/) ID = "VP5";
       if (call ~ /^VU/) ID = "VU";
       if (call ~ /^XE/) ID = "XE";
       if (call ~ /^YL/) ID = "YL";
@@ -131,7 +132,7 @@ BEGIN {
     }
 
     if ((!namevalid && !idvalid) || problemid || (!namevalid && ID !~ /^([A-Z]{1,2})/)) {
-#      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
+      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
       printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {

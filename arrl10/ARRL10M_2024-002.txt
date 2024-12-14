@@ -2,7 +2,7 @@
 #
 # ARRL10M
 # Current contest: ARRL10M
-# Last Edit,2024-12-10  
+# Last Edit,2024-12-13  
 # Send new info/Corr. DIRECT to ve2fk@arrl.net
 # Thanks SM7IUN for his help
 # Updated from log of VE2FK 
@@ -3583,7 +3583,7 @@ KD3GC,,GA,
 KD3HN,,PA,
 KD3NB,,PA,
 KD3SB,,PA,
-KD3TB,,PA,
+KD3TB,,DE,
 KD4ACG,,FL,
 KD4AMP,,FL,
 KD4CX,,FL,
@@ -4967,6 +4967,7 @@ KZ6T,,CA,
 KZ7O,,UT,
 KZ8E,,WV,
 KZ9V,,WI,
+M7OVJ,,WA,
 N0AC,,IA,
 N0ACW,,CO,
 N0ADF,,FL,
