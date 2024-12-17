@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-12-11
+# Last Edit,2024-12-16
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1279,6 +1279,7 @@ IT9BLB,Joe,2138,Palermo Italy
 IT9CDU,Vince,,Palermo Italy
 IT9CKA,Serafino,2584,Trapani Italy
 IT9IML,Rosario,,Nascalucia Italy
+IT9KCD,Gae,3653,Serradifalco Italy
 IT9MUO,Alf,1569,Ribera Italy
 IT9RZU,Joe,,Sicily Isl. Italy
 IT9SSI,Dario,2137,(W1SSI) Capo d'Orlando Messina Italy
@@ -2851,6 +2852,7 @@ KI4POV,Will,2952,Athens AL
 KI4XH,Fred,1206,Woodbridge VA
 KI5DDO,Joey,2950,Cedar Park TX
 KI5EE,Joe,LA,Lake Charles LA
+KI5GTR,Les,3654,Cabot AR
 KI5IO,Nolan,2549,Plano TX
 KI5PED,Andy,TX,Houston TX
 KI5PGL,Matt,3572,Murphy TX
@@ -5995,6 +5997,7 @@ W8UE,Ted,MI,Ypsilanti MI
 W8UE/4,Ted,,
 W8UV,Phil,DE,Wilford DE
 W8UY,Terry,3626,Defiance OH
+W8VLN,Bill,3652,Eaton OH
 W8VNZ,Mark,MI,Montrose MI
 W8WOJ,Don,MI,Midland MI
 W8WTS,Jim,1689,Chagrin Falls OH

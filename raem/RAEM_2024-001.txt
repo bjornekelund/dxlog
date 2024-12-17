@@ -1,6 +1,6 @@
 !!Order!!,Call,Exch1,UserText, 
 # 
-# Last Edit,2023-12-24
+# Last Edit,2024-12-14
 # Originally idea of UR7QM/sk, coded by RA6YDX
 # RAEM 
 # Send any info, correction direct to ve2fk@arrl.net
@@ -474,6 +474,7 @@ R0AK,56N91O,
 R0AS,56N93O,
 R0DX,48N135O,
 R0QA,66N111O,
+R0QC,66N111O
 R0RG,52N104O,
 R0SBZ,56N101O,
 R0SI,52N104O,

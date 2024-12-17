@@ -1,5 +1,5 @@
 # AGCW-DL Mitgliederliste;;
-# Revision 20241201;;
+# Revision 20241213;;
 # AGCW#;RUFZ;VORNAME
 18;DK4LX;Holger
 24;DL7DO;Ralf
@@ -46,7 +46,6 @@
 206;OK2FD;Karel
 207;OK2BCH;Jindrich
 219;DK7RW;Werner
-220;DK9FN;Siegfried
 221;OE1TKW;Helmut
 225;DK5PZ;Hans-Dieter
 233;YO4ASG;Cornel-Emil
@@ -78,7 +77,6 @@
 354;DK9TZ;Uli
 355;OK1RR;Martin
 356;DF2BP;Burkhard
-358;DF1CF;Hans-Jürgen
 366;G3RSP;Alan
 370;LA9UH;Reidar
 371;YO4PZ;Ionel
@@ -861,7 +859,6 @@
 2387;DL1JGS;Jürgen
 2388;DK4GR;Hans-Jürgen
 2390;DF2UK;Heide
-2396;DF3MA;Bernd
 2398;DM4TJ;Klaus
 2400;DL3EL;Thomas
 2402;SP9VEG;Pawel
@@ -2290,3 +2287,5 @@
 4378;DF6LI;Klaus
 4379;DH6BAN;Hans-Jürgen
 4380;DM3KS;Sascha
+4381;DL1EIG;Hermann
+4382;DD1ZZ;Haris

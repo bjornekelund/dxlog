@@ -1,7 +1,7 @@
 # Database for RAEM International Contest
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-12-25
+# Last updated 2024-12-17
 2E0SUR=51N0W
 2E0ZSE=51N3W
 4K6FO=40N50O
@@ -471,6 +471,7 @@ R0AK=56N91O
 R0AS=56N93O
 R0DX=48N135O
 R0QA=66N111O
+R0QC=66N111O
 R0RG=52N104O
 R0SBZ=56N101O
 R0SI=52N104O

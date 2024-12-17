@@ -184,6 +184,7 @@ DK3HV,Hanno
 DK3QJ,Georg
 DK3WE,Pit
 KU6I,Pit
+DK3WN,Mike
 DK3WW,Uwe
 DK3YD,Hans
 DN3YD,Hans
@@ -507,10 +508,13 @@ PA9AUQ,Anton
 ON7WM,Werner
 OT5L,Werner
 OZ1ADL,Jan
-OZ7AM,Alex
-VE2OXA,Alex
-OU4X,Alex
-5P7Y,Alex
+OZ7AM,Nadia
+VE6UY,Nadia
+AC2QW,Nadia
+OU4X,Nadia
+5P7U,Nadia
+OX7AM,Nadia
+OZ1FOX,Nadia
 PA0BWL,Wil
 PA0GJV,Gerrit
 PA0JED,Jan
