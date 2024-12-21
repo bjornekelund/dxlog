@@ -11,6 +11,7 @@ AG4RS,Mike
 DA1DX,Ben
 DA1TT,Jan
 PA1TT,Jan
+DA6NEN,Lenny
 DB1WA,Alex
 DB2WD,Jens
 DN1MIA,Jens
@@ -330,6 +331,8 @@ DL5MX,Mike
 DL5NAM,Chris
 DL5NDX,Ulrich
 DL5NEN,Tom
+DR5M,Tom
+DN5EN,Tom
 DL5RCW,Diana
 DL5RDO,Dieter
 DL5RMH,Martin

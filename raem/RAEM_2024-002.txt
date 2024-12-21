@@ -1,6 +1,6 @@
 !!Order!!,Call,Exch1,UserText, 
 # 
-# Last Edit,2024-12-14
+# Last Edit,2024-12-17
 # Originally idea of UR7QM/sk, coded by RA6YDX
 # RAEM 
 # Send any info, correction direct to ve2fk@arrl.net
@@ -1043,6 +1043,7 @@ S52AU,46N14O,
 S52W,45N15O,
 S53F,45N15O,
 S53M,46N16O,
+S53X,45N13O,
 S54O,45N15O,
 S55Z,46N14O,
 S56A,46N14O,

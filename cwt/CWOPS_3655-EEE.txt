@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2024-12-16
+# Last Edit,2024-12-20
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -187,6 +187,7 @@ AB2SO,Steve,NJ,Ocean City NJ
 AB2ZT,Venkat,NJ,Edison NJ
 AB3AH,Ed,PA,Hanover PA
 AB3CX,Mike,NY,Cooperstown NY
+AB3I,Dave,TN,Chattanooga TN
 AB3RU,Jon,PA,Pittsburg PA
 AB4PP,JP,2572,(John) Four Oaks NC
 AB4WL,Jim,AL,Fultondale AL
@@ -213,6 +214,7 @@ AC0W,Bill,1564,Austin MN
 AC1FE,Rich,783,Hancock NH (VE3KI)
 AC1GF,Bob,NH,Hudson NH
 AC1RM,Len,ME,Jonesboro ME
+AC1ZF,Gosho,2824,LZ1ZF
 AC2FA,Bob,1026,Getzville NY
 AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
@@ -1418,7 +1420,7 @@ K0FUZ,John,2796,Leawood KS
 K0FX,Don,1326,Littleton CO
 K0GU,Jay,CO,Wellington CO
 K0GUZ,Steve,1889,Grand Junction CO
-K0HB,Boy,231,"Just a boy and his radio"
+K0HB,Boy,MN,(231)  "Just a boy and his radio"
 K0HD,John,2968,Cannon MN
 K0HT,Luc,GA,Summerville GA
 K0HX,Stan,1721,Poplar Bluff MO
@@ -2852,7 +2854,7 @@ KI4POV,Will,2952,Athens AL
 KI4XH,Fred,1206,Woodbridge VA
 KI5DDO,Joey,2950,Cedar Park TX
 KI5EE,Joe,LA,Lake Charles LA
-KI5GTR,Les,3654,Cabot AR
+KI5GTR,Les,3655,Cabot AR
 KI5IO,Nolan,2549,Plano TX
 KI5PED,Andy,TX,Houston TX
 KI5PGL,Matt,3572,Murphy TX
@@ -2908,7 +2910,7 @@ KK1W,Jim,2479,Brimfield MA
 KK3F,Pat,MD,Frostburg MD
 KK4BNC,Randy,GA,Cataula GA
 KK4DF,WALT,NC,
-KK4E,Don,GA,Atlanta GA
+KK4E,Don,3654,Atlanta GA
 KK4NZH,Gene,GA,Loganville GA
 KK4R,Rob,1953,Yorktown VA
 KK4SJ,Gord,FL,Viera FL
@@ -3396,6 +3398,7 @@ N1CFO,Erik,3333,Burlington VT
 N1CK,Nick,AZ,Payson AZ
 N1DC,Rick,1257,Braintree MA
 N1DC/4,Rick,1257,
+N1DE,Dan,ME,Northern ME ARC
 N1DG,Don,2,Duxbury MA (CWops Educ. Committee + WEB)
 N1DN,Phil,CT,West Hartford CT
 N1EA,David,MA,Green Harbor MA
@@ -3817,7 +3820,7 @@ N6MST,Mike,CA,Bakersfield CA
 N6NC,Lars,1290,La Jolla CA
 N6NF,Tom,2011,Woodside CA
 N6NR,Rich,WA,Tieton WA
-N6NT,Bruce,3281,Nebo NC
+N6NT,Bruce,NC,(3281)  Nebo NC
 N6PE,Rick,CA,Yorba Linda CA
 N6PF,Eli,3086,(Elliot) Oakland CA
 N6PN,Matt,253,Concord CA
@@ -4995,6 +4998,7 @@ VA2RAC,,QC,RAC HQ
 VA2UR,Guy,QC,(VE2BWL)
 VA2WA,Vic,2212,Boucherville QC (COSBoard)
 VA2XZA,Jon,QC,(Jonathan) L'Ile Perrot QC
+VA3AR,Stef,ON,Caledon ON
 VA3CWT,Gabe,3537,Toronto ON
 VA3CX,Ron,1775,London ON
 VA3DKL,Dave,2847,Kitchener ON
@@ -5049,6 +5053,7 @@ VE1AOE,Don,1703,Truro NS
 VE1AQF,Glenn,457,
 VE1ASE,Mike,NB,Quispamsis NB
 VE1BAB,Wayne,NS,Port Williams NS
+VE1CRC,Chris,NS,Halifax NS
 VE1DT,Gerald,941,Homeville NS
 VE1DX,Paul,NS,Lake Echo NS
 VE1EJ,Joe,ON,Chester NS
@@ -5328,7 +5333,7 @@ W0CWO,,,Dakota CWops Club (Chanhassen MN)
 W0DAS,Dave,CO,Fort Collins CO
 W0EA,Tom,953,Cedar Rapids IA
 W0EAR,Don,MN,Shoreview MN
-W0EAS,Eric,CA,Raymore MO (Remote MA+TX)
+W0EAS,Eric,MA, (Remote MA+TX)
 W0ECS,Frank,GA,Dallas GA
 W0EJ,Bill,1269,Springfield SD
 W0EWD,Mike,IA,Des Moines IA
@@ -5974,7 +5979,7 @@ W8KNO,Joe,OH,Hiran OH
 W8KR,Jack,1951,Edina MN
 W8LEM,Lem,CWA,?
 W8LVI,Ron,2040,Pataskala OH
-W8LVN,Bill,IL,Winthrop Harbor IL
+W8LVN,Bill,3652,Winthrop Harbor IL
 W8MET,Met,2028,Independence OH
 W8MK,Tom,1925,Ortonville MI
 W8MKR,Jim,MI,Shepherd MI
@@ -5997,7 +6002,6 @@ W8UE,Ted,MI,Ypsilanti MI
 W8UE/4,Ted,,
 W8UV,Phil,DE,Wilford DE
 W8UY,Terry,3626,Defiance OH
-W8VLN,Bill,3652,Eaton OH
 W8VNZ,Mark,MI,Montrose MI
 W8WOJ,Don,MI,Midland MI
 W8WTS,Jim,1689,Chagrin Falls OH
@@ -6316,6 +6320,7 @@ WB9QDL,Ken,CO,Louisville CO
 WB9VPG,Neil,KY,Union KY
 WB9Z,Jerry,707,Crescent City IL
 WC0W,John,3123,Saint Johns FL
+WC1M,Dick,NH,Hanover NH
 WC2A,Ted,3601,San Mateo CA
 WC2C,Ron,NY,Brooklyn NY
 WC3O,Bob,PA,Tarentum PA
