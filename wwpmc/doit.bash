@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE="WWPMC.txt"
+FILE="WWPMC_2024.txt"
 OUTFILE=WWPMC_db.txt
 
 dos2unix -q $FILE

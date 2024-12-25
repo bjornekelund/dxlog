@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=`ls 9ADX[^_]* | tail -1 2> /dev/null`
+FILE=`ls 9ADX_2* | tail -1 2> /dev/null`
 OUTFILE=9ADX_db.txt
 
 dos2unix -q $FILE
