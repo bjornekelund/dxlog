@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3655
-# Last updated 2024-12-25
+# Last updated 2024-12-27
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0OBO=Bob;2381
@@ -2043,6 +2043,7 @@ K5YQF=Cecil;1370
 K5YZW=Ed;2290
 K5ZD=Randy;899
 K6ACQ=Spencer;CA
+K6AJ=Mike;CA
 K6AKW=Andy;CA
 K6AM=John;CA
 K6AR=Jim;546
@@ -2544,6 +2545,7 @@ KC1KUG=Bray;NH
 KC1RL=Ric;MA
 KC1SA=Steve;CT
 KC1TNO=Luka;MA
+KC1TQW=Nik;MA
 KC2EGL=Mike;PA
 KC2IGE=Matt;NY
 KC2JAJ=John;NY
@@ -2559,6 +2561,7 @@ KC3FQF=Rosti;2783
 KC3JJF=Daryl;MD
 KC3KBE=Jon;MD
 KC3M=Jack;3099
+KC3MAL=Stuart;IA
 KC3MX=Harry;VA
 KC3NDU=Keith;CWA
 KC3NNO=Steve;3236
@@ -4066,6 +4069,7 @@ ND1X=John;CT
 ND2O=Bob;3347
 ND2T=Tom;110
 ND3D=Bob;MD
+ND3T=Len;ME
 ND4K=Dave;2945
 ND4V=Mike;GA
 ND4Y=David;2414
@@ -4147,7 +4151,6 @@ NJ4P=Ace;TN
 NJ4Q=Will;2374
 NJ4V=Dan;2395
 NJ4X=Dave;MO
-NJ5M=Len;ME
 NJ5N=Chris;2105
 NJ5T=John;TX
 NJ6Q=Jer;2617
@@ -6111,7 +6114,7 @@ WA2TGE=Mike;SC
 WA2USA=Dennis;819
 WA2VYA=Frank;FL
 WA2VZQ=Ken;NY
-WA3AAN=Grant;2064
+WA3AAN=Grant;PA
 WA3AER=Ted;1879
 WA3FAE=Forrest;MD
 WA3GM=Greg;1827
@@ -6332,7 +6335,7 @@ WD5DBV=Roy;290
 WD5GRW=Jim;3245
 WD5HCK=Russ;3263
 WD5RS=Russ;TX
-WD6T=Dave;2079
+WD6T=Dave;CA
 WD8DIN=Sis;VA
 WD8PKF=Alan;3202
 WD8RYC=Jim;TN
