@@ -22,7 +22,6 @@ DB7MA,Mario
 DB8NI,Andreas
 DC2CL,Claudia
 SA5YCL,Claudia
-DC2KN,Robert
 DC2VE,Frank
 DN1VN,Frank
 DC2YY,Markus
@@ -192,6 +191,8 @@ DN3YD,Hans
 DK4AA,Flo
 DK4VW,Ulli
 DK4WA,Andy
+DK4WW,Uwe
+OV4W,Uwe
 DK4YJ,Matthias
 DK5MB,Tom
 DK5OH,Tim
@@ -222,6 +223,7 @@ DK9BM,Mike
 DK9IP,Winfried
 DK9OV,Roland
 DK9TN,Christoph
+DL1ABR,Franz
 DL1ASA,Tom
 DL1BUG,Red
 DL1DJH,Dominik

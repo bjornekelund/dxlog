@@ -43,7 +43,7 @@
 5U7LF        1741 Lee (KY7M)
 5U7MF        1634 Mike (KC7V)
 5U7WP        1746 Fred (G4BWP)
-5V4VJ        2129 Ken (CT7AGZ)
+5V4VJ        2129 Ken (G4RWD)
 5V7MF        1634 Mike (KC7V)
 5V7VJ        1564 Andy (5Z4VJ)
 5W1VJ        1564 Andy (5Z4VJ)
@@ -95,6 +95,7 @@
 9J2BO        1322 Brian
 9L1AB        1564 Andy (5Z4VJ)
 9L1NH        1902 Nick (G3RWF)
+9M6/N2BB     1914 Bob (MD0CCE)
 9M6PWT       1513 Phil (G3SWH)
 9N7AA        1790 Robert (S53R)
 9Q6BB        2054 Nando (EA4BB)
@@ -183,7 +184,7 @@ CT1BQH       2158 Carlos
 CT3BH        2226 Martti (OH2BH)
 CT4IK        1877 Manuel (LU5OM)
 CT7/DJ7PR    2199 Leo (DJ7PR)
-CT7AGZ       2129 Ken
+CT7AGZ       2129 Ken (G4RWD)
 CU2KG        2226 Martti (OH2BH)
 CX3AA        2052 Motoaki (JA1GZV)
 D68TW        1177 Tom (K3TW)
@@ -365,7 +366,7 @@ G4OKT        2137 Keith (GW4OKT)
 G4PCE        2236 Richard
 G4RCG        1899 John
 G4RMV        1649 Mike
-G4RWD        2129 Ken (CT7AGZ)
+G4RWD        2129 Ken
 G4SIE        1503 Rik
 G4SPY        1587 Arnold
 G4WQI        2107 Dean
@@ -487,6 +488,7 @@ GQ4OKT       2137 Keith (GW4OKT)
 GQ4PCE       2236 Richard (G4PCE)
 GQ4RCG       1899 John (G4RCG)
 GQ4RMV       1649 Mike (G4RMV)
+GQ4RWD       2129 Ken (G4RWD)
 GQ4SIE       1503 Rik (G4SIE)
 GQ4SPY       1587 Arnold (G4SPY)
 GQ4WQI       2107 Dean (G4WQI)
@@ -582,7 +584,6 @@ K1NVY        2157 Fred
 K1SA         1889 Bernie
 K1ZM         1841 Jeff
 K1ZZ         1053 Dave
-K2FOC        1606 Bob (WB2YQH)
 K2KRG        2142 Steve
 K2LE         1461 Andy
 K2MGR        1340 Kurt
@@ -1109,7 +1110,6 @@ VP2MTE       1513 Phil (G3SWH)
 VP5FOC       1104 Jim (W9VNE)
 VP5K         1681 John (K9DX)
 VP8DNB       2225 Harald (OZ8X)
-VP9CB        1606 Bob (WB2YQH)
 VQ5FOC       1104 Jim (W9VNE)
 VQ917JC      1872 Jim (ND9M)
 VQ9ET        2097 Bob (DU7ET)
@@ -1231,7 +1231,6 @@ WA7HJV       2223 Jack
 WA9AQN       1887 John
 WB0SND       2146 Mike
 WB2JYM       1177 Tom (K3TW)
-WB2YQH       1606 Bob
 WB4FSF       1929 Bonnie
 WB6BEE       2041 Don
 WB6LQR       1796 Fabian (DJ5CW)

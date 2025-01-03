@@ -8,9 +8,9 @@ BEGIN {
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
+    if ($3 ~ /Loc1/) col = 2;
+    if ($4 ~ /Loc1/) col = 3;
+    if ($5 ~ /Loc1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
   else if ($1 ~ /^[0-9A-Z/]+$/ && ($col ~ /^[A-R]{2}[0-9]{2}$/ || $col ~ /^(LO|SP)/)) {
@@ -18,7 +18,7 @@ BEGIN {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
     else if ($1 ~ /^[RU]1[ABFGHJLM]|^R[A-Z]1[ABFGHJLM]|^U[A-I]1[ABFGHJLM]|^[RU]1[CDE]|^R[A-Z]1[CDE]|^U[A-I]1[CDE]/ && $col !~ /^(LO|SP)/) {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+      printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {
         printf("%s=%s\n", $1, $col);
@@ -26,6 +26,6 @@ BEGIN {
     }
   }
   else if ($0 !~ /^(!|#|$)/) {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
