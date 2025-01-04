@@ -17,7 +17,7 @@ BEGIN {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
-    else if ($1 ~ /^[RU]1[ABFGHJLM]|^R[A-Z]1[ABFGHJLM]|^U[A-I]1[ABFGHJLM]|^[RU]1[CDE]|^R[A-Z]1[CDE]|^U[A-I]1[CDE]/ && $col !~ /^(LO|SP)/) {
+    else if ($1 ~ /^[RU]1[ABFGHJLM]|^R[A-Z]1[ABFGHJLM]|^U[A-I]1[ABFGHJLM]|^[RU]1[CDE]|^R[A-Z]1[CDE]|^U[A-I]1[CDE]/ && $1 !~ /\/MM$/ && $col !~ /^(LO|SP)/) {
       printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
     else {
