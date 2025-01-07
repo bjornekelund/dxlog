@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2025-01-02
+# 1-Last Edit,2025-01-07
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -289,7 +289,7 @@ AB3GB,BOB,PA,Worchester PA
 AB3GY,TOM,PA,
 AB3IC,TOM,MD,
 AB3JS,JOHN,DE,DOVER DE
-AB3LF,JIM,FL,
+AB3LF,JIM,PA,
 AB3LS,JEFF,PA,
 AB3RU,JON,PA,
 AB3SX,JERRY,MD,
@@ -1951,6 +1951,7 @@ K2YW,,NY,
 K2YWE,DAN,MD,
 K2ZB,,NJ,
 K2ZC,DAVE,NJ,
+K2ZDX,TOM,GA,
 K2ZF,JIM,NJ,
 K2ZMM,RUSS,NJ,
 K2ZR,DICK,NY,
@@ -5149,6 +5150,7 @@ KF0IQ,BILL,MO,
 KF0IR,WALLY,IA,Bettendorf IA
 KF0JDH,CLOYD,MO,O Fallon MO
 KF0KDI,BEN,NE,Omaha NE
+KF0N,LARRY,IA,
 KF0OKY,CJ,NE,Plattsmouth NE
 KF0QFD,ELI,KS,
 KF0RAG,TONY,CO,Monument CO
@@ -5743,7 +5745,7 @@ KK9K,RON,WI,
 KK9M,,IL,
 KK9N,KEN,IL,
 KK9T,,MI,
-KK9TT,JOE,TX,
+KK9TT,JOE,FL,
 KK9U,SEAN,IL,Belleville IL
 KK9V,MIKE,IN,
 KL2A,JON,AK,
@@ -14447,6 +14449,7 @@ WM4W,JAY,MD,
 WM5DX,MIKE,MS,
 WM5H,BOB,LA,
 WM5Y,,IA,
+WM6T,TRACY,CA,
 WM6Y,PJ,CA,FAllbrook CA
 WM7A,,AZ,
 WM7DX,BOB,ID,

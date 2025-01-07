@@ -1,4 +1,4 @@
-# Updated up to FOC #2241 - KF7WX. Updates to fabian@fkurz.net.
+# Updated up to FOC #2242 - KV1I. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -696,6 +696,7 @@ KT5J=Larry;2059
 KT5X=Fred;1636
 KU0K=Bill;1979
 KU8E=Jeff;1870
+KV1I=Imi;2242
 KW7Q=Steve;2168
 KW9N=Pat;1830
 KY4GS=Amanda;2215
