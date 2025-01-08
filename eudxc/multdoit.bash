@@ -1,10 +1,12 @@
 #!/bin/bash
 TMP=.mults.txt
 OUTFILE=multipliers.txt
-cp 'EUDX CONTEST 2022 MULTIPLIERS.txt' $TMP
-echo Parsing EUDX CONTEST 2022 MULTIPLIERS.txt
+INFILE="EUDX CONTEST 2022 MULTIPLIERS.txt"
+echo $INFILE
 
-dos2unix -q $TMP
+dos2unix -q $INFILE
+
+cat "$INFILE" |\
 gawk '
 BEGIN {
   FS=" ";
@@ -17,7 +19,9 @@ BEGIN {
     $1 = "";
     printf("%s\n", $0);
   }
-}' $TMP | sed 's/= /=/g' > $OUTFILE
+}' | sed 's/= /=/g' > $OUTFILE
+
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
+
 exit
