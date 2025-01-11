@@ -11,4 +11,6 @@ cat $FILE | sed 's/ //g' | gawk -f labredx.awk | sort | sed 's/#. /# /g' > $OUTF
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
+../copytosourcetree.bash $OUTFILE
+
 exit

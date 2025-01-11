@@ -12,4 +12,6 @@ unix2dos -q $OUTFILE
 
 rm -rf $OLDTEMP
 
+../copytosourcetree.bash $OUTFILE
+
 exit
