@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-01-08
+# Last Edit,2025-01-12
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -691,6 +691,7 @@ DL8FBH,Mike,,Buediwgen Germany
 DL8HK,Karen,2829,Quierschied Germany
 DL8IH,Willi,,Konz Germany
 DL8KX,Tommy,,Wentorf Germany
+DL8LAS,Andy,3659,Trent-Lehmkuhlen Germany
 DL8MAS,Bernd,DL,Friedberg Germany
 DL8MX,Wil,,Hochstadt Germany
 DL8PG,Gerd,833,Weyerbusch near Bonn Germany
@@ -1879,6 +1880,7 @@ K4MM,Tom,FL,Port St-Lucie FL
 K4MQ,Wayne,GA,Evans GA
 K4MSG,Paul,315,Hamilton VA
 K4MTI,Mike,FL,Panama City FL
+K4MW,Pete,3658,Charlottesville VA
 K4NA,Tom,AL,Moulton AL
 K4NAX,Don,TN,Carmel TN
 K4NE,Phil,2220,Bridgewater VA
@@ -5444,7 +5446,6 @@ W1MA,Ed,MA,Norwood MA
 W1MD,Marty,2591,Palm Bay FL
 W1MO,Norm,FL,New Smyrna Beach FL
 W1MTT,Curt,830,Keaau HI
-W1N,Trump,FL,
 W1ND,Glen,3101,South Berwick ME
 W1NN,Hal,785,Medina OH (Occ. remote from Japan)
 W1NU,Ryan,MA,Belchertown MA
