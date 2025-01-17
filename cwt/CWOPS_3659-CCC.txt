@@ -1,11 +1,12 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-01-12
+# Last Edit,2025-01-15
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0ISD,Ian,,Holmfirth England
+2E0JGV,David,,Hethersett England
 2E0OBO,Bob,2381,Edingthorpe Norfolk England
 3B9FR,Robert,1343,Rodriguez Island
 3D2AG,Antoine,2554,Suva Fiji
@@ -378,6 +379,7 @@ AG5ZN,Bill,3328,Dallas TX
 AG6CK,Chris,3477,Irvine CA
 AG6FU,Phil,CA,Berkeley CA
 AG6V,Donna,911,Petaluma CA
+AG6ZE,Alan,CA,Mento Park CA
 AG7CC,Cliff,ID,Moscow ID
 AG7TX,Dave,2861,Carson City NV
 AG9A,Mark,641,Lincolnwood IL
@@ -2100,7 +2102,7 @@ K6MM,John,11,San Jose CA
 K6MR,Ken,CA,Anderson CA
 K6NA,Glen,548,Valley Center CA
 K6NF,Carol,2939,San Jose CA
-K6NR,Dana,2380,Irvine CA
+K6NR,Dana,2380,Phelan California (Sometimes from Parks Arizona)
 K6NV,Bob,675,Truckee CA
 K6PB,Pete,2469,Irvine CA
 K6PO,Paul,CA,(1758) San Diego CA
@@ -2503,6 +2505,7 @@ KB3WFQ,ROB,PA,SCHWENKSVILLE PA
 KB3Z,Mark,1483,Collegeville PA
 KB3ZGL,Steve,MD,Annapolis MD
 KB4CG,Jack,VA,Bealeton VA
+KB4CL,Bob,SC,Gilbert SC
 KB4DE,Bill,2093,Irmo SC
 KB4GYT,Paul,SC,Graniteville SC
 KB4KBS,Scott,GA,Roswell GA
@@ -2741,6 +2744,7 @@ KE8AQW,Mike,2883,Plymouth MI
 KE8BWA,Andy,3056,Mogadore OH
 KE8DI,Dave,MI,Kalamazoo MI
 KE8EAS,Josh,OH,Athens OH
+KE8EON,James,OH,Ironton OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
@@ -3962,6 +3966,7 @@ N8HWV,Todd,WI,Green Bay WI
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
+N8JTR,Jay,MI,Grayling MI
 N8KH,Ken,FL,Melbourne FL
 N8KLX,Jerry,MI,Utica MI
 N8KMY,Craig,MI,Kalkaska MI

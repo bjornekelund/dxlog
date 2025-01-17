@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls WFD-2* | tail -1 2> /dev/null`
+FILE=`ls WFD_2* | tail -1 2> /dev/null`
 OUTFILE=WFD_db.txt
 
 echo Parsing $FILE

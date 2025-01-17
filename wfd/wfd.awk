@@ -19,13 +19,14 @@ BEGIN {
     printf("%s --> Class is column %d\n", $0, class) > "/dev/stderr";
   } 
   else {
-    if ($1 ~ /^[0-9A-Z/]+$/ && $class !~ /^\\d+[IOH]$/ && $sect ~ /^(DX|MX|AB|AK|AL|AR|AZ|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|IA|ID|IL|IN|KS|KY|LA|LAX|MB|MDC|ME|MI|MN|MO|MS|MT|NB|NC|ND|NE|NFL|NH|NL|NLI|NM|NNJ|NNY|NS|NTX|NV|OH|OK|ONE|ONN|ONS|OR|ORG|PAC|PE|PR|QC|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SK|SNJ|STX|SV|TER|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/) {
+    call = toupper($1);
+    if (call ~ /^[0-9A-Z/]+$/ && $class !~ /^\\d+[IOH]$/ && $sect ~ /^(DX|MX|AL|AK|AB|AZ|AR|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|ID|IL|IN|IA|KS|KY|LAX|LA|ME|MB|MDC|MI|MN|MS|MO|MT|NE|NV|NB|NH|NM|NLI|NL|NC|ND|NTX|NFL|NNJ|NNY|NS|OH|OK|ONE|ONN|ONS|ORG|OR|PAC|PE|PR|QC|RI|SV|SDG|SF|SJV|SB|SCV|SK|SC|SD|STX|SFL|SNJ|TN|TER|VI|UT|VT|VA|WCF|WTX|WV|WMA|WNY|WPA|WWA|WI|WY)$/) {
       if (lines[$1] != "") {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }
       else {
-        printf("%s=%s;%s\n", $1, $class, $sect);
-        lines[$1] = $0;
+        printf("%s=%s;%s\n", call, $class, $sect);
+        lines[call] = $0;
       }
     }
     else if ($0 !~ /^(!|#|$)/) {

@@ -1,7 +1,7 @@
 # North American QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-01-13
+# Last updated 2025-01-17
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
 AA0AO=TOM;MN
@@ -6332,6 +6332,7 @@ KN4BIT=BILL;NC
 KN4CG=;KY
 KN4CMC=BOB;TN
 KN4DEB=ART;VA
+KN4DUA=SAM;TN
 KN4DX=PAUL;CO
 KN4ETD=BEN;GA
 KN4EWI=JOEL;NC
