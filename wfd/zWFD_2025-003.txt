@@ -1,9 +1,10 @@
 !!Order!!,Call,Sect,Exch1,UserText,
 #
 # DATA from 2024 WFD site results
-# LastEdit,2025-01-14
+# LastEdit,2025-01-17
 # Send new info or corrections direct to ve2fk@arrl.net
 # This is only helping file, LOG what you receive.
+# Thanks Bjorn/SM7IUN
 # WFD
 # Winter Field Day 2024
 AA0AJ,MN
@@ -1363,10 +1364,11 @@ VA7UY,BC
 VA7UZ,BC
 VE1FQ,NS
 VE2CBS,QC
-VE2CQ,QC
+VE2CQ,QC,1I,
 VE2CRO,QC
 VE2CVR,DX
 VE2CWQ,QC
+VE2FK,QC,1H,
 VE2IAA,QC
 VE2LJV,QC
 VE2TA,QC

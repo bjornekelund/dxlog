@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-01-15
+# Last Edit,2025-01-18
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -330,6 +330,7 @@ AE6VL,Roland,3458,Martinez CA
 AE6Y,Andy,38,Monte Sereno CA
 AE6Z,CW,3628,Hamilton City CA
 AE7AP,Rob,CWA,Helena MT
+AE7EF,Dave,3660,Reno NV
 AE7EU,Martin,2725,Bend OR
 AE7I,Craig,875,Reno NV
 AE7IS,Frank,OR,Forest Grove OR
