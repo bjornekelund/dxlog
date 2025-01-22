@@ -401,6 +401,7 @@ DM4G,Klaus
 DL8UAT,Andreas
 DL8UD,Uwe
 5P2C,Uwe
+DL8ULF,Andreas
 DL9DRA,Ralf
 DL9EE,Holger
 DL9GTB,Torsten
