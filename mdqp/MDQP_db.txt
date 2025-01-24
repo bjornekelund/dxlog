@@ -1,7 +1,7 @@
 # Maryland-DC QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-01-13
+# Last updated 2025-01-24
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -849,7 +849,6 @@ AG9A=IL
 AG9C=IN
 AG9S=IN
 AH2O=NY
-AH6KO=HI
 AI0L=CO
 AI0M=MN
 AI0Y/9=IL
@@ -5689,7 +5688,6 @@ KG9V=SC
 KG9X=IL
 KG9Z/7=NV
 KG9Z=OH
-KH6AQ=HI
 KH6CT=FL
 KH6DHK=VA
 KH6II=TX
@@ -6175,6 +6173,7 @@ KN4BIT=NC
 KN4CG=KY
 KN4CMC=TN
 KN4DEB=VA
+KN4DUA=TN
 KN4DX=CO
 KN4ETD=GA
 KN4EWI=NC
