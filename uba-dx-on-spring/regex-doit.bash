@@ -13,14 +13,14 @@ BEGIN {
   cnty = toupper($1)
   if (cnty ~ /^[A-Z]{3}$/)
     printf("%s\n", cnty);
-  else
+  else if ($0 ~ /^[A-Z]/)
     printf("Skipped: %s\n", $0) > "/dev/stderr";
 }' | gawk '
 BEGIN {
   FS=" ";
   notfirst = 0;
   count = 0;
-  printf("^(");
+  printf("^(XXX|");
 }
 {
   cnty = toupper($1)
