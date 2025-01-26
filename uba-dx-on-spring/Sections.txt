@@ -1,88 +1,87 @@
-# Database with UBA sections for UBA Spring Contest - UBA ON Contest - UBA dx Contest
-# Updated 2021-12-15 Leon ON4ZD
-AAA
-ACC
-ALT
-ARA
-ARC
-AST
-ATH
-ATO
-BDX
-BLW
-BRC
-BSE
-BTS
-BXE
-CDZ
-CLR
-CPN
-CRD
-DNZ
-DRC
-DST
-EKO
-ERA
-GBN
-GBX
-GDV
-GNT
-GTM
-HAC
-HCC
-HOB
-HRT
-IPR
-KSD
-KTK
-LGE
-LIR
-LLV
-LUS
-LVN
-MCL
-MLB
-MNS
-MTT
-MWV
-NBT
-NLB
-NMR
-NNV
-NOK
-NOL
-ODE
-ONZ
-ORA
-OSA
-OSB
-OST
-PHI
-RAF
-RAM
-RAT
-RBO
-RCA
-RCN
-REM
-RST
-RSX
-SNW
-THN
-TLS
-TRA
-TRC
-TWS
-UBA
-VHF
-WLD
-WRA
-WRC
-WTN
-WTO
-XXX
-ZLB
-ZLZ
-ZTM
-DIG
-YLC
+//
+// Belgian sections for UBA Contest - Updated 10/6/2024
+//
+AAA=Antwerpse Actieve Amateurs
+ACC=Antwerpse Contest Club
+ALT=Radioamateurs Aalter
+ARA=Actieve Radio Amateurs
+ARC=Amateur Radio Club Of Brussels
+ATH=Radio Club De Ath
+ATO=Tienen
+BDX=Brussels Dx Team
+BLW=Brussel West
+BRC=Bell Radio Club
+BSE=Brabant Sud-Est
+BTS=Brabant Sud
+BXE=Bruxelles Est
+CDZ=Ciney Beauraing Rochefort
+CLR=Charleroi
+CPN=Charleroi Pays Noir
+CRD=Club Radioamateur De Durnal
+DNZ=Deinze
+DRC=Dendermonde
+DST=Diest
+EKO=Meetjeslandse Radioamateurs
+ERA=Eeklose Radioamateurs
+GBN=Geraardsbergen
+GBX=Gembloux
+GDV=Gang De Verviers
+GNT=Gent
+GTM=Grensloze Transmissie
+HAC=Hasselt
+HCC=Haaglandse Contest Club
+HOB=Heist-op-den-Berg
+HRT=Herentals
+IPR=Ieper
+KSD=Koksijde
+KTK=Kortrijk
+LGE=Liege
+LIR=Lierse Radioamateurs
+LLV=La Louviere
+LUS=Luxembourg Sud
+LVN=Leuven
+MCL=Mechelen
+MLB=Midden Limburg
+MNS=Mons
+MTT=Mol-Turnhout
+MWV=Midden West-Vlaanderen
+NBT=Noord Brabant
+NLB=Noord Limburg
+NMR=Namur
+NNV=Ninove
+NOK=Noorderkempen
+NOL=Noord-Oost Limburg
+ODE=Oudenaarde
+ONZ=Oosthoek
+ORA=Opwijkse Radio Amateurs
+OBR=Oost Brabantse Radioamateurs
+OSA=Antwerpen
+OSB=Brugge
+OST=Oostende
+PHI=Section Radio De Philippeville
+RAC=Radio Amateurs Club
+RAF=Radio Club Ardenne-Famenne
+RAM=Radio Amateurs Mouscronnois
+RAT=Radio Amateur Team
+RBO=Eupen
+RCA=Radio Club Ardenne-Famenne
+RCN=Radio Club Noord
+REM=Radioamateurs Erpe-Mere
+RST=Sint-Truiden
+RSX=Ronse
+SNW=Sint-Niklaas
+TLS=Tussen Leie en Schelde
+TOR=TOuRnai 
+TRA=Torhoutse Radio Amateurs
+TRC=Trudo Radioamateurs Club
+TWS=Together We're Strong
+UBA=UBA National Clubstations
+VHF=Antwerpen VHF
+WLD=Waasland
+WRA=Wortegemse Radioamateurs
+WRC=West-Vlaamse Radio Club
+WTO=Waterloo
+ZLB=Zuid Limburg
+ZOV=Zuid Oost Vlaanderen
+ZLZ=Zelzate
+ZTM=Zottegem
