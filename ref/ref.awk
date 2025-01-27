@@ -1,7 +1,7 @@
 BEGIN {
   FS=","
   printf("#0 REF database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
+  printf("#1 Data collected and maintained by Claude VE2FK and Vince F5OIH\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
@@ -14,7 +14,7 @@ BEGIN {
     printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
   } else {
     exch = ($col ~ /^[1-9]$/) ? "0" $col : $col;
-    if ($1 ~ /^[0-9A-Z/]+$/ && exch ~ /^F.$|[0-9][0-9AB]$/) {
+    if ($1 ~ /^[0-9A-Z/]+$/ && exch ~ /^(F[YRTSPOMKGHJW]|[0-9][0-9]|2[AB])$/) {
       if (lines[$1] != "") {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }

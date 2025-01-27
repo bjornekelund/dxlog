@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls REFCW-*-* | tail -1 2> /dev/null`
+FILE=`ls REFCW* | tail -1 2> /dev/null`
 OUTFILE=REF_db.txt
 
 echo Parsing $FILE

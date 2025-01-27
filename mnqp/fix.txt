@@ -1,0 +1,178 @@
+Cleaning up QSOP_MN-2025-001.txt
+AC0W/YEL,BILL,YEL,Yellow Medicine  (Mixed) (Mobile) is repeated as AC0W/YEL,BILL,YEL,Yellow Medicine  (Mixed) (Mobile)
+K0RC/AIT,BOB,AIT,Aitkin  (CW) (Mobile) is repeated as K0RC/AIT,BOB,AIT,Aitkin  (CW) (Mobile)
+K0RC/CAS,BOB,CAS,Cass  (CW) (Mobile) is repeated as K0RC/CAS,BOB,CAS,Cass  (CW) (Mobile)
+K0RC/CHS,BOB,CHS,Chisago  (CW) (Mobile) is repeated as K0RC/CHS,BOB,CHS,Chisago  (CW) (Mobile)
+KB0TNG,MATT,WSH,Washington  (Phone) is repeated as KB0TNG,MATT,WSH,Washington  (Phone)
+AA0AC,DAVE,CRL,Carlton  (Mixed) is repeated as AA0AC,DAVE,
+AA0MN,MERT,ANO,Anoka  (Mixed) is repeated as AA0MN,,
+AA0RW,, is missing data
+AB0RE,DAN,BEL,Beltrami  (Mixed) is repeated as AB0RE,DAN,
+AC0AF,DAVE,STL,St. Louis  (Mixed) is repeated as AC0AF,DAVE,
+AC0DH,JEFF,HEN,Hennepin  (Phone) is repeated as AC0DH,JEFF,
+AD0DB,MONTE,SCO,Scott  (Phone) is repeated as AD0DB,MONTE,
+AE0EE,BILL,HEN,Hennepin  (Mixed) is repeated as AE0EE,BILL,
+AI0M,STAN,OLM,Olmsted  (Mixed) is repeated as AI0M,STAN,
+K0AD,AL,HEN,Hennepin  (Mixed) is repeated as K0AD,AL,
+K0APR,ALEX,LYO,Lyon  (Phone) is repeated as K0APR,ALEX,
+K0ARF,TOM,STR,Stearns  (Mixed) is repeated as K0ARF,SCOTTY,
+K0AWU,BILL,ITA,Itasca  (Mixed) is repeated as K0AWU,BILL,
+K0CN,AL,WRI,Wright  (Mixed) is repeated as K0CN,AL,
+K0DSL,DIANE,STL,St. Louis  (Mixed) is repeated as K0DSL,DIANE,FL,
+K0EA,TERRY,HEN,Hennepin  (Mixed) is repeated as K0EA,TERRY,
+K0EPR,, is missing data
+K0FVF,DAN,SHE,Sherburne  (CW) is repeated as K0FVF,DAN,
+K0GMK,MARK,OLM,Olmsted  (Phone) is repeated as K0GMK,MARK,
+K0GW,GREG,WSH,Washington  (Mixed) is repeated as K0GW,GREG,
+K0HB,HANS,HEN,Hennepin  (CW) is repeated as K0HB,HANS,
+K0IR,,CAS,Cass  (Mixed) is repeated as K0IR,RALPH,
+K0JJR,JOE,STL,St. Louis  (Phone) is repeated as K0JJR,JOE,
+K0JM,MARK,HEN,Hennepin  (Phone) is repeated as K0JM,MARK,
+K0JO,, is missing data
+K0KP,REX,STL,St. Louis  (Mixed) is repeated as K0KP,REX,
+K0LAR,SCOTT,CRV,Carver  (CW) is repeated as K0LAR,SCOTT,
+K0MD,SCOTT,OLM,Olmsted  (Mixed) is repeated as K0MD,SCOTT,
+K0MJS,MIKE,SHE,Sherburne  (Phone) is repeated as K0MJS,MIKE,
+K0MPH,ROGER,HEN,Hennepin  (Mixed) is repeated as K0MPH,ROGER,
+K0OB,GREG,HEN,Hennepin  (Mixed) is repeated as K0OB,GREG,
+K0PK,PAUL,STL,St. Louis  (CW) is repeated as K0PK,PAUL,
+K0QB,JAY,DAK,Dakota  (Mixed) is repeated as K0QB,JAY,
+K0RJW,RON,WSH,Washington  (Mixed) is repeated as K0RJW,RON,
+K0RT,, is missing data
+K0SIX,VINCE,SHE,Sherburne  (Phone) is repeated as K0SIX,VINCE,
+K0TC,RON,RAM,Ramsey  (CW) is repeated as K0TC,RON,
+K0TG,JOHN,CRO,Crow Wing  (Mixed) is repeated as K0TG,JOHN,
+K0TI,DAN,SHE,Sherburne  (Mixed) is repeated as K0TI,DAN,
+K0TJT,THOR,BLU,Blue Earth  (Mixed) is repeated as K0TJT,THOR,
+K0TLG,TOM,HEN,Hennepin  (Mixed) is repeated as K0TLG,TOM,
+K0TT,DENNY,DAK,Dakota  (Mixed) is repeated as K0TT,DENNIS,
+K0UH,JUDY,OLM,Olmsted  (Mixed) is repeated as K0UH,JUDY,
+K0VG,VERN,CLA,Clay  (Phone) is repeated as K0VG,VERN,
+K0VH,DAVE,OLM,Olmsted  (Phone) is repeated as K0VH,DAVE,
+K0XH,, is missing data
+K0YD,MARK,HEN,Hennepin  (Mixed) is repeated as K0YD,,
+K0YR,TOM,NIC,Nicollet  (Phone) is repeated as K0YR,TOM,
+K1KD,GRANT,OLM,Olmsted  (Mixed) is repeated as K1KD,GRANT,
+K4IU,FRED,OLM,Olmsted  (Mixed) is repeated as K4IU,FRED,
+K9DU,JIM,WSH,Washington  (Mixed) is repeated as K9DU,JIM,
+K9WIE,, is missing data
+KA0CSW,JIM,MEE,Meeker  (Mixed) is repeated as KA0CSW,JIM,
+KA0PQW,MATT,STE,Steele  (Mixed) is repeated as KA0PQW,MATT,
+KB0EO,DAN,LES,Le Sueur  (Mixed) is repeated as KB0EO,DAN,
+KB0GT,BOB,OLM,Olmsted  (Phone) is repeated as KB0GT,BOB,
+KB0NES,PHIL,DAK,Dakota  (Mixed) is repeated as KB0NES,PHIL,
+KC0FOT,KEVIN,JAC,Jackson  (Phone) is repeated as KC0FOT,KEVIN,
+KC0MKS,JEFF,LAK,Lake  (Phone) is repeated as KC0MKS,JEFF,
+KC0NFB,BOB,STL,St. Louis  (Mixed) is repeated as KC0NFB,BOB,
+KC0RET,GREG,HEN,Hennepin  (Mixed) is repeated as KC0RET,GREG,
+KC0WDQ,PAUL,STL,St. Louis  (Phone) is repeated as KC0WDQ,PAUL,
+KD0B,DALE,HEN,Hennepin  (Phone) is repeated as KD0B,DALE,
+KD0CL,, is missing data
+KD0JFI,, is missing data
+KD0OIX,DWIGHT,OTT,Otter Tail  (Mixed) is repeated as KD0OIX,DWIGHT,KS,
+KE0OR,DAN,HEN,Hennepin  (Mixed) is repeated as KE0OR,DAN,
+KE0WPA,KYLEE,NOB,Nobles  (Phone) is repeated as KE0WPA,KYLEE,
+KF0GV,PETE,MOW,Mower  (Mixed) is repeated as KF0GV,PETE,
+KG0DX,BILL,STR,Stearns  (Phone) is repeated as KG0DX,BILL,
+KI0DI,, is missing data
+KI0F,ROG,WAB,Wabasha  (Mixed) is repeated as KI0F,ROGER,
+KM0O,TONY,RAM,Ramsey  (CW) is repeated as KM0O,TONY,
+KN0V,GARY,DAK,Dakota  (CW) is repeated as KN0V,GARY,
+KT8O,, is missing data
+N0AT,RON,HEN,Hennepin  (CW) is repeated as N0AT,RON,
+N0BK,BRUCE,HEN,Hennepin  (Mixed) is repeated as N0BK,BRUCE,AZ,
+N0BM,BRIAN,WSH,Washington  (CW) is repeated as N0BM,BRIAN,
+N0BUI,MIKE,WIN,Winona  (CW) is repeated as N0BUI,MIKE,
+N0ECK,CORY,CHP,Chippewa  (Mixed) is repeated as N0ECK,CORY,
+N0EO,NEO,STL,St. Louis  (Mixed) is repeated as N0EO,NEO,
+N0EOC,ARES,STL,St. Louis  (Mixed) is repeated as N0EOC,,
+N0HDR,KEVIN,ANO,Anoka  (Phone) is repeated as N0HDR,KEVIN,
+N0HJZ,RICH,LES,Le Sueur  (Mixed) is repeated as N0HJZ,RICH,
+N0IJ,JOHN,STL,St. Louis  (Mixed) is repeated as N0IJ,PAUL,WI,
+N0JNM,ED,HEN,Hennepin  (Phone) is repeated as N0JNM,ED,
+N0KEN,KEN,CRO,Crow Wing  (Phone) is repeated as N0KEN,KEN,
+N0KK,KIRK,HEN,Hennepin  (Mixed) is repeated as N0KK,KIRK,
+N0LXX,, is missing data
+N0MDC,MIKE,STE,Steele  (Phone) is repeated as N0MDC,MIKE,
+N0MK,DAVE,HEN,Hennepin  (Mixed) is repeated as N0MK,DAVID,
+N0OK,CURT,MIL,Mille Lacs  (Mixed) is repeated as N0OK,CURT,
+N0STP,PETER,RAM,Ramsey  (Phone) is repeated as N0STP,PETER,
+N0SUW,PAUL,HEN,Hennepin  (Phone) is repeated as N0SUW,PAUL,
+N0TJN,TIM,ANO,Anoka  (Mixed) is repeated as N0TJN,TIM,
+N0UJJ,TIM,STL,St. Louis  (Phone) is repeated as N0UJJ,TIM,
+N0UK,CHRIS,HEN,Hennepin  (Phone) is repeated as N0UK,CHRIS,
+N0UR,JIM,STE,Steele  (Mixed) is repeated as N0UR,JIM,
+N0UY,RAY,PEN,Pennington  (Phone) is repeated as N0UY,RAY,
+N0VRM,GENE,STL,St. Louis  (Phone) is repeated as N0VRM,GENE,
+N2DUP,, is missing data
+N5IN,, is missing data
+NA0N,PAT,HEN,Hennepin  (CW) is repeated as NA0N,PAT,
+NA0RC,, is missing data
+ND0C,RANDY,NOB,Nobles  (Mixed) is repeated as ND0C,RANDY,
+NG0C,LOU,CAS,Cass  (Mixed) is repeated as NG0C,CHARLIE,
+NG0E,JON,COT,Cottonwood  (Mixed) is repeated as NG0E,JON,
+NI0K,JOHN,BEL,Beltrami  (Mixed) is repeated as NI0K,JOHN,
+NU0W,GARY,STL,St. Louis  (Mixed) is repeated as NU0W,GARY,
+NY0A,RON,MEE,Meeker  (Phone) is repeated as NY0A,RON,
+NY0V,TOM,FIL,Fillmore  (Mixed) is repeated as NY0V,TOM,
+W0AAE,BOB,HEN,Hennepin  (Mixed) is repeated as W0AAE,BOB,IA,
+W0AUS,, is missing data
+W0BM,PAT,DOD,Dodge  (Mixed) is repeated as W0BM,PAT,
+W0CN,DAN,CRV,Carver  (Phone) is repeated as W0CN,DAN,VA,
+W0DC,JOHN,RAM,Ramsey  (Mixed) is repeated as W0DC,JOHN,
+W0EF,, is missing data
+W0EFJ,, is missing data
+W0ELT,TAMMY,STR,Stearns  (Mixed) is repeated as W0ELT,TAMMY,WI,
+W0ERP,PAT,WSH,Washington  (Mixed) is repeated as W0ERP,PAT,
+W0GHZ,GARY,RAM,Ramsey  (Phone) is repeated as W0GHZ,GARY,
+W0JM,JEFF,HUB,Hubbard  (Mixed) is repeated as W0JM,JEFF,
+W0LM,MARK,RAM,Ramsey  (Mixed) is repeated as W0LM,MARK,
+W0MN,GIL,OLM,Olmsted  (Mixed) is repeated as W0MN,GIL,
+W0NE,,WIN,Winona  (Mixed) is repeated as W0NE,,
+W0OEP,, is missing data
+W0OR,BILL,HEN,Hennepin  (CW) is repeated as W0OR,BILL,AZ,
+W0OS,JIM,OTT,Otter Tail  (Mixed) is repeated as W0OS,JIM,
+W0PI,GENE,BEC,Becker  (Mixed) is repeated as W0PI,GENE,
+W0PNA,, is missing data
+W0PR,LARRY,RIC,Rice  (Mixed) is repeated as W0PR,LARRY,
+W0RX,DAVE,PEN,Pennington  (Phone) is repeated as W0RX,DAVE,
+W0SEI,JOHN,WSH,Washington  (Mixed) is repeated as W0SEI,JOHN,
+W0SHL,STEW,OLM,Olmsted  (Mixed) is repeated as W0SHL,STEW,
+W0STV,STEVE,OLM,Olmsted  (Phone) is repeated as W0STV,STEVE,
+W0SV,, is missing data
+W0UC,PAUL,RAM,Ramsey  (Mixed) is repeated as W0UC,PAUL,
+W0VDX,, is missing data
+W0WCS,, is missing data
+W0YC,, is missing data
+W0ZF,DAVE,DAK,Dakota  (Mixed) is repeated as W0ZF,DAVE,
+W0ZT,BOB,DAK,Dakota  (Mixed) is repeated as W0ZT,BOB,
+W1GL,, is missing data
+W1OR,, is missing data
+W2JGR/0,, is missing data
+W6GMT,BROCK,ITA,Itasca  (Mixed) is repeated as W6GMT,BROCK,
+W9NT,, is missing data
+WA0CQG,CARL,HEN,Hennepin  (Phone) is repeated as WA0CQG,CARL,
+WA0KNP,RAY,LAC,Lac Qui Parle  (Mixed) is repeated as WA0KNP,RAY,
+WA0LIF,DICK,RAM,Ramsey  (CW) is repeated as WA0LIF,DICK,
+WA0MHJ,MARK,ANO,Anoka  (Mixed) is repeated as WA0MHJ,MARK,
+WA0TXJ,KEITH,HEN,Hennepin  (Phone) is repeated as WA0TXJ,KEITH,
+WA0VPJ,JOHN,HEN,Hennepin  (Mixed) is repeated as WA0VPJ,JOHN,
+WA0WOV,GARY,STL,St. Louis  (Mixed) is repeated as WA0WOV,GARY,
+WA2HFI,, is missing data
+WA2HFI/0,, is missing data
+WA2MNO,, is missing data
+WB0KUG,WAYNE,DOU,Douglas  (Phone) is repeated as WB0KUG,WAYNE,
+WB0N,BERT,HEN,Hennepin  (Mixed) is repeated as WB0N,BERT,
+WB0U,LYNN,OLM,Olmsted  (Mixed) is repeated as WB0U,LEN,
+WB0VHF,EVELYN,HEN,Hennepin  (Mixed) is repeated as WB0VHF,ED,
+WB2HFI,, is missing data
+WB9YLZ,HOWIE,DAK,Dakota  (CW) is repeated as WB9YLZ,HOWIE,
+WC0AAA,, is missing data
+WF0B,BILL,ROC,Rock  (Phone) is repeated as WF0B,BILL,
+WI9P,REED,RAM,Ramsey  (Mixed) is repeated as WI9P,REED,
+WK0B,GREG,MAH,Mahnomen  (Mixed) is repeated as WK0B,GREG,
+WK0X,GARY,DAK,Dakota  (Mixed) is repeated as WK0X,GARY,
+WQ0N,RUSS,CHS,Chisago  (Mixed) is repeated as WQ0N,RUSS,
+WR0DK,, is missing data
+WX0Z,DAWN,RAM,Ramsey  (Phone) is repeated as WX0Z,DAWN,
+Created QSOP_MN-2025-002.txt
