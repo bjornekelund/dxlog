@@ -12,7 +12,7 @@ BEGIN {
   nameok = $2 ~ /^([A-Z][A-Za-z]+|)$/;
   callok = $1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY])/;
   notempty = $2 != "" || $3 != "";
-  if (callok && stateok && nameok && notempty) {
+  if ((callok && stateok && nameok && notempty) ||(nameok && $3 == "DX")) {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
