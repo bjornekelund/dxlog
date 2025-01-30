@@ -1,7 +1,7 @@
 #!/bin/bash
 FILE=`ls RSGBBERU* | tail -1`
-DBFILE=BERU_db.txt
-XDTFILE=BERU.xdt
+DBFILE=COMMONW_db.txt
+XDTFILE=COMMONW.xdt
 
 echo Parsing $FILE...
 dos2unix -q $FILE
