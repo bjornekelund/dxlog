@@ -1,13 +1,14 @@
 #!/bin/bash
-INFILE=`ls arrl*all*`
+INFILE2=arrl_both_cw.xdt
+INFILE1=arrl_both_ssb.xdt
 OUTFILE=ARRL_DX_db.txt
 
-echo Parsing $INFILE
-dos2unix -q $INFILE
+echo Parsing $INFILE1 $INFILE2
+dos2unix -q $INFILE1 $INFILE2
 
-cat $INFILE | tr -d " " | sort | gawk '
+cat $INFILE1 $INFILE2 | sort | gawk '
 BEGIN {
-  FS="=";
+  FS=" ";
   prevcall = "";
 }
 {
@@ -18,7 +19,7 @@ BEGIN {
         if (exchange == "K")
 		    exchange = "KW";
         if (exchanges[call] != "" && exchanges[call] != exchange) {
-	      printf("For %s, %s is replaced by %s\n", call, exchanges[call], exchange) > "/dev/stderr";
+#	      printf("For %s, %s is replaced by %s\n", call, exchanges[call], exchange) > "/dev/stderr";
 	    }
 		exchanges[call] = exchange;
 		calls[call] = call;
