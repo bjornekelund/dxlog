@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=RDAC_2022.txt
+FILE=`ls RDAC_2* | tail -1 2> /dev/null`
 OUTFILE=RDAC_db.txt
 
 echo Parsing $FILE

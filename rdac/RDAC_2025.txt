@@ -1,6 +1,6 @@
 # Original file from (by UR7QM, TKS NA3M RA3R for last update)
 !!Order!!,Call,Exch1,
-# Last Edit,2022-12-20
+# Last Edit,2025-02-06
 # RDAC
 # Send any new info or corrections direct ve2fk@arrl.net
 R0AA,KK08
@@ -1683,6 +1683,7 @@ UA1AFZ,SP19
 UA1AJ,SP01
 UA1AJW,SP07
 UA1AKE,SP02
+UA1ANA,LO22
 UA1ATU,SP13
 UA1AUW,SP07
 UA1CBM,LO28

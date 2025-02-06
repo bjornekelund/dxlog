@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-01-29
+# Last Edit,2025-02-05
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1085,6 +1085,7 @@ G5HOW,Gavin,3621,Melton Mowbray England
 G5NLD,Dennis,3618,Tetsworth England
 G5VZ,Chris,2877,Pontefract England
 G7BED,Chris,3431,Northampton England
+G7KFZ,Bob,3665,Winsford England
 G7KSE,Alex,3212,Cumbria England (Been heard QRP)
 G7VJR,Michael,968,via M0OXO England
 G8AJM,Chris,1572,Maidenhead England
@@ -1689,7 +1690,7 @@ K2SAN,Paul,TX,Selma TX
 K2SD,Scott,2266,Fleetwood NC
 K2SG,Tony,252,Little Egg Harbor NJ
 K2SSS,Zee,NY,Rochester NY
-K2SX,Dennis,124,Pawleys Island SC
+K2SX,Dennis,124,Matthews NC
 K2TNO,Bill,NC,Beaufort NC
 K2TQC,Bill,NY,Jamesville NY
 K2TT,Bill,586,Bedford Hills NY
@@ -2201,7 +2202,7 @@ K7MOT,Key,CA,San Diego Motorola ARC
 K7NJ,Riki,275,Cedar City UT (Director)
 K7NM,Lee,801,West Point UT
 K7NT,Mike,3275,Olympia WA
-K7NX,Lloyd,CWA,Tucson AZ
+K7NX,Lloyd,3668,Tucson AZ
 K7NXL,Dan,3255,West Richland WA
 K7ON,Brian,AZ,Stanfield AZ
 K7PAX,Paula,WA,Port Angeles WA
@@ -2490,6 +2491,7 @@ KB1FGC,Rich,3302,Prospect CT
 KB1H,Dick,MA,Attleboro MA
 KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
+KB1SF,Keith,MI,Port Huron
 KB1VUN,Eric,CWA,Lebanon NH
 KB1VX,Barry,ME,Kittery ME
 KB1W,Len,MA,(2038) Pittsfield MA
@@ -2557,12 +2559,14 @@ KC0CGR,Bob,SD,Big Stone SD
 KC0DEB,Jan,KS,Kansas City KS
 KC0DX,Ed,AR,Bentonville AR
 KC0INP,Tom,2888,Minnesota MN
+KC0INP/4,Tom,2888,
 KC0TVD,Chris,IA,Leighton IA
 KC0UDT,Matt,MO,Troy MO
 KC0URL,Ray,1872,Plymouth MN
 KC0VKN,Joe,635,Iowa City IA
 KC0WEA,Tony,CO,Colorado Springs CO
 KC0WHR,Gary,MO,Strafford MO
+KC0ZPS,Ron,3662,Denver CO
 KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
 KC1BMD,Norm,3214,Kittery Point ME
@@ -2719,7 +2723,7 @@ KE3GK,Tom,MD,(3143) Glen Burnie MD
 KE3KK,Ron,MA,Boylson MA
 KE3X,Ken,460,Washington DC
 KE4D,John,FL,Lesburg FL
-KE4CR,Craig,CWA,Chesterfield VA
+KE4CR,Craig,3670,Chesterfield VA
 KE4EA,Dave,3293,Spartanburg SC
 KE4I,Den,3439,Silver Creek GA
 KE4KY,Tom,1763,Fisherville KY
@@ -2754,7 +2758,7 @@ KE8DAX,Ray,OH,Senecaville OH
 KE8BWA,Andy,3056,Mogadore OH
 KE8DI,Dave,MI,Kalamazoo MI
 KE8EAS,Josh,OH,Athens OH
-KE8EON,James,OH,Ironton OH
+KE8EON,James,CWA,Ironton OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
@@ -2901,6 +2905,7 @@ KI7OMH,Mike,2282,Tacoma WA
 KI7OY,Larry,CA,Yuba City CA
 KI7QCF,Forrest,3636,Spanish Fork UT
 KI7RS,Ryan,2708,Vail AZ
+KI7SUT,Will,WA,Pacific Beach WA
 KI7VEM,Ken,2937,Wilsonville OR
 KI7WNS,Jacob,2731,Flagstaff AZ
 KI7Y,Jim,699,Milwaykie OR
@@ -3104,6 +3109,7 @@ KR6N,Bob,CA,El Dorado Hills CA
 KR7C,Stan,1021,Aspen CO
 KR7RK,Keith,746,Tucson AZ
 KR7X,Hank,OR,Beaverton OR
+KR8L,Bill,IL,Metropolis
 KR8V,Gary,1043,Clinton Township MI
 KR9U,Jim,IN,Fort Wayne IN
 KS0MO,KC,KS,Kansas City RC
@@ -3213,7 +3219,7 @@ KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
 KZ5D,Art,12,New Ibria LA (CWops Vice-Pres. Activities + Events)
-KZ5H,Seth,TX,Houston TX (Been heard QRP)
+KZ5H,Seth,3667,Houston TX (Been heard QRP)
 KZ6H,Steve,2286,Thousand Oaks CA
 LA/DL4HCF,Hubert,,
 LA/G0TRT,Cie,3429,
@@ -3299,6 +3305,7 @@ M0GGK,Dave,,near Liverpool England
 M0HDF,Angel,2862,(M8A) Birmingham England
 M0HWT,George,,Gloucester England
 M0IBC,David,,West Midlands England
+M0ITM,Andy,3669,Cornwall England
 M0IHT,Harry,560,(M3X) Exeter England
 M0JWB,Jim,,Bistol England
 M0KHX,Mart,3544,Ipswich England
@@ -3608,6 +3615,7 @@ N3VO,Marc,3100,Potomac MD
 N3WT,John,185,Jefferson MD
 N3XA,Jim,2975,Staunton VA
 N3XF,Dave,2962,Ligonier PA
+N3XL,Bill,3663,Bowie MD
 N3ZL,Greg,1595,Asheville NC
 N3ZN,Tony,1690,Pittsburg PA
 N3ZP,Phil,PA,North Wales PA
@@ -3643,6 +3651,7 @@ N4EL,Nat,3349,Tipp City OH
 N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
 N4EWF,Ed,AL,Mobile AL
+N4EWD,Kyle,3664,Taylors SC
 N4EWT,Newt,GA,Decatur GA (Newton)
 N4FCG,OJ,FL,Florida Contest Group
 N4FP,Wayne,1090,Ocala FL (Been heard QRP)
@@ -3977,7 +3986,7 @@ N8HWV,Todd,WI,Green Bay WI
 N8II,Jeff,2088,Shepherdstown WV
 N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
-N8JTR,Jay,CWA,Grayling MI
+N8JTR,Jay,3666,Grayling MI
 N8KH,Ken,FL,Melbourne FL
 N8KLX,Jerry,MI,Utica MI
 N8KMY,Craig,MI,Kalkaska MI
@@ -4827,6 +4836,7 @@ SM7CIL,Arne,1410,Borgholm Sweden (also SM5CIL)
 SM7DHF,Goran,3471,Sweden
 SM7DZD,Lars,SM,Eksjo Sweden
 SM7FCU,Bengt,2033,Nattraby Sweden
+SM7GIB,Mats,3672,Svedala Sweden
 SM7IUN,Bjorn,2101,Bjarred Sweden
 SM7RYR,Roger,1855,Malmo Sweden
 SM7WNM,Jocke,SM,Bjarnum Sweden
@@ -5139,7 +5149,7 @@ VE2TG,Yvon,QC,Wolinak QC
 VE2VAB,Geo,QC,Gatineau QC
 VE2VIA,Jean,QC,Chicoutimi QC
 VE2WU,Marten,QC,Covey Hill
-VE2ZDX,Andre,QC,Montreal QC
+VE2ZDX,Andre,3671,Montreal QC
 VE2ZM,Simon,2144,(VE2SRP) St-Joseph-du-Lac QC
 VE2ZQ,Pete,QC,Jonquiere QC
 VE3ABN,Les,1701,Mississauga ON (VE3NNT)
@@ -6537,6 +6547,7 @@ WU7X,Dale,3260,Spokane WA
 WU8R,Roman,OH,Wellston OH
 WU8T,Tom,3569,Battle Ground WA
 WV1D,Pat,2854,Weymouth MA (Been heard QRP)
+WV4AM,Jake,NC,Jacksonville NC
 WV4P,Ron,TN,Savannah TN
 WV4S,Bob,NC,Winston Salem NC
 WV7S,Den,WA,Olympia WA
@@ -6561,7 +6572,7 @@ WX2S,Steve,1757,Kingston NJ
 WX4W,CW,1991,(Curtis) Crestwood KY
 WX5CW,Chris,1762,St. Louis MO
 WX7V,CHRIS,TX,Dallas TX
-WX8C,Harry,2528,Grand Blanc MI
+WX8C,Harry,2528,Mountain Lakes NJ
 WX8NN,Andy,MI,Shelby TWP MI
 WX9U,Pete,2913,Phoenix AZ
 WY0M,Mike,MO,Saint Louis MO

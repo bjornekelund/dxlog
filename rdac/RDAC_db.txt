@@ -1,7 +1,7 @@
 # RDAC database
 # Based on data collected and maintained data by VE2FK and UR7QM
 # Includes updates by NA3M and RA3R
-# Last updated 2023-04-16
+# Last updated 2025-02-06
 R0AA=KK08
 R0AB=KK24
 R0ABD=KK33
@@ -1682,6 +1682,7 @@ UA1AFZ=SP19
 UA1AJ=SP01
 UA1AJW=SP07
 UA1AKE=SP02
+UA1ANA=LO22
 UA1ATU=SP13
 UA1AUW=SP07
 UA1CBM=LO28
