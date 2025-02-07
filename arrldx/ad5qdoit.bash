@@ -1,6 +1,6 @@
 #!/bin/bash
-INFILE2=arrl_both_cw.xdt
-INFILE1=arrl_both_ssb.xdt
+INFILE2=ARRLCW_BOTH.XDT
+INFILE1=ARRLSSB_BOTH.XDT
 OUTFILE=ARRL_DX_db.txt
 
 echo Parsing $INFILE1 $INFILE2
@@ -15,19 +15,19 @@ BEGIN {
   call = $1;
   if (call ~ /^[0-9,A-Z\/]+$/) {
 	  if ($2 ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$|^[0-9KW]+$/ && $4 == "") {
-		exchange = $2;
-        if (exchange == "K")
-		    exchange = "KW";
-        if (exchanges[call] != "" && exchanges[call] != exchange) {
-#	      printf("For %s, %s is replaced by %s\n", call, exchanges[call], exchange) > "/dev/stderr";
-	    }
-		exchanges[call] = exchange;
-		calls[call] = call;
+		  exchange = $2;
+      if (exchange ~ /^1?KW?$/) exchange = "KW";
+      if (exchanges[call] != "" && exchanges[call] != exchange) {
+	      printf("For %s, %s is replaced by %s -> ignored\n", call, exchanges[call], exchange) > "/dev/stderr";
+      }
+      else{
+        exchanges[call] = exchange;
+        calls[call] = call;
+      }
 	  }
       else {
         printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 	  }
-	  
   }
   else if ($0 !~ /^(!|#|$)/)
     printf("Ignore: \"%s\"\n", $0) > "/dev/stderr"
@@ -35,8 +35,8 @@ BEGIN {
 }
 END {
   printf("#0 ARRL DX database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#1 Data collected and maintained by AD5Q\n");
+#  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in calls) {
      printf("%s=%s\n", c, exchanges[c]);
@@ -45,5 +45,7 @@ END {
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
+
+../copytosourcetree.bash $OUTFILE
 
 exit
