@@ -166,6 +166,9 @@ DK1MM,Stefan
 DK1NO,Hannes
 DK1TW,Irene
 DK1WU,Hans
+DK1YH,Yannick
+ON1YH,Yannick
+WY2H,Yannick
 DK2AT,Dieter
 DK2CX,Markus
 DK2GZ,Harry
@@ -186,6 +189,7 @@ DK3WE,Pit
 KU6I,Pit
 DK3WN,Mike
 DK3WW,Uwe
+DA1A,Uwe
 DK3YD,Hans
 DN3YD,Hans
 DK4AA,Flo
@@ -421,6 +425,7 @@ DM5JBN,Andreas
 DM5TI,Hartmut
 DM5XX,Mike
 DM6DX,Robby
+DM3W,Robby
 DM6EE,Lutz
 DK0VLP,Lutz
 DM7XX,Robert
@@ -528,8 +533,8 @@ PA0JED,Jan
 PA1AW,Alex
 PA1TX,Gerard
 PA3EWP,Ronald
-PA4OES,André
-EI5VAT,André
+PA5OES,André
+PA6F,André
 PA5MW,Mark
 PA9M,Marcel
 PA3FGI,Marcel

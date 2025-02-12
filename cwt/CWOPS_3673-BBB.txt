@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-02-05
+# Last Edit,2025-02-11
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -3431,6 +3431,7 @@ N1AE,John,MA,South Easton MA
 N1AOK,Charlie,3050,Fort Collins CO
 N1AU,John,3020,(ex:KB1NO) Norfolk MA
 N1BG,Fred,1030,Gibsonville NC
+N1BS,Brian,3673,West Greenwich RRI
 N1CC,Mike,2817,Scottsdale AZ
 N1CCK,Nick,2710,Manchester CT
 N1CFO,Erik,3333,Burlington VT
@@ -3954,7 +3955,7 @@ N7US,Jim,486,Woodstock IL
 N7VM,Bill,CA,Fallbrook CA
 N7VS,Steve,3591,Portland OR
 N7WA,Mike,3395,Kent WA
-N7WY,Bob,1406,Cheyenne WY
+N7WY,Bob,1406,MO
 N7XM,Josh,WV,Dayton NV
 N7YT,Bill,1271,Seabeck WA
 N7YY,Dan,1865,Sandy OR (QRP)
