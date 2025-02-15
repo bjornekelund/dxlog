@@ -449,6 +449,8 @@ DO6SR,Robert
 EI5LA,Megan
 F5MZN,Olivier
 F5NGA,Francois
+F5SNJ,Will
+W3WM,Will
 HA1AG,Zoli
 PA1AG,Zoli
 HA8RT,Tomi
