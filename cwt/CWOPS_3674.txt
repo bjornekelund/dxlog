@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-02-11
+# Last Edit,2025-02-15
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -447,6 +447,7 @@ AK4AT,John,2391,Willis VA
 AK4HA,Glen,KY,Lexington KY
 AK4IC,David,SC,Landrum SC
 AK4NY,Tom,1544,Dahlonega GA
+AK4R,Steve,CWA,Pulaski TN
 AK4SQ,Dan,1296,Lynchburg VA
 AK5CT,Bill,MS,Saltillo MS
 AK5X,Bill,TX,Dallas TX
@@ -768,6 +769,7 @@ EA2RCP,RC,,Radio Club Navarra Spain
 EA3BV,Jon,,Barcelona Spain
 EA3EE,Jose,,Cathlunya Spain
 EA3FZT,Francis,2560,Cubelles Spain
+EA3GNU,Al,,Sant Joan Despi Spain
 EA3GHZ,Joan,,Tarragona Spain
 EA3HSO,Al,2132,Barcelona Spain
 EA3IAA,Manel,,Barcelona Spain
@@ -3176,6 +3178,7 @@ KW1U,Marcia,706,Concord MA
 KW1X,Mark,2718,Franklin MA
 KW2A,Phil,3374,Severna Park MD
 KW4AU,Kyle,AL,Pleasant AL
+KW4CW,Tom,VA,Winchester
 KW4GF,Ed,VA,Virginia Beach VA
 KW4JAM,Jack,NC,Jacksonville NC
 KW4JM,Scott,CWA,Asheville NC
@@ -3218,6 +3221,7 @@ KY4ID,Mike,SC,Trenton SC
 KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
+KZ4KG,Jeff,CWA,Huntsville AL
 KZ5D,Art,12,New Ibria LA (CWops Vice-Pres. Activities + Events)
 KZ5H,Seth,3667,Houston TX (Been heard QRP)
 KZ6H,Steve,2286,Thousand Oaks CA
@@ -3282,6 +3286,7 @@ LZ2FH,Stefan,,Knezha Bulgaria
 LZ2NG,Darin,LZ,Balchik Bulgaria
 LZ2PP,Valentin,,Razgrad Bulgaria
 LZ2RS,Rumi,,Gabrovo Bulgaria
+LZ3AW,Todor,3674,Bragoman Bulgaria
 LZ3ND,Nick,,Am Gries 27 Germany
 LZ3ZZ,Aleko,LZ,Koprinka Bulgaria
 LZ4YJ,Rosenh,,Russe 7000 Bulgaria
@@ -3434,6 +3439,7 @@ N1BG,Fred,1030,Gibsonville NC
 N1BS,Brian,3673,West Greenwich RRI
 N1CC,Mike,2817,Scottsdale AZ
 N1CCK,Nick,2710,Manchester CT
+N1CEO,Peter,MA,Acton MA
 N1CFO,Erik,3333,Burlington VT
 N1CK,Nick,AZ,Payson AZ
 N1DC,Rick,1257,Braintree MA
@@ -4912,6 +4918,7 @@ SV1PMQ,Giannis,,Pireus Greece
 SV1RUX,Dave,,Athens Greece
 SV1SXV,Miltos,,Cyclades Greece
 SV1SYM,Teo,,Ripaeus Greece
+SV1SYY,Nik,,Attica Greece
 SV2BBK,Theo,1976,(Fanis) Thessaloniki Greece (Director)
 SV2BXA,Alex,2400,Thessaloniki Greece
 SV2HUD,Vas,3235,Thessaloniki Greece
@@ -6564,6 +6571,7 @@ WW4SF,FOX,SC,Swamp Fox Contest Group SC
 WW4XX,Alex,GA,Emor Contest Club GA
 WW5W,Jeff,3115,Houston TX
 WW8D,Tom,3131,Salem VA
+WW8L,Tim,CO,Windsor
 WW9R,Pat,730,Big Bend WI
 WW9S,Gary,IL,Lake Forest IL
 WW9W,Robert,TX,Allen TX
@@ -6593,6 +6601,7 @@ XE2V,Mode,,La Paz Mexico
 XE2X,Jorge,796,Hidalgo TX
 XE3A,Pablo,3138,Yucatan Mexico
 XK1AAA,Gerry,191,(W1VE)
+XL2X,DUB,QC,(VE2FK)
 XQ1KZ,Nicolas,,Antofagasta Chile
 XQ4CW,Roberto,,Curico Chile
 XV2W,Larry,1209,Ho Chi Minh City Vietnam
