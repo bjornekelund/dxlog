@@ -24,7 +24,14 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $col != "") {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+  else if ($0 !~ /^(!|#|$)/) {
+    if ($1 != "" && $col2 == "DX") {
+        printf("%s=%s;%s\n", $1, $col1 == "" ? "I" : $col1, $col2);
+    }
+    else {
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    }
   }
 }
+
+  
