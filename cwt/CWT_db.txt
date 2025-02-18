@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3673
-# Last updated 2025-02-12
+# Contains members up to #3674
+# Last updated 2025-02-17
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0JGV=David;G
@@ -445,6 +445,7 @@ AK4AT=John;2391
 AK4HA=Glen;KY
 AK4IC=David;SC
 AK4NY=Tom;1544
+AK4R=Steve;CWA
 AK4SQ=Dan;1296
 AK5CT=Bill;MS
 AK5X=Bill;TX
@@ -767,6 +768,7 @@ EA3BV=Jon;EA
 EA3EE=Jose;EA
 EA3FZT=Francis;2560
 EA3GHZ=Joan;EA
+EA3GNU=Al;EA
 EA3HSO=Al;2132
 EA3IAA=Manel;EA
 EA3IEB=Lorenzo;3309
@@ -3166,6 +3168,7 @@ KW1U=Marcia;706
 KW1X=Mark;2718
 KW2A=Phil;3374
 KW4AU=Kyle;AL
+KW4CW=Tom;VA
 KW4GF=Ed;VA
 KW4JAM=Jack;NC
 KW4JM=Scott;CWA
@@ -3207,6 +3210,7 @@ KY4ID=Mike;SC
 KY7K=Steve;AZ
 KY7M=Lee;84
 KY9I=Jay;2341
+KZ4KG=Jeff;CWA
 KZ5D=Art;12
 KZ5H=Seth;3667
 KZ6H=Steve;2286
@@ -3271,6 +3275,7 @@ LZ2FH=Stefan;LZ
 LZ2NG=Darin;LZ
 LZ2PP=Valentin;LZ
 LZ2RS=Rumi;LZ
+LZ3AW=Todor;3674
 LZ3ND=Nick;LZ
 LZ3ZZ=Aleko;LZ
 LZ4YJ=Rosenh;LZ
@@ -3422,6 +3427,7 @@ N1BG=Fred;1030
 N1BS=Brian;3673
 N1CC=Mike;2817
 N1CCK=Nick;2710
+N1CEO=Peter;MA
 N1CFO=Erik;3333
 N1CK=Nick;AZ
 N1DC/4=Rick;1257
@@ -4898,6 +4904,7 @@ SV1PMQ=Giannis;SV
 SV1RUX=Dave;SV
 SV1SXV=Miltos;SV
 SV1SYM=Teo;SV
+SV1SYY=Nik;SV
 SV2BBK=Theo;1976
 SV2BXA=Alex;2400
 SV2HUD=Vas;3235
@@ -6546,6 +6553,7 @@ WW4SF=FOX;SC
 WW4XX=Alex;GA
 WW5W=Jeff;3115
 WW8D=Tom;3131
+WW8L=Tim;CO
 WW9R=Pat;730
 WW9S=Gary;IL
 WW9W=Robert;TX
@@ -6575,6 +6583,7 @@ XE2V=Mode;XE
 XE2X=Jorge;796
 XE3A=Pablo;3138
 XK1AAA=Gerry;191
+XL2X=DUB;QC
 XQ1KZ=Nicolas;CE
 XQ4CW=Roberto;CE
 XV2W=Larry;1209
