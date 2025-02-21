@@ -4,7 +4,7 @@ OUTFILE1=mult-sp.txt
 OUTFILE2=regex-sp.txt
 
 echo Parsing $FILE
-dos2unix $FILE
+dos2unix -q $FILE
 
 gawk '
 BEGIN {}
