@@ -9,9 +9,9 @@ BEGIN {
 }
 {
   if ($0 ~ "!!Order!!") {
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
+    if ($3 ~ /Sect/) col = 2;
+    if ($4 ~ /Sect/) col = 3;
+    if ($5 ~ /Sect/) col = 4;
     printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } 
   else if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^[A-Z0-9]+$/) {
@@ -21,7 +21,7 @@ BEGIN {
       max = length($col);
     }
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#|$)/ && $col != "") {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-02-15
+# Last Edit,2025-02-20
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -613,6 +613,7 @@ DL1FY,Erwin,2636,Moosinning Germany
 DL1GRC,Sascha,,Kandern Germany
 DL1IAO,Stef,1884,Birkenfeld Germany (SM9A)
 DL1LBV,Heinz,,Nordfriesland Germany
+DL1NCG,Kit,,Furth Germany
 DL1NKB,Bernd,2486,Forchheim Germany
 DL1NKS,Steve,2963,Eichenbuelh Germany
 DL1ONI,Olli,,Ingolstadt Germany
@@ -739,6 +740,7 @@ DU7ET,Bob,3523,Negros Oriental Philippines (EX0ET)
 E21EIC,Champ,264,Bangkok Thailand
 E25KAE,Bun,3284,Bangkok Thailand
 E29TGW,MEW,3285,Nonthaburi Thailand
+E7/K7GM,Rick,3402,
 E7/Z35M,Vlado,E7,
 E70T,Vlado,3585,Bosnia Herzegovina
 E71A,Emil,484,Sarajevo Bosnia and Herzegovina
@@ -1830,6 +1832,7 @@ K4BFL,Royce,GA,Calhoun GA
 K4BG,Bob,GA,Sylvania GA
 K4BKD,Pete,GA,Marietta GA
 K4BSK,Earl,3044,Matthews NC
+K4CBW,Brant,NC,Raleigh
 K4CJX,Steve,TN,Nashville TN
 K4CUE,Dick,3534,Forest VA
 K4CWT,,AL,Southeastern CWops Club (Huntsville AL)
@@ -3286,7 +3289,7 @@ LZ2FH,Stefan,,Knezha Bulgaria
 LZ2NG,Darin,LZ,Balchik Bulgaria
 LZ2PP,Valentin,,Razgrad Bulgaria
 LZ2RS,Rumi,,Gabrovo Bulgaria
-LZ3AW,Todor,3674,Bragoman Bulgaria
+LZ3AW,Toti,3674,Dragoman Bulgaria
 LZ3ND,Nick,,Am Gries 27 Germany
 LZ3ZZ,Aleko,LZ,Koprinka Bulgaria
 LZ4YJ,Rosenh,,Russe 7000 Bulgaria
@@ -4100,6 +4103,7 @@ NA6O,Gary,1345,Livermore CA
 NA6S,Chuck,3465,Oakdale CA
 NA6Z,Don,2727,Hawthorne CA
 NA7C,Ted,1289,Sandy UT
+NA7DO,Aldo,WA,Seattle WA
 NA8V,Greg,1214,Emmett MI
 NA9L,Vern,IN,Mooresville IN
 NB0Z,James,KS,Atchison KS
@@ -5898,6 +5902,7 @@ W6JBR,JR,CA,(John) Oceanside CA
 W6JIM,Jim,2886,Walnut Creek CA
 W6JMP,Gene,1120,El Dorado Hills CA
 W6KC,Jim,1266,Santa Monica CA
+W6KK,Fritz,CA,Alta Loma
 W6KSR,Ed,CA,Yorba Linda CA
 W6LD,John,CA,Atherton CA
 W6LEN,Jess,1840,Huntington Beach CA
@@ -6407,6 +6412,7 @@ WD5BZN,Dave,TX,Bellaire TX
 WD5DBV,Roy,290,Cade LA
 WD5GRW,Jim,3245,Allen TX
 WD5HCK,Russ,3263,Ardmore OK
+WD5JR,Si,OK,Enid OK
 WD5RS,Russ,TX,Milford TX
 WD6T,Dave,CA,(2079)  Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
@@ -6452,6 +6458,7 @@ WI6X,Jim,3482,Irvine CA
 WI9P,Reed,3483,Shoreview MN
 WJ0C,Steve,2997,Colorado Springs CO
 WJ1B,Harold,752,Cheshire CT
+WJ1U,John,NH,Plymouth
 WJ2O,Dave,1093,Mc Connellsville NY
 WJ6O,Dave,482,Studio City CA (G3WGN)
 WJ7S,John,1582,Saratoga Springs UT (Been heard QRP)
@@ -6475,6 +6482,7 @@ WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA
 WM6Y,PJ,CA,(2280 Phil) Fallbrook CA
 WM9Q,Ron,1170,Gurnee IL
+WW1H,Bill,3676,Durham NC
 WN1M,Mike,CT,South Glastonbury CT
 WN4AFP,Dave,1208,Greenville SC
 WN4R,Byron,FL,Lady Lake FL
@@ -6590,9 +6598,11 @@ WY6K,Mike,TX,Parker TX
 WY7CWO,,WY,Rocky Mountain CWops Club (Cheyenne WY)
 WY7M,Chuck,WY,Worland WY
 WZ0W,Scott,3394,Moscow Mills MO
+WZ2J,Vin,NJ,Old Bridge NJ
 WZ4M,Tom,CWA,Davidson NC
 WZ6T,Dave,CA,Vacaville CA
 WZ8P,Ev,OH,Zanesville OH
+XE1AY,Isma,3675,Colima Mexico
 XE1IM,Hector,XE,Puebla Mexico
 XE1KK,Ramon,,Mexico City
 XE1YZY,Pete,,Queretaro Mexico
