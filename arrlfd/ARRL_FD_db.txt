@@ -1,7 +1,7 @@
 # ARRL Field Day database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-06-22
+# Last updated 2025-02-22
 AA0AC=1D;MN
 AA0AJ=1D;MN
 AA0AW=1D;MN

@@ -48,5 +48,5 @@ END {
       printf("%s=%s;%s\n", call[c], name[c], exchange[c]);
     }
   }
-  printf("Longest name is \"%s\" (%d)\n", maxname, maxlen) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", maxname, maxlen) > "/dev/stderr";
 }

@@ -6,26 +6,37 @@ BEGIN {
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
+  longest = "";
 }
 {
-  if ($0 ~ "^!!Order!!") {
-    if ($3 ~ /Name/) col = 2;
-    if ($4 ~ /Name/) col = 3;
-    if ($5 ~ /Name/) col = 4;
-    # printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
-  } 
-  else {
-    nm = toupper($col)
-    if ($1 ~ /^[0-9A-Z/]+$/ && nm ~ /^[A-Z]+$/) {
-      if (line[$1] != "")
-        printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr";
-      else {
-        printf("%s=%s\n", $1, nm);
-        line[$1] = $0;
-      }
+  if ($0 ~ /^(!|#|$)/) { ##
+    if ($0 ~ "^!!Order!!") {
+      if ($2 ~ /Name/) col = 1;
+      if ($3 ~ /Name/) col = 2;
+      if ($4 ~ /Name/) col = 3;
+      if ($5 ~ /Name/) col = 4;
+      call = 1;
+      printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    } 
+  }
+  else if (line[$call] != "")
+    printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+  else if ($call ~ /^[0-9,A-Z]/ && $col ~ /^[A-Za-z]+$/) {
+    if (length($col) > length(longest)) {
+      longest = $col;
     }
-    else if ($0 !~ /^(!|#|$)/ && nm != "") {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    printf("%s=%s\n", $call, toupper($col));
+    line[$call] = $0;
+  }
+  else {
+    if ($col != "") {
+      printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
+    }
+    else {
+#      printf("Missing name: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
+}
+END {
+  printf("Longest name is: \"%s\" with %d characters.\n", longest, length(longest)) > "/dev/stderr";
 }

@@ -1,4 +1,4 @@
-# ARRL CW Sweepstakes database
+# ARRL SSB Sweepstakes database
 # Based on data collected and maintained by AD5Q
 # Last updated 2024-11-07
 4U1WB=B;89;MDC
