@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-02-20
+# Last Edit,2025-02-24
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -882,6 +882,7 @@ F5BQU,Seb,,Cappel France
 F5BWA,Dan,,France
 F5EQR,Regis,,Gizy France
 F5FRM,Nick,,Valence france
+F5IJO,JJ,3680,La Penne sur Huveaune France
 F5IN,Mike,,Pithiviers France
 F5IUZ,Moise,,Aubagne France
 F5IYC,Chris,,Tourcoing France
@@ -1477,6 +1478,7 @@ K0PK,Paul,2233,Eveleth MN
 K0RAR,Rob,KS,Richmond KS
 K0RC,Bob,3290,Choisago City MN
 K0RF,Chuck,887,Longmont CO
+K0RLQ,Ron,3685,
 K0RU,Rob,KS,Gardner KS
 K0SN,Tom,1344,Missoula MT
 K0TC,Ron,1421,Roseville MN
@@ -2071,7 +2073,7 @@ K5YQF,Cecil,1370,Killen TX
 K5YZW,Ed,2290,Fort Worth TX
 K5ZD,Randy,899,Uxbridge MA
 K6ACQ,Spencer,CA,Redlands CA
-K6AJ,Mike,CA,Paso Robles CA
+K6AJ,Mike,3684,Paso Robles CA
 K6AKW,Andy,CA,Menlo Park CA
 K6AM,John,CA,San Diego CA
 K6AR,Jim,546,Leucadia CA
@@ -3006,7 +3008,7 @@ KM4DR,Gale,TX,Kerrville TX
 KM4FO,Dwight,1436,Madisonville KY
 KM4HI,Jim,FL,Ocala FL
 KM4JHK,Paul,CWA,Marion NC
-KM4JTE,John,FL,Gainesville FL (Been heard QRP)
+KM4JTE,John,3683,Gainesville FL (Been heard QRP)
 KM4LAO,Ruth,2063,Cana VA
 KM4SII,Mason,NC,Clemmons SC
 KM4WHO,John,2336,Port Orange FL
@@ -3372,7 +3374,7 @@ MM0WXE,Tony,GM,Perth Scotland
 MM2T,Phil,3456,Wishaw (GM0LIR)
 MM3AWA,Gord,,Peterhead Scotland
 MM3AWD,Scott,,Scotland (QRP)
-MM7BFL,Laura,,Dailly Scotland
+MM7BFL,Laura,3681,Dailly Scotland
 MM9I,John,,(SM0OPS) East Kilbridge Scotland
 MW0SAW,Steve,3486,Pontypridd Wales
 MX0ROA,DUKE,3365,Radio Oficers Association
@@ -3462,6 +3464,7 @@ N1GVV,Adam,CT,Endfield CT
 N1HN,Dus,ME,Windsor ME
 N1IA,Scott,3611,North Fort Myers FL
 N1IBM,SKIP,VT,Cavendish VT
+N1KB,Doug,3679,Waller TX
 N1KL,Kevin,MA,Wheelwright MA
 N1KM,Mark,RI,Bristol RI
 N1KW,Bob,1022,Homer Glen IL
@@ -3489,6 +3492,7 @@ N1VH,Marty,1927,Braintree MA
 N1XF,Glen,ME,South Berwick ME
 N1XI,Paul,NC,Lansing NC
 N1XS,Chris,1817,Dallas TX
+N1XV,Julia,3678,Montagne NJ
 N1YL,Anne,2933,Greenfield MA
 N1ZTY,Ron,AZ,Scottsdale AZ
 N1ZX,Stan,473,Stuart FL
@@ -3679,6 +3683,7 @@ N4HAI,Tom,1099,Westerville OH
 N4HAY,Dick,3460,Morrisville NC
 N4HOE,Hal,3060,Ocala FL
 N4IJ,Doug,1938,(W5FN) Forest City NC
+N4IN,Dave,3677,Bardstown KY
 N4IQ,Bill,1610,Simpsonville SC
 N4IR,Jim,TN,Kingsport TN
 N4IRN,John,268,Glenwood MD
@@ -6598,7 +6603,7 @@ WY6K,Mike,TX,Parker TX
 WY7CWO,,WY,Rocky Mountain CWops Club (Cheyenne WY)
 WY7M,Chuck,WY,Worland WY
 WZ0W,Scott,3394,Moscow Mills MO
-WZ2J,Vin,NJ,Old Bridge NJ
+WZ2J,Vin,3682,Old Bridge NJ
 WZ4M,Tom,CWA,Davidson NC
 WZ6T,Dave,CA,Vacaville CA
 WZ8P,Ev,OH,Zanesville OH

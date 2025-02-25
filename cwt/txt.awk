@@ -151,5 +151,5 @@ BEGIN {
 }
 END {
   printf("#3 Contains members up to #%d\n", max);
-  printf("Longest name is \"%s\" (%d)\n", maxname, maxlen) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", maxname, maxlen) > "/dev/stderr";
 }
