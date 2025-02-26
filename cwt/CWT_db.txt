@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3676
-# Last updated 2025-02-21
+# Contains members up to #3685
+# Last updated 2025-02-25
 2E0DCW=Gerald;G
 2E0ISD=Ian;G
 2E0JGV=David;G
@@ -880,6 +880,7 @@ F5BQU=Seb;F
 F5BWA=Dan;F
 F5EQR=Regis;F
 F5FRM=Nick;F
+F5IJO=JJ;3680
 F5IN=Mike;F
 F5IUZ=Moise;F
 F5IYC=Chris;F
@@ -1471,6 +1472,7 @@ K0PK=Paul;2233
 K0RAR=Rob;KS
 K0RC=Bob;3290
 K0RF=Chuck;887
+K0RLQ=Ron;3685
 K0RU=Rob;KS
 K0SN=Tom;1344
 K0TC=Ron;1421
@@ -2065,7 +2067,7 @@ K5YQF=Cecil;1370
 K5YZW=Ed;2290
 K5ZD=Randy;899
 K6ACQ=Spencer;CA
-K6AJ=Mike;CA
+K6AJ=Mike;3684
 K6AKW=Andy;CA
 K6AM=John;CA
 K6AR=Jim;546
@@ -3000,7 +3002,7 @@ KM4DR=Gale;TX
 KM4FO=Dwight;1436
 KM4HI=Jim;FL
 KM4JHK=Paul;CWA
-KM4JTE=John;FL
+KM4JTE=John;3683
 KM4LAO=Ruth;2063
 KM4SII=Mason;NC
 KM4WHO=John;2336
@@ -3361,7 +3363,7 @@ MM0WXE=Tony;GM
 MM2T=Phil;3456
 MM3AWA=Gord;GM
 MM3AWD=Scott;GM
-MM7BFL=Laura;GM
+MM7BFL=Laura;3681
 MM9I=John;GM
 MW0SAW=Steve;3486
 MX0ROA=DUKE;3365
@@ -3450,6 +3452,7 @@ N1GVV=Adam;CT
 N1HN=Dus;ME
 N1IA=Scott;3611
 N1IBM=SKIP;VT
+N1KB=Doug;3679
 N1KL=Kevin;MA
 N1KM=Mark;RI
 N1KW=Bob;1022
@@ -3477,6 +3480,7 @@ N1VH=Marty;1927
 N1XF=Glen;ME
 N1XI=Paul;NC
 N1XS=Chris;1817
+N1XV=Julia;3678
 N1YL=Anne;2933
 N1ZTY=Ron;AZ
 N1ZX=Stan;473
@@ -3667,6 +3671,7 @@ N4HAI=Tom;1099
 N4HAY=Dick;3460
 N4HOE=Hal;3060
 N4IJ=Doug;1938
+N4IN=Dave;3677
 N4IQ=Bill;1610
 N4IR=Jim;TN
 N4IRN=John;268
@@ -6580,7 +6585,7 @@ WY6K=Mike;TX
 WY7CWO=;WY
 WY7M=Chuck;WY
 WZ0W=Scott;3394
-WZ2J=Vin;NJ
+WZ2J=Vin;3682
 WZ4M=Tom;CWA
 WZ6T=Dave;CA
 WZ8P=Ev;OH
