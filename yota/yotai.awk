@@ -8,9 +8,9 @@ BEGIN {
     if (lines[$1] != "")
       printf("Repeated: \"%s\" and \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     if ($col != "00" && $col != "99")
-      printf("%s,%s,\n", $1, $col + 1);
+      printf("%s,%s\n", $1, $col + 1);
     else
-      printf("%s,%s,\n", $1, $col);
+      printf("%s,%s\n", $1, $col);
   }
   else if ($0 !~ /^(!|#|$)/) 
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
