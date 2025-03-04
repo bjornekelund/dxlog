@@ -1,4 +1,4 @@
-# Updated up to FOC #2242 - KV1I. Updates to fabian@fkurz.net.
+# Updated up to FOC #2243 - OH1HAQ. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -850,6 +850,7 @@ OE9TXF=Nigel;1266
 OH0B=Martti;2226
 OH0J=Jouko;2187
 OH0SCA=Adrian;2143
+OH1HAQ=Hannu;2243
 OH1RX=Jouko;2187
 OH2BDP=Hans;937
 OH2BH=Martti;2226
@@ -1107,6 +1108,7 @@ VP2MKG=George;2122
 VP2MTE=Phil;1513
 VP5FOC=Jim;1104
 VP5K=John;1681
+VP8CIW=Ian;2233
 VP8DNB=Harald;2225
 VP8TXF=Nigel;1266
 VQ5FOC=Jim;1104

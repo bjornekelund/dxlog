@@ -1,6 +1,6 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2025-02-24
+# Last Edit,2025-03-03
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -14,7 +14,7 @@ AT3T,,HQ,Bangalore India
 GI6XX,,HQ,
 GM6XX,,HQ,
 GW6XX,,HQ,
-GB5CC,,HQ,BONUS (GM3WOJ) East Coast Scotland
+GB5CC,Chris,HQ,BONUS (GM3WOJ) East Coast Scotland (2025)
 G6XX,,HQ,
 GD6XX,,HQ,Isle of Man
 GU6XX,,HQ,
@@ -22,13 +22,14 @@ GJ6XX,,HQ,Jersey
 
 # Canada HQ (2024)
 VA2RAC,,HQ,RAC QC Canada
-VA3RAC,Dave,HQ,(VE3KG)  RAC ON Canada
+VA3RAC,Dave,HQ,(VE3KG)  RAC ON Canada (2025)
 VA6RAC,,HQ,RAC AB Canada 
 VE1RAC,,HQ,RAC NS Canada
+VE3RHQ,Mike,HQ,(VE3FFK) RAC ON Canada (2025)
 VE4RAC,,HQ,RAC MB Canada
 VE5RAC,,HQ,RAC SK Canada 
 VE6RAC,,HQ,RAC AB Canada
-VE7RAC,,HQ,RAC BC Canada  (VA7KH VE7EA VA7DZ)
+VE7RAC,,HQ,RAC BC Canada  (VA7KH VE7EA VA7DZ) (2025)
 VE8RAC,,HQ,RAC NT Canada 
 VE9RAC,,HQ,RAC NB Canada
 VO2RAC,,HQ,RAC NL Canada 
@@ -36,26 +37,39 @@ VY0RAC,,HQ,RAC NU Canada
 VY1RAC,,HQ,RAC YT Yukon 
 VY2RAC,,HQ,RAC PE Canada
 
-# VK HQ (2024)
-VK2WIA,,HQ,
-VK3WIA,,HQ,
+# VK HQ (2025)
+VK2WIA,Dave,HQ,(VK2WQ)
+VK3WIA,Lee,HQ,(VK3GK)
 VK4WIA,,HQ,
-VK5WIA,,HQ,
-VK6WIA,,HQ,
+VK5WIA,Grant,HQ,(VK5GR)
+VK6WIA,Peter,HQ,(VK6RZ)
 VK7WIA,,HQ,
 
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
+# Team Nootka Sounders
+VE7ZO,JIM,(CAPTAIN) - Team Nootka Sounders
+VE7JKZ,Brian,Team Nootka Sounders
+VE7AP,Roger,Team Nootka Sounders
+VA7RN,Leslie,Team Nootka Sounders
+VE7KW,Keith,Team Nootka Sounders
+
+# Team Queen City Rollers
+VE7AX,Don,(CAPTAIN) - Team Queen City Rollers
+VE7UF,Duane,+ (VE7JH) - Team Queen City Rollers
+VE7UBA,Alan,Team Queen City Rollers
+VA7PK,Chris,Team Queen City Rollers
+
 # Team World Travellers Plus (2024)
-5Z4VJ,Andy,
-8P9YI,Mike,(G3VYI)  East Barbados - Team World Travellers Plus 
+5B4WN,Marios,Team World Travellers Plus (2025)
+8P9YI,Mike,(G3VYI)  East Barbados - Team World Travellers Plus (2025)
 9H6A,Ivan,9H1PI and John 9H1XT - Team World Travellers Plus
-G4SGX/6Y,Iain,Team World Travellers Plus
-ZF2CA,Colin,Team World Travellers Plus 2025
+G4SGX/6Y,Iain,Team World Travellers Plus (2025)
+ZF2CA,Colin,Team World Travellers Plus (2025)
 5H3VJG,,Tanzania (G0VJG) (Expedition)
 5Z4VJ,Andy,(G3AB)  Team World Travellers Plus
-VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands 2025
+VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands (2025)
 G0VDZ/G0w,Nubsey,  Isle of Sheppey 2025
 
 # Team Quake Contesters (2025)
@@ -72,27 +86,26 @@ ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
 
 # Team Atlantic A1A's (2022)
 
-# Australia One 2024
-VK6T,Kevin,(VK6LW) Australia
-VK2BJ,Barry, Australia One
-VK2GR,Allan, Australia One
-VK4M,Alan,(VK4SN) Australia One
-VK1A/4,Bernd, Australia One
-VL6T,Steve,(VK6VZ)   Australia One
+# Australia One (2025) 
+VK2GR,ALLAN,CAPTAIN - Australia One 
+VJ3A,DP,(VK3IA) - Australia One 
+VK4M,ALAN,(VK4SN) - Australia One 
+VK6T,KEV,(VK6LW) - Australia One 
+VK7BO,ALAN, - Australia One 
 
-# Australia Two (2024)
-VK7BO,Alan, - Australia Two
-VL6M,Phil,(VK6GX) - Australia Two
-VJ3A,Steve,(VK3JA) - Australia Two
-VK5GG,Graeme, - Australia Two
-
+# Australia Two (2025)
+VK6VZ,STEVE,CAPTAIN - Australia Two
+VK2BJ,BARRY, - Australia Two
+VK2PN,PATRICK, - Australia Two
+VK5GG,BRAEME, - Australia Two
+VL6M,PHIL,(VK6GX) - Australia Two
 
 # Team GE (2024)
-G4PVM,Paul,Essex England - Team GE
-M5DX,Nick,Sheffield England - Team GE
-G3BJ,Don,Church Stretton England - Team GE
-G3P,Mike,(G3WPH)  Berkshire England - Team GE
-G4FNL,Graham,Brighton England - Team GE
+G4PVM,Paul,Essex England - Team GE (2024)
+M5DX,Nick,Sheffield England - Team GE (2024)
+G3BJ,Don,Church Stretton England - Team GE (2024)
+G3P,Mike,(G3WPH)  Berkshire England - Team GE (2024)
+G4FNL,Graham,Brighton England - Team GE (2024)
 
 # Team IVARC Veterans (2022)
 
