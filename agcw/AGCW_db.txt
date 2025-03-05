@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4393
-# Last updated 2025-03-04
+# Contains members up to #4394
+# Last updated 2025-03-05
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1125,6 +1125,7 @@ DL5NCN=2997
 DL5NO=544
 DL5OA=3921
 DL5OAB=1341
+DL5OBR=4394
 DL5OBT=2252
 DL5OCK=3503
 DL5PP=4047

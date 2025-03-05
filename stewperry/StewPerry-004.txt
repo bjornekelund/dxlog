@@ -2,22 +2,22 @@
 # Call history file for HF contests with four-position grid as exchange
 # Created by merging StewPerry.txt, Russian160_CallHist.txt,
 # and collecting disagreeing grids from qrz.com.
-# Thanks to Bjorn SM7IUN
-# LastEdit,2024-12-29
+# Thanks to Bjorn SM7IUN,  NA3M
+# LastEdit,2025-03-04
 # Send info, correction direct to ve2fk@arrl.net
 # ARRLIDC
 # ARRLVHFJAN 
 # ARRLVHFJUN 
 # ARRLVHFSEP 
-# CQWWVHF 
+# CQWWVHF
+# ECLIPSE
 # GRIDCHRTTY 
 # MAKRORTTY
 # RUSSIAN160
+# SEQP
 # STEWPERRY 
 # TARAGRID 
 # WWDIGI 
-# SEQP
-# ECLIPSE
 
 2E0BPP,,IO83,
 2E0CVN,,JO01,
@@ -4611,7 +4611,7 @@ K2LS,,FM60,
 K2LWR,,FN02,
 K2MFY,,FN30,
 K2MGR,,FN22,
-K2MK,,EL98,
+K2MK,,FN31,
 K2NV,,FN03,
 K2ONP,,FN32,
 K2OS,,FN13,
@@ -6742,6 +6742,7 @@ N1MD,,FN41,
 N1MGO,,FN42,
 N1NB,,FN31,
 N1NN,,FN41,
+N1NQD,,FN13,
 N1RR,,FN41,
 N1RWY,,FN54,
 N1RZ,,FN44,
@@ -10483,6 +10484,7 @@ RT8O,,NO15,
 RT8U,,NO35,
 RT9A,,MO04,
 RT9AT,,MO05,
+RT9C,,MO06,
 RT9I,,NO26,
 RT9J,,MP80,
 RT9K,,MP84,
@@ -12409,6 +12411,7 @@ UA9OGF,,NO15,
 UA9OGZ,,NO14,
 UA9OME,,NO25,
 UA9ONJ,,NO15,
+UA9QCQ,,LO96,
 UA9OOQ,,NO15,
 UA9OP,,NO14,
 UA9OQM,,NO14,
