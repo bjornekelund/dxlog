@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3708
-# Last updated 2025-03-04
+# Last updated 2025-03-05
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -3376,7 +3376,7 @@ MM7BFL=Laura;3681
 MM9I=John;GM
 MW0SAW=Steve;3486
 MX0ROA=DUKE;3365
-N0AC/M=Bill;1252
+N0AC/M=Bill;IA
 N0AC=Bill;1252
 N0AIE=Everett;SD
 N0AT=Ron;2399
@@ -3485,6 +3485,7 @@ N1TO=Ed;685
 N1TWC=Jeff;OH
 N1TX=Larry;912
 N1UO=Chris;RI
+N1UW=Frank;AZ
 N1VH=Marty;1927
 N1XF=Glen;ME
 N1XI=Paul;NC
@@ -5996,7 +5997,7 @@ W7RIP=Rip;2894
 W7RN=Tom;108
 W7RX=Scott;2034
 W7STV=Steve;WA
-W7SW=;143
+W7SW=;AZ
 W7TAO=Todd;1136
 W7UDH=Dick;WA
 W7UT=Bob;200

@@ -4,7 +4,7 @@
 # RUSSIANDX
 # RUSDXRTTY
 # Send info, corrections direct to ve2fk@arrl.net
-# Last Edit,2025-02-06
+# Last Edit,2025-03-04
 # Thanks info via Nick/NA3M
 R0/KE5JA,,SL
 R0/N6TCZ,,PK
@@ -144,6 +144,7 @@ R1LK,,SP
 R1LN,,SP
 R1MA,,SP
 R1MA/1,,LO
+R1MJ,,LO
 R1MQ,,SP
 R1NA,,KL
 R1ND,,KL
@@ -8929,8 +8930,7 @@ UA9QAQ,,KN
 UA9QAS,,KN
 UA9QCP,,KN
 UA9QCP/3,,MA
-UA9QCQ,,KN
-UA9QCQ/9,,SV
+UA9QCQ,,SV
 UA9QCZ,,KN
 UA9QDV,,KN
 UA9QEJ,,KN

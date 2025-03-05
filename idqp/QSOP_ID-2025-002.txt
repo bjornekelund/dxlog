@@ -1,6 +1,6 @@
 #
 !!Order!!, Call, Name, Exch1, UserText
-# Last Edit,2025-03-04
+# Last Edit,2025-03-05
 # Send new info/corr. DIRECT ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help
 # QSOP_ID

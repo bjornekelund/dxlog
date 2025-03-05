@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls Russian* | tail -1 2> /dev/null`
+INFILE=`ls RussianDX-* | tail -1 2> /dev/null`
 OUTFILE=RDXC_db.txt
 
 echo Parsing $INFILE
