@@ -1,6 +1,6 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2025-03-04
+# Last Edit,2025-03-05
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -60,6 +60,7 @@ VE7AX,Don,(CAPTAIN) - Team Queen City Rollers
 VE7UF,Duane,+ (VE7JH) - Team Queen City Rollers
 VE7UBA,Alan,Team Queen City Rollers
 VA7PK,Chris,Team Queen City Rollers
+VE7XF,Ralph,Team Queen City Rollers
 
 # Team World Travellers Plus (2024)
 5B4WN,Marios,Team World Travellers Plus (2025)
@@ -69,8 +70,9 @@ G4SGX/6Y,Iain,Team World Travellers Plus (2025)
 ZF2CA,Colin,Team World Travellers Plus (2025)
 5H3VJG,,Tanzania (G0VJG) (Expedition)
 5Z4VJ,Andy,(G3AB)  Team World Travellers Plus
-VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands (2025)
-G0VDZ/G0w,Nubsey,  Isle of Sheppey 2025
+VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands 
+VP8CIW,Ian,(G3WVG) in Falklands
+G0VDZ/G0w,Nubsey,  Isle of Sheppey 
 
 # Team Quake Contesters (2025)
 ZL2RX,Roger,Team Quake Contesters - 
