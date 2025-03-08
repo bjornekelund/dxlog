@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-03-03
+# Last Edit,2025-03-05
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -3388,7 +3388,7 @@ MM9I,John,,(SM0OPS) East Kilbridge Scotland
 MW0SAW,Steve,3486,Pontypridd Wales
 MX0ROA,DUKE,3365,Radio Oficers Association
 N0AC,Bill,1252,IA (Been heard QRP)
-N0AC/M,Bill,1252,
+N0AC/M,Bill,IA,(1252),
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
 N0AV,Jim,359,Goldfield IA
@@ -3497,6 +3497,7 @@ N1TO,Ed,685,Sebastian FL
 N1TWC,Jeff,OH,Dublin OH
 N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
+N1UW,Frank,AZ,Tuscan
 N1VH,Marty,1927,Braintree MA
 N1XF,Glen,ME,South Berwick ME
 N1XI,Paul,NC,Lansing NC
@@ -6013,7 +6014,7 @@ W7RIP,Rip,2894,Bozeman MT
 W7RN,Tom,108,VC Highlands NV (K5RC)
 W7RX,Scott,2034,Eugene OR
 W7STV,Steve,WA,Ephrata WA,
-W7SW,,143,Sun City West AZ
+W7SW,,AZ,(143)  Sun City West AZ
 W7TAO,Todd,1136,Mount Vernon WA
 W7UDH,Dick,WA,Seattle WA
 W7UT,Bob,200,Huron SD

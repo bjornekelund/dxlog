@@ -1,7 +1,7 @@
 # RDXC irregular exchanges prefill database
 # Contains only prefill that differs from DXLog's rule based Oblast prefill
 # Based on data maintained by VE2FK with contributions from NA3M
-# Last updated 2025-02-22
+# Last updated 2025-03-05
 R0/KE5JA=SL
 R0/N6TCZ=PK
 R0AIB/3=VR
@@ -17,6 +17,7 @@ R1CF=SP
 R1DX=SP
 R1FW=LO
 R1MA/1=LO
+R1MJ=LO
 R1NW/3=NN
 R1OO/1=VO
 R1ZZ/1=NV
@@ -68,6 +69,7 @@ R8XF/4=KI
 R8XW/8=YN
 R9CB/9=CB
 R9CZA/9=HM
+R9DX=KN
 R9JBN/4=PE
 R9JO/6=KR
 R9KD/6=RK
@@ -225,7 +227,6 @@ RT4M/6=KR
 RT5C/3=VR
 RT9T/3=LP
 RT9UT/9=NS
-RU1A=LO
 RU1MQ=LO
 RU3DNN=VL
 RU3DUY=MA
@@ -243,7 +244,6 @@ RU5A=MO
 RU9CK/7=ST
 RV0CS/0=EA
 RV1AY=LO
-RV1CB=NV
 RV1CC=SP
 RV2FW/1=SP
 RV3KS/3=MO
@@ -389,7 +389,7 @@ UA9MRX/3=MA
 UA9MRY/1=NO
 UA9OOQ/0=PK
 UA9QCP/3=MA
-UA9QCQ/9=SV
+UA9QCQ=SV
 UA9SUV/8=YN
 UA9UAX/9=AL
 UA9XCI/6=KR
