@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-03-05
+# Last Edit,2025-03-08
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -448,7 +448,7 @@ AK4AT,John,2391,Willis VA
 AK4HA,Glen,KY,Lexington KY
 AK4IC,David,SC,Landrum SC
 AK4NY,Tom,1544,Dahlonega GA
-AK4R,Steve,CWA,Pulaski TN
+AK4R,Steve,3711,Pulaski TN
 AK4SQ,Dan,1296,Lynchburg VA
 AK5CT,Bill,MS,Saltillo MS
 AK5X,Bill,TX,Dallas TX
@@ -2783,6 +2783,7 @@ KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
 KF0FFL,Dan,MN,Saint Paul MN
 KF0GVX,Ryan,NE,Plattsmouth NE
+KF0PQR,Jeff,3710,Fort Collins CO
 KF1P,Bob,SC,Gaffney SC
 KF3B,Alan,2754,Alburtis PA
 KF3G,Sam,PA,Havertown PA

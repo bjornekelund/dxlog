@@ -1,10 +1,10 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2025-03-05
+# Last Edit,2025-03-08
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
-# The file will be updated as soon as info come in.
+# The file is updated as soon as info come in.
 
 !!Order!!,Call,Name,State,UserText,
 
@@ -38,12 +38,16 @@ VY1RAC,,HQ,RAC YT Yukon
 VY2RAC,,HQ,RAC PE Canada
 
 # VK HQ (2025)
+VK1WIA,,HQ,(VK1DA)
 VK2WIA,Dave,HQ,(VK2WQ)
 VK3WIA,Lee,HQ,(VK3GK)
 VK4WIA,,HQ,
 VK5WIA,Grant,HQ,(VK5GR)
 VK6WIA,Peter,HQ,(VK6RZ)
 VK7WIA,,HQ,
+
+# ZL HQ
+ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
 
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
@@ -72,7 +76,7 @@ ZF2CA,Colin,Team World Travellers Plus (2025)
 5Z4VJ,Andy,(G3AB)  Team World Travellers Plus
 VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands 
 VP8CIW,Ian,(G3WVG) in Falklands
-G0VDZ/G0w,Nubsey,  Isle of Sheppey 
+G0VDZ/G0,Nubsey,  Isle of Sheppey 
 
 # Team Quake Contesters (2025)
 ZL2RX,Roger,Team Quake Contesters - 
@@ -80,18 +84,19 @@ ZL3P,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
 ZL3GA,Geoff,Team Quake Contesters - Kaiapoi New Zeland
 ZL4TT,Paul,Team Quake Contesters - Oamaru New Zeland
 ZL/G4GUO,Dave,Team Quake Contesters - 
-ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
 
-# Team Grimsby Mariners (2023)
+# Team UK
+G3BJ,,TEAM UK
+G4PIQ,,TEAM UK
+G3P,,TEAM UK
+G4PVM,,TEAM UK
+G4FNL,GRAHAM,TEAM UK
 
-# Team Balunmasters (2022)
-
-# Team Atlantic A1A's (2022)
 
 # Australia One (2025) 
 VK2GR,ALLAN,CAPTAIN - Australia One 
 VJ3A,DP,(VK3IA) - Australia One 
-VK4M,ALAN,(VK4SN) - Australia One 
+VK5GG,Braeme, - Australia ONE
 VK6T,KEV,(VK6LW) - Australia One 
 VK7BO,ALAN, - Australia One 
 
@@ -99,7 +104,7 @@ VK7BO,ALAN, - Australia One
 VK6VZ,STEVE,CAPTAIN - Australia Two
 VK2BJ,BARRY, - Australia Two
 VK2PN,PATRICK, - Australia Two
-VK5GG,BRAEME, - Australia Two
+VK4M,,(VK4SN) - Australia Two
 VL6M,PHIL,(VK6GX) - Australia Two
 
 # Team GE (2024)
@@ -1160,6 +1165,7 @@ VE3IDJ,BOB,,
 VE3IGJ,Ian,Orleans ON
 VE3IIM,JESSE,Gelph ON,
 VE3IMG,RICHARD,,
+VE3INE,Mary,Toronto ON
 VE3IR,BOB,,
 VE3IW,JACK,,
 VE3IXU,DAVE,,
@@ -1266,6 +1272,7 @@ VE3WEJ,DAVE,,
 VE3WG,Bob,Etobicoke ON
 VE3WIB,WADE,,
 VE3WQ,CLAUDE,,
+VE3WUE,Dennis,(W1UE)
 VE3WZ,RON,,
 VE3XAG,ALAN,,
 VE3XAT,MIKE,,
@@ -1555,7 +1562,7 @@ VY1EI,ERIC,Whitehorse YT Canada,
 VY1JA,JAY,Whitehorse YT Canada,
 VY1MB,BOB,,
 VY2CC,WENDELL,,
-VY2LI,BILL,,
+VY2LI,BILL,Corrnwall PE,
 VY2MCC,MCC,,
 VY2MGY,BRIAN,(VE3MGY),
 VY2MP,GREG,,

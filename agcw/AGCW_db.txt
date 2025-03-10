@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4394
-# Last updated 2025-03-05
+# Contains members up to #4395
+# Last updated 2025-03-10
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1891,6 +1891,7 @@ OK2PEN=237
 OK2PFN=1248
 OK2PZZ=1605
 OK2QQ=2340
+OK2WX=4395
 OK2ZJ=1275
 OK3EQ=3937
 OK5KCX=1937
