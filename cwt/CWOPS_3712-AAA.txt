@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-03-08
+# Last Edit,2025-03-11
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -774,8 +774,8 @@ EA2RCP,RC,,Radio Club Navarra Spain
 EA3BV,Jon,,Barcelona Spain
 EA3EE,Jose,,Cathlunya Spain
 EA3FZT,Francis,2560,Cubelles Spain
-EA3GNU,Al,,Sant Joan Despi Spain
 EA3GHZ,Joan,,Tarragona Spain
+EA3GNU,Al,,Sant Joan Despi Spain
 EA3HSO,Al,2132,Barcelona Spain
 EA3IAA,Manel,,Barcelona Spain
 EA3IEB,Lorenzo,3309,Arenys de Mar Spain
@@ -891,9 +891,9 @@ F5IUZ,Moise,,Aubagne France
 F5IYC,Chris,,Tourcoing France
 F5IYJ,Phil,1842,Longeault France (Been heard QRP)
 F5JLQ,Georges,,Calais France
-F5KTR,Jules,,France
 F5JU,Jon,,L'Hermitage France
 F5JVP,Didier,,Le Vieil Dampierre France
+F5KTR,Jules,,France
 F5MAI,Regis,,Nouvion le Vineux France
 F5MNK,Lo,F,St-Gervais France
 F5MNW,Guy,,La Farlede France
@@ -1295,6 +1295,8 @@ IK8BIZ,Bob,,Cremano Italy
 IK8TEO,Francesco,,Mirabello Sannitico Italy
 IN3FHE,Helga,1548,Merano BZ Italy
 IN3TWX,Wolf,,Tipolo Italy
+IQ9RG,Dom,3712,Palmi Italy
+IQ9UI,Dom,3712,Palmi Italy
 IS0AFM,Simone,692,Cagliari Sardinia
 IS0ESG,Gian,,Iglesias Sardinia (Been heard QRP)
 IS0FQK,Pat,3316,Quartu S. Elena Italy
@@ -1344,6 +1346,7 @@ IZ4VSZ,Mark,3503,nr Modena Italy
 IZ5BBS,Renato,,Barberino Di Mugello Italy
 IZ7DJR,Nigo,,Foggia Italy
 IZ7GEG,Luca,,S. Vito Dei Normanni Italy
+IZ8JAI,Dom,3712,Palmi Italy
 IZ8VKW,Luigi,,Caserta Italia
 J6/K4ZGB,Tom,468,St-Lucia
 J6/WA4PGM,Kyle,255,
@@ -2736,8 +2739,8 @@ KE2YK,Gary,NY,East Yaphand NY
 KE3GK,Tom,MD,(3143) Glen Burnie MD
 KE3KK,Ron,MA,Boylson MA
 KE3X,Ken,460,Washington DC
-KE4D,John,FL,Lesburg FL
 KE4CR,Craig,3670,Chesterfield VA
+KE4D,John,FL,Lesburg FL
 KE4EA,Dave,3293,Spartanburg SC
 KE4I,Den,3439,Silver Creek GA
 KE4KY,Tom,1763,Fisherville KY
@@ -2768,8 +2771,8 @@ KE7VE,Martin,WY,Boulder WY
 KE7ZJC,Kim,UT,Pleasant Grove UT
 KE8AKC,Steve,MI,Northville MI
 KE8AQW,Mike,2883,Plymouth MI
-KE8DAX,Ray,OH,Senecaville OH
 KE8BWA,Andy,3056,Mogadore OH
+KE8DAX,Ray,OH,Senecaville OH
 KE8DI,Dave,MI,Kalamazoo MI
 KE8EAS,Josh,OH,Athens OH
 KE8EON,James,3707,Ironton OH
@@ -3323,8 +3326,8 @@ M0GGK,Dave,,near Liverpool England
 M0HDF,Angel,2862,(M8A) Birmingham England
 M0HWT,George,,Gloucester England
 M0IBC,David,,West Midlands England
-M0ITM,Andy,3669,Cornwall England
 M0IHT,Harry,560,(M3X) Exeter England
+M0ITM,Andy,3669,Cornwall England
 M0JWB,Jim,,Bistol England
 M0KHX,Mart,3544,Ipswich England
 M0KHZ,Mart,,Ipswich England
@@ -3677,8 +3680,8 @@ N4EEV,Mike,1600,Richmond Hills GA
 N4EL,Nat,3349,Tipp City OH
 N4ELC,Eric,GA,Woodstock GA
 N4ETC,Eden,NC,Skyland NC
-N4EWF,Ed,AL,Mobile AL
 N4EWD,Kyle,3664,Taylors SC
+N4EWF,Ed,AL,Mobile AL
 N4EWT,Newt,GA,Decatur GA (Newton)
 N4FCG,OJ,FL,Florida Contest Group
 N4FP,Wayne,1090,Ocala FL (Been heard QRP)
@@ -3721,10 +3724,10 @@ N4NQ,Sid,1611,Lawrenceville GA
 N4NR,Dennis,AL,Pelham AL
 N4NS,Ken,FL,Daytona Beach FL
 N4NTO,Tripp,NC,(2821) Tarboro NC (Been heard QRP)
-N4NYM,Scott,GA,McDonough GA
 N4NW,Tom,VA,Stafford VA
 N4NX,Bill,GA,Atlanta GA
 N4NYK,Doug,SC,Columbia SC
+N4NYM,Scott,GA,McDonough GA
 N4OGW,Tor,MS,Starkville MS
 N4OI,Ken,1536,Troutman NC
 N4OK,Bob,3023,Snellville GA
@@ -4127,8 +4130,8 @@ NA9L,Vern,IN,Mooresville IN
 NB0Z,James,KS,Atchison KS
 NB1U,Mark,754,West Greenwich RI
 NB3R,Dave,1520,Allentown PA
-NB5E,Brandon,GA,CWA,Lawrenceville GA
 NB4F,Robert,GA,Lithia Springs GA
+NB5E,Brandon,GA,CWA,Lawrenceville GA
 NB5N,Dave,OK,Oklahoma city OK
 NB6M,Wayne,1178,Mount Vernon WA
 NB6O,Dave,KY,West Point KY
@@ -4149,9 +4152,9 @@ NC6K,Eric,1640,Poway CA
 NC7M,Marc,1002,Boring OR
 ND1X,John,CT,Gaylordsville CT
 ND2O,Bob,3347,Oak Island NC
-ND3T,Len,ME,Remote at K1LZ
 ND2T,Tom,110,Palo Alto CA
 ND3D,Bob,MD,Baltimore MD
+ND3T,Len,ME,Remote at K1LZ
 ND4K,Dave,2945,Milledgeville GA
 ND4V,Mike,GA,Norcross GA
 ND4Y,David,2414,Marlan KY
@@ -4809,9 +4812,9 @@ SJ6R,Mats,1820,Sweden (RM2D)
 SJ6W,Sten,SM,Gothenburg Sweden (SM6MIS)
 SK2T,,,Umea Sweden (FURA Club Umea)
 SK6SAQ,,,Grimeton Sweden (World Heritage Radio Station)
-SM0D,Kari,3029,Sollentuna Sweden (SM0HRP)
 SM0AIG,Ingemar,SM,Kista Sweden
 SM0BYD,Hans,998,Sollentuna Sweden
+SM0D,Kari,3029,Sollentuna Sweden (SM0HRP)
 SM0FPR,Mats,2125,Norrtalje Sweden
 SM0HEV,Jens,2237,Upplands-Vasby Sweden
 SM0HRP,Kari,3029,Sollentuna Sweden
@@ -5015,11 +5018,11 @@ US3EW,Vlad,,Pavlograd Ukraine
 US3EZ,Serge,,Ukraine
 US4IRC,Gena,,Donetsk Ukraine
 UT1LF,Alex,,Khar'Kov Ukraine
-UT4LW,Yuri,,Ukraine
 UT2UB,Andre,,Klev UIkraine
 UT3GP,Vlad,,Kherson Ukraine
 UT3RN,Nick,,Chernigovskaya Ukraine
 UT3UZ,Alex,614,Kiev Ukraine
+UT4LW,Yuri,,Ukraine
 UT4UP,Alex,,Kiev Ukraine
 UT4UZ,Yuri,21,Kiev Ukraine (also VE3DZ)
 UT4WA,Igor,,Lviv Ukraine
@@ -6507,7 +6510,6 @@ WM5S,Mac,TX,Edinburg TX
 WM6T,Tray,3125,Lake Arrowhead CA
 WM6Y,PJ,CA,(2280 Phil) Fallbrook CA
 WM9Q,Ron,1170,Gurnee IL
-WW1H,Bill,3676,Durham NC
 WN1M,Mike,CT,South Glastonbury CT
 WN4AFP,Dave,1208,Greenville SC
 WN4R,Byron,FL,Lady Lake FL
@@ -6595,6 +6597,7 @@ WV7S,Den,WA,Olympia WA
 WW0K,Zac,IA,Ames IA
 WW0SS,Nick,MN,Shoreview MN
 WW0WWV,Eric,CO,Fort Collins WWV ARC
+WW1H,Bill,3676,Durham NC
 WW1T,Scott,FL,Cape Coral FL
 WW2I,Peter,3561,Pittstown NJ
 WW2Y,Peter,NJ,Belle Mead NJ
