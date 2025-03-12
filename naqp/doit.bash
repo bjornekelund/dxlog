@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls NAQP[^_]* | tail -1 2> /dev/null`
+FILE=`ls NAQP_[^d^b]* | tail -1 2> /dev/null`
 OUTFILE=NAQP_db.txt
 
 echo Parsing $FILE

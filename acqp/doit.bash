@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls NAQP* | tail -1 2> /dev/null`
+FILE=`ls QSOP* | tail -1 2> /dev/null`
 OUTFILE=ACQP_db.txt
 
 echo Parsing $FILE

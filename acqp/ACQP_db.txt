@@ -1,5 +1,5 @@
 # Database for Atlantic Canada QSO Party
-# Last updated 2025-03-08
+# Last updated 2025-03-12
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
