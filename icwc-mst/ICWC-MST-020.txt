@@ -3,7 +3,7 @@
 # EXCH = NAME + NUMBER
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-03-11
+# Last Edit,2025-03-13
 # Medium speed practice contest 20-25 WPM
 # Thanks SM7IUN, N0TA, KA5M, N5OT,
 
@@ -2301,6 +2301,7 @@ K8AAX,PAUL,MI,Ypsilanti MI
 K8ADH,BRUCE,,
 K8AJS,John,1694,Wooster OH
 K8AJX,FRED,
+K8APP,CAR,MI,
 K8AQM,Ted,2043,Adrian MI
 K8AZT,John,2210,Livonia MI
 K8BAT,John,OH,Columbus OH

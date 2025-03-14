@@ -29,6 +29,7 @@ BEGIN {
         if (call ~ /^3B9/) ID = "3B9";
         if (call ~ /^3DA/) ID = "3DA";
         if (call ~ /^4O/) ID = "4O";
+        if (call ~ /^4U1UN/) ID = "4U";
         if (call ~ /^4[X-Z]/) ID = "4Z";
         if (call ~ /^5T/) ID = "5T";
         if (call ~ /^6Y/) ID = "6Y";
@@ -113,7 +114,7 @@ BEGIN {
         if (call ~ /^V3/) ID = "V3";
         if (call ~ /^V4/) ID = "V4";
         if (call ~ /^V[EOY]/) ID = "VE";
-        if (call ~ /^VK/) ID = "VK";
+        if (call ~ /^V[JK]/) ID = "VK";
         if (call ~ /^VP2M/) ID = "VP2M";
         if (call ~ /^VP5/) ID = "VP5";
         if (call ~ /^VU/) ID = "VU";
