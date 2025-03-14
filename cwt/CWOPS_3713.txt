@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-03-11
+# Last Edit,2025-03-12
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -733,6 +733,7 @@ DM7EE,Christian,,Wolfsburg Germany
 DM7TW,Paul,,Backnang Germany
 DO4DXA,Marc,1851,Germering Germany (V31MA)
 DO6AN,Nils,3141,Hamburg Germany
+DO7ATR,Kevin,,Baar-Ebenhausen Germany
 DP4X,Mario,2801,(DJ2MX) Muenchen Germany
 DP7D,Frank,,Essen Germany
 DR2C,Adam,DL,
@@ -843,7 +844,7 @@ EI2CN,Doug,1503,Ireland
 EI2HIB,Martin,,Waterford Ireland
 EI2IDB,Slav,,Meath Ireland
 EI2IM,Don,55,Virginia Beach VA (W4ZYT)
-EI2KA,Tim,CWA,Skibbereen Ireland
+EI2KA,Tim,,Skibbereen Ireland
 EI2KU,Ralph,3319,Dungarvan Ireland
 EI3HA,Tony,,Strandhill Sligo Ireland
 EI3KK,Christian,,(DM7EE) Cty of Mayo/Ireland
@@ -893,7 +894,7 @@ F5IYJ,Phil,1842,Longeault France (Been heard QRP)
 F5JLQ,Georges,,Calais France
 F5JU,Jon,,L'Hermitage France
 F5JVP,Didier,,Le Vieil Dampierre France
-F5KTR,Jules,,France
+F5KTR,Jules,3656,F4IEY from Club Station
 F5MAI,Regis,,Nouvion le Vineux France
 F5MNK,Lo,F,St-Gervais France
 F5MNW,Guy,,La Farlede France
@@ -1034,7 +1035,7 @@ G4BUE,Chris,1294,West Sussex England (G4E N4CJ)
 G4CMY,Tony,,Gloucestershire England
 G4CPA,Geoff,1149,North Yorkshire England
 G4DJX,Alan,3083,Herts England
-G4DRS,John,G,Dorchester England
+G4DRS,John,1457,Dorchester England
 G4DYC,Mike,2116,Norfolk England
 G4E,Chris,1294,West Sussex England (G4BUE N4CJ)
 G4ERW,Dave,G,Kent England
@@ -2531,7 +2532,7 @@ KB3WFQ,ROB,PA,SCHWENKSVILLE PA
 KB3Z,Mark,1483,Collegeville PA
 KB3ZGL,Steve,MD,Annapolis MD
 KB4CG,Jack,VA,Bealeton VA
-KB4CL,Bob,SC,Gilbert SC
+KB4CL,Bob,CWA,Gilbert SC
 KB4DE,Bill,2093,Irmo SC
 KB4GYT,Paul,SC,Graniteville SC
 KB4KBS,Scott,GA,Roswell GA
@@ -3939,7 +3940,7 @@ N7DRW,Bud,2246,Bellevue WA
 N7DUX,Mike,OR,(W7GF) Ducks On The Air
 N7DX,Tony,2764,Camano Island WA
 N7DXT,Gary,MT,Missoula MT
-N7DZ,Bill,CWA,Tucson AZ
+N7DZ,Bill,3713,Tucson AZ
 N7EDK,Ed,FL,Bradenton FL
 N7ELL,James,AZ,Tempe AZ
 N7ETI,Mark,OR,Portland OR
@@ -3978,6 +3979,7 @@ N7SE,Steve,CO,Montrose Co
 N7SU,Dan,2283,(Daniel) Phoenix AZ
 N7TB,Terry,1999,Corvallis OR
 N7TES,John,WA,Puyallup WA
+N7TEZ,Bill,AZ,Congress
 N7TK,John,WA,Edmonds WA
 N7TX,Steve,571,Cave Creek AZ
 N7UN,Guy,1001,Newfoundland NJ

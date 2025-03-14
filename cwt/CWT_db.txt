@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3712
-# Last updated 2025-03-11
+# Contains members up to #3713
+# Last updated 2025-03-14
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -731,6 +731,7 @@ DM7EE=Christian;DL
 DM7TW=Paul;DL
 DO4DXA=Marc;1851
 DO6AN=Nils;3141
+DO7ATR=Kevin;DL
 DP4X=Mario;2801
 DP7D=Frank;DL
 DR2C=Adam;DL
@@ -841,7 +842,7 @@ EI2CN=Doug;1503
 EI2HIB=Martin;EI
 EI2IDB=Slav;EI
 EI2IM=Don;55
-EI2KA=Tim;CWA
+EI2KA=Tim;EI
 EI2KU=Ralph;3319
 EI3HA=Tony;EI
 EI3KK=Christian;EI
@@ -891,7 +892,7 @@ F5IYJ=Phil;1842
 F5JLQ=Georges;F
 F5JU=Jon;F
 F5JVP=Didier;F
-F5KTR=Jules;F
+F5KTR=Jules;3656
 F5MAI=Regis;F
 F5MNK=Lo;F
 F5MNW=Guy;F
@@ -1032,7 +1033,7 @@ G4BUE=Chris;1294
 G4CMY=Tony;G
 G4CPA=Geoff;1149
 G4DJX=Alan;3083
-G4DRS=John;G
+G4DRS=John;1457
 G4DYC=Mike;2116
 G4E=Chris;1294
 G4ERW=Dave;G
@@ -2525,7 +2526,7 @@ KB3WFQ=ROB;PA
 KB3Z=Mark;1483
 KB3ZGL=Steve;MD
 KB4CG=Jack;VA
-KB4CL=Bob;SC
+KB4CL=Bob;CWA
 KB4DE=Bill;2093
 KB4GYT=Paul;SC
 KB4KBS=Scott;GA
@@ -3927,7 +3928,7 @@ N7DRW=Bud;2246
 N7DUX=Mike;OR
 N7DX=Tony;2764
 N7DXT=Gary;MT
-N7DZ=Bill;CWA
+N7DZ=Bill;3713
 N7EDK=Ed;FL
 N7ELL=James;AZ
 N7ETI=Mark;OR
@@ -3966,6 +3967,7 @@ N7SE=Steve;CO
 N7SU=Dan;2283
 N7TB=Terry;1999
 N7TES=John;WA
+N7TEZ=Bill;AZ
 N7TK=John;WA
 N7TX=Steve;571
 N7UN=Guy;1001
