@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-03-12
+# Last Edit,2025-03-13
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -317,7 +317,7 @@ AE2U,Mike,869,Chandler AZ
 AE3J,Bill,PA,Aston PA
 AE4DT,Jim,GA,Cartersville GA
 AE4ED,Fred,AL,Athens AL
-AE4GS,Gary,TN,Cleveland TN
+AE4GS,Gary,3714,Cleveland TN
 AE4QQ,Dave,1625,Bainbridge GA
 AE4RM,Roger,FL,Lakeland FL
 AE4Y,Kent,2002,Hendersonville NC
@@ -2266,7 +2266,7 @@ K8AAV,Rod,OH,Garrettsville OH
 K8AJS,John,1694,Wooster OH
 K8AJX,Fred,AL,Montgomery AL
 K8ANM,Bob,AZ,Paradise Valley AZ
-K8APP,Carson,MI,Bloomfield Hills MI
+K8APP,Car,MI,Bloomfield Hills MI
 K8AQM,Ted,2043,Adrian MI
 K8BAT,John,OH,Columbus OH
 K8BB,Don,2882,Pontiac MI
