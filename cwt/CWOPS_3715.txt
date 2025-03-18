@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-03-13
+# Last Edit,2025-03-17
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -730,7 +730,7 @@ DM4G,Klaus,2524,(DL8TG) Wolfsburg Germany (Been heard QRP)
 DM4WL,Dieter,,Kreisca Germany
 DM6EE,Lutz,2654,Wolfsburg Germany (Been heard QRP)
 DM7EE,Christian,,Wolfsburg Germany
-DM7TW,Paul,,Backnang Germany
+DM7TW,Paul,3715,Backnang Germany
 DO4DXA,Marc,1851,Germering Germany (V31MA)
 DO6AN,Nils,3141,Hamburg Germany
 DO7ATR,Kevin,,Baar-Ebenhausen Germany
