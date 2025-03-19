@@ -1,19 +1,27 @@
-dos2unix -q euareas.csv
+#!/bin/bash
+INFILE=euareas.csv
+OUTFILE=a-result.txt
 
-gawk '
+dos2unix -q $INFILE
+
+cat $INFILE | gawk '
 BEGIN {
-  FS=";";
-  printf("[MULTIPLIERS START]\n");
+  FS=",";
+  printf("000[MULTIPLIERS START]\n");
 }
 {
-  if ($1 ~ /^[A-Z]/)
-    printf("%s=%s\n", toupper($1), $2);
-  else if ($1 != "")
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+  if ($6 ~ /^[A-Z]{2}\.[A-Z]{2}\.[A-Z]{2}$/) {
+    area = substr($6, 1, 2) substr($6, 4, 2) substr($6, 7, 2);
+    printf("%s=%s\n", area, $2);
+#    printf("area: %s\n", area) > "/dev/stderr";
+  }
+  else if ($1 != "") {
+#    printf("Ignored: %s\n", $0) > "/dev/stderr";
+  }
 }
 END {
-  printf("[MULTIPLIERS END]\n");
-}' < euareas.csv | sort > a-result.txt
+  printf("ZZZ[MULTIPLIERS END]\n");
+}' | sort | sed 's/ZZZ\[/\[/g' | sed 's/000\[/\[/g' > $OUTFILE
 
 unix2dos -q a-result.txt
 
