@@ -22,7 +22,7 @@ gawk \
     printf("%s=%s\n", $2, $1);
   else if ($0 !~ /^N/ && $0 !~ /-[0-9]/ && $0 !~ /delet/ && $0 != "")
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-}' $FILE | sort | sed 's/#0. /# /g' > $OUTFILE
+}' $FILE | sort -d | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

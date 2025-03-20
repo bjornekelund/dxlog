@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3715
-# Last updated 2025-03-18
+# Last updated 2025-03-20
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -50,6 +50,7 @@
 9A2EU=Zlatko;9A
 9A2KI=Ico;9A
 9A2N=Dado;9A
+9A2NB=Aldo;9A
 9A2UN=Bert;9A
 9A3R=Amir;9A
 9A3SM=Mato;3098
@@ -626,9 +627,11 @@ DL2ANM=Heinz;DL
 DL2CC=Frank;511
 DL2DSL=Joerg;DL
 DL2DXA=Ben;DL
+DL2FDM=Rainer;DL
 DL2FO=Oleg;2484
 DL2GMI=Michael;DL
 DL2GWZ=Alex;DL
+DL2HS=Helmut;DL
 DL2JRM=Rene;DL
 DL2MKZ=Rainer;DL
 DL2NEW=Sven;3126
@@ -1239,6 +1242,7 @@ I2IFT=John;2704
 I2RTF=Piero;621
 I2VXJ=Gio;I
 I2WIJ=Bob;2406
+I3VWK=RudyI;I
 I4IKW=Mark;I
 I5ECW=Vanni;1679
 I5EFO=Emil;1486
@@ -2265,7 +2269,7 @@ K8AQM=Ted;2043
 K8BAT=John;OH
 K8BB=Don;2882
 K8BL=Bob;OH
-K8BTU=Bill;MI
+K8BTU=Bill;OH
 K8BZ=Steve;1397
 K8CIT=Art;MI
 K8CKC=Mike;3021
@@ -2776,6 +2780,7 @@ KE8G=Jim;1616
 KE8HXE=Brad;3264
 KE8NJW=Jeff;3297
 KE8USW=Mike;WV
+KE8ZLT=Allen;OH
 KE9I=George;IL
 KE9SA=Chuck;2972
 KF0CCU=Mike;MN
@@ -3928,6 +3933,7 @@ N7DRW=Bud;2246
 N7DUX=Mike;OR
 N7DX=Tony;2764
 N7DXT=Gary;MT
+N7DZ/6=Bill;3713
 N7DZ=Bill;3713
 N7EDK=Ed;FL
 N7ELL=James;AZ
