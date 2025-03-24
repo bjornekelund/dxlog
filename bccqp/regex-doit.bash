@@ -35,7 +35,6 @@ END {
 
   printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
   printf("# Member callsigns from https://www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
-  printf("POINTS_FIELD_BAND_MODE=ALL;DEST->DXCC:^$;ALL;ALL;0\n");
   printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^DA0BCC$;ALL;ALL;ALL;5\n");
   printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^(%s)$;ALL;ALL;ALL;2\n", string);
   printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n\n");
