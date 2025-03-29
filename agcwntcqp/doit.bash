@@ -8,7 +8,7 @@ dos2unix -q $FILE
 cat $FILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk -f agcwntcqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $FILE
 
 ../copytosourcetree.bash $OUTFILE
 
