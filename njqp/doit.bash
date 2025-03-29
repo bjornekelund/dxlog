@@ -9,7 +9,7 @@ dos2unix -q $FILE
 gawk -f njqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $FILE
 
 ../copytosourcetree.bash $OUTFILE
 
