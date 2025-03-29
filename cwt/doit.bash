@@ -8,7 +8,7 @@ dos2unix -q $FILE
 
 gawk -f txt.awk $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 echo $DBFILE "created"
-unix2dos -q $DBFILE
+unix2dos -q $DBFILE $FILE
 
 gawk -f xdt.awk $FILE | sed 's/  / /g' | sort > $XDTFILE
 

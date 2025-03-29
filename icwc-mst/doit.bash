@@ -7,7 +7,7 @@ dos2unix -q $FILE
 
 gawk -f icwc-mst.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $FILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
