@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3718
-# Last updated 2025-03-29
+# Last updated 2025-04-02
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -437,6 +437,7 @@ AJ6ET=Ed;2935
 AJ6GI=Jaime;2465
 AJ6MQ=Brent;CA
 AJ6V=Ed;3614
+AJ7DL=Gord;3552
 AJ7F=Tim;WA
 AJ8B=Bill;1567
 AJ8M=Bruce;OH
