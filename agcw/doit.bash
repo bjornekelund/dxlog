@@ -8,7 +8,7 @@ curl -sS https://www.agcw.de/wp-content/persist/Mitglieder.csv -o $FILE
 
 dos2unix -q $FILE
 
-gawk -f agcw.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+cat $FILE | sed 's/Ø/0/g' | gawk -f agcw.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
