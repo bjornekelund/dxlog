@@ -8,7 +8,7 @@ curl -sS https://www.agcw.de/wp-content/persist/Mitglieder.csv -o $FILE
 
 dos2unix -q $FILE
 
-gawk \
+cat $FILE | sed 's/Ø/0/g' | gawk \
 'BEGIN {
   FS=";"
   max = 0;
@@ -27,7 +27,7 @@ END {
   printf("#01 Based on official member roster at www.agcw.de\n");
   printf("#02 Contains members up to #%d\n", max);
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-}' $FILE | sort | sed 's/#0. /# /g' > $OUTFILE
+}' | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
