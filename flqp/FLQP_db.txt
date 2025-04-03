@@ -1,7 +1,7 @@
 # Florida QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-04-02
+# Last updated 2025-04-03
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1295,6 +1295,7 @@ KS9J=IN
 KT0A=SD
 KT1H=MA
 KT3M=CO
+KT3T=HIL
 KT4Q=NC
 KT4WA=MAO
 KT4XN=GA
@@ -1583,7 +1584,7 @@ N4VGE=SC
 N4WD=GA
 N4WMB=SC
 N4WRO=SC
-N4WZ=MAO
+N4WZ=MRT
 N4XCI=GUL
 N4XD=NC
 N4XL=SC

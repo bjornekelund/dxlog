@@ -113,7 +113,6 @@ A65BD        1746 Fred (G4BWP)
 A71CW        1475 Chris (SP5EXA)
 A9XU          671 Owen (G3LKZ)
 AA1TR        1547 Petr (OK1CZ)
-AA2A         2115 Allen (N2KW)
 AA3B         1921 Bud
 AB4I         2240 Steve
 AC4RO        1567 Holger (DK4LX)
@@ -381,6 +380,7 @@ G5VZ         2191 Chris
 G5W          2006 Don (G3BJ)
 G6AY         1225 Jim (G3RTE)
 G6M          1984 Vic (G4BYG)
+G6PZ         2244 Paul
 G6VX         1573 Derek (G3NKS)
 G8DX         2067 Jack (GW8DX)
 G9W          2136 Mark (M0DXR)
@@ -498,7 +498,7 @@ GQ8DX        2067 Jack (GW8DX)
 GR150NIB     1189 Terry (GM3WUX)
 GR3KGV       1309 Ken (GW3KGV)
 GR4BWP       1746 Fred (G4BWP)
-GS8VL        1189 Terry (GM3WUX)
+GS8VL        1926 Drew (GM3YOR)
 GU0MFR       2204 Gareth (G0MFR)
 GU3TXF       1266 Nigel (OE5TXF)
 GU4CHY       1855 Dick
@@ -599,7 +599,6 @@ K2YWE        2076 Dan
 K2ZR         1694 Dick
 K2ZR/4       1694 Dick (K2ZR)
 K3AU         2076 Dan (K2YWE)
-K3K          1177 Tom (K3TW)
 K3LR         2139 Tim
 K3LU         2133 Ulis
 K3MD         2092 John
@@ -617,7 +616,6 @@ K4JJW        1967 Dick
 K4LT         1576 Doug (AD8CW)
 K4OSO        1927 Milt
 K4QS         2125 Chuck
-K4T          1177 Tom (K3TW)
 K4UX         2183 Al
 K4WJ         1749 John
 K4XU         1268 Dick
@@ -1190,7 +1188,6 @@ W4MQC        1734 Alan
 W4NO         1494 Tony (K2SG)
 W4PID        2198 Dick
 W4PM         1687 Puck
-W4S          1177 Tom (K3TW)
 W4TJE        2118 Jack
 W4UHI        2105 Ken (K5WK)
 W4YE         1217 Buddy
@@ -1201,7 +1198,6 @@ W5FOC        2152 Susan (K5DU)
 W5SJ         2155 Bill
 W5YA         1636 Fred (KT5X)
 W5ZR         1722 Bert
-W6O          1177 Tom (K3TW)
 W6OAT        2065 Rusty
 W6RGG        1563 Bob
 W7AQK        2078 Dave
@@ -1318,12 +1314,18 @@ ZS1C         2012 Raoul
 ZS1EL         658 Vidi
 ZS1RBN       1513 Phil (G3SWH)
 ZS6FOC        744 Den (F5VHY)
+xAA2A        2115 Allen (N2KW)
 xGB2NZ       2006 Don (G3BJ)
+xGS8VL       1189 Terry (GM3WUX)
 xGU5LOW      2213 Enzo (M0KTZ)
+xK3K         1177 Tom (K3TW)
+xK4T         1177 Tom (K3TW)
 xKP4FOC      1965 Alfredo (WP3C)
 xM0RSE       2024 Iain (M0PCB)
 xSX6A        2113 David (SV1RUX)
 xSX8A        2113 David (SV1RUX)
 xW4D         1177 Tom (K3TW)
 xW4E         1177 Tom (K3TW)
-xxW7E        1177 Tom (K3TW)
+xW4S         1177 Tom (K3TW)
+xW6O         1177 Tom (K3TW)
+xW7E         1177 Tom (K3TW)

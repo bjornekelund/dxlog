@@ -447,6 +447,10 @@ DO4OD,Matze
 DO6SR,Robert
 9A5TU,Robert
 EI5LA,Megan
+F1DHX,Thierry
+TM9W,Thierry
+TM0R,Thierry
+TM7IGRY,Thierry
 F5MZN,Olivier
 F5NGA,Francois
 F5SNJ,Will

@@ -6,7 +6,7 @@ OUTFILE=SPDX_db.txt
 dos2unix -q $FILE
 echo Parsing $FILE
 
-gawk -f spdx.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f spdx.awk $FILE | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

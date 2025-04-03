@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-LastEdit,2025-03-30
+# 1-LastEdit,2025-04-01
 # 2-Send new info/corrections DIRECT to ve2fk@arrl.net 
 # 3-Info from FLQP site.
 # 4-Thanks Bjorn/SM7IUN for his help and Chris/NX4N
@@ -28,7 +28,6 @@ N4S,SUW,N4SVC  SUWANNEE
 AD4EB,,MOBILE CW with Melody KI4HVY (10-40m)
 AD4EB/M,,MOBILE CW with Melody KI4HVY (10-40m)
 K4OJ,,MOBILE
-KT3T,,MOBILE
 K8MR,,MOBILE
 N4FCG/M,,MOBILE
 N4FCG,,MOBILE
@@ -46,7 +45,7 @@ KQ3Q,,EXPEDITION
 N4EH,,EXPEDITION
 WA1S,,EXPEDITION
 
-# Fixed Stations... 
+# Fixed FL Stations... 
 AA2WN,PAL,Parm Beach - Mixed
 AA4NP,BRE,Brevard - CW
 AA4O,PIN,PINELLAS
@@ -112,6 +111,7 @@ KO4YZI,BAY,Bay Mixed
 KQ4GAH,HIL,HILLSBOROUGH - SSB
 KQ4HBY,BRE,Brevard - SSB
 KQ4R,VOL,Volusia - CW 
+KT3T,HIL,HILLSBOROUGH
 KT4WA,MAO,Marion
 KU8E,DUV,DUVAL - MIXED
 KV4OP,ORA,ORANGE - SSB
@@ -144,7 +144,7 @@ N4SER,SAR,Saratoga
 N4TB,HIG,HIGHLANDS
 N4TP,HIL,Hillsborough
 N4UM,IDR,Indian River
-N4WZ,MAO,Martin - SSB
+N4WZ,MRT,Martin - SSB
 N4XCI,GUL,Gulf
 N7RCS,BRE,BREVARD - CW
 N8GU,LEE,LEE - CW
@@ -197,7 +197,7 @@ W4SPR,MRT,MARTIN - CW
 W4SS,OSC,Osceola
 W4SVI,DAD,MIAMI-DADE
 W4UM,MRT,Martin - Mixed
-W4W,VOL,VOLUSIA
+W4W,VOL,(KQ4R)  VOLUSIA
 W4ZGR,STL,Saint-Lucie
 W4ZTH,CIT,CITRUS
 W7MAE,STL,Saint-Lucie - SSB

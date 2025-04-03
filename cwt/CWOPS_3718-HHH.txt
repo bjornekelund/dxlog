@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-04-01
+# Last Edit,2025-04-02
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -2753,6 +2753,7 @@ KE3X,Ken,460,Washington DC
 KE4CR,Craig,3670,Chesterfield VA
 KE4D,John,FL,Lesburg FL
 KE4EA,Dave,3293,Spartanburg SC
+KE4EB,Sid,VA,Newport News VA
 KE4I,Den,3439,Silver Creek GA
 KE4KY,Tom,1763,Fisherville KY
 KE4RG,Ken,1765,Gretna VA (Been heard QRP)
