@@ -7,7 +7,7 @@ dos2unix -q $FILE
 
 gawk -f gaqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $FILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

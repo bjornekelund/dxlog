@@ -1,6 +1,6 @@
 !!Order!!,Call,Exch1,UserText
 # 
-# Last Edit,2025-03-30
+# Last Edit,2025-04-04
 # MISSOURI QSO PARTY
 # QSOPARTY MO
 # QSOP_MO
@@ -9,10 +9,9 @@
 !!Order!!,Call,Exch1,UserText
 
 # 1X1 Stations list .........
-K0B,,(     )
 K0E,,(K0AP)  MOBILE
 K0S,,(K5DB)  MOBILE 
-K0H,,(     )
+K0H,,(KK0U)  MOBILE
 K0O,,(N0BDS)
 K0W,DAD,(WB0VPS)
 K0M,JEF,(N0ZIB)
@@ -27,7 +26,7 @@ N0O,STL,(N9BSO)
 N0W,JAC,(WA0OFM)
 N0M,CAM,(K0FG)
 N0E,SLC,(KF0JOE)
-N0U,,(N0AX)  MOBILE
+N0U,,(N0AX-N5OT)  MOBILE
 N0R,,(KC8FDU)  MOBILE
 
 W0S,SLC,(W0FLN)
@@ -82,7 +81,9 @@ KE0IS,SLC,St. Louis County
 KE0MHJ,SHL,Shelby County
 KE0MYO,HWL,Howell
 KE0OJE,BTR,Butler County
+KF0TEC,JAC,JACKSON
 KF0U,COP,Cooper
+KI0I,CAS,CASS
 KI0Y,COL,Cole CountyCole County
 KN4FRG,PUL,Pulaski County
 N0OFE,SLC,St Louis

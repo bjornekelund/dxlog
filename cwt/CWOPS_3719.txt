@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-04-02
+# Last Edit,2025-04-06
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -253,7 +253,7 @@ AC9EM,Steve,IL,Lake Zurich IL
 AC9EZ,Jim,2342,Fort Wayne IN
 AC9OH,Ron,IL,Urbana IL
 AC9VC,Mark,IL,Wheaton IL
-AC9XK,Alex,IN,Noblesville IN
+AC9XK,Alex,CWA,Noblesville IN
 AD0AB,Jim,2114,Lenexa KS
 AD0BI,Lar,MO,Saint Louis MO
 AD0DX,Ron,MO,Kansas City MO
@@ -1792,6 +1792,7 @@ K3NL,Nick,PA,Drexel Hill PA
 K3NM,Joe,PA,Broadheadsville PA
 K3OO,Rick,PA,Wind Gap PA
 K3OOL,Craig,PA,State College PA
+K3ONW,Ken,PA,Gettysburg
 K3OX,Kevin,2024,Ewing NJ
 K3PA,Drew,1046,Tonganoxie KS
 K3PH,Bob,2195,Kresgeville PA
@@ -2246,7 +2247,7 @@ K7RR,Peter,1575,Silverdale WA
 K7SF,Steve,1137,West Linn OR
 K7SHR,Paul,3271,Sheridan WY
 K7SO,Doc,WA,Espanola NM
-K7SS,BUGS,2053,Seattle WA
+K7SS,BUGS,WA,(2053) Seattle WA
 K7SV,Lar,1004,Spotsylvania VA
 K7TAN,Don,ID,Rigby ID
 K7TD,Terry,1948,Colorado Springs CO
@@ -4957,7 +4958,7 @@ SV1DOJ,Tassos,,Piraeus Greece
 SV1ENG,Tony,SV,Irakliou Athens Greece
 SV1ME,Manos,3583,Artemis TK Greece
 SV1PMQ,Giannis,,Pireus Greece
-SV1RUX,Dave,,Athens Greece
+SV1RUX,Dave,3719,Athens Greece
 SV1SXV,Miltos,,Cyclades Greece
 SV1SYM,Teo,,Ripaeus Greece
 SV1SYY,Nik,,Attica Greece
@@ -5836,7 +5837,7 @@ W4YGT,Tom,3517,La Crosse FL
 W4ZGR,Peter,2850,Palm City FL
 W4ZYT,Don,55,Virginia Beach VA
 W5AG,Arch,LA,Lafayette LA
-W5AL,Roger,TX,(2412)La Vernia TX
+W5AL,Roger,2412,La Vernia TX
 W5BIB,Steve,AL,Irvington AL
 W5BM,Dan,1377,Tulsa OK
 W5BOS,Lanny,TX,Keller TX
