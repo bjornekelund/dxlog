@@ -6,7 +6,7 @@ BEGIN {
     printf("Duplicate entry: \"%s\"\n", $0) > "/dev/stderr";
   }
   call[$1] = $1;
-  if ($0 ~ /=$/) {
+  if ($0 ~ /=$/ || $3 != "") {
     printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
   }
   else {
