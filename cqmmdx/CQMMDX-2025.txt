@@ -1,7 +1,7 @@
 !!Order!!, Call, Sect, UserText, 
 # 
 # CQMMDX
-# Last Edit,2024-04-20
+# Last Edit,2025-04-10
 # NOT for CQ-M International
 # Send any info, correction direct to ve2fk@arrl.net
 2E0FFT,EUQ,
@@ -431,9 +431,11 @@ ON7CC,EUQ,
 ON7SS,EUM,
 ON9TT,EUM,
 OP4A,EUM,
+OV3X,EUM,
 OY1CT,EUM,
 OZ4CG,EUM,
 OZ7EA,EUY,
+OZ8AE,EUM,
 PA0O,EUM,
 PA0VAJ,EUM,
 PA1CW,EUM,

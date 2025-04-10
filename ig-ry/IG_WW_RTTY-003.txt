@@ -4,7 +4,7 @@
 # 3- EXCH = first date of lic.
 # 4- Exch = Years of your first lic.
 # IG_WW_RTTY
-# LastEdit,2025-04-07
+# LastEdit,2025-04-10
 # SCRY
 # Thanks SM7IUN and WVC4P for help
 # Updated from log of NJ4P 2024
@@ -1797,6 +1797,7 @@ JR6GIM,1977,
 JR7ANB,1977,
 JR7ANG,1977,
 K0BX,1969,
+K0CIE,1960,
 K0EWS,2000,
 K0FBV,1959,
 K0FX,1955,

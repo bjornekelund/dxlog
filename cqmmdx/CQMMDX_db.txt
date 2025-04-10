@@ -1,7 +1,7 @@
 # CQMM DX database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-04-06
+# Last updated 2025-04-10
 2E0FFT=EUQ
 3B8DB=AFM
 3D2AG=OCM
@@ -428,9 +428,11 @@ ON7CC=EUQ
 ON7SS=EUM
 ON9TT=EUM
 OP4A=EUM
+OV3X=EUM
 OY1CT=EUM
 OZ4CG=EUM
 OZ7EA=EUY
+OZ8AE=EUM
 PA0O=EUM
 PA0VAJ=EUM
 PA1CW=EUM

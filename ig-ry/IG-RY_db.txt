@@ -1,7 +1,7 @@
 # Database for IG-RY, SCC RTTY and RTTYops WW DX contests
 # Based on data collected and maintained by Claude VE2FK
 # Report errors and updates to ve2fk@arrl.net
-# Last updated 2025-04-08
+# Last updated 2025-04-10
 2E0CVN=2007
 2E0GBC=2006
 2E0INN=2003
@@ -1791,6 +1791,7 @@ JR6GIM=1977
 JR7ANB=1977
 JR7ANG=1977
 K0BX=1969
+K0CIE=1960
 K0EWS=2000
 K0FBV=1959
 K0FX=1955
