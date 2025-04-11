@@ -8,7 +8,7 @@ dos2unix -q $INFILE
 gawk -f naval.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
-echo $OUTFILE created
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
