@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls JARTSWW* | tail -1 2> /dev/null`
+INFILE=`ls JARTSWW* | tail -1 2> /dev/null`
 OUTFILE=JARTS_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f jarts.awk $FILE | sort | sed 's/^#[0-9]/#/g' > $OUTFILE
+gawk -f jarts.awk $INFILE | sort | sed 's/^#[0-9]/#/g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

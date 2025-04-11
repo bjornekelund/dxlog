@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls 1010* | tail -1 2> /dev/null`
+INFILE=`ls 1010* | tail -1 2> /dev/null`
 OUTFILE=TENTEN_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-sed 's/ //g' $FILE | gawk -f tenten.awk | sort | sed 's/#. /# /g' > $OUTFILE
+sed 's/ //g' $INFILE | gawk -f tenten.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
-echo "Created" $OUTFILE
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

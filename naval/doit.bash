@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls NAVAL.* | tail -1 2> /dev/null`
+INFILE=`ls NAVAL.* | tail -1 2> /dev/null`
 OUTFILE=NAVAL_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f naval.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f naval.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo $OUTFILE created
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

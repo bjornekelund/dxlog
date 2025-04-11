@@ -1,24 +1,24 @@
 #!/bin/bash
-FILE=`ls IOTA_2* | tail -1 2> /dev/null`
+INFILE=`ls IOTA_2* | tail -1 2> /dev/null`
 DBFILE=IOTA_db.txt
 XDTFILE=IOTA.xdt
 
-dos2unix -q $FILE
+dos2unix -q $INFILE
 
-gawk -f txt.awk $FILE | sort | sed 's/#. /# /g' > $DBFILE
+gawk -f txt.awk $INFILE | sort | sed 's/#. /# /g' > $DBFILE
 
-echo Created $DBFILE
 unix2dos -q $DBFILE
+echo Created $DBFILE
 
 ../copytosourcetree.bash $DBFILE
 
-gawk -f xdt.awk $FILE | sort > $XDTFILE
+gawk -f xdt.awk $INFILE | sort > $XDTFILE
 
+unix2dos -q $XDTFILE $INFILE
 echo Created $XDTFILE
-unix2dos -q $XDTFILE
 
 cp $XDTFILE ../xdt
 
-echo Parsed $FILE
+echo Parsed $INFILE
 
 exit

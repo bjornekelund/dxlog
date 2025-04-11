@@ -1,13 +1,14 @@
 #!/bin/bash
-FILE=`ls QSOP_* | tail -1 2> /dev/null`
-echo Parsing $FILE...
+INFILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=ILQP_db.txt
 
-dos2unix -q $FILE
-gawk -f ilqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+echo Parsing $INFILE...
+dos2unix -q $INFILE
 
+gawk -f ilqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

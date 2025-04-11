@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls QSOP_* | tail -1 2> /dev/null`
+INFILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=MNQP_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-sed 's/ //g' $FILE | gawk -f mnqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
+sed 's/ //g' $INFILE | gawk -f mnqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
-echo "Created" $OUTFILE
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

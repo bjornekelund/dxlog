@@ -17,10 +17,10 @@ BEGIN {
 {
   printf("%s\n", $0);
 }
-END { }' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+END { }' | sort | sed 's/#. /# /g' > $OUTFILE
 
-echo Created $OUTFILE
 unix2dos -q $OUTFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

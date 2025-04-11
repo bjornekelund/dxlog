@@ -1,15 +1,14 @@
 #!/bin/bash
-#FILE=`ls ../naqp/NAQP[^_]* | tail -1 2> /dev/null`
-FILE=`ls QSOP* | tail -1 2> /dev/null`
+INFILE=`ls QSOP* | tail -1 2> /dev/null`
 OUTFILE=NJQP_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f njqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f njqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE $FILE
 
 ../copytosourcetree.bash $OUTFILE
 

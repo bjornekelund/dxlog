@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=KCJ.txt
+INFILE=KCJ.txt
 OUTFILE=KCJ_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f kcj.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f kcj.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

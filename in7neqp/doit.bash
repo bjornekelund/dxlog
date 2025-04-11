@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls QSOP* | tail -1 2> /dev/null`
+INFILE=`ls QSOP* | tail -1 2> /dev/null`
 OUTFILE=IN7NEQP_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f in7neqp.awk $FILE | sort | sed 's/^#[0-9]/#/g' > $OUTFILE
+gawk -f in7neqp.awk $INFILE | sort | sed 's/^#[0-9]/#/g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE $FILE
 
 ../copytosourcetree.bash $OUTFILE
 
