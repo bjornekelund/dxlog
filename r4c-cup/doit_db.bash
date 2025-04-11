@@ -1,9 +1,9 @@
 #!/bin/bash
 OUTFILE=R4C-CUP_db.txt
-FILE=rda-cleaned.txt
+INFILE=rda-cleaned.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
 gawk '
 BEGIN {
@@ -29,10 +29,10 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+}' $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-echo Created $OUTFILE
 unix2dos -q $OUTFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

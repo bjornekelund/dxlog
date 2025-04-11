@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls RDAC_2* | tail -1 2> /dev/null`
+INFILE=`ls RDAC_2* | tail -1 2> /dev/null`
 OUTFILE=RDAC_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f rdac.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f rdac.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

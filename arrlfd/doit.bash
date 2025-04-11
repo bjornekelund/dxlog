@@ -7,8 +7,8 @@ dos2unix -q $INFILE
 
 gawk -f arrlfd.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE created
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

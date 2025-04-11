@@ -1,9 +1,9 @@
 #!/bin/bash
-FILE=`ls CQWWCW-* | tail -1 2> /dev/null`
+INFILE=`ls CQWWCW-* | tail -1 2> /dev/null`
 OUTFILE=CQWWCW2023_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
 gawk '
 BEGIN {
@@ -28,7 +28,7 @@ BEGIN {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-END {}' $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+END {}' $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

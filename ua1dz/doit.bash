@@ -1,13 +1,13 @@
 #!/bin/bash
-FILE=`ls DZ* | tail -1 2> /dev/null`
+INFILE=`ls DZ* | tail -1 2> /dev/null`
 OUTFILE=UA1DZ_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f ua1dz.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f ua1dz.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

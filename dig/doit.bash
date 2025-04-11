@@ -1,16 +1,16 @@
 #!/bin/bash
-FILE=DIGLISTE.csv
+INFILE=DIGLISTE.csv
 OUTFILE=DIG_db.txt
 
-echo Downloading $FILE
+echo Downloading $INFILE
 
-curl -sS https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $FILE
+curl -sS https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $INFILE
 
-echo "Parsing" $FILE
+echo "Parsing" $INFILE
 
-dos2unix -q $FILE
+dos2unix -q $INFILE
 
-cat $FILE | sed 's/\"//g' | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
+cat $INFILE | sed 's/\"//g' | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls 13COLONIES-* | tail -1 2> /dev/null`
+INFILE=`ls 13COLONIES-* | tail -1 2> /dev/null`
 OUTFILE=13COLONIES_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f 13colonies.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f 13colonies.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

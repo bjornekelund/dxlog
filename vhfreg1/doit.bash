@@ -1,15 +1,15 @@
 #!/bin/bash
 
 #FILE=`ls VHF_U* | tail -1 2> /dev/null`
-FILE=`ls clean/VHFREG1-* | tail -1 2> /dev/null`
-FILE4=`ls clean/VHFREG1_4-* | tail -1 2> /dev/null`
+INFILE=`ls clean/VHFREG1-* | tail -1 2> /dev/null`
+INFILE4=`ls clean/VHFREG1_4-* | tail -1 2> /dev/null`
 
 OUTFILE=vhf_uhf_r1_db.txt
 OUTFILE4=vhf_uhf_r1_4_db.txt
 
-dos2unix -q $FILE
+dos2unix -q $INFILE
 
-echo  Creating 6-position grid database by parsing $FILE
+echo  Creating 6-position grid database by parsing $INFILE
 
 # Create 6-position grid file
 
@@ -42,7 +42,7 @@ END {
   for (c in calls)
     printf("%s=%s\n", calls[c], grids[c]);
   printf("Ignored %d lines\n", ignored) > "/dev/stderr";
-}'  $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+}'  $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo $OUTFILE "created with" `cat $OUTFILE | wc -l` "calls"
 
@@ -51,7 +51,7 @@ echo ---------------
 
 # Create 4-position grid file
 
-echo  Creating 4-position grid database by parsing $FILE4
+echo  Creating 4-position grid database by parsing $INFILE4
 
 gawk '
 BEGIN {
@@ -82,7 +82,7 @@ END {
   for (c in calls)
     printf("%s=%s\n", calls[c], grids[c]);
   printf("Ignored %d lines\n", ignored) > "/dev/stderr";
-}'  $FILE4 | sort | sed 's/^\#. /\# /g' > $OUTFILE4
+}'  $INFILE4 | sort | sed 's/^\#. /\# /g' > $OUTFILE4
 
 echo $OUTFILE4 created with `cat $OUTFILE4 | wc -l` calls
 

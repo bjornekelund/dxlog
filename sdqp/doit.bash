@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls QSOP_* | tail -1 2> /dev/null`
+INFILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=SDQP_db.txt
 
-echo Parsing $FILE
-dos2unix $FILE
+echo Parsing $INFILE
+dos2unix $INFILE
 
-gawk -f sdqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f sdqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

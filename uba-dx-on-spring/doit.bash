@@ -1,12 +1,12 @@
 #!/bin/bash
 #FILE=UBASSB*.txt
-FILE="Fullcall.txt Vanitycall.txt"
+INFILE="Fullcall.txt Vanitycall.txt"
 OUTFILE=UBA_Sections_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-sed 's/,/=/g' $FILE | gawk -f uba-dx-on-spring.awk | sort | sed 's/^\#. /\# /g' > $OUTFILE
+sed 's/,/=/g' $INFILE | gawk -f uba-dx-on-spring.awk | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

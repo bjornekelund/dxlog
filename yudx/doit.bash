@@ -1,13 +1,13 @@
 #!/bin/bash
-FILE=`ls YUDXC* | tail -1 2> /dev/null`
+INFILE=`ls YUDXC* | tail -1 2> /dev/null`
 OUTFILE=YUDX_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f yudx.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f yudx.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

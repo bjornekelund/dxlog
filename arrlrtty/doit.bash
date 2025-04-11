@@ -1,14 +1,14 @@
 #!/bin/bash
 INFILE=`ls ARRLR* | tail -1 2> /dev/null`
-
-echo Parsing $INFILE
 OUTFILE=ARRL_RTTY_db.txt
 
+echo Parsing $INFILE
 dos2unix -q $INFILE
+
 gawk -f arrl-rtty.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

@@ -1,21 +1,21 @@
 #!/bin/bash
-FILE=`ls RSGBBERU* | tail -1`
+INFILE=`ls RSGBBERU* | tail -1`
 DBFILE=COMMONW_db.txt
 XDTFILE=COMMONW.xdt
 
-echo Parsing $FILE...
-dos2unix -q $FILE
+echo Parsing $INFILE...
+dos2unix -q $INFILE
 
-gawk -f txt.awk $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
+gawk -f txt.awk $INFILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 
-echo Created $DBFILE
 unix2dos -q $DBFILE
+echo Created $DBFILE
 
 ../copytosourcetree.bash $DBFILE
 
-gawk -f xdt.awk $FILE | sed 's/  / /g' | sort > $XDTFILE
+gawk -f xdt.awk $INFILE | sed 's/  / /g' | sort > $XDTFILE
 
+unix2dos -q $XDTFILE $INFILE
 echo Created $XDTFILE
-unix2dos -q $XDTFILE
 
 exit

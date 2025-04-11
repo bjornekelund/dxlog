@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls ARRLVHF[^_]* | tail -1 2> /dev/null`
+INFILE=`ls ARRLVHF[^_]* | tail -1 2> /dev/null`
 OUTFILE=ARRL-VHF_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f arrlvhf.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f arrlvhf.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

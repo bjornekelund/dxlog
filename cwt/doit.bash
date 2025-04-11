@@ -1,19 +1,19 @@
 #!/bin/bash
-FILE=`ls CWOPS_* | tail -1 2> /dev/null`
+INFILE=`ls CWOPS_* | tail -1 2> /dev/null`
 DBFILE=CWT_db.txt
 XDTFILE=CWOps.xdt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f txt.awk $FILE | sort | sed 's/^\#. /\# /g' > $DBFILE
-echo $DBFILE "created"
-unix2dos -q $DBFILE $FILE
+gawk -f txt.awk $INFILE | sort | sed 's/^\#. /\# /g' > $DBFILE
+echo Created $DBFILE
+unix2dos -q $DBFILE $INFILE
 
-gawk -f xdt.awk $FILE | sed 's/  / /g' | sort > $XDTFILE
+gawk -f xdt.awk $INFILE | sed 's/  / /g' | sort > $XDTFILE
 
-echo $XDTFILE "created"
-unix2dos -q $XDTFILE
+unix2dos -q $XDTFILE $INFILE
+echo Created $XDTFILE
 
 cp $XDTFILE ../xdt
 

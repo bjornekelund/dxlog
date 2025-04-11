@@ -1,11 +1,11 @@
 #!/bin/bash
-FILE=`ls PCC_[MN]* | tail -1 2> /dev/null`
+INFILE=`ls PCC_[MN]* | tail -1 2> /dev/null`
 OUTFILE=PCC_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f pcc.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f pcc.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

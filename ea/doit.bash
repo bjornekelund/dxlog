@@ -1,16 +1,16 @@
 #!/bin/bash
 # File 2 should be the newer
-FILE1=`ls CNCW* | tail -1 2> /dev/null`
-FILE2=`ls EARTT* | tail -1 2> /dev/null`
+INFILE1=`ls CNCW* | tail -1 2> /dev/null`
+INFILE2=`ls EARTT* | tail -1 2> /dev/null`
 OUTFILE=EA_db.txt
 
-echo Parsing $FILE1 and $FILE2
-dos2unix -q $FILE1 $FILE2
+echo Parsing $INFILE1 and $INFILE2
+dos2unix -q $INFILE1 $INFILE2
 
-cat $FILE1 $FILE2 | sed 's/ //g' | gawk -f ea.awk | sort | sed 's/#. /# /g' > $OUTFILE
+cat $INFILE1 $INFILE2 | sed 's/ //g' | gawk -f ea.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE1 $INFILE2
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
