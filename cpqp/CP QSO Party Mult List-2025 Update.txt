@@ -1,0 +1,67 @@
+CANADIAN PRAIRIES QSO PARTY – Multipliers – Alphabetical,,
+Electroral District,Mult Name,Province
+Airdrie-Cochrane,AIR,AB
+Battle River-Crowfoot,BAT,AB
+Battlefords-Lloydminster-Meadow Lake,BLM,SK
+Bow River,BOW,AB
+Brandon-Souris,BRA,MB
+Calgary Centre,CCE,AB
+Calgary Confederation,CCO,AB
+Calgary Crowfoot,CCF,AB
+Calgary East,CET,AB
+Calgary Heritage,CHE,AB
+Calgary McKnight,CMC,AB
+Calgary Midnapore,CMI,AB
+Calgary Nose Hill,CNH,AB
+Calgary Shepard,CSH,AB
+Calgary Signal Hill,CSG,AB
+Calgary Skyview,CSK,AB
+Carlton Trail - Eagle Creek,CAR,SK
+Churchill - Keewatinook Aski,CHU,MB
+Desnethe-Missinippi-Churchill River,DES,SK
+Edmonton Centre,EDC,AB
+Edmonton Gateway,EGA,AB
+Edmonton Griesbach,EDG,AB
+Edmonton Manning,EDM,AB
+Edmonton Northwest,ENW,AB
+Edmonton Riverbend,ERV,AB
+Edmonton Southeast,ESE,AB
+Edmonton Strathcona,EST,AB
+Edmonton West,EDW,AB
+Elmwood - Transcona,ELM,MB
+Foothills,FTH,AB
+Fort McMurray - Cold Lake,FTM,AB
+Grande Prairie,GPR,AB
+Kildonan - St. Paul,KIL,MB
+Lakeland,LAK,AB
+Leduc-Wetaskiwin,LWT,AB
+Lethbridge,LTH,AB
+Medicine Hat - Cardston - Warner,MED,AB
+Moose Jaw - Lake Centre - Lanigan,MOO,SK
+Parkland,PRK,AB
+Peace River - Westlock,PRW,AB
+Ponoka - Didsbury,PON,AB
+Portage - Lisgar,POR,MB
+Prince Albert,PRI,SK
+Provencher,PRO,MB
+Red Deer,RED,AB
+Regina - Lewvan,RGL,SK
+Regina Qu'Appelle,RGQ,SK
+Regina Wescana,RGW,SK
+Riding Mountain,RDM,MB
+Saskatoon - University ,SKU,SK
+Saskatoon South,SKS,SK
+Saskatoon West,SKW,SK
+Selkirk - Inerlake - Eastman,SEL,MB
+Sherwood Park - Fort Saskatchewan,SPK,AB
+Souris - Moose Mountain,SOU,SK
+St. Albert - Sturgeon River,STS,AB
+St. Boniface - St. Vital,STB,MB
+Swift Current - Grasslands - Kindersley,SGK,SK
+Winnipeg Centre,WPC,MB
+Winnipeg North,WPN,MB
+Winnipeg South,WPS,MB
+Winnipeg South Centre,WSC,MB
+Winnipeg West,WWT,MB
+Yellowhead,YEL,AB
+Yorkton,YOR,SK
