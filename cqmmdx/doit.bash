@@ -1,6 +1,6 @@
 #!/bin/bash
 #FILE=CQMMDX.txt
-FILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
+INFILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
 OUTFILE=CQMMDX_db.txt
 
 echo Parsing $INFILE
