@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOWNLOADS="agb agcw foc hsc dig mcdqp"
+DOWNLOADS="agb agcw foc hsc dig mcdqp jidxc"
 
 echo $DOWNLOADS
 

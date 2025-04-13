@@ -2382,6 +2382,7 @@ K9DX,John,184,N Barrington IL
 K9EI,Matt,3391,Ellettsville IN
 K9EU,Erik,886,Naperville IL
 K9EXY,Rick,IN,Evansville IN
+K9EZ,Kent,3721,Oak Island NC
 K9FD,Merv,IL,Waterloo IL
 K9FN,Dave,IN,West Lafayette IN
 K9FS,Bob,1524,Waukegan IL

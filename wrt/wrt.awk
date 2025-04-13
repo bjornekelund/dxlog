@@ -24,12 +24,13 @@ BEGIN {
     ID = $ex;
     if (call ~ /^[A-Z0-9/]{3,}$/ && (name != "" || ID != "")) {
   #    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr";    
-      if (call !~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]*[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/) {
+      if (call !~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]*[0-9]|W[A-Z]?[0-9]|V[A-EOXY])/) {
         ID = "";
         if (call ~ /^3B9/) ID = "3B9";
         if (call ~ /^3DA/) ID = "3DA";
         if (call ~ /^4O/) ID = "4O";
-        if (call ~ /^4U1UN/) ID = "4U";
+        if (call ~ /^4U1UN$/) ID = "4U";
+        if (call ~ /^4U1WB$/) ID = "DC";
         if (call ~ /^4[X-Z]/) ID = "4Z";
         if (call ~ /^5T/) ID = "5T";
         if (call ~ /^6Y/) ID = "6Y";

@@ -5,6 +5,7 @@
 # NOT for CQ-M International
 # Send any info, correction direct to ve2fk@arrl.net
 # Thanks PY4WAS CWJF Group - President for Members DATA
+# Thanks SM7IUN for his help
 3B8DB,AFM,
 3B8HH,AF,
 3D2AG,OCM,
