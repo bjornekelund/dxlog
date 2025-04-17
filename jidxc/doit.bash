@@ -1,10 +1,6 @@
 #!/bin/bash
-INFILE=JIDXC.txt
+INFILE=JIDXCW*.txt
 OUTFILE=JIDXC_db.txt
-
-echo Downloading $INFILE
-
-curl -sS http://jidx.org/jidx-hist.txt -o $INFILE
 
 dos2unix -q $INFILE
 

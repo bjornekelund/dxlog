@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2025-04-08
+# 1-Last Edit,2025-04-15
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -440,6 +440,7 @@ AC4SJ,SARAH,VA,
 AC4XS,MIKE,OH,
 AC4YD,DARRELL,KY,
 AC4ZH,,KY,
+AC4ZH,PAUL,KY,
 AC4ZM,MARK,FL,
 AC5AA,,TX,
 AC5BX,AL,NM,
@@ -457,7 +458,7 @@ AC5P,MIKE,OK,
 AC5T,LYNN,TX,
 AC5TM,,LA,
 AC5TU,JIM,TX,
-AC5XK,DON,DC,
+AC5XK,DON,DC,or MA
 AC6CZ,CHARLEE,CA,
 AC6GO,ROB,CA,Sunnyvale CA
 AC6JA,MIKE,CA,
@@ -1509,7 +1510,7 @@ K0VH,DAVE,MN,
 K0VK,,CO,
 K0VM,VIC,IA,
 K0VU,GREG,MN,Shorewood MN
-K0VW,John,WI,
+K0VW,John,MN,
 K0VW/4,JOHN,GA,normaly Apple Valley MN
 K0VXU,RUSS,KS,
 K0WA,LEROY,KS,
@@ -3938,6 +3939,7 @@ KA3TTT,AUSTIN,PA,Philadelphia PA
 KA3UAW,SHELL,PA,Scranton PA
 KA3UIP,JOE,PA,Clarion PA
 KA3UOL,,PA,
+KA3VON,NEAL,OH,
 KA3WGF,JIMMY,PA,
 KA3WSZ,,DE,
 KA3WZY,DAVE,SC,
@@ -8377,6 +8379,7 @@ N8OO,VIC,LA,
 N8PCN,DALE,OH,
 N8PDS,TIM,OH,
 N8PEM,CHRIS,OH,Columbus OH
+N8PMR,JON,MI,
 N8PW,BILL,OH,Canton OH
 N8PWM,CRAIG,MI,
 N8QAR,BRIAN,TN,Bartlett TN
@@ -9483,6 +9486,7 @@ OK2BOB,BOB,DX,Olomouc Czech Republic
 OK2NT,JOE,DX,Havirov-Mesto Czech Republic
 OK2SG,STAN,DX,Rosice u Brna Czech Republic
 OK2VV,VITA,DX,Contest Station Novy Jicin Czech Republic
+OM1APK,PETER,DX,
 OM2VL,LACI,DX,Dunajska Streda Slovak Republic
 OM3CLS,VLAD,DX,Bystrica Slovak Republic
 OM3JA,JOZEF,DX,Svaty Jur Slovak Republic
@@ -9525,6 +9529,7 @@ PF5X,Enno,DX,Cuijk Netherlands
 PF6IK,THEO,DX,Amsterdam Netherlands
 PG4I,Jo,DX,Culemborg Netherlands
 PH60VHSC,Frans,DX,(PA0INA)  60th VHSC
+PJ2/AG3I,MARTY,DX,
 PT7BT,NETO,DX,Fortaleza Brazil
 PW8AO,ANDERSON,DX,
 PY1AMF,Mar,DX,Paranagua Brazil
@@ -10629,6 +10634,7 @@ W0PW,,MO,
 W0PWE,,IA,
 W0QCB,JIM,MO,
 W0QD,MARK,CO,?
+W0QDL,GARY,CO,
 W0QF,MARK,CO,?
 W0QH,,IA,
 W0QIN,,MN,
@@ -11838,6 +11844,7 @@ W4RJH,Russ,VA,Forest VA
 W4RK,BILL,MO,
 W4RKC,GARY,VA,
 W4RM,BILL,VA,
+W4RMS,DON,FL,
 W4RN,MIKE,VA,
 W4ROT,,NC,
 W4RQ,,VA,
@@ -11961,7 +11968,7 @@ W4ZD,,FL,
 W4ZE,TED,FL,
 W4ZE/3,,PA,
 W4ZF,MARK,GA,Lawrenceville GA
-W4ZGR,PETER,ME,
+W4ZGR,PETER,FL,
 W4ZGR/1,PETER,ME,
 W4ZHA,COREY,TN,
 W4ZIP,MARK,OH,Boardman OH

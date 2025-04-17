@@ -6,8 +6,8 @@ echo $DOWNLOADS
 
 for contest in $DOWNLOADS; do
   echo doing $contest
-  pwd
   cd $contest
+  pwd
   ./doit.bash
   cd ..
 done

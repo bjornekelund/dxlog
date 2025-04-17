@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3721
-# Last updated 2025-04-13
+# Contains members up to #3735
+# Last updated 2025-04-17
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1818,6 +1818,7 @@ K3UL=Bob;1673
 K3UQ=Kelly;3116
 K3US=John;VA
 K3UT=Phil;1537
+K3UZ=Bill;3724
 K3VIG=Ron;PA
 K3VTS=Matt;PA
 K3VZ=Don;PA
@@ -5370,6 +5371,7 @@ VK6GX=Phil;2425
 VK6HG=Rob;1029
 VK6LW=Kev;3362
 VK6T=Kev;3362
+VK6VZ=Steve;3735
 VK7CW=Steve;1196
 VK7TO=Lance;3575
 VK7ZA=Lance;3575
@@ -5524,6 +5526,7 @@ W1MTT=Curt;830
 W1ND=Glen;3101
 W1NN=Hal;785
 W1NU=Ryan;MA
+W1NV=Mike;3726
 W1OL=Guy;MA
 W1OM=Kevin;FL
 W1OO=;ME
@@ -5558,7 +5561,7 @@ W1XT=Bob;AZ
 W1ZF=Skip;MA
 W1ZT=Geo;174
 W2AFE=Jay;PA
-W2ANZ=Jon;CWA
+W2ANZ=Jon;3723
 W2APF=Thaire;1627
 W2CDO=Peter;2526
 W2CQ=Bill;928
@@ -6557,7 +6560,7 @@ WS0TA=Fred;58
 WS1D=Chuck;ME
 WS1L=Chuck;2411
 WS4G=Peter;TX
-WS4K=Eric;FL
+WS4K=Eric;3722
 WS4P=Al;SC
 WS5C=Ham;2760
 WS5D=Jack;3017
