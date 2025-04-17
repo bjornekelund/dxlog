@@ -1,5 +1,6 @@
 # JIDXC prefill database
-# Based on http://jidx.org/jidx-hist.txt
+# Data collected and maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2025-04-17
 7J1ABD/1=11
 7J1ABD=10
