@@ -1,10 +1,9 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2024-10-16
-# Last number listed 267
+# Last edit,2025-04-16
+# Last number listed 280
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
-# Thanks Theo/PA3HEN for update/corrections.
 # This is helping file, LOG what is sent.
 # Use UDC file NTC_QP by G4OGB
 
@@ -18,7 +17,7 @@ AE1N,Lane,171,(NH)
 CT7AUP,David,118,
 DC8ED,Karl,77,
 DF0VK,Bert,235,
-DF1XC,Doc,NM,
+DF1XC,Doc,279,
 DF7DJ,Bert,235,
 DF4WX,Micha,83,
 DF7TV,Tom,64,
@@ -27,11 +26,12 @@ DJ0SP,Hannes,124,
 DJ1PQ,Robert,NM,
 DJ3TU,Norbert,146,
 DJ5CW,Fabian,99,
+DJ5YL,Joane,278,
 DJ6QQ,Uwe,233,
 DJ7AO,Stefan,105,
 DJ9BM,Volker,84,
 DK1AX,Klaus,NM,
-DK3ABM,Gosse,222, ex PG5N
+DK3ABM,Gosse,222,ex PG5N
 DK8KK,Karl,79,
 DK8RE,Hans,199,
 DK9HE,Andy,89,
@@ -40,7 +40,7 @@ DL1DXL,Lothar,72,
 DL1JDQ,Stan,193,
 DL1LAF,Joachim,58,
 DL1SBF,Lothar,137,
-DL1UNK,Uwe,NM,
+DL1UNK,Uwe,275,
 DL1YGH,Matt,266,
 DL3GJ,Greg,186
 DL3HAE,Wolf,138,
@@ -66,7 +66,9 @@ EA3NO,LLuis,69,
 EA5FID,Juan,67,
 EA5IUY,Gary,108,
 EA7EGU,Manuel,197,
+EA7LCY,Javi,269,
 EI9KO,Bob,234,
+ES3KYR,Jos,280,
 F5IYJ,Phil,251,
 F5NLX,Jean,41,(Jean-Marie) 
 F6DXE,Dick,219,
@@ -92,12 +94,14 @@ GW4D,Keith,106,
 GW4OKT,Keith,106,
 G4WWZ,Alan,NM,
 G4YTK,Steve,NM,
+GI0BEY,Scotty,271,
 HA7RJA,Rob,264,
 HA8UT,Pista,232,
 HG8Z,Pista,232,
 HB9AXG,Tony,NM,
 HB9CSA,Fritz,74,
 HB9EWO,Clemens,155,
+HK3CQ,juan,272,
 I5ECW,Vanni,164,
 I6HWD,Dom,187,
 IK0PHU,Tony,47,
@@ -116,6 +120,7 @@ K3PA,Drew,NM,(KS)
 K3QP,Bill,248,(PA)
 K4HEN,Theo,3,(WI)
 K5QR,Andy,109,(TX)
+K7KYR,Jos,280,
 KA1ULN,Niece,258,(MA)
 KD2ECB,Tilio,263,(IU3BRO)
 KF0CR,Luc,98,
@@ -126,7 +131,7 @@ LX/ON9TT,Marc,196,(ON9TT)
 M0HEN,Theo,3,(PA3HEN)
 M0KTZ,Enzo,191,
 M0NNQ,Leo,229,
-M0MPM,Micheal,227,
+M0MPM,Michael,227,
 M0SDB,Danny,254,
 M3F,Mac,36,(G3WZD)
 M3O,Danny,254,(M0SDB)
@@ -168,6 +173,8 @@ ON9TT,Marc,196,
 OS4U,David,185,
 OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,(ON6QS)
+OV5YL,Joana,278,
+OV1XC,Doc,279,
 PA0AGF,Remy,131,
 PA0BAK,Ron,9, 
 PA0CMU,Carel,76,
@@ -182,7 +189,8 @@ PA0KBN,Klaas,221,
 PA0KGB,Martin,141,
 PA0LCE,Louis,139,
 PA0M,Thieu,110,
-PA0MIR,Nico,172,
+PA0MIR,Nico,172,SK
+PA0O,Jaap,270,
 PA0PJE,Peter,243,
 PA0Q,Hans,14,
 PA0QAW,Jac,177,
@@ -240,7 +248,8 @@ PA3GBK,Aeilko,130,
 PA3GEO,Robert,17,
 PA3GNZ,Gosse,4,(Tjeerd) 
 PA3GPX,Rene,260,
-PA3GSV,Jan,223, 
+PA3GSV,Jan,223,
+PA3GXB,Hans,276, 
 PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
 PA3HK,Henry,126,
@@ -265,6 +274,7 @@ PA7F,Frank,181,
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
 PA7RM,Rob,31, 
+PA7RW,Rob,277,
 PA8AD,Ad,121,
 PA8MM,Victor,250,
 PA9CW,Ton,81,
@@ -286,6 +296,8 @@ PD5N,Eric,179,
 PD7FCC,Frans,218,
 PD7Q,Jacob,178,
 PD8GZ,Gerrit,246,
+PD8MD,Anthonie,268,
+PD9D,Hugo,273,
 PE0CD,Chris,163,
 PE1CDA,Peter,167,
 PE1EEC,Martin,214,
@@ -312,10 +324,12 @@ PG6NTC,JO,100,NTC Special Event Call
 PG7R,Ronald,61, 
 PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
-S51Z,Zoran,226,
+S51Z,Zoki,226,(Zoran)
 S58MU,Milan,66,
-SF6W,Geo,238, (SM6EWB)
+SC6O,Ben,274,(SM6OEF)
+SF6W,Geo,238,(SM6EWB)
 SM6EWB,Geo,238,
+SM6OEF,Ben,274,(also SC6O)
 SO5CW,Fabian,99,
 SP7N,Piotr,111,
 SP7OGP,Piotr,111,

@@ -1,12 +1,12 @@
 #!/bin/bash
 
-FILE=`ls 9ADX_2* | tail -1 2> /dev/null`
+INFILE=`ls 9ADX_2* | tail -1 2> /dev/null`
 OUTFILE=9ADX_db.txt
 
-dos2unix -q $FILE
-echo Parsing $FILE
+dos2unix -q $INFILE
+echo Parsing $INFILE
 
-gawk -f 9adx.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f 9adx.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

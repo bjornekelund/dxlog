@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls HamSpirit* | tail -1 2> /dev/null`
+INFILE=`ls HamSpirit* | tail -1 2> /dev/null`
 OUTFILE=HAMSPIRIT_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f hamspirit.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f hamspirit.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-echo $OUTFILE "created"
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE="WWPMC_2024.txt"
+INFILE="WWPMC_2024.txt"
 OUTFILE=WWPMC_db.txt
 
-dos2unix -q $FILE
-echo "Parsing" $FILE...
+dos2unix -q $INFILE
+echo "Parsing" $INFILE...
 
-gawk -f wwpmc.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f wwpmc.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo "Created" $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

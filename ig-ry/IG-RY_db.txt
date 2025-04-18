@@ -1,7 +1,7 @@
 # Database for IG-RY, SCC RTTY and RTTYops WW DX contests
 # Based on data collected and maintained by Claude VE2FK
 # Report errors and updates to ve2fk@arrl.net
-# Last updated 2025-04-10
+# Last updated 2025-04-13
 2E0CVN=2007
 2E0GBC=2006
 2E0INN=2003
@@ -1443,6 +1443,7 @@ IW3IMM=2005
 IW3RQT=1994
 IW3RUA=1995
 IW3SRG=2005
+IW3SSD=2004
 IW4EGX=2001
 IW4EII=1955
 IW5ALG=1975

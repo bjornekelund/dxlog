@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls StewPerry[!_]* | tail -1 2> /dev/null`
+INFILE=`ls StewPerry[!_]* | tail -1 2> /dev/null`
 OUTFILE=StewPerry_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f stewperry.awk $FILE | sort | sed 's/^#./#/g' > $OUTFILE
+gawk -f stewperry.awk $INFILE | sort | sed 's/^#./#/g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

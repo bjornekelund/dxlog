@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls K1USNSST-* | tail -1 2> /dev/null`
+INFILE=`ls K1USNSST-* | tail -1 2> /dev/null`
 OUTFILE=K1USN_SST_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f k1usn.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f k1usn.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE $FILE
 
 ../copytosourcetree.bash $OUTFILE
 

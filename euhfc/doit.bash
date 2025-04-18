@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls EUHFC[^_]* | tail -1 2> /dev/null`
+INFILE=`ls EUHFC[^_]* | tail -1 2> /dev/null`
 OUTFILE=EUHFC_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-tr -d ' ' < $FILE | gawk -f euhfc.awk | sort | sed 's/^\#. /\# /g' > $OUTFILE
+tr -d ' ' < $INFILE | gawk -f euhfc.awk | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls QSOP* | tail -1 2> /dev/null`
+INFILE=`ls QSOP* | tail -1 2> /dev/null`
 OUTFILE=KSQP_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f ksqp.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f ksqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-echo "Created" $OUTFILE
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

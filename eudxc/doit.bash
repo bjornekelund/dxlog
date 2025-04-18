@@ -1,14 +1,14 @@
 #!/bin/bash
-FILE=`ls EU_DXC* | tail -1 2> /dev/null`
+INFILE=`ls EU_DXC* | tail -1 2> /dev/null`
 OUTFILE=EUDXC_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f eudxc.awk $FILE > $OUTFILE
+gawk -f eudxc.awk $INFILE > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

@@ -7,8 +7,8 @@ dos2unix -q $INFILE
 
 gawk -f arrl160.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
-unix2dos -q $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 

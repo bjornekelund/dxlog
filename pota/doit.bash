@@ -1,13 +1,13 @@
 #!/bin/bash
-FILE=`ls POTA-* | tail -1 2> /dev/null`
+INFILE=`ls POTA-* | tail -1 2> /dev/null`
 OUTFILE=POTA_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f pota.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f pota.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

@@ -1,12 +1,12 @@
 #!/bin/bash
-FILE=SPDXRTTY_KP.txt
+INFILE=SPDXRTTY_KP.txt
 OUTFILE=SPDXRTTY_db.txt
 
-dos2unix -q $FILE
+dos2unix -q $INFILE
 
-gawk -f spdx-rtty.awk $FILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f spdx-rtty.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

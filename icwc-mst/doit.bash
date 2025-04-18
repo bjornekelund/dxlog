@@ -1,13 +1,13 @@
 #!/bin/bash
-FILE=`ls ICWC-* | tail -1 2> /dev/null`
+INFILE=`ls ICWC-* | tail -1 2> /dev/null`
 OUTFILE=ICWCMST_db.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f icwc-mst.awk $FILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f icwc-mst.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE $FILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

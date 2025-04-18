@@ -1,13 +1,13 @@
 #!/bin/bash
-FILE=`ls AC* 2> /dev/null`
+INFILE=`ls AC* 2> /dev/null`
 OUTFILE=POLAR-radioman.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f polar-radioman.awk $FILE > $OUTFILE
+gawk -f polar-radioman.awk $INFILE > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE

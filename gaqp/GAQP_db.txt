@@ -1,7 +1,7 @@
 # Georgia QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-04-06
+# Last updated 2025-04-13
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -110,7 +110,6 @@ AD0YL=MO
 AD1C=CO
 AD1CT=CO
 AD1L=MA
-AD4EB=TN
 AD4GG=TN
 AD4IE=NC
 AD4NY=AL

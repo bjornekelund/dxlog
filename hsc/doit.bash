@@ -1,5 +1,4 @@
 #!/bin/bash
-
 DBFILE=HSC_db.txt
 XDTFILE=hsc.xdt
 

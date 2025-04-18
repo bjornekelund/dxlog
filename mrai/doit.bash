@@ -1,7 +1,6 @@
 #!/bin/bash
 OUTFILE=mults.txt
 
-
 gawk '
 BEGIN {
     for (i = 1970; i < 2025; i++) {
