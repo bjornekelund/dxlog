@@ -15,7 +15,7 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $3 !~ /^(MD|DC)$/) {
+  else if ($0 !~ /^(!|#|$)/ && $3 !~ /^(MD|DC|)$/) {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
   }
 }

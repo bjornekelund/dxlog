@@ -1,7 +1,7 @@
 !!Order!!, Call, Name, Exch1, UserText
 # QSOP_QC
 # QSOPARTY QC
-# Last Edit,2025-04-10
+# Last Edit,2025-04-17
 # Send new info/corrections DIRECT to ve2fk@arrl.net 
 # Merci/Thanks VE2VAB for update/mises a jour.
 # Thanks Bjorn/SM7IUN for his help
@@ -13,6 +13,7 @@ VA2CO,MICHEL,SLS,Saguenay Lac St-Jean
 VA2CPX,Clarence,OTS,Outaouais
 VA2CS,CORAL,OTS,Outaouais
 VA2CZ,PETE,ETE,Estrie
+XM2Z,PETE,ETE,Estrie  (VA2CZ)
 VA2EO,Eric,CDQ,Centre du Quebec
 VA2EW,GILLES,MTL,Montreal
 VA2GRU,Richard,MEE,Monteregie
@@ -36,7 +37,7 @@ VA2SG,PETE,SLS,Saguenay Lac St-Jean
 VA2UK,ALAN,OTS,Outaouais
 VA2UP,FABI,MTL,Montreal
 VA2UR,GUY,ETE,Estrie
-VA2VT,Nick,,(VE2NCG) Mobile 
+VA2VT,Nick,LVL,Laval 
 VA2WA,VIC,CDQ,Centre du Quebec
 VA2WY,Rene,CAS,MT-Radar St-Sylvestre
 VA2YZX,SLY,CDQ,Cote Nord
@@ -54,6 +55,8 @@ VE2CWQ,RC,LDE,Lanaudiere
 VE2CWT,PHIL,QUE,Capitale-Nationale
 VE2DC,MEL,MTL,Montreal
 VE2DEN,FRED,QUE,Capitale-Nationale
+VE2DM,Daniel,MEE,Montérégie-Beauharnois
+VE2DM/M,Daniel,MEE,Montérégie-Beauharnois
 VE2DSB,DAN,MTL,Montreal
 VE2DWA,CLAUDIO,OTS,Outaouais
 VE2DX,RICHARD,LVL,Laval
@@ -123,6 +126,7 @@ VE2YUC,Martin,MEE,Monteregie
 VE2ZAZ,BERT,OTS,Outaouais
 VE2ZEB,Jean-Michel,MEE,Monteregie
 VE2ZM,SIMON,LDE,Lanaudiere  (VE2SRP)
+VE2ZQ,Pete,SLS,Saguenay-Lac-Saint-Jean
 
 # Stations hors Quebec
 AA0AC,DAVE,MN,

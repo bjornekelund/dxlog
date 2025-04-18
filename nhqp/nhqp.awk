@@ -18,7 +18,7 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $3 != "NH" ) {
+  else if ($0 !~ /^(!|#|$)/ && $3 !~ /^(NH|)$/ ) {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
   }
 }

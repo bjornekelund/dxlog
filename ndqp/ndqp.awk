@@ -22,7 +22,7 @@ BEGIN {
       printf("%s=%s\n", toupper($1), toupper($col));
     }
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#|$)/ && $col != "") {
     printf("Ignored: %s\n", $0) > "/dev/stderr";
   }
 }
