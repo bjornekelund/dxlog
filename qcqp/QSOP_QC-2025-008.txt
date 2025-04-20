@@ -1,7 +1,7 @@
 !!Order!!, Call, Name, Exch1, UserText
 # QSOP_QC
 # QSOPARTY QC
-# Last Edit,2025-04-17
+# Last Edit,2025-04-19
 # Send new info/corrections DIRECT to ve2fk@arrl.net 
 # Merci/Thanks VE2VAB for update/mises a jour.
 # Thanks Bjorn/SM7IUN for his help
@@ -43,6 +43,7 @@ VA2WY,Rene,CAS,MT-Radar St-Sylvestre
 VA2YZX,SLY,CDQ,Cote Nord
 VA2ZIO,Isa,OTS,Outaouais
 VB2QC,Tom,OTS,Outaouais (VA2NW)
+VB2QUEER,,,Mobile VA2EMZ et N4ML
 VE2BCW,Michel,OTS,Outaouais
 VE2BWL,GUY,ETE,Estrie
 VE2CBW,CLAUDE,MEE,Monteregie

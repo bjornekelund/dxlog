@@ -1,7 +1,7 @@
 # Ontario QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-04-17
+# Last updated 2025-04-20
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1921,8 +1921,7 @@ VA3AZA=PEL
 VA3BD=TOR
 VA3BFR=PSD
 VA3BIC=NIA
-VA3CCO=TOR
-VA3COJ=SIM
+VA3CCO=PET
 VA3CW=TOR
 VA3CWT=TOR
 VA3DDX=SIM
@@ -2334,7 +2333,7 @@ VE3BZ=PET
 VE3CAA=HUR
 VE3CBW=MSX
 VE3CCN=TOR
-VE3CCO=TOR
+VE3CCO=LAN
 VE3CDX=HTN
 VE3CFK=LAM
 VE3CGR=YRK

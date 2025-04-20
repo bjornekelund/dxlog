@@ -1,5 +1,5 @@
 !!Order!!,Call,Exch1,UserText
-# Last Edit,2025-04-15
+# Last Edit,2025-04-19
 # QSOP_ON
 # QSOPARTY ON
 # Send any new info or corrections direct ve2fk@arrl.net
@@ -23,8 +23,7 @@ VA3AZA,PEL,
 VA3BD,TOR,
 VA3BFR,PSD,
 VA3BIC,NIA,
-VA3CCO,TOR,(BONUS) City of Toronto
-VA3COJ,SIM,Simcoe County
+VA3CCO,PET,(BONUS) 
 VA3CW,TOR,
 VA3CWT,TOR,
 VA3DDX,SIM,
@@ -298,7 +297,7 @@ VE3BZ,PET,
 VE3CAA,HUR,
 VE3CBW,MSX,
 VE3CCN,TOR,
-VE3CCO,TOR,(BONUS) City of Toronto
+VE3CCO,LAN,(BONUS) 
 VE3CDX,HTN,
 VE3CFK,LAM,
 VE3CGR,YRK,
