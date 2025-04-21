@@ -16,6 +16,7 @@ echo Created $DBFILE
 gawk -f xdt.awk $INFILE | sed 's/  / /g' | sort > $XDTFILE
 
 unix2dos -q $XDTFILE $INFILE
+cp $XDTFILE ../xdt
 echo Created $XDTFILE
 
 exit
