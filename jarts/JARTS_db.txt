@@ -1,4 +1,4 @@
-#@2024
+#@2025
 # JARTS database for 2024
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net

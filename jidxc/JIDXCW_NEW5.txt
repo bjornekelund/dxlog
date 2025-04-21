@@ -1,5 +1,4 @@
-# Current contest: JIDX Japan International DX
- 
+# Current contest: JIDX Japan International DX 
 !!Order!!, Call, Exch1, UserText,
 # JIDXCW
 # JIDXSSB
