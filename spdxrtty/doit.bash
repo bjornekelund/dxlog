@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=SPDXRTTY_KP.txt
+INFILE=SPDXr*
 OUTFILE=SPDXRTTY_db.txt
 
 dos2unix -q $INFILE

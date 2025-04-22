@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3735
-# Last updated 2025-04-18
+# Last updated 2025-04-22
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -414,7 +414,7 @@ AI2U=Tom;NY
 AI3A=Alan;3053
 AI3W=Rick;UT
 AI4FH=WES;VA
-AI5IN=Mart;TX
+AI5IN=Mart;3728
 AI6CU=Tom;CWA
 AI6DO=Ryan;CA
 AI6IE=Step;CA
