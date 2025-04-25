@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3735
-# Last updated 2025-04-22
+# Last updated 2025-04-25
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -953,6 +953,7 @@ FM/VE3DZ=Yuri;21
 FO/K7TD=Tery;1948
 FR/F5SGI=Jean;2532
 G0AYD=Dave;G
+G0AYN=Ian;3729
 G0BQV=Mary;G
 G0BYH=Geoff;G
 G0CEJ=Harry;G
@@ -974,6 +975,7 @@ G0LLX=Andy;2954
 G0MDR=Fred;G
 G0MFR=Gareth;2490
 G0MGM=Rob;1771
+G0MGX=Mark;G
 G0NIG=Nigel;G
 G0OBQ=Gerry;3385
 G0OOD=Tim;2941
@@ -3029,6 +3031,7 @@ KL9A=Chris;1576
 KM0O=Tony;1037
 KM3A=Dave;2611
 KM3T=Dave;50
+KM4CAJ=Andrew;GA
 KM4CH=John;2039
 KM4CUB=Ron;GA
 KM4DR=Gale;TX
@@ -3053,6 +3056,7 @@ KM7Q=Bob;1353
 KM7W=Chris;1576
 KM9M=Zig;854
 KM9R=Mike;1502
+KN1MT=Tyler;TN
 KN2D=Ken;3566
 KN2X=John;NY
 KN4DEB=Arnie;2658
@@ -4688,6 +4692,7 @@ PG4I=Jo;2225
 PG5M=Gerben;3576
 PG6F=Dick;3175
 PG7V=Jan;PA
+PJ2/AG3I=Marty;2579
 PJ2/NF9V=Rudy;593
 PJ2/W3US=Rusty;2668
 PJ2/W4IPC=Bob;PJ2
