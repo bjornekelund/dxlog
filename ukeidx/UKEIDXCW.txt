@@ -2,7 +2,7 @@
 !!Order!!,Call,Exch1 
 #
 # Current contest: UKEIDXCW
-# Last Edit,2022-02-06
+# Last Edit,2025-04-25
 # Send correction direct to ve2fk@arrl.net
 # UKEIDXCW
 # UKEIDXSSB
@@ -764,8 +764,7 @@ G4IDL,SD,
 G4IIY,CA,
 G4IKR,,
 G4IQW,CV,
-G4IRN,KT,
-G4IRN/P,,
+G4IRN,SY,
 G4IUA,KT,
 G4IUF,HG,
 G4IUP,BD,
@@ -1619,6 +1618,7 @@ M5KJM,SK,
 M5LRO,ME,
 M5O,WS,
 M5RIC,DT,
+M5S,SY,
 M5T,WA,
 M5X,OL,
 M5Z,NW,
