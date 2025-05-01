@@ -1,7 +1,7 @@
 # Original file from NA3M, RN9C, RM1F
 # Thanks SM7IUN
 !!Order!!,Call,Exch1,
-# Last Edit,2024-04-27
+# Last Edit,2025-04-29
 # DZCUP
 # Send any new info or corrections direct ve2fk@arrl.net
 2E0BPP,IO83
@@ -2965,7 +2965,7 @@ R1IX,LP51
 R1LK,SP02
 R1LN,SP03
 R1MA,LO36
-R1MJ,SP07
+R1MJ,LO08
 R1MQ,SP18
 R1NAE,KP74
 R1ND,KP71
