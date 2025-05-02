@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-04-29
+# Last Edit,2025-04-30
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -4673,6 +4673,7 @@ PA3DZM,Eric,2569,Tilburg Netherlands
 PA3EVY,Willy,,(PI4DX) Terneuzen Netherlands
 PA3GDG,Fred,PA,Hendrik Ido Ambacht Netherlands
 PA3GLH,Rimus,,Doorn Netherlands
+PA3GPX,Rene,,Veghel Netherlands
 PA3GRU,Dick,3174,(Also PG6F) Dordrecht Netherlands
 PA3GSV,Jan,2932,Alphen aan den Rijn Netherlands
 PA3HEN,Theo,2481,(K4HEN) Purmerend Netherlands
@@ -5065,6 +5066,7 @@ UT6UA,Dim,UR,Kiev Ukraine
 UT7UJ,Dim,619,Kiev Ukraine
 UT7UV,Sasha,,Kiev Ukraine
 UU5JZ,Stan,,Simferopol Crimea Ukraine
+UW2U,Alex,3487,(UR8UQ)  Ukraine
 UW2ZO,Igor,,Nikolaev Ukraine
 UW3HM,Slava,1810,Poitava Ukraine
 UW3QV,Victor,,Primorsk Ukraine
@@ -5087,6 +5089,7 @@ UY5MB,Vlad,,Lugansk Ukraine
 UY5QZ,Val,,Zaporozh'e Ukraine
 UY7LU,Alex,,Kharkov Ukraine
 UZ1WW,Bob,527,Lviv Ukraine
+V4/AC6ZM,JUAN,2419,
 V21XN,Bill,KY,Richmond KY USA
 V26K,Bud,242,Antigua (AA3B)
 V26M,Alan,727,(N3AD) Antigua and Barbuda
@@ -5100,6 +5103,7 @@ V31UB,Colin,418,Belize
 V31WK,KW,2182,(VE7KW)
 V47NT,Andy,2036,(N2NT)
 V47UM,Bill,1699,(W3UL) Nevis West Indies
+V49K,JUAN,2419,(AC6ZM)
 VA1CWO,Gerry,191,(W1VE)
 VA1RST,Roger,2049,Halifax NS
 VA2AGW,Andy,2328,Mansonville QC
