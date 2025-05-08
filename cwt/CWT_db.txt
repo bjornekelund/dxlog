@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3735
-# Last updated 2025-05-02
+# Last updated 2025-05-08
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -4791,6 +4791,7 @@ S51NM=Herman;S5
 S51RU=Marjan;S5
 S51V=Silvo;S5
 S51WO=Sam;S5
+S52CQ=Jure;S5
 S52R=Tone;S5
 S53M=Miha;S5
 S53O=Ljubo;S5
@@ -6066,6 +6067,7 @@ W8BO=Phil;OH
 W8BUB=Tom;OH
 W8BZY=Jim;2345
 W8CAR=Dan;1220
+W8CS=Craig;CWA
 W8DHG=Cory;OH
 W8DN=Mike;1813
 W8DO=Dave;MI
@@ -6221,6 +6223,7 @@ WA1S=Ann;196
 WA1SKQ=Rich;342
 WA1T=Al;2359
 WA1VAB=Henry;1839
+WA1VEE=Jos;RI
 WA1WDE=John;MA
 WA1X=Bud;2427
 WA1Z=Bob;NH
