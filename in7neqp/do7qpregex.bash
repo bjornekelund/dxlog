@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=7qp_abrv.txt
+FILE=7qp-multipliers.txt
 OUTFILE=regex-7qp.txt
 
 echo Parsing $FILE
