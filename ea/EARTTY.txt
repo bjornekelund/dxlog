@@ -1,7 +1,14 @@
-# Spanish provinces database including special exchanges HQ and SMR
-# Data collected and maintained by Claude VE2FK
-# Modified by Nino EB7A
-# Last updated 2025-05-13
+
+!!Order!!,Call,Exch1,UserText
+# 
+# EA/Spain prov.
+# EARTTY
+# KINGEACW
+# KINGEASSB
+# Updated from the log of VE2FK and Web site
+# Last Edit,2024-05-13
+# Send info, correction direct to ve2fk@arrl.net
+# Thanks Nino EB7A for update
 
 AM01CYH,AV
 AM01EN,SG

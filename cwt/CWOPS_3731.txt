@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# Last Edit,2025-05-07
+# Last Edit,2025-05-13
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1377,6 +1377,7 @@ JA1LZR,Joe,1010,Suginamiku Tokyo Japan
 JA1NUT,Shin,15,Mohka Tochigi Japan
 JA2BCQ,Kaz,,HAZUGUN AICHI
 JA2HYD,Toshi,,Gifu-Pref Japan
+JA2NPS,FUMI,
 JA3AVO,Masumi,1200,Itami
 JA4IIJ,Takeshi,733,Hiroshima Japan
 JA4MRL,MasaG,269,Okayama Japan
@@ -1385,6 +1386,7 @@ JA6LCJ,Yuki,,(Yukihisa) Kumamoto Japan
 JA7QVI,Tac,,Miyagi Japan
 JA8CDG,Ken,161,Machida Tokyo Japan
 JA8RUZ,Toshi,3632,Hokkaido Japan
+JE0KLX,NORI,
 JE1PEN,Ted,3601,Tokyo Japan (WC2A)
 JE1TRV,Atsu,141,Machida-City Tokyo Japan (JA Amb.)
 JE8UHY,Toshi,,Honkaido Japan
@@ -1395,16 +1397,23 @@ JF1UOW,Mit,3452,Kanagawa Japan
 JF1UOX,Misa,3011,Kanagawa Japan (NQ1J)
 JF2FIU,Yoshifumi,,Toyohashi Japan
 JF3KNW,Nobu,394,Kato City Japan
+JF3SNJ,NAKA,
+JH0FOG,KAZU,
 JH1GNU,Shigeru,713,Kanagawa Japan
 JH1JDI,Mai,1199,Asaka Japan
 JH3MUV/2,Yoshie,,(JK2VOC) Mie Japan
 JI1RXQ,Hiro,2223,Ibaraki Japan
 JI1TYA,Toshiyuki,,Tokyo Japan
+JI2MWH,TAKE,
 JI3CJP,Kan,1140,Ohmi-Hachiman city Japan
 JJ1BDX,Kenji,384,Toyhonaka City Osaka Japan
 JJ1FXF,Hiro,2898,Yachimata City Japan
 JJ8KGZ,Leo,,Hokaido Japan
+JK0AAU,AKI,
 JK1JHB,Satoru,879,Chiba Japan
+JK1LPW,TOSHI,
+JK1PIG,NAO,
+JK1SBP,MARK,
 JK2VOC,Yoshie,,Tsu-City Mie Japan
 JK8PBO,Masa,,Hokkaido Japan
 JL1GEL,Aki,1202,Tokyo Japan
@@ -1418,8 +1427,10 @@ JO1LVZ,OM,,Saitama Japan
 JO4JFH,Hiro,,Okayama Japan
 JP3REM,Bill,3390,Osaka Japan
 JQ1LCW,Lucy,3288,Inagi Tokyo Japan
+JQ3DEW,SHIN,
 JR1NHD,Shin,,Kawasaki Kanagawa Japan
 JS1DEH,YU,,Tochigi Japan
+JS1YOC,KEN,
 JS2AHG,Astu,141,Mishima City Japan
 JT1AA,Gan,,Ulaanbaatar Mongolia
 JT1AS,Sank,,Ulaanbaatar Mongolia
@@ -1797,9 +1808,9 @@ K3NG,Goody,PA,Lehighton PA
 K3NK,JIM,PA,York PA
 K3NL,Nick,PA,Drexel Hill PA
 K3NM,Joe,PA,Broadheadsville PA
+K3ONW,Ken,PA,Gettysburg
 K3OO,Rick,PA,Wind Gap PA
 K3OOL,Craig,PA,State College PA
-K3ONW,Ken,PA,Gettysburg
 K3OX,Kevin,2024,Ewing NJ
 K3PA,Drew,1046,Tonganoxie KS
 K3PH,Bob,2195,Kresgeville PA
@@ -3081,8 +3092,8 @@ KN6IPE,Den,2928,Half Moon Bay CA
 KN6NUN,Zhuo,3117,San Jose CA
 KN6NVZ,Kevin,CA,Visalia CA
 KN6OMN,Don,3258,Fremont CA
-KN6VQ,Jac,CWA,Ojai CA
 KN6RDC,CHRIS,3730,Meridian ID
+KN6VQ,Jac,CWA,Ojai CA
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
 KN7Y,Jack,3294,Mesa AZ
@@ -3548,6 +3559,7 @@ N2CJ,Glenn,NJ,River Vale NJ
 N2DA,Craig,2806,Forest VA
 N2DE,Ric,NY,Pleasant Valley NY
 N2EA,Jim,VT,Bristol VT
+N2EC,Ed,3731,Alexandria VA
 N2ED,Ed,2264,Andover NJ
 N2EI,Skip,2060,(Tom) Beverly NJ
 N2EIM,Bob,3267,Princeton NJ
@@ -5090,7 +5102,6 @@ UY5MB,Vlad,,Lugansk Ukraine
 UY5QZ,Val,,Zaporozh'e Ukraine
 UY7LU,Alex,,Kharkov Ukraine
 UZ1WW,Bob,527,Lviv Ukraine
-V4/AC6ZM,JUAN,2419,
 V21XN,Bill,KY,Richmond KY USA
 V26K,Bud,242,Antigua (AA3B)
 V26M,Alan,727,(N3AD) Antigua and Barbuda
@@ -5102,6 +5113,7 @@ V31MA,Marc,1851,Belize (Also DO4DXA)
 V31SP,Phil,2588,(DK6SP)
 V31UB,Colin,418,Belize
 V31WK,KW,2182,(VE7KW)
+V4/AC6ZM,JUAN,2419,
 V47NT,Andy,2036,(N2NT)
 V47UM,Bill,1699,(W3UL) Nevis West Indies
 V49K,JUAN,2419,(AC6ZM)
@@ -5164,6 +5176,7 @@ VA7CW,Andy,352,Delta BC
 VA7DX,Neil,2691,Vancouver BC
 VA7ETR,Tamara,2619,Vancouver BC
 VA7GI,Guy,3256,Vancouver BC
+VA7JC,Jon,CWA,Metro Vancouver BC
 VA7KH,Steve,3039,Ladysmith BC
 VA7NJI,Scott,2348,(N7JI) BC
 VA7OM,Les,2739,Mission BC

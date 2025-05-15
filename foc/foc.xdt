@@ -350,6 +350,7 @@ G4BWP        1746 Fred
 G4BYG        1984 Vic
 G4C          2048 Andy (G0IBN)
 G4DJX        1441 Alan
+G4DRS        2245 John
 G4DVP        1864 Pete (N5KD)
 G4EVS        2060 David (GM4EVS)
 G4FAD        1997 Rich
@@ -394,7 +395,7 @@ GB200LB      1189 Terry (GM3WUX)
 GB2MDC       1899 John (G4RCG)
 GB2SPY       1918 Ian (G3ROO)
 GB4DX        1746 Fred (G4BWP)
-GB4RS        1902 Nick (G3RWF)
+GB4RS        2014 Bob (GU4YOX)
 GB60ANT      1998 Gavin (GM0GAV)
 GB85FOC      2171 Nick (G0HFL)
 GD3NKC       1991 David (G3NKC)
@@ -413,6 +414,7 @@ GM3YTS       1430 Rob
 GM4AFU       1546 Paul (G4AFU)
 GM4EVS       2060 David
 GM4FOC       1189 Terry (GM3WUX)
+GM4HBG       2246 Iain
 GM4KGK       2208 Norman
 GM4Z         2201 Allan (GM4ZUK)
 GM4ZUK       2201 Allan
@@ -472,10 +474,12 @@ GQ4BUO       1486 Dave (G4BUO)
 GQ4BWP       1746 Fred (G4BWP)
 GQ4BYG       1984 Vic (G4BYG)
 GQ4DJX       1441 Alan (G4DJX)
+GQ4DRS       2245 John (G4DRS)
 GQ4EVS       2060 David (GM4EVS)
 GQ4FAD       1997 Rich (G4FAD)
 GQ4FNL       1631 Graham (G4FNL)
 GQ4FOC       2137 Keith (GW4OKT)
+GQ4HBG       2246 Iain (GM4HBG)
 GQ4HMC       1934 David (G4HMC)
 GQ4HZV       1568 Bob (G4HZV)
 GQ4IIY       2015 Ian (G4IIY)
@@ -499,7 +503,7 @@ GQ8DX        2067 Jack (GW8DX)
 GR150NIB     1189 Terry (GM3WUX)
 GR3KGV       1309 Ken (GW3KGV)
 GR4BWP       1746 Fred (G4BWP)
-GS8VL        1926 Drew (GM3YOR)
+GS8VL        1189 Terry (GM3WUX)
 GU0MFR       2204 Gareth (G0MFR)
 GU3TXF       1266 Nigel (OE5TXF)
 GU4CHY       1855 Dick
@@ -523,6 +527,7 @@ HA3PI        2010 Pista (VE3USP)
 HA9RT        2033 Joska
 HB88YL       2026 Tina (DL5YL)
 HB9QO        1408 Bruno
+HK3CQ        2247 Juan
 HL9DC        1665 Del (W8KJP)
 HQ9A         1740 Yuri (VE3DZ)
 I0ALE        1305 Sandro (I7ALE)
@@ -729,6 +734,7 @@ M0IHT        1956 Harry
 M0IPX        1564 Andy (5Z4VJ)
 M0KTZ        2213 Enzo
 M0MZB        2234 Matthew
+M0NGN        2248 Nigel
 M0P          2147 Peter (M0RYB)
 M0PCB        2024 Iain
 M0RSE        2048 Andy (G0IBN)
@@ -762,6 +768,7 @@ MQ0DGI       2203 Steven (MM0DGI)
 MQ0IHT       1956 Harry (M0IHT)
 MQ0KTZ       2213 Enzo (M0KTZ)
 MQ0MZB       2234 Matthew (M0MZB)
+MQ0NGN       2248 Nigel (M0NGN)
 MQ0PCB       2024 Iain (M0PCB)
 MQ0RYB       2147 Peter (M0RYB)
 MR3S         2204 Gareth (G0MFR)
@@ -1314,7 +1321,7 @@ ZS1RBN       1513 Phil (G3SWH)
 ZS6FOC        744 Den (F5VHY)
 xAA2A        2115 Allen (N2KW)
 xGB2NZ       2006 Don (G3BJ)
-xGS8VL       1189 Terry (GM3WUX)
+xGS8VL       1926 Drew (GM3YOR)
 xGU5LOW      2213 Enzo (M0KTZ)
 xK3K         1177 Tom (K3TW)
 xK4T         1177 Tom (K3TW)
