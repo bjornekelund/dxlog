@@ -1,30 +1,13 @@
 !!Order!!,Call,Name,Misc,UserText,
 # Always LOG what is sent.
-# EXCH = NAME + NUMBER
+# EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-05-13
+# Last Edit,2025-05-15
 # Medium speed practice contest 20-25 WPM
-# Thanks SM7IUN, N0TA, KA5M, N5OT,
-
-AA5TA,MARK,
-K4ARD,BRIAN,
-KD3ALS,TIM,
-KQ4GHE,MIKE,
-N4EPB,ETHAN,
-N5DEX,DEX,
-WD4AXJ,MARTY,
-
-IK3UGK,MAX,DX,
-IZ8DSX,LUIGI,DX,
-KC9TYA,,IN,
-KD9NHZ,PIOTR,IL,
-M7GNO,BRAD,DX,
-OK1MRC,JAN,DX,
-W2ELS,RON,NY,
-W4FO,PAT,AL,
-W4LTE,SHAWN,FL,
-W4NC,SAM,NC, 
+# Send new info/corr. DIRECT to ve2fk@arrl.net
+# Thanks Bjorn for his help.
+# Thanks N0TA, KA5M, N5OT for update.
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
@@ -155,6 +138,7 @@ AA5OY,Bob,LA,Metairie LA
 AA5QA,LEE,,Athens TX
 AA5QY,Floyd,AR,Gentry AR
 AA5SR,Dave,TX,League City TX
+AA5TA,MARK,
 AA5TL,Rick,OR,Bend OR
 AA5UN,MARTY,,Punta Gorda FL
 AA5W,Jim,1826,College Station TX
@@ -1255,6 +1239,7 @@ IK2SAT,Mauro,,Nizzollina Italy
 IK2SGB,Abele,,Asola Italy
 IK2WAD,Joe,I,(Giosue) Zanica Italia
 IK2YYM,Giu,,Rovescala Italy
+IK3UGK,MAX,DX,
 IK3YBX,Ricky,2563,Venezia Italy
 IK4EWX,Ian,,Cento Italy
 IK4GBU,Val,,Casalecchio Di Reno Italy
@@ -1322,6 +1307,7 @@ IZ7ANJ,CARL,DX,San Severo FG Italy
 IZ7DJR,Nigo,,Foggia Italy
 IZ7GEG,Luca,,S. Vito Dei Normanni Italy
 IZ7LGT,FABIO,,Campi Salentina Italy
+IZ8DSX,LUIGI,DX,
 IZ8VKW,Luigi,,Caserta Italia
 J26K,KYLE,,(WA4PGM) 
 J6/K4ZGB,Tom,468,St-Lucia
@@ -1840,6 +1826,7 @@ K4ALE,Bevin,VA,Lynchburg VA
 K4AMC,Jim,922,Madison TN
 K4ANA,John,VA,Virginia Beach VA
 K4ANU,Richard,NC,Greensboro NC
+K4ARD,BRIAN,
 K4ARQ,John,1437,Tallahassee FL
 K4ATN,DAVE,,Emporia VA
 K4AVX,John,KY,(2059) Viper KY
@@ -2745,6 +2732,7 @@ KC9SNC,DON,,WI
 KC9SS,Pete,WI,Greenfield WI
 KC9TCP,Steven,IL,East Peoria IL
 KC9TTR,Ken,IN,Washington IN
+KC9TYA,,IN,
 KC9WID,ROBERT,
 KC9YL,Anne,3070,Francis Creek WI
 KD0DK,DAVE,,IA
@@ -2786,6 +2774,7 @@ KD2TUU,TOM,PA,
 KD2VLQ,VINCE,,Mountain Lakes NJ
 KD2VXW,OWEN,NY,
 KD2ZUD,JASPER,,Germantown NY
+KD3ALS,TIM,
 KD4AJF,JEFF,,NC
 KD4EE,Scott,1330,Bellevue KY
 KD4IW,Steve,
@@ -2822,6 +2811,7 @@ KD9AIE,ADAM,,Rock Island IL
 KD9KHA,Andy,IL,Vandalia IL
 KD9LSV,Connor,IL,Decatur IL
 KD9LTN,Mike,IL,Coal Valley IL
+KD9NHZ,PIOTR,IL,
 KD9NZB,MAX,
 KD9OIN,Dan,IL,Aurora IL
 KD9PFS,ALEX,WI,Milwaukee WI
@@ -3313,6 +3303,7 @@ KQ4DAP,Cainan,,Perry GA
 KQ4E,JIM,,Rogersville TN
 KQ4EFL,MIKE,
 KQ4FR,MIKE,,
+KQ4GHE,MIKE,
 KQ4JB,JOE,,Winston Salem NC
 KQ4LEO,IAN,,VA,Stepheens City VA
 KQ4R,Ed,FL,Port Orange FL
@@ -3551,6 +3542,7 @@ M4N,Mike,2511,(G4IZZ)  Cheltenham England
 M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth)  St Neots England
 M6O,Dave,482,Okehampton England (G3WGN)
+M7GNO,BRAD,DX,
 M7TSM,ALAN,DX,Claverham England
 M8A,Angel,2862,(M0HDF)  Birmingham England
 MD0CCE,Bob,552,Ramsey Isle of Man
@@ -3876,6 +3868,7 @@ N4EII,Al,2291,Cary NC
 N4EJF,JOE,,Selma AL
 N4EL,NAT,,Tipp City OH
 N4ELC,Eric,GA,Woodstock GA
+N4EPB,ETHAN,
 N4ETC,Eden,NC,Skyland NC
 N4EWD,KYLE,,Taylors SC
 N4EWF,Ed,AL,Mobile AL
@@ -3992,6 +3985,7 @@ N5CO,DAVE,,Broken Arrow OK
 N5CW,Curt,572,Petal MS
 N5CWW,Charlie,2853,Las Cruces NM
 N5DDX,Tracy,TX,Ft Worth TX
+N5DEX,DEX,
 N5DTF,RICK,,Flower Mound TX
 N5DTF/0,RICK,,MO,
 N5DX,Kevin,1293,Harrison AR (ZF2DX)
@@ -4707,6 +4701,7 @@ OK1FKM,Petr,,Policka Czech Republic
 OK1GS,MIRO,,DX
 OK1KT,Vrata,,Hradec Kralove Czech Republic
 OK1MAG,Karelk,,Czech Republic
+OK1MRC,JAN,DX,
 OK1NE,Julius,,Pardubice Czech Republic
 OK1NU,Jan,,Liberec Czech Republic
 OK1OA,Jiri,,Praha Czech Republic
@@ -5799,6 +5794,7 @@ W2DEN,DEN,FL,Nokomis FL
 W2DM,GEORGE,
 W2DWL,Dennis,NJ,Swedesboro NJ
 W2ECK,Paul,GA,Savannah GA
+W2ELS,RON,NY,
 W2EQ,TOM,
 W2ET,Bill,MD,Chestertown MD
 W2FN,BOB,
@@ -5979,6 +5975,7 @@ W4FC,Paul,SC,Greenville SC
 W4FCG,,FL,Florida Contest Group FL
 W4FKM,Claude,1342,Bristol TN
 W4FLN,Frank,FL,Cape Coral FL
+W4FO,PAT,AL,
 W4FOA,Tony,229,Chickamauga GA
 W4FS,Tucker,NC,Efland NC
 W4GD,John,FL,The Villages FL
@@ -6010,6 +6007,7 @@ W4LEW,Lauren,,N. Chesterfield VA
 W4LJ,Doug,2823,Columbia SC
 W4LRB,Ben,2852,Florence MA
 W4LSV,Barry,1132,Cleveland TN
+W4LTE,SHAWN,FL,
 W4LWZ,Larry,FL,Cape Coral FL
 W4LZW,AD,SC,TAYLORS SC
 W4MA,BILL,
@@ -6025,6 +6023,7 @@ W4MUB,Mark,3025,Chandler AZ
 W4MY,Marty,NC,Erwin NC
 W4NA,Nate,1334,Gore VA
 W4NBS,Tom,1696,Trinity AL
+W4NC,SAM,NC, 
 W4NF,Jack,2360,Manassas VA
 W4NI,Russ,TN,Nashville TN
 W4NPX,Bob,VA,Charlottesville VA
@@ -6802,6 +6801,7 @@ WD0BC,Bill,MO,St. Joseph MO
 WD0END,Ron,3018,Chanhassen MN
 WD0T,Todd,SD,Pierre SD
 WD1AL,Ryan,MA,Belchertown MA
+WD4AXJ,MARTY,
 WD4CFN,Steve,2228,Nashville TN
 WD4DIY,DALE,NC,High Point NC
 WD4EBR,Paul,TN,Pigeon Forge TN

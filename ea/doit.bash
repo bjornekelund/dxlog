@@ -1,7 +1,7 @@
 #!/bin/bash
 # File 2 should be the newer
 #INFILE1=`ls CNCW* | tail -1 2> /dev/null`
-INFILE2=`ls EARTT* | tail -1 2> /dev/null`
+INFILE2=`ls KING* | tail -1 2> /dev/null`
 OUTFILE=EA_db.txt
 
 #echo Parsing $INFILE1 and $INFILE2
