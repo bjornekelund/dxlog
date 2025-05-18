@@ -1,7 +1,7 @@
 # Arkansas QSO Party database
 # Based on call history data maintained by VE2FK ve2fk@arrl.net
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-05-15
+# Last updated 2025-05-18
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -463,7 +463,6 @@ K5BAT=POP
 K5BG=TX
 K5CEU=UNI
 K5CKS=SEB
-K5CM=OK
 K5CPE=TX
 K5DB=WAS
 K5DCX=CLV
