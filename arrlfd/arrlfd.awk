@@ -8,12 +8,12 @@ BEGIN {
 {
   if ($0 ~ /^(!|#|$)/) { ##
     if ($1 ~ /!!Order!!/) {
-      if ($3 ~ /[Ee]xch1/) exch = 2;
-      if ($4 ~ /[Ee]xch1/) exch = 3;
-      if ($5 ~ /[Ee]xch1/) exch = 4;
-      if ($3 ~ /[Ss]ect/) sect = 2;
-      if ($4 ~ /[Ss]ect/) sect = 3;
-      if ($5 ~ /[Ss]ect/) sect = 4;
+      if ($3 ~ /Exch1/) exch = 2;
+      if ($4 ~ /Exch1/) exch = 3;
+      if ($5 ~ /Exch1/) exch = 4;
+      if ($3 ~ /Sect/) sect = 2;
+      if ($4 ~ /Sect/) sect = 3;
+      if ($5 ~ /Sect/) sect = 4;
       call = 1;
       printf("%s --> call=%d exch=%d sect=%d\n", $0, call, exch, sect) > "/dev/stderr";
     }
