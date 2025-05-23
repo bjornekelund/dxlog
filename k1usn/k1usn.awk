@@ -25,12 +25,10 @@ BEGIN {
       if (call[$1] != "") {
         printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr";
       }
-
       line[$1] = $0;
       call[$1] = $1;
       name[$1] = toupper($2);
       exchange[$1] = exch;
-
       if (length($2) > maxlen) {
         maxlen = length($2);
         maxname = $2;
