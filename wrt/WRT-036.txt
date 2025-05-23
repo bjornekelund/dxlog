@@ -1,20 +1,18 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2025-04-11
+# 1-LastEdit,2025-05-23
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from logs/2025 of K3CT/VP9I, K7RL, KA5M, N3QE, N7DX, NP3Y, VE5MX, WV4P/NJ4P
 # 4-Thanks Bjorn SM7IUN for his help. 
 # 5-New file started Jan 2025
-# NAQPCW 
-# NAQPRTTY 
-# NAQPSSB 
-# SPRINTCW 
-# SPRINTLADD 
-# SPRINTNS 
-# SPRINTRTTY 
-# SPRINTSSB
+
 # WRT
+
+KG5XR,LEVI,VA,
+K2DFC,FRED,NJ,
+KN8V,BRUCE,ID,
+
 4U1UN,YOSHI,
 4U1WB,MASA,
 6Y1A,JAVON,
