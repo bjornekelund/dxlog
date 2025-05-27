@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3735
-# Last updated 2025-05-22
+# Last updated 2025-05-27
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -2294,7 +2294,7 @@ K8AAV=Rod;OH
 K8AJS=John;1694
 K8AJX=Fred;AL
 K8ANM=Bob;AZ
-K8APP=Car;MI
+K8APP=Car;3732
 K8AQM=Ted;2043
 K8BAT=John;OH
 K8BB=Don;2882
