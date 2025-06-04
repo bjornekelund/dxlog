@@ -26,7 +26,7 @@ BEGIN {
       printf("Problem category: \"%s\"\n", $0) > "/dev/stderr";
       line[$call] = $0;
     }
-    else if ($call ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|4U1WB)|\/W[0-9]$/ && $call !~ /\/VE/) {
+    else if ($call ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|4U1WB)|\/W[0-9]$/ && $call !~ /\/V[AEOY]/) {
       if ($sect ~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/) {
         printf("%s=%s;%s\n", $call, $exch, $sect);
       }
@@ -35,7 +35,7 @@ BEGIN {
       }
       line[$call] = $0;
     }
-    else if ($call ~ /^(V[A-GOXY]|C[F-K]|CY|X[JM])|\/(V[A-EY][0-9])$/ && $call !~ /\/W/) {
+    else if ($call ~ /^(V[A-GOXY]|C[F-K]|CY|X[JM])|\/(V[A-EOY][0-9])$/ && $call !~ /\/W/) {
       if ($3 ~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/) {
         printf("%s=%s;%s\n", $call, $exch, $sect);
       }

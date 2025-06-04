@@ -14,7 +14,7 @@ BEGIN {
 	if ($5 ~ /Exch1/) col = 4;
 	printf("\"%s\" --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } else {
-    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^(DX|AL|AK|AR|AZ|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
+    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^(DX|F|G|AL|AK|AR|AZ|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
       printf("%s=%s\n", $1, $col);
     else if ($0 !~ /^(!|#|$)/ && $col != "")
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";

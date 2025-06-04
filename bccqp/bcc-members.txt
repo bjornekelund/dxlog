@@ -110,7 +110,7 @@ DJ1MM,Sergej
 DJ1OJ,Heijo
 EA8OM,Heijo
 DJ2HD,Mat
-ZS1AO,Mat
+V51F,Mat
 DJ2MX,Mario
 9A4MX,Mario
 DP4X,Mario
@@ -302,6 +302,7 @@ DL3YM,Andy
 CN2YM,Andy
 XV9YM,Andy
 5X8B,Andy
+DL4DXF,Angela
 DL4FN,Peter
 DL4GBA,Wilfried
 DL4HG,Olaf

@@ -1,4 +1,4 @@
-# Updated 2025-May-20 to HSC 2023 by DJ5CW. Updates to fabian@fkurz.net.
+# Updated 2025-May-30 to HSC 2023 by DJ5CW. Updates to fabian@fkurz.net.
 # http://highspeedclub.org/ - This file is always up to date at: https://hsc.dj1yfk.de/db/HSC_db.txt
 4K0CW=1647
 4O4A=1701
@@ -532,7 +532,6 @@ DL8KAC=1773
 DL8KAZ=1102
 DL8LAQ=1796
 DL8LBK=1737
-DL8LD=1907
 DL8OAC=1199
 DL8OAM=1616
 DL8OAR=1403

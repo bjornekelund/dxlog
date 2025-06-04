@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
 # Contains members up to #4408
-# Last updated 2025-05-22
+# Last updated 2025-06-04
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1282,7 +1282,6 @@ DL8KAZ=42
 DL8KFO=3236
 DL8LAQ=3002
 DL8LAS=4005
-DL8LD=3683
 DL8LEN=3687
 DL8LJ=3434
 DL8MAS=3989
