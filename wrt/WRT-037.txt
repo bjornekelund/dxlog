@@ -1,13 +1,16 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2025-05-23
+# 1-LastEdit,2025-06-06
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from logs/2025 of K3CT/VP9I, K7RL, KA5M, N3QE, N7DX, NP3Y, VE5MX, WV4P/NJ4P
 # 4-Thanks Bjorn SM7IUN for his help. 
 # 5-New file started Jan 2025
 
 # WRT
+
+NN7SS,MARK,CA,
+NQ1B,CATHY,VT,
 
 KG5XR,LEVI,VA,
 K2DFC,FRED,NJ,

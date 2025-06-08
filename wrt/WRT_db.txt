@@ -1,7 +1,7 @@
 # Weekly RTTY Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-05-23
+# Last updated 2025-06-08
 4U1UN=YOSHI;4U
 4U1WB=MASA;DC
 6Y1A=JAVON;6Y
@@ -1872,6 +1872,7 @@ NN6U=JOHN;CA
 NN7CW=WOLF;FL
 NN7M=RYAN;WA
 NN7O=TOM;OR
+NN7SS=MARK;CA
 NN9DD=MIKE;GA
 NO3M=TY;PA
 NO5G=PHILIP;LA
@@ -1882,6 +1883,7 @@ NO8C=MIKE;OH
 NO8RF=JAMES;MI
 NP2X=ED;KP2
 NP3Y=PAUL;KP4
+NQ1B=CATHY;VT
 NQ2U=MATT;NY
 NQ2W=WILL;NY
 NQ6Q=JOHN;CA
