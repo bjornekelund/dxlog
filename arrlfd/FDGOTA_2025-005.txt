@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # FDGOTA
-# LastEdit,2025-05-28
+# LastEdit,2025-06-10
 # Original file from Mike W1MI
 # FDGOTA is the new name/callhistory for both FD and FDGOTA
 # Thanks to
@@ -762,7 +762,6 @@ AE6OR,4A,SV,(N6NA GOTA) River City ARC
 AE6PL,1E,SB
 AE6R,1B,EB
 AE6SF,1E,SF,Sonoma Co. Radio Amateurs
-AE6SF/VE8,1B,NT
 AE6VZ,1D,NM,Santa Fe ARC
 AE6XC,1C,EB,Hayward Radio Club
 AE6YN,1E,EB,South Bay ARA
@@ -1196,7 +1195,7 @@ CK3IC,5A,ONS,(VE3IC GOTA) Kitchener-Waterloo ARC
 CK3RXH,1B,ONE,Ottawa Valley Mobile RC
 CK3SDF,1B,ONS,St. Mary's ARC
 CK7RC,1D,BC
-CO2BK,1D,PR
+CO2BK,1D,DX
 CO2QU,1E,DX,710 Contest Grp.
 CO2VE,1D,DX
 CO8NMN,1D,DX,Santiago de Cuba Contest Team
@@ -1227,7 +1226,6 @@ IT9RZU,1D,DX
 JA1OHP,1D,DX
 JA1VBN,1D,DX
 JA9LX,1D,DX
-JD3PC,1E,VA
 JF1TEU,1D,DX
 JF2FIU,1D,DX
 JH1HHP,1D,DX
@@ -3188,7 +3186,7 @@ K6ZH,1E,SDG,Point Loma ARC
 K6ZNL,1D,LAX,United Radio Amateur Club
 K6ZY,2A,WWA,(W7WIT GOTA) Whidbey Island Trailblazers
 K6ZZD,1D,SJV,Lodi ARC
-K777KAR,1D,MT,Musselshell ARC
+K7KAR,1D,MT,Musselshell ARC
 K7A,1A,ID,Lemhi Dx Grp.
 K7AAT,1D,OR,Central Oregon Coast ARC
 K7ADX,1D,AZ,Tortolita RC
@@ -3953,7 +3951,6 @@ K9ZO,1D,IL,Metro DX Club
 K9ZTV,1D,MO,Mid-MO ARC
 K9ZU,1B,VA
 K9ZXO,1B,IL,Sangamon Valley RC
-KÃ˜LOA,1D,NTX,Richardson Wireless Klub
 KA0AIG,1E,MO
 KA0B,1D,NM
 KA0BOJ,2D,NE
@@ -7165,7 +7162,6 @@ KI8M,1D,MI,Utica Shelby Emergency Comms Assn
 KI8N,1D,OH
 KI8R,1D,OH
 KI8Z,5A,MI,(K8BRC GOTA) Black River ARC
-KJ^HCG,4A,SV,Glenn ARS
 KJ0I,1D,CO,Waterton ARS
 KJ0P,1D,MN,Minnetonka ARC
 KJ1V,1D,VT,Radio Amateurs of Northern Vermont
@@ -7591,7 +7587,6 @@ KK9DX,1D,TN,CorTek Radio Assn.
 KK9JEF,1B,IL,North Shore (IL) RC
 KK9O,1D,SFL,Lighthouse ARA
 KK9V,1D,IN,Soc. of Midwest Contesters
-KKD0QG,1D,CO
 KL0PC,1B,WWA,Maple Valley ARC
 KL0SS,1D,VA,Williamsburg Area ARC
 KL1DJ,1D,NTX
@@ -8731,7 +8726,6 @@ LV1E,1D,DX
 LW6EQG,1D,DX
 LZ1ZJ,1D,DX
 M5NCW,1D,DX
-N/A,1E,STX,(WB5AOH GOTA) Austin ARC
 N07G,1E,MT,Hi-Line ARC
 N0A,4A,MO,St. Louis QRP Soc.
 N0AC,1D,CO,Des Moines Radio Amateur Assn
@@ -11176,7 +11170,6 @@ NI6W,1D,LAX,CITARC/JPLARC/PRC/SPARC
 NI7E,1D,AZ,Explorer Post 599
 NI8Z,1D,OH,Splinter Grp. ARC
 NI9T,1D,WI,Four Lakes ARC
-NIFO,1D,AZ
 NJ1L,1D,EMA,Barnstable ARC
 NJ2AR,4A,SNJ,Jersey Shore ARS
 NJ2BC,2F,NNJ,Bergen Co. Em. Mgmt. RC
@@ -11284,7 +11277,7 @@ NN8B,2D,OH,Lisbon Area ARA
 NN8M,1D,OH,Dial Radio Club of Middletown
 NN8W,1D,WV,Preston County ARC
 NN9K,1D,IL,Green River Valley ARS
-NNN0JS,1D,MO,Mid-MO ARC
+NN0JS,1D,MO,Mid-MO ARC
 NO0L,1D,MO
 NO1H,1D,LAX,Crescenta Valley RC
 NO1M,1D,EMA,Northeast ARC
@@ -11309,7 +11302,7 @@ NO8F,1D,OH,Madison County (OH) ARC
 NO8I,4A,OH,Huber Heights ARC
 NO8V,3F,MI,Gratiot Co. ARA
 NO9B,1D,WI,West Allis RAC
-NONE,2A,OK,(KT5DIG GOTA) Tulsa Digital RC
+N0NE,2A,OK,(KT5DIG GOTA) Tulsa Digital RC
 NP2GG,1E,CT
 NP2KW,1D,VI,Federacion de Radio Aficionados de P.R.
 NP2N/W0,1D,IA
@@ -11540,7 +11533,6 @@ NY7S,3A,AZ,West Valley ARC
 NY9H,4A,WPA,(WA3COM GOTA) Washington Amateur Comm.
 NY9P,1D,NM
 NY9X,1D,IL
-NYT0J,1E,MO,Tri-Lakes ARC
 NZ0B,1B,IA
 NZ0F,1E,KS,Johnson County Radio Amateurs Club
 NZ0T,1D,MO,Tri-Lakes ARC
@@ -11585,7 +11577,7 @@ TI2JS,1D,DX
 TI3GB,1D,DX
 UR7EC,1B,DX
 VA1ALW,1D,NS,Halifax ARC
-VA1AVR,3A,NS,(VE1LD GOTA) Annapolis Valley ARC and Kings Co. ARC
+VA1AVR,4A,NS,(VE1LD GOTA) Annapolis Valley ARC and Kings Co. ARC
 VA1CC,1D,NS,Halifax ARC
 VA1DT,1D,NS,Halifax ARC
 VA1JG,1D,NS,Truro ARC
@@ -11932,7 +11924,7 @@ VE1HUL,1E,NS,Truro ARC
 VE1IOU,1E,NS,Lunenburg County ARC
 VE1JG,1D,NS,Kings County and Annapolis Valley ARCs
 VE1LCG,1A,NS,Truro ARC
-VE1LD,3A,NS,Annapolis Valley ARC and Kings Co. ARC
+VE1LD,4A,NS,Kings County ARC NS
 VE1LG,1D,NS,Kings Co. and Annapolis Valley ARCs
 VE1NB,1D,NS,Halifax ARC
 VE1NEL,1D,NS,Truro ARC
@@ -12332,7 +12324,6 @@ VE3SDF,3A,ONS,St. Mary's ARC
 VE3SGB,1A,ONS,South Georgian Bay ARC
 VE3SGK,1A,ONN,Sudbury ARC
 VE3SHO,1D,GH,
-VE3SHO/W4,1B,GH,
 VE3SHQ,2A,ONE,(VE3RC GOTA) Ottawa ARC
 VE3SIQ,1B,ONE,Upper Canada QRP Club
 VE3SKI,4A,GH,Skywide ARC
@@ -12473,7 +12464,6 @@ VE6HQ,2A,AB,(VE6QE GOTA) Central Alberta ARC
 VE6JF,1D,AB,
 VE6JHH,1D,AB,Foothills ARS (AB)
 VE6JHK,1B,AB,Central Alberta ARC
-VE6JIT,1E,WWA,West Seattle ARC
 VE6KJA,1D,AB,
 VE6KK/7,1D,AB,
 VE6KLE,1E,AB,
@@ -17169,7 +17159,6 @@ WV8A,1D,MI,Livonia ARC
 WV8AE,1D,WV,Kanawha ARC
 WV8AR,2A,WV,West VA AR
 WV8CCC,3A,WV,Coal Country ARC
-WV8CCC`,3A,WV,Coal Country ARC
 WV8DL,1E,WV,Central West Virginia Wireless Assn.
 WV8ED,3A,WV,McDowell  ARC
 WV8FV,1D,WV,Kanawha ARC
@@ -17217,7 +17206,6 @@ WW8RR,1E,GA,Sawnee ARA
 WW8RT,1D,WV,West Virginia Amateur Radio
 WW9F,1D,IL,North Shore (IL) RC
 WW9L,1E,IL
-WWRG,3A,WWA,(NT7H GOTA) Olympia ARS
 WX0CAS,1E,CO
 WX0G,1D,WCF
 WX0MIK,1D,MN,WX0MIK
@@ -17279,7 +17267,7 @@ WX8V,1E,KY,ARTS of Louisville
 WX9AEM,1A,IL,Aurora EMA ARC
 WX9PAL,2A,IL,(W9P GOTA) Palatine ARES/RACES
 WX9S,1D,IN,Indianapolis RC
-WXRSC,4F,SC,(WX4SC GOTA) Carolina ARES
+WX4SC,4F,SC,(WX4SC GOTA) Carolina ARES
 WY0B,1D,MO
 WY0X,1D,CO
 WY1U,1E,CT
@@ -17328,7 +17316,7 @@ XJ1AA,2A,NL,Soc. of Newfoundland Radio Amateurs
 XJ1GRC,2A,NL,Grassroots ARC
 XJ1MRC,1A,NL,Marconi ARC of Newfoundland
 XM3A,3A,ONN,Manitoulin ARC
-XO1DX,2A,TER,Yukon ARA
+XO1DX,2A,DX,Yukon ARA
 XQ3SK,1D,DX
 YB3GER,1D,DX
 YC2FAJ,1D,DX

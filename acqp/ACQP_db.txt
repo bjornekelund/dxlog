@@ -1,5 +1,5 @@
 # Database for Atlantic Canada QSO Party
-# Last updated 2025-06-08
+# Last updated 2025-06-13
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN

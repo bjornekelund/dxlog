@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3738
-# Last updated 2025-06-08
+# Contains members up to #3742
+# Last updated 2025-06-13
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -2069,7 +2069,7 @@ K5PI=Rob;2124
 K5PP=Max;LA
 K5QR/4=Andy;2476
 K5QR=Andy;2476
-K5RC=Tom;108
+K5RG=Ken;3741
 K5RHZ=Chas;TX
 K5RM=John;1776
 K5RT=Paul;1073
@@ -3187,7 +3187,7 @@ KT0G=Jeff;WV
 KT0K=Greg;NE
 KT1K=Bob;MA
 KT3M=Rob;CO
-KT3X=Brian;TX
+KT3X=Brian;CWA
 KT3Y=Phil;VA
 KT4E=Amy;TN
 KT4O=Ben;2995
@@ -3406,6 +3406,7 @@ M4X=Keith;2784
 M5KVK=Gaz;G
 M5S=John;268
 M7BLX=David;G
+M7GNO=Brad;G
 M7TAW=Antony;G
 M7YRU=Marie;3688
 M8A=Angel;2862
@@ -3442,6 +3443,7 @@ N0BUI=Mike;MN
 N0CB=Royce;NE
 N0COT=Jim;3564
 N0CVW=Chas;2661
+N0DCA=Bill;NE
 N0DIR=Nodir;815
 N0DNF=Bill;ID
 N0EF=John;MT
@@ -4060,7 +4062,7 @@ N8II=Jeff;2088
 N8JA=Jay;1234
 N8JLM=Jay;OH
 N8JTR=Jay;3666
-N8KDC=Ken;MI
+N8KDC=Ken;3740
 N8KH=Ken;FL
 N8KLX=Jerry;MI
 N8KMY=Craig;MI
@@ -5699,6 +5701,7 @@ W3GWM=George;1981
 W3GYM=Jim;FL
 W3II=John;PA
 W3IL=Bill;199
+W3IMD=Bill;NC
 W3JBS=Jos;PA
 W3KB=Keith;1156
 W3KHG=John;NC
@@ -5978,7 +5981,7 @@ W6JBR=JR;CA
 W6JIM=Jim;2886
 W6JMP=Gene;1120
 W6KC=Jim;1266
-W6KK=Fritz;CA
+W6KK=Fritz;3739
 W6KSR=Ed;CA
 W6LD=John;CA
 W6LEN=Jess;1840
@@ -6108,7 +6111,7 @@ W8FN=Randy;1864
 W8FSM=Fred;MI
 W8GF=Dick;MI
 W8GU=Mark;OH
-W8HFY=David;OH
+W8HFY=Dave;3742
 W8HOG=Jerry;OH
 W8HW=Bruce;958
 W8IQ=Kurt;755
