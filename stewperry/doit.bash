@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls StewPerry[!_]* | tail -1 2> /dev/null`
+INFILE=`ls STEWPERRY[!_]* | tail -1 2> /dev/null`
 OUTFILE=StewPerry_db.txt
 
 echo Parsing $INFILE

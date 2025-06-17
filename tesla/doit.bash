@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ../stewperry/StewPerry-* | tail -1`
+INFILE=`ls ../stewperry/STEWPERRY-* | tail -1`
 OUTFILE=TESLA_db.txt
 
 echo Parsing $INFILE
