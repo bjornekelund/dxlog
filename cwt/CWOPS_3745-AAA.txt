@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2025-06-11
+# LastEdit,2025-06-18
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -2701,6 +2701,7 @@ KD0UKC,Neil,IA,Decorah IA
 KD0VAS,Leroy,MN,Saint Paul MN
 KD0ZV,Rich,IA,Ankeny IA
 KD1CT,Bob,NH,Barnstead NH
+KD1MD,Kirk,3745,Kingston RI
 KD2BMX,Peter,NY,Nanuet NY
 KD2CAP,Brendan,IL,Long Grove IL
 KD2DC,Mon,NJ,Providence NJ
@@ -3158,7 +3159,7 @@ KQ4DFV,Mike,3638,Port Charlotte, FL
 KQ4E,Jim,3598,Rogersville TN
 KQ4EFL,Mike,3492,Marietta GA
 KQ4R,Ed,FL,Port Orange FL
-KQ4Y,Rick,NY,
+KQ4Y,Rick,CT,
 KQ7A,Rio,AZ,Scottsdale AZ
 KQ7I,Jeff,3470,Portland OR
 KQ7W,Matt,WA,Port Orchard WA
@@ -3314,6 +3315,7 @@ LB3RE,Rag,933,Broabakken Norway
 LB6GG,Hans,LA,Sandnes Norway
 LB6RH,Jens,,Trondheim Norway
 LB8IB,OLAF,LA,Lorenskig Norway
+LB8TJ,LUI,,Sandnes Norway
 LC0X,Rag,933,Broabakken Norway
 LJ3RE,Rag,933,Broabakken Norway also LB3RE
 LT6M,Seba,,Lujan de Cuyo Argentina
@@ -5155,7 +5157,7 @@ VA3FH,Victor,ON,Smithville ON
 VA3FN,John,ON,Tecumseh ON
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
 VA3GE,John,ON,Manotick ON
-VA3ICC,Ian,ON,Brockville ON
+VA3ICC,Ian,3744,Brockville ON
 VA3IJK,John,3348,New Hamburg ON
 VA3IK,Brian,3343,Carp ON
 VA3JFF,Jeff,ON,Welland ON
@@ -5281,7 +5283,6 @@ VE3GFN,Mike,1119,Scarborough ON
 VE3GNA,Glenn,457,Roblin ON
 VE3GO,Ron,ON,Kingston ON
 VE3HEU,Vic,2536,Toronto ON
-VE3HX,Alan,ON,Ottawa ON
 VE3ICV,Paul,ON,Osgoode ON
 VE3IID,Doug,ON,Kitchener ON
 VE3IKV,Pete,ON,Cobourg ON
@@ -5538,6 +5539,7 @@ W0TG,Bill,1873,Arlington TX
 W0UA,Geo,944,Longmont CO
 W0UO,Jim,1069,Weatherford TX
 W0VX,Dave,967,Garland TX
+W0Y,,CO,YUota 2025 Denver Camp
 W0WL,Joe,3327,Sammamish WA
 W0XE,Don,KS,Overland Park KS
 W0XI,Phil,KS,Lawrence KS
@@ -6281,6 +6283,7 @@ WA2BJN,Rich,NC,Greensboro NC
 WA2DFI,Scotty,164,Tempe AZ
 WA2DIY,Mark,NJ,Williamstown NJ
 WA2ELW,Rich,MO,
+WA2LMC,CLIFF,NC,
 WA2MBP,Jim,773,Marietta GA
 WA2OAX,Ira,534,Liberty NY
 WA2OTC,Dave,MD,Hagerstown MD
@@ -6330,7 +6333,7 @@ WA5LHM,Scott,TX,Georgetown TX
 WA5LXS,Dennis,1836,Carrollton TX
 WA5OBV,Phil,OK,Stillwater OK
 WA5PFJ,John,1629,Midland TX
-WA5RML,Andrew,1324,Arlington TX (Been heard QRP)
+WA5RML,Andy,1324,Arlington TX (Been heard QRP)
 WA5YOM,Tim,2782,Ardmore OK
 WA6DBC,Dennis,CA,Santee CA
 WA6HNA,Greg,CA,Groveland CA
@@ -6404,7 +6407,7 @@ WB2JKL,Ron,NY,Amherst NY
 WB2JNA,Jeff,MD,Cockeysville MD
 WB2KAO,Tim,2188,Rochester NY
 WB2KSP,Dave,NY,Nanuet NY
-WB2KWC,Ken,NY,Massapequa NY
+WB2KWC,Ken,3743,Massapequa NY
 WB2PJH,Dave,3195,Bridgewater NJ
 WB2SMK,Mark,NY,Niskayuka NY
 WB2SXY,Bill,NY,Pittsford NY
