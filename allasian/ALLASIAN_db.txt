@@ -2,7 +2,7 @@
 # All Asian database for 2025
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-10-22
+# Last updated 2025-06-17
 3Z9W=77
 4A50CRH=76
 4D3X=65
@@ -360,7 +360,7 @@ JF2FIU=62
 JF3LOP=64
 JG0HEW=63
 JG1IEF=77
-JG1LFR=68
+JG1LFR=67
 JG1LHB=75
 JG2REJ=76
 JG3LGD=66
