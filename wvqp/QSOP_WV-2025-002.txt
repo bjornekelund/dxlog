@@ -4,14 +4,11 @@
 # 0-This is helping file, LOG what is sent.
 # 1-Last Edit,2025-06-08
 # 2-Send any corrections direct to ve2fk@arrl.net
-# 3-
-# 4-
-# 5-
+# 3-Thanks Bjorn/SM7IUN
 # QSOP_WV
 # QSOPARTY WV
 
 # Counties list WV
-KD4NT,,BRX,Bristol,
 AA4TI,,,MOBILE
 AB1A,,BRO,
 AJ4LN,,LDN,Loudoun,
@@ -37,7 +34,7 @@ KB4TAD,,GRA,Grayson,
 KB8DX,,MON,Monroe
 KC4D,,LYX,Lynchburg,
 KC8YSO,,PRE,Preston
-KD4NT,,BRX,
+KD4NT,,BRX,Bristol
 KD8GKR,,BAR,Barbour
 KD8MID,,PEN,
 KD8SKZ,,HAN,
@@ -80,8 +77,8 @@ W8CMK,,BER,Berkeley
 W8FR,,JAC,
 W8IW,,KAN,Kanawha
 W8OP,,MRN,
-W8WVA/M,,,MOBILE BONUS
 W8WVA,,,MOBILE BONUS
+W8WVA/M,,,MOBILE BONUS
 WA2EIN,,CRA,Craig,
 WA8KAN,,WOO,Wood
 WA8YCD,,MON,
@@ -91,6 +88,7 @@ WJ1T,,WAS,Washington,
 WT0RJ,,,TUC PRE GRA
 WV8MT,,PEN,
 WW8RT,,CAB,
+
 #
 AA0AC,DAVE,MN,
 AA0AI,STEVE,IA,
