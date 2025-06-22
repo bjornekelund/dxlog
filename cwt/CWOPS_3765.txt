@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-06-19
+# LastEdit,2025-06-21
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -257,7 +257,7 @@ AC9EM,Steve,IL,Lake Zurich IL
 AC9EZ,Jim,2342,Fort Wayne IN
 AC9OH,Ron,IL,Urbana IL
 AC9VC,Mark,IL,Wheaton IL
-AC9XK,Alex,CWA,Noblesville IN
+AC9XK,Alex,3750,(VA4LEX)  Noblesville IN
 AD0AB,Jim,2114,Lenexa KS
 AD0BI,Lar,MO,Saint Louis MO
 AD0DX,Ron,MO,Kansas City MO
@@ -693,6 +693,7 @@ DL5YM,Fred,,Fuerstenwalde/Spree Germany
 DL6AST,Andre,,Wickau-Hablau Germany
 DL6BE,Volkert,,Ostseebad Sellin Germany
 DL6DAE,Andreas,3704,Dietzenbach Germany
+DL6FBN,Frank,3761,Augsburg Germany
 DL6KVA,Axel,1678,Rostock Germany
 DL6LBI,Ingo,,Ellerhoop Germany
 DL6MIG,Wil,,Wahlitz Germany
@@ -812,6 +813,7 @@ EA5FID,Juan,2977,Alicante Spain
 EA5FV,Dani,,Murcia Spain
 EA5IIK,Andy,,Castellon Spain
 EA5IUY,Gary,2508,Muro de Alcoy Spain
+EA5IYL,Mikel,3765,Alicante  Spain
 EA5KA,Raul,1512,Castellon de la Plana Spain
 EA5KO,Andy,2545,Castellon Spain
 EA5M,Dani,2979,Murcia Spain
@@ -865,6 +867,7 @@ EI3KK,Christian,,(DM7EE) Cty of Mayo/Ireland
 EI4BZ,Dave,3224,Cork Ireland
 EI5EM,Tony,EI,Baile Atha Cliath Ireland
 EI5LA,Megan,3163,Kerry Ireland
+EI4LF,OB,3763,Shannon Co. Clare Ireland
 EI6FR,Declan,2811,Dublin Ireland
 EI6JK,Mark,,County Roscommon Ireland
 EI6KT,John,2965,DublinIreland
@@ -2225,6 +2228,7 @@ K7EFW,Ed,3274,Hillsboro OR
 K7EK,Gary,997,Spanaway WA
 K7ENA,Ed,OR,Gresham OR
 K7ENH,Jerry,2960,Yuma AZ
+K7EP,Art,3756,West Richland WA
 K7EY,Bruce,UT,American Fork UT
 K7FOP,Roland,2600,Beaverton OR
 K7FOS,Evan,OR,Amity OR
@@ -2574,7 +2578,7 @@ KB3WFQ,ROB,PA,SCHWENKSVILLE PA
 KB3Z,Mark,1483,Collegeville PA
 KB3ZGL,Steve,MD,Annapolis MD
 KB4CG,Jack,VA,Bealeton VA
-KB4CL,Bob,CWA,Gilbert SC
+KB4CL,Bob,3754,Gilbert SC
 KB4DE,Bill,2093,Irmo SC
 KB4GYT,Paul,SC,Graniteville SC
 KB4KBS,Scott,GA,Roswell GA
@@ -2616,7 +2620,7 @@ KB9S,Mark,2805,Eau Claire WI
 KC0CCR,Ran,KS,Hiawatha KS
 KC0CGR,Bob,SD,Big Stone SD
 KC0DEB,Jan,KS,Kansas City KS
-KC0DM,Deb,CWA,Stilwell KS
+KC0DM,Deb,3759,Stilwell KS
 KC0DX,Ed,AR,Bentonville AR
 KC0INP,Tom,2888,Minnesota MN
 KC0INP/4,Tom,2888,
@@ -3200,7 +3204,7 @@ KT0G,Jeff,WV,Kearneysville WV
 KT0K,Greg,NE,Malcom NE
 KT1K,Bob,MA,Bellingham MA
 KT3M,Rob,CO,Cherry Hills Village CO
-KT3X,Brian,CWA,Navasota TX
+KT3X,Brian,3558,Navasota TX
 KT3Y,Phil,VA,Manassas VA
 KT4E,Amy,TN,Knoxville TN
 KT4O,Ben,2995,Bristol TN
@@ -3290,7 +3294,7 @@ KY4KY,Bull,KY,Bullitt Amateur Radio Society
 KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
-KZ4KG,Jeff,CWA,Huntsville AL
+KZ4KG,Jeff,3764,Huntsville AL
 KZ5D,Art,12,New Ibria LA (CWops Vice-Pres. Activities + Events)
 KZ5H,Seth,3667,Houston TX (Been heard QRP)
 KZ6H,Steve,2286,Thousand Oaks CA
@@ -4315,6 +4319,7 @@ NK3H,Mitch,3102,Paradise AZ
 NK4I,Tighe,1481,Summerville SC
 NK4O,AJ,2690,Miami FL
 NK7B,Jim,1774,Saint-Paul MN
+NK7Q,Gene,3755,Orting WA
 NK7U,Joe,708,Baker City OR
 NK8A,Dave,OH,Wickliffe OH
 NK8O,Chas,3434,Louisburg KS
@@ -4706,9 +4711,9 @@ PA3DEU,Dick,,Haarlem Netherlands
 PA3DZM,Eric,2569,Tilburg Netherlands
 PA3EVY,Willy,,(PI4DX) Terneuzen Netherlands
 PA3GDG,Fred,PA,Hendrik Ido Ambacht Netherlands
-PA3GGX,Dick,,Eelderwolde Nederlands
+PA3GGX,Dick,3760,Eelderwolde Nederlands
 PA3GLH,Rimus,,Doorn Netherlands
-PA3GPX,Rene,,Veghel Netherlands
+PA3GPX,Rene,3752,Veghel Netherlands
 PA3GRU,Dick,3174,(Also PG6F) Dordrecht Netherlands
 PA3GSV,Jan,2932,Alphen aan den Rijn Netherlands
 PA3HEN,Theo,2481,(K4HEN) Purmerend Netherlands
@@ -4728,7 +4733,8 @@ PC4H,Henk,3399,Hoofddorp Netherlands
 PC6R,Dick,3175,Heemstede Netherlands
 PD2DX,Johan,,Overijssel Netherlands
 PD2R,Maarten,,Netherlands
-PD5BS,Bill,,Vissingen Netherlands
+PD5BS,Bill,3757,Vissingen Netherlands
+PE1PTS,Michel,3751,Goes Netherlands
 PE1RCT,Andreas,3273,Herten Netherlands
 PE2K,Adi,2638,Apeldoorn Netherlands (Been heard QRP)
 PE2V,Vin,3594,Borne Netherlands
@@ -4986,6 +4992,7 @@ SP8ARY,Ron,,Krasnik Poland
 SP9AVR,Claudio,,Naklo Slaskie Poland
 SP9BRP,Jan,,Krakow Poland
 SP9FOW,Roman,,Swierklany Poland
+SP9MUF,Piotr,3762,Krakow Poland
 SP9OGP,Piotr,3147,(SP7N) Poland
 SP9R,Jan,,Krakow Poland
 SP9RXP,Peter,,Niedzica Poland
@@ -5189,6 +5196,7 @@ VA3ZB,Bruce,ON,Sault Ste-Marie ON
 VA3ZC,Paul,ON,Oakville ON (Mag. Loop)
 VA4ADM,Paul,3474,Winnipeg MB
 VA4JP,Jack,1047,(K0JP) Michell MB
+VA4LEX,Alex,3750,(AC9XK)  from Noblesville IN
 VA5SCA,Neil,SK,Canada
 VA6CA,Kam,2714,Calgary AB
 VA6SP,Peter,AB,Calgary AB
@@ -5781,6 +5789,7 @@ W4CI,Dave,932,Fern Park FL
 W4CK,Mark,33,Fayetteville TN
 W4CMG,Cathy,2988,Nashville TN
 W4CWA,Frank,3331,Cary NC
+W4CZZ,Ken,3753,no info
 W4DD,Jeff,GA,Gainsville GA
 W4DDD,Jim,FL,Orange Park FL
 W4DKS,Dan,321,Centreville VA
