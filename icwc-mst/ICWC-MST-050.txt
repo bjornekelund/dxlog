@@ -3,51 +3,36 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-<<<<<<<< HEAD:icwc-mst/ICWC-MST-043.txt
-# Last Edit,2025-06-10
-========
-# Last Edit,2025-06-16
->>>>>>>> e4c696e (Update):icwc-mst/ICWC-MST-047.txt
+# Last Edit,2025-06-24
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn for his help.
 # Thanks N0TA, KA5M, N5OT for update.
 
-<<<<<<<< HEAD:icwc-mst/ICWC-MST-043.txt
-AC1VK,DON,
-DK2GZ,HARRY,
-KC9CSQ,LARRY,
-KG4EXY,JOHN,
-KG5EED,JEFF,
-NO6M,DAVE,
-VE3KG,DAVE,
-W2EB,BILL,
-W2FN,B0B,
-WB9MII,GREG,
-WD4BZZ,JIM,
+K2RMA,ROY,
+K4KFC,MARK,
+KA8FQS,JACK,
+KB3CEB,BEAR,
+N1IBB,MATT,
+W6NDE,BRUCE,
+W7KFI,SUE,
+WA2LMC,CLIFF,
 
-K5DVY,SID,
-K5LXP,MARK,
-KI5TMS,TRAVIS,
-KX4US,DAVE,
-N3DDA,TOM,
-N8BAP,PATRICK,
-VE2QRT,FUNGUY,
-VE3GND,BRUCE,
-W6GGG,RICK,
-W7SW,GARCIA,
-W8XAL,DAVE,
-========
+KI4EZC,FRED,
+AE4QU,PAT,
+
+EI4LF,OB,
+KZ4KG,JEFF,
+ND3T,LEN,
+
 K1UN,JOE,
 VB2CAP,TOM,
->>>>>>>> e4c696e (Update):icwc-mst/ICWC-MST-047.txt
 
 VE3GMZ,BRIAN,
 KE3V,KEVIN,
 K1NW,BRIAN,
 N0TTI,MARK,
 WZ2J,VIN,
-
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
