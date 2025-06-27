@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-06-24
+# LastEdit,2025-06-26
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -3206,7 +3206,7 @@ KT0G,Jeff,WV,Kearneysville WV
 KT0K,Greg,NE,Malcom NE
 KT1K,Bob,MA,Bellingham MA
 KT3M,Rob,CO,Cherry Hills Village CO
-KT3X,Brian,3558,Navasota TX
+KT3X,Brian,3758,Navasota TX
 KT3Y,Phil,VA,Manassas VA
 KT4E,Amy,TN,Knoxville TN
 KT4O,Ben,2995,Bristol TN
@@ -3454,7 +3454,7 @@ MM7BFL,Laura,3681,Dailly Scotland
 MM9I,John,,(SM0OPS) East Kilbridge Scotland
 MW0SAW,Steve,3486,Pontypridd Wales
 MX0ROA,DUKE,3365,Radio Oficers Association
-N0AC,Bill,1252,IA (Been heard QRP)
+N0AC,Rocky,1252,
 N0AC/M,Bill,IA,(1252),
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
@@ -4332,7 +4332,7 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-NM2A,Mark,3014,Pulaski NY
+NM2A,Mark,3014,"QTH Montana for Summer"
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
@@ -6548,6 +6548,7 @@ WD9ICL,Joel,IL,
 WD9Q,Matt,IN,Mitchell IN
 WE0P,John,KS,Marysville KS
 WE4AUB,John,3215,Marietta GA
+WE5J,Scott,TX,Jersy VLG TX
 WE5P,Bill,2372,Richmond KY
 WE7DW,David,OR,Carlton OR
 WE7G,Wayne,1816,Kingman AZ
