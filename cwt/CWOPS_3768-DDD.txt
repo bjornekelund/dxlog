@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-06-26
+# LastEdit,2025-07-04
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -105,7 +105,7 @@ AA3J,Eric,2473,Pittsville MD (WG3J)
 AA3NC,Steve,NY,Hancock NY
 AA3R,Fred,3181,Magnolia DE
 AA3RT,Roy,3648,Levittown PA
-AA3TZ,Tom,CWA,Pittsburgh PA
+AA3TZ,Tom,3772,Pittsburgh PA
 AA4AK,Steve,ME,Brunswick ME
 AA4BG,Steve,OK,Tulsa OK
 AA4BI,Tim,2865,Campobello SC
@@ -1703,6 +1703,7 @@ K2KRG,Steve,1926,Canandaigua NY (Occ. /M or QRP)
 K2KRG/M,Steve,1926,
 K2KT,Tim,VA,Arlington VA
 K2KW,Ken,80,Evington VA
+K2L,Bill,2093,(KB4DE)
 K2LE,Andy,39,Manhasset NY
 K2LML,Bill,FL,Fort Myers FL
 K2LNS,Herb,2208,Wilkes Barre PA
@@ -3293,6 +3294,7 @@ KY4GS,Amanda,3208,Sycamore SC
 KY4GW,Joe,KY,Lawrenceburg KY
 KY4ID,Mike,SC,Trenton SC
 KY4KY,Bull,KY,Bullitt Amateur Radio Society
+KY4NA,Lou,KY,Kentuky Rqadio Oprs.
 KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
 KY9I,Jay,2341,Paducah KY
@@ -5883,7 +5885,7 @@ W4SV,Doc,3155,Townsend TN
 W4TB,Ted,FL,Bradenton FL
 W4THI,Rick,CWA,Jupiter FL
 W4TJE,Jack,1577,Fancy Gap VA
-W4TM,Roy,GA,Sand Springs GA
+W4TM,Roy,3769,Sand Springs GA
 W4TTM,Mark,TN,Bristol TN
 W4TY,Art,VA,Richmond VA
 W4UAT,Larry,CA,Livermore CA

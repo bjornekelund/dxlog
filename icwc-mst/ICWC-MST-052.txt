@@ -3,11 +3,21 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-06-24
+# Last Edit,2025-07-01
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn for his help.
 # Thanks N0TA, KA5M, N5OT for update.
+
+DL8UIL,STEFFAN,
+IZ5LZP,FABIO,
+K3ZD,MARK,
+KE5PYF,DAVE,
+KN4A,STAN,
+KQ4JEZ,GREGG,
+N4PW,MATT,
+PA3EQN,PETER,
+WA3INC,RICK,
 
 K2RMA,ROY,
 K4KFC,MARK,
@@ -6351,7 +6361,6 @@ W7JET,Brian,2993,Apache Junction AZ
 W7JMP,JIM,
 W7JRD,Jim,2994,Hope ID
 W7KF,Doug,2183,Whitefish MT
-W7KFI,Susan,2275,Gulfport MS
 W7KPL,Jerry,AZ,Scottsdale AZ
 W7KXB,Bill,1042,Apache Junction AZ
 W7LC,BILL,

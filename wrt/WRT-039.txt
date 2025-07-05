@@ -1,12 +1,18 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2025-06-27
+# 1-LastEdit,2025-07-03
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Thanks WV4P/NJ4P for updated data.
 # 4-Thanks Bjorn SM7IUN for his help. 
 # 5-
 # WRT
+
+N4W,WWA,TN,
+N0MGK,ROD,MO,
+K6YK,JOHN,CA,
+
+
 4U1UN,YOSHI,
 4U1WB,MASA,
 6Y1A,JAVON,
@@ -287,7 +293,7 @@ K0VIC,KEVIN,MN,
 K0VIK,KEVIN,MN,
 K0VO,SCOTT,MN,
 K0VW,JOHN,WI,
-K0WA,LEROY,KS,
+K0WA,LEE,KS,
 K0WOI,DAN,IA,
 K0XF,MAX,CO,
 K0XM,CHUCK,MO,
