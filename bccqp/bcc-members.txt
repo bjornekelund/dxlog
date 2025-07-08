@@ -211,6 +211,7 @@ DK6CQ,Otto
 DK6NP,Peter
 DK6QX,Kurt
 DK6SP,Philipp
+DK6XZ,Suad
 DK6WL,Helmut
 DK7AM,Uwe
 DK7CH,Karl-Heinz
@@ -468,6 +469,7 @@ WS9O,Stephan
 HB9DQL,Juerg
 HB9ELV,Chris
 HB9EE,Chris
+HB9EMP,Mischa
 JK3GAD,Kazu
 M0CFW,Kazu
 MJ0CFW,Kazu
