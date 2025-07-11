@@ -1,6 +1,6 @@
 # HQ database for IARU HF Championship
 # Data collected and maintained by Joe OZ0J and Bob N6TV
-# Last updated 2025-07-09
+# Last updated 2025-07-11
 3D2HQ=FARA
 3V8LL=ARAT
 3V8SS=ARAT
