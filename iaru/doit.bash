@@ -3,9 +3,11 @@ FOLDER=zipfiles
 ZIPFILE=$FOLDER/itu.zip
 DBFILE=$FOLDER/iaruhq.txt
 
-XDTFILE=iaru2024.xdt
+XDTFILE=iaru*.xdt
 OUTFILE=iaruhq.txt
 
+rm -rf $FOLDER
+rm -f $XDTFILE $OUTFILE
 mkdir -p $FOLDER
 
 echo Downloading $ZIPFILE
