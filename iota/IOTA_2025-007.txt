@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2025-06-10 
+# Last Edit,2025-07-10 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks to Bjorn for his help.
@@ -51,6 +51,7 @@
 5B4KH,,AS004,Cyprus
 5C9A,,AF118,Los Farallones
 5H1NE,,AF032,Zanzibar
+5J0TT,,SA040,Tierra omba By HK1J
 5K2M,,SA082,El Morro Grande
 5P4MG,,EU171,Denmark
 5P5CW,,EU172,Aro
@@ -126,6 +127,7 @@
 9M4TI,,AS073,Redang
 9M6,,OC088,Borneo
 9M6ZAE,,OC088,Borneo
+9M8A,,OC165,USEDOM MM LP
 9M8DEN,,OC088,
 9M8J,,OC088,Borneo
 9M8Z,,OC088,Borneo
@@ -595,6 +597,7 @@ GI4H,,EU115,Main Island of Ireland
 GI4JTF,,EU115,Ireland Main Island
 GI5I,,EU115,
 GI5O,,EU122,Rathlin
+GI7M,,EU122,Rathlin DXP M2 24H LP
 GI7NKK,,EU115,Main Island of Ireland
 GJ,,EU013,Jersey
 GJ0KYZ,,EU013,Jersey 
@@ -605,7 +608,7 @@ GM,,EU005,Great Britain
 GM/S,,EU012,
 GM0B,,EU123,Isle of Bute
 GM0FGI,TOM,EU123,Isle of Bute
-GM0FRT,,EU012,Shetland CW-SSB-Dig Jul 23-28
+GM0FRT/P,,EU012,Shetland CW-SSB-Dig Jul 23-28
 GM0HTT,ALAN,EU009,Orkney
 GM0OGN,,EU010,Isle of Barra
 GM0UKZ,,EU005,Isle of Arran
@@ -704,7 +707,7 @@ IA5Z,,EU028,Capraia,
 IA9YWC,,AF018,Pan Telleria,
 IB0F,,EU045,Ponza,
 IB0R,,EU045,Ventotene Italy,
-IB0V,,eu045,Ventotene 
+IB0V,,EU045,Ventotene 
 IB7V,,EU073,San Pietro M1 IK7IMO IK4DCT
 IC8AJU,,EU031,Capri,
 IC8FAX,,EU031,Capri,
@@ -721,7 +724,7 @@ IG9,,AF018,
 IG9ITO,,AF019,Lampedusa
 IG9Y,,AF019,Lampedusa Italy,
 IH9YMC,,AF018,Pantelleria
-II3Y,TEAM,EU130,Barbana DXP
+II3Y,TEAM,EU130,Barbana DXP CW-SSB M2 HP
 II7P,,EU091,Pedagne Islands
 IJ7DX,,EU073,San Pietro
 IJ7T,,EU073,San Pietro,
@@ -742,10 +745,12 @@ IQ3JT,,EU130,Santa Maria di Barbana
 IQ7HK,,EU091,Capezzone,
 IQ7IA,,EU091,Pedagne Italy,
 IR3M,,EU131,Pellestrina M1
+IR5C,,EU028,Capraia DXP SSB LP
 IR5G,,EU028,Giannutri DXP 24h LP M2
 IR8A,,EU031,Ischia,
 IR9K,,EU025,Sicily 
 IS,,EU024,Sardinia,
+IS0/II1D,,EU024,Sardinia LP
 IS0BGL,,EU024,Sardinia,
 IS0BSR,,EU024,Sardinia,
 IS0DCR,,EU024,Sardinia,
@@ -791,9 +796,9 @@ IW9HMQ,MAURO,EU025,
 IZ8XOU,,EU144,Cirella,
 J3,,NA024,
 J39BS,DEREK,NA024,
+J45E,,EU001,Kos CW SSB 
 J45K,,EU001,
 J45KLN,GORAN,EU001,
-J48A,,EU075,Aegina,
 J48FT,,EU067,Tinos DXP mixed
 J48J,,EU075,Aegina DXP 
 J48JJ,,EU072,
@@ -994,7 +999,7 @@ LA1CI,,EU046,
 LA1QDA,,EU055,Store Sotra,
 LA2MOA,,EU141,Vardo,
 LA4C,,EU055,Kvitsoy
-LA4C,,EU055,Kvitsoy DXP
+LA4C,,EU055,Roevaer
 LA4FPA,ERLING,EU056,
 LA4WKA,HUGO,EU055,
 LA5GOA,,EU055,Urter,
@@ -1125,7 +1130,7 @@ MM3LQK,,EU009,Stronsay,
 MM3N,,EU005,Great Britain,
 MM3S,,EU012,Shetland Mainland byG0MFR
 MM3T,DOUG,EU123,
-MM5DB,,EU008,
+MM5DB/P,,EU010,Harris DXP
 MM7DVZ,,EU005,Great Britain
 MM8C,,EU111,Ceann Ear
 MM8Z,,EU123,Cumbrae
@@ -1138,9 +1143,9 @@ MS0YHC,,EU120,Orkney
 MU0FAL,COLIN,EU114,Guernsey,
 MU0GSY,LIONEL,EU114,Guernsey,
 MU2K,,EU114,Guernsey
-MU5E,,EU114,Guernsey
 MU5E,,EU114,Herm DXP by GU4YOX
 MW1MDH,,EU005,Great Britain,
+MW1U,,EU124,Holy SSB 12H
 MW8T,,EU005,Great Britain
 MW8T,,EU005,Great Britain,	
 MX5A,,EU011,StMary's DXP
@@ -1154,7 +1159,7 @@ NP4EG,,NA099,Puerto Rico,
 NP4G,,NA099,Puerto Rico,
 NP4Z,,NA099,Puerto Rico
 OF1TD,,EU096,Korpo
-OG1N,,EU096,Houtskar Berghamn
+OG1N,,EU096,Houtskar Berghamn M2 HP
 OG4X,,EU096,
 OG5A,,EU140,Nuokot Finland
 OH0,,EU002,
@@ -1190,7 +1195,7 @@ OU4ZZ,,EU171,Vendsyssel-Thy/Nordjylland,
 OV1CDX,FRANK,EU029,Sjaelland,
 OV1RR,,EU029,Sjaelland
 OV2T,,EU171,Vendsyssel Thy
-OV3W,,EU172,Aero
+OV3W,,EU172,Hjarnoe M1 HP
 OV3X,,EU029,Falster,
 OV4W,,EU172,Aaro M1 HP
 OV7X,,EU172,Bago
@@ -1399,7 +1404,7 @@ SV0XAF,MIKE,EU067,Paros,
 SV5,,EU001,
 SV5DKL,,EU001,Rhodes
 SV8CS,,EU052,
-SV8/DH5FS,,EU052,Paxos
+SV8/DH5FS,,EU052,Zakynthos CW-SSB LP 
 SV8CYR,,EU049,Samos,
 SV8CYV,,EU049,Samos,
 SV8GGI,,EU075,Salamina
@@ -1499,6 +1504,7 @@ V31MX,,NA073,Belize,
 V31TA,JIM,NA123,Turneffe Atoll,
 V31WH,,NA073,
 V4,,NA104,
+V47EM,,NA104,St Kitts CW SSB
 V47JA,,NA104,StKitts 
 V6,,OC010,
 V7,,OC028,
@@ -1607,6 +1613,7 @@ WP4I,,NA099,
 WP4U,,NA099,Puerto Rico,
 XF2L,,NA224,Enmedio Isl.
 XF4,,NA030,
+XM2I,,NA128,Ile aux Coudres  NA128 Contest Group - DXP M2
 XR1T,,SA069,Santa Maria
 YB,,OC021,Java,
 YB0AZ,,OC021,
