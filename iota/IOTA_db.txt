@@ -1,7 +1,7 @@
 # IOTA Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-07-14
+# Last updated 2025-07-16
 2E0CVN=EU005
 2E0EVM=EU005
 2E0GKW=EU005
@@ -1125,11 +1125,11 @@ P3J=AS004
 P3R=AS004
 P3X=AS004
 P43E=SA036
+PA/DA1DX=EU038
 PA0HFT=EU038
 PA2G=EU146
 PA2JJB=EU038
 PA2SWL=EU038
-PA2TMS=EU038
 PA38EU=EU038
 PA3FKN=EU039
 PA4EL=EU146

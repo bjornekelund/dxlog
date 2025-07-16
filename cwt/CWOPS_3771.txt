@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-07-10
+# LastEdit,2025-07-14
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -6742,7 +6742,7 @@ XE2V,Mode,,La Paz Mexico
 XE2X,Jorge,796,Hidalgo TX
 XE3A,Pablo,3138,Yucatan Mexico
 XK1AAA,Gerry,191,(W1VE)
-XM2I,DUB,QC,(VE2FK)
+XM2I,DUB,QC,(VE2FK) Look for us in IOTA
 XQ1KZ,Nicolas,,Antofagasta Chile
 XQ4CW,Roberto,,Curico Chile
 XV2W,Larry,1209,Ho Chi Minh City Vietnam
