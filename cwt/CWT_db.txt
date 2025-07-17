@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3772
-# Last updated 2025-07-16
+# Contains members up to #3773
+# Last updated 2025-07-17
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -965,7 +965,6 @@ G0CEJ=Harry;G
 G0CKP=Steve;2451
 G0DJA/P=Dave;266
 G0DJA=Dave;266
-G0EFO=Mike;G
 G0ELZ=Bill;239
 G0EML=Ray;G
 G0FGE=Basil;3436
@@ -3137,7 +3136,7 @@ KO5USA=Tom;TX
 KO6U=Nathan;CA
 KO8SCA=AC;2408
 KP2/K3CT=John;466
-KP2M=Phil;KP2
+KP2M=Phil;VI
 KP2Q=John;466
 KP3N=Oz;3176
 KP3SK=Angel;1792
@@ -3756,6 +3755,7 @@ N4GU=Mike;737
 N4HAI=Tom;1099
 N4HAY=Dick;3460
 N4HOE=Hal;3060
+N4IIT=Charlie;GA
 N4IJ=Doug;1938
 N4IN=Dave;3677
 N4IQ=Bill;1610
@@ -6121,7 +6121,7 @@ W8BO=Phil;OH
 W8BUB=Tom;OH
 W8BZY=Jim;2345
 W8CAR=Dan;1220
-W8CS=Craig;CWA
+W8CS=Craig;3773
 W8DHG=Cory;OH
 W8DN=Mike;1813
 W8DO=Dave;MI
@@ -6807,6 +6807,7 @@ ZL2KE=Steve;1281
 ZL3CW=Jacky;3270
 ZL3XDJ=Brian;ZL
 ZL4BDG=Ben;3382
+ZL4TT=Paul;ZL
 ZL4YY=Yannick;ZL
 ZM4YY=Yannick;ZL
 ZP9MCE=Manu;3103

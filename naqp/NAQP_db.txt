@@ -1,7 +1,7 @@
 # North American QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-07-11
+# Last updated 2025-07-17
 4U1UN=YOSHI;
 4U1WB=MASA;
 6Y1A=JAVON;
@@ -531,6 +531,7 @@ K6CW=DON;CA
 K6DAV=DAVID;CA
 K6DGW=SKIP;NV
 K6DLK=DAN;CA
+K6EI=JIM;WA
 K6ELE=ED;CA
 K6FA=DAVID;CA
 K6FEU=TOM;UT

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CVA.txt | tail -1 2> /dev/null`
+INFILE=`ls LABRE_* | tail -1 2> /dev/null`
 OUTFILE=LABREDX_db.txt
 
 echo Parsing $INFILE
