@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#0 RCWC member database based on data from http://rcwc.ru\n");
+  printf("#0 RCWC member database based on data from https://rcwc.ru/?do=members\n");
   printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=" "
 }
