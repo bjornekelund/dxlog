@@ -3,11 +3,19 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-07-13
+# Last Edit,2025-07-21
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
-# Thanks Bjorn for his help.
+# Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
+
+KW4GF,ED,
+WA5SNL,GIL,
+WA6DWH,DAVE,
+N3KI,NICK,
+N5NEN,PAUL,
+K0TB,TOM,
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -6105,7 +6113,7 @@ W4QDV,DAVE,,GA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
 W4RAB,DAVE,
-W4RJF,RON,NC,
+W4RJF,RJ,NC,
 W4RK,Bill,459,Jefferson City MO
 W4RKU,Kevin,1978,ex: KX4KU  Boston VA
 W4RM,Bill,2330,Nokesville VA

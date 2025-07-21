@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2025-07-10 
+# Last Edit,2025-07-19 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks to Bjorn for his help.
@@ -51,7 +51,9 @@
 5B4KH,,AS004,Cyprus
 5C9A,,AF118,Los Farallones
 5H1NE,,AF032,Zanzibar
+5H1VJ,,AF032,ZANZIBAR
 5J0TT,,SA040,Tierra omba By HK1J
+5K0T,,SA078,TIERRA BOMBA
 5K2M,,SA082,El Morro Grande
 5P4MG,,EU171,Denmark
 5P5CW,,EU172,Aro
@@ -66,6 +68,7 @@
 5R,,AF013,
 5R8NE,,AF057,
 5W,,OC097,
+5Z4VJ,,AF032,ZANZIBAR
 6Y,,NA097,
 6Y5WJ,,NA097,Jamaica
 7D5X,,OC245,Rupat
@@ -86,6 +89,7 @@
 8P,,NA021,
 8Q,,AS013,
 8S0W,MAGNUS,EU084,Muskoe
+9A/OM6NM,,EU136,MALE SRAKANE
 9A0A,,EU170,Pasman 
 9A0AA,,EU016,Vis Croatia
 9A0BR,,EU016,Brac
@@ -101,7 +105,7 @@
 9A2ZRS,,EU090,Palagreuza Vela Island
 9A3VIS,,EU016,Vis
 9A4A,,EU170,Croatia
-9A4KJ,,EU136,Rab
+9A4KJ,,EU136,Rab  12 HR MIX LP
 9A4OP,,EU170,Zlarin DXP
 9A4W,TOM,EU016,Brac
 9A5BDD,IVAN,EU170,Pag
@@ -157,6 +161,7 @@ A92AA,,AS002,Bahrain
 A92FQ,,AS002,Al Muhurraq
 A92GR,,AS002,
 A92IO,,AS002,Bahrain
+AA1AC,,NA031,AQUIDNECK
 AA2TH,,NA026,Long
 AG2J,,NA111,Seven Mile Beach
 AH6OY,,OC019,Oahu
@@ -346,7 +351,8 @@ DV8VMI,,OC130,Mindanao
 DW7EVQ,,OC129,Cebu
 DX1ARC,,OC042,Luzon 
 DX3EVM,,OC244,Dos Hermanas
-DX6EVM,,OC129,Guimaras 
+DX6EVM,,OC129,Guimaras
+DX7EVM/1,,OC244,CRESTA DI ALLO  
 DX8CAD,,OC130,Mindanao Isl. 
 DX9EVM,,OC130,Mindanao LP M1
 DY1P,,OC042,Luzon
@@ -525,7 +531,7 @@ G3XTZ,,EU005,Great Britain
 G3YJQ,,EU005,Great Britain
 G3YRZ,,EU005,Great Britain
 G4A,,EU005,Great Britain
-G4ALE,,EU120,Isle of Wight
+G4ALE,,EU120,Isle of Wight M2 LP
 G4AYU,,EU005,Great Britain
 G4BLI,,EU005,Great Britain
 G4C,,EU005,Great Britain
@@ -628,6 +634,7 @@ GM3XSV,,EU010,Isle of Lewis
 GM3YOR,,EU005,
 GM3ZDH,,EU005,Great Britain
 GM4A,,EU008,
+GM4AGG/P,,EU123,ISLE OF ARRAN M1 LP
 GM4BJM,,EU010,Uist
 GM4KGK,NORMAN,EU010,Isle of Lewis
 GM4NFI,,EU008,Fladda
@@ -725,6 +732,7 @@ IG9ITO,,AF019,Lampedusa
 IG9Y,,AF019,Lampedusa Italy,
 IH9YMC,,AF018,Pantelleria
 II3Y,TEAM,EU130,Barbana DXP CW-SSB M2 HP
+II7P,,EU091,PEDAGNA GRANDE
 II7P,,EU091,Pedagne Islands
 IJ7DX,,EU073,San Pietro
 IJ7T,,EU073,San Pietro,
@@ -840,6 +848,7 @@ JA6LCJ,,AS012,Amakusa Kami,
 JA6WFM,HIRO,AS077,Kyushu,
 JA6WJL,YASU,AS077,Kyushu,
 JA7OWD,,AS007,Honshu
+JA8COE,,AS078,HOKKAIDO
 JA8RWU,AKIRA,AS078,Hokkaido Island,
 JA9EJG,,AS007,Honshu
 JD,,AS007,Honshu,
@@ -950,7 +959,9 @@ JW0W,,EU063,Prins Karis Forland
 JW2US,,EU063,Svalbard,
 JW5E,,EU026,
 JX,,EU022,
+K4OV,,NA067,HARKER'S
 K4RUM,,NA026,Long
+K4T,,NA083,TANGIER
 K8R,,OC044,Samoa
 KC2MBV,,NA026,Long
 KD2RD,,NA126,Long
@@ -1278,7 +1289,7 @@ PB2T,,EU146,Goeree Overflakkee M2 24H
 PC38EU,,EU038,TEXEL
 PC6IOTA,,EU038,
 PD5CW,,EU146,
-PE146U,,EU146,Schouten Duiveland M2 24/hrs
+PE146U,,EU146,Schouten Duiveland MIX M2 24/hrs
 PE55TEX,,EU038,Texel
 PF10C,,EU146,Schouwen Duiveland Netherlands,
 PF14A,,EU146,Schouwen Duiveland,
@@ -1365,7 +1376,7 @@ S9,,AF023,
 SA1A,,EU020,Gotland,
 SA1B,,EU020,
 SA6G,,EU137,
-SA6U,,EU043,Tjorn,
+SA6U,,EU043,Tjorn, MIX HP
 SA7J,,EU037,Oland,
 SCX8T,,EU174,Amouliani
 SD1A,,EU020,Gotland
@@ -1517,6 +1528,7 @@ VA7ISL,,NA036,Vancouver,
 VA7NNT,,NA075,Gabriola
 VA7PX,JOHN,NA075,
 VA7RN,LES,NA036,Vancouver,
+VE1LD,,NA127,Brier Island NS
 VE1YDX,,NA127,Brier by VE1JS 12 hrs (first) SSB
 VE7ACN,Mike,NA036,Vancouver Isl.
 VE7BGP,,NA036,Vancouver
