@@ -1,0 +1,43 @@
+ASL	Abbotsford-South Langley
+BNS	Burnaby North-Seymour
+BUC	Burnaby Central
+CHP	Chilliwack-Hope
+CKS	Columbia-Kootenay-Southern Rockies
+CLC	Cloverdale-Langley City
+CML	Cowichan-Malahat-Langford
+COA	Courtenay-Alberni
+CPC	Coquitlam-Port Coquitlam
+CPG	Cariboo-Prince George
+DEL	Delta
+ESQ	Esquimalt-Saanich-Sooke 
+FPK	Fleetwood-Port Kells
+KEL	Kelowna
+KSC	Kamloops-Shuwswap-Central Rockies
+KTN	Kamloops-Thompson-Nicola
+LTF	Langley Township-Fraser Heights
+MMA	Mission-Matsqui-Abbotsford
+NAL	Nanaimo-Ladysmith
+NBM	New Westminster-Burnaby-Maillardville
+NPR	North Island-Powell River
+NVC	North Vancouver-Capilano
+OSK	Okanagan Lake West-South Kelowna
+PMC	Port Moody-Coquitlam 
+PMM	Pitt Meadows-Maple Ridge
+PPN	Prince George-Peace River-Northern Rockies
+RCM	Richmond Center-Marpole
+RES	Richmond East-Steveston
+SBV	Skeena-Bulkley Valley
+SGI	Saanich-Gulf Islands
+SSW	Similkameen-South Okangan-West Kootenay
+SUC	Surrey Centre
+SUN	Surrey Newton
+SWR	South Surrey-White Rock
+VAC	Vancouver Centre
+VAE	Vancouver East
+VAG	Vancouver Granville
+VAK	Vancouver Kingsway
+VAQ	Vancouver Quadra
+VIC	Victoria
+VLM	Vernon-Lake Country-Monashee
+VSB	Vancouver Fraserview-South Burnaby
+WVS	West Vancouver-Sunshine Coast-Sea to Sky Country
