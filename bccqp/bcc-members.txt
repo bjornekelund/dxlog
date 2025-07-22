@@ -25,7 +25,6 @@ SA5YCL,Claudia
 DC2VE,Frank
 DN1VN,Frank
 DC2YY,Markus
-DC6RI,Andreas
 DC8YZ,Michael
 DD1JN,Karsten
 DD1MAT,Niko
@@ -119,6 +118,8 @@ N0MX,Mario
 DJ2VA,Michael
 DR2E,Michael
 DN2FM,Michael
+DJ2YA,Uli
+N2YA,Uli
 DJ3CQ,Jo
 DJ3NG,Sigi
 DJ3NY,Klaus
@@ -212,6 +213,7 @@ DK6NP,Peter
 DK6QX,Kurt
 DK6SP,Philipp
 DK6XZ,Suad
+E77XZ,Suad
 DK6WL,Helmut
 DK7AM,Uwe
 DK7CH,Karl-Heinz

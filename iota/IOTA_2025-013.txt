@@ -4,7 +4,7 @@
 # Info from NG3K RSGB Iota Contest Announced operations.
 # Info from OPDX Bulletin.	
 # IOTA
-# Last Edit,2025-07-19 
+# Last Edit,2025-07-21 
 # RSGB IOTA contest,
 # Send info, correction DIRECT to ve2fk@arrl.net
 # Thanks to Bjorn for his help.
@@ -636,6 +636,7 @@ GM3ZDH,,EU005,Great Britain
 GM4A,,EU008,
 GM4AGG/P,,EU123,ISLE OF ARRAN M1 LP
 GM4BJM,,EU010,Uist
+GM4G,,EU123,ISLE OF ARRAN M1
 GM4KGK,NORMAN,EU010,Isle of Lewis
 GM4NFI,,EU008,Fladda
 GM4OSS,,EU005,Great Britain
@@ -679,6 +680,7 @@ GW7O,ED,EU124,Holy
 GW8K,,EU124,Welsh
 GW9T,,EU005,Great Britain
 GX5TO,,EU005,
+GX7C,,EU005,
 H25A,,AS004,Cyprus	
 H2T,,AS004,Cyprus
 H4,,OC047,
@@ -1209,7 +1211,7 @@ OV2T,,EU171,Vendsyssel Thy
 OV3W,,EU172,Hjarnoe M1 HP
 OV3X,,EU029,Falster,
 OV4W,,EU172,Aaro M1 HP
-OV7X,,EU172,Bago
+OV7X,,EU172,Baago bu DL2JRM  LP
 OV9M,,EU171,Vendsyssel
 OX,,NA018,
 OX3LX,Bo,NA134,Aasiaat Isl.

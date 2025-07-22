@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4426
-# Last updated 2025-07-17
+# Contains members up to #4427
+# Last updated 2025-07-22
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -901,6 +901,7 @@ DL2HEB=2327
 DL2HQ=1635
 DL2HS=3294
 DL2HWB=2923
+DL2IKE=4427
 DL2IQ=2655
 DL2JES=1917
 DL2JRM=2091
