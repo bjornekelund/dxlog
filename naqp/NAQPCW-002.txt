@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
  
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2025-07-20
+# 1-LastEdit,2025-07-22
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from log of VE2FK
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -301,6 +301,7 @@ K1EFI,FRED,MD,
 K1GG,GORDON,VA,
 K1GU,NED,TN,
 K1HAR,CHARLIE,GA,
+K1IBM,SKIP,VT,
 K1IMI,BERT,ME,
 K1JB,JOE,ME,
 K1KP,TONY,MA,
@@ -2988,6 +2989,7 @@ W6KK,CHUCK,CA,
 W6MVM,MIKE,CA,
 W6PH,KURT,CA,
 W6PZ,ALAN,CA,
+W6RIF,REED,VA,
 W6RKC,RICK,CA,
 W6RO,KEN,CA,
 W6RW,MIKE,AZ,

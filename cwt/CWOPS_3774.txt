@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-07-16
+# LastEdit,2025-07-22
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -6072,6 +6072,7 @@ W6YA,Jim,72,Leucadia CA
 W6YR,Joe,1990,Yorba Linda CA
 W7ACM,Greg,WA,Everett WA
 W7AIT,Chip,CA,Modesto CA
+W7AQB,Jared,3774,Fenton MO
 W7BRS,Jeff,WA,Fall City
 W7CQW,Quint,ID,Post Falls ID
 W7CT,Jim,287,Mentone AL

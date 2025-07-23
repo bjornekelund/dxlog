@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2025-07-15
+# 1-Last Edit,2025-07-22
 # 2-Updated on tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -1071,6 +1071,7 @@ E77F,FERID,DX,
 EA1AAE,Manel,DX,Soria Spain
 EA1AVX,JOSE,DX,Soria Spain
 EA1EX,ANDRES,DX,Zamora Spain
+EA1FDE,MARM,DX,
 EA1FEN,AMADO,DX,Principality of Asturias Spain
 EA1IIB,NONE,DX,Leon Spain
 EA2BJ,GALDER,DX,Bizkaia Spain
@@ -1083,6 +1084,7 @@ EA3FNT,Arnau,DX,Girona (Catalonia) Spain
 EA3GNU,AL,DX,Sant Joan Despi Spain
 EA3KT,PAU,DX,
 EA4HKF,JOSE,DX,Puertollano Spain
+EA4JI,CARLOS,DX,
 EA4T,JORGE,DX,Quijorna Madrid Spain
 EA5DO,NELO,DX,ManisesSpain
 EA5IUY,GARY,DX,Muro de Alcoy Spain
@@ -2372,6 +2374,7 @@ K4JFI,TOM,NC,
 K4JGA,JOE,FL,Casselberry FL
 K4JH,JAV,NC,
 K4JHK,,FL,
+K4JIP,CLIFF,NC,
 K4JJW,,NC,
 K4JK,,VA,
 K4JKB,JOE,VA,
@@ -2441,6 +2444,7 @@ K4MQM,MATT,AL,Fairhope AL
 K4MSG,PAUL,VA,
 K4MTI,MIKE,FL,
 K4MW,,VA,
+K4MW,PETE,VA,
 K4MWB,,NC,
 K4MWM,MIKE,NC,
 K4MX,,VA,
@@ -7724,7 +7728,7 @@ N5EIL,NEIL,NY,
 N5EKO,JERRY,TX,Spring TX
 N5EKW,DAVE,TX,
 N5EM,ED,TX,
-N5EP,STEVE,WI,
+N5EP,STEVE,IL,
 N5EPU,,AR,
 N5ER,JOHN,AR,
 N5FAC,,AR,
@@ -11055,7 +11059,7 @@ W1W,KEN,MA,Waltham MA (AB1J)
 W1WAI,,MA,
 W1WBB,BILL,RI,
 W1WD,JOHNATHAN,TN,Nashville TN
-W1WEF,JACK,CT,
+W1WEF,JACK,MA,
 W1WIU,,RI,
 W1WLW,JOE,MA,
 W1WQG,BRUCE,CT,
@@ -12039,6 +12043,7 @@ W4XMT,TOMMY,NC,
 W4XO,LEX,GA,
 W4XP,,VA,
 W4YA,,FL,
+W4YAS,YAS,NC,
 W4YCZ,,VA,
 W4YDL,JOE,NC,Hubert NC
 W4YDY,,NC,
@@ -12123,6 +12128,7 @@ W5ETG,,TX,
 W5ETZ,STEVE,MS,
 W5EU,,TX,
 W5EW,RAY,LA,
+W5EWF,KARL,FL, 
 W5FB,ASA,VA,Virginia Beach VA
 W5FBQ,BOB,TX,White Deer TX
 W5FF,,NM,
