@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-07-22
+# LastEdit,2025-07-23
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1500,6 +1500,7 @@ K0LRQ,Ron,CWA,Fenton MO
 K0LUZ,Red,956,(Gary) Longwood FL
 K0MD,Scott,305,Rochester MN
 K0MD/4,Scott,305,QRP portable
+K0MLD,Maack,CO,
 K0MLF,Don,UT,La Verkin UT
 K0MP,Bill,1736,Tucson AZ
 K0MPH,Roger,MN,Maple Grove MN
@@ -2748,6 +2749,7 @@ KD7GOM,PAT,3189,Concho AZ
 KD7KDO,Paul,CWA,Phoenix AZ
 KD7MA,Howard,WA,Kirkland WA
 KD7MT,Charlie,3090,Billings MT
+KD7ND,Mike,AZ
 KD7UI,John,1363,Wauna WA
 KD7YDT,Peter,WA,Kent WA
 KD7ZVQ,Dave,3311,Seattle WA
