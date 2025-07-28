@@ -1,4 +1,4 @@
-SOURCE=arrlsorted.txt
+SOURCE=arrl-sorted.txt
 DEST=regex-arrl.txt
 
 echo Using $SOURCE
