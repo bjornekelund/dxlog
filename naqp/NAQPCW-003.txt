@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
  
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2025-07-22
+# 1-LastEdit,2025-07-27
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from log of VE2FK
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -93,6 +93,7 @@ AB9PM,DAVID,WI,
 AB9TA,ART,IL,
 AB9YC,AJ,IL,
 AC0C,JEFF,KS,
+AC0E,JIM,KS,
 AC0JX,STEVE,MN,
 AC0PE,KEN,MO,
 AC0W,BILL,MN,
@@ -1907,6 +1908,7 @@ NR9O,JOHN,CO,
 NS0R,MO,KS,
 NS4T,PAT,GA,
 NS4X,BART,TN,
+NS8O,GREG,OH,
 NT0C,RON,MO,
 NT0EE,RICH,MN,
 NT5V,JIM,TX,

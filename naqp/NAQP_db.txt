@@ -1,7 +1,7 @@
 # North American QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-07-23
+# Last updated 2025-07-28
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
 AA0AO=TOM;MN
@@ -79,6 +79,7 @@ AB9PM=DAVID;WI
 AB9TA=ART;IL
 AB9YC=AJ;IL
 AC0C=JEFF;KS
+AC0E=JIM;KS
 AC0JX=STEVE;MN
 AC0PE=KEN;MO
 AC0W=BILL;MN
@@ -1893,6 +1894,7 @@ NR9O=JOHN;CO
 NS0R=MO;KS
 NS4T=PAT;GA
 NS4X=BART;TN
+NS8O=GREG;OH
 NT0C=RON;MO
 NT0EE=RICH;MN
 NT5V=JIM;TX
