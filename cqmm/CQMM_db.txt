@@ -1,6 +1,6 @@
 # CQMM DX database
 # Data collected by VE2FK and from https://site.cwjf.com.br
-# Last updated 2025-07-28
+# Last updated 2025-07-30
 2E0FFT=EUQ
 3B8DB=AFM
 3B8HH=AFM
@@ -17,6 +17,7 @@
 4S7AB=ASM
 4S7KM=ASM
 4T4T=SAM
+4X1GA=ASM
 4Z4DX=ASM
 4Z4YA=ASM
 5B4AOF=ASM

@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-07-23
+# LastEdit,2025-07-29
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -922,6 +922,7 @@ F5PBL,Claude,2326,Villeparisis France
 F5PGA,Peter,,Vercheny France
 F5PLC,Mike,2370,Evette-Salbert France
 F5PXP,Jean,3404,France
+F5RDS,Oli,3775,Paris France
 F5ROW,Eric,,Hardinvast France
 F5RQG,Chris,,Mouxy France
 F5RQG,Chris,3661,Mouxy France
@@ -3483,6 +3484,7 @@ N0GEF,Greg,MN,Annadale MN
 N0HJZ,Rich,2868,Henderson MN
 N0HOV,Joe,2902,Papillion NE
 N0HYD,Burke,KS,Wichita KA
+N0ICE,Anbthony,KS,Shawnee KS
 N0IJ,John,MN,Duluth MN
 N0IM,Rose,3118,(Christine) CO
 N0IP,Todd,CWA,Canby MN
