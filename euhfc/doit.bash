@@ -1,13 +1,17 @@
 #!/bin/bash
-INFILE=`ls EUHFC[^_]* | tail -1 2> /dev/null`
+ZIPFILE=DXLog.zip
 OUTFILE=EUHFC_db.txt
 
-echo Parsing $INFILE
-dos2unix -q $INFILE
+echo Downloading $ZIPFILE
 
-tr -d ' ' < $INFILE | gawk -f euhfc.awk | sort | sed 's/^\#. /\# /g' > $OUTFILE
+wget -q https://euhf.s5cc.eu/history_files/DXLog.zip -O $ZIPFILE
 
-unix2dos -q $OUTFILE $INFILE
+echo Unzipping $ZIPFILE
+
+unzip -q -o $ZIPFILE
+
+unix2dos -q $OUTFILE
+
 echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
