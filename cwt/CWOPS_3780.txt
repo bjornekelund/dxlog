@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-07-29
+# LastEdit,2025-08-01
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -2213,6 +2213,7 @@ K6ZD,Dave,2157,San Jose CA
 K6ZGW,Barry,2390,Valley Glen CA
 K6ZO,Don,1375,Washington DC
 K6ZY,Alan,2388,Lanley WA
+K6ZZ,Jim,3780,La Grande KY
 K7AAK,Rob,AZ,Lake Havasu City AZ
 K7ABV,Eric,MT,Great Falls MT
 K7AHR,Andy,2460,Portland OR
@@ -2785,6 +2786,7 @@ KE1B,Rich,735,Los Gatos CA
 KE1DX,Angelo,CT,Colchester CT
 KE1F,Lou,769,Palm Coast FL
 KE1J,Lars,2037,South Kingstown RI
+KE2AIZ,Maggie,NY,Levonia NY
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
 KE2LW,Ron,NY,Rochester NY
@@ -3120,7 +3122,6 @@ KN6RDC,CHRIS,3730,Meridian ID
 KN6UDK,Bill,CWA,Sacramento CA
 KN6UDX,Michele,CA,Tollhouse CA
 KN6VQ,Jac,3748,Ojai CA
-KN6VQ,Jac,CWA,Ojai CA
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
 KN7Y,Jack,3294,Mesa AZ
@@ -3170,7 +3171,7 @@ KP4P,Tele,490,Ponce PR
 KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN (Been heard QRP)
-KQ1O,Santi,VA,
+KQ1O,Santi,3778,Midlothian VA,
 KQ3H,Tony,NC,Greensboro NC
 KQ4DFV,Mike,3638,Port Charlotte, FL
 KQ4E,Jim,3598,Rogersville TN
@@ -5179,6 +5180,7 @@ VA3AR,Stef,ON,Caledon ON
 VA3CWT,Gabe,3537,Toronto ON
 VA3CX,Ron,1775,London ON
 VA3DKL,Dave,2847,Kitchener ON
+VA3EKR,Scott,3776,Oakville ON
 VA3FH,Victor,ON,Smithville ON
 VA3FN,John,ON,Tecumseh ON
 VA3FV,Les,1701,Mississauga ON (Also VE3ABN)
@@ -5611,6 +5613,7 @@ W1MD,Marty,2591,Palm Bay FL
 W1MO,Norm,FL,New Smyrna Beach FL
 W1MTT,Curt,830,Keaau HI
 W1ND,Glen,3101,South Berwick ME
+W1NGO,Noah,3779,Burlington VT
 W1NN,Hal,785,Medina OH (Occ. remote from Japan)
 W1NU,Ryan,MA,Belchertown MA
 W1NV,Mike,3726,Highlands Ranch CO
@@ -5791,6 +5794,7 @@ W4/LZ5KF,Claude,2326,(F5PBL)
 W4ALF,Chris,KY,Independence KY
 W4ANE,Jim,SC,Columbia SC
 W4AQL,Bruce,2297,(KN8U) Georgia Tech ARC Atlanta GA
+W4ARB,Aaron,3777,Notasulga AL
 W4AU,John,224,Hamilton VA
 W4BGT,Jim,GA,Snellville GA
 W4BR,John,1273,Fernandina Beach FL
