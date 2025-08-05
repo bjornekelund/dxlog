@@ -3,19 +3,11 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-07-21
+# Last Edit,2025-08-04
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
-
-KW4GF,ED,
-WA5SNL,GIL,
-WA6DWH,DAVE,
-N3KI,NICK,
-N5NEN,PAUL,
-K0TB,TOM,
-
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -517,6 +509,7 @@ CN8YR,Med,1656,Casablanca Morocco
 CO2IR,Frank,1147,La Habana Cuba
 CO2UE,Fred,,Habana Cuba
 CO6RD,Rey,1898,Sancti Spiritus Cuba
+CO7FR,FRANK,
 CO8CY,Oriol,,Guantanamo Cuba
 CO8NMN,Noe,,Santiago de Cuba
 CO8ZZ,Raul,1682,Las Tunas Cuba
@@ -814,6 +807,7 @@ EA4KD,Pete,,Madrid Spain
 EA4M,Rick,1070,(Ricardo) (EA4ZM)   Aranjuez Spain
 EA4OR,Nacho,2218,Meco Madrid Spain
 EA4ZK,Rick,1070,(Ricardo) Aranjuez Spain
+EA5EL,GEN,
 EA5FID,Juan,2977,Alicante Spain
 EA5FV,Dani,,Murcia Spain
 EA5IIK,Andy,,Castellon Spain
@@ -943,6 +937,7 @@ F8BJE,Guy,,Metz France
 F8DGF,Nico,,St-Genies de Malgoires France
 F8DGY,Chris,,Boissile Le Roi France
 F8DML,Bernard,,Dunkerque France
+F8DSW,CARLOS,
 F8FQX,Nic,F,France
 F8FSN,Georges,2610,Carpentras France
 F8NUH,Jean,,St-Andre Le Gaz France
@@ -1461,6 +1456,7 @@ K0RAR,Rob,KS,Richmond KS
 K0RF,Chuck,887,Longmont CO
 K0RU,Rob,KS,Gardner KS
 K0SN,Tom,1344,Missoula MT
+K0TB,TOM,
 K0TC,Ron,1421,Roseville MN
 K0TER,JERRY,,Colorado Springs CO
 K0TG,John,1830,Vadnais MN
@@ -1879,6 +1875,7 @@ K4EU,Steve,1329,Culpeper VA
 K4EWG,Pete,502,Stockbridge GA
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
+K4FR,SCOTT,
 K4FT,John,304,Crab Orchard KY
 K4FV,Neil,FL,Coral Springs FL
 K4GJF,Gary,VA,Stephens VA
@@ -2585,6 +2582,7 @@ KB1KBI,TED,,Ledyard CT
 KB1KXL,Jeff,CA,East Palo Alto (QRP KX3)
 KB1MEE,Mark,ME,Mexico ME
 KB1NO,John,3020,Norfolk MA
+KB1V,RYAN,
 KB1VUN,ERIC,
 KB1VX,Barry,ME,Kittery ME
 KB1W,Len,MA,(Lenny)  Pittsfield MA
@@ -2675,6 +2673,7 @@ KC1AID,Len,MA,Northborough MA
 KC1APK,Dave,VT,Colchester VT
 KC1CRS,Anne,MA,Greenfield MA
 KC1DLY,Matt,CT,Southington CT
+KC1FAB,FRANK,
 KC1KUG,Bray,MA,
 KC1LZX,Rob,2417,Worcester MA
 KC1NAF,TIFFANY,
@@ -3249,6 +3248,7 @@ KN4A,STAN,
 KN4ADM,REGGIE,GA,Portal GA
 KN4BAR,Paul,
 KN4BDF,JASON,
+KN4CW,BEAR,
 KN4DEB,Arnie,2658,Spotsylvania VA
 KN4IIY,Eric,FL,Winter Park FL
 KN4IXU,Rob,CWA,Mint Hill NC
@@ -3439,6 +3439,7 @@ KW1U,Marcia,706,Concord MA
 KW1X,MARK,
 KW2A,PHIL,
 KW4AU,Kyle,AL,Pleasant AL
+KW4GF,ED,
 KW4JM,Scott,CWA,Asheville NC
 KW4MG,Gary,FL,Plantation FL
 KW4NJA,SCOTT,
@@ -3857,6 +3858,7 @@ N3JFD,JOHN,,Finleyville PA
 N3JG,JERRY,WV,Paw Paw WV
 N3JT,Jim,1,Mclean VA and FL 
 N3JUY,Ridge,FL,(John)  Palm Coast
+N3KI,NICK,
 N3KN,Tony,VA,Blacksburg VA
 N3KR,Paul,PA,Philadelphia PA
 N3KS,Kam,146,Towson MD
@@ -4084,6 +4086,7 @@ N5LOW,TERRY,TX,Seabrook TX
 N5LYJ,Ken,994,Wichita Falls TX
 N5MI,Mark,,Odessa TX,
 N5NA,Alan,TX,Midland TX
+N5NEN,PAUL,
 N5NHJ,Max,24,Allen TX
 N5NR,PAUL,,Spring TX
 N5NU,Jason,1920,Nacogdoches TX
@@ -4452,6 +4455,7 @@ NE7EE,Chris,2616,Scottsdale AZ
 NE8J,Howard,1940,Coopersville MI
 NE9U,Scott,2438,Menomonie WI
 NF0N,Mike,1383,South Sioux City NE
+NF0T,RYAN,
 NF1A,ART,,Billerica MA
 NF1R,Clay,CA,Stanford CA
 NF1U,Fred,CT,Burlington CT
@@ -5277,6 +5281,7 @@ US0MF,Serge,381,Lisichansk Ukraine
 US2YW,Slava,2828,Chernivtsi Ukraine
 US3EZ,Serge,,Ukraine
 US4IRC,Gena,,Donetsk Ukraine
+UT1KT,YURI,
 UT1LF,Alex,,Khar'Kov Ukraine
 UT2UB,Andre,,Klev UIkraine
 UT3GP,Vlad,,Kherson Ukraine
@@ -5423,7 +5428,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,Eastern QC.
+VE2FK,Dub,1181,*** LINKED to REAL TIME Contest SERVER ***
 VE2FK/M,Dub,1181,
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
@@ -5571,6 +5576,7 @@ VE4GH,GREG,
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,AB,2978,Winnipeg MB
 VE4SNA,Jack,1047,(Also W6NF)
+VE4WJM,BILL,
 VE4XT,Kellu,2795,Winnipeg MB
 VE4YL,Dave,MB,Winnipeg MB
 VE4YU,Ed,MB,Winnipeg MB
@@ -6077,6 +6083,7 @@ W4LDA,ROGER,GA,Savannah GA
 W4LEW,Lauren,,N. Chesterfield VA
 W4LJ,Doug,2823,Columbia SC
 W4LRB,Ben,2852,Florence MA
+W4LSV,BARRY,
 W4LSV,Barry,1132,Cleveland TN
 W4LTE,SHAWN,FL,
 W4LWZ,Larry,FL,Cape Coral FL
@@ -6439,6 +6446,7 @@ W8HOG,Jerry,OH,Lynchburg OH
 W8HW,Bruce,958,Port Saint Lucie FL
 W8IQ,Kurt,755,Toledo OH
 W8IX,DIT,
+W8JAY,JAY,
 W8JJ,Tim,2970,Grand Blanc MI
 W8JLT,Joh,MI,Harrison MI
 W8JPF,Joe,OH,Columbus OH
@@ -6670,10 +6678,12 @@ WA5OBV,Phil,OK,Stillwater OK
 WA5PFJ,John,1629,Midland TX
 WA5PQL,PHIL,
 WA5RML,Andy,1324,Arlington TX
+WA5SNL,GIL,
 WA5YOM,Tim,2782,Ardmore OK
 WA6BXV,JERRY,
 WA6DBC,Dennis,CA,Santee CA
 WA6DNP,LARRY,CA,?
+WA6DWH,DAVE,
 WA6HNA,Greg,CA,Groveland CA
 WA6HZY,Jim,CA,Bakersfield CA
 WA6JRW,CLAY,,CA
@@ -6880,6 +6890,7 @@ WD0BC,Bill,MO,St. Joseph MO
 WD0END,Ron,3018,Chanhassen MN
 WD0T,Todd,SD,Pierre SD
 WD1AL,Ryan,MA,Belchertown MA
+WD2E,BILL,
 WD4AXJ,MARTY,
 WD4BZZ,JIM,
 WD4CFN,Steve,2228,Nashville TN
@@ -6965,6 +6976,7 @@ WL7E,Joe,AK,Soldotna AK
 WM3O,Steve,PA,Philadelphia PA
 WM4I,Burke,1798,Wytheville VA
 WM4Q,PETE,TN,Bon Aqua TN
+WM4TT,MATT,
 WM4U,PETE,,TN
 WM5H,Bob,LA,West Monroe LA
 WM5S,Mac,TX,Edinburg TX
@@ -7034,6 +7046,7 @@ WS8G,Rick,2308,Beaver Creek OH
 WS8K,Tim,MI,Grand Rapids MI
 WS9F,Matthew,MI,Rogers MI
 WS9V,Skip,1651,Virden IL (Jim)
+WT0N,MIKE,
 WT2P,CJ,IL,(1346) Aurora IL (Fred)
 WT3C,Tom,2403,Evansville IN
 WT3K,Daryl,2355,ex/AC3BU  Baltimore MD
