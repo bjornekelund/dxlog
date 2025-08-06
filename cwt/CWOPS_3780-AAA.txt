@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-08-01
+# LastEdit,2025-08-05
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -2213,7 +2213,7 @@ K6ZD,Dave,2157,San Jose CA
 K6ZGW,Barry,2390,Valley Glen CA
 K6ZO,Don,1375,Washington DC
 K6ZY,Alan,2388,Lanley WA
-K6ZZ,Jim,3780,La Grande KY
+K6ZZ,Jim,3780,La Grange KY
 K7AAK,Rob,AZ,Lake Havasu City AZ
 K7ABV,Eric,MT,Great Falls MT
 K7AHR,Andy,2460,Portland OR

@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4428
-# Last updated 2025-08-05
+# Contains members up to #4429
+# Last updated 2025-08-06
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -2295,6 +2295,7 @@ YU7AE=4331
 YU7NP=456
 Z32U=3995
 Z33B=4001
+ZA1F=4429
 ZB2EO=2318
 ZS1JC=373
 ZS5ADU=2579

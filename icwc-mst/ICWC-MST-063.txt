@@ -3,11 +3,39 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-08-04
+# Last Edit,2025-08-05
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
+
+AD2FX,WAYNE,
+AD9GG,BRYCE,
+AJ9K,RAY,
+F5MQU,FRANK,
+F8PDR,BEN,
+G4ETK,CHRIS,
+GM0GHN,TOM,
+IU1CZF,DAVID,
+K1PJA,PETE,
+K3ULG,JIM,
+K5YS,STEVE,
+K7DAN,DAN,
+KC9AH,RON,
+KC9YI,SCOTT,
+KD1MD,KIRK,
+KE9BDU,PETER,
+LU8ENU,JUAN,
+NX0B,CARL,
+VE3USP,PISTA,
+WN6P,BILL,
+WP3Y,LEONEL,
+
+
+NN3EE,CHAS,
+K1GRP,ED,
+N6EK,KC,
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England

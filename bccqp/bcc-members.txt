@@ -422,6 +422,7 @@ DL9NEI,Norbert
 DL9UP,Patrick
 DL9YAJ,Bernd
 DM2WB,Markus
+DM3OA,Erni
 DM4AA,Marko
 DM4KA,Stephan
 DM5EE,Ulrich
