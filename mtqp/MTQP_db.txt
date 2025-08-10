@@ -1,7 +1,7 @@
 # Montana QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-08-05
+# Last updated 2025-08-10
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1570,6 +1570,7 @@ N3CKI=NC
 N3COB=MD
 N3CW=VA
 N3DPB=MD
+N3DRV=DE
 N3DUE=MD
 N3FCP=PA
 N3FR=PA

@@ -1,7 +1,7 @@
  
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2025-08-04
+# 1-LastEdit,2025-08-08
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from log of VE2FK
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -1606,6 +1606,7 @@ N3CKI,DAVE,NC,
 N3COB,GLENN,MD,
 N3CW,ED,VA,
 N3DPB,SUSAN,MD,
+N3DRV,Wayne,DE,Remote
 N3DUE,ALAN,MD,
 N3FCP,CHRIS,PA,
 N3FR,BOB,PA,

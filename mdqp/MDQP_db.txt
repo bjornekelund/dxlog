@@ -1,7 +1,7 @@
 # Maryland-DC QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-08-05
+# Last updated 2025-08-10
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1544,6 +1544,7 @@ N3ARB=PA
 N3CI=OK
 N3CKI=NC
 N3CW=VA
+N3DRV=DE
 N3FCP=PA
 N3FR=PA
 N3FTO=NJ
