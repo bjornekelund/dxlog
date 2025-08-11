@@ -2,7 +2,7 @@
 8
 # 
 # CWOPS
-# LastEdit,2025-08-05
+# LastEdit,2025-08-10
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1909,6 +1909,7 @@ K4EXA,Andrew,AL,Tuscaloosa AL
 K4FCG,OJ,FL,Florida Contest Group
 K4FJU,Hal,NC,Greenboro NC
 K4FN,Dan,1639,Louisville KY
+K4FR,Scott,3781,Lexington KY
 K4FT,John,304,Yemassee SC
 K4FV,Neil,FL,Coral Springs FL
 K4GJF,Gary,VA,Stephens VA
