@@ -3,38 +3,22 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-08-05
+# Last Edit,2025-08-11
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
 
-AD2FX,WAYNE,
-AD9GG,BRYCE,
-AJ9K,RAY,
-F5MQU,FRANK,
-F8PDR,BEN,
-G4ETK,CHRIS,
-GM0GHN,TOM,
-IU1CZF,DAVID,
-K1PJA,PETE,
-K3ULG,JIM,
-K5YS,STEVE,
-K7DAN,DAN,
-KC9AH,RON,
-KC9YI,SCOTT,
-KD1MD,KIRK,
-KE9BDU,PETER,
-LU8ENU,JUAN,
-NX0B,CARL,
-VE3USP,PISTA,
-WN6P,BILL,
-WP3Y,LEONEL,
-
-
-NN3EE,CHAS,
-K1GRP,ED,
-N6EK,KC,
+K6YLH,JEVON,
+KO4CCF,JULIO,
+KO4MJC,JOHN,
+N4JRA,JAMES,
+WA2VKG,LARRY,
+WA8RC,HENRY,
+WQ5X,PAUL,
+WW4L,JIM,
+K8OPA,TIM,
+K8RGI,BOB,
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
@@ -318,6 +302,7 @@ AD0RX,Brad,CO,Littleton CO
 AD0UA,Ken,MO,Saint Peters MO
 AD0WE,Kurt,2167,Manhattan KS
 AD1C,Jim,131,Brighton CO
+AD2FX,WAYNE,
 AD3I,VICKI,,Lancaster SC
 AD4C,Hector,FL,Port St Lucie FL
 AD4DP,Dave,CWA,South Boston VA
@@ -350,6 +335,7 @@ AD8WR,Dave,2857,Granger IN
 AD8Y,David,OH,Cleveland Heights OH
 AD9AC,KEN,IL,Litchfield IL
 AD9CA,MIKE,,Newton IL
+AD9GG,BRYCE,
 AE0EE,Bill,MN,Minneapolis MN
 AE0G,LARRY,
 AE0P,Brian,1051,Yankton SD
@@ -495,6 +481,7 @@ AJ7F,Tim,WA,Granite Falls WA
 AJ8B,Bill,1567,Waynesville OH
 AJ8M,Bruce,OH,Medina OH
 AJ9C,Mike,741,Marion IN
+AJ9K,RAY,
 AK1MD,Alex,MA,Newton Center MA
 AK2S,DON,
 AK2U,Ken,
@@ -926,6 +913,7 @@ F5JVP,Didier,,Le Vieil Dampierre France
 F5MAI,Regis,,Nouvion le Vineux France
 F5MNK,LO,1291,St-Gervais France
 F5MNW,Guy,,La Farlede France
+F5MQU,FRANK,
 F5NIB,GUY,,Chaillac France
 F5NTZ,Xavier,,Chelles France
 F5NZY,Steph,F,Paris France
@@ -969,6 +957,7 @@ F8DSW,CARLOS,
 F8FQX,Nic,F,France
 F8FSN,Georges,2610,Carpentras France
 F8NUH,Jean,,St-Andre Le Gaz France
+F8PDR,BEN,
 FM/VE3DZ,Yuri,21,
 G0AYD,Dave,2159,Wiltshire England
 G0BQV,Mary,,Tolworth England
@@ -1067,6 +1056,7 @@ G4DRS,John,1457,Dorchester England
 G4DYC,Mike,2116,Norfolk England
 G4E,Chris,1294,West Sussex England (G4BUE N4CJ)
 G4ERW,Dave,G,Kent England
+G4ETK,CHRIS,
 G4FAD,Rich,547,Hereford England
 G4FJW,Chris,,Kent England
 G4GIR,Ian,,Bedford England
@@ -1127,6 +1117,7 @@ GI4SJQ,GEORGE,
 GI4SZW,Jim,,County Armagh Northern Ireland
 GM0EPO,John,1974,Scotland  (Occasionally QRP)
 GM0EUL,Peter,1899,Duns Scotland
+GM0GHN,TOM,
 GM0LIR,Phil,,Wishaw Scotland
 GM2CWO,,,(Various users)  Scotland
 GM2V,Chris,2436,(GM3WOJ)  Scotland
@@ -1308,6 +1299,7 @@ IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
 IU0HMB,Vlado,,Tuscania Italy
 IU0HMB/M,Vlado,,Tuscania Italy
 IU0PIO/7,LECCE,DX,?
+IU1CZF,DAVID,
 IU1MRY,Fabrizio,3108,Omegna Italy
 IU2RNU,MICHELE,,Caravaggio Italy
 IU3BRO,TELIO,,Padova Italy
@@ -1545,6 +1537,7 @@ K1FJG,JAY,,Shelton CT
 K1FQL,Martin,NH,Nashua NH
 K1FV,Sheila,MA,Medway MA
 K1GQ,Bill,NH,Wolfeboro NH
+K1GRP,ED,
 K1GU,Ned,884,Friendsville TN
 K1GU/0,Ned,884,
 K1GU/4,Ned,884,QRP West Central FL
@@ -1590,6 +1583,7 @@ K1OKD,Jerry,2734,Dracut MA
 K1ON,Larry,VT,Barton VT
 K1PAD,Rick,MA,Billerica MA
 K1PDY,Ron,NH,Canterbury NH
+K1PJA,PETE,
 K1PJS,Pete,3032,Concord NH
 K1PKZ,Paul,TX,Tom Bean TX
 K1PL,Paul,CT,Cromwell CT
@@ -1837,6 +1831,7 @@ K3TX,Dave,PA,Yardley PA
 K3UA,Phil,1579,Imperial PA
 K3UK,Andy,NY,Fredonia NY
 K3UL,Bob,1673,Williamsport PA
+K3ULG,JIM,
 K3UO,Kelly,MD,North Potomac MD
 K3UQ,Kelly,3116,North Potomac MD
 K3US,John,VA,Fairfax VA
@@ -2133,6 +2128,7 @@ K5XS,bernie,AR,Elkins AR
 K5XU,Mike,1584,Jackson MS
 K5YAA,Jerry,OK,Claremore OK
 K5YQF,Cecil,1370,Killen TX
+K5YS,STEVE,
 K5YZW,Ed,2290,Fort Worth TX
 K5ZAR,JEFF,
 K5ZD,Randy,899,Uxbridge MA
@@ -2242,6 +2238,7 @@ K7BXI,KEN,OR,Portland OR
 K7CIE,MIKE,,Dallas OR
 K7CNT,Rick,2565,Kingman AZ
 K7CO,Jon,UT,Kaysville UT
+K7DAN,DAN,
 K7EK,Gary,997,Spanaway WA
 K7ENA,Ed,OR,Gresham OR
 K7ENH,Jerry,2960,Yuma AZ
@@ -2769,6 +2766,7 @@ KC8J,Walt,2085,San Diego CA
 KC8MFF,BOB,,Buckhannon WV
 KC8UR,Tony,2278,Mount Vernon OH
 KC8YEJ,TYE,
+KC9AH,RON,
 KC9CSQ,LARRY,
 KC9EE,Gary,1240,Morton IL
 KC9FFV,Mark,TX,Forney TX
@@ -2791,6 +2789,7 @@ KC9TCP,Steven,IL,East Peoria IL
 KC9TTR,Ken,IN,Washington IN
 KC9TYA,,IN,
 KC9WID,ROBERT,
+KC9YI,SCOTT,
 KC9YL,Anne,3070,Francis Creek WI
 KD0DK,DAVE,,IA
 KD0NPM,Rich,2295,Niskayuna NY
@@ -2802,6 +2801,7 @@ KD0ZIT,RICH,,Merriam KS
 KD0ZV,Rich,,Ankeny IA
 KD1CT,Bob,NH,Barnstead NH
 KD1KR,JIM,
+KD1MD,KIRK,
 KD2BMX,Peter,NY,Nanuet NY
 KD2CAP,Brendan,IL,Long Grove IL
 KD2DC,Mon,NJ,Providence NJ
@@ -2954,6 +2954,7 @@ KE6OIO,Ann,CA,Garden Grove CA
 KE6RN,CAROL,,Calif. city ARC
 KE6YLH,Jeff,CA,Aptos CA
 KE7F,MIKE,,Central Point OR
+KE7IR,PATTI,
 KE7LOY,Brian,ID,Twin Falls ID
 KE7VE,Martin,WY,Boulder WY
 KE7ZJC,Kim,UT,Pleasant Grove UT
@@ -2970,6 +2971,7 @@ KE8GKO,JODY,,OH
 KE8LQR,ANDREW,
 KE8ON,JAMES,
 KE8VC,DAVID,MI,Allegan MI
+KE9BDU,PETER,
 KE9BOS,BRETT,
 KE9CLR,JOHN,,
 KE9I,George,IL,Northbrook IL
@@ -3546,6 +3548,7 @@ LU2DJI,NESTOR,
 LU3MAM,Osvaldo,,(L33M) Mendoza Argenetina
 LU5DX,Martin,2986,Lujan Argentina
 LU7GFH,JAVIER,DX,Chaco Argentina
+LU8ENU,JUAN,
 LX/DJ1YFK,Fabian,1566,
 LY2AX,Arunas,,Kaunas Lithuania
 LY5A,Jonas,1459,Siauliai Lithuania
@@ -4162,6 +4165,7 @@ N6DVS,VIC,CA,Novato CA
 N6EE,Ron,CA,Turlock CA
 N6EED,Terry,2122,Rancho Cucamonga CA
 N6EFF,Bob,2936,Fremont CA
+N6EK,KC,
 N6ER,Kevin,CA,Fullerton CA
 N6ERD,Dan,CA,San Diego CA
 N6ERD/1,Dan,CT,
@@ -4581,6 +4585,7 @@ NN2NN,Steve,NY,Niagara Falls NY
 NN2X,TOM,,Allen TX
 NN3D,CHRIS,
 NN3E,KEVIN,,Glen Burnie MD
+NN3EE,CHAS,
 NN3Q,Russ,PA,Wernersville PA
 NN3W,Rich,VA,Vienna VA
 NN4K,Mac,1227,Stone Mountain GA
@@ -4689,6 +4694,7 @@ NW3L,DAVID,,MD
 NW3Y,CC,2185,(Chick) Seaford DE
 NW4V,Ed,348,Midlothian VA
 NW6P,Tom,CA,Cupertino CA
+NX0B,CARL,
 NX1K,Mark,MA,Millers Falls MA
 NX3T,Martin,PA,Aldan PA
 NX3V,Fred,PA,Milton PA
@@ -5507,7 +5513,7 @@ VE3EJ,John,513,Grasie ON
 VE3EUS,JOE,
 VE3EY,Nick,3093,Etobicoke ON
 VE3FAL,Fred,ON,Thunder Bay ON
-VE3FP,Adam,2323,(ex: VE3IZS) Eimwood ON
+VE3FP,Adam,2323,Eimwood ON
 VE3FU,Chris,2778,Kemptville ON
 VE3FWF,Bernie,ON,Kanata ON
 VE3FXX,RON,,London ON
@@ -5583,6 +5589,7 @@ VE3TW,Stan,1563,Scarborough ON
 VE3TZF,KEITH,
 VE3UEE,RC,,RADIO CLUB
 VE3USP,PISTA
+VE3USP,PISTA,
 VE3UTT,Art,2647,(W1AJT) Toronto ON
 VE3UXJ,CRAIG,,ON
 VE3VA,JEFF,
@@ -7019,6 +7026,7 @@ WN4R,Byron,FL,Lady Lake FL
 WN5T,Mike,
 WN5V,Dave,2642,Welsh LA
 WN6A,RICH,,Santa Cruz CA
+WN6P,BILL,
 WN7ETQ,Carl,2300,(AH6VV-Remote)  @ Livington TC
 WN7S,Dick,1945,Centreville VA
 WN7Y,Ron,MT,Billings MT
@@ -7037,6 +7045,7 @@ WO9B,Mike,2203,New Berlin WI
 WP3A,Jaime,PR,Coamo PR
 WP3C,Al,KP4,Utuado PR
 WP3ME,Joel,FL,Miami FL
+WP3Y,LEONEL,
 WP4CLS,MILLIE,,Orlando FL
 WP4F,Danny,1526,Toa Alta PR
 WQ2E,Jack,2054,Schenectady NY
@@ -7147,6 +7156,7 @@ WZ5K,MARK,OK,Oklahoma City OK
 WZ6T,Dave,CA,Vacaville CA
 WZ8P,Ev,OH,Zanesville OH
 WZ9Y,MIKE,,Green Bay WI
+XE1AY,ISMA,
 XE1IM,Hector,XE,Puebla Mexico
 XE1KK,Ramon,,Mexico City
 XE1YZY,Pete,,Queretaro Mexico
