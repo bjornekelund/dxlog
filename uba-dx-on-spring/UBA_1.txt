@@ -82,6 +82,6 @@ WRA|Wortegemse Radioamateurs
 WRC|West-Vlaamse Radio Club
 WTO|Waterloo
 ZLB|Zuid Limburg
-ZLZ|Zelzate
 ZOV|Zuid Oost Vlaanderen
+ZLZ|Zelzate
 ZTM|Zottegem

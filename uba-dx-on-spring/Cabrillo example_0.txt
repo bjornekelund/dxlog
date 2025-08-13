@@ -1,0 +1,157 @@
+Examples of the cabrillo format for the UBA DX Contest
+------------------------------------------------------
+START-OF-LOG: version-number 
+Must be the first line of the log submission. The current version-number is 3.0. 
+END-OF-LOG: 
+Must be the last line of the log submission. 
+CALLSIGN: callsign 
+The callsign used during the contest. 
+CATEGORY: operator-category band-category power-category [mode-category]
+For HF contests the operator-category must be one of the following: SINGLE-OP, SINGLE-OP-ASSISTED, MULTI-ONE, MULTI-TWO, MULTI-MULTI, SCHOOL-CLUB (ARRL-SS-CW and ARRL-SS-SSB only), SWL, or CHECKLOG.  
+For HF contests the band-category must be one of the following: ALL, 160M, 80M, 40M, 20M, 15M or 10M. 
+The power-category must be HIGH, LOW or QRP. 
+The mode-category must be CW, SSB or MIXED and is only permitted for single operator entries in multi-mode contests that permit single mode entries such as IARU-HF and the 10 Meter Contest.  SO NOT NEEDED FOR UBA DX CONTEST
+CATEGORY-TIME: time-category
+The time category is only applicable for ON entrants in the UBA Contest and must be either 6-HOURS or 12-HOURS or 24-HOURS
+CLAIMED-SCORE: n 
+The claimed-score of the log submission, in integer form such as 1217315 or 19113 or 12. 
+CLUB: text 
+Name of the radio club with which the score should be aggregated. 
+CONTEST: contest-name 
+UBA-DX
+CREATED-BY: text 
+Name and version of the logging program used to create the Cabrillo file. 
+NAME: text 
+ADDRESS: text 
+Name and address. 
+OPERATORS: callsign 1 [callsign2 callsign3...] A space-delimited list of operator callsign(s). 
+SOAPBOX: text 
+Soapbox comments. 
+QSO: qso-data 
+QSO data as specified by the Cabrillo QSO data format. 
+
+•	freq: 
+integer frequency in kHz; if freq not known then 28000, 21000, 14000, 7000, 3500, 1800 
+•	 mo: 
+CW or PH, 
+•	date: 
+UTC date in yyyy-mm-dd form 
+•	time: 
+UTC time in nnnn form 
+•	call: 
+callsign 
+•	rst: 
+RST 
+•	nr: 
+Serial number in 4 digits 
+•	ex1: 
+UBA section sent by ON stations
+•	ex2:
+UBA section sent by ON stations
+
+Example Cabrillo log for Stations with QTH in Belgium
+
+AH - Single Operator 6 hours High Power All Bands. (HAREC),
+AL - Single Operator 6 hours Low Power All Bands. (HAREC and ON2),
+BH - Single Operator 12 hours High Power All Bands (HAREC),
+BL - Single Operator 12 hours Low Power All Bands (HAREC and ON2),
+CH - Single Operator 24 hours High Power All Bands (HAREC),
+CL - Single Operator 24 hours Low Power All Bands (HAREC and ON2),
+D - Multi Operator All Bands,
+E - Single Operator QRP All Bands. (Maximum 18 hours of operation) (HAREC, ON2, ON3),
+BASE - Single Operator Basic License 24 hours (Restricted to ON3 stations operated by a holder of a Basic License),
+F - SWL (ONL) All Bands (Rules under item 12).
+
+START-OF-LOG: 2.0
+CONTEST: UBA-DX
+MODE: SSB
+CALLSIGN: ON9TT
+OPERATORS: ON9TT
+CATEGORY: SINGLE-OP ALL LOW
+CATEGORY-TIME: 6 HOURS
+CLUB: ACC
+CLAIMED-SCORE: 311040
+NAME: Marc Domen
+ADDRESS: Ferdinand Coosemansstraat 32
+ADDRESS: B – 2600  Berchem
+ADDRESS: Belgium
+EMAIL:
+SOAPBOX: Pleased to see the excellent activity this year.
+CREATED-BY: KOlog v1.0
+QSO: 28000 PH 2006-01-28 1600 ON9TT         59  0001 ACC EA5BM         59  0031
+QSO: 28000 PH 2006-01-28 1601 ON9TT         59  0002 ACC PY1NX         59  0186
+QSO:  7000 PH 2006-01-28 1602 ON9TT         59  0003 ACC G3XTT         59  0451
+QSO:  7000 PH 2006-01-28 1611 ON9TT         59  0004 ACC ON5AZ         59  0310 ACC
+QSO: 28000 PH 2006-01-28 1617 ON9TT         59  0005 ACC 9A7P          59  0218
+QSO: 28000 PH 2006-01-28 1618 ON9TT         59  0006 ACC HA8TP         59  0067
+QSO: 28000 PH 2006-01-28 1619 ON9TT         59  0007 ACC ON5ZO         59  0184 NNV
+QSO: 28000 PH 2006-01-28 1633 ON9TT         59  0008 ACC LZ2PL         59  0011
+QSO: 14000 PH 2006-01-28 1635 ON9TT         59  0009 ACC OR5EU         59  0536 BXE
+QSO: 14000 PH 2006-01-28 1721 ON9TT         59  0010 ACC ON3AD         59  0158 NLB
+QSO: 21000 PH 2006-01-28 1722 ON9TT         59  0011 ACC PJ2Y          59  0537
+QSO: 21000 PH 2006-01-28 1724 ON9TT         59  0012 ACC KP2/AA1BU     59  0417
+QSO: 21000 PH 2006-01-28 1726 ON9TT         59  0013 ACC ON5OO         59  0573 GBX
+QSO: 21000 PH 2006-01-28 1728 ON9TT         59  0015 ACC 9V1YC         59  0331
+QSO:  3500 PH 2006-01-28 1732 ON9TT         59  0016 ACC S53EO         59  0402
+QSO: 21000 PH 2006-01-28 1734 ON9TT         59  0017 ACC ZD9IR         59  0362
+END-OF-LOG:
+
+Example Cabrillo log for stations with QTH outside Belgium
+
+A10HP - Single Operator 10 meter High Power (24 hours of operation allowed),
+A10LP - Single Operator 10 meter Low Power (24 hours of operation allowed),
+A15HP - Single Operator 15 meter High Power (24 hours of operation allowed),
+A15LP - Single Operator 15 meter Low Power (24 hours of operation allowed),
+A20HP - Single Operator 20 meter High Power (24 hours of operation allowed),
+A20LP - Single Operator 20 meter Low Power (24 hours of operation allowed),
+A40HP - Single Operator 40 meter High Power (24 hours of operation allowed),
+A40LP - Single Operator 40 meter Low Power (24 hours of operation allowed),
+A80HP - Single Operator 80 meter High Power (24 hours of operation allowed),
+A80LP - Single Operator 80 meter Low Power (24 hours of operation allowed),
+CHP - Single Operator High Power All Bands (24 hours of operation allowed),
+CLP - Single Operator Low Power All Bands (24 hours of operation allowed),
+D - Multi Operator All Bands,
+E - Single Operator QRP All Bands (Maximum 18 hours of operation),
+F - SWL All Bands (Rules under item 12).
+
+START-OF-LOG: 2.0
+CONTEST: UBA-DX
+MODE: SSB
+CALLSIGN: G3XTT
+OPERATORS: G3XTT
+CATEGORY-OPERATOR: SINGLE-OP ALL HIGH
+CATEGORY-TIME: 
+CLUB:
+CLAIMED-SCORE: 311040
+NAME: Don Field
+ADDRESS: 105 Shiplake Bottom
+ADDRESS: Peppard Common
+ADDRESS: Henley on Thames
+ADDRESS: RG9 5HJ
+ADDRESS: England
+EMAIL:
+SOAPBOX: Pleased to see the excellent activity this year.
+CREATED-BY: KOlog v1.0
+QSO: 28000 PH 2006-01-28 1600 G3XTT         59  0001 EA5BM         59  0031
+QSO: 28000 PH 2006-01-28 1601 G3XTT         59  0002 PY1NX         59  0186
+QSO: 28000 PH 2006-01-28 1602 G3XTT         59  0003 ON9TT         59  0451 ACC
+QSO: 28000 PH 2006-01-28 1611 G3XTT         59  0004 ON5AZ         59  0310 ACC
+QSO: 28000 PH 2006-01-28 1617 G3XTT         59  0005 9A7P          59  0218
+QSO: 28000 PH 2006-01-28 1618 G3XTT         59  0006 HA8TP         59  0067
+QSO: 28000 PH 2006-01-28 1619 G3XTT         59  0007 ON5ZO         59  0184 NNV
+QSO: 28000 PH 2006-01-28 1633 G3XTT         59  0008 LZ2PL         59  0011
+QSO: 14000 PH 2006-01-28 1635 G3XTT         59  0009 OR5EU         59  0536 BXE
+QSO: 14000 PH 2006-01-28 1721 G3XTT         59  0010 ON2AD         59  0158 NLB
+QSO: 21000 PH 2006-01-28 1722 G3XTT         59  0011 PJ2Y          59  0537
+QSO: 21000 PH 2006-01-28 1724 G3XTT         59  0012 KP2/AA1BU     59  0417
+QSO: 21000 PH 2006-01-28 1726 G3XTT         59  0013 ON5OO         59  0573 GBX
+QSO: 21000 PH 2006-01-28 1726 G3XTT         59  0014 ON4AVJ        59  0883 OST
+QSO: 21000 PH 2006-01-28 1728 G3XTT         59  0015 9V1YC         59  0331
+QSO: 21000 PH 2006-01-28 1732 G3XTT         59  0016 S53EO         59  0402
+QSO: 21000 PH 2006-01-28 1734 G3XTT         59  0017 ZD9IR         59  0362
+END-OF-LOG:
+
+
+
+
+
