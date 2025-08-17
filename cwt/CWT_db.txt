@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3781
-# Last updated 2025-08-11
+# Contains members up to #3783
+# Last updated 2025-08-17
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1009,7 +1009,6 @@ G3KMW=Bob;G
 G3KSU=Alan;G
 G3KTZ=Ron;G
 G3LDI=Roger;1843
-G3LHJ=Derrick;3048
 G3LQC=Ray;G
 G3MPN=Dave;G
 G3NKC=Dave;449
@@ -1604,7 +1603,7 @@ K1MZ=Al;MA
 K1MZM=Alan;3045
 K1NMF=Den;NH
 K1NOK=Bob;764
-K1NW=Brian;RI
+K1NW=Brian;3783
 K1NY=Gerry;1929
 K1NZ=Maz;MA
 K1OA=Scott;736
@@ -3346,7 +3345,7 @@ LY7M=Algis;LY
 LY8O=Remi;1858
 LZ/SV1DAY=Manos;LZ
 LZ1HW=Spas;2001
-LZ1NK=Niko;LZ
+LZ1NK=Nick;LZ
 LZ1PID=Plam;3490
 LZ1QI=Petko;LZ
 LZ1QN=Boyko;2653
@@ -5909,6 +5908,7 @@ W4ZGR=Peter;2850
 W4ZYT=Don;55
 W5AG=Arch;LA
 W5AL=Roger;2412
+W5ATJ=Jim;TN
 W5BM=Dan;1377
 W5BOS=Lanny;TX
 W5BQ=Bruce;1631
@@ -6546,7 +6546,7 @@ WD9ICL=Joel;IL
 WD9Q=Matt;IN
 WE0P=John;KS
 WE4AUB=John;3215
-WE5J=Scott;TX
+WE5J=Scott;3782
 WE5P=Bill;2372
 WE7DW=David;OR
 WE7G=Wayne;1816
@@ -6699,6 +6699,7 @@ WW4N=Tony;TN
 WW4R=Don;TN
 WW4SF=FOX;SC
 WW4XX=Alex;GA
+WW5L=Jim;LA
 WW5W=Jeff;3115
 WW8D=Tom;3131
 WW8L=Tim;3718

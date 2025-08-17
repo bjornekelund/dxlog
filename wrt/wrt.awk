@@ -83,6 +83,7 @@ BEGIN {
         if (call ~ /^LX/) ID = "LX";
         if (call ~ /^LY/) ID = "LY";
         if (call ~ /^LZ/) ID = "LZ";
+        if (call ~ /^OA/) ID = "OA";
         if (call ~ /^OD/) ID = "OD";
         if (call ~ /^OE/) ID = "OE";
         if (call ~ /^O[G-J]/) ID = "OH";

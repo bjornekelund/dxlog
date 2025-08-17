@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=KCJ.txt
+INFILE=`ls KCJ-* | tail -1 2> /dev/null`
 OUTFILE=KCJ_db.txt
 
 echo Parsing $INFILE
