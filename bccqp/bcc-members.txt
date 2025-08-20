@@ -473,6 +473,7 @@ HB9DQL,Juerg
 HB9ELV,Chris
 HB9EE,Chris
 HB9EMP,Mischa
+HB9TOC,Daniel
 JK3GAD,Kazu
 M0CFW,Kazu
 MJ0CFW,Kazu
