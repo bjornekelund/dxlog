@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2025-06-02
-# Last number listed 285
+# Last edit,2025-07-19
+# Last number listed 286
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -14,6 +14,7 @@
 AA2CW,Phil,251,
 AA2YK,Ernst,255,(NY)
 AE1N,Lane,171,(NH)
+AL3T,Veit,286,
 CT7AUP,David,118,
 DC8ED,Karl,77,
 DF0VK,Bert,235,
@@ -50,6 +51,7 @@ DL3JAB,Andy,157,
 DL4FDM,Fritz,74,
 DL4YR,Ralf,125,(DP4E)
 DL5XL,Felix,80,
+DL7ET,Veit,286,
 DL8KAZ,Dieter,211,
 DL9BU,Burger,230,
 DL/UA6AX,Yuri,174
@@ -261,15 +263,17 @@ PA3PKO,Peter,201,
 PA3Y,Nico,19,
 PA4M,Mark,29,
 PA4O,Peter,7,
-PA4OES,Andre,78,
 PA4WM,Martin,23,
 PA4Y,Teo,189,
+PA40MARAC,?,NM, (Call is valid for 6 points!)
 PA50AGCW,NTC,50,
 PA5ABW,AB,52,(Albert)
 PA5FN,Hans,195,
 PA5JW,Jan,142,
 PA5KT,Henk,56,
+PA5OES,Andre,78,
 PA5Z,Kees,93,
+PA6F,Andre,78,
 PA6FBE,Peter,243,(PA0PJE)
 PA6FAP,Peter,243,(PA0PJE)
 PA7DN,Dirk,173,
