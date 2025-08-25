@@ -15,7 +15,7 @@ BEGIN {
   } 
   else 
   {
-    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /(19|20)[0-9]{2}$/) 
+    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^(19|20)[0-9]{2}$/) 
     {
       if (year[$1] != $col && year[$1] != "")
         printf("Replaced %s with %s for %s\n", year[$1], $2, $1) > "/dev/stderr";

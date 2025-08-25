@@ -1,29 +1,43 @@
-
 !!Order!!, Call, Name, Exch1, UserText
 # QSOP_CO
 # QSOPARTY CO
-# Last Edit,2024-08-27
+# Last Edit,2025-08-20
 # Send new info/corrections DIRECT to ve2fk@arrl.net 
 # Colorado stations send call sign, name and county (three letter designator).
 # Colorado Opr., Counties and Mobiles follows
+# Sorry, no updated data on COQP site.
 AA0JE,Royce,
 AF0S,,,ROVER or MOBILE (BONUS)
-K0AV,,,Grand (CW 20-40m)
-K0DME,BEN,WEL,Weld  (CW 20-40m+)
+K0AV,Alan,
+K0DME,BEN,WEL,Weld 
+K0GUZ,Steve,
 K0IZ,John,
-K0KWH,KEN,LAA,Las Animas  (all bands)
-K0TER,Jim,
+K0KWH,KEN,LAA,Las Animas
+K0TER,Mike,
 K0XF,Max,
 K2KR,Mike,
+KC0NPP,Diana,
+KC0RPS,James,
 KF0BOB,Lee,
+KF0IDT,Dustin,
+KF0UR,Shel,
+KI0KY,Steve,
+KN6VTC,James,
 N0MTN,MARK,BRO,Broomfield
 N0WRK,Larry,
 N0ZTO,Greg,
-NN0G,,GUN,Gunnison
+N5LFE,Mark,
+N9EDK,Mark,
+NN0G,Dana,GUN,Gunnison
 NO2D,Peter,
 W0AEZ,Kevin,
+W0BET,Darrel,
 W0CQC,Dick,
+W0CQC,Peter,
 W0GAS,Greg,
+W0IZ,Igor,
+W0OJW,Daniel,
+W0TX,Mark,
 W0VG,JOHN,JEF,Jefferson
 W0VTU,,,(BONUS)
 W0WLA,Bill,
@@ -33,10 +47,13 @@ W3DHJ,,,MOBILE
 W4IFI,Randy,LAP,La Plata
 W7RF,Dan,
 W8LYJ,Ray,
+W8LYJ,Raymond,
 W8XAL,Dave,
 WA0VTU,,ELP,El Paso
 WA2JQZ,Gary,
 WE0FUN,Jeff,
+WT0RJ,Trevor,
+WT7TT,Gregory,
 WW8L,Tim,
 WY0R,Rick,
 
@@ -6502,10 +6519,6 @@ KO8V,JOE,VA,
 KO8Z,KIRK,MI,
 KO9A,,IL,
 KO9V,BOB,
-KP2M,PHIL,KP2,
-KP3J,JOSE,KP4,
-KP4/K6DTT,AL,KP4,
-KP4NZ,ERIC,KP4,
 KQ0X,,IA,
 KQ0Z,,MO,
 KQ1F,,MA,
@@ -15055,8 +15068,6 @@ WO9B,MIKE,WI,
 WO9G,ALAN,IN,
 WO9LF,,IL,
 WO9S,JON,IL,
-WP3C,AL,KP4,
-WP3GW,ANGEL,,
 WQ0N,RUSS,MN,
 WQ0P,,KS,
 WQ1H,,NH,
