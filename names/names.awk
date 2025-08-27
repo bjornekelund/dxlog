@@ -8,7 +8,7 @@ BEGIN {
 {
   call = toupper($1)
   if (line[$1] != "")
-    printf("Duplicate entry \"%s\" and \"%s\"\n", line[$1], $1) > "/dev/stderr";
+    printf("Duplicate entry \"%s\" and \"%s\"\n", line[$1], $0) > "/dev/stderr";
   line[$1] = $0;
   if (call ~ /^[0-9A-Z/]+$/ && $2 ~ /^[A-Za-z .\-0-9]+$/) {
     if ($2 != "") {

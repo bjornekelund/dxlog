@@ -1,6 +1,6 @@
 # AGB members database
 # Based on http://ev5agb.com/club/agb-list.txt
-# Last updated 2025-08-25
+# Last updated 2025-08-27
 2E0DUZ=742
 2E0ERL=708
 2E0FNM=1697

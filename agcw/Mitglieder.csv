@@ -1,12 +1,11 @@
 # AGCW-DL Mitgliederliste;;
-# Revision 20250806;;
+# Revision 20250825;;
 # AGCW#;RUFZ;VORNAME
 18;DK4LX;Holger
 24;DL7DO;Ralf
 25;DJ2YA;Uli
 27;DK1WU;Johannes
 28;DL2KS;Dieter
-38;DK5ZW;Fritz
 42;DL8KAZ;Dieter
 43;DK2VA;Josef
 52;DK3SN;Ladislav
@@ -279,7 +278,6 @@
 947;DL6BAI;Olaf
 948;DF7PX;Peter
 951;XE1XF;Manuel
-954;DH1FAV;Hans
 955;DF5TV;Manfred
 956;ON6QE;Luc
 957;LA4XX;Hjalmar
@@ -1276,7 +1274,6 @@
 3125;DL8HCI;Jürgen
 3126;DL3LSM;Mario
 3129;DG3YHH;Wilfried
-3130;DL9CM;Rolf
 3131;G4KXG;Ken
 3132;OH7QR;Erkki
 3133;DL5MM;Wolfgang

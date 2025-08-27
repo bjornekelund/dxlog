@@ -15,7 +15,7 @@ cp $OUTFILEXDT ../xdt
 
 gawk -f names.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
+unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 exit
