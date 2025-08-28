@@ -10,7 +10,7 @@ BEGIN {
   if (line[$1] != "")
     printf("Duplicate entry \"%s\" and \"%s\"\n", line[$1], $0) > "/dev/stderr";
   line[$1] = $0;
-  if (call ~ /^[0-9A-Z/]+$/ && $2 ~ /^[A-Za-z .\-0-9]+$/) {
+  if (call ~ /^[0-9A-Z/]+$/ && $2 ~ /^[A-Za-z]+$/) {
     if ($2 != "") {
       printf("%s=%s\n", call, toupper($2));
       if (length($2) > maxlen) {
@@ -19,7 +19,7 @@ BEGIN {
       }
     }
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#)/) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
