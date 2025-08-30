@@ -1,8 +1,6 @@
 # UR oblast prefill
 # Only contains oblast that are not possible to guess based on callsign
-#3 Last updated 2025-08-30
-# for Ukrainian Contests 2021 (by UR7QM 26.05.2021)
-#
+# Last updated 2025-08-30
 EO23I=KV
 U5JA=KR
 U5JN=KR
@@ -307,4 +305,3 @@ UZ0U=KO
 UZ1U=KO
 UZ4U=KV
 UZ5UA=KV
-
