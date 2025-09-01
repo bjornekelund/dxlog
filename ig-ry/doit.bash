@@ -1,6 +1,6 @@
 #!/bin/bash
 #INFILE=`ls IG_WW* | tail -1 2> /dev/null`
-INFILE=`ls SCRY-* | tail -1 2> /dev/null`
+INFILE=`ls SCRY_* | tail -1 2> /dev/null`
 OUTFILE=IG-RY_db.txt
 
 echo Parsing $INFILE
