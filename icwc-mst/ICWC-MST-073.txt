@@ -3,11 +3,16 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2025-08-26
+# Last Edit,2025-09-01
 # Medium speed practice contest 20-25 WPM
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
+
+WD3H,TOM,
+W8LUT,TOM,
+AE4G,GARRY,
+OH9COG,ZABA,
 
 W6EO,LORIEN,
 KF9LI,NATE,
@@ -3937,7 +3942,7 @@ N3ZP,Phil,PA,North Wales PA
 N3ZZ,Tom,793,Cupertino CA
 N4AAJ,SCOTT,,Lexington KY
 N4ACW,Lisa,VA,Victoria VA (Robermont RC)
-N4AF,Al,132,Blounts Creek NC
+N4AF,HOWIE,132,Blounts Creek NC
 N4AHO,DOUG,SC,Walhalla SC
 N4AO,Jeff,1715,Plant City FL
 N4APR,Ray,NC,Charlotte NC

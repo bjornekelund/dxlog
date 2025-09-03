@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-08-26
+# LastEdit,2025-08-30
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -548,6 +548,7 @@ DF9TF,Rich,2493,Neuenburg Germany
 DG1YBN,Harald,,Telgte Germany
 DG3BCZ,Florian,,Stuhr Germany (Been heard QRP)
 DG5CW,Tom,3243,Bonn Germany
+DG9RAB,Ulrich,3787,Bavaria Germany
 DH4NWG,Martin,,Hersbruck Germany
 DJ0AJ,Ekrem,,Duesseldorf Germany
 DJ0MCH,Relly,409,Stuttgart Germany
@@ -2840,6 +2841,7 @@ KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
 KE8NJW,Jeff,3297,Delaware OH
+KE8QFO,David,OH,Martin OH
 KE8TBM,Fred,3771,Napoleon OH
 KE8USW,Mike,WV,Saint Albans WV
 KE8ZLT,Allen,OH,Louiseville OH
@@ -3082,6 +3084,7 @@ KM4CUB,Ron,GA,Rockmart GA
 KM4DR,Gale,TX,Kerrville TX
 KM4FO,Dwight,1436,Madisonville KY
 KM4HI,Jim,FL,Ocala FL
+KM4JEG,Bobby,NC,Tarboro NC
 KM4JHK,Paul,CWA,Marion NC
 KM4JTE,John,3683,Gainesville FL (Been heard QRP)
 KM4LAO,Ruth,2063,Cana VA
@@ -4854,6 +4857,7 @@ RY7KV,Mike,,Yalta
 RZ3AM,Vlad,,Moscow Russia
 RZ3DN,Alex,,Moskovskaya Russia
 RZ9OO,Alex,,(no info) Russia
+S50A,Tine,3786,Turjak Slovenia
 S50R,Leo,,Idrija SI Idrija Slovenia
 S51DV,Alojz,,Sevnica Slovenia
 S51MF,Franz,,Spodnji Duplek Slovenia
@@ -5110,6 +5114,7 @@ US2YW,Slava,UR,Chernivtsi Ukraine
 US3EW,Vlad,,Pavlograd Ukraine
 US3EZ,Serge,,Ukraine
 US4IRC,Gena,,Donetsk Ukraine
+US5VX,Eugene,,Ukraine
 UT1LF,Alex,,Khar'Kov Ukraine
 UT2UB,Andre,,Klev UIkraine
 UT3GP,Vlad,,Kherson Ukraine

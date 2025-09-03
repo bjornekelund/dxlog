@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3785
-# Last updated 2025-08-27
+# Contains members up to #3787
+# Last updated 2025-09-03
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -546,6 +546,7 @@ DF9TF=Rich;2493
 DG1YBN=Harald;DL
 DG3BCZ=Florian;DL
 DG5CW=Tom;3243
+DG9RAB=Ulrich;3787
 DH4NWG=Martin;DL
 DJ0AJ=Ekrem;DL
 DJ0MCH=Relly;409
@@ -2834,6 +2835,7 @@ KE8G/5=Jim;1616
 KE8G=Jim;1616
 KE8HXE=Brad;3264
 KE8NJW=Jeff;3297
+KE8QFO=David;OH
 KE8TBM=Fred;3771
 KE8USW=Mike;WV
 KE8ZLT=Allen;OH
@@ -3076,6 +3078,7 @@ KM4CUB=Ron;GA
 KM4DR=Gale;TX
 KM4FO=Dwight;1436
 KM4HI=Jim;FL
+KM4JEG=Bobby;NC
 KM4JHK=Paul;CWA
 KM4JTE=John;3683
 KM4LAO=Ruth;2063
@@ -4842,6 +4845,7 @@ RY7KV=Mike;UA
 RZ3AM=Vlad;UA
 RZ3DN=Alex;UA
 RZ9OO=Alex;UA9
+S50A=Tine;3786
 S50R=Leo;S5
 S51DV=Alojz;S5
 S51MF=Franz;S5
@@ -5096,6 +5100,7 @@ US2YW=Slava;UR
 US3EW=Vlad;UR
 US3EZ=Serge;UR
 US4IRC=Gena;UR
+US5VX=Eugene;UR
 UT1LF=Alex;UR
 UT2UB=Andre;UR
 UT3GP=Vlad;UR
