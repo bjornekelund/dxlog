@@ -1,0 +1,74 @@
+Connecticut
+Capital Region CTCAP
+Greater Bridgeport CTGBR
+Lower CT River CTLCR
+Naugatuck Valley CTNAU
+Northeastern CTNOE
+Northwest Hills CTNOW
+Southeastern CTSOE
+South Central CTSOC
+Western CTWES
+Maine
+Androscoggin MEAND
+Aroostook MEARO
+Cumberland MECUM
+Franklin MEFRA
+Hancock MEHAN
+Kennebec MEKEN
+Knox MEKNO
+Lincoln MELIN
+Oxford MEOXF
+Penobscot MEPEN
+Piscataquis MEPIS
+Sagadahoc MESAG
+Somerset MESOM
+Waldo MEWAL
+Washington MEWAS
+York MEYOR
+Massachusetts
+Barnstable MABAR
+Berkshire MABER
+Bristol MABRI
+Dukes MADUK
+Essex MAESS
+Franklin MAFRA
+Hampden MAHMD
+Hampshire MAHMP
+Middlesex MAMID
+Nantucket MANAN
+Norfolk MANOR
+Plymouth MAPLY
+Suffolk MASUF
+Worcester MAWOR
+New Hampshire
+Belknap NHBEL
+Carroll NHCAR
+Cheshire NHCHE
+Coos NHCOO
+Grafton NHGRA
+Hillsborough NHHIL
+Merrimack NHMER
+Rockingham NHROC
+Strafford NHSTR
+Sullivan NHSUL
+Rhode Island
+Bristol RIBRI
+Kent RIKEN
+Newport RINEW
+Providence RIPRO
+Washington RIWAS
+Vermont
+Addison VTADD
+Bennington VTBEN
+Caledonia VTCAL
+Chittenden VTCHI
+Essex VTESS
+Franklin VTFRA
+Grand Isle VTGRA
+Lamoille VTLAM
+Orange VTORA
+Orleans VTORL
+Rutland VTRUT
+Washington VTWAS
+Windham VTWNH
+Windsor VTWND
