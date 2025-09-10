@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4432
-# Last updated 2025-09-03
+# Contains members up to #4433
+# Last updated 2025-09-10
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1365,6 +1365,7 @@ DL9SJ=814
 DL9SW=4248
 DL9TZ=2880
 DL9UAS=3156
+DL9WS=4433
 DL9WTL=3973
 DL9YCS=3998
 DM1AA=3984
