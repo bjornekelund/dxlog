@@ -11,7 +11,7 @@ BEGIN {
         printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
     }
     if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|C[FGJK]|X[LM])/) {
-      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
+      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/) {
         printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
       }
@@ -42,7 +42,7 @@ END {
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in call) {
-    if (name[c] != "" && exchange[c] != "") {
+    if (name[c] != "") {
       printf("%s=%s;%s\n", call[c], name[c], exchange[c]);
     }
   }
