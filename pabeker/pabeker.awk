@@ -10,5 +10,5 @@ BEGIN {
   if ($1 ~ /^[A-Z0-9]+$/ && $2 ~ /^[0-5][0-9]$/)
     printf("%s=%s\n", $1, $2);
   else if ($0 !~ /^(!|#|$)/)
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }

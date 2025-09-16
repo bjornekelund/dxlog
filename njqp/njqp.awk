@@ -22,6 +22,6 @@ BEGIN {
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $col != "NJ") {
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

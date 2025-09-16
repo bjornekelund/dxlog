@@ -9,6 +9,6 @@ BEGIN {
     printf("%s=%s\n", $1, $2);
   }
   else if ($0 !~ /^(!|#)/) {
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

@@ -31,7 +31,7 @@ gawk 'BEGIN { FS="," }
     lines[$1] = $0;
   }
   else {
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }' $INFILE > $OUTFILE
 

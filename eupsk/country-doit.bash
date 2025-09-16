@@ -11,7 +11,7 @@ BEGIN {
   if ($2 ~ /^[0-9]{2}/ && $4 == "EU" && $8 !~ /\*/)
     printf("%s;", $8);
 #  else
-#    printf("Ignored: %s\n", $0) > "/dev/stderr";
+#    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {
   printf("\n");

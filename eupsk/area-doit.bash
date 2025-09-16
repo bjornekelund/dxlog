@@ -16,7 +16,7 @@ BEGIN {
 #    printf("area: %s\n", area) > "/dev/stderr";
   }
   else if ($1 != "") {
-#    printf("Ignored: %s\n", $0) > "/dev/stderr";
+#    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

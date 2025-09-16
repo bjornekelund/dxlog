@@ -12,7 +12,7 @@ BEGIN {
 #    printf("Last updated: %d\n", last) > "/dev/stderr";
   }
   else
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {
   for (i = 1; i <= last; i++)

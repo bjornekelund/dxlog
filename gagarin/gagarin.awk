@@ -18,6 +18,6 @@ BEGIN {
     if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^[A-Z][A-Z]$/)
       printf("%s=%s\n", $1, exch);
 	else if ($0 !~ /^(!|#|$)/)
-      printf("Ignored: %s\n", $0) > "/dev/stderr";
+      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

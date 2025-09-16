@@ -19,7 +19,7 @@ BEGIN {
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $3 !~ /^(NH|)$/ ) {
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 

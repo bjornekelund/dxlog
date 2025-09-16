@@ -16,6 +16,6 @@ BEGIN {
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $3 !~ /^(MD|DC|)$/) {
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

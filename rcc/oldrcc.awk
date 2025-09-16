@@ -14,5 +14,5 @@ BEGIN {
     if (ccall != "") printf("%s=RCC%s\n", ccall, mnr);
   }
   else
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
 }

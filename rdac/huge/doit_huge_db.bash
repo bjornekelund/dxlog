@@ -17,7 +17,7 @@ BEGIN {
     rdalist[call] = rda;
   }
   else {
-#    printf("Ignored: %s\n", $0) > "/dev/stderr";
+#    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

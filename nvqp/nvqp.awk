@@ -23,6 +23,6 @@ BEGIN {
     }
   }
 	else if ($0 !~ /^(!|#|$)/ && $col != "") {
-    printf("Ignored: %s\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
