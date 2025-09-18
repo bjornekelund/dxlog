@@ -26,7 +26,7 @@ BEGIN {
       if (call ~ /^9M6/) ID = "9M6";
       if (call ~ /^(7[X-Z]|HZ)/) ID = "HZ";
       if (call ~ /^9H/) ID = "9H";
-      if (call ~ /^B[AY]/) ID = "BY";
+      if (call ~ /^B[ADY]/) ID = "BY";
       if (call ~ /^(CE|X[QR])/) ID = "CE";
       if (call ~ /^C6/) ID = "C6";
       if (call ~ /^CO/) ID = "CM";

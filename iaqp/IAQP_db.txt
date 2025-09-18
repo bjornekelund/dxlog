@@ -1,7 +1,7 @@
 # Iowa QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-09-17
+# Last updated 2025-09-18
 AA0AC=MN
 AA0AO=MN
 AA0AW=MN
@@ -1140,6 +1140,7 @@ K0JPL=MO
 K0JV=SD
 K0JVX=KS
 K0JXN=MO
+K0KDS=WAS
 K0KE=CO
 K0KES=NE
 K0KFC=WI
@@ -6201,7 +6202,7 @@ KM8L=WV
 KM8V=OH
 KM9M=IL
 KM9R=NV
-KN0R=HAM
+KN0R=GRE
 KN0V=MN
 KN0WCW=WA
 KN1CBR=CO
@@ -6815,7 +6816,6 @@ N0HF=CO
 N0HJZ=MN
 N0HKJ=CO
 N0HKT=KS
-N0HR=WEB
 N0HU=KS
 N0HYD=KS
 N0HZ=MN
