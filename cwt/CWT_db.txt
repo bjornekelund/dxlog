@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3787
-# Last updated 2025-09-18
+# Contains members up to #3792
+# Last updated 2025-09-23
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -198,6 +198,7 @@ AB4PP=JP;2572
 AB4WL=Jim;AL
 AB5EB=Mike;2115
 AB5M=Scott;2738
+AB5SE=Jerry;AR
 AB5XM=Allan;TX
 AB6BR=Tony;3089
 AB6CC=Charles;CA
@@ -556,6 +557,7 @@ DJ0SP=Hans;DL
 DJ1KJ=Hans;DL
 DJ1OJ=Heijo;425
 DJ1PQ=Rob;DL
+DJ1TF=Tom;3790
 DJ2AX=Peter;DL
 DJ2IA=Dieter;DL
 DJ2JES=Hardy;DL
@@ -1415,6 +1417,7 @@ JI2MWH=TAKE;JA
 JI3CJP=Kan;1140
 JJ1BDX=Kenji;384
 JJ1FXF=Hiro;2898
+JJ1QPB=Tom;3790
 JJ8KGZ=Leo;JA
 JK0AAU=AKI;JA
 JK1JHB=Satoru;879
@@ -3176,12 +3179,13 @@ KP4PI=Jose;3370
 KP4TF=Eddie;PR
 KQ0E=Ron;2859
 KQ1O=Santi;3778
+KQ2M=Bob;3789
 KQ3H=Tony;NC
 KQ4DFV=Mike;3638
 KQ4E=Jim;3598
 KQ4EFL=Mike;3492
 KQ4R=Ed;FL
-KQ4Y=Rick;CT
+KQ4Y=Rick;FL
 KQ7A=Rio;AZ
 KQ7I=Jeff;3470
 KQ7W=Matt;WA
@@ -3391,6 +3395,7 @@ M0CDL=John;2965
 M0DHP=Ray;2090
 M0DOV=Dov;175
 M0DSR=Dick;G
+M0DXR=Mark;3792
 M0GAA=Motoaki;1014
 M0GGK=Dave;G
 M0HDF=Angel;2862
@@ -4829,7 +4834,7 @@ RT5G=Dima;UA
 RT5P=Gene;UA
 RT9S=Yuri;UA9
 RT9T/3=Tony;UA9
-RU0LL=Alex;UA9
+RU0LL=Alex;3791
 RU3TJ=Dima;UA
 RV3FF=Andy;UA
 RV3ZN=Alex;UA

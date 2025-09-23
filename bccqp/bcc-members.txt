@@ -449,6 +449,7 @@ OZ1MDX,Marc
 OU4U,Marc
 9A3DXA,Marc
 DO4OD,Matze
+DO6FM,Michl
 DO6SR,Robert
 9A5TU,Robert
 EI5LA,Megan
