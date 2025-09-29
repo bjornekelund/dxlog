@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-09-20
+# LastEdit,2025-09-28
 # Send new info or corr. DIRECT to ve2fk@arrl.net
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -243,6 +243,7 @@ AC5M,SETH,OK,
 AC5O,Jeff,LA,Raceland LA
 AC5XK,Don,2989,Washington DC
 AC6AC,Buz,1911,Topanga CA
+AC6NT,Eric,3797,Franklin TN
 AC6SL,John,CA,Boulder Creek CA
 AC6T,Steve,CA,Santa Barbara CA
 AC6YY,Ned,1244,Santa Clara CA
@@ -1332,6 +1333,7 @@ IS0FQK,Pat,3316,Quartu S. Elena Italy
 IT9BLB,Joe,2138,Palermo Italy
 IT9CDU,Vince,,Palermo Italy
 IT9CKA,Serafino,2584,Trapani Italy
+IT9GSF,Fabio,3796,Palermo  Italy
 IT9IML,Rosario,,Nascalucia Italy
 IT9KCD,Gae,3653,Serradifalco Italy
 IT9MUO,Alf,1569,Ribera Italy
@@ -2245,6 +2247,7 @@ K7FOP,Roland,2600,Beaverton OR
 K7FOS,Evan,OR,Amity OR
 K7FU,Ray,UT,Washington UT
 K7GA,Jeff,AZ,Yuma AZ
+K7GK,Denis,3798,Orinda CA
 K7GM,Rick,3402,Greenville NC
 K7GS,Gary,1624,Spokane WA
 K7GT,Allan,682,Central Point OR
@@ -2925,7 +2928,7 @@ KG5RXG,Mike,2643,Austin TX
 KG5SSB,Dan,3201,Tupelo MS
 KG5U,Dale,1241,Houston TX
 KG5VK,Steve,1806,near Ben Franklin TX
-KG5WaW,Jim,TX,Rockwall TX
+KG5WAW,Jim,3794,Rockwall TX
 KG5YOV,Ben,TX,San Antonio TX
 KG6IIP,Paco,1313,Grants Pass OR
 KG6N,Frank,CA,(1910) Sonoma CA
@@ -3467,6 +3470,7 @@ MI0VKO,Dave,2445,Fermanagh Northern Ireland
 MI0WST,Del,,Greybbey Northern Ireland
 MI0WWB,Will,2081,(William) Baligowan N. Ireland (Been heard QRP)
 MJ0ASP,Mat,,Le Quai Bisson St.Brelade Jersey
+MM0DGI,Steven,3795,Orkney Islands Scotland  EU009
 MM0FME,Mik,2151,Mozzo Scotland
 MM0NJC,Nick,,Livington Scotland
 MM0TWX,Pete,3085,Troon Scotland
@@ -3480,7 +3484,7 @@ MM7BFL,Laura,3681,Dailly Scotland
 MM9I,John,,(SM0OPS) East Kilbridge Scotland
 MW0SAW,Steve,3486,Pontypridd Wales
 MX0ROA,DUKE,3365,Radio Oficers Association
-N0AC,Rocky,1252,
+N0AC,Bill,IA,(1252)
 N0AC/M,Bill,IA,(1252),
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
@@ -4646,6 +4650,7 @@ OM2VL,Laci,1542,Dunajska Streda Slovak Republic
 OM3CPF,Dus,,Slovak Republic
 OM3EY,Ed,,Banovce N.Bebr Slovak Republic
 OM3GI,Jozef,OM,Spisska Teplica Slovak Republic
+OM3RM,TIBOR,,Rohovce Slovac Republic
 OM3TBG,Milan,,Nitra Slovak Republic
 OM3YAD,Rudo,,no info
 ON1DX,Ron,2423,Merksplas Belgium
@@ -6331,7 +6336,6 @@ WA1SKQ,Rich,342,Cranston RI
 WA1T,Al,2359,Milton NH
 WA1VAB,Henry,1839,Littleton MA
 WA1VEE,Joe,3749,Carlestown RI
-WA1VEE,Jos,RI,Charlestown RI
 WA1WDE,John,MA,Natick MA
 WA1X,Bud,2427,Medina OH
 WA1Z,Bob,NH,Windham NH

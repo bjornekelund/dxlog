@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3796
-# Last updated 2025-09-26
+# Contains members up to #3798
+# Last updated 2025-09-29
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -241,6 +241,7 @@ AC5M=SETH;OK
 AC5O=Jeff;LA
 AC5XK=Don;2989
 AC6AC=Buz;1911
+AC6NT=Eric;3797
 AC6SL=John;CA
 AC6T=Steve;CA
 AC6YY=Ned;1244
@@ -2240,6 +2241,7 @@ K7FOP=Roland;2600
 K7FOS=Evan;OR
 K7FU=Ray;UT
 K7GA=Jeff;AZ
+K7GK=Denis;3798
 K7GM=Rick;3402
 K7GS=Gary;1624
 K7GT=Allan;682
@@ -3472,7 +3474,7 @@ MM9I=John;GM
 MW0SAW=Steve;3486
 MX0ROA=DUKE;3365
 N0AC/M=Bill;IA
-N0AC=Rocky;1252
+N0AC=Bill;IA
 N0AIE=Everett;SD
 N0AT=Ron;2399
 N0AV=Jim;359
@@ -4636,6 +4638,7 @@ OM2VL=Laci;1542
 OM3CPF=Dus;OM
 OM3EY=Ed;OM
 OM3GI=Jozef;OM
+OM3RM=TIBOR;OM
 OM3TBG=Milan;OM
 OM3YAD=Rudo;OM
 ON1DX=Ron;2423
@@ -6316,7 +6319,6 @@ WA1SKQ=Rich;342
 WA1T=Al;2359
 WA1VAB=Henry;1839
 WA1VEE=Joe;3749
-WA1VEE=Jos;RI
 WA1WDE=John;MA
 WA1X=Bud;2427
 WA1Z=Bob;NH
