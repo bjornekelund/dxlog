@@ -1,10 +1,11 @@
 # TRC DX Contest Call History File
-# Created 02-10-2025
+# LastEdit,2025-10-03
 # By VE2FK & LZ1ONK
+# Thanks SM7IUN for his help
 # Send corrections direct to ve2fk@arrl.net
 !!Order!!,Call,Sect,UserText,
-# TRC,DX
-# TRC,DIGI
+# TRCDX
+# TRCDIGI
 2E0ATB,TRC,
 2E0CVN,TRC,
 2E0EAY,TRC,

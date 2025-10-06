@@ -1,4 +1,4 @@
-# Updated up to FOC #2253 - XK1CO. Updates to fabian@fkurz.net.
+# Updated up to FOC #2255 - IK1WNO. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -529,6 +529,7 @@ II3MPL=Helga;2180
 IK0IXI=Fabio;1999
 IK0YGJ=Carlo;1937
 IK0YVV=Marco;2086
+IK1WNO=Enrico;2255
 IK4EWX=Ian;2205
 IK5VLL=Andy;2156
 IN3FHE=Helga;2180
@@ -839,6 +840,7 @@ NY2PO=Pat;2175
 NY4A=Howie;1712
 NZ6K=Rob;1821
 OE1TKW=Helmut;2207
+OE3IAK=Andi;2254
 OE50TKW=Helmut;2207
 OE5TXF=Nigel;1266
 OE9TXF=Nigel;1266

@@ -1,7 +1,7 @@
 # CQ WW RTTY database - States and provinces but AK HI PR VI not included
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-10-01
+# Last updated 2025-10-06
 4U1WB=DC
 A0U=KS
 AA0AI=IA
@@ -4477,7 +4477,7 @@ KC9ZZU=IL
 KD0BT=IA
 KD0CVZ=ND
 KD0DW=CO
-KD0EE=SD
+KD0EE=IN
 KD0EX=MO
 KD0FW=MO
 KD0GAV=CO
