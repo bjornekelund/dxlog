@@ -1,7 +1,7 @@
 # K1USN Slow Speed Test participants database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-10-22
+# Last updated 2025-10-23
 2E0GKC=PAUL;DX
 2E0IIV=STEVE;DX
 2E0PKK=PAUL;DX
@@ -8410,6 +8410,7 @@ W1NJC=NICK;MA
 W1NK=FRANK;CT
 W1NN=HAL;OH
 W1NU=RYAN;MA
+W1NV=MIKE;CO
 W1OKH=ED;VT
 W1OL=GUY;MA
 W1OP=ANDY;RI

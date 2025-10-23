@@ -1,0 +1,10 @@
+Parsing ss_cw.xdt
+Problem RAC section : "VA3IIF Q VA3IIF 12 GTA"
+Problem RAC section : "VE3AYR A VE3AYR 55 GTA"
+Problem RAC section : "VE3RZ U VE3RZ 68 GTA"
+Parsing ss_ssb.xdt
+Problem RAC section : "VA3CBU A VA3CBU 20 GTA"
+Problem RAC section : "VA3HDL A VA3HDL 19 GTA"
+Problem RAC section : "VA3WU B VA3WU 91 GTA"
+Problem RAC section : "VE3IMU A VE3IMU 07 GTA"
+Problem Check       : "W7BRS B W7BRS 6W WA"

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-10-21
+# LastEdit,2025-10-23
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -3210,6 +3210,7 @@ KQ4DUX,Jay,3805,Andalusia AL
 KQ4E,Jim,3598,Rogersville TN
 KQ4EFL,Mike,3492,Marietta GA
 KQ4EFU,David,3804,Johnson City IN
+KQ4MHE,Mike,3820,
 KQ4R,Ed,FL,Port Orange FL
 KQ4Y,Rick,FL,Fernandina Beach FL
 KQ7A,Rio,AZ,Scottsdale AZ
@@ -4401,6 +4402,7 @@ NN1SS,John,NH,Milford NH
 NN2DX,Bray,NY,RHRDXA Pawling NY
 NN2L,Chuck,3231,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
+NN3E,Kevin,3822,
 NN3Q,Russ,3593,Wernersville PA
 NN3W,Rich,VA,Vienna VA
 NN4K,Mac,1227,Stone Mountain GA
@@ -4473,6 +4475,7 @@ NT6Q,ZO,CA,(1224) Calif. Alligators Contest Club (Escondido)
 NT6X,Mike,167,Santa Ana CA
 NT7R,Steve,FL,Lakeland FL
 NT8B,Leon,VA,Falls Church VA
+NU1D,Seth,3821,
 NU1N,Brian,MA,Brookline MA
 NU1O,Chris,1670,Longmeadow MA
 NU2J,Marc,NJ,Bloomfield NJ
