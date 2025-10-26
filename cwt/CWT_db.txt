@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3822
-# Last updated 2025-10-23
+# Contains members up to #3831
+# Last updated 2025-10-26
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -273,6 +273,7 @@ AD0WE=Kurt;2167
 AD1C=Jim;131
 AD2BO=Russ;NY
 AD2EK=Jean;NJ
+AD2MM=Vince;3829
 AD3DX=Marilyn;AL
 AD4C=Hector;FL
 AD4DP=Dave;CWA
@@ -446,6 +447,7 @@ AJ6ET=Ed;2935
 AJ6GI=Jaime;2465
 AJ6MQ=Brent;CA
 AJ6V=Ed;3614
+AJ7CM=Andy;3826
 AJ7DL=Gord;3552
 AJ7F=Tim;WA
 AJ8B=Bill;1567
@@ -1602,7 +1604,7 @@ K1IG=George;2396
 K1IR=Jim;73
 K1IU=Bob;IA
 K1JD=John;75
-K1JH=Jim;CA
+K1JH=Jim;3830
 K1KK=David;NC
 K1KNJ=Reg;ME
 K1KS=Al;1561
@@ -2508,7 +2510,7 @@ K9ZMU=Kent;WI
 K9ZTV=Kent;676
 KA0AAM=Dwayne;1497
 KA0PQW=Matt;3377
-KA0WWT=Butch;CWA
+KA0WWT=Butch;3823
 KA1CFP=Marshall;VA
 KA1EFO=Ron;3081
 KA1IOR=Geoff;351
@@ -3097,13 +3099,13 @@ KL9A=Chris;1576
 KM0O=Tony;1037
 KM3A=Dave;2611
 KM3T=Dave;50
-KM4CAJ=Andrew;GA
+KM4CAJ=Andrew;3827
 KM4CH=John;2039
 KM4CUB=Ron;GA
 KM4DR=Gale;TX
 KM4FO=Dwight;1436
 KM4HI=Jim;FL
-KM4JEG=Bob;CWA
+KM4JEG=Bob;3825
 KM4JHK=Paul;CWA
 KM4JTE=John;3683
 KM4LAO=Ruth;2063
@@ -4183,6 +4185,7 @@ N9GB=Greg;KS
 N9GFU=Jim;IN
 N9GG=Bob;2517
 N9GVP=Tom;IL
+N9HO=Justin;3828
 N9ITO=Jim;IL
 N9IXD=Marty;1393
 N9JF=Jim;IL
@@ -4257,6 +4260,7 @@ NC1V=Mike;MA
 NC2M=George;NY
 NC3I=Doug;WA
 NC3J=Bob;MD
+NC3S=Phil;3831
 NC3Y=Tom;2147
 NC4ON=Stefan;NC
 NC4RB=John;NC
@@ -6356,7 +6360,7 @@ WA2BJN=Rich;NC
 WA2DFI=Scotty;164
 WA2DIY=Mark;NJ
 WA2ELW=Rich;MO
-WA2LMC=CLIFF;NC
+WA2LMC=CLIFF;3824
 WA2MBP=Jim;773
 WA2OAX=Ira;534
 WA2OTC=Dave;MD

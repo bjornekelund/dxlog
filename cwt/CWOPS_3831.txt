@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-10-23
+# LastEdit,2025-10-26
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -274,6 +274,7 @@ AD0WE,Kurt,2167,Manhattan KS
 AD1C,Jim,131,Brighton CO
 AD2BO,Russ,NY,Coram NY
 AD2EK,Jean,NJ,Spotswood NJ
+AD2MM,Vince,3829,
 AD3DX,Marilyn,AL,Bessemer AL
 AD4C,Hector,FL,Port St Lucie FL
 AD4DP,Dave,CWA,South Boston VA
@@ -447,6 +448,7 @@ AJ6ET,Ed,2935,Moreno VAlley CA
 AJ6GI,Jaime,2465,Portola Valley CA
 AJ6MQ,Brent,CA,Stockton CA
 AJ6V,Ed,3614,Los Altos Hills CA
+AJ7CM,Andy,3826,
 AJ7DL,Gord,3552,San Tan Valley AZ
 AJ7F,Tim,WA,Granite Falls WA
 AJ8B,Bill,1567,Waynesville OH
@@ -1607,7 +1609,7 @@ K1IG,George,2396,Wesford MA
 K1IR,Jim,73,Sudbury MA
 K1IU,Bob,IA,Iowa City IA
 K1JD,John,75,Santa FE NM
-K1JH,Jim,CA,Los Altos CA
+K1JH,Jim,3830,Los Altos CA
 K1KK,David,NC,Washington NC
 K1KNJ,Reg,ME,Woolwich ME
 K1KS,Al,1561,Lyndonville VT
@@ -2513,7 +2515,7 @@ K9ZMU,Kent,WI,West Bend WI
 K9ZTV,Kent,676,Jefferson City MO
 KA0AAM,Dwayne,1497,Andover KS
 KA0PQW,Matt,3377,Ellendale MN
-KA0WWT,Butch,CWA,Mequite NV
+KA0WWT,Butch,3823,Mequite NV
 KA1CFP,Marshall,VA,Virginia Beach VA
 KA1EFO,Ron,3081,Boxford MA
 KA1IOR,Geoff,351,East Falmouth MA
@@ -3102,13 +3104,13 @@ KL9A,Chris,1576,Bozeman MT
 KM0O,Tony,1037,St. Paul MN
 KM3A,Dave,2611,Mission Viejo CA
 KM3T,Dave,50,Amherst NH
-KM4CAJ,Andrew,GA,Macon GA
+KM4CAJ,Andrew,3827,Macon GA
 KM4CH,John,2039,Lawrenceburg KY 
 KM4CUB,Ron,GA,Rockmart GA
 KM4DR,Gale,TX,Kerrville TX
 KM4FO,Dwight,1436,Madisonville KY
 KM4HI,Jim,FL,Ocala FL
-KM4JEG,Bob,CWA,Tarboro NC
+KM4JEG,Bob,3825,Tarboro NC
 KM4JHK,Paul,CWA,Marion NC
 KM4JTE,John,3683,Gainesville FL 
 KM4LAO,Ruth,2063,Cana VA
@@ -4194,6 +4196,7 @@ N9GB,Greg,KS,Stilwell KS
 N9GFU,Jim,IN,Schererville IN
 N9GG,Bob,2517,Wilmington DE
 N9GVP,Tom,IL,Springfield IL
+N9HO,Justin,3828,
 N9ITO,Jim,IL,Lake Barrington IL
 N9IXD,Marty,1393,Chicago IL
 N9JF,Jim,IL,
@@ -4268,6 +4271,7 @@ NC1V,Mike,MA,Andover MA
 NC2M,George,NY,Jamaica Estates NY
 NC3I,Doug,WA,Seattle WA
 NC3J,Bob,MD,Fallston MD
+NC3S,Phil,3831,
 NC3Y,Tom,2147,Sharpsburg MD
 NC4ON,Stefan,NC,Denver NC
 NC4RB,John,NC,Thomasville NC
@@ -6372,7 +6376,7 @@ WA2BJN,Rich,NC,Greensboro NC
 WA2DFI,Scotty,164,Tempe AZ
 WA2DIY,Mark,NJ,Williamstown NJ
 WA2ELW,Rich,MO,
-WA2LMC,CLIFF,NC,
+WA2LMC,CLIFF,3824,NC,
 WA2MBP,Jim,773,Marietta GA
 WA2OAX,Ira,534,Liberty NY
 WA2OTC,Dave,MD,Hagerstown MD
