@@ -279,7 +279,7 @@ FW5N         2106 Jacky (ZL3CW)
 G0BQV        1677 Mary
 G0EFO        2068 Mike
 G0GKH        1939 Dave
-G0HFL        2171 Nick
+G0HFL        2171 Nick (G5NIK)
 G0IBN        2048 Andy
 G0KPE        2235 Carl
 G0MFR        2204 Gareth
@@ -370,7 +370,7 @@ G5BTU        1150 Frank (W3LPL)
 G5CH         2137 Keith (GW4OKT)
 G5DPG        1159 Pete (W1RM)
 G5LP         1757 Lionel
-G5NIK        2171 Nick (G0HFL)
+G5NIK        2171 Nick
 G5U          1538 Dave (G3RXP)
 G5VZ         2191 Chris
 G5W          2006 Don (G3BJ)
@@ -390,15 +390,16 @@ GB2MDC       1899 John (G4RCG)
 GB2SPY       1918 Ian (G3ROO)
 GB4DX        1746 Fred (G4BWP)
 GB4RS        2014 Bob (GU4YOX)
-GB60ANT      1998 Gavin (GM0GAV)
-GB85FOC      2171 Nick (G0HFL)
+GB60ANT      1998 Gavin (GM3GAV)
+GB85FOC      2171 Nick (G5NIK)
 GD3NKC       1991 David (G3NKC)
 GI3PDN       1839 Ray
 GK0PNM       2095 Pete (G0PNM)
 GK3VMK       1332 Dale (G3VMK)
-GM0GAV       1998 Gavin
+GM0GAV       1998 Gavin (GM3GAV)
 GM0HKS       2176 Will
 GM0MFR       2204 Gareth (G0MFR)
+GM3GAV       1998 Gavin
 GM3POI        831 Clive
 GM3RWF       1902 Nick (G3RWF)
 GM3WUX       1189 Terry
@@ -416,9 +417,7 @@ GM5A         1430 Rob (GM3YTS)
 GM5CX        1430 Rob (GM3YTS)
 GQ0BQV       1677 Mary (G0BQV)
 GQ0EFO       2068 Mike (G0EFO)
-GQ0GAV       1998 Gavin (GM0GAV)
 GQ0GKH       1939 Dave (G0GKH)
-GQ0HFL       2171 Nick (G0HFL)
 GQ0HKS       2176 Will (GM0HKS)
 GQ0IBN       2048 Andy (G0IBN)
 GQ0KPE       2235 Carl (G0KPE)
@@ -427,6 +426,7 @@ GQ0PNM       2095 Pete (G0PNM)
 GQ0VQW       1931 Sandy (G0VQW)
 GQ2NF        1777 Tony (G2NF)
 GQ3BJ        2006 Don (G3BJ)
+GQ3GAV       1998 Gavin (GM3GAV)
 GQ3HEJ       1698 Derek (G3HEJ)
 GQ3LDI       2037 Roger (G3LDI)
 GQ3MCK       1639 Gerald (G3MCK)
@@ -490,6 +490,7 @@ GQ4SPY       1587 Arnold (G4SPY)
 GQ4WQI       2107 Dean (G4WQI)
 GQ4YOX       2014 Bob (GU4YOX)
 GQ4ZUK       2201 Allan (GM4ZUK)
+GQ5NIK       2171 Nick (G5NIK)
 GQ5VZ        2191 Chris (G5VZ)
 GQ8DX        2067 Jack (GW8DX)
 GR150NIB     1189 Terry (GM3WUX)
@@ -501,7 +502,7 @@ GU3TXF       1266 Nigel (OE5TXF)
 GU4CHY       1855 Dick
 GU4FOC       2014 Bob (GU4YOX)
 GU4YOX       2014 Bob
-GW0HFL       2171 Nick (G0HFL)
+GW0HFL       2171 Nick (G5NIK)
 GW3KGV       1309 Ken
 GW3WVG       2233 Ian (G3WVG)
 GW4D         2137 Keith (GW4OKT)

@@ -9,9 +9,12 @@ DL6IAK,Mike
 HK1MK,Mike
 AG4RS,Mike
 DA1DX,Ben
+DA1NEN,Lenny
+DA1TD,Tom
+DR1F,Tom
+DR1H,Tom
 DA1TT,Jan
 PA1TT,Jan
-DA6NEN,Lenny
 DB1WA,Alex
 DB2WD,Jens
 DN1MIA,Jens
@@ -78,9 +81,6 @@ DG1HXJ,Stephan
 DN2DB,Stephan
 DG2NMF,Markus
 DG2NMH,Herbert
-DG3FK,Tom
-DR1F,Tom
-DR1H,Tom
 DG4NDV,Joerg
 DG5MEX,Michael
 DG7RO,Torsten
@@ -212,9 +212,9 @@ DK6CQ,Otto
 DK6NP,Peter
 DK6QX,Kurt
 DK6SP,Philipp
+DK6WL,Helmut
 DK6XZ,Suad
 E77XZ,Suad
-DK6WL,Helmut
 DK7AM,Uwe
 DK7CH,Karl-Heinz
 DK7MCX,Wolfgang
@@ -547,9 +547,9 @@ PA0JED,Jan
 PA1AW,Alex
 PA1TX,Gerard
 PA3EWP,Ronald
+PA5MW,Mark
 PA5OES,André
 PA6F,André
-PA5MW,Mark
 PA9M,Marcel
 PA3FGI,Marcel
 PB0AED,Marcel
