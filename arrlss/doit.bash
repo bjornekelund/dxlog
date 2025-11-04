@@ -18,7 +18,7 @@ if [ -e $INFILESSB ]; then
     echo Parsing $INFILESSB
     dos2unix -q $INFILESSB
     gawk -f arrlss.awk $INFILECW | sort | sed 's/#. /# /g' | sed 's/ARRL CW/ARRL SSB/g' > $OUTFILESSB
-    echo Created $$OUTFILESSB
+    echo Created $OUTFILESSB
     unix2dos -q $OUTFILESSB
     ../copytosourcetree.bash $OUTFILESSB
 fi
