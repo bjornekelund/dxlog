@@ -25,7 +25,7 @@ BEGIN {
   }
 }
 END {
-  printf("# Silent multiplier to highlight members in bandmap.\n");
+  printf("\n# Silent multiplier to highlight members in bandmap.\n");
   printf("# Member callsigns from https://www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
   printf("MULT2_TYPE=CALLSIGN\n");
   printf("MULT2_COUNT=PER_MODE\n");

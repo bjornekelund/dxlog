@@ -1,3 +1,4 @@
+
 # Silent multiplier to highlight members in bandmap.
 # Member callsigns from https://www.bavarian-contest-club.de as of 2025-11-04
 MULT2_TYPE=CALLSIGN

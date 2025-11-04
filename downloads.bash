@@ -14,6 +14,7 @@ done
 
 cd bccqp
 ./regex-doit.bash
+./updatecontestdefinition.bash
 cd ..
 
 
