@@ -21,7 +21,8 @@ BEGIN {
     grids[call] += 1;
   }
   else {
-    if ($0 !~ /^(!|#|$)/) printf("Bad entry in: \"%s\"\n", $0) > "/dev/stderr";
+    if ($0 !~ /^(!|#|$)/) 
+      printf("Bad entry in: \"%s\"\n", $0) > "/dev/stderr";
     ignored++;
   }
 }

@@ -1,21 +1,27 @@
 #!/bin/bash
-INFILE=vhf_uhf_r1_db.txt
+FILE6=vhf_uhf_r1_db.txt
+FILE4=vhf_uhf_r1_4_db.txt
 
-OUTFILE=../vhf_uhf_r1_db.txt
-
-dos2unix -q $INFILE
-
-echo Creating 6-position grid database by parsing $INFILE
+OUTFILE6=../$FILE6
+OUTFILE4=../$FILE4
 
 # Create 6-position grid file
 
-gawk -f om6abf.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+dos2unix -q $FILE6
+echo Creating 6-position grid database by parsing $FILE6
+gawk -f om6abf.awk $FILE6 | sort | sed 's/^\#. /\# /g' > $OUTFILE6
+echo $OUTFILE6 "created with" `cat $OUTFILE6 | wc -l` "calls"
+unix2dos -q $OUTFILE6
 
-echo $OUTFILE "created with" `cat $OUTFILE | wc -l` "calls"
+# Create 4-position grid file
 
-unix2dos -q $OUTFILE
+echo Creating 4-position grid database by parsing $FILE6
+gawk -f om6abf4.awk $FILE6 | sort | sed 's/^\#. /\# /g' > $OUTFILE4
+echo $OUTFILE4 "created with" `cat $OUTFILE4 | wc -l` "calls"
+unix2dos -q $FILE6 $OUTFILE4
 
 cd ..
 ../copytosourcetree.bash vhf_uhf_r1_db.txt
+../copytosourcetree.bash vhf_uhf_r1_4_db.txt
 
 exit
