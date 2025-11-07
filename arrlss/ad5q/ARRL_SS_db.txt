@@ -1,6 +1,6 @@
 # ARRL CW Sweepstakes database
 # Based on data collected and maintained by AD5Q
-# Last updated 2025-10-23
+# Last updated 2025-11-07
 4U1WB=U;89;MDC
 AA0AW=U;86;MN
 AA0BY=A;78;OR
