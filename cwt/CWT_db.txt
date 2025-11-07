@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3837
-# Last updated 2025-11-04
+# Contains members up to #3838
+# Last updated 2025-11-07
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -386,6 +386,7 @@ AG3R=Pete;467
 AG3Y=James;AL
 AG4EA=Bill;2373
 AG4JT=Matt;VA
+AG4TT=Dave;NC
 AG5FX=Jamie;OK
 AG5M=Richard;1747
 AG5QX=Mike;2401
@@ -1794,6 +1795,7 @@ K2ZR=Dick;515
 K3AO=Serge;NH
 K3ARC=Adam;TN
 K3ATO=Hal;2552
+K3AXR=Dell;MD
 K3BEQ/3=Ray;
 K3BLN=Gil;PA
 K3BR=Brad;SC
@@ -2998,6 +3000,7 @@ KI5DDO=Joey;2950
 KI5EE=Joe;LA
 KI5GTR=Les;3655
 KI5IO=Nolan;2549
+KI5LA=Megan;3163
 KI5PED=Andy;TX
 KI5PGL=Matt;3572
 KI5T=Wade;LA
@@ -3213,7 +3216,7 @@ KQ4EFL=Mike;3492
 KQ4EFU=David;3804
 KQ4MHE=Mike;3820
 KQ4R=Ed;FL
-KQ4Y=Rick;FL
+KQ4Y=Rick;NY
 KQ7A=Rio;AZ
 KQ7I=Jeff;3470
 KQ7W=Matt;WA
@@ -3535,6 +3538,7 @@ N0KK=Kirk;698
 N0KO=Randy;3733
 N0KQ=Bill;1463
 N0KV=Barry;1723
+N0LY=Jon;MO
 N0MII=Jeff;3466
 N0MP=Bill;AZ
 N0MPM=Mike;IA
@@ -4813,6 +4817,7 @@ PJ2/AG3I=Marty;2579
 PJ2/NF9V=Rudy;593
 PJ2/W3US=Rusty;2668
 PJ2/W4IPC=Bob;PJ2
+PJ4AA=Scott;102
 PJ4K=Dave;232
 PJ4LS=Hans;849
 PJ7AA=Tom;1092
@@ -4855,6 +4860,7 @@ RA3CQ=Igor;20
 RA3LDP=Alex;UA
 RA4ACX=Alexey;UA
 RC6R=Vlad;UA
+RC8SC=Jacob;UA9
 RD1AP=Ogpr;UA
 RD3A=Val;536
 RD3AF=Val;536
@@ -6247,6 +6253,7 @@ W8RZ=Dan;MI
 W8SH=Sparty;MI
 W8TG=Mike;OH
 W8TK=Tom;2129
+W8TOW=Steve;3838
 W8TU=Jim;MI
 W8TWF=Tim;3497
 W8UA=Javan;2662
