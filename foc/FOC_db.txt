@@ -1,4 +1,4 @@
-# Updated up to FOC #2255 - IK1WNO. Updates to fabian@fkurz.net.
+# Updated up to FOC #2256 - WN7JT. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -408,6 +408,7 @@ GM3X=Clive;831
 GM3YOR=Drew;1926
 GM3YTS=Rob;1430
 GM4AFU=Paul;1546
+GM4CFA=Joe;1582
 GM4EVS=David;2060
 GM4FOC=Terry;1189
 GM4HBG=Iain;2246
@@ -1240,6 +1241,7 @@ WG4FOC=Tom;1177
 WH7AA=David;2050
 WK2G=Merrill;1788
 WL7E=Joe;1695
+WN7JT=Gabriel;2256
 WP3C=Alfredo;1965
 WS0TA=Fred;1636
 WS1L=Chuck;2222
