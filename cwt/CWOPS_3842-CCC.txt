@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-11-06
+# LastEdit,2025-11-12
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -756,6 +756,7 @@ DM4EE,Joe,,Ziethen Germany
 DM4G,Klaus,2524,(DL8TG) Wolfsburg Germany 
 DM4WL,Dieter,,Kreisca Germany
 DM6EE,Lutz,2654,Wolfsburg Germany 
+DM6M,Lutz,,Germany
 DM7EE,Christian,,Wolfsburg Germany
 DM7TW,Paul,3715,Backnang Germany
 DO4DXA,Marc,1851,Germering Germany (V31MA)
@@ -845,6 +846,7 @@ EA7AM,Pedro,,Jaen Spain
 EA7EGU,Manuel,2505,Malaga Spain
 EA7JW,David,1933,Cadiz Spain
 EA8/DH2MS,Manfred,,Sankt Augustin Germany
+EA8/S53R,Rob,492,Canary Islands
 EA8AY,Luis,,Santa Cruz Canary Island
 EA8BEX,Manuel,,Telde Canary Is.
 EA8BMG,Luis,1063,La Hidalga Arago Canary Island
@@ -1009,7 +1011,6 @@ G0PNM,Peter,,Cornwall England
 G0POT,Michael,3617,Thatcham England
 G0RDO,John,,Newton Abbot Devon England
 G0TPH,Al,2956,Desford England 
-G0TRT,Cie,3429,Warminster England
 G0TZZ,Chris,3387,Sporle England
 G0UJK,Colin,,Nr London England
 G0UYG,Andy,2453,Port Sunlight Wirral England
@@ -1064,6 +1065,7 @@ G4AFU,Paul,,Bedale England
 G4AJY,Dave,,Benfleet Essex England
 G4AON,Dave,,East Yorkshire England
 G4AXX,Mark,1057,Saffron Walden England
+G4BFG,Cie,3429,(ex:G0TRT)  Warminster England
 G4BSW,Nigel,2083,Margate England
 G4BUE,Chris,1294,West Sussex England (G4E N4CJ)
 G4CMY,Tony,,Gloucestershire England
@@ -1483,7 +1485,7 @@ K0AOZ,Terry,MN,Lakeville MN
 K0AP,Dragan,370,Olathe KS
 K0ARS,Jim,mo,Macon MO
 K0AV,Alan,1129,Colorado Springs CO
-K0BH,Bran,Co,Lafayette CO
+K0BH,Bran,3841,Lafayette CO
 K0BJ,Bruce,KS,Colby KS
 K0BRO,Ron,MO,Belton MO
 K0CA,Cliff,MO,Hannibal MO
@@ -2237,6 +2239,7 @@ K6YF,Robert,CA,Atwater CA
 K6YLH,Jevon,CA,Aptos CA
 K6YXH,Norm,2304,Calabasas CA
 K6ZD,Dave,2157,San Jose CA
+K6ZGN,Rich,3839,
 K6ZGW,Barry,2390,Valley Glen CA
 K6ZO,Don,1375,Washington DC
 K6ZY,Alan,2388,Lanley WA
@@ -2873,7 +2876,7 @@ KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
 KE8NJW,Jeff,3297,Delaware OH
-KE8QFO,David,OH,Martin OH
+KE8QFO,Dave,3840,Martin OH
 KE8TBM,Fred,3771,Napoleon OH
 KE8USW,Mike,WV,Saint Albans WV
 KE8ZLT,Allen,OH,Louiseville OH
@@ -3263,6 +3266,7 @@ KT3M,Rob,CO,Cherry Hills Village CO
 KT3X,Brian,3758,Navasota TX
 KT3Y,Phil,VA,Manassas VA
 KT4E,Amy,TN,Knoxville TN
+KT4NN,Peter,FL,Middleburg
 KT4O,Ben,2995,Bristol TN
 KT4UE,Keith,VA,Powhantan VA
 KT4XN,Tom,1738,Atlanta GA
@@ -3348,7 +3352,7 @@ KY4GW,Joe,KY,Lawrenceburg KY
 KY4ID,Mike,SC,Trenton SC
 KY4KY,Bull,KY,Bullitt Amateur Radio Society
 KY4NA,Lou,KY,Kentuky Radio Oprs.
-KY4WW,John,AL,Centre AL
+KY4WW,John,CWA,Centre AL
 KY4ZY,David,TN,Knoxville
 KY7K,Steve,AZ,Tucson AZ
 KY7M,Lee,84,Phoenix AZ
@@ -3356,6 +3360,7 @@ KY9I,Jay,2341,Paducah KY
 KZ4KG,Jeff,3764,Huntsville AL
 KZ5D,Art,12,New Ibria LA (CWops Vice-Pres. Activities + Events)
 KZ5H,Seth,3667,Houston TX 
+KZ5Z,Jon,3842,
 KZ6H,Steve,2286,Thousand Oaks CA
 LA/DL4HCF,Hubert,,
 LA/G0TRT,Cie,3429,
@@ -3481,6 +3486,7 @@ M2S,Rob,1771,(G0MGM) Bourne End England
 M2U,Ray,2090,(M0DHP) Thames Ditton England 
 M3AWD,Scott,G,Aylesbury Buckinghamshire England
 M3F,Mac,1979,(G3WZD) (News & Notes) Somerset England
+M3WRD,Wemerson,,England
 M3X,Harry,560,(M0IHT) Exeter England
 M3ZFF,David,,Somerset England
 M4N,Mike,2511,(G4IZZ) Cheltenham England
@@ -3776,6 +3782,7 @@ N3WT,John,185,Jefferson MD
 N3XA,Jim,2975,Staunton VA
 N3XF,Dave,2962,Ligonier PA
 N3XL,Bill,3663,Bowie MD
+N3YYZ,Randy,CWA,Pelzer SC
 N3ZL,Greg,1595,Asheville NC
 N3ZN,Tony,1690,Pittsburg PA
 N3ZP,Phil,PA,North Wales PA
