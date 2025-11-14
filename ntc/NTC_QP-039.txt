@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2025-08-24
-# Last number listed 287 ON6OL
+# Last edit,2025-10-21
+# Last number listed 293 PA3MM
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -59,6 +59,7 @@ DM3ZM,Harald,158,
 DM4RW,Robert,73,
 DM5JBN,Eddy,190,
 DM5Z,Eddy,190,(DM5JBN)
+DM7TW,Paul,291,
 DP1POL,Felix,80,
 DP4E,Ralf,125,(DL4YR)
 DR3I,Micha,83,
@@ -104,6 +105,7 @@ HG8Z,Pista,232,
 HB9AXG,Tony,NM,
 HB9CSA,Fritz,74,
 HB9EWO,Clemens,155,
+HB9ZGZ,Cyrill,288,
 HK3CQ,juan,272,
 I5ECW,Vanni,164,
 I6HWD,Dom,187,
@@ -260,8 +262,10 @@ PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
 PA3HK,Henry,126,
 PA3JD,Joop,112,
+PA3MM,Jan,293,
 PA3PKO,Peter,201,
 PA3Y,Nico,19,
+PA4HJB,Hans,292,
 PA4M,Mark,29,
 PA4O,Peter,7,
 PA4WM,Martin,23,
@@ -288,7 +292,9 @@ PA8MM,Victor,250,
 PA9CW,Ton,81,
 PA9J,Jorrit,128,
 PA9O,Fil,63,
+PA9ZGZ,Cyrill,288,
 PB2JJ,Jasper,27,
+PB4B,Marianne,289,
 PB5DX,Harry,12,
 PB7TT,Ron,145,
 PC4E,Hans,33,
@@ -300,6 +306,7 @@ PD0SOT,Edwin,15,
 PD0WLM,William,25,
 PD1RDY,Ruud,224,
 PD4EMI,Emiel,285,
+PD4LR,Lub,290,
 PD5MI,Mike,204,
 PD5N,Eric,179,
 PD7FCC,Frans,218,
