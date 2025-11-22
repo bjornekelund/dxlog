@@ -9,6 +9,7 @@ DL6IAK,Mike
 HK1MK,Mike
 AG4RS,Mike
 DA1DX,Ben
+DA1EE,Lucas
 DA1NEN,Lenny
 DA1TD,Tom
 DR1F,Tom
@@ -135,6 +136,8 @@ F4VVG,Simon
 DJ4WT,Christian
 DQ9L,Christian
 DF0SC,Christian
+DJ5AS,Alex
+DR7X,Alex
 DJ5CL,Ingo
 DJ5CW,Fabian
 SO5CW,Fabian
@@ -480,6 +483,7 @@ M0CFW,Kazu
 MJ0CFW,Kazu
 K3LR,Tim
 KC1XX,Matt
+KE8LQR,Kate
 KH6YY,Alex
 KU1CW,Alex
 P40C,Alex

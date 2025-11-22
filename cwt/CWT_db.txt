@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3842
-# Last updated 2025-11-13
+# Last updated 2025-11-22
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -136,7 +136,7 @@ AA5W=Jim;1826
 AA5WZ=Wayne;3221
 AA5ZT=Mike;OK
 AA6MK=Mike;1909
-AA6MU=Dim;CA
+AA6MU=Vim;CA
 AA6PM=Peter;3062
 AA6VX=Rich;CA
 AA6W=Don;CA
@@ -755,7 +755,7 @@ DM4EE=Joe;DL
 DM4G=Klaus;2524
 DM4WL=Dieter;DL
 DM6EE=Lutz;2654
-DM6M=Lutz;DL
+DM6M=Lutz;2654
 DM7EE=Christian;DL
 DM7TW=Paul;3715
 DO4DXA=Marc;1851
@@ -1546,6 +1546,7 @@ K0RC=Bob;3290
 K0RF=Chuck;887
 K0RLQ=Ron;3685
 K0RU=Rob;KS
+K0SM=Andy;NY
 K0SN=Tom;1344
 K0TC=Ron;1421
 K0TER=Mike;3533
@@ -4827,7 +4828,7 @@ PJ2/W4IPC=Bob;PJ2
 PJ4AA=Scott;102
 PJ4K=Dave;232
 PJ4LS=Hans;849
-PJ7AA=Tom;1092
+PJ7PA=Tom;1092
 PJ7PL=Ed;PJ7
 PP5EG=Oms;549
 PP5OO=Edson;3521
