@@ -65,7 +65,7 @@
 7O8AD        2161 Kenneth (LA7GIA)
 7S2W         2084 Jim (SM2EKM)
 7S5Q         1514 Rune (SM5COP)
-7Z1HL        1956 Harry (M0IHT)
+7Z1HL        1956 Harry (G3CWA)
 8P0P         1896 Peter (W0SA)
 8P3A         1740 Yuri (VE3DZ)
 8P9A         2014 Bob (GU4YOX)
@@ -291,6 +291,7 @@ G2NF         1777 Tony
 G3AB         1564 Andy (5Z4VJ)
 G3BA         1893 Bob
 G3BJ         2006 Don
+G3CWA        1956 Harry
 G3FRR        2095 Pete (G0PNM)
 G3HEJ        1698 Derek
 G3J          1649 Mike (G4RMV)
@@ -427,6 +428,7 @@ GQ0PNM       2095 Pete (G0PNM)
 GQ0VQW       1931 Sandy (G0VQW)
 GQ2NF        1777 Tony (G2NF)
 GQ3BJ        2006 Don (G3BJ)
+GQ3CWA       1956 Harry (G3CWA)
 GQ3GAV       1998 Gavin (GM3GAV)
 GQ3HEJ       1698 Derek (G3HEJ)
 GQ3LDI       2037 Roger (G3LDI)
@@ -529,7 +531,6 @@ I5EFO        2172 Emil
 I7ALE        1305 Sandro
 IB7W         1305 Sandro (I7ALE)
 II3MPL       2180 Helga (IN3FHE)
-IK0IXI       1999 Fabio
 IK0YGJ       1937 Carlo
 IK0YVV       2086 Marco
 IK1WNO       2255 Enrico
@@ -542,9 +543,6 @@ IR0FOC       1969 Simone (IS0AFM)
 IR0RIVA      1969 Simone (IS0AFM)
 IR7A         1305 Sandro (I7ALE)
 IS0AFM       1969 Simone
-IU0HMB       2178 Vlado
-IU0HMB/M     2178 Vlado (IU0HMB)
-IU0HMB/P     2178 Vlado (IU0HMB)
 IZ2FME       2217 Michele
 J20DA        1708 Baldur (DJ6SI)
 J20TW        1177 Tom (K3TW)
@@ -718,13 +716,11 @@ LY60VUFF     1773 Willy (LY2PX)
 LY785A       2104 Jonas (LY5A)
 LY787A       2104 Jonas (LY5A)
 LY788A       2104 Jonas (LY5A)
-LZ/IU0HMB    2178 Vlado (IU0HMB)
 LZ1MS        1826 Rumen
 LZ2RS        1945 Rumi
 M0DXR        2136 Mark
 M0GAA        2052 Motoaki (JA1GZV)
 M0HVM        1582 Joe (DL4CF)
-M0IHT        1956 Harry
 M0IPX        1564 Andy (5Z4VJ)
 M0KTZ        2213 Enzo
 M0MZB        2234 Matthew
@@ -737,7 +733,7 @@ M0TTJ        2141 Dave (VE3KG)
 M0TTN        1835 Slavek (OK1TN)
 M2G          1899 John (G4RCG)
 M3S          2204 Gareth (G0MFR)
-M3X          1956 Harry (M0IHT)
+M3X          1956 Harry (G3CWA)
 M4N          2210 Mike (G4IZZ)
 M5B          2233 Ian (G3WVG)
 M5D          2107 Dean (G4WQI)
@@ -760,7 +756,6 @@ MM3S         2204 Gareth (G0MFR)
 MM7N         1902 Nick (G3RWF)
 MQ0CCE       1914 Bob (MD0CCE)
 MQ0DGI       2203 Steven (MM0DGI)
-MQ0IHT       1956 Harry (M0IHT)
 MQ0KTZ       2213 Enzo (M0KTZ)
 MQ0MZB       2234 Matthew (M0MZB)
 MQ0NGN       2248 Nigel (M0NGN)
@@ -1108,6 +1103,7 @@ VP2ERK       2179 Rudi (DK7PE)
 VP2MCW       2179 Rudi (DK7PE)
 VP2MKC       1991 David (G3NKC)
 VP2MKG       2122 George (K5KG)
+VP2MMG       2232 Cathy (W4CMG)
 VP2MTE       1513 Phil (G3SWH)
 VP5FOC       1104 Jim (W9VNE)
 VP5K         1681 John (K9DX)
@@ -1176,7 +1172,6 @@ W3EEK        2094 Carl
 W3FOC        1067 Jim (N3JT)
 W3FSA        2165 John
 W3IL         1616 Bill
-W3IX         1999 Fabio (IK0IXI)
 W3LPL        1150 Frank
 W3RJ         2251 Richard
 W3WJD         888 Sig (N3RS)
