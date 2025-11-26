@@ -484,6 +484,7 @@ MJ0CFW,Kazu
 K3LR,Tim
 KC1XX,Matt
 KE8LQR,Kate
+DA2KT,Kate
 KH6YY,Alex
 KU1CW,Alex
 P40C,Alex
