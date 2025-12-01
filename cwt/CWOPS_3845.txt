@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-11-24
+# LastEdit,2025-11-28
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -499,6 +499,7 @@ CO6RD,Rey,1898,Sancti Spiritus Cuba
 CO8CY,Oriol,,Guantanamo Cuba
 CO8NMN,Noe,2082,Santiago de Cuba
 CO8ZZ,Raul,1682,Las Tunas Cuba
+CQ9A,Chris,1576,KL9A
 CR6K,Fil,2699,S. Martinho da Gandara Portugal (CT1ILT)
 CR7AJL,Men,,Almada Portugal
 CT/W1UU,Peter,91,Casaias Martanes Portugal
@@ -522,6 +523,7 @@ CX7TT,Tom,518,Rocha Uruguay
 D4NA,Timo,2967,(OH1NOA)
 D4Z,Phil,1354,(HB9ARF)
 DA0BCC,Mario,,Bavarian Contest Club Germany
+DA2KT,Kat,,KE8LQR at DA2KT
 DB7AL,Andy,,Dreieich Germany
 DC1YY,Reini,,Munich Germany
 DD5CF,Colin,DL,Bonn Germany (QRP)
@@ -1570,7 +1572,7 @@ K0VSH,Chuck,431,Saint Louis MO
 K0VW,JJ,2098,(John) Apple Valley MN
 K0VXU,Russ,836,Stilwell KS
 K0WA,Lee,1859,Newton KS
-K0WEW,Kent,KS,Leawood KS
+K0WEW,Kent,3845,Leawood KS
 K0WOI,Dan,IA,Minburn IA
 K0XF,Max,3408,Colorado Springs CO
 K0XP,Steve,CA,Mission Viejo CA
@@ -4438,6 +4440,7 @@ NN4NT,Rob,AL,Madison AL
 NN4RB,Rick,VA,Forest VA
 NN4SS,Larry,SC,Drayton SC
 NN5DE,Dave,3005,Mansfield TX
+NN5E,Vern,TX,Dallas TX
 NN5O,Larry,1327,Tupelo MS (Birthplace of Elvis)
 NN5P,Mad,1479,(RC) Cedar Park TX
 NN6B,Joe,2709,Petaluma CA
@@ -4754,6 +4757,7 @@ OZ5KU,Kurt,,Nimtofte Denmark
 OZ6FRS,Per,,Prederikssund Denmark
 OZ7JC,Jorgen,,Skals Denmark
 P4/K3DMG,Lee,1837,
+P40L,Dave,,WD6T
 P40LE,Andy,39,Aruba (also K2LE)
 P40TA,Ken,,Martell CA USA
 P40W,John,204,W2GD
@@ -4839,6 +4843,7 @@ PJ2/AG3I,Marty,2579,Remote operation
 PJ2/NF9V,Rudy,593,
 PJ2/W3US,Rusty,2668,
 PJ2/W4IPC,Bob,PJ2,Curacao (@PJ2T)
+PJ2/W7JET,BB,2993,W7JET
 PJ4AA,Scott,102,W4PA
 PJ4K,Dave,232,(N3RD)
 PJ4LS,Hans,849,Bonaire Netherland Antillies
@@ -5065,6 +5070,7 @@ SP2LNW,Slaw,2544,Mirachowo Poland
 SP2R,Darek,SP,Slupsk Poland
 SP3BLC,Mietek,,
 SP3FSM,Stan,2961,Poznan Poland
+SP3GTR,Arek,,
 SP3JDZ,Wit,,
 SP3UQW,Zbig,3833,
 SP4AWE,Kaz,,Bialystok Poland
@@ -5240,6 +5246,7 @@ V31SP,Phil,2588,(DK6SP)
 V31UB,Colin,418,Belize
 V31WK,KW,2182,(VE7KW)
 V4/AC6ZM,JUAN,2419,
+V44NT,Andy,2036,N2NT
 V47NT,Andy,2036,(N2NT)
 V47UM,Bill,1699,(W3UL) Nevis West Indies
 V49K,JUAN,2419,(AC6ZM)
@@ -5879,6 +5886,7 @@ W4/G0TRT,Cie,3429,Orlando FL
 W4/LZ5KF,Claude,2326,(F5PBL)
 W4ALF,Chris,KY,Independence KY
 W4ANE,Jim,SC,Columbia SC
+W4ANT,Alan,,
 W4AQL,Bruce,2297,(KN8U) Georgia Tech ARC Atlanta GA
 W4ARB,Aaron,3777,Notasulga AL
 W4AU,John,224,Hamilton VA
@@ -6104,6 +6112,7 @@ W6AWG,Alan,CA,La Mirada CA
 W6AYC,Joe,2884,Atascadero CA
 W6BK,Dave,1165,Murrieta CA
 W6BUX,Bux,2603,(Gurbux) Chatsworth CA
+W6CF,Voijin,CA,California Historical Radio Society
 W6CL,Carol,OK,Tulsa OK
 W6CWO,,CA,Pacific CWops Club (Los Altos CA)
 W6DER,Derek,3186,Sacramento CA
@@ -6384,6 +6393,7 @@ WA0NLK,Phil,CO,Canon City CO
 WA0USA,Vic,645,Palm Beach Gardens FL
 WA1BXY,Don,2601,Tiverton RI
 WA1EDN,Jim,MA,Springfield MA
+WA1FMM,Dan,CO,Aurora CO
 WA1HEW,Craig,PA,York PA
 WA1HUD,Steve,PA,Stoneham MA
 WA1IIE,Chuck,ME,Gardiner ME
@@ -6404,6 +6414,7 @@ WA2BCK,Tom,762,Great Falls VA
 WA2BJN,Rich,NC,Greensboro NC
 WA2DFI,Scotty,164,Tempe AZ
 WA2DIY,Mark,NJ,Williamstown NJ
+WA2DNI,Saul,NY,Staten Island
 WA2ELW,Rich,MO,
 WA2LMC,CLIFF,3824,NC,
 WA2MBP,Jim,773,Marietta GA
