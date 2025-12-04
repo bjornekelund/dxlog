@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-<<<<<<<< HEAD:cwt/CWOPS_3845.txt
-# LastEdit,2025-11-28
-========
-# LastEdit,2025-12-01
->>>>>>>> d7a7043d (Update):cwt/CWOPS_3846.txt
+# LastEdit,2025-12-03
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -3531,7 +3527,7 @@ MM7BFL,Laura,3681,Dailly Scotland
 MM9I,John,,(SM0OPS) East Kilbridge Scotland
 MW0SAW,Steve,3486,Pontypridd Wales
 MX0ROA,DUKE,3365,Radio Oficers Association
-N0AC,Bill,IA,(1252)
+N0AC,Bill,CWA,(1252)  IA
 N0AC/M,Bill,IA,(1252),
 N0AIE,Everett,SD,Springfield SD
 N0AT,Ron,2399,Plymouth MN
@@ -5261,6 +5257,7 @@ VA2AGW,Andy,2328,Mansonville QC
 VA2CZ,Pete,2184,Sherbrooke QC
 VA2EBI,George,9,Ham-Sud QC (also W1EBI)
 VA2FDT,Szabi,1193,Cap-Sante QC
+VA2IW,Bert,QC,Gatineau QC
 VA2MA,MA,QC,also VE3VIG
 VA2NM,Simon,3249,Verdun QC
 VA2OT,DAN,3624,(W5MOT) MONTREAL QC
@@ -6235,6 +6232,7 @@ W7VSE,Vic,OR,Medford OR
 W7VZ,Kent,UT,Clearfield UT
 W7WHO,Dennis,3631,Crooked River Ranch OR
 W7WHY,Tom,OR,(407) Coos Bay OR
+W7XE,Larry,OR,Gresham OR
 W7XT,Dick,2004,Missoula MT
 W7Y,Bob,1406,(N7WY) Cheyenne WY
 W7YC,Rick,TX,Fort Worth TX
@@ -6626,6 +6624,7 @@ WB9QDL,Ken,CO,Louisville CO
 WB9VPG,Neil,KY,Union KY
 WB9Z,Jerry,707,Crescent City IL
 WC0W,John,3123,Saint Johns FL
+WC1D,Rick,MA,Pepperell MA
 WC1M,Dick,NH,Hanover NH
 WC2A,Ted,3601,San Mateo CA
 WC2C,Ron,NY,Brooklyn NY
