@@ -2,6 +2,7 @@
 # This file use Sect for exchange
 # File for DARC contests (10m, EASTER, WAG, XMAS).
 # LastEdit,2025-12-05
+# Thanks DL6DBN for updated file
 # Send any corrections direct to VE2FK@arrl.net
 # DARC10M
 # WAG

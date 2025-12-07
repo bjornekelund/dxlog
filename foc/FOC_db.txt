@@ -1,4 +1,4 @@
-# Updated up to FOC #2256 - WN7JT. Updates to fabian@fkurz.net.
+# Updated up to FOC #2257 - G0AYN. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -276,6 +276,7 @@ FK8KA=Motoaki;2052
 FP0LP=Frank;1150
 FW2CW=Jacky;2106
 FW5N=Jacky;2106
+G0AYN=Ian;2257
 G0BQV=Mary;1677
 G0EFO=Mike;2068
 G0GKH=Dave;1939

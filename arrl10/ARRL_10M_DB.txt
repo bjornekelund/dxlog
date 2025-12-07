@@ -1,7 +1,7 @@
 # ARRL 10m database - state or province for US, Canadian, and Mexican stations
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-12-21
+# Last updated 2025-12-07
 AA0A=MO
 AA0AA=NE
 AA0AW=MN
@@ -739,7 +739,7 @@ AI4WB=SC
 AI4WU=VA
 AI4WW=FL
 AI5AA=LA
-AI5G=TX
+AI5G=MO
 AI5IN=TX
 AI6CN=CA
 AI6EG=CA
@@ -1399,7 +1399,7 @@ K2SI=NY
 K2SQS=NJ
 K2SSB=VA
 K2SSS=NY
-K2SX=SC
+K2SX=NC
 K2TE=FL
 K2TOP=NY
 K2TS=AZ
@@ -7452,7 +7452,7 @@ NN2NN=NY
 NN2W=NY
 NN2Y=NJ
 NN3Q=PA
-NN3RP=MD
+NN3RP=DC
 NN3V=CA
 NN3W=VA
 NN4EE=GA
@@ -8913,8 +8913,8 @@ W3CRZ=OH
 W3DAD=MD
 W3DDF=MD
 W3DF=MD
-W3DOS=MD
-W3DQ=MD
+W3DOS=DC
+W3DQ=DC
 W3DQN=MD
 W3DQT=MD
 W3DR=DE
@@ -8955,7 +8955,7 @@ W3GR=MD
 W3GRF=MD
 W3GVX=MD
 W3GY=PA
-W3HAC=MD
+W3HAC=DC
 W3HDH=IL
 W3HKK=OH
 W3HVQ=WV

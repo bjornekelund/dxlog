@@ -1,11 +1,11 @@
 !!Order!!,Call,Exch1,
 #
 # ARRL160
-# LastEdit,2025-12-04
+# LastEdit,2025-12-05
 # MAR are now NB + NS, NT is TER and GTA is GH
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # This file need to use Exch1 in preamble
-# Updated from Logs of 
+# Thanks Bjorn/SM7IUN for his help 
 4U1WB,MDC,
 AA0A,MO,
 AA0AA,NE,
@@ -10519,6 +10519,7 @@ WF3C,NFL,
 WF3M,EPA,
 WF3T,NFL,
 WF4DD,NC,
+WF4DX,NFL,
 WF4U,UT,
 WF4W,GA,
 WF4X,NFL,
