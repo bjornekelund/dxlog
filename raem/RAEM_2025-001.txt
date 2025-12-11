@@ -1,6 +1,6 @@
 !!Order!!,Call,Exch1,UserText, 
 # 
-# Last Edit,2024-12-17
+# Last Edit,2025-12-11
 # Originally idea of UR7QM/sk, coded by RA6YDX
 # RAEM 
 # Send any info, correction direct to ve2fk@arrl.net
@@ -76,6 +76,7 @@ DK1FT,48N9O,
 DK1MAX,49N12O,
 DK1TF,51N14O,
 DK2BU,52N08O,
+DK2FG,51N09O,
 DK2WU,49N12O,
 DK3AX,50N10O,
 DK3CC,50N09O,
@@ -1028,6 +1029,7 @@ RZ4Z,56N47O,
 RZ5ZZ,51N37O,
 RZ6YU,45N40O,
 RZ8U,54N87O,
+RZ9AM,55N60O,
 RZ9OF,55N83O,
 RZ9ON,55N83O,
 RZ9UMA,54N87O,

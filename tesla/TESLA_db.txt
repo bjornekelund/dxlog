@@ -1,7 +1,7 @@
 # Tesla Memorial database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-03
+# Last updated 2025-12-11
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -469,7 +469,6 @@ AE1D=FN42
 AE1EZ=FN42
 AE1P=FN32
 AE1T=FN43
-AE2U=DM43
 AE2U=DM43
 AE3J=FM29
 AE4EC=FM05
@@ -13755,6 +13754,7 @@ W1NN=EN91
 W1NR=FN42
 W1NRB=FN31
 W1NT=FN32
+W1PH=FN43
 W1PR=DM04
 W1QC=FN42
 W1QK=FN31

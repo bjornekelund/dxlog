@@ -1,8 +1,8 @@
 # CWOps CWT participants database
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3846
-# Last updated 2025-12-04
+# Contains members up to #3851
+# Last updated 2025-12-11
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -36,6 +36,7 @@
 7J1ABD=Dan;1176
 7L2VPL=Hide;3538
 7Q2T=Gerry;191
+7Q6UJ=Urgent;3848
 7S3A=Jan;SM
 7X2TT=Abdel;2344
 7X3DA=Hamid;1676
@@ -2878,6 +2879,7 @@ KE8HXE=Brad;3264
 KE8NJW=Jeff;3297
 KE8QFO=Dave;3840
 KE8TBM=Fred;3771
+KE8UEX=Ram;3849
 KE8USW=Mike;WV
 KE8ZLT=Allen;OH
 KE9BHN=Paul;3836
@@ -3141,7 +3143,7 @@ KM7Q=Bob;1353
 KM7W=Chris;1576
 KM9M=Zig;854
 KM9R=Mike;1502
-KN1MT=Tyler;TN
+KN1MT=Tyler;3851
 KN2D=Ken;3566
 KN2X=John;NY
 KN4A=Stan;3182
@@ -6113,6 +6115,7 @@ W6IZT=Greg;3616
 W6JBR=JR;CA
 W6JIM=Jim;2886
 W6JMP=Gene;1120
+W6JSV=Jay;3850
 W6KC=Jim;1266
 W6KK=Fritz;3739
 W6KSR=Ed;CA
@@ -6609,7 +6612,7 @@ WB9VPG=Neil;KY
 WB9Z=Jerry;707
 WC0W=John;3123
 WC1D=Rick;MA
-WC1M=Dick;NH
+WC1M=Dick;3847
 WC2A=Ted;3601
 WC2C=Ron;NY
 WC3O=Bob;PA

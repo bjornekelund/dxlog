@@ -1,7 +1,7 @@
 # Database for RAEM International Contest
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-12-21
+# Last updated 2025-12-11
 2E0SUR=51N0W
 2E0ZSE=51N3W
 4K6FO=40N50O
@@ -73,6 +73,7 @@ DK1FT=48N9O
 DK1MAX=49N12O
 DK1TF=51N14O
 DK2BU=52N08O
+DK2FG=51N09O
 DK2WU=49N12O
 DK3AX=50N10O
 DK3CC=50N09O
@@ -1025,6 +1026,7 @@ RZ4Z=56N47O
 RZ5ZZ=51N37O
 RZ6YU=45N40O
 RZ8U=54N87O
+RZ9AM=55N60O
 RZ9OF=55N83O
 RZ9ON=55N83O
 RZ9UMA=54N87O
