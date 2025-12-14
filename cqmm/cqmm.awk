@@ -3,8 +3,10 @@ BEGIN {
 }
 {
   if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)(M|C|Q|Y|M)?$/) {
-   calls[$1] = $1;
-   exchange[$1] = $2;
+    if ($2 ~ /^(AF|EU|AS|SA|NA|OC)(M|C|Q|Y|M)$/) {
+      calls[$1] = $1;
+      exchange[$1] = $2;
+    }
   }
   else if ($0 !~ /^(!|#|$)/ && $1 !~ /^CALLSIGN/ && $1 !~ /-/) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
