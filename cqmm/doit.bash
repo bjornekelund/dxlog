@@ -15,8 +15,12 @@ dos2unix -q $OLDFILE $WEBFILE
 gawk 'BEGIN{FS=","}{if ($2 !~ /..M$/) {print $0}}' $OLDFILE > .temp
 # Clean up web file.
 # Remove Ø and double quotes  
+# Remove asterisks and spaces
 # Remove everything after the first space in the callsign field
-cat .temp $WEBFILE | sed -e 's/Ø/0/g' |\
+cat .temp $WEBFILE |\
+sed -e 's/Ø/0/g' |\
+sed -e 's/ //g' |\
+sed -e 's/\*//g' |\
 sed -e 's/"//g' |\
 sed 's/ ([^)]*)//g' |\
 gawk -f cqmm.awk | sort | sed 's/#. /# /g' > $OUTFILE

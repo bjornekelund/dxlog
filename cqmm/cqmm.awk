@@ -6,7 +6,7 @@ BEGIN {
    calls[$1] = $1;
    exchange[$1] = $2;
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#|$)/ && $1 !~ /^CALLSIGN/ && $1 !~ /-/) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

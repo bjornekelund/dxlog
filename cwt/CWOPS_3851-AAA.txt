@@ -4523,6 +4523,7 @@ NU7Y,Quint,1261,Oro Valley AZ
 NV0S,Gary,CO,Northglenn CO
 NV1U,Tom,FL,(2303)The Villages FL
 NV3N,Stu,1815,Pennsylvania Furnace PA
+NV4B,Chris,AL,Russellville AL
 NV5F,Ginnie,2149,Fort Worth TX
 NV9X,Jim,774,Blue Island IL
 NW0M,Mitch,1064,Jefferson city MO
@@ -5469,7 +5470,6 @@ VE3YT,Vic,2277,Kitchener ON
 VE4AEO,Rich,783,MB (also VE3KI)
 VE4CDX,Gerry,191,(W1VE) (Remote) Winnipeg MB
 VE4DL,Dave,MB,Winnipeg MB
-VE4EA,Cary,1828,Winnipeg MB
 VE4JBB,Jessy,MB,Winnipeg MB
 VE4MR,Kevin,1587,Brandon MB
 VE4SF,AB,2978,(Bruce) Winnipeg MB
@@ -5588,6 +5588,7 @@ VU3SPD,Speed,3499,Bangalore India
 VY1EI,Eric,YT,Whitehorse YT Canada
 VY1JA,J,1234,Whitehorse YT
 VY1JT,Jim,1,(N3JT) Yukon Canada
+VY2CDX,Gerry,191,W1VE
 VY2SS,Rob,PE,O'LEARY PE
 VY2XU,Alan,PE,Montagne PE
 W0AAE,Bob,2947,Maple MN
