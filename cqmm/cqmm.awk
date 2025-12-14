@@ -2,7 +2,7 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)(M|C|Q|Y|M)$/) {
+  if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)(M|C|Q|Y|M)?$/) {
    calls[$1] = $1;
    exchange[$1] = $2;
   }
