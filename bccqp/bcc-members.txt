@@ -269,7 +269,6 @@ DL2AGB,Andy
 DR7B,Andy
 DL2CC,Frank
 DL2JRM,Rene
-DL2LAR,Richard
 DL2LDE,Dany
 YO2LDE,Dany
 DL2MIJ,Robert

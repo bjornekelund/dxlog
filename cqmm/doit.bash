@@ -8,6 +8,11 @@ echo Downloading $WEBFILE
 
 wget -q https://site.cwjf.com.br/membros-exportcsv -O $WEBFILE
 
+if [ ! -s "filename.txt" ]; then
+    echo "ERROR! Web file is empty or doesn't exist"
+    exit 1
+fi
+
 echo Parsing $OLDFILE $WEBFILE
 dos2unix -q $OLDFILE $WEBFILE
 
