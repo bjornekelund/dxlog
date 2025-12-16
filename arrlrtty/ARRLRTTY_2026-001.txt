@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 # ARRLRTTY
 # FTROUNDUP
-# Last Edit,2025-01-05
+# Last Edit,2025-11-03
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn/SM7IUN. 
@@ -5562,6 +5562,7 @@ N0QBF,,MO,
 N0QE,,KS,
 N0QM,LARRY,MO,
 N0QT,,NM,
+N0RC,Reid,KS,
 N0REN,,MN,
 N0RHL,,NE,
 N0RPM,,MN,

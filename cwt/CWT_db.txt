@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3851
-# Last updated 2025-12-14
+# Last updated 2025-12-16
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -5251,7 +5251,7 @@ VA2IW=Bert;QC
 VA2MA=MA;QC
 VA2NM=Simon;3249
 VA2OT=DAN;3624
-VA2RAC=;QC
+VA2RAC=DUB;QC
 VA2UR=Guy;QC
 VA2WA=Vic;2212
 VA2XZA=Jon;QC
