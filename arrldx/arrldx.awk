@@ -20,10 +20,14 @@ BEGIN {
       printf("Repeated entry: \"%s\" and \"%s\"\n", lines[call], $0) > "/dev/stderr";
     }
     lines[call] = $0;
-    if (call ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|V[A-EOXY]|C[FGJ])/) {
-  	  if (state ~ /^(AL|AZ|AR|CA|CO|CT|DC|DE|FL|GA|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
+    if (call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]|(V[A-EOXY]|C[FGJ])[0-9]/) {
+      if ((call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]/ || call ~ /W[0-9]$/) && state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) {
         calls[call] = call;
         exchanges[call] = state;
+      }
+      else if ((call ~ /^(V[A-EOXY]|C[FGJ])[0-9]/ || call ~ /VE[0-9]$/) && state ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
+          calls[call] = call;
+          exchanges[call] = state;
       }
     }
     else if (power ~ /^([1-9][0-9]{,3}W?|1?KW?)$/) {
