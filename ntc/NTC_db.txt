@@ -1,7 +1,7 @@
 # Netherlands Telegraphy Club QSO Party database
 # Based on data collected and maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
-# Last updated 2025-11-14
+# Last updated 2025-12-18
 5X8C=Anton;154
 9A1AA=Ivo;37
 9A3SM=Mato;136
@@ -10,6 +10,7 @@ AA2YK=Ernst;255
 AE1N=Lane;171
 AL3T=Veit;286
 CT7AUP=David;118
+CT7BTL=Enno;40
 DC8ED=Karl;77
 DF0VK=Bert;235
 DF1XC=Doc;279
@@ -259,7 +260,7 @@ PA3JD=Joop;112
 PA3MM=Jan;293
 PA3PKO=Peter;201
 PA3Y=Nico;19
-PA40MARAC=?;NM
+PA40MARAC=Theo;NM
 PA4HJB=Hans;292
 PA4M=Mark;29
 PA4O=Peter;7

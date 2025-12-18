@@ -13,6 +13,7 @@ BEGIN {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
     else {
+      sub(/^0+/, "", $3);
       printf("%s=%s;%s\n", $1, $2, $3);
       lines[$1] = $0;
     }

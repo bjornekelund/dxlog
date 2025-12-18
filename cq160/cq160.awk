@@ -6,14 +6,16 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9A-Z/]+$/ && $3 != "" && $3 ~ /^(CT|MA|ME|NH|RI|VT|NJ|NY|DE|PA|MD|DC|AL|FL|GA|KY|NC|SC|TN|VA|AR|LA|MS|NM|OK|TX|CA|AZ|ID|MT|NV|OR|UT|WA|WY|MI|OH|WV|IL|IN|WI|CO|IA|KS|MN|MO|ND|NE|SD|NB|NS|NF|PE|PEI|LB|QC|ON|MB|SK|AB|BC|NU|NT|NWT|YT|YUK)$/) {
+  if (($1 ~ /^(A[A-L]|[KNW][A-Z]?|4U)[0-9]|\/W[0-9]$/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) \
+    || ($1 ~ /^(V[A-EOXY]|C[FGJ]|X[LM])[0-9]|\/VE[0-9]$/ && $3 ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/)) 
+  {
     exch = $3;
 #    if ($3 == "YUK") exch = "YT";
 #    if ($3 == "NWT") exch = "NT";
 #    if ($3 == "PEI") exch = "PE";
     printf("%s=%s\n", $1, exch);
   }
-  else if ($0 !~ /^(!|#|$)/ && $3 != "")
+  else if ($0 !~ /^(!|#|$)/ && $3 != "") {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+  }
 }
-END {}
