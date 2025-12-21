@@ -1,7 +1,7 @@
 # British Columbia QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-07-19
+# Last updated 2025-12-21
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -5692,7 +5692,6 @@ KG4CUY=AL
 KG4FET=FL
 KG4FSN=FL
 KG4GNM=VA
-KG4HF=DX
 KG4IGC=SC
 KG4IJS=FL
 KG4KVZ=GA
@@ -9658,9 +9657,7 @@ NO9E=GA
 NO9S=IA
 NO9X=WI
 NO9Z=IL
-NP2X=DX
 NP3K=FL
-NP3Y=DX
 NP4AC=TN
 NQ1DX=ME
 NQ1K=CT
