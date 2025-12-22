@@ -8,7 +8,8 @@
 # Data based on call history files for ARRL SS, NAQP, and WRT
 # This is helping file, LOG what is sent.
 # Send any info, corrections direct to ve2fk@arrl.net
-# 
+# Thanks to Bjorn/SM7IUN for mixing data and his help
+
 4U1WB,MASA,89,DC,
 AA0A,DENNIS,60,MO,
 AA0AC,DAVE,96,MN,

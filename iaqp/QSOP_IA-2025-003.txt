@@ -6,7 +6,7 @@
 # Send new info/corrections DIRECT to ve2fk@arrl.net 
 
 # Fixed/Portable/Rover stations county.
-KDOGVB,,CLN,Clinton HF and VHF
+KD0GVB,,CLN,Clinton HF and VHF
 N0HR,,,Rover or Mobile 
 W0YR,,DEC/RIN,Decatur/Ringgold SSB
 KE0TT,,,Mobile/Rover MIT + HOW

@@ -23,7 +23,7 @@ BEGIN {
       {
         printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr";
       } 
-      else 
+      else if ($col !~ /^(AB|BC|MB|NB|NL|NS|NT|NU|PE|QC|SK|YT)$/)
       {
         line[$1] = $0;
         printf("%s=%s\n", $1, $col);

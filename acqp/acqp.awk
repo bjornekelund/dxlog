@@ -19,7 +19,8 @@ BEGIN {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
-    else {
+    else if ($col !~ /^(QC|ON|MB|SK|AB|BC|NT|NU|YT)$/)
+    {
       printf("%s=%s\n", $1, $col);
       lines[$1] = $0;
     }
