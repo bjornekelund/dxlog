@@ -1,7 +1,7 @@
 # Nevada QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-10-17
+# Last updated 2025-12-25
 AA0A=MO
 AA0AA=NE
 AA0AW=MN
@@ -331,7 +331,6 @@ AB9XI=WI
 AB9YC=IL
 AB9YG=IL
 AB9YW=IL
-ABR=MS
 AC0BI=CO
 AC0DJ=CO
 AC0DS=CO

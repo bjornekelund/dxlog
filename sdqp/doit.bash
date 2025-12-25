@@ -12,6 +12,4 @@ echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
-../copytosourcetree.bash $OUTFILE
-
 exit

@@ -7,22 +7,29 @@ BEGIN {
   col = 3;
 }
 {
-  if ($1 ~ /!!Order!!/) {
-    if ($3 ~ /Exch1|State/) col = 2;
-    if ($4 ~ /Exch1|State/) col = 3;
-    if ($5 ~ /Exch1|State/) col = 4;
-    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+  if ($0 ~ "!!Order!!") 
+  {
+    if ($3 ~ /Exch1|State/) state = 2;
+    if ($4 ~ /Exch1|State/) state = 3;
+    if ($5 ~ /Exch1|State/) state = 4;
+    printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
   } 
-  else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|C[FG])/ && $col ~ /^(DX|AB|AK|AL|AR|AZ|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|IA|ID|IL|IN|KS|KY|LA|LAX|MB|MDC|ME|MI|MN|MO|MS|MT|NB|NC|ND|NE|NFL|NH|NL|NLI|NM|NNJ|NNY|NS|NTX|OH|OK|ONE|ONN|ONS|OR|ORG|PAC|PE|PR|QC|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SK|SNJ|STX|SV|TER|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY|NVCAR|NVCHU|NVCLA|NVDOU|NVELK|NVESM|NVEUR|NVHUM|NVLAN|NVLIN|NVLYO|NVMIN|NVNYE|NVPER|NVSTO|NVWAS|NVWHI)$/) {
-    if (lines[$1] != "") {
+  else if (\
+    ($1 ~ /^(A[A-L]|[KNW][A-Z]?|C[FG]|V[A-EOXY])[0-9]|\/W[0-9]$|\/VE[0-9]$/ && $state ~ /^(ADX|AB|AK|AL|AR|AZ|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|IA|ID|IL|IN|KS|KY|LA|LAX|MB|MDC|ME|MI|MN|MO|MS|MT|NB|NC|ND|NE|NFL|NH|NL|NLI|NM|NNJ|NNY|NS|NTX|OH|OK|ONE|ONN|ONS|OR|ORG|PAC|PE|PR|QC|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SK|SNJ|STX|SV|TER|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/) || \
+    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]|\/W[0-9]$/ && $state ~ /^(NVCAR|NVCHU|NVCLA|NVDOU|NVELK|NVESM|NVEUR|NVHUM|NVLAN|NVLIN|NVLYO|NVMIN|NVNYE|NVPER|NVSTO|NVWAS|NVWHI)$/))
+  {
+    if (lines[$1] != "") 
+    {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
-    else {
-      printf("%s=%s\n", $1, $col);
+    else 
+    {
+      printf("%s=%s\n", $1, $state);
       lines[$1] = $0;
     }
   }
-	else if ($0 !~ /^(!|#|$)/ && $col != "") {
+	else if ($0 !~ /^(!|#|$)/ && $state != "") 
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
