@@ -7,7 +7,7 @@ BEGIN {
   state = 2;
 }
 {
-  if ($0 ~ "!!Order!!") 
+  if ($0 ~ "!!Order!!")
   {
     if ($3 ~ /Exch1|State/) state = 2;
     if ($4 ~ /Exch1|State/) state = 3;
