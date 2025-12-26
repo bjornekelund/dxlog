@@ -1,17 +1,14 @@
 #!/bin/bash
-INFILE=bcc-members.xdt
-OUTFILE=BCC.xdt
+WEBFILE=BCC.xdt
 
-echo Downloading $OUTFILE...
-curl -sS https://www.bavarian-contest-club.de/data/bcc-members.xdt -o $OUTFILE
+rm -f $WEBFILE
+curl -sS https://www.bavarian-contest-club.de/data/$WEBFILE -O
 
-cp $OUTFILE ../xdt
-
-echo Created $OUTFILE
-
-cd ../xdt
-
-./upload.bash
-
-exit
-
+if [ ! -s $WEBFILE ]; then
+    echo "ERROR! Download of member roster failed. Aborting."
+    exit 1
+else
+    echo Downloaded $WEBFILE
+    unix2dos -q $WEBFILE
+    cp $WEBFILE ../xdt
+fi

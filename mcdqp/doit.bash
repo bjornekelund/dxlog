@@ -1,21 +1,27 @@
 #!/bin/bash
 
-INFILE=List_Members_MC.csv
+WEBFILE=List_Members_MC.csv
 OUTFILE=MCD_db.txt
 
-echo Downloading $INFILE
+rm -f $WEBFILE
+curl -sS https://www.marconiclub.it/List_Members_MC.csv -o $WEBFILE
 
-curl -sS https://www.marconiclub.it/List_Members_MC.csv -o $INFILE
+if [ ! -s $WEBFILE ]; then
+    echo "ERROR! Download of $WEBFILE failed"
+    exit 1
+else
+    echo Downloaded $WEBFILE
+    dos2unix -q $WEBFILE
+    echo Parsing $WEBFILE
 
-dos2unix -q $INFILE
+  sed 's/ //g' $WEBFILE |\
+    iconv -f ISO-8859-1 -t ASCII//TRANSLIT |\
+    gawk -f mcdqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
-sed 's/ //g' $INFILE |\
-  iconv -f ISO-8859-1 -t ASCII//TRANSLIT |\
-  gawk -f mcdqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
+  echo Created $OUTFILE
+  unix2dos -q $OUTFILE
 
-echo Created $OUTFILE
-unix2dos -q $OUTFILE
-
-../copytosourcetree.bash $OUTFILE
+  ../copytosourcetree.bash $OUTFILE
+fi
 
 exit

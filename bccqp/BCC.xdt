@@ -1,539 +1,1550 @@
-# TITLE BCC Member Names
-# VARIABLE $OPNAME
-AJ9C Mike
-YN2CC Mike
-PZ5M Mike
-BA4TB Dale
-CT7BJG Mike
-DL6IAK Mike
-HK1MK Mike
-AG4RS Mike
-DB1WA Alex
-DB2WD Jens
-DN1MIA Jens
-DB5SM Klaus
-DN4KP Klaus
-DB6JG Peter
-DB7MA Mario
-DB8NI Andreas
-DC2KN Robert
-DC2VE Frank
-DN1VN Frank
-DC2YY Markus
-DC6RI Andreas
-DC8YZ Michael
-DD1JN Karsten
-DD1MAT Niko
-DD2ML Ulli
-DD5FZ Toby
-DD5KG Gabor
-HA5NR Gabor
-DF1DT Klaus
-DF1LK Kevin
-DN6LK Kevin
-DF1LX Peter
-DF1VB Joe
-DN1VB Joe
-KH2MM Joe
-DL0DT Joe
-DF2DR Hermann
-DF2FM Peter
-DF2LH Thomas
-DF2MM Swen
-DF2PH Pit
-AE5MD Pit
-DF0WI Pit
-DK0WI Pit
-DF2RG Gary
-DF2TT Gerd
-DF3CB Bernd
-DF3IAL Anders
-SM6CNN Anders
-DF3QL Michael
-HB9DFD Michael
-DF3TJ Christoph
-DF3VM Mike
-DM5I Mike
-KK7CW Mike
-DF4SA Con
-DF4XX Kurt
-DF5MA Andreas
-DF6RI Dr. Alfred
-DF8DX Bodo
-HB9EHJ Bodo
-KT3Q Bodo
-DF8VO Bert
-DF8V Bert
-DF9GR Rene
-CP6/DF9GR Rene
-DF9LJ J�rg
-DF9MV Sven
-DF9TS Gerd
-DF9XV Klaus
-DG0ZB Knut
-DG1HXJ Stephan
-DN2DB Stephan
-DG2NMF Markus
-DG2NMH Herbert
-DG3FK Tom
-DR1F Tom
-DR1H Tom
-DG4NDV Joerg
-DG5MEX Michael
-DG7RO Torsten
-V31TF Torsten
-DG8AM Alex
-DH0GHU Ulrich
-DH1NHI Mirco
-DH1TST Tom
-DH1TW Toby
-DH2WQ Olli
-DH5MFD Frieso
-DH8BQA Olli
-DH8VV Paul
-HA1Q Paul
-HA8VV Paul
-DH8WR Andreas
-DJ0DX Claus
-OE6CLD Claus
-EI7JZ Claus
-DJ0IP Rick
-NJ0IP Rick
-DJ0MDR Michael
-DJ0ZY Franta
-DD5M Franta
-DJ1MM Sergej
-DJ1OJ Heijo
-EA8OM Heijo
-DJ2HD Mat
-ZS1AO Mat
-DJ2MX Mario
-9A4MX Mario
-DP4X Mario
-E73DX Mario
-N0MX Mario
-DJ2VA Michael
-DR2E Michael
-DN2FM Michael
-DJ3CQ Jo
-DJ3NG Sigi
-DJ3NY Klaus
-DJ3TF Wolfgang
-DJ3WE Rudolf
-DR4T Rudolf
-DJ4KW Gerd
-DJ4MF Daniel
-DJ4MX Sven
-9A5MX Sven
-DJ4MZ Simon
-F4VVG Simon
-DJ4WT Christian
-DQ9L Christian
-DF0SC Christian
-DJ5AN Jan
-PA1TT Jan
-DJ5CL Ingo
-DJ5CW Fabian
-SO5CW Fabian
-DJ5FI Hans Joachim
-DJ5IW Gerd
-DJ5MN Bernhard
-DJ5MO Jelmer
-DJ5MW Fred
-DR0W Fred
-DJ5MY Harald
-DJ5TT Gerd
-DJ6RN Eckhard
-DJ6TB Tom
-DJ7EO Markus
-DJ7HH Hans-Henning
-DJ8EW Lothar
-DJ8QA Christoph
-DJ9DZ Vasily
-DJ9KH Web
-DJ9MH Hajo
-DJ9RR Heye
-DK1AX Klaus
-DK1DSA Ralf
-DK1FT Eduard
-DK1FW Wolf
-DK1IP Wolf
-DK1KC Michael
-DK1MFI Ingo
-DK1MM Stefan
-DK1NO Hannes
-DK1TW Irene
-DK1WU Hans
-DK2AT Dieter
-DK2CX Markus
-DK2GZ Harry
-DK2LO Olaf
-DK2OY Manfred
-DK2PZ Fred
-K2PZ Fred
-EI2ET Fred
-G5EFV Fred
-DK2WU Werner
-DK0TL Werner
-DK2YL Siggi
-DK2ZO Wolfgang
-DK3GI Roland
-DK3HV Hanno
-DK3QJ Georg
-DK3WE Pit
-KU6I Pit
-DK3WW Uwe
-DK3YD Hans
-DN3YD Hans
-DK4AA Flo
-DK4VW Ulli
-DK4WA Andy
-DK4YJ Matthias
-DK5MB Tom
-DK5OH Tim
-DK5ON Andy
-DK5OS Olaf
-DK5PD Heinz Lothar
-DK5TA Thomas
-DK5TT J�rn
-DK5TX Ulf
-DK6AH Andreas
-DK6CQ Otto
-DK6NP Peter
-DK6QX Kurt
-DK6SP Philipp
-DK6WL Helmut
-DK7AM Uwe
-DK7CH Karl-Heinz
-DK7MCX Wolfgang
-DK8AF Pit
-DM0G Pit
-DK8FD Alexander
-DK8MM Mark
-K1XAQ Mark
-DN4MM Mark
-DK8MZ Wolfgang
-DK8NT Gerd
-DK9BM Mike
-DK9IP Winfried
-DK9OV Roland
-DK9TN Christoph
-DL1ASA Tom
-DL1BUG Red
-DL1DJH Dominik
-DN1DH Dominik
-DL1DVE Thomas
-DL1GNM Michael
-DL1GWS Waldy
-DL1HTY Heiko
-DL1IAO Stefan
-DM1A Stefan
-DL1II Michael
-DL1MAJ Alex
-HA1BC Alex
-DF0BV Alex
-DL1MGB Chris
-KO2WW Chris
-DL1MHJ Torsten
-DP5P Torsten
-DN1MSF Torsten
-DL1NEO Markus
-DL1NKS Stefan
-DL1PSK Stefan
-DL1QQ Sandy
-N0QQ Sandy
-DL1REM Frank
-DL1RTL Heiko
-DL1SO Sven
-DL1TS Thomas
-DL1VDL Hardy
-DL0DA Hardy
-DL2AA Maik
-DL2AGB Andy
-DR7B Andy
-DL2CC Frank
-DL2JRM Rene
-DL2LAR Richard
-DL2LDE Dany
-YO2LDE Dany
-DL2MIJ Robert
-DL2MLU Luise
-DL2NBU Peter
-DL2NBY Tom
-DL2OAP Thomas
-DL2OE Mike
-DM2X Mike
-AI6CF Mike
-DL2PR Peter
-DL2QT Heinz
-DN2MQT Heinz
-DL2RMC Thomas
-A65CW Thomas
-DL2SKY Stefan
-DL2VFR Enrico
-DL2YL Melanie
-DL2ZA Hans
-DL2ZAV Udo
-DL3ABL Andrea
-DL3BPC Ron
-DL3DW Daniel
-DL3DXX Dietmar
-DL3LAB Wolfgang
-DL3LBA Kai
-DK3A Kai
-DN1BUX Kai
-DL3MBG Christian
-DL3MXX Olaf
-DL3NC Marcus
-DL3ON Leon
-DL3RY Achim
-DL3UB Ulf
-DL3YM Andy
-CN2YM Andy
-XV9YM Andy
-5X8B Andy
-DL4FN Peter
-DL4GBA Wilfried
-DL4HG Olaf
-DL4LAM Peter
-DQ5T Peter
-DL4MCF Thomas
-DL4MDO Wolf
-DL4MM Mathias
-P40AA Mathias
-DL4NAC Martin
-DC4A Martin
-DL4NER Werner
-DP4N Werner
-DL4RCK Walter
-DL4R Walter
-DL4RDJ J�rg
-DL4VK Valentin
-DL4YAO Christoph
-DL4ZA Willi
-DL5AXX Ulf
-DM6V Ulf
-CT9ABV Ulf
-DL5CW Andreas
-DL5GAC Robert
-DL5IC Hans-J�rgen
-DL5JS Michael
-DL5KUT Holger
-DL5LYM Thomas
-DL5MBU Karl
-DL5MFF Andy
-K2AO Andy
-DL5MX Mike
-DL5NAM Chris
-DL5NDX Ulrich
-DL5NEN Tom
-DL5RCW Diana
-DL5RDO Dieter
-DL5RMH Martin
-DL5RU Rudi
-DL5SDK Axel
-DL5SE Dan
-5P5CW Dan
-OK8SE Dan
-DL5XAT Holger
-DL5XJ Nick
-UA0KW Nick
-LY1DC Nick
-DL5YYM Guenter
-DK0SAX Guenter
-DL6DCX Chris
-DL6DH Henning
-DL6EZ Dieter
-DL6FBL Ben
-DL6KVA Axel
-4K0CW Axel
-DL6MFK Robert
-DL6MHW Michael
-DL6NBC Harry
-DL6NCY Stefan
-DL6NDW Horst
-DP8M Horst
-DL6RBH Joe
-DR6W Joe
-DL6RBO Toni
-DR6R Toni
-DL6RDR Stefan
-DL6WT J�rgen
-DL7AT Andy
-DA0T Andy
-OZ0TX Andy
-DL7AV Thomas
-DL7CX Olaf
-DL7FER Felix
-DL7LIN Andre
-DL7ON Fritz
-DL7UGN Mike
-DM3Y Mike
-DL7URH Ragnar
-DL8DXL Fred
-DL8DYL Irina
-DL8JDX Dr. Volker
-DL8LAS Andy
-DR5X Andy
-DL8LR Frank
-DK8R Frank
-DL8MAS Bernd
-DM7W Bernd
-DL8NY Klaus
-DN3NY Klaus
-DL8OH Dieter
-DP6A Dieter
-DN1OH Dieter
-DL8RB Ruben
-DL8RDL Lenz
-EI6JY Lenz
-DN6JY Lenz
-DL8TG Klaus
-DM4G Klaus
-DL8UAT Andreas
-DL8UD Uwe
-5P2C Uwe
-DL9DRA Ralf
-DL9EE Holger
-DL9GTB Torsten
-DL9MFY Bodo
-DL9NCR Reiner
-DL9NDS Uwe
-DP9N Uwe
-DL9NDV Michael
-DL9NEI Norbert
-DL9UP Patrick
-DL9YAJ Bernd
-DM2WB Markus
-DM5EE Ulrich
-DM5JBN Andreas
-DM5TI Hartmut
-DM5XX Mike
-DM6DX Robby
-DM6EE Lutz
-DK0VLP Lutz
-DM7XX Robert
-DM8FW Fritz
-DM9CM Carsten
-DO1NPF Peter
-DO2WW Anja
-DO2XU Timm
-5Q6T Timm
-DO2XX Robin
-DO4DXA Marc
-V31MA Marc
-V3A Marc
-OZ1MDX Marc
-OU4U Marc
-9A3DXA Marc
-DO4OD Matze
-DO6SR Robert
-9A5TU Robert
-EI5LA Megan
-F5MZN Olivier
-F5NGA Francois
-HA1AG Zoli
-PA1AG Zoli
-HA8RT Tomi
-HB9BGV Martin
-HB9BJL Chris
-W9BJL Chris
-HS0ZNI Chris
-HB9DDO Stephan
-WS9O Stephan
-HB9DQL Juerg
-HB9ELV Chris
-HB9EE Chris
-JK3GAD Kazu
-M0CFW Kazu
-MJ0CFW Kazu
-K3LR Tim
-KC1XX Matt
-KH6YY Alex
-KU1CW Alex
-P40C Alex
-EU1CW Alex
-V31CW Alex
-KU7T Andy
-LX1ER Joel
-LX1MK Raymond
-LX2A Philippe
-LX7I Philippe
-LX9DX Philippe
-M0SDV Jamie
-M7K Jamie
-NN7CW Wolf
-OE1EMS Braco
-E77DX Braco
-E7DX Braco
-OE1TKW Helmut
-N0XW Helmut
-OE2GEN Gerald
-OE2LCM G�nther
-OE2VEL Wolfgang
-OE5KKP Klaus
-DL9KX Klaus
-OE5OHO Oliver
-OE6MBG Mike
-IU3QMK Mike
-IB3M Mike
-KH7XX Mike
-S79AA Mike
-9H3SM Mike
-5Z4AA Mike
-OE6Z Mike
-VY2YY Mike
-OE7AJT Andy
-OE9MON Carl
-OE2MON Carl
-OK1DX Pavel
-OK1FCJ Petr
-OL8R Petr
-OK1IC Tom
-OK5MM Vit
-OK2WH Vit
-OK5M Vit
-OL3W Vit
-ON4CAS Egbert
-N1TOI Egbert
-ON6CC Marc
-OR3A Marc
-ON6NL Anton
-PA9AUQ Anton
-ON7WM Werner
-OT5L Werner
-OZ1ADL Jan
-OZ7AM Alex
-VE2OXA Alex
-OU4X Alex
-5P7Y Alex
-PA0BWL Wil
-PA0GJV Gerrit
-PA0JED Jan
-PA1AW Alex
-PA1TX Gerard
-PA2TMS Tom
-PA9TOM Tom
-PA3EWP Ronald
-PA4OES Andr�
-EI5VAT Andr�
-PA5MW Mark
-PA9M Marcel
-PA3FGI Marcel
-PB0AED Marcel
-PB7Z Bernard
-PC0A Dick
-PA4VHF Dick
-PC5A Aurelio
-PD1RP Peet
-SA7LAV Kalle
-DK2ZZ Kalle
-SP5XVY Robert
-V51WH Gunter
-V55Y Gunter
-DK2WH Gunter
-W7VJ Andrew
-ZL3IO Holger
-A31IO Holger
-ZM2Y Holger
-ZM4T Holger
+<!DOCTYPE html>
+<html class="no-js" lang="de-DE">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="profile" href="https://gmpg.org/xfn/11" />
+  <link rel="pingback" href="https://www.bavarian-contest-club.de/xmlrpc.php">
+
+          <style id="wfc-base-style" type="text/css">
+             .wfc-reset-menu-item-first-letter .navbar .nav>li>a:first-letter {font-size: inherit;}.format-icon:before {color: #5A5A5A;}article .format-icon.tc-hide-icon:before, .safari article.format-video .format-icon.tc-hide-icon:before, .chrome article.format-video .format-icon.tc-hide-icon:before, .safari article.format-image .format-icon.tc-hide-icon:before, .chrome article.format-image .format-icon.tc-hide-icon:before, .safari article.format-gallery .format-icon.tc-hide-icon:before, .safari article.attachment .format-icon.tc-hide-icon:before, .chrome article.format-gallery .format-icon.tc-hide-icon:before, .chrome article.attachment .format-icon.tc-hide-icon:before {content: none!important;}h2#tc-comment-title.tc-hide-icon:before {content: none!important;}.archive .archive-header h1.format-icon.tc-hide-icon:before {content: none!important;}.tc-sidebar h3.widget-title.tc-hide-icon:before {content: none!important;}.footer-widgets h3.widget-title.tc-hide-icon:before {content: none!important;}.tc-hide-icon i, i.tc-hide-icon {display: none !important;}.carousel-control {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}.social-block a {font-size: 18px;}footer#footer .colophon .social-block a {font-size: 16px;}.social-block.widget_social a {font-size: 14px;}
+        </style>
+        <title>Seite nicht gefunden &#8211; Bavarian Contest Club (BCC)</title>
+<meta name='robots' content='max-image-preview:large' />
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel='dns-prefetch' href='//meet.jit.si' />
+<link rel="alternate" type="application/rss+xml" title="Bavarian Contest Club (BCC) &raquo; Feed" href="https://www.bavarian-contest-club.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bavarian Contest Club (BCC) &raquo; Kommentar-Feed" href="https://www.bavarian-contest-club.de/comments/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='wp-block-search-inline-css'>
+.wp-block-search__button{margin-left:10px;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{height:1.25em;min-height:24px;min-width:24px;width:1.25em;fill:currentColor;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__button{box-sizing:border-box;display:flex;flex-shrink:0;justify-content:center;margin-left:0;max-width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{min-width:0!important;transition-property:width}.wp-block-search.wp-block-search__button-only .wp-block-search__input{flex-basis:100%;transition-duration:.3s}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden,.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__inside-wrapper{overflow:hidden}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__input{border-left-width:0!important;border-right-width:0!important;flex-basis:0;flex-grow:0;margin:0;min-width:0!important;padding-left:0!important;padding-right:0!important;width:0!important}:where(.wp-block-search__input){appearance:none;border:1px solid #949494;flex-grow:1;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin-left:0;margin-right:0;min-width:3rem;padding:8px;text-decoration:unset!important;text-transform:inherit}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){background-color:#fff;border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border:none;border-radius:0;padding:0 4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}.wp-block[data-align=right] .wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{float:right}
+/*# sourceURL=https://www.bavarian-contest-club.de/wp-includes/blocks/search/style.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='hph-front-style-css' href='https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/addons/assets/front/css/hph-front.min.css?ver=1.4.29' media='all' />
+<link rel='stylesheet' id='hueman-main-style-css' href='https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/css/main.min.css?ver=1.4.29' media='all' />
+<style id='hueman-main-style-inline-css'>
+body { font-family:Arial, sans-serif;font-size:1.00rem }@media only screen and (min-width: 720px) {
+        .nav > li { font-size:1.00rem; }
+      }::selection { background-color: #1e3e95; }
+::-moz-selection { background-color: #1e3e95; }a,a>span.hu-external::after,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.sidebar.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.sidebar.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.sidebar.s1 .widget_calendar a,#footer .widget_calendar a,.sidebar.s1 .alx-tab .tab-item-category a,.sidebar.s1 .alx-posts .post-item-category a,.sidebar.s1 .alx-tab li:hover .tab-item-title a,.sidebar.s1 .alx-tab li:hover .tab-item-comment a,.sidebar.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item > a,.wp-pagenavi a{ color: #1e3e95; }input[type="submit"],.themeform button[type="submit"],.sidebar.s1 .sidebar-top,.sidebar.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.sidebar.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor > .comment-body:after,.commentlist li.comment-author-admin > .comment-body:after{ background-color: #1e3e95; }.post-format .format-container { border-color: #1e3e95; }.sidebar.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{ border-bottom-color: #1e3e95!important; }.sidebar.s2 .post-nav li a:hover i,
+.sidebar.s2 .widget_rss ul li a,
+.sidebar.s2 .widget_calendar a,
+.sidebar.s2 .alx-tab .tab-item-category a,
+.sidebar.s2 .alx-posts .post-item-category a,
+.sidebar.s2 .alx-tab li:hover .tab-item-title a,
+.sidebar.s2 .alx-tab li:hover .tab-item-comment a,
+.sidebar.s2 .alx-posts li:hover .post-item-title a { color: #1e3e95; }
+.sidebar.s2 .sidebar-top,.sidebar.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.sidebar.s2 .widget_calendar caption{ background-color: #1e3e95; }.sidebar.s2 .alx-tabs-nav li.active a { border-bottom-color: #1e3e95; }
+.post-comments::before { border-right-color: #1e3e95; }
+      .search-expand,
+              #nav-topbar.nav-container { background-color: #2c3442}@media only screen and (min-width: 720px) {
+                #nav-topbar .nav ul { background-color: #2c3442; }
+              }.is-scrolled #header .nav-container.desktop-sticky,
+              .is-scrolled #header .search-expand { background-color: #2c3442; background-color: rgba(44,52,66,0.90) }.is-scrolled .topbar-transparent #nav-topbar.desktop-sticky .nav ul { background-color: #2c3442; background-color: rgba(44,52,66,0.95) }#header { background-color: #1e3e95; }
+@media only screen and (min-width: 720px) {
+  #nav-header .nav ul { background-color: #1e3e95; }
+}
+        .is-scrolled #header #nav-mobile { background-color: #454e5c; background-color: rgba(69,78,92,0.90) }#footer-bottom { background-color: #000033; }.site-title a img { max-height: 150px; }body { background-color: #e9edf5; }
+/*# sourceURL=hueman-main-style-inline-css */
+</style>
+<link rel='stylesheet' id='hueman-font-awesome-css' href='https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/css/font-awesome.min.css?ver=1.4.29' media='all' />
+<link rel='stylesheet' id='evcal_cal_default-css' href='//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.9.6' media='all' />
+<link rel='stylesheet' id='evo_font_icons-css' href='//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/fonts/all.css?ver=4.9.6' media='all' />
+<style id='evo_dynamic_styles-inline-css'>
+.eventon_events_list .eventon_list_event .desc_trig, .evopop_top{background-color:#ffffff}.eventon_events_list .eventon_list_event .desc_trig:hover{background-color:#fbfbfb}.ajde_evcal_calendar .calendar_header p,
+			.eventon_events_list .eventon_list_event .evoet_cx span.evoet_dayblock span, 
+			.evo_pop_body .evoet_cx span.evoet_dayblock span,
+			.ajde_evcal_calendar .evcal_evdata_row .evcal_evdata_cell h3.evo_h3,
+			.evo_lightbox_content h3.evo_h3, h2.evo_h2, h3.evo_h3,h4.evo_h4,
+			body .ajde_evcal_calendar h4.evo_h4, 
+			.evo_content_in h4.evo_h4,
+			.evo_metarow_ICS .evcal_evdata_cell p a,
+			.eventon_events_list .eventon_list_event .evoet_cx span.evcal_desc2, 
+			.eventon_list_event .evoet_cx span.evcal_event_title,
+			.evoet_cx span.evcal_desc2,	
+			.evo_metarow_ICS .evcal_evdata_cell p a, 
+			.evo_metarow_learnMICS .evcal_col50 .evcal_evdata_cell p a,
+			.eventon_list_event .evo_metarow_locImg p.evoLOCtxt .evo_loc_text_title,		
+			.evo_clik_row .evo_h3,
+			.evotax_term_card .evotax_term_details h2, 
+			.evotax_term_card h3.evotax_term_subtitle,
+			.ajde_evcal_calendar .evo_sort_btn,
+			.eventon_main_section  #evcal_cur,	
+			.ajde_evcal_calendar .calendar_header p.evo_month_title,		
+			.ajde_evcal_calendar .eventon_events_list .evcal_month_line p,
+			.eventon_events_list .eventon_list_event .evcal_cblock,			
+			.ajde_evcal_calendar .evcal_month_line,
+			.eventon_event .event_excerpt_in h3,
+			.ajde_evcal_calendar .evo_footer_nav p.evo_month_title,
+			.evo_eventon_live_now_section h3,
+			.evo_tab_view .evo_tabs p.evo_tab,
+			.evo_metarow_virtual .evo_live_now_tag,
+			.evo_page_body .evo_sin_page .evosin_event_title{font-family:Arial}.ajde_evcal_calendar .eventon_events_list p,	
+		.evo_lightbox p,
+		.eventon_events_list .eventon_list_event .evoet_cx span, 
+		.evo_pop_body .evoet_cx span,	
+		.eventon_events_list .eventon_list_event .evoet_cx span.evcal_event_subtitle, 
+		.evo_pop_body .evoet_cx span.evcal_event_subtitle,
+		.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn, 
+		.evo_pop_body .evcal_btn, .evcal_btn,
+		.eventon_events_list .eventon_list_event .cancel_event .evo_event_headers, 
+		.evo_pop_body .evo_event_headers.canceled,
+		.eventon_events_list .eventon_list_event .evcal_list_a .evo_above_title span,
+		.evo_pop_body .evcal_list_a .evo_above_title span,
+		.evcal_evdata_row.evcal_event_details .evcal_evdata_cell p,
+		#evcal_list .eventon_list_event .evoInput, .evo_pop_body .evoInput,
+		.evcal_evdata_row .evcal_evdata_cell p, 
+		#evcal_list .eventon_list_event p.no_events,
+		.ajde_evcal_calendar .eventon_events_list .eventon_desc_in ul,
+		.evoGuideCall em,
+		.evo_cal_above span,
+		.ajde_evcal_calendar .calendar_header .evo_j_dates .legend,
+		.eventon_sort_line p, .eventon_filter_line p,
+		.evcal_evdata_row{font-family:Arial}.ajde_evcal_calendar .evo_sort_btn, .eventon_sf_field p, .evo_srt_sel p.fa{color:#B8B8B8}.ajde_evcal_calendar .evo_sort_btn:hover{color:#d8d8d8}#evcal_list .eventon_list_event .evoet_cx em, .evo_lightboxes .evoet_cx em{color:#8c8c8c}#evcal_list .eventon_list_event .evoet_cx em a{color:#c8c8c8}.eventon_events_list .eventon_list_event a,
+				.evocard_row .evo_metarow_organizer .evo_card_organizer_social a,
+				.evo_lightbox .evo_tax_social_media a{color:#656565}
+				#evcal_list .eventon_list_event .event_description .evcal_btn, 
+				#evcal_list .eventon_list_event .event_description .evcal_btn p, 
+				body .evo_lightboxes .evo_lightbox_body.evo_pop_body .evcal_btn,
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn, 
+				.evo_lightbox .evcal_btn, body .evcal_btn,
+				.evo_lightbox.eventon_events_list .eventon_list_event a.evcal_btn,
+				.evcal_btn,.evo_btn_arr,.evo_btn_arr_circ{color:#ffffff;background:#00aafb;}#evcal_list .eventon_list_event .event_description .evcal_btn:hover, 
+				body .evo_lightboxes .evo_lightbox_body.evo_pop_body .evcal_btn:hover,
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn:hover, 
+				.evo_pop_body .evcal_btn:hover, .evcal_btn:hover,.evcal_evdata_row.evo_clik_row:hover{color:#fff;background:#00aafb;}.evcal_evdata_row.evo_clik_row:hover &gt; *, .evcal_evdata_row.evo_clik_row:hover i{color:#fff}.eventon_list_event .evo_btn_secondary, 
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn.evo_btn_secondary,
+				.evo_lightbox .evcal_btn.evo_btn_secondary, 
+				body .evcal_btn.evo_btn_secondary,
+				#evcal_list .eventon_list_event .event_description .evcal_btn.evo_btn_secondary,
+				.evcal_btn.evo_btn_secondary,
+				.evo_btn_secondary{color:#ffffff;background:#d2d2d2;}.eventon_list_event .evo_btn_secondary:hover, 
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn.evo_btn_secondary:hover,
+				.evo_lightbox .evcal_btn.evo_btn_secondary:hover, 
+				body .evcal_btn.evo_btn_secondary:hover,
+				#evcal_list .eventon_list_event .event_description .evcal_btn.evo_btn_secondary:hover,
+				.eventon_list_event .evo_btn_secondary:hover, 
+				.evcal_btn.evo_btn_secondary:hover,
+				.evo_btn_secondary:hover{color:#ffffff;background:#bebebe;}.evocard_row .evcal_evdata_icons i, .evocard_row .evcal_evdata_custometa_icons i{color:#202124;font-size:18px;}.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3{font-size:14px}#evcal_list .eventon_list_event .evcal_cblock, .evo_lightboxes .evo_pop_body .evcal_cblock{color:#666666}.evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3, .evorow .evo_clik_row h3, 
+			.evcal_evdata_row .evcal_evdata_cell h3 a{color:#666666}#evcal_list .eventon_list_event .evcal_eventcard p, 
+				.ajde_evcal_calendar .eventon_events_list .eventon_desc_in ul,
+				.evo_lightboxes .evo_pop_body .evcal_evdata_row .evcal_evdata_cell p,
+				.evo_lightboxes .evcal_evdata_cell p a{color:#666666}.ajde_evcal_calendar #evcal_head.calendar_header #evcal_cur, .ajde_evcal_calendar .evcal_month_line p, .ajde_evcal_calendar .evo_footer_nav p.evo_month_title{color:#666666}.eventon_events_list .eventon_list_event .event_description, .evo_lightbox.eventcard .evo_lightbox_body{background-color:#fdfdfd}.evocard_box{background-color:#ffffff}.evcal_event_details .evcal_evdata_cell.shorter_desc .eventon_desc_in:after{background:linear-gradient(to top,	#ffffff 20%, #ffffff00 80%)}.event_description .bordb, #evcal_list .bordb, .eventon_events_list .eventon_list_event .event_description, .bordr, #evcal_list,
+					#evcal_list p.desc_trig_outter, 
+					.evopop_top,
+					.evo_pop_body .bordb{border-color:#d5d5d5}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event{background-color:#fff6e2}.eventon_events_list .eventon_list_event .desc_trig:hover{border-left-width:7px}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event:hover{background-color:#ffecc5}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.featured, .evo_pop_body .evoet_cx span.evo_above_title span.featured,
+				.evosv_grid .evosv_tag.featured{color:#ffffff;background-color:#ffcb55;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.completed, .evo_pop_body .evoet_cx span.evo_above_title span.completed,
+				.evosv_grid .evosv_tag.completed{color:#ffffff;background-color:#585858;}.evoet_cx .evo_ep_bar b, .evoet_cx .evo_ep_bar b:before{background-color:#f79191}.evoet_cx .evo_ep_bar.evo_completed b{background-color:#9a9a9a}.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evcal_cblock,
+				.ajde_evcal_calendar.color #evcal_list.eventon_events_list .eventon_list_event p .evoet_cx span.evcal_event_title,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx span.evcal_event_title,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx span.evcal_event_subtitle,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx em,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx .evcal_desc_info,
+				.ajde_evcal_calendar.color .eventon_events_list .eventon_list_event .evcal_cblock em.evo_day,
+				.ajde_evcal_calendar.color .evoet_cx span,
+				.ajde_evcal_calendar.color .evoet_cx .evo_below_title .status_reason,
+				.ajde_evcal_calendar.color .evoet_cx .evo_tz_time .evo_tz,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig i,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig b,
+				.ajde_evcal_calendar.color .evoet_cx em i,
+				.ajde_evcal_calendar.color .evoet_cx .evo_ep_pre,
+				.ajde_evcal_calendar.color .evoet_cx .evo_ep_time,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig:hover i,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig:hover b,
+
+				.evo_lightboxes .color.eventon_list_event .evcal_cblock,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx span,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx span.evcal_event_title,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx span.evcal_event_subtitle,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx em,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evcal_desc_info,
+				.evo_lightboxes .color.eventon_list_event .evcal_cblock em.evo_day,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evo_tz_time &gt; *,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evo_mytime.tzo_trig i,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evo_mytime.tzo_trig b{color:#656565}.event_description .evcal_close{background-color:#f7f7f7}.event_description .evcal_close:hover{background-color:#f1f1f1}.evo_lightboxes .evopopclose, .evo_lightboxes .evolbclose{background-color:#202124}.evo_lightboxes .evopopclose:hover, .evo_lightboxes .evolbclose:hover{background-color:#cfcfcf}.evo_lightboxes .evolbclose:before, .evo_lightboxes .evolbclose:after{background-color:#ffffff}.evo_lightboxes .evolbclose:hover:before, .evo_lightboxes .evolbclose:hover:after{background-color:#666666}#evcal_list .evorow.getdirections, .evo_pop_body .evorow.getdirections{background-color:#ffffff}#evcal_list .evorow.getdirections .evoInput, .evo_pop_body .evorow.getdirections .evoInput{color:#888888}.ajde_evcal_calendar #evcal_list.eventon_events_list .eventon_list_event p .evoet_cx span.evcal_event_title{color:#666666}.eventon_events_list .eventon_list_event .evoet_cx span.evcal_event_subtitle, 
+				.evo_lightboxes .evo_pop_body .evoet_cx span.evcal_event_subtitle{color:#666666}.fp_popup_option i{color:#999;font-size:22px;}.evo_cal_above span{color:#ffffff;background-color:#666666;}.evo_cal_above span.evo-gototoday-btn{color:#ffffff;background-color:#ADADAD;}.evo_cal_above span.evo-gototoday-btn:hover{color:#ffffff;background-color:#d3d3d3;}.ajde_evcal_calendar .calendar_header .evo_j_dates .legend a{color:#656565;background-color:#f5f5f5;}.ajde_evcal_calendar .calendar_header .evo_j_dates .legend a.current{color:#656565;background-color:#CFCFCF;}.ajde_evcal_calendar .calendar_header .evo_j_dates .legend a.set{color:#656565;background-color:#fed584;}.ajde_evcal_calendar .calendar_header .evcal_arrows, .evo_footer_nav .evcal_arrows{border-color:#737373;background-color:#ffffff;}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover, .evo_footer_nav .evcal_arrows:hover{background-color:#202124;}.ajde_evcal_calendar .calendar_header .evcal_arrows:before,.evo_footer_nav .evcal_arrows:before{border-color:#737373}.ajde_evcal_calendar .calendar_header .evcal_arrows.evcal_btn_next:hover:before,.ajde_evcal_calendar .calendar_header .evcal_arrows.evcal_btn_prev:hover:before,.evo_footer_nav .evcal_arrows.evcal_btn_prev:hover:before,.evo_footer_nav .evcal_arrows.evcal_btn_next:hover:before{border-color:#ffffff}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span, .evo_pop_body .evoet_cx span.evo_above_title span{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.canceled, .evo_pop_body .evoet_cx span.evo_above_title span.canceled{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.vir,, .evo_pop_body .evoet_cx span.evo_above_title span.vir,
+				.evosv_grid .evosv_tag.vir{color:#ffffff;background-color:#5bdaf7;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.postponed, .evo_pop_body .evoet_cx span.evo_above_title span.postponed,
+			.evosv_grid .evosv_tag.postponed{color:#ffffff;background-color:#e3784b;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.movedonline, .evo_pop_body .evoet_cx span.evo_above_title span.movedonline,
+			.evosv_grid .evosv_tag.movedonline{color:#ffffff;background-color:#6edccd;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.rescheduled, .evo_pop_body .evoet_cx span.evo_above_title span.rescheduled,
+			.evosv_grid .evosv_tag.rescheduled{color:#ffffff;background-color:#67ef78;}.ajde_evcal_calendar #evcal_list.eventon_events_list .eventon_list_event .cancel_event.evcal_list_a, .evo_lightbox_body.eventon_list_event.cancel_event .evopop_top{background-color:#b0b0b0}.eventon_events_list .eventon_list_event .cancel_event.evcal_list_a:before{color:#333333}#eventon_loadbar{background-color:#efefef}#eventon_loadbar:before{background-color:#f5b87a}.evoet_cx .evcal_desc3 em.evocmd_button, #evcal_list .evoet_cx .evcal_desc3 em.evocmd_button{color:#ffffff;background-color:#237dbd;}.evo_metarow_socialmedia a.evo_ss:hover{background-color:#9d9d9d;}.evo_metarow_socialmedia a.evo_ss i{color:#656565;}.evo_metarow_socialmedia a.evo_ss:hover i{color:#ffffff;}.evo_metarow_socialmedia .evo_sm{border-color:#cdcdcd}.eventon_events_list .evoShow_more_events span{background-color:#b4b4b4;color:#ffffff;}.evo_card_health_boxes .evo_health_b{background-color:#ececec;color:#202124;}.evo_card_health_boxes .evo_health_b svg, .evo_card_health_boxes .evo_health_b i.fa{fill:#202124;color:#202124;}.evo_health_b.ehb_other{border-color:#e8e8e8}.eventon_list_event .evoet_cx em.evo_mytime.tzo_trig i
+				{color:#2eb4dc}.eventon_list_event .evoet_cx em.evo_mytime,
+				.eventon_list_event .evoet_cx em.evo_mytime.tzo_trig:hover,
+				.eventon_list_event .evoet_cx em.evo_mytime,
+				.eventon_list_event .evcal_evdata_cell .evo_mytime,
+				.eventon_list_event .evcal_evdata_cell .evo_mytime.tzo_trig{background-color:#2eb4dc}.eventon_list_event .evoet_cx em.evo_mytime &gt;*, 
+				.eventon_list_event .evcal_evdata_cell .evo_mytime &gt;*,
+				.eventon_list_event .evoet_cx em.evo_mytime.tzo_trig:hover &gt;*{color:#ffffff}.eventon_events_list .evose_repeat_header span.title{background-color:#fed584;color:#202124;}.eventon_events_list .evose_repeat_header .ri_nav a, 
+				.eventon_events_list .evose_repeat_header .ri_nav a:visited, 
+				.eventon_events_list .evose_repeat_header .ri_nav a:hover{color:#656565}.eventon_events_list .evose_repeat_header .ri_nav b{border-color:#808080}body .EVOSR_section a.evo_do_search, body a.evosr_search_btn, .evo_search_bar_in a.evosr_search_btn{color:#3d3d3d}body .EVOSR_section a.evo_do_search:hover, body a.evosr_search_btn:hover, .evo_search_bar_in a.evosr_search_btn:hover{color:#bbbbbb}body .EVOSR_section input[type=text], .evo_search_bar input[type=text]{border-color:#202124;background-color:#ffffff;}.evosr_blur{background-color:#f9d789;color:#14141E;}.evo_search_results_count span{background-color:#ffffff;color:#222222;}body .EVOSR_section input[type=text]:hover, .evo_search_bar input[type=text]:hover{border-color:#202124}.evo_search_results_count{color:#14141E}.evo_eventon_live_now_section h3{color:#202124}.evo_eventon_live_now_section .evo_eventon_now_next{background-color:#ececec}.evo_eventon_live_now_section .evo_eventon_now_next h3{color:#202124}.evo_eventon_live_now_section .evo_eventon_now_next h3 .evo_countdowner{background-color:#656565;color:#ffffff;}.evo_eventon_live_now_section p.evo_eventon_no_events_now{background-color:#d6f5d2;color:#888888;}.ajde_evcal_calendar.esty_1 #evcal_list .eventon_list_event.no_events p.no_events,   .ajde_evcal_calendar.esty_2 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_3 #evcal_list .eventon_list_event.no_events p.no_events{background-color:#ffffff}.ajde_evcal_calendar.esty_1 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_2 #evcal_list .eventon_list_event.no_events p.no_events,.ajde_evcal_calendar.esty_3 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_1 #evcal_list .eventon_list_event.no_events p.no_events a, .ajde_evcal_calendar.esty_2 #evcal_list .eventon_list_event.no_events p.no_events a, .ajde_evcal_calendar.esty_3 #evcal_list .eventon_list_event.no_events p.no_events a{color:#202124}.ajde_evcal_calendar.esty_0 #evcal_list .eventon_list_event.no_events p.no_events,   .ajde_evcal_calendar.esty_4 #evcal_list .eventon_list_event.no_events p.no_events{background-color:#ffffff}.ajde_evcal_calendar.esty_0 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_4 #evcal_list .eventon_list_event.no_events p.no_events,.ajde_evcal_calendar.esty_0 #evcal_list .eventon_list_event.no_events p.no_events a,.ajde_evcal_calendar.esty_4 #evcal_list .eventon_list_event.no_events p.no_events a{color:#202124}/* Runde Ecken bei den Boxen entfernen */
+/* 19.10.2022 DL1MGB */
+
+.eventon_events_list .eventon_list_event .event_description {
+  /* border-radius: 0 0 15px 15px; */
+  border-radius: 0 0 0px 0px;
+}
+
+#evcal_list {
+  /* border-radius: 5px; */
+  border-radius: 0px;
+}
+
+
+.evocard_box {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+.evo_sin_page #evcal_list .eventon_list_event {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+
+/* evo_event_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.1.3 */
+
+.evose_repeat_header p {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+body .EVOSR_section input[type="text"] {
+  /* border-radius: 20px; */
+  border-radius: 0px;
+}
+
+#evcal_list .sep_month_events {
+  /* border-radius: 5px; */
+  border-radius: 0px;
+}
+
+
+
+
+
+
+
+/* Titel beim einzelnen Event nicht in weiß, sondern in grau */
+/* 19.10.2022 DL1MGB */
+
+.color.evo_sin_page #evcal_list .eventon_list_event a.desc_trig &gt; *, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc_info em, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc_info span, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc_info b, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc3 em, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc3 span, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_event_title, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc span.evcal_event_subtitle {
+  /* color: #fff !important; */
+  color: #656565 !important;
+}
+
+
+
+/* Abstand zwischen den Monaten in der Eventliste vergrößert */
+/* 19.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.ajde_evcal_calendar .evcal_month_line p {
+  /* padding: 8px 0 5px; */
+  padding: 30px 0 5px;
+}
+
+
+
+
+
+/* Padding bei den Eventlisten-Elementen ein bisschen verringert */
+/* 19.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evcal_list_a {
+  /* padding: 20px; */
+  padding: 10px 20px 10px 20px;
+}
+
+
+
+
+/* Eventliste: Abstand zwischen Datum und Titel etwas vergrößert */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evoet_c3, .evo_pop_body .evoet_c3 {
+/*    padding: 0 0 0 20px; */
+}
+
+
+
+/* Die Titel der Events normal und nicht in Großbuchstaben */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evoet_cx span.evcal_desc2, .evo_pop_body .evoet_cx span.evcal_desc2 {
+    text-transform: none;
+}
+
+
+
+
+/* Ein bisschen Rand links und rechts der einzelnen Veranstaltung, wenn die Seite auf dem Handy angeschaut wird */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.1.3 */
+
+.eventon_main_section, #eventon_comments {
+    padding: 20px 15px 0px 15px;
+}
+
+
+
+
+/* Abstände der Event-Liste kleiner gemacht */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+#evcal_widget #evcal_list .eventon_list_event .evcal_list_a, .widget-area .ajde_evcal_calendar .eventon_events_list .evcal_list_a {
+    padding: 7px 15px 5px 10px;
+}
+
+
+
+/* Hintergundfrabe der einzelnen Events in der Liste auf #FFF gesetzt */
+/* 20.10.2022 DL1MGB */
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.1.3 */
+.eventon_events_list .eventon_list_event .desc_trig, .evopop_top {
+    /* background-color: #ffffff; */
+}
+
+
+
+/* Suchergebnis Eckenrundungen rausgenommen */
+/* 20.10.2022 DL1MGB */
+
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.evo_search_results_count span {
+  /* border-radius: 8px; */
+  border-radius: 0px;
+}
+
+.ajde_evcal_calendar.sev #evcal_list .eventon_list_event {
+  /* border-radius: 10px; */
+  border-radius: 0px;
+}
+
+.ajde_evcal_calendar.cev #evcal_list {
+  /* border-radius: 8px; */
+  border-radius: 0px;
+}
+
+.evo_search_results_count span {
+  /* font-style: italic; */
+}
+
+
+/* Schriftgröße der Monate in der Liste verringern */
+/* 21.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.ajde_evcal_calendar .evcal_month_line p {
+  /* font-size: 24px; */
+  font-size: 20px;
+}
+
+
+/* Ränder bei den Eventdaten ein bisschen kleiner */
+/* 22.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.evcal_evdata_row {
+  /* padding: 30px; */
+  padding: 15px;
+}
+
+
+/* Untertitel normal anzeigen */
+/* 22.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evoet_cx span.evcal_event_subtitle, .evo_pop_body .evoet_cx span.evcal_event_subtitle {
+  /* text-transform: uppercase; */
+  text-transform: none;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.eventon_list_event .evoet_cx span.evcal_event_title, .evo_metarow_ICS .evcal_evdata_cell p a, .evo_metarow_learnMICS .evcal_col50 .evcal_evdata_cell p a, .eventon_list_event .evo_metarow_locImg p.evoLOCtxt .evo_loc_text_title, .evo_clik_row .evo_h3, h2.evo_h2, h3.evo_h3, h4.evo_h4, body .ajde_evcal_calendar h4.evo_h4, .evo_content_in h4.evo_h4, .eventon_main_section #evcal_cur, .ajde_evcal_calendar .calendar_header p.evo_month_title, .eventon_events_list .eventon_list_event .cancel_event .evo_event_headers, .evo_pop_body .evo_event_headers.canceled, .eventon_events_list .eventon_list_event .evcal_list_a .evo_above_title span, .evo_pop_body .evcal_list_a .evo_above_title span, .ajde_evcal_calendar .evcal_month_line p, .ajde_evcal_calendar .evo_footer_nav p.evo_month_title, .evo_eventon_live_now_section h3 {
+  /* font-weight: 800; */
+  font-weight: 700;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.eventon_events_list .eventon_list_event .evoet_cx span.evcal_desc2, .evo_pop_body .evoet_cx span.evcal_desc2 {
+  /* font-size: 24px; */
+  font-size: 22px;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+#evcal_list .eventon_list_event .evoet_cx span.evcal_event_title, .eventon_events_list .evcal_event_subtitle {
+  /* padding-bottom: 8px; */
+  padding-bottom: 5px;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.widget .eventon_events_list .eventon_list_event .evoet_cx {
+ margin-bottom: 0px;
+}
+
+
+/* evo_event_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.2.2 */
+
+.evo_page_body .evo_sin_page #evcal_list p.desc_trig_outter {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+/* eventon_dynamic_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.2.2 */
+
+.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3 {
+  /* font-size: 14px; */
+  font-size: 16px;
+}
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.evcal_evdata_row .evcal_evdata_cell h3, h3.evo_h3 {
+  /* font-weight: 800; */
+  font-weight: 700;
+}
+
+
+/* evo_event_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.2.2 */
+
+.evo_page_body .evo_sin_page .evosin_event_title {
+/* font-family: var(--evo_font_1); */
+ font-family: Arial !important;
+}
+
+/* 15.11.2022 DL1MGB Repeat Header bei sich wiederholenden Veranstaltungen ausschalten */
+
+/* evo_event_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.2.2 */
+
+.evose_repeat_header {
+  display: none !important;
+}
+
+
+/* 15.11.2022 DL1MGB Größe des Beitragsbildes auf 30% reduzieren (analog zu den normalen Beiträgen) */
+/* eventon_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.evo_metarow_directimg img {
+  /* width: 100%; */
+  width: 30%;
+  /* min-height: 200px; */
+  min-height: auto;
+}
+
+/* 18.01.2023 Änderungen bei der Anzeige eines Events */
+
+/* eventon_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.eventon_full_description .eventon_desc_in a { 
+  text-decoration: underline !important;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: currentcolor;
+    text-decoration-thickness: auto;
+  color: #1e3e95;
+}
+
+.eventon_list_event .evo_metarow_details .eventon_full_description p,
+	.eventon_list_event .evo_metarow_details .eventon_full_description li {
+		font-size: 1.125em; 
+	}
+
+.eventon_events_list .eventon_list_event .desc_trig, .evopop_top{background-color:#ffffff}.eventon_events_list .eventon_list_event .desc_trig:hover{background-color:#fbfbfb}.ajde_evcal_calendar .calendar_header p,
+			.eventon_events_list .eventon_list_event .evoet_cx span.evoet_dayblock span, 
+			.evo_pop_body .evoet_cx span.evoet_dayblock span,
+			.ajde_evcal_calendar .evcal_evdata_row .evcal_evdata_cell h3.evo_h3,
+			.evo_lightbox_content h3.evo_h3, h2.evo_h2, h3.evo_h3,h4.evo_h4,
+			body .ajde_evcal_calendar h4.evo_h4, 
+			.evo_content_in h4.evo_h4,
+			.evo_metarow_ICS .evcal_evdata_cell p a,
+			.eventon_events_list .eventon_list_event .evoet_cx span.evcal_desc2, 
+			.eventon_list_event .evoet_cx span.evcal_event_title,
+			.evoet_cx span.evcal_desc2,	
+			.evo_metarow_ICS .evcal_evdata_cell p a, 
+			.evo_metarow_learnMICS .evcal_col50 .evcal_evdata_cell p a,
+			.eventon_list_event .evo_metarow_locImg p.evoLOCtxt .evo_loc_text_title,		
+			.evo_clik_row .evo_h3,
+			.evotax_term_card .evotax_term_details h2, 
+			.evotax_term_card h3.evotax_term_subtitle,
+			.ajde_evcal_calendar .evo_sort_btn,
+			.eventon_main_section  #evcal_cur,	
+			.ajde_evcal_calendar .calendar_header p.evo_month_title,		
+			.ajde_evcal_calendar .eventon_events_list .evcal_month_line p,
+			.eventon_events_list .eventon_list_event .evcal_cblock,			
+			.ajde_evcal_calendar .evcal_month_line,
+			.eventon_event .event_excerpt_in h3,
+			.ajde_evcal_calendar .evo_footer_nav p.evo_month_title,
+			.evo_eventon_live_now_section h3,
+			.evo_tab_view .evo_tabs p.evo_tab,
+			.evo_metarow_virtual .evo_live_now_tag,
+			.evo_page_body .evo_sin_page .evosin_event_title{font-family:Arial}.ajde_evcal_calendar .eventon_events_list p,	
+		.evo_lightbox p,
+		.eventon_events_list .eventon_list_event .evoet_cx span, 
+		.evo_pop_body .evoet_cx span,	
+		.eventon_events_list .eventon_list_event .evoet_cx span.evcal_event_subtitle, 
+		.evo_pop_body .evoet_cx span.evcal_event_subtitle,
+		.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn, 
+		.evo_pop_body .evcal_btn, .evcal_btn,
+		.eventon_events_list .eventon_list_event .cancel_event .evo_event_headers, 
+		.evo_pop_body .evo_event_headers.canceled,
+		.eventon_events_list .eventon_list_event .evcal_list_a .evo_above_title span,
+		.evo_pop_body .evcal_list_a .evo_above_title span,
+		.evcal_evdata_row.evcal_event_details .evcal_evdata_cell p,
+		#evcal_list .eventon_list_event .evoInput, .evo_pop_body .evoInput,
+		.evcal_evdata_row .evcal_evdata_cell p, 
+		#evcal_list .eventon_list_event p.no_events,
+		.ajde_evcal_calendar .eventon_events_list .eventon_desc_in ul,
+		.evoGuideCall em,
+		.evo_cal_above span,
+		.ajde_evcal_calendar .calendar_header .evo_j_dates .legend,
+		.eventon_sort_line p, .eventon_filter_line p,
+		.evcal_evdata_row{font-family:Arial}.ajde_evcal_calendar .evo_sort_btn, .eventon_sf_field p, .evo_srt_sel p.fa{color:#B8B8B8}.ajde_evcal_calendar .evo_sort_btn:hover{color:#d8d8d8}#evcal_list .eventon_list_event .evoet_cx em, .evo_lightboxes .evoet_cx em{color:#8c8c8c}#evcal_list .eventon_list_event .evoet_cx em a{color:#c8c8c8}.eventon_events_list .eventon_list_event a,
+				.evocard_row .evo_metarow_organizer .evo_card_organizer_social a,
+				.evo_lightbox .evo_tax_social_media a{color:#656565}
+				#evcal_list .eventon_list_event .event_description .evcal_btn, 
+				#evcal_list .eventon_list_event .event_description .evcal_btn p, 
+				body .evo_lightboxes .evo_lightbox_body.evo_pop_body .evcal_btn,
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn, 
+				.evo_lightbox .evcal_btn, body .evcal_btn,
+				.evo_lightbox.eventon_events_list .eventon_list_event a.evcal_btn,
+				.evcal_btn,.evo_btn_arr,.evo_btn_arr_circ{color:#ffffff;background:#00aafb;}#evcal_list .eventon_list_event .event_description .evcal_btn:hover, 
+				body .evo_lightboxes .evo_lightbox_body.evo_pop_body .evcal_btn:hover,
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn:hover, 
+				.evo_pop_body .evcal_btn:hover, .evcal_btn:hover,.evcal_evdata_row.evo_clik_row:hover{color:#fff;background:#00aafb;}.evcal_evdata_row.evo_clik_row:hover &gt; *, .evcal_evdata_row.evo_clik_row:hover i{color:#fff}.eventon_list_event .evo_btn_secondary, 
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn.evo_btn_secondary,
+				.evo_lightbox .evcal_btn.evo_btn_secondary, 
+				body .evcal_btn.evo_btn_secondary,
+				#evcal_list .eventon_list_event .event_description .evcal_btn.evo_btn_secondary,
+				.evcal_btn.evo_btn_secondary,
+				.evo_btn_secondary{color:#ffffff;background:#d2d2d2;}.eventon_list_event .evo_btn_secondary:hover, 
+				.ajde_evcal_calendar .eventon_list_event .event_description .evcal_btn.evo_btn_secondary:hover,
+				.evo_lightbox .evcal_btn.evo_btn_secondary:hover, 
+				body .evcal_btn.evo_btn_secondary:hover,
+				#evcal_list .eventon_list_event .event_description .evcal_btn.evo_btn_secondary:hover,
+				.eventon_list_event .evo_btn_secondary:hover, 
+				.evcal_btn.evo_btn_secondary:hover,
+				.evo_btn_secondary:hover{color:#ffffff;background:#bebebe;}.evocard_row .evcal_evdata_icons i, .evocard_row .evcal_evdata_custometa_icons i{color:#202124;font-size:18px;}.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3{font-size:14px}#evcal_list .eventon_list_event .evcal_cblock, .evo_lightboxes .evo_pop_body .evcal_cblock{color:#666666}.evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3, .evorow .evo_clik_row h3, 
+			.evcal_evdata_row .evcal_evdata_cell h3 a{color:#666666}#evcal_list .eventon_list_event .evcal_eventcard p, 
+				.ajde_evcal_calendar .eventon_events_list .eventon_desc_in ul,
+				.evo_lightboxes .evo_pop_body .evcal_evdata_row .evcal_evdata_cell p,
+				.evo_lightboxes .evcal_evdata_cell p a{color:#666666}.ajde_evcal_calendar #evcal_head.calendar_header #evcal_cur, .ajde_evcal_calendar .evcal_month_line p, .ajde_evcal_calendar .evo_footer_nav p.evo_month_title{color:#666666}.eventon_events_list .eventon_list_event .event_description, .evo_lightbox.eventcard .evo_lightbox_body{background-color:#fdfdfd}.evocard_box{background-color:#ffffff}.evcal_event_details .evcal_evdata_cell.shorter_desc .eventon_desc_in:after{background:linear-gradient(to top,	#ffffff 20%, #ffffff00 80%)}.event_description .bordb, #evcal_list .bordb, .eventon_events_list .eventon_list_event .event_description, .bordr, #evcal_list,
+					#evcal_list p.desc_trig_outter, 
+					.evopop_top,
+					.evo_pop_body .bordb{border-color:#d5d5d5}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event{background-color:#fff6e2}.eventon_events_list .eventon_list_event .desc_trig:hover{border-left-width:7px}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event:hover{background-color:#ffecc5}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.featured, .evo_pop_body .evoet_cx span.evo_above_title span.featured,
+				.evosv_grid .evosv_tag.featured{color:#ffffff;background-color:#ffcb55;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.completed, .evo_pop_body .evoet_cx span.evo_above_title span.completed,
+				.evosv_grid .evosv_tag.completed{color:#ffffff;background-color:#585858;}.evoet_cx .evo_ep_bar b, .evoet_cx .evo_ep_bar b:before{background-color:#f79191}.evoet_cx .evo_ep_bar.evo_completed b{background-color:#9a9a9a}.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evcal_cblock,
+				.ajde_evcal_calendar.color #evcal_list.eventon_events_list .eventon_list_event p .evoet_cx span.evcal_event_title,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx span.evcal_event_title,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx span.evcal_event_subtitle,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx em,
+				.ajde_evcal_calendar.color #evcal_list .eventon_list_event .evoet_cx .evcal_desc_info,
+				.ajde_evcal_calendar.color .eventon_events_list .eventon_list_event .evcal_cblock em.evo_day,
+				.ajde_evcal_calendar.color .evoet_cx span,
+				.ajde_evcal_calendar.color .evoet_cx .evo_below_title .status_reason,
+				.ajde_evcal_calendar.color .evoet_cx .evo_tz_time .evo_tz,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig i,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig b,
+				.ajde_evcal_calendar.color .evoet_cx em i,
+				.ajde_evcal_calendar.color .evoet_cx .evo_ep_pre,
+				.ajde_evcal_calendar.color .evoet_cx .evo_ep_time,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig:hover i,
+				.ajde_evcal_calendar.color .evoet_cx .evo_mytime.tzo_trig:hover b,
+
+				.evo_lightboxes .color.eventon_list_event .evcal_cblock,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx span,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx span.evcal_event_title,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx span.evcal_event_subtitle,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx em,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evcal_desc_info,
+				.evo_lightboxes .color.eventon_list_event .evcal_cblock em.evo_day,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evo_tz_time &gt; *,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evo_mytime.tzo_trig i,
+				.evo_lightboxes .color.eventon_list_event .evoet_cx .evo_mytime.tzo_trig b{color:#656565}.event_description .evcal_close{background-color:#f7f7f7}.event_description .evcal_close:hover{background-color:#f1f1f1}.evo_lightboxes .evopopclose, .evo_lightboxes .evolbclose{background-color:#202124}.evo_lightboxes .evopopclose:hover, .evo_lightboxes .evolbclose:hover{background-color:#cfcfcf}.evo_lightboxes .evolbclose:before, .evo_lightboxes .evolbclose:after{background-color:#ffffff}.evo_lightboxes .evolbclose:hover:before, .evo_lightboxes .evolbclose:hover:after{background-color:#666666}#evcal_list .evorow.getdirections, .evo_pop_body .evorow.getdirections{background-color:#ffffff}#evcal_list .evorow.getdirections .evoInput, .evo_pop_body .evorow.getdirections .evoInput{color:#888888}.ajde_evcal_calendar #evcal_list.eventon_events_list .eventon_list_event p .evoet_cx span.evcal_event_title{color:#666666}.eventon_events_list .eventon_list_event .evoet_cx span.evcal_event_subtitle, 
+				.evo_lightboxes .evo_pop_body .evoet_cx span.evcal_event_subtitle{color:#666666}.fp_popup_option i{color:#999;font-size:22px;}.evo_cal_above span{color:#ffffff;background-color:#666666;}.evo_cal_above span.evo-gototoday-btn{color:#ffffff;background-color:#ADADAD;}.evo_cal_above span.evo-gototoday-btn:hover{color:#ffffff;background-color:#d3d3d3;}.ajde_evcal_calendar .calendar_header .evo_j_dates .legend a{color:#656565;background-color:#f5f5f5;}.ajde_evcal_calendar .calendar_header .evo_j_dates .legend a.current{color:#656565;background-color:#CFCFCF;}.ajde_evcal_calendar .calendar_header .evo_j_dates .legend a.set{color:#656565;background-color:#fed584;}.ajde_evcal_calendar .calendar_header .evcal_arrows, .evo_footer_nav .evcal_arrows{border-color:#737373;background-color:#ffffff;}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover, .evo_footer_nav .evcal_arrows:hover{background-color:#202124;}.ajde_evcal_calendar .calendar_header .evcal_arrows:before,.evo_footer_nav .evcal_arrows:before{border-color:#737373}.ajde_evcal_calendar .calendar_header .evcal_arrows.evcal_btn_next:hover:before,.ajde_evcal_calendar .calendar_header .evcal_arrows.evcal_btn_prev:hover:before,.evo_footer_nav .evcal_arrows.evcal_btn_prev:hover:before,.evo_footer_nav .evcal_arrows.evcal_btn_next:hover:before{border-color:#ffffff}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span, .evo_pop_body .evoet_cx span.evo_above_title span{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.canceled, .evo_pop_body .evoet_cx span.evo_above_title span.canceled{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.vir,, .evo_pop_body .evoet_cx span.evo_above_title span.vir,
+				.evosv_grid .evosv_tag.vir{color:#ffffff;background-color:#5bdaf7;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.postponed, .evo_pop_body .evoet_cx span.evo_above_title span.postponed,
+			.evosv_grid .evosv_tag.postponed{color:#ffffff;background-color:#e3784b;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.movedonline, .evo_pop_body .evoet_cx span.evo_above_title span.movedonline,
+			.evosv_grid .evosv_tag.movedonline{color:#ffffff;background-color:#6edccd;}.eventon_events_list .eventon_list_event .evoet_cx span.evo_above_title span.rescheduled, .evo_pop_body .evoet_cx span.evo_above_title span.rescheduled,
+			.evosv_grid .evosv_tag.rescheduled{color:#ffffff;background-color:#67ef78;}.ajde_evcal_calendar #evcal_list.eventon_events_list .eventon_list_event .cancel_event.evcal_list_a, .evo_lightbox_body.eventon_list_event.cancel_event .evopop_top{background-color:#b0b0b0}.eventon_events_list .eventon_list_event .cancel_event.evcal_list_a:before{color:#333333}#eventon_loadbar{background-color:#efefef}#eventon_loadbar:before{background-color:#f5b87a}.evoet_cx .evcal_desc3 em.evocmd_button, #evcal_list .evoet_cx .evcal_desc3 em.evocmd_button{color:#ffffff;background-color:#237dbd;}.evo_metarow_socialmedia a.evo_ss:hover{background-color:#9d9d9d;}.evo_metarow_socialmedia a.evo_ss i{color:#656565;}.evo_metarow_socialmedia a.evo_ss:hover i{color:#ffffff;}.evo_metarow_socialmedia .evo_sm{border-color:#cdcdcd}.eventon_events_list .evoShow_more_events span{background-color:#b4b4b4;color:#ffffff;}.evo_card_health_boxes .evo_health_b{background-color:#ececec;color:#202124;}.evo_card_health_boxes .evo_health_b svg, .evo_card_health_boxes .evo_health_b i.fa{fill:#202124;color:#202124;}.evo_health_b.ehb_other{border-color:#e8e8e8}.eventon_list_event .evoet_cx em.evo_mytime.tzo_trig i
+				{color:#2eb4dc}.eventon_list_event .evoet_cx em.evo_mytime,
+				.eventon_list_event .evoet_cx em.evo_mytime.tzo_trig:hover,
+				.eventon_list_event .evoet_cx em.evo_mytime,
+				.eventon_list_event .evcal_evdata_cell .evo_mytime,
+				.eventon_list_event .evcal_evdata_cell .evo_mytime.tzo_trig{background-color:#2eb4dc}.eventon_list_event .evoet_cx em.evo_mytime &gt;*, 
+				.eventon_list_event .evcal_evdata_cell .evo_mytime &gt;*,
+				.eventon_list_event .evoet_cx em.evo_mytime.tzo_trig:hover &gt;*{color:#ffffff}.eventon_events_list .evose_repeat_header span.title{background-color:#fed584;color:#202124;}.eventon_events_list .evose_repeat_header .ri_nav a, 
+				.eventon_events_list .evose_repeat_header .ri_nav a:visited, 
+				.eventon_events_list .evose_repeat_header .ri_nav a:hover{color:#656565}.eventon_events_list .evose_repeat_header .ri_nav b{border-color:#808080}body .EVOSR_section a.evo_do_search, body a.evosr_search_btn, .evo_search_bar_in a.evosr_search_btn{color:#3d3d3d}body .EVOSR_section a.evo_do_search:hover, body a.evosr_search_btn:hover, .evo_search_bar_in a.evosr_search_btn:hover{color:#bbbbbb}body .EVOSR_section input[type=text], .evo_search_bar input[type=text]{border-color:#202124;background-color:#ffffff;}.evosr_blur{background-color:#f9d789;color:#14141E;}.evo_search_results_count span{background-color:#ffffff;color:#222222;}body .EVOSR_section input[type=text]:hover, .evo_search_bar input[type=text]:hover{border-color:#202124}.evo_search_results_count{color:#14141E}.evo_eventon_live_now_section h3{color:#202124}.evo_eventon_live_now_section .evo_eventon_now_next{background-color:#ececec}.evo_eventon_live_now_section .evo_eventon_now_next h3{color:#202124}.evo_eventon_live_now_section .evo_eventon_now_next h3 .evo_countdowner{background-color:#656565;color:#ffffff;}.evo_eventon_live_now_section p.evo_eventon_no_events_now{background-color:#d6f5d2;color:#888888;}.ajde_evcal_calendar.esty_1 #evcal_list .eventon_list_event.no_events p.no_events,   .ajde_evcal_calendar.esty_2 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_3 #evcal_list .eventon_list_event.no_events p.no_events{background-color:#ffffff}.ajde_evcal_calendar.esty_1 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_2 #evcal_list .eventon_list_event.no_events p.no_events,.ajde_evcal_calendar.esty_3 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_1 #evcal_list .eventon_list_event.no_events p.no_events a, .ajde_evcal_calendar.esty_2 #evcal_list .eventon_list_event.no_events p.no_events a, .ajde_evcal_calendar.esty_3 #evcal_list .eventon_list_event.no_events p.no_events a{color:#202124}.ajde_evcal_calendar.esty_0 #evcal_list .eventon_list_event.no_events p.no_events,   .ajde_evcal_calendar.esty_4 #evcal_list .eventon_list_event.no_events p.no_events{background-color:#ffffff}.ajde_evcal_calendar.esty_0 #evcal_list .eventon_list_event.no_events p.no_events, .ajde_evcal_calendar.esty_4 #evcal_list .eventon_list_event.no_events p.no_events,.ajde_evcal_calendar.esty_0 #evcal_list .eventon_list_event.no_events p.no_events a,.ajde_evcal_calendar.esty_4 #evcal_list .eventon_list_event.no_events p.no_events a{color:#202124}/* Runde Ecken bei den Boxen entfernen */
+/* 19.10.2022 DL1MGB */
+
+.eventon_events_list .eventon_list_event .event_description {
+  /* border-radius: 0 0 15px 15px; */
+  border-radius: 0 0 0px 0px;
+}
+
+#evcal_list {
+  /* border-radius: 5px; */
+  border-radius: 0px;
+}
+
+
+.evocard_box {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+.evo_sin_page #evcal_list .eventon_list_event {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+
+/* evo_event_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.1.3 */
+
+.evose_repeat_header p {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+body .EVOSR_section input[type="text"] {
+  /* border-radius: 20px; */
+  border-radius: 0px;
+}
+
+#evcal_list .sep_month_events {
+  /* border-radius: 5px; */
+  border-radius: 0px;
+}
+
+
+
+
+
+
+
+/* Titel beim einzelnen Event nicht in weiß, sondern in grau */
+/* 19.10.2022 DL1MGB */
+
+.color.evo_sin_page #evcal_list .eventon_list_event a.desc_trig &gt; *, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc_info em, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc_info span, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc_info b, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc3 em, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc3 span, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_event_title, .color.evo_sin_page #evcal_list .eventon_list_event .evcal_desc span.evcal_event_subtitle {
+  /* color: #fff !important; */
+  color: #656565 !important;
+}
+
+
+
+/* Abstand zwischen den Monaten in der Eventliste vergrößert */
+/* 19.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.ajde_evcal_calendar .evcal_month_line p {
+  /* padding: 8px 0 5px; */
+  padding: 30px 0 5px;
+}
+
+
+
+
+
+/* Padding bei den Eventlisten-Elementen ein bisschen verringert */
+/* 19.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evcal_list_a {
+  /* padding: 20px; */
+  padding: 10px 20px 10px 20px;
+}
+
+
+
+
+/* Eventliste: Abstand zwischen Datum und Titel etwas vergrößert */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evoet_c3, .evo_pop_body .evoet_c3 {
+/*    padding: 0 0 0 20px; */
+}
+
+
+
+/* Die Titel der Events normal und nicht in Großbuchstaben */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evoet_cx span.evcal_desc2, .evo_pop_body .evoet_cx span.evcal_desc2 {
+    text-transform: none;
+}
+
+
+
+
+/* Ein bisschen Rand links und rechts der einzelnen Veranstaltung, wenn die Seite auf dem Handy angeschaut wird */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.1.3 */
+
+.eventon_main_section, #eventon_comments {
+    padding: 20px 15px 0px 15px;
+}
+
+
+
+
+/* Abstände der Event-Liste kleiner gemacht */
+/* 20.10.2022 DL1MGB */
+
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+#evcal_widget #evcal_list .eventon_list_event .evcal_list_a, .widget-area .ajde_evcal_calendar .eventon_events_list .evcal_list_a {
+    padding: 7px 15px 5px 10px;
+}
+
+
+
+/* Hintergundfrabe der einzelnen Events in der Liste auf #FFF gesetzt */
+/* 20.10.2022 DL1MGB */
+/* https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.1.3 */
+.eventon_events_list .eventon_list_event .desc_trig, .evopop_top {
+    /* background-color: #ffffff; */
+}
+
+
+
+/* Suchergebnis Eckenrundungen rausgenommen */
+/* 20.10.2022 DL1MGB */
+
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.evo_search_results_count span {
+  /* border-radius: 8px; */
+  border-radius: 0px;
+}
+
+.ajde_evcal_calendar.sev #evcal_list .eventon_list_event {
+  /* border-radius: 10px; */
+  border-radius: 0px;
+}
+
+.ajde_evcal_calendar.cev #evcal_list {
+  /* border-radius: 8px; */
+  border-radius: 0px;
+}
+
+.evo_search_results_count span {
+  /* font-style: italic; */
+}
+
+
+/* Schriftgröße der Monate in der Liste verringern */
+/* 21.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.ajde_evcal_calendar .evcal_month_line p {
+  /* font-size: 24px; */
+  font-size: 20px;
+}
+
+
+/* Ränder bei den Eventdaten ein bisschen kleiner */
+/* 22.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.evcal_evdata_row {
+  /* padding: 30px; */
+  padding: 15px;
+}
+
+
+/* Untertitel normal anzeigen */
+/* 22.10.2022 DL1MGB */
+
+/* eventon_styles.css | https://bcc.telegraphy.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.1.3 */
+
+.eventon_events_list .eventon_list_event .evoet_cx span.evcal_event_subtitle, .evo_pop_body .evoet_cx span.evcal_event_subtitle {
+  /* text-transform: uppercase; */
+  text-transform: none;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.eventon_list_event .evoet_cx span.evcal_event_title, .evo_metarow_ICS .evcal_evdata_cell p a, .evo_metarow_learnMICS .evcal_col50 .evcal_evdata_cell p a, .eventon_list_event .evo_metarow_locImg p.evoLOCtxt .evo_loc_text_title, .evo_clik_row .evo_h3, h2.evo_h2, h3.evo_h3, h4.evo_h4, body .ajde_evcal_calendar h4.evo_h4, .evo_content_in h4.evo_h4, .eventon_main_section #evcal_cur, .ajde_evcal_calendar .calendar_header p.evo_month_title, .eventon_events_list .eventon_list_event .cancel_event .evo_event_headers, .evo_pop_body .evo_event_headers.canceled, .eventon_events_list .eventon_list_event .evcal_list_a .evo_above_title span, .evo_pop_body .evcal_list_a .evo_above_title span, .ajde_evcal_calendar .evcal_month_line p, .ajde_evcal_calendar .evo_footer_nav p.evo_month_title, .evo_eventon_live_now_section h3 {
+  /* font-weight: 800; */
+  font-weight: 700;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.eventon_events_list .eventon_list_event .evoet_cx span.evcal_desc2, .evo_pop_body .evoet_cx span.evcal_desc2 {
+  /* font-size: 24px; */
+  font-size: 22px;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+#evcal_list .eventon_list_event .evoet_cx span.evcal_event_title, .eventon_events_list .evcal_event_subtitle {
+  /* padding-bottom: 8px; */
+  padding-bottom: 5px;
+}
+
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.widget .eventon_events_list .eventon_list_event .evoet_cx {
+ margin-bottom: 0px;
+}
+
+
+/* evo_event_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.2.2 */
+
+.evo_page_body .evo_sin_page #evcal_list p.desc_trig_outter {
+  /* border-radius: 15px; */
+  border-radius: 0px;
+}
+
+/* eventon_dynamic_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.2.2 */
+
+.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3 {
+  /* font-size: 14px; */
+  font-size: 16px;
+}
+
+/* eventon_styles.css | https://probieren.cqbcc.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.evcal_evdata_row .evcal_evdata_cell h3, h3.evo_h3 {
+  /* font-weight: 800; */
+  font-weight: 700;
+}
+
+
+/* evo_event_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.2.2 */
+
+.evo_page_body .evo_sin_page .evosin_event_title {
+/* font-family: var(--evo_font_1); */
+ font-family: Arial !important;
+}
+
+/* 15.11.2022 DL1MGB Repeat Header bei sich wiederholenden Veranstaltungen ausschalten */
+
+/* evo_event_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/evo_event_styles.css?ver=4.2.2 */
+
+.evose_repeat_header {
+  display: none !important;
+}
+
+
+/* 15.11.2022 DL1MGB Größe des Beitragsbildes auf 30% reduzieren (analog zu den normalen Beiträgen) */
+/* eventon_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.evo_metarow_directimg img {
+  /* width: 100%; */
+  width: 30%;
+  /* min-height: 200px; */
+  min-height: auto;
+}
+
+/* 18.01.2023 Änderungen bei der Anzeige eines Events */
+
+/* eventon_styles.css | https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.2.2 */
+
+.eventon_full_description .eventon_desc_in a { 
+  text-decoration: underline !important;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: currentcolor;
+    text-decoration-thickness: auto;
+  color: #1e3e95;
+}
+
+.eventon_list_event .evo_metarow_details .eventon_full_description p,
+	.eventon_list_event .evo_metarow_details .eventon_full_description li {
+		font-size: 1.125em; 
+	}
+
+/*# sourceURL=evo_dynamic_styles-inline-css */
+</style>
+<link rel='stylesheet' id='leform-style-css' href='https://www.bavarian-contest-club.de/wp-content/plugins/halfdata-green-forms/css/style.min.css?ver=1.56' media='all' />
+<link rel='stylesheet' id='leform-fa-css' href='https://www.bavarian-contest-club.de/wp-content/plugins/halfdata-green-forms/css/leform-fa.min.css?ver=1.56' media='all' />
+<script src="https://www.bavarian-contest-club.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.bavarian-contest-club.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="evo-inlinescripts-header-js-after">
+jQuery(document).ready(function($){});
+//# sourceURL=evo-inlinescripts-header-js-after
+</script>
+<link rel="https://api.w.org/" href="https://www.bavarian-contest-club.de/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bavarian-contest-club.de/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<!-- Analytics by WP Statistics - https://wp-statistics.com -->
+    <link rel="preload" as="font" type="font/woff2" href="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/webfonts/fa-brands-400.woff2?v=5.15.2" crossorigin="anonymous"/>
+    <link rel="preload" as="font" type="font/woff2" href="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/webfonts/fa-regular-400.woff2?v=5.15.2" crossorigin="anonymous"/>
+    <link rel="preload" as="font" type="font/woff2" href="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/webfonts/fa-solid-900.woff2?v=5.15.2" crossorigin="anonymous"/>
+  <!--[if lt IE 9]>
+<script src="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/js/ie/html5shiv-printshiv.min.js"></script>
+<script src="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/js/ie/selectivizr.js"></script>
+<![endif]-->
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><script>var leform_customjs_handlers = {};</script><link rel="icon" href="https://www.bavarian-contest-club.de/wp-content/uploads/2022/09/cropped-bcc_icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.bavarian-contest-club.de/wp-content/uploads/2022/09/cropped-bcc_icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.bavarian-contest-club.de/wp-content/uploads/2022/09/cropped-bcc_icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.bavarian-contest-club.de/wp-content/uploads/2022/09/cropped-bcc_icon-270x270.png" />
+		<style id="wp-custom-css">
+			/******/
+/* Wordpress / Theme */
+/******/
+
+/* Anzeige der Beitragsbilder */
+/* DL1MGB 17.09.2022 */
+
+.post-thumbnail { width: 100%; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease; }
+.post-thumbnail { position: relative; margin-bottom: 1em; }
+.post-thumbnail img { display: block; width: 100%; height: auto; }
+
+#flexslider-featured .featured-img-thumb-xxlarge { max-height: 50px;overflow: hidden; }
+#flexslider-featured .featured-img-thumb-xlarge { max-height: 50px;overflow: hidden; }
+#flexslider-featured .featured-img-thumb-large { max-height: 30px;overflow: hidden; }
+
+.image-container { position: relative; }
+.image-container img { display: block; width: 30%; height: auto; }
+
+
+/* Schriftfarbe der Menüeinträge) */
+/* DL1MGB 17.09.2022 */
+
+#nav-topbar .nav li a { color: #fff; color: #eee; /*rgba(255,255,255,0.8);*/ }
+
+#footer-bottom #copyright,#footer-bottom #credit { color: #fff; color: #fff; font-size: 0.9375em; line-height: 1.5em; }
+
+/*Definition der Tabellen für FC- und Contestergebnisse */
+/* DL1MGB 16.10.2022 */
+table.fctab {margin-top: 1.5em;}
+table.fctab tr { background: #ffffff;}
+
+table.fctab tr:hover { background: #dddddd;}
+
+table.fctab tr.alt {background: #ffffff;}
+table.fctab tr.alt:hover {background: #dddddd;}
+
+table.fctab td {vertical-align:center;}
+table.fctab td.noborder {border-bottom: 0px;}
+
+table.fctab td.fctabl {text-align: left;vertical-align:center;}
+table.fctab td.fctabr {text-align: right;vertical-align:center;}
+
+table.fctab td.fctabl-bold {text-align: left;font-weight: 600;vertical-align:center;}
+table.fctab td.fctabr-bold {text-align: right;font-weight: 600;vertical-align:center;}
+
+table.fctab th {text-align: center;border-top: 0px solid #ffffff;vertical-align:center;}
+table.fctab th.fctabl {text-align: left;vertical-align:center;}
+table.fctab th.fctabr {text-align: right;vertical-align:center;}
+
+table.fctab td.fctab-blank {border-color: #FFFFFF;}
+
+table.fctab table.cattab, th.cattab {font-size: 1.15em; font-style: italic; text-align: left !important; padding-left: 10px; vertical-align: top;}
+
+
+/* Schrift der Widget-Überschrift angepasst */
+/* 22.10.2022 DL1MGB */
+/* main.min.css | https://bcc.telegraphy.de/wp-content/themes/hueman-pro/assets/front/css/main.min.css?ver=1.4.24 */
+
+.widget > h3 {
+  /* font-weight: 400; */
+  font-weight: 600;
+	font-size: 1.4em;
+}
+
+
+/*****/
+/* NextGen Gallery */
+/*****/
+
+/* Für die Galerie, damit die Breadcrumb-Separator ordentlich angezeigt werden */
+/* 17.09.2022 DL1MGB */
+
+ul.ngg-breadcrumbs > li::marker {
+	content: none !important;
+}
+
+/* Anpassung der Schriftgröße / kein uppercase bei den Brotkrümeln */
+/* 21.10.2022 DL1MGB */
+
+article .entry .ngg-breadcrumb {
+	font-size: 20px;
+	color: #333333;
+}
+article .entry .ngg-breadcrumb a {
+    text-decoration: none;
+    font-size: 20px;
+	  font-weight: 555;
+	  color: #666666;
+}
+
+
+/* Anpassung der Schrift der Albenbeschriftung */
+/* 22.10.2022 DL1MGB */
+
+article .caption_link a, .caption_link a:visited, .caption_link a:hover {
+    text-decoration: none;
+    font-weight: 555;	
+}
+
+/* Anpassung der Schrift der Bilderbeschriftung in der Lightbox */
+/* 22.10.2022 DL1MGB */
+.galleria-theme-nextgen_pro_lightbox .galleria-info-title {
+    font: bold 14px/1.1 "Arial", sans-serif;
+    text-transform: none;
+}
+
+.galleria-theme-nextgen_pro_lightbox .galleria-info-description {
+    margin: 0 16px 16px 16px;
+    color: #bbb;
+    font: 14px "Arial", sans-serif;
+    text-align: left;
+    order: 3;
+    width: 100%;
+    line-height: 1.5;
+}
+
+/* Bilder der Mitglieder */
+.memberpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+  outline-style: solid;
+  outline-width: 1px;
+  outline-color: #AAAAAA;
+}
+
+/* CSS für Green Forms */
+	.inputform {
+		text-transform:uppercase;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  text-transform: none;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  text-transform: none;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  text-transform: none;
+}
+
+.attentiontipp {
+  background-color: #fdede9;
+  padding: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}		</style>
+		            <style id="grids-css" type="text/css">
+                .post-list .grid-item {float: left; }
+                .cols-1 .grid-item { width: 100%; }
+                .cols-2 .grid-item { width: 50%; }
+                .cols-3 .grid-item { width: 33.3%; }
+                .cols-4 .grid-item { width: 25%; }
+                @media only screen and (max-width: 719px) {
+                      #grid-wrapper .grid-item{
+                        width: 100%;
+                      }
+                }
+            </style>
+            </head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive wp-theme-hueman-pro col-2cl full-width topbar-enabled header-desktop-sticky hueman-pro-1-4-29 unknown">
+<div id="wrapper">
+  <a class="screen-reader-text skip-link" href="#content">Unter dem Inhalt</a>
+  
+  <header id="header" class="both-menus-mobile-on two-mobile-menus both_menus header-ads-desktop  topbar-transparent no-header-img">
+  
+        <nav class="nav-container group desktop-menu desktop-sticky " id="nav-topbar" data-menu-id="header-1">
+                <!-- <div class="ham__navbar-toggler collapsed" aria-expanded="false">
+          <div class="ham__navbar-span-wrapper">
+            <span class="ham-toggler-menu__span"></span>
+          </div>
+        </div> -->
+        <button class="ham__navbar-toggler-two collapsed" title="Menu" aria-expanded="false">
+          <span class="ham__navbar-span-wrapper">
+            <span class="line line-1"></span>
+            <span class="line line-2"></span>
+            <span class="line line-3"></span>
+          </span>
+        </button>
+              <div class="nav-text"></div>
+  <div class="topbar-toggle-down">
+    <i class="fas fa-angle-double-down" aria-hidden="true" data-toggle="down" title="Erweitertes Menü"></i>
+    <i class="fas fa-angle-double-up" aria-hidden="true" data-toggle="up" title="Einklapp-Menü"></i>
+  </div>
+  <div class="nav-wrap container">
+    <ul id="menu-hauptmenue-de" class="nav container-inner group"><li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-55"><a href="https://www.bavarian-contest-club.de">Startseite</a></li>
+<li id="menu-item-3822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3822"><a>Der BCC</a>
+<ul class="sub-menu">
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://www.bavarian-contest-club.de/der-bcc/">Der BCC</a></li>
+	<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://www.bavarian-contest-club.de/der-vorstand/">Der Vorstand</a></li>
+	<li id="menu-item-5620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5620"><a href="https://www.bavarian-contest-club.de/mitglieder/">Die Mitglieder</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"><a href="https://www.bavarian-contest-club.de/category/neue-mitglieder/">Neue Mitglieder</a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://www.bavarian-contest-club.de/mitglied-werden/">Mitglied werden</a></li>
+	<li id="menu-item-389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-389"><a href="https://www.bavarian-contest-club.de/category/member-of-the-year/">Member of the Year</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-188"><a href="https://www.bavarian-contest-club.de/category/silent-key/">Silent Key</a></li>
+</ul>
+</li>
+<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a>Historie</a>
+<ul class="sub-menu">
+	<li id="menu-item-13379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13379"><a href="https://www.bavarian-contest-club.de/2025">2025</a></li>
+	<li id="menu-item-11461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11461"><a href="https://www.bavarian-contest-club.de/2024">2024</a></li>
+	<li id="menu-item-5622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5622"><a href="https://www.bavarian-contest-club.de/2023">2023</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="https://www.bavarian-contest-club.de/2022">2022</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-129"><a href="https://www.bavarian-contest-club.de/2021">2021</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="https://www.bavarian-contest-club.de/2020">2020</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-124"><a>2010-2019</a>
+	<ul class="sub-menu">
+		<li id="menu-item-140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-140"><a href="https://www.bavarian-contest-club.de/2010">2010</a></li>
+		<li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a href="https://www.bavarian-contest-club.de/2011">2011</a></li>
+		<li id="menu-item-138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138"><a href="https://www.bavarian-contest-club.de/2012">2012</a></li>
+		<li id="menu-item-137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a href="https://www.bavarian-contest-club.de/2013">2013</a></li>
+		<li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="https://www.bavarian-contest-club.de/2014">2014</a></li>
+		<li id="menu-item-135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135"><a href="https://www.bavarian-contest-club.de/2015">2015</a></li>
+		<li id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="https://www.bavarian-contest-club.de/2016">2016</a></li>
+		<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="https://www.bavarian-contest-club.de/2017">2017</a></li>
+		<li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="https://www.bavarian-contest-club.de/2018">2018</a></li>
+		<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="https://www.bavarian-contest-club.de/2019">2019</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125"><a>2000-2009</a>
+	<ul class="sub-menu">
+		<li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141"><a href="https://www.bavarian-contest-club.de/2000">2000</a></li>
+		<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142"><a href="https://www.bavarian-contest-club.de/2001">2001</a></li>
+		<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a href="https://www.bavarian-contest-club.de/2002">2002</a></li>
+		<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144"><a href="https://www.bavarian-contest-club.de/2003">2003</a></li>
+		<li id="menu-item-145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145"><a href="https://www.bavarian-contest-club.de/2004">2004</a></li>
+		<li id="menu-item-146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146"><a href="https://www.bavarian-contest-club.de/2005">2005</a></li>
+		<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147"><a href="https://www.bavarian-contest-club.de/2006">2006</a></li>
+		<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="https://www.bavarian-contest-club.de/2007">2007</a></li>
+		<li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="https://www.bavarian-contest-club.de/2008">2008</a></li>
+		<li id="menu-item-150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150"><a href="https://www.bavarian-contest-club.de/2009">2009</a></li>
+	</ul>
+</li>
+	<li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126"><a>1990-1999</a>
+	<ul class="sub-menu">
+		<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="https://www.bavarian-contest-club.de/1990">1990</a></li>
+		<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152"><a href="https://www.bavarian-contest-club.de/1991">1991</a></li>
+		<li id="menu-item-153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153"><a href="https://www.bavarian-contest-club.de/1992">1992</a></li>
+		<li id="menu-item-154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a href="https://www.bavarian-contest-club.de/1993">1993</a></li>
+		<li id="menu-item-155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a href="https://www.bavarian-contest-club.de/1994">1994</a></li>
+		<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a href="https://www.bavarian-contest-club.de/1995">1995</a></li>
+		<li id="menu-item-157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157"><a href="https://www.bavarian-contest-club.de/1996">1996</a></li>
+		<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="https://www.bavarian-contest-club.de/1997">1997</a></li>
+		<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a href="https://www.bavarian-contest-club.de/1998">1998</a></li>
+		<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="https://www.bavarian-contest-club.de/1999">1999</a></li>
+	</ul>
+</li>
+	<li id="menu-item-127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-127"><a>1983-1989</a>
+	<ul class="sub-menu">
+		<li id="menu-item-161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161"><a href="https://www.bavarian-contest-club.de/1983">1983</a></li>
+		<li id="menu-item-162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162"><a href="https://www.bavarian-contest-club.de/1984">1984</a></li>
+		<li id="menu-item-163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163"><a href="https://www.bavarian-contest-club.de/1985">1985</a></li>
+		<li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-164"><a href="https://www.bavarian-contest-club.de/1986">1986</a></li>
+		<li id="menu-item-165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165"><a href="https://www.bavarian-contest-club.de/1987">1987</a></li>
+		<li id="menu-item-166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166"><a href="https://www.bavarian-contest-club.de/1988">1988</a></li>
+		<li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.bavarian-contest-club.de/1989">1989</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3823"><a>Aktivitäten</a>
+<ul class="sub-menu">
+	<li id="menu-item-7894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7894"><a href="https://www.bavarian-contest-club.de/category/wabcc40/">WABCC40</a></li>
+	<li id="menu-item-5592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5592"><a>Frequent Contester</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5095"><a href="https://www.bavarian-contest-club.de/category/fc-ausschreibung/">Ausschreibung</a></li>
+		<li id="menu-item-1324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1324"><a href="https://www.bavarian-contest-club.de/category/frequent-contester/">Archiv</a></li>
+		<li id="menu-item-8690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8690"><a href="https://www.bavarian-contest-club.de/fc-diplom/">FC-Diplom</a></li>
+		<li id="menu-item-11814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11814"><a href="https://www.bavarian-contest-club.de/anleitung-summary-file-aus-der-logging-software/">Anleitung: Summary File</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4872"><a>BCC QSO-Party</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4875"><a href="https://www.bavarian-contest-club.de/category/bcc-qp-regeln/">Ausschreibung</a></li>
+		<li id="menu-item-5175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5175"><a href="https://www.bavarian-contest-club.de/category/bcc-qp-ergebnisse/">Ergebnisse</a></li>
+	</ul>
+</li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.bavarian-contest-club.de/da0bcc/">DA0BCC</a></li>
+	<li id="menu-item-13213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13213"><a href="https://www.bavarian-contest-club.de/aktivitaeten/dx-cluster-da0bcc/">DX-Cluster DA0BCC</a></li>
+	<li id="menu-item-10040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10040"><a href="https://www.bavarian-contest-club.de/operator-und-stationsboerse/">Operator- und Stationsbörse</a></li>
+	<li id="menu-item-4961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4961"><a>BCC MS-Contest</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5251"><a href="https://www.bavarian-contest-club.de/category/ms-contest-ausschreibung/">Ausschreibung</a></li>
+		<li id="menu-item-1169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1169"><a href="https://www.bavarian-contest-club.de/category/ms-contest-ergebnisse/">Ergebnisse</a></li>
+	</ul>
+</li>
+	<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="https://www.bavarian-contest-club.de/kurzrufzeichen/">Kurzrufzeichen</a></li>
+	<li id="menu-item-1094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1094"><a>WRTC</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100"><a href="https://www.bavarian-contest-club.de/wrtc-2022/">WRTC 2022</a></li>
+		<li id="menu-item-1125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="https://www.bavarian-contest-club.de/wrtc-2018/">WRTC 2018</a></li>
+		<li id="menu-item-1124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="https://www.bavarian-contest-club.de/wrtc-2014/">WRTC 2014</a></li>
+		<li id="menu-item-1123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123"><a href="https://www.bavarian-contest-club.de/wrtc-2010/">WRTC 2010</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5223"><a>Projekte</a>
+<ul class="sub-menu">
+	<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151"><a href="https://www.bavarian-contest-club.de/bcc-handbuch/">BCC-Handbuch</a></li>
+	<li id="menu-item-1162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1162"><a href="https://www.bavarian-contest-club.de/category/hardware/">Hardware</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1990"><a href="https://www.bavarian-contest-club.de/category/transceiver/">Transceiver</a></li>
+		<li id="menu-item-1977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1977"><a href="https://www.bavarian-contest-club.de/category/antennen/">Antennen</a></li>
+		<li id="menu-item-1991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1991"><a href="https://www.bavarian-contest-club.de/category/zubehoer/">Zubehör</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1978"><a href="https://www.bavarian-contest-club.de/category/software/">Software</a></li>
+	<li id="menu-item-1980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1980"><a href="https://www.bavarian-contest-club.de/category/vortraege/">Vorträge</a></li>
+	<li id="menu-item-1979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1979"><a href="https://www.bavarian-contest-club.de/category/tipps/">Tipps</a></li>
+</ul>
+</li>
+<li id="menu-item-5224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5224"><a>Internes</a>
+<ul class="sub-menu">
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="https://www.bavarian-contest-club.de/rundbrief/">Rundbrief</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://www.bavarian-contest-club.de/mailingliste/">Mailingliste</a></li>
+	<li id="menu-item-905" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-905"><a href="https://www.bavarian-contest-club.de/category/hl3k-treffen/">HL3K-Treffen</a></li>
+	<li id="menu-item-906" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-906"><a href="https://www.bavarian-contest-club.de/category/messen/">Messen</a></li>
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94"><a href="https://www.bavarian-contest-club.de/stammtisch/">Stammtisch</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13386"><a href="https://www.bavarian-contest-club.de/stammtisch-bergstrasse-odenwald/">Stammtisch Bergstraße / Odenwald</a></li>
+		<li id="menu-item-616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616"><a href="https://www.bavarian-contest-club.de/stammtisch-hamburg/">Stammtisch Hamburg</a></li>
+		<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="https://www.bavarian-contest-club.de/stammtisch-muenchen/">Stammtisch München</a></li>
+		<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="https://www.bavarian-contest-club.de/stammtisch-ostbayern-oberpfalz/">Stammtisch Ostbayern / Oberpfalz</a></li>
+		<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="https://www.bavarian-contest-club.de/stammtisch-sachsen/">Stammtisch Sachsen</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7917"><a href="https://www.bavarian-contest-club.de/verschiedenes/">Verschiedenes</a></li>
+</ul>
+</li>
+<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="https://www.bavarian-contest-club.de/galerien/">Galerien</a></li>
+<li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-558"><a href="https://www.bavarian-contest-club.de/kalender/">Kalender</a>
+<ul class="sub-menu">
+	<li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="https://www.bavarian-contest-club.de/externe-kalender/">Externe Kalender</a></li>
+</ul>
+</li>
+<li id="menu-item-5083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5083"><a href="https://www.bavarian-contest-club.de/en/welcome">&#8212; English &#8212;</a></li>
+</ul>  </div>
+      <div id="topbar-header-search" class="container">
+      <div class="container-inner">
+        <button class="toggle-search"><i class="fas fa-search"></i></button>
+        <div class="search-expand">
+          <div class="search-expand-inner"><form role="search" method="get" class="search-form" action="https://www.bavarian-contest-club.de/">
+				<label>
+					<span class="screen-reader-text">Suche nach:</span>
+					<input type="search" class="search-field" placeholder="Suchen …" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Suchen" />
+			</form></div>
+        </div>
+      </div><!--/.container-inner-->
+    </div><!--/.container-->
+  
+</nav><!--/#nav-topbar-->  
+  <div class="container group">
+        <div class="container-inner">
+
+                    <div class="group hu-pad central-header-zone">
+                  <div class="logo-tagline-group">
+                      <p class="site-title">                  <a class="custom-logo-link" href="https://www.bavarian-contest-club.de/" rel="home" title="Bavarian Contest Club (BCC) | Startseite"><img src="https://www.bavarian-contest-club.de/wp-content/uploads/2022/09/bcc_header_logo.png" alt="Bavarian Contest Club (BCC)" width="1630" height="300"/></a>                </p>                                        </div>
+
+                                </div>
+      
+      
+    </div><!--/.container-inner-->
+      </div><!--/.container-->
+
+</header><!--/#header-->
+  
+  <div class="container" id="page">
+    <div class="container-inner">
+            <div class="main">
+        <div class="main-inner group">
+          
+              <main class="content" id="content">
+              <div class="page-title hu-pad group">
+          	    		<h1><i class="fas fa-exclamation-circle"></i>Fehler 404. <span>Seite nicht gefunden! </span></h1>
+    	
+    </div><!--/.page-title-->
+          <div class="hu-pad group">
+            <div class="notebox">
+  <form role="search" method="get" class="search-form" action="https://www.bavarian-contest-club.de/">
+				<label>
+					<span class="screen-reader-text">Suche nach:</span>
+					<input type="search" class="search-field" placeholder="Suchen …" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Suchen" />
+			</form></div>
+
+<div class="entry">
+  <p>Die gewünschte Seite existiert nicht oder wurde verschoben. Bitte verwende die Menüs oder die Suche um den gewünschten Inhalt zu finden.</p>
+</div>          </div><!--/.hu-pad-->
+            </main><!--/.content-->
+          
+
+	<div class="sidebar s1 collapsed" data-position="right" data-layout="col-2cl" data-sb-id="s1">
+
+		<button class="sidebar-toggle" title="Seitenleiste ausklappen"><i class="fas sidebar-toggle-arrows"></i></button>
+
+		<div class="sidebar-content">
+
+			
+			
+			
+			<div id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://www.bavarian-contest-club.de/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-1" >Suchen</label><div class="wp-block-search__inside-wrapper" ><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required /><button aria-label="Suchen" class="wp-block-search__button wp-element-button" type="submit" >Suchen</button></div></form></div><div id="block-3" class="widget widget_block"><center><a href="https://www.bavarian-contest-club.de/da0bcc/"><img decoding="async" src="https://www.bavarian-contest-club.de/wp-content/uploads/2023/01/da0bcc_web.png" width=45% /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bavarian-contest-club.de/wp-content/uploads/2024/12/bcc-kalender-2025.pdf"><img decoding="async" src="https://www.bavarian-contest-club.de/wp-content/uploads/2024/12/bcc-contest-kalender.jpg" width=45% /></a> <br /><br />
+<h3><a href="https://www.bavarian-contest-club.de/operator-und-stationsboerse/"><div style="color: #1E3E95;">OPERATOR- / STATIONSBÖRSE</div></a></h3></center></div><div id="evcalwidget_sc-2" class="widget EvcalWidget_SC"><h3 class="widget-title">Kalender</h3><div id='evcal_widget' class='evo_widget'><!-- EventON Calendar --><div id='evcal_calendar_515' class='list_cal ajde_evcal_calendar clean esty_0 ul etttc_custom ' data-cal=''><div id='evcal_head' class='calendar_header ' ><div class='evo_cal_above evodfx evofx_dr_r marb5 evofx_ww'><span class='cal_head_btn evo-gototoday-btn' style='' data-mo='12' data-yr='2025' data-dy=''>Current Month</span></div><div class='evo_cal_above_content'></div><div class='evo_header_title '></div></div><div id='eventon_loadbar_section'><div id='eventon_loadbar'></div></div><!-- Events List --><div class='evo_events_list_box'><div id='evcal_list' class='eventon_events_list sep_months evcal_list_month'><div class='evcal_month_line' data-d='eml_12_2025' data-su='1764543600'><p>Dezember 2025</p></div><div class='sep_month_events ' data-d='eml_12_2025'><div id="event_633_3" class="eventon_list_event evo_eventtop scheduled past_event event clrD event_633_3" data-event_id="633" data-ri="3r" data-time="1764374400-1764547140" data-colr="#1e3e95" itemscope itemtype='http://schema.org/Event'><div class="evo_event_schema" style="display:none" ><a itemprop='url'  href='https://www.bavarian-contest-club.de/events/cqww-dx-contest-cw/var/ri-3.l-L1'></a><meta itemprop='image' content="https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg" /><meta itemprop='startDate' content="2025-11-29T00:00+1:00" /><meta itemprop='endDate' content="2025-11-30T23:59+1:00" /><meta itemprop='eventStatus' content="https://schema.org/EventScheduled" /><meta itemprop='eventAttendanceMode'   itemscope itemtype="https://schema.org/OfflineEventAttendanceMode"/><script type="application/ld+json">{"@context": "http://schema.org","@type": "Event",
+				"@id": "event_633_3",
+				"eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+				"eventStatus":"https://schema.org/EventScheduled",
+				"name": "CQWW DX Contest CW",
+				"url": "https://www.bavarian-contest-club.de/events/cqww-dx-contest-cw/var/ri-3.l-L1",
+				"startDate": "2025-11-29T00:00+1:00",
+				"endDate": "2025-11-30T23:59+1:00",
+				"image":"https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg", 
+				"description":"<p><strong>Link zur Ausschreibung: </strong><a href='https://cqww.com' target='_blank' rel='noopener'>https://cqww.com</a></p> <p><strong>Anmerkung: </strong>Dieser Contest ist Teil des <a href='https://www.bavarian-contest-club.de/2025/01/frequent-contester-2025-ausschreibung/'>Frequent Contester 2025</a>.</p> "}</script></div>
+				<p class="desc_trig_outter" style=""><a data-gmap_status="null" data-exlk="1" href="https://www.bavarian-contest-club.de/events/cqww-dx-contest-cw/var/ri-3.l-L1" style="border-color: #1e3e95;" id="evc_1764374400633" class="event_repeat desc_trig mul_val evcal_list_a" data-ux_val="4" data-ux_val_mob="-" href="https://www.bavarian-contest-club.de/events/cqww-dx-contest-cw/var/ri-3.l-L1"  ><span class='evoet_c2 evoet_cx '><span class='evoet_dayblock evcal_cblock ' data-bgcolor='#1e3e95' data-smon='November' data-syr='2025' data-bub=''><span class='evo_start  evofxdrc'><em class='year'>2025</em><em class='date'>29</em><em class='month'>Nov</em><em class='time'><i t="y">(Nov 29)</i>00:00</em></span><span class='evo_end  evofxdrc'><em class='date'>30</em><em class='time'><i t="y">(Nov 30)</i>23:59</em></span></span></span><span class='evoet_c3 evoet_cx evcal_desc hide_eventtopdata '><span class='evoet_title evcal_desc2 evcal_event_title ' itemprop='name'>CQWW DX Contest CW</span><span class='evoet_cy evoet_subtitle evo_below_title' ><span class='evcal_event_subtitle ' >FC-Contest</span></span></span><span class='evoet_data' data-d="{&quot;loc.n&quot;:&quot;&quot;,&quot;orgs&quot;:[],&quot;tags&quot;:{&quot;repeating&quot;:&quot;Repeating Event&quot;}}" data-bgc="#1e3e95" data-bggrad="" ></span></a></p><div class='clear end'></div></div></div><div class='evcal_month_line' data-d='eml_1_2026' data-su='1767222000'><p>Januar 2026</p></div><div class='sep_month_events ' data-d='eml_1_2026'><div id="event_637_0" class="eventon_list_event evo_eventtop scheduled  event clrW event_637_0" data-event_id="637" data-ri="0r" data-time="1768604400-1768690799" data-colr="#ffac11" itemscope itemtype='http://schema.org/Event'><div class="evo_event_schema" style="display:none" ><a itemprop='url'  href='https://www.bavarian-contest-club.de/events/bcc-hl3k-treffen/'></a><meta itemprop='image'  /><meta itemprop='startDate' content="2026-1-17" /><meta itemprop='endDate' content="2026-1-17" /><meta itemprop='eventStatus' content="https://schema.org/EventScheduled" /><meta itemprop='eventAttendanceMode'   itemscope itemtype="https://schema.org/OfflineEventAttendanceMode"/><script type="application/ld+json">{"@context": "http://schema.org","@type": "Event",
+				"@id": "event_637_0",
+				"eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+				"eventStatus":"https://schema.org/EventScheduled",
+				"name": "BCC HL3K-Treffen",
+				"url": "https://www.bavarian-contest-club.de/events/bcc-hl3k-treffen/",
+				"startDate": "2026-1-17",
+				"endDate": "2026-1-17",
+				"image":"", 
+				"description":"'BCC HL3K-Treffen'"}</script></div>
+				<p class="desc_trig_outter" style=""><a data-gmap_status="null" data-exlk="1" href="https://www.bavarian-contest-club.de/bcc-hl3k-treffen/" style="border-color: #ffac11;" id="evc_1768604400637" class="desc_trig sin_val evcal_list_a allday" data-ux_val="4" data-ux_val_mob="-" href="https://www.bavarian-contest-club.de/events/bcc-hl3k-treffen/"  ><span class='evoet_c2 evoet_cx '><span class='evoet_dayblock evcal_cblock ' data-bgcolor='#ffac11' data-smon='Januar' data-syr='2026' data-bub=''><span class='evo_start  evofxdrc'><em class='year'>2026</em><em class='date'>17</em><em class='month'>Jan</em><em class='time'>Ganztägig</em></span></span></span><span class='evoet_c3 evoet_cx evcal_desc hide_eventtopdata '><span class='evoet_title evcal_desc2 evcal_event_title ' itemprop='name'>BCC HL3K-Treffen</span><span class='evoet_cy evoet_subtitle evo_below_title' ></span></span><span class='evoet_data' data-d="{&quot;loc.n&quot;:&quot;&quot;,&quot;orgs&quot;:[],&quot;tags&quot;:[]}" data-bgc="#ffac11" data-bggrad="" ></span></a></p><div class='clear end'></div></div><div id="event_624_3" class="eventon_list_event evo_eventtop scheduled  event clrD event_624_3" data-event_id="624" data-ri="3r" data-time="1769205600-1769378400" data-colr="#1e3e95" itemscope itemtype='http://schema.org/Event'><div class="evo_event_schema" style="display:none" ><a itemprop='url'  href='https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-cw/var/ri-3.l-L1'></a><meta itemprop='image' content="https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg" /><meta itemprop='startDate' content="2026-1-23T22:00+1:00" /><meta itemprop='endDate' content="2026-1-25T22:00+1:00" /><meta itemprop='eventStatus' content="https://schema.org/EventScheduled" /><meta itemprop='eventAttendanceMode'   itemscope itemtype="https://schema.org/OfflineEventAttendanceMode"/><script type="application/ld+json">{"@context": "http://schema.org","@type": "Event",
+				"@id": "event_624_3",
+				"eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+				"eventStatus":"https://schema.org/EventScheduled",
+				"name": "CQWW 160-Meter Contest CW",
+				"url": "https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-cw/var/ri-3.l-L1",
+				"startDate": "2026-1-23T22:00+1:00",
+				"endDate": "2026-1-25T22:00+1:00",
+				"image":"https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg", 
+				"description":"<p><strong>Link zur Ausschreibung: </strong><a href='https://cq160.com' rel='noopener' target='_blank'>https://cq160.com</a></p> <p><strong>Anmerkung: </strong>Dieser Contest ist Teil des <a href='https://www.bavarian-contest-club.de/2025/01/frequent-contester-2025-ausschreibung/'>Frequent Contester 2025</a>.</p> "}</script></div>
+				<p class="desc_trig_outter" style=""><a data-gmap_status="null" data-exlk="1" href="https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-cw/var/ri-3.l-L1" style="border-color: #1e3e95;" id="evc_1769205600624" class="event_repeat desc_trig mul_val evcal_list_a" data-ux_val="4" data-ux_val_mob="-" href="https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-cw/var/ri-3.l-L1"  ><span class='evoet_c2 evoet_cx '><span class='evoet_dayblock evcal_cblock ' data-bgcolor='#1e3e95' data-smon='Januar' data-syr='2026' data-bub=''><span class='evo_start  evofxdrc'><em class='year'>2026</em><em class='date'>23</em><em class='month'>Jan</em><em class='time'><i t="y">(Jan 23)</i>22:00</em></span><span class='evo_end  evofxdrc'><em class='date'>25</em><em class='time'><i t="y">(Jan 25)</i>22:00</em></span></span></span><span class='evoet_c3 evoet_cx evcal_desc hide_eventtopdata '><span class='evoet_title evcal_desc2 evcal_event_title ' itemprop='name'>CQWW 160-Meter Contest CW</span><span class='evoet_cy evoet_subtitle evo_below_title' ><span class='evcal_event_subtitle ' >FC-Contest</span></span></span><span class='evoet_data' data-d="{&quot;loc.n&quot;:&quot;&quot;,&quot;orgs&quot;:[],&quot;tags&quot;:{&quot;repeating&quot;:&quot;Repeating Event&quot;}}" data-bgc="#1e3e95" data-bggrad="" ></span></a></p><div class='clear end'></div></div></div><div class='evcal_month_line' data-d='eml_2_2026' data-su='1769900400'><p>Februar 2026</p></div><div class='sep_month_events ' data-d='eml_2_2026'><div id="event_628_3" class="eventon_list_event evo_eventtop scheduled  event clrD event_628_3" data-event_id="628" data-ri="3r" data-time="1771027200-1771199940" data-colr="#1e3e95" itemscope itemtype='http://schema.org/Event'><div class="evo_event_schema" style="display:none" ><a itemprop='url'  href='https://www.bavarian-contest-club.de/events/cq-wpx-rtty-contest/var/ri-3.l-L1'></a><meta itemprop='image' content="https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg" /><meta itemprop='startDate' content="2026-2-14T00:00+1:00" /><meta itemprop='endDate' content="2026-2-15T23:59+1:00" /><meta itemprop='eventStatus' content="https://schema.org/EventScheduled" /><meta itemprop='eventAttendanceMode'   itemscope itemtype="https://schema.org/OfflineEventAttendanceMode"/><script type="application/ld+json">{"@context": "http://schema.org","@type": "Event",
+				"@id": "event_628_3",
+				"eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+				"eventStatus":"https://schema.org/EventScheduled",
+				"name": "CQ WPX RTTY Contest",
+				"url": "https://www.bavarian-contest-club.de/events/cq-wpx-rtty-contest/var/ri-3.l-L1",
+				"startDate": "2026-2-14T00:00+1:00",
+				"endDate": "2026-2-15T23:59+1:00",
+				"image":"https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg", 
+				"description":"<p><strong>Link zur Ausschreibung: </strong><a href='https://cqwpxrtty.com' target='_blank' rel='noopener'>https://cqwpxrtty.com</a></p> <p><strong>Anmerkung: </strong>Dieser Contest ist Teil des <a href='https://www.bavarian-contest-club.de/2025/01/frequent-contester-2025-ausschreibung/'>Frequent Contester 2025</a>.</p> "}</script></div>
+				<p class="desc_trig_outter" style=""><a data-gmap_status="null" data-exlk="1" href="https://www.bavarian-contest-club.de/events/cq-wpx-rtty-contest/var/ri-3.l-L1" style="border-color: #1e3e95;" id="evc_1771027200628" class="event_repeat desc_trig mul_val evcal_list_a" data-ux_val="4" data-ux_val_mob="-" href="https://www.bavarian-contest-club.de/events/cq-wpx-rtty-contest/var/ri-3.l-L1"  ><span class='evoet_c2 evoet_cx '><span class='evoet_dayblock evcal_cblock ' data-bgcolor='#1e3e95' data-smon='Februar' data-syr='2026' data-bub=''><span class='evo_start  evofxdrc'><em class='year'>2026</em><em class='date'>14</em><em class='month'>Feb</em><em class='time'><i t="y">(Feb 14)</i>00:00</em></span><span class='evo_end  evofxdrc'><em class='date'>15</em><em class='time'><i t="y">(Feb 15)</i>23:59</em></span></span></span><span class='evoet_c3 evoet_cx evcal_desc hide_eventtopdata '><span class='evoet_title evcal_desc2 evcal_event_title ' itemprop='name'>CQ WPX RTTY Contest</span><span class='evoet_cy evoet_subtitle evo_below_title' ><span class='evcal_event_subtitle ' >FC-Contest</span></span></span><span class='evoet_data' data-d="{&quot;loc.n&quot;:&quot;&quot;,&quot;orgs&quot;:[],&quot;tags&quot;:{&quot;repeating&quot;:&quot;Repeating Event&quot;}}" data-bgc="#1e3e95" data-bggrad="" ></span></a></p><div class='clear end'></div></div><div id="event_625_3" class="eventon_list_event evo_eventtop scheduled  event clrD event_625_3" data-event_id="625" data-ri="3r" data-time="1771624800-1771797600" data-colr="#1e3e95" itemscope itemtype='http://schema.org/Event'><div class="evo_event_schema" style="display:none" ><a itemprop='url'  href='https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-ssb/var/ri-3.l-L1'></a><meta itemprop='image' content="https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg" /><meta itemprop='startDate' content="2026-2-20T22:00+1:00" /><meta itemprop='endDate' content="2026-2-22T22:00+1:00" /><meta itemprop='eventStatus' content="https://schema.org/EventScheduled" /><meta itemprop='eventAttendanceMode'   itemscope itemtype="https://schema.org/OfflineEventAttendanceMode"/><script type="application/ld+json">{"@context": "http://schema.org","@type": "Event",
+				"@id": "event_625_3",
+				"eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+				"eventStatus":"https://schema.org/EventScheduled",
+				"name": "CQWW 160-Meter Contest SSB",
+				"url": "https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-ssb/var/ri-3.l-L1",
+				"startDate": "2026-2-20T22:00+1:00",
+				"endDate": "2026-2-22T22:00+1:00",
+				"image":"https://www.bavarian-contest-club.de/wp-content/uploads/2022/10/logo_cq.jpg", 
+				"description":"<p><strong>Link zur Ausschreibung: </strong><a href='https://cq160.com' target='_blank' rel='noopener'>https://cq160.com</a></p> <p><strong>Anmerkung: </strong>Dieser Contest ist Teil des <a href='https://www.bavarian-contest-club.de/2025/01/frequent-contester-2025-ausschreibung/'>Frequent Contester 2025</a>.</p> "}</script></div>
+				<p class="desc_trig_outter" style=""><a data-gmap_status="null" data-exlk="1" href="https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-ssb/var/ri-3.l-L1" style="border-color: #1e3e95;" id="evc_1771624800625" class="event_repeat desc_trig mul_val evcal_list_a" data-ux_val="4" data-ux_val_mob="-" href="https://www.bavarian-contest-club.de/events/cqww-160-meter-contest-ssb/var/ri-3.l-L1"  ><span class='evoet_c2 evoet_cx '><span class='evoet_dayblock evcal_cblock ' data-bgcolor='#1e3e95' data-smon='Februar' data-syr='2026' data-bub=''><span class='evo_start  evofxdrc'><em class='year'>2026</em><em class='date'>20</em><em class='month'>Feb</em><em class='time'><i t="y">(Feb 20)</i>22:00</em></span><span class='evo_end  evofxdrc'><em class='date'>22</em><em class='time'><i t="y">(Feb 22)</i>22:00</em></span></span></span><span class='evoet_c3 evoet_cx evcal_desc hide_eventtopdata '><span class='evoet_title evcal_desc2 evcal_event_title ' itemprop='name'>CQWW 160-Meter Contest SSB</span><span class='evoet_cy evoet_subtitle evo_below_title' ><span class='evcal_event_subtitle ' >FC-Contest</span></span></span><span class='evoet_data' data-d="{&quot;loc.n&quot;:&quot;&quot;,&quot;orgs&quot;:[],&quot;tags&quot;:{&quot;repeating&quot;:&quot;Repeating Event&quot;}}" data-bgc="#1e3e95" data-bggrad="" ></span></a></p><div class='clear end'></div></div></div>			</div>
+			</div><!-- evo_events_list_box -->	
+			<div class='clear'></div>
+					 	<div id='evcal_footer' class='evo_bottom' style='display:none'>
+		 		<div class='evo_cal_data' data-sc="{&quot;accord&quot;:&quot;no&quot;,&quot;bottom_nav&quot;:&quot;no&quot;,&quot;cal_id&quot;:&quot;&quot;,&quot;cal_init_nonajax&quot;:&quot;no&quot;,&quot;calendar_type&quot;:&quot;list&quot;,&quot;ep_fields&quot;:&quot;&quot;,&quot;etc_override&quot;:&quot;no&quot;,&quot;evc_open&quot;:&quot;no&quot;,&quot;event_count&quot;:0,&quot;event_location&quot;:&quot;all&quot;,&quot;event_order&quot;:&quot;ASC&quot;,&quot;event_organizer&quot;:&quot;all&quot;,&quot;event_parts&quot;:&quot;no&quot;,&quot;event_past_future&quot;:&quot;all&quot;,&quot;event_status&quot;:&quot;all&quot;,&quot;event_tag&quot;:&quot;all&quot;,&quot;event_type&quot;:&quot;all&quot;,&quot;event_type_2&quot;:&quot;all&quot;,&quot;event_virtual&quot;:&quot;all&quot;,&quot;eventtop_date_style&quot;:0,&quot;eventtop_style&quot;:&quot;0&quot;,&quot;exp_jumper&quot;:&quot;no&quot;,&quot;exp_so&quot;:&quot;no&quot;,&quot;filter_relationship&quot;:&quot;AND&quot;,&quot;filter_show_set_only&quot;:&quot;no&quot;,&quot;filter_style&quot;:&quot;default&quot;,&quot;filter_type&quot;:&quot;default&quot;,&quot;filters&quot;:&quot;yes&quot;,&quot;fixed_month&quot;:&quot;12&quot;,&quot;fixed_year&quot;:&quot;2025&quot;,&quot;focus_end_date_range&quot;:&quot;1772319599&quot;,&quot;focus_start_date_range&quot;:&quot;1764543600&quot;,&quot;ft_event_priority&quot;:&quot;no&quot;,&quot;hide_arrows&quot;:&quot;no&quot;,&quot;hide_cancels&quot;:&quot;no&quot;,&quot;hide_empty_months&quot;:&quot;yes&quot;,&quot;hide_end_time&quot;:&quot;no&quot;,&quot;hide_et_dn&quot;:&quot;no&quot;,&quot;hide_et_extra&quot;:&quot;no&quot;,&quot;hide_et_tags&quot;:&quot;no&quot;,&quot;hide_et_tl&quot;:&quot;no&quot;,&quot;hide_ft&quot;:&quot;no&quot;,&quot;hide_ft_img&quot;:&quot;no&quot;,&quot;hide_month_headers&quot;:&quot;no&quot;,&quot;hide_mult_occur&quot;:&quot;no&quot;,&quot;hide_past&quot;:&quot;no&quot;,&quot;hide_past_by&quot;:&quot;ee&quot;,&quot;hide_so&quot;:&quot;no&quot;,&quot;ics&quot;:&quot;no&quot;,&quot;jumper&quot;:&quot;no&quot;,&quot;jumper_count&quot;:5,&quot;jumper_offset&quot;:&quot;0&quot;,&quot;lang&quot;:&quot;L1&quot;,&quot;layout_changer&quot;:&quot;no&quot;,&quot;livenow_bar&quot;:&quot;yes&quot;,&quot;mapformat&quot;:&quot;roadmap&quot;,&quot;mapiconurl&quot;:&quot;&quot;,&quot;maps_load&quot;:&quot;no&quot;,&quot;mapscroll&quot;:&quot;true&quot;,&quot;mapzoom&quot;:&quot;18&quot;,&quot;members_only&quot;:&quot;no&quot;,&quot;ml_priority&quot;:&quot;no&quot;,&quot;ml_toend&quot;:&quot;no&quot;,&quot;month_incre&quot;:0,&quot;number_of_months&quot;:&quot;3&quot;,&quot;only_ft&quot;:&quot;no&quot;,&quot;pec&quot;:&quot;&quot;,&quot;s&quot;:&quot;&quot;,&quot;search&quot;:&quot;&quot;,&quot;search_all&quot;:&quot;no&quot;,&quot;sep_month&quot;:&quot;yes&quot;,&quot;show_et_ft_img&quot;:&quot;no&quot;,&quot;show_limit&quot;:&quot;no&quot;,&quot;show_limit_ajax&quot;:&quot;no&quot;,&quot;show_limit_paged&quot;:1,&quot;show_limit_redir&quot;:&quot;&quot;,&quot;show_repeats&quot;:&quot;no&quot;,&quot;show_search&quot;:&quot;no&quot;,&quot;show_upcoming&quot;:0,&quot;show_year&quot;:&quot;yes&quot;,&quot;social_share&quot;:&quot;no&quot;,&quot;sort_by&quot;:&quot;sort_date&quot;,&quot;tile_bg&quot;:0,&quot;tile_bg_size&quot;:&quot;full&quot;,&quot;tile_count&quot;:2,&quot;tile_height&quot;:0,&quot;tile_style&quot;:0,&quot;tiles&quot;:&quot;no&quot;,&quot;ux_val&quot;:&quot;4&quot;,&quot;view_switcher&quot;:&quot;no&quot;,&quot;wpml_l1&quot;:&quot;&quot;,&quot;wpml_l2&quot;:&quot;&quot;,&quot;wpml_l3&quot;:&quot;&quot;,&quot;yl_priority&quot;:&quot;no&quot;,&quot;yl_toend&quot;:&quot;no&quot;,&quot;fixed_day&quot;:&quot;26&quot;,&quot;_cver&quot;:&quot;4.9.6&quot;}" data-filter_data="[]" data-nav_data="{&quot;month_title&quot;:&quot;&lt;p id=&#039;evcal_cur&#039; class=&#039;evo_month_title padr10&#039;&gt; Dezember, 2025&lt;\/p&gt;&quot;,&quot;arrows&quot;:&quot;&lt;p class=&#039;evo_arrows&#039;&gt;\r\n\t\t\t\t\t&lt;span id=&#039;evcal_prev&#039; class=&#039;evcal_arrows evcal_btn_prev evodfx evofx_jc_c evofx_ai_c&#039; &gt;&lt;i class=&#039;fa fa-chevron-left&#039;&gt;&lt;\/i&gt;&lt;\/span&gt;\r\n\t\t\t\t\t&lt;span id=&#039;evcal_next&#039; class=&#039;evcal_arrows evo_arrow_next evcal_btn_next evodfx evofx_jc_c evofx_ai_c&#039; &gt;&lt;i class=&#039;fa fa-chevron-right&#039;&gt;&lt;\/i&gt;&lt;\/span&gt;\r\n\t\t\t\t\t&lt;\/p&gt;&quot;}" data-od="{&quot;lang_no_events&quot;:&quot;No Events&quot;,&quot;cal_tz_offset&quot;:60,&quot;cal_tz&quot;:&quot;Europe\/Berlin&quot;}" ></div>
+		 		<div class='evo_cal_events' data-events=""></div>
+		 	</div>
+				
+			
+						</div><!-- EventON End -->
+			</div></div>
+		</div><!--/.sidebar-content-->
+
+	</div><!--/.sidebar-->
+
+	
+
+        </div><!--/.main-inner-->
+      </div><!--/.main-->
+    </div><!--/.container-inner-->
+  </div><!--/.container-->
+    <footer id="footer">
+
+    
+    
+          <nav class="nav-container group" id="nav-footer" data-menu-id="footer-2" data-menu-scrollable="false">
+                      <!-- <div class="ham__navbar-toggler collapsed" aria-expanded="false">
+          <div class="ham__navbar-span-wrapper">
+            <span class="ham-toggler-menu__span"></span>
+          </div>
+        </div> -->
+        <button class="ham__navbar-toggler-two collapsed" title="Menu" aria-expanded="false">
+          <span class="ham__navbar-span-wrapper">
+            <span class="line line-1"></span>
+            <span class="line line-2"></span>
+            <span class="line line-3"></span>
+          </span>
+        </button>
+                    <div class="nav-text"></div>
+        <div class="nav-wrap">
+          <ul id="menu-footer-menue-deutsch" class="nav container group"><li id="menu-item-2912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2912"><a href="https://www.bavarian-contest-club.de/datenschutz/">Datenschutzerklärung</a></li>
+<li id="menu-item-2913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2913"><a href="https://www.bavarian-contest-club.de/impressum/">Impressum</a></li>
+</ul>        </div>
+      </nav><!--/#nav-footer-->
+    
+    <section class="container" id="footer-bottom">
+      <div class="container-inner">
+
+        <a id="back-to-top" href="#"><i class="fas fa-angle-up"></i></a>
+
+        <div class="hu-pad group">
+
+          <div class="grid one-half">
+                        
+            <div id="copyright">
+                <p>Bavarian Contest Club (BCC) &copy; 2025. Alle Rechte vorbehalten.</p>
+            </div><!--/#copyright-->
+
+            
+          </div>
+
+          <div class="grid one-half last">
+                      </div>
+
+        </div><!--/.hu-pad-->
+
+      </div><!--/.container-inner-->
+    </section><!--/.container-->
+
+  </footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hueman-pro/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="wfc-front-localized">var wfcFrontParams = {"effectsAndIconsSelectorCandidates":[],"wfcOptions":null};</script>          <script id="wfc-front-script">!function(){var e=wfcFrontParams.effectsAndIconsSelectorCandidates;var o,t,c,r,i=(r={},o=navigator.userAgent.toLowerCase(),(c={browser:(t=/(chrome)[ /]([\w.]+)/.exec(o)||/(webkit)[ /]([\w.]+)/.exec(o)||/(opera)(?:.*version|)[ /]([\w.]+)/.exec(o)||/(msie) ([\w.]+)/.exec(o)||o.indexOf("compatible")<0&&/(mozilla)(?:.*? rv:([\w.]+)|)/.exec(o)||[])[1]||"",version:t[2]||"0"}).browser&&(r[c.browser]=!0,r.version=c.version),r.chrome?r.webkit=!0:r.webkit&&(r.safari=!0),r),s="",a=0;for(var n in i)a>0||(s=n,a++);var f=document.querySelectorAll("body");f&&f[0]&&f[0].classList.add(s||"");try{!function(){for(var o in e){var t=e[o];if(t.static_effect){if("inset"==t.static_effect&&!0===i.mozilla)continue;var c=document.querySelectorAll(t.static_effect_selector);c&&c.forEach(function(e,o){e.classList.add("font-effect-"+t.static_effect)})}}}()}catch(e){window.console&&console.log&&console.log("Font customizer error => could not apply effects",e)}}();</script>
+        <div class='evo_elms'><em class='evo_tooltip_box'></em></div><div id='evo_global_data' data-d='{"calendars":[]}'></div><div id='evo_lightboxes' class='evo_lightboxes' style='display:none'>					<div class='evo_lightbox eventcard eventon_events_list' id='' >
+						<div class="evo_content_in">													
+							<div class="evo_content_inin">
+								<div class="evo_lightbox_content">
+									<div class='evo_lb_closer'>
+										<span class='evolbclose '>X</span>
+									</div>
+									<div class='evo_lightbox_body eventon_list_event evo_pop_body evcal_eventcard'> </div>
+								</div>
+							</div>							
+						</div>
+					</div>
+					</div><script src="https://www.bavarian-contest-club.de/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script id="hu-front-scripts-js-extra">
+var HUParams = {"_disabled":[],"SmoothScroll":{"Enabled":false,"Options":{"touchpadSupport":false}},"centerAllImg":"1","timerOnScrollAllBrowsers":"1","extLinksStyle":"1","extLinksTargetExt":"1","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"imgSmartLoadEnabled":"","imgSmartLoadOpts":{"parentSelectors":[".container .content",".post-row",".container .sidebar","#footer","#header-widgets"],"opts":{"excludeImg":[".tc-holder-img"],"fadeIn_options":100,"threshold":0}},"goldenRatio":"1.618","gridGoldenRatioLimit":"350","sbStickyUserSettings":{"desktop":true,"mobile":true},"sidebarOneWidth":"340","sidebarTwoWidth":"260","isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_up","mobile":"stick_up"},"mobileSubmenuExpandOnClick":"1","submenuTogglerIcon":"\u003Ci class=\"fas fa-angle-down\"\u003E\u003C/i\u003E","isDevMode":"","ajaxUrl":"https://www.bavarian-contest-club.de/?huajax=1","frontNonce":{"id":"HuFrontNonce","handle":"aa0eba2a68"},"isWelcomeNoteOn":"","welcomeContent":"","i18n":{"collapsibleExpand":"Erweitertes Men\u00fc","collapsibleCollapse":"Einklapp-Men\u00fc"},"deferFontAwesome":"","fontAwesomeUrl":"https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/css/font-awesome.min.css?1.4.29","mainScriptUrl":"https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/js/scripts.min.js?1.4.29","flexSliderNeeded":"","flexSliderOptions":{"is_rtl":false,"has_touch_support":true,"is_slideshow":false,"slideshow_speed":5000}};
+//# sourceURL=hu-front-scripts-js-extra
+</script>
+<script src="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/js/scripts.min.js?ver=1.4.29" id="hu-front-scripts-js" defer></script>
+<script src="//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/maps/eventon_gen_maps_none.js?ver=4.9.6" id="eventon_gmaps_blank-js"></script>
+<script src="//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/eventon_functions.js?ver=4.9.6" id="evcal_functions-js"></script>
+<script src="//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/lib/jquery.easing.1.3.js?ver=1.0" id="evcal_easing-js"></script>
+<script src="https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/lib/handlebars.js?ver=4.9.6" id="evo_handlebars-js"></script>
+<script src="https://meet.jit.si/external_api.js?ver=4.9.6" id="evo_jitsi-js"></script>
+<script src="//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/lib/jquery.mobile.min.js?ver=4.9.6" id="evo_mobile-js"></script>
+<script src="https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/lib/moment.min.js?ver=4.9.6" id="evo_moment-js"></script>
+<script src="https://www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/lib/moment_timezone_min.js?ver=4.9.6" id="evo_moment_tz-js"></script>
+<script src="//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/lib/jquery.mousewheel.min.js?ver=4.9.6" id="evo_mouse-js"></script>
+<script id="evcal_ajax_handle-js-extra">
+var the_ajax_script = {"ajaxurl":"https://www.bavarian-contest-club.de/wp-admin/admin-ajax.php","rurl":"https://www.bavarian-contest-club.de/wp-json/","postnonce":"f06a3bfbdb","ajax_method":"ajax","evo_v":"4.9.6"};
+var evo_general_params = {"ajaxurl":"https://www.bavarian-contest-club.de/wp-admin/admin-ajax.php","evo_ajax_url":"/?evo-ajax=%%endpoint%%","ajax_method":"endpoint","rest_url":"https://www.bavarian-contest-club.de/wp-json/eventon/v1/data?evo-ajax=%%endpoint%%","n":"f06a3bfbdb","nonce":"fb611e49bd","evo_v":"4.9.6","text":{"err1":"This field is required","err2":"Invalid email format","err3":"Incorrect Answer","local_time":"Local Time"},"html":{"preload_general":"\u003Cdiv class='evo_loading_bar_holder h100 loading_e swipe' style=''\u003E\u003Cdiv class='nesthold c g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_70px' style='width:50%; height:70px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_40px' style='width:100%; height:40px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_40px' style='width:100%; height:40px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_40px' style='width:100%; height:40px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_40px' style='width:100%; height:40px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E","preload_events":"\u003Cdiv class='evo_loading_bar_holder h100 loading_e swipe' style=''\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold r g10'\u003E\u003Cdiv class='nest nest2 e1'\u003E\u003Cdiv class='evo_loading_bar wid_100px hi_95px' style='width:100px; height:95px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest2 e2'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold r g10'\u003E\u003Cdiv class='nest nest2 e1'\u003E\u003Cdiv class='evo_loading_bar wid_100px hi_95px' style='width:100px; height:95px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest2 e2'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold r g10'\u003E\u003Cdiv class='nest nest2 e1'\u003E\u003Cdiv class='evo_loading_bar wid_100px hi_95px' style='width:100px; height:95px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest2 e2'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E","preload_event_tiles":"\u003Cdiv class='evo_loading_bar_holder h100 loading_e_tile swipe' style=''\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold  g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold  g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold  g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold  g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold  g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest1 e'\u003E\u003Cdiv class='nesthold  g'\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_55px' style='width:50%; height:55px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_90% hi_30px' style='width:90%; height:30px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E","preload_taxlb":"\u003Cdiv class='evo_loading_bar_holder h100 loading_taxlb swipe' style=''\u003E\u003Cdiv class='evo_loading_bar wid_50% hi_95px' style='width:50%; height:95px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_30% hi_30px' style='width:30%; height:30px; margin-bottom:30px;'\u003E\u003C/div\u003E\u003Cdiv class='nesthold r g10'\u003E\u003Cdiv class='nest nest2 e1'\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_150px' style='width:100%; height:150px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_150px' style='width:100%; height:150px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_95px' style='width:100%; height:95px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class='nest nest2 e2'\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_95px' style='width:100%; height:95px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_95px' style='width:100%; height:95px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_95px' style='width:100%; height:95px; '\u003E\u003C/div\u003E\u003Cdiv class='evo_loading_bar wid_100% hi_95px' style='width:100%; height:95px; '\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E","preload_gmap":"\n\t\t\u003Cspan class='evo_map_load_out evoposr evodb evobr15'\u003E\n\t\t\u003Ci class='fa fa-map-marker evoposa'\u003E\u003C/i\u003E\u003Cspan class='evo_map_load evoposr evodb'\u003E\t\t\t\t\t\n\t\t\t\t\t\u003Ci class='a'\u003E\u003C/i\u003E\n\t\t\t\t\t\u003Ci class='b'\u003E\u003C/i\u003E\n\t\t\t\t\t\u003Ci class='c'\u003E\u003C/i\u003E\n\t\t\t\t\t\u003Ci class='d'\u003E\u003C/i\u003E\n\t\t\t\t\t\u003Ci class='e'\u003E\u003C/i\u003E\n\t\t\t\t\t\u003Ci class='f'\u003E\u003C/i\u003E\n\t\t\t\t\u003C/span\u003E\u003C/span\u003E"},"cal":{"lbs":"def","lbnav":false,"is_admin":false}};
+//# sourceURL=evcal_ajax_handle-js-extra
+</script>
+<script src="//www.bavarian-contest-club.de/wp-content/plugins/eventON/assets/js/eventon_script.js?ver=4.9.6" id="evcal_ajax_handle-js"></script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"requestUrl":"https://www.bavarian-contest-club.de/wp-json/wp-statistics/v2","ajaxUrl":"https://www.bavarian-contest-club.de/wp-admin/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"404","source_id":0,"search_query":"","signature":"69987eedeb3815c766ca11a566df50b0","endpoint":"hit"},"option":{"dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"userOnline":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":""},"isLegacyEventLoaded":"","customEventAjaxUrl":"https://www.bavarian-contest-club.de/wp-admin/admin-ajax.php?action=wp_statistics_custom_event&nonce=6f7c2f959f","onlineParams":{"wp_statistics_hit":1,"source_type":"404","source_id":0,"search_query":"","signature":"69987eedeb3815c766ca11a566df50b0","action":"wp_statistics_online_check"},"jsCheckTime":"60000"};
+//# sourceURL=wp-statistics-tracker-js-extra
+</script>
+<script src="https://www.bavarian-contest-club.de/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.16" id="wp-statistics-tracker-js"></script>
+<script src="https://www.bavarian-contest-club.de/wp-content/plugins/halfdata-green-forms/js/leform.min.js?ver=1.56" id="leform-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.bavarian-contest-club.de/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.bavarian-contest-club.de/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<!--[if lt IE 9]>
+<script src="https://www.bavarian-contest-club.de/wp-content/themes/hueman-pro/assets/front/js/ie/respond.js"></script>
+<![endif]-->
+
+<script>
+	var leform_ajax_url = "https://www.bavarian-contest-club.de/wp-admin/admin-ajax.php";
+	var leform_overlays = {"leform-12":["rgba(255, 255, 255, 0.7)","on","#ff5722","#ff9800","#ffc107"],"none":["","","",""]};
+	var leform_ga_tracking = "off";
+</script></body>
+</html>

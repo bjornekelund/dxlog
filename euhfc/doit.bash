@@ -2,18 +2,23 @@
 ZIPFILE=DXLog.zip
 OUTFILE=EUHFC_db.txt
 
-echo Downloading $ZIPFILE
+rm -f $ZIPFILE
+curl -sS https://euhf.s5cc.eu/history_files/DXLog.zip -O
 
-wget -q https://euhf.s5cc.eu/history_files/DXLog.zip -O $ZIPFILE
-
-echo Unzipping $ZIPFILE
-
-unzip -q -o $ZIPFILE
-
-unix2dos -q $OUTFILE
-
-echo Created $OUTFILE
-
-../copytosourcetree.bash $OUTFILE
+if [ ! -s $ZIPFILE ]; then
+    echo "ERROR! Download of $ZIPFILE failed. Aborting."
+    exit 1
+else
+    echo Downloaded $ZIPFILE, unzipping...
+    unzip -q -o $ZIPFILE
+    unix2dos -q $OUTFILE
+    if [ ! -s $OUTFILE ]; then
+        echo "ERROR! $OUTFILE not present in  $ZIPFILE. Aborting."
+        exit 1
+    else
+        echo Created $OUTFILE
+        ../copytosourcetree.bash $OUTFILE
+    fi
+fi
 
 exit
