@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2025-12-18
+# LastEdit,2025-12-24
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -5928,6 +5928,7 @@ W4FC,Paul,SC,Greenville SC
 W4FCG,OJ,FL,Florida Contest Group
 W4FKM,Claude,TN,Bristol TN
 W4FLN,Frank,FL,Cape Coral FL
+W4FMM,Bob,3353,CT
 W4FO,Pat,FL,Hudson FL
 W4FOA,Tony,229,Chickamauga GA
 W4FS,Tucker,NC,Efland NC
@@ -5937,6 +5938,7 @@ W4GFA,George,SC,Walhalla SC
 W4GJ,Bob,FL,Gainesville FL
 W4GNS,Gary,VA,Penhook VA
 W4GS,Jason,SC,Grand Strand ARC
+W4HDW,Dave,3854,Virginia Beach VA
 W4HG,Wayne,494,Salisbury NC
 W4HOZ,Read,MS,Lucedale MS
 W4HXH,Dennis,FL,Port Saint Lucie FL
@@ -6339,6 +6341,7 @@ W9CSX,Tom,IN,Whiteland IN
 W9CWO,Fred,1881,(KG9X) Central CWops Club Woodstock
 W9DCA,Dave,IL,Knoxville IL
 W9EBE,Chip,1906,De Soto IL
+W9EN,John,AZ,
 W9EO,Eric,1894,Monrovia CA
 W9FHA,John,IN,Evansville IN
 W9FML,Carrie,WI,Baldwin WI
@@ -6709,6 +6712,7 @@ WI2C,John,NY,Center Moriches NY
 WI2E,Joe,PA,Easton PA
 WI4P,John,AL,Alexander City AL
 WI5ARD,Russ,LA,Bush LA
+WI5D,Steve,3853,Parkville MO
 WI6T,Rex,CO,Centennial CO
 WI6X,Jim,3482,Irvine CA
 WI9P,Reed,3483,Shoreview MN

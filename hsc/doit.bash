@@ -2,13 +2,28 @@
 DBFILE=HSC_db.txt
 XDTFILE=hsc.xdt
 
-curl -s https://hsc.dj1yfk.de/db/HSC_db.txt --output $DBFILE
+rm -f $XDTFILE
 curl -s https://hsc.dj1yfk.de/db/hsc.xdt --output $XDTFILE
+unix2dos -q $XDTFILE
 
-echo Downloaded $DBFILE and $XDTFILE
+if [ ! -s "$XDTFILE" ]; then
+    echo "ERROR! $XDTFILE download failed"
+    exit 1
+else
+    echo "Downloaded $XDTFILE"
+    cp $XDTFILE ../xdt
+fi
 
-cp $XDTFILE ../xdt
+rm -f $DBFILE
+curl -s https://hsc.dj1yfk.de/db/HSC_db.txt --output $DBFILE
+unix2dos -q $DBFILE
 
-../copytosourcetree.bash $DBFILE
+if [ ! -s "$DBFILE" ]; then
+    echo "ERROR! $DBFILE download failed"
+    exit 1
+else
+    echo "Downloaded $DBFILE"
+    ../copytosourcetree.bash $DBFILE
+fi
 
 exit

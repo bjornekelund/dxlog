@@ -4,11 +4,12 @@ OLDFILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
 WEBFILE=CQMMWEB.txt
 OUTFILE=CQMM_db.txt
 
+rm -f $WEBFILE
 echo Downloading $WEBFILE
 
 wget -q https://site.cwjf.com.br/membros-exportcsv -O $WEBFILE
 
-if [ ! -s "filename.txt" ]; then
+if [ ! -s "$WEBFILE" ]; then
     echo "ERROR! Web file is empty or doesn't exist"
     exit 1
 fi

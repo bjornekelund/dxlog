@@ -1,6 +1,6 @@
 # MARCONI CLUB ARI LOANO members database
 # Based on data from http://www.ariloano.it/marconiclub
-# Last updated 2025-12-19
+# Last updated 2025-12-26
 3B8CF=MC284
 3B8DB=MC539
 9A1AA=MC892
@@ -156,6 +156,7 @@ EA5CZ=MC149
 EA5ND=MC213
 EA7GF=MC567
 EA8DOX=MC429
+EI2KA=MC1000
 EI8JX=MC822
 F1LAW=MC295
 F2CW=MC122

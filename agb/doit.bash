@@ -1,14 +1,20 @@
 #!/bin/bash
-INFILE=agb-list.txt
+WEBFILE=agb-list.txt
 OUTFILE=AGB_db.txt
 
-echo Downloading $INFILE
+rm -f $WEBFILE
+echo Downloading $WEBFILE
 
-curl -sS http://ev5agb.com/club/agb-list.txt -o $INFILE
+curl -sS http://ev5agb.com/club/agb-list.txt -o $WEBFILE
 
-dos2unix -q $INFILE
+if [ ! -s "$WEBFILE" ]; then
+    echo "ERROR! Web file is empty or doesn't exist"
+    exit 1
+fi
 
-gawk -f agb.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+dos2unix -q $WEBFILE
+
+gawk -f agb.awk $WEBFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

@@ -1,15 +1,29 @@
 #!/bin/bash
-OUTFILE=FOC_db.txt
+DBFILE=FOC_db.txt
 XDTFILE=foc.xdt
 
-curl -s https://foc.telegraphy.de/db/FOC_db.txt --output $OUTFILE
+rm -f $XDTFILE
 curl -s https://foc.telegraphy.de/db/foc.xdt --output $XDTFILE
+unix2dos -q $XDTFILE
 
-echo "Downloaded FOC_db.txt and foc.xdt"
-unix2dos -q $XDTFILE $OUTFILE
+if [ ! -s "$XDTFILE" ]; then
+    echo "ERROR! $XDTFILE download failed"
+    exit 1
+else
+    echo "Downloaded foc.xdt"
+    cp $XDTFILE ../xdt
+fi
 
-cp $XDTFILE ../xdt
+rm -f $DBFILE
+curl -s https://foc.telegraphy.de/db/FOC_db.txt --output $DBFILE
+unix2dos -q $DBFILE
 
-../copytosourcetree.bash $OUTFILE
+if [ ! -s "$DBFILE" ]; then
+    echo "ERROR! $DBFILE download failed"
+    exit 1
+else
+    echo "Downloaded $DBFILE"
+    ../copytosourcetree.bash $DBFILE
+fi
 
 exit

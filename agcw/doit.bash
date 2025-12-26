@@ -1,14 +1,20 @@
 #!/bin/bash
-INFILE=Mitglieder.csv
+WEBFILE=Mitglieder.csv
 OUTFILE=AGCW_db.txt
 
-echo Downloading $INFILE
+rm -f $WEBFILE
+echo Downloading $WEBFILE
 
-curl -sS https://www.agcw.de/wp-content/persist/Mitglieder.csv -o $INFILE
+curl -sS https://www.agcw.de/wp-content/persist/Mitglieder.csv -o $WEBFILE
 
-dos2unix -q $INFILE
+if [ ! -s "$WEBFILE" ]; then
+    echo "ERROR! Web file is empty or doesn't exist"
+    exit 1
+fi
 
-cat $INFILE | sed 's/Ø/0/g' | sed 's/ //g' | gawk -f agcw.awk | sort | sed 's/#. /# /g' > $OUTFILE
+dos2unix -q $WEBFILE
+
+cat $WEBFILE | sed 's/Ø/0/g' | sed 's/ //g' | gawk -f agcw.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

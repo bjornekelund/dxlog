@@ -197,6 +197,9 @@ DA1A,Uwe
 DK3YD,Hans
 DN3YD,Hans
 DK4AA,Flo
+DK4EE,Louis
+DM0A,Louis
+D4W,Louis
 DK4VW,Ulli
 DK4WA,Andy
 DK4WW,Uwe
@@ -404,6 +407,7 @@ DP6A,Dieter
 DN1OH,Dieter
 DL8RB,Ruben
 DL8RDL,Lenz
+DA2N,Lenz
 EI6JY,Lenz
 DN6JY,Lenz
 DL8TG,Klaus
