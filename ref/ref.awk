@@ -14,7 +14,7 @@ BEGIN {
     printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
   } else {
     exch = ($col ~ /^[1-9]$/) ? "0" $col : $col;
-    if ($1 ~ /^[0-9A-Z/]+$/ && exch ~ /^(F[YRTSPOMKGHJW]|[0-9][0-9]|2[AB])$/) {
+    if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && exch ~ /^(F[YRTSPOMKGHJW]|[0-9][0-9]|2[AB])$/) {
       if (lines[$1] != "") {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }

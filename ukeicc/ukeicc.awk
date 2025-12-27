@@ -14,7 +14,7 @@ BEGIN {
   else {
     call = $1;
     grid = $col;
-    if (call ~ /^[0-9A-Z/]+$/ && grid ~ /^[A-Ra-r]{2}[0-9]{2}[A-Xa-x]{2}$/) {
+    if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && grid ~ /^[A-Ra-r]{2}[0-9]{2}[A-Xa-x]{2}$/) {
       if (calls[$1] != "") {
         if (grids[$1] != grid)
           printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";

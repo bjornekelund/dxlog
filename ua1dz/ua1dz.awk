@@ -13,7 +13,7 @@ BEGIN {
     if ($5 ~ /Loc1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^[0-9A-Z/]+$/ && ($col ~ /^[A-R]{2}[0-9]{2}$/ || $col ~ /^(LO|SP)/)) {
+  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && ($col ~ /^[A-R]{2}[0-9]{2}$/ || $col ~ /^(LO|SP)/)) {
     if (lines[$1] != "") {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }

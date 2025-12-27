@@ -1,6 +1,6 @@
 # RCPW members database based on http://rcpw.ru/members.html
 # Contains members up to #0
-# Last updated 2025-05-03
+# Last updated 2025-12-27
 R3CF=PW1
 EU4DGC=PW2
 EW6CC=PW3
@@ -288,7 +288,7 @@ US4LPX=PW296
 RA9FBK=PW297
 RA4NFK=PW298
 R6AW=PW299
-РЕЗЕРВ=PW300
+PE3EPB=PW300
 R7KA=PW301
 RA3NC=PW302
 RO5F=PW303

@@ -1,6 +1,6 @@
 # UK EI CC database with six-position grids
 # Data collected and maintained by Tim EI2KA
-# Last updated 2024-08-24
+# Last updated 2025-12-27
 2E0CZE=IO80HV
 2E0DSQ=IO92JP
 2E0DYH=JO01HT
