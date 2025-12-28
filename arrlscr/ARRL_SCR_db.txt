@@ -1,7 +1,7 @@
 # ARRL School Club Roundup prefill database
 # Based on call history data maintained by VE2FK ve2fk@arrl.net
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-16
+# Last updated 2025-12-28
 AA0A=I;MO
 AA0AA=I;NE
 AA0AW=I;MN
@@ -253,7 +253,6 @@ AB4MT=I;AL
 AB4SF=I;VA
 AB4VT=I;GA
 AB4Z=I;NC
-AB50R=I;MS
 AB5FS=I;OK
 AB5GG=I;AR
 AB5JR=I;NM

@@ -8,20 +8,24 @@ BEGIN {
   max = 0;
 }
 {
-  if ($0 ~ "!!Order!!") {
+  if ($0 ~ "!!Order!!") 
+  {
     if ($3 ~ /Sect/) col = 2;
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> Exchange column is %d\n", $0, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /^[A-Z0-9]+$/) {
+  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Z0-9]+$/) 
+  {
     printf("%s=%s\n", $1, $col);
-    if (length($col) > max) {
+    if (length($col) > max) 
+    {
       longest = $col;
       max = length($col);
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $col != "") {
+  else if ($0 !~ /^(!|#|$)/ && $col != "") 
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

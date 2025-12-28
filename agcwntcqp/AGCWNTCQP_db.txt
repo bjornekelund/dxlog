@@ -1,6 +1,6 @@
 # AGCW-NTC Friendship QSO Party database
 # Based on call history data maintained by VE2FK
-# Last updated 2025-03-10
+# Last updated 2025-12-28
 # Report updates and corrections directly to ve2fk@arrl.net
 3A2LF=Claude;AGCW2048;
 3A2LV=Lionec;AGCW2064;
@@ -2881,7 +2881,6 @@ SV2UF=;AGCW1929;
 SV5DKL=;AGCW3235;
 SV9RNG=Pol;NTC42;
 SV9RPE=Dick;NTC210;
-SWL3977=Sebastian;AGCW3977;
 T94YT=Max;AGCW2561;
 TA2DA=Sabri;NTC231;
 TF8GX=Gulli;AGCW2700;

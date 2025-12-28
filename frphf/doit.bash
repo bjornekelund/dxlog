@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=FRPHF-001.txt
+INFILE=FRPHF-002.txt
 OUTFILE=FRPHF_db.txt
 
 echo Parsing $INFILE

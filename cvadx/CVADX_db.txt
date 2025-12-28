@@ -1,7 +1,7 @@
 # CVA DX prefill database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2024-08-16
+# Last updated 2025-12-28
 PP1AA=ES
 PP1AR=ES
 PP1BM=ES

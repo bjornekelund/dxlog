@@ -13,9 +13,12 @@ BEGIN {
 #    if ($3 == "YUK") exch = "YT";
 #    if ($3 == "NWT") exch = "NT";
 #    if ($3 == "PEI") exch = "PE";
-    printf("%s=%s\n", $1, exch);
+    if ($3 !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
+      printf("%s=%s\n", $1, exch);
+    }
   }
-  else if ($0 !~ /^(!|#|$)/ && $3 != "") {
+  else if ($0 !~ /^(!|#|$)/ && $3 != "") 
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
 }
