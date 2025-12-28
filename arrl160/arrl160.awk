@@ -15,7 +15,7 @@ BEGIN {
     }
   } else if (lines[$1] != "") {
     printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
-  } else if ($1 ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|4U1WB)|\/W[0-9]/ && $1 !~ /\/VE/) {
+  } else if ($1 ~ /^(A[A-L]|[KNW][A-Z]?[0-9]([A-Z]+|\/)|4U1WB)|\/W[0-9]$/ && $1 !~ /\/VE[0-9]$/) {
     if ($2 !~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/) {
       printf("Problem ARRL section: \"%s\"\n", $0) > "/dev/stderr";
     }

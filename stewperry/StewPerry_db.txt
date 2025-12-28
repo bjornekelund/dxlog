@@ -2,7 +2,7 @@
 # Also used for Makrothen, Maidenhead Mayhem, Russian 160m, Solar Eclipse QP, and CQ WW VHF contests
 # Data collected and maintained by VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Last updated 2025-12-27
+# Last updated 2025-12-28
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -6078,7 +6078,7 @@ KY5G=CN98
 KY5I=EN21
 KY7B=DM43
 KY7K=DM42
-KY7M=DM33
+KY7M=DM52
 KZ0US=EM37
 KZ1O=FN42
 KZ1X=FM05
@@ -7461,6 +7461,7 @@ NA5Q=EM30
 NA5U=EM12
 NA6O=CM97
 NA7D=DM43
+NA7TB=DM52
 NA8V=EN83
 NA8W=EN80
 NA9J=EN54

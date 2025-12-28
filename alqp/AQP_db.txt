@@ -1,6 +1,6 @@
 # Alabama QSO Party database
 # Based on call history data maintained by VE2FK
-# Last updated 2025-12-21
+# Last updated 2025-12-28
 # Report updates and corrections directly to ve2fk@arrl.net
 AA0AC=MN
 AA0AI=IA
@@ -191,8 +191,6 @@ AK6JX=CA
 AK9PL=IL
 AL2F=AK
 AL7PS=CA
-K04PRE=VA
-K06CKO=CO
 K0ACP=MI
 K0AP=KS
 K0ARZ=NE

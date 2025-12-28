@@ -8,7 +8,7 @@ BEGIN {
   call = toupper($1);
   name = $2;
   ID = toupper($3);
-  if (call ~ /^[A-Z0-9/]{3,}$/ && (name != "" || ID != "")) {
+  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (name != "" || ID != "")) {
 #    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr";    
     if (ID ~ /^ *$/) {
       if (call ~ /^3B9/) ID = "3B9";

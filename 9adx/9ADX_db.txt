@@ -1,6 +1,6 @@
 # 9A DX database
 # Based on call history data maintained by VE2FK
-# Last updated 2024-12-25
+# Last updated 2025-12-28
 # Report updates and corrections directly to ve2fk@arrl.net
 9A/KT3V=ZG
 9A/W3WM=ZG
