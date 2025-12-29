@@ -5,7 +5,7 @@ BEGIN {
   FS= "=";
 }
 {
-if ($1 !~ /^(U[RSTUVWXYZ]?|E[MNO])[0-9][ABCDEFGHIKLMNPQRSTVWXYZ]/ && $0 !~ /^(!|#|$)/)
+  if ($1 !~ /^(U[RSTUVWXYZ]?|E[MNO])[0-9][ABCDEFGHIKLMNPQRSTVWXYZ]/ && $0 !~ /^(!|#|$)/)
   {
     printf("%s\n", $0);
   }

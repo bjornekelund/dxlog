@@ -1,12 +1,9 @@
 BEGIN {
-  printf("# RCPW members database based on http://rcpw.ru/members.html\n");
-  printf("# Contains members up to #%d\n", last);
-  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
   FS=";";
   last = 0;
 }
 {
-  if ($1 ~ /^[0-9]+$/ && $2 ~ /^[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/) 
+  if ($1 ~ /^[1-9][0-9]*$/ && $2 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/) 
   {
     member[$1] = $2;
 	  if ($1 > last) last = $1;
@@ -18,6 +15,9 @@ BEGIN {
   }
 }
 END {
+  printf("#1 RCPW members database based on http://rcpw.ru/members.html\n");
+  printf("#2 Contains members up to #%d\n", last);
+  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (i = 1; i <= last; i++)
   {
     if (member[i] != "")

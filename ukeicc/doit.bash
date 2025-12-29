@@ -6,7 +6,8 @@ OUTFILE=UKEI80_db.txt
 echo Parsing $INFILE1 $INFILE2
 dos2unix -q $INFILE1 $INFILE2
 
-cat $INFILE1 "$INFILE2" | gawk -f ukeicc.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+# Parse newer file first to have precedence
+cat "$INFILE2" $INFILE1 | gawk -f ukeicc.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

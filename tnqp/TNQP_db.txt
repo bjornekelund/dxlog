@@ -1,7 +1,7 @@
 # Tennessee QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-25
+# Last updated 2025-12-29
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -212,8 +212,6 @@ AK9PL=IL
 AL2F=AK
 AL4DB=MADI
 AL7PS=CA
-K04PRE=VA
-K06CKO=CO
 K0ACP=MI
 K0AD=MN
 K0AP=KS
@@ -1451,6 +1449,7 @@ KO4TWQ=CHEA
 KO4VW=GA
 KO4Z=TIPT
 KO4ZWD=GA
+KO6CKO=CO
 KO6CZV=CA
 KO6EUM=CA
 KO6GTK=CA
@@ -2941,7 +2940,7 @@ WJ0B=KS
 WJ0W=ND
 WJ1U=NH
 WJ1X=CT
-WJ20=CANN
+WJ2O=CANN
 WJ4G=AL
 WJ9B=ID
 WJ9E=IN

@@ -1,5 +1,5 @@
 
-!!Order!!, Call, Name, 
+!!Order!!,Call,Name,
 # Database for WWFF Activations
 # Based on Logsearch database Top Operators by M0YMA/Andy
 # Created by SM0HEV/Jens
@@ -7,10 +7,10 @@
 # 
 # LastEdit,2023-08-09
 
-IK1GPG, MASSIMO
-EA2DT, MANUEL
+IK1GPG,MASSIMO
+EA2DT,MANUEL
 SP8LEP,ARTUR
-S58AL, AL
+S58AL,AL
 ON4ON,DANNY
 I5FLN,
 IW2NXI,GRACE
@@ -581,7 +581,7 @@ OH6MVI
 DH1PAL
 SP2RR
 4X4JU
-UR5XBH, VLAD
+UR5XBH,VLAD
 I1POR
 SP9MRP
 SP1ZZ

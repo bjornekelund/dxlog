@@ -20,5 +20,4 @@ else
     ../copytosourcetree.bash $OUTFILE
 fi
 
-
 exit

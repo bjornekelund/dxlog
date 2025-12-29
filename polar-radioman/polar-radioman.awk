@@ -7,16 +7,20 @@ BEGIN {
 {
   call = $1;
   number = $2;
-  if (call ~ /^[0-9A-Z/]+$/ && number ~ /^AC[0-9]+$/) {
-    if (lines[$1] != "") {
+  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && number ~ /^AC[0-9]+$/) 
+  {
+    if (lines[$1] != "") 
+    {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
-    else {
+    else 
+    {
       printf("%s=%s\n", call, number);
       lines[$1] = $0;
     }
   }
-  else if ($0 !~ /^(#|!|$)/) {
+  else if ($0 !~ /^(#|!|$)/) 
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

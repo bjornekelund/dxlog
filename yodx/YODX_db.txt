@@ -1,7 +1,7 @@
 # YO HF DX Contest database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-08-25
+# Last updated 2025-12-29
 YO2AA=HD
 YO2ADQ=TM
 YO2AMU=AR

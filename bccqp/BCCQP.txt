@@ -1,6 +1,5 @@
 ﻿# 
 # DXLog.net contest definition file 
-# Updated 2025-12-26
 #
 CONTESTNAME=BCC QSO Party
 CONTESTWEB=https://www.bavarian-contest-club.de/

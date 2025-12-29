@@ -5,20 +5,24 @@ BEGIN {
   col = 2;
 }
 {
-  if ($0 ~ "!!Order!!") {
+  if ($0 ~ /!!Order!!/) 
+  {
     if ($3 ~ /Name|NAME/) col = 2;
     if ($4 ~ /Name|NAME/) col = 3;
     if ($5 ~ /Name|NAME/) col = 4;
-      printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^[A-Z0-9]+$/ && $1 ~ /[0-9]+/ && $1 ~ /[A-Z]+/) 
+  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $1 ~ /[0-9]+/ && $1 ~ /[A-Z]+/) 
   {
     if (lines[$1] != "")
     {
       printf("Repeated: \"%s\" and \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
-    printf("%s=%s\n", $1, $col);
-    lines[$1] = $0;
+    else
+    {
+      printf("%s=%s\n", $1, $col);
+      lines[$1] = $0;
+    }
   }
   else if ($0 !~ /^(!|#|$)/) 
   {

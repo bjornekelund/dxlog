@@ -1,5 +1,5 @@
 # YU car registration code database file
-# Last updated 2025-11-23
+# Last updated 2025-12-29
 YT0A=BG
 YT0ED=BG
 YT0I=LE

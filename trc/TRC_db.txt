@@ -1,7 +1,7 @@
 # TRC members database
 # Data collected and maintained by LZ1ONK and VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-27
+# Last updated 2025-12-29
 2E0ATB=TRC
 2E0CVN=TRC
 2E0EAY=TRC
@@ -779,6 +779,7 @@ IT9IMJ=TRC
 IT9ORA=TRC
 IT9RRU=TRC
 IT9RZU=TRC
+IU0HMB=TRC
 IU0PVM=TRC
 IU1JHT=TRC
 IU1PSQ=TRC

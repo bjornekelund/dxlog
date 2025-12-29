@@ -7,7 +7,7 @@ BEGIN {
   col = 2;
 }
 {
-  if ($1 == "!!Order!!") 
+  if ($1 == /!!Order!!/) 
   {
     if ($3 ~ /Sect/) col = 2;
     if ($4 ~ /Sect/) col = 3;

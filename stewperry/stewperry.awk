@@ -7,7 +7,7 @@ BEGIN {
   FS=","
 }
 {
-  if ($0 ~ "!!Order!!")
+  if ($0 ~ /^!!Order!!/)
   {
     if ($3 ~ /Loc1/) loc = 2;
     if ($4 ~ /Loc1/) loc = 3;

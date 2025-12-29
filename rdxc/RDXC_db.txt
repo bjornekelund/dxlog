@@ -1,7 +1,7 @@
 # RDXC irregular exchanges prefill database
 # Contains only prefill that differs from DXLog's rule based Oblast prefill
 # Based on data maintained by VE2FK with contributions from NA3M
-# Last updated 2025-03-05
+# Last updated 2025-12-29
 R0/KE5JA=SL
 R0/N6TCZ=PK
 R0AIB/3=VR

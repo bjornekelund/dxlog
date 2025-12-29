@@ -6,10 +6,20 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^[0-9A-Z]{5,7}$/) {
-    printf("%s=%s\n", $1, $2);
+  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^[0-9A-Z]{5,7}$/) 
+  {
+    if (lines[$1] != "") 
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr"
+    }
+    else 
+    {
+      printf("%s=%s\n", $1, $2);
+      lines[$1] = $0;
+    }
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#|$)/) 
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
 }

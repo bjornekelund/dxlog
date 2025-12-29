@@ -6,9 +6,20 @@ BEGIN {
   printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~/^[BCDFGJKLMOPRSUWZ]$/)
-    printf("%s=%s\n", $1, $2);
+  if ($1 ~ /^(SP\/[A-Z0-9]+|(3Z|HF|S[NOPQ]))[0-9]{1,4}[A-Z]{1,4}(\/[1-9PM])?$/ && $2 ~/^[BCDFGJKLMOPRSUWZ]$/)
+  { 
+    if (lines[$1] != "")
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+    }
+    else
+    {
+      lines[$1] = $0;
+      printf("%s=%s\n", $1, $2);
+    }
+  }
   else if ($0 !~ /^(!|#|$)/)
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+  }
 }
-END { }
