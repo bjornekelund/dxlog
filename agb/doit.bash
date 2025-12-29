@@ -2,8 +2,8 @@
 WEBFILE=agb-list.txt
 OUTFILE=AGB_db.txt
 
-# rm -f $WEBFILE
-# curl -sS http://ev5agb.com/club/$WEBFILE -O
+rm -f $WEBFILE
+curl -sS http://ev5agb.com/club/$WEBFILE -O
 
 if [ ! -s $WEBFILE ]; then
     echo "ERROR! Download of $WEBFILE failed. Aborting."

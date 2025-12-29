@@ -63,7 +63,6 @@ DF3VM,Mike
 DM5I,Mike
 KK7CW,Mike
 DF4SA,Con
-DF4XX,Kurt
 DF5MA,Andreas
 DF6RI,Dr. Alfred
 DF8DX,Bodo
@@ -215,7 +214,6 @@ DK5TT,Jörn
 DK5TX,Ulf
 DK6AH,Andreas
 DK6CQ,Otto
-DK6NP,Peter
 DK6QX,Kurt
 DK6SP,Philipp
 DK6WL,Helmut
@@ -410,6 +408,7 @@ DL8RDL,Lenz
 DA2N,Lenz
 EI6JY,Lenz
 DN6JY,Lenz
+N6JYL,Lenz
 DL8TG,Klaus
 DM4G,Klaus
 DL8UAT,Andreas
