@@ -1,7 +1,7 @@
 # INQP, DEQP, 7QP, and NEWEQP joint database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-23
+# Last updated 2025-12-29
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -2971,7 +2971,6 @@ WE9R=WI
 WF1B=FL
 WF3T=KY
 WF4K=GA
-WF60=NVCHU
 WF7L=WAASO
 WG0A=MN
 WG3J=SDE

@@ -24,7 +24,7 @@ BEGIN {
     printf("\"%s\" --> mcol is %d\n", $0, mcol) > "/dev/stderr";
     printf("\"%s\" --> scol is %d\n-\n", $0, scol) > "/dev/stderr";
   } 
-  else if ($0 ~ /^[A-Z0-9]/ && $0 !~ /\//) {
+  else if ($1 ~ /^[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/) {
     calls[$1] = $1;
     if (scol != 0 && $scol ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) {
       state[$1] = $scol;
@@ -33,7 +33,7 @@ BEGIN {
       member[$1] = $mcol;
     }
   }
-  else if ($0 !~ /^(#|!|$)/) {
+  else if ($0 !~ /^(#|!|$)/ && $1 !~ /\//) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

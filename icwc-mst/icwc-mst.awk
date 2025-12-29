@@ -9,8 +9,10 @@ BEGIN {
   longest = "";
 }
 {
-  if ($0 ~ /^(!|#|$)/) { ##
-    if ($0 ~ "^!!Order!!") {
+  if ($0 ~ /^(!|#|$)/) 
+  {
+    if ($0 ~ "^!!Order!!") 
+    {
       if ($2 ~ /Name/) col = 1;
       if ($3 ~ /Name/) col = 2;
       if ($4 ~ /Name/) col = 3;
@@ -21,18 +23,23 @@ BEGIN {
   }
   else if (line[$call] != "")
     printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
-  else if ($call ~ /^[0-9,A-Z]/ && $col ~ /^[A-Za-z]+$/) {
-    if (length($col) > length(longest)) {
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/) 
+  {
+    if (length($col) > length(longest)) 
+    {
       longest = $col;
     }
     printf("%s=%s\n", $call, toupper($col));
     line[$call] = $0;
   }
-  else {
-    if ($col != "") {
+  else 
+  {
+    if ($col != "") 
+    {
       printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
     }
-    else {
+    else 
+    {
 #      printf("Missing name: \"%s\"\n", $0) > "/dev/stderr";
     }
   }

@@ -1,7 +1,7 @@
 # INDEXA Wordlwide QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2023-09-02
+# Last updated 2025-12-29
 2M0VGT=M;
 4S6RYD=M;
 7K2SER=M;
@@ -6031,7 +6031,6 @@ KI1U=;CT
 KI2D=;NY
 KI2G=;FL
 KI2P=;NJ
-KI30=;VA
 KI3C=;VA
 KI3DS=;MD
 KI3O=;VA
@@ -10856,7 +10855,6 @@ VE9DX=N;NB
 VE9FX=N;NB
 VE9GLF=N;NB
 VE9HF=N;NB
-VE9M85A=N;NB
 VE9ML=N;NB
 VE9MY=N;NB
 VE9OA=N;NB
@@ -10898,7 +10896,6 @@ VY1MB=N;YT
 VY2CC=N;PE
 VY2LI=N;PE
 VY2SS=N;PE
-VYIJA=N;YT
 W0A=;IA
 W0AA=;MN
 W0AAE=;MN

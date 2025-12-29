@@ -1,4 +1,4 @@
-SOURCE=racsorted2025.txt
+SOURCE=rac-sorted2025.txt
 DEST=regex-rac2025.txt
 
 echo Using $SOURCE

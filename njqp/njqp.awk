@@ -7,7 +7,7 @@ BEGIN {
   state = 2;
 }
 {
-  if ($0 ~ "!!Order!!") 
+  if ($0 ~ /!!Order!!/) 
   {
     if ($3 ~ /Exch1|State/) state = 2;
     if ($4 ~ /Exch1|State/) state = 3;
@@ -15,9 +15,9 @@ BEGIN {
     printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
   } 
   else if (\
-    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CT|CO|DC|DE|FL|GA|HI|ID|IL|IA|IN|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) || \
-    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]|\/W[0-9]$/ && $state ~ /^(ATLA|BERG|BURL|CAPE|CMDN|CUMB|ESSE|GLOU|HUDS|HUNT|MERC|MIDD|MONM|MORR|OCEA|PASS|SALE|SOME|SUSS|UNIO|WRRN)$/) || \
-    ($1 ~ /^V[A-EOXY]|\/VE[0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
+    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CT|CO|DC|DE|FL|GA|HI|ID|IL|IA|IN|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) || \
+    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(ATLA|BERG|BURL|CAPE|CMDN|CUMB|ESSE|GLOU|HUDS|HUNT|MERC|MIDD|MONM|MORR|OCEA|PASS|SALE|SOME|SUSS|UNIO|WRRN)$/) || \
+    ($1 ~ /^V[A-EOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$1] != "") 
     {
@@ -29,7 +29,7 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $state != "NJ") {
+  else if ($0 !~ /^(!|#|$)/) {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

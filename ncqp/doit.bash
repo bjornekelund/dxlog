@@ -3,7 +3,7 @@ INFILE=`ls QSOP_* | tail -1 2> /dev/null`
 OUTFILE=NCQP_db.txt
 
 echo Parsing $INFILE
-dos2unix $INFILE
+dos2unix -q $INFILE
 
 gawk -f ncqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 
