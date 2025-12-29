@@ -23,5 +23,3 @@ BEGIN {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
 }
-END {
-}
