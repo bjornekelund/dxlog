@@ -9,7 +9,7 @@ if [ ! -s $WEBFILE ]; then
     echo "ERROR! Download of member roster failed. Aborting."
     exit 1
 else
-    echo Downloaded $WEBFILE
+    echo Downloaded $WEBFILE, parsing...
     dos2unix -q $WEBFILE
 
     cat $WEBFILE | sed 's/Ø/0/g' | sed 's/ //g' | gawk -f agcw.awk | sort | sed 's/#. /# /g' > $OUTFILE

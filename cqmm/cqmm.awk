@@ -22,4 +22,3 @@ END {
   for (call in calls)
     printf("%s=%s\n", call, exchange[call]);
 }
-   
