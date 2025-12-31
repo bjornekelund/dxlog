@@ -8,7 +8,7 @@ BEGIN {
   longest = "";
 }
 {
-  if ($1 ~ "!!Order!!") 
+  if ($1 ~ /!!Order!!/) 
   {
     if ($3 ~ /State/) state = 2;
     if ($4 ~ /State/) state = 3;

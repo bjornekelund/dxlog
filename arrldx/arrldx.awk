@@ -25,8 +25,7 @@ BEGIN {
     lines[call] = $0;
     if ( \
       (call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-      (call ~ /^(V[A-EOXY]|C[FGJ])[0-9]([A-Z]+|\/)|\/V[EYO][0-9]$/ && state ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) \
-      ) 
+      (call ~ /^(V[A-EOY]|C[FGJ])[0-9]([A-Z]+|\/)|\/V[EYO][0-9]$/ && state ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/))
     {
           calls[call] = call;
           exchanges[call] = state;

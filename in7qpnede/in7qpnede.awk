@@ -6,16 +6,19 @@ BEGIN {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($0 ~ "!!Order!!") {
+  if ($1 ~ /!!Order!!/) 
+  {
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
-  else {
+  else 
+  {
     exch = $col
 
-    if (exch ~ /^[A-Z]{5}\/[A-Z]{3}$/) {
+    if (exch ~ /^[A-Z]{5}\/[A-Z]{3}$/) 
+    {
       exch = substr(exch, 0, 6) substr(exch, 0, 2) substr(exch, 7);
       printf("%s --> %s\n", $0, exch) > "/dev/stderr";
     }

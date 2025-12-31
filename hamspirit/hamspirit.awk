@@ -3,7 +3,7 @@ BEGIN {
   col = 1;
 }
 {
-  if ($0 ~ "!!Order!!") 
+  if ($1 ~ /!!Order!!/) 
   {
     if ($2 ~ /Sect/) col = 1;
     if ($3 ~ /Sect/) col = 2;

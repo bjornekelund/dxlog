@@ -7,7 +7,7 @@ BEGIN {
   bad = 0;
   if ($0 ~ /^(!|#|$)/) 
   {
-    if ($0 ~ "^!!Order!!") 
+    if ($1 ~ /!!Order!!/) 
     {
       if ($2 ~ /Name/) nm = 1;
       if ($3 ~ /Name/) nm = 2;
@@ -36,7 +36,7 @@ BEGIN {
         bad = 1;
       }
     }
-    else if (($cs ~ /^(V[A-EOXY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $cs !~ /\/W[0-9]$/)) 
+    else if (($cs ~ /^(V[A-EOY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $cs !~ /\/W[0-9]$/)) 
     {
       if (exch !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/) {
         printf("Problem exchange2: \"%s\"\n", $0) > "/dev/stderr";

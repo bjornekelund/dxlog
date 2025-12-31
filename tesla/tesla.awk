@@ -6,7 +6,7 @@ BEGIN {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($0 ~ /!!Order!!/)
+  if ($1 ~ /!!Order!!/)
   {
     if ($3 ~ /Loc1/) loc = 2;
     if ($4 ~ /Loc1/) loc = 3;

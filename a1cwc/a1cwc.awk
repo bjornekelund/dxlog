@@ -11,7 +11,7 @@ BEGIN {
   printf("Name length limit set to %d\n", limit) > "/dev/stderr";
 }
 {
-  if ($0 ~ "^!!Order!!") 
+  if ($1 ~ /!!Order!!/) 
   {
     if ($2 ~ /Name/) col = 1;
     if ($3 ~ /Name/) col = 2;

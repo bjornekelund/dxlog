@@ -7,7 +7,7 @@ BEGIN {
   col = 2;
 }
 {
-  if ($0 ~ "!!Order!!") 
+  if ($1 ~ /!!Order!!/) 
   {
     if ($3 ~ /Exch1|State/) col = 2;
     if ($4 ~ /Exch1|State/) col = 3;
@@ -17,10 +17,10 @@ BEGIN {
   else if (\
     ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(AL|AK|AR|AZ|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
     ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(ALL|AND|ATC|BAR|BOU|BRO|BRT|BUT|CHE|CHS|CHT|CHY|CLK|CLO|CLY|COF|COM|COW|CRA|DEC|DIC|DON|DOU|EDW|ELK|ELL|ELS|FIN|FOR|FRA|GEA|GLY|GOV|GRE|GRM|GRT|GRY|HAM|HAS|HOG|HPR|HVY|JAC|JEF|JEW|JOH|KEA|KIN|KIO|LAB|LAN|LCN|LEA|LIN|LOG|LYO|MCP|MEA|MGY|MIA|MIT|MOR|MRN|MSH|MTN|NEM|NEO|NES|NOR|OSA|OSB|OTT|PAW|PHI|POT|PRA|RAW|REN|REP|RIC|RIL|ROO|RSL|RUS|SAL|SCO|SED|SEW|SHA|SHE|SMI|SMN|STA|STE|STN|SUM|THO|TRE|WAB|WAL|WAS|WIC|WIL|WOO|WYA)$/) || \
-    ($1 ~ /^V[A-EOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) \
-    )
+    ($1 ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
-    if (lines[$1] != "") {
+    if (lines[$1] != "") 
+    {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
     else if ($col !~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)

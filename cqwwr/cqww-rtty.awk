@@ -15,7 +15,7 @@ BEGIN {
   } 
   else if (\
       ($1 ~ /^((A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|^4U1W|\/W[0-9]$)|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-      ($1 ~ /^V[A-EOXY][0-9]([A-Z]+|\/)|\/VE[0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NF|NS|NWT|NU|ON|PE|QC|SK|YT)$/) \
+      ($1 ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NF|NS|NWT|NU|ON|PE|QC|SK|YT)$/) \
     )
   {
     if ($state !~ /^(AB|BC|LB|MB|NB|NF|NS|NWT|NU|ON|PE|QC|SK|YT)$/)

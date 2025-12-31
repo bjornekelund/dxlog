@@ -7,7 +7,7 @@ BEGIN {
 }
 {
   if (($1 ~ /^(A[A-L]|[KNW][A-Z]?|4U)[0-9]|\/W[0-9]$/ && $3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) \
-    || ($1 ~ /^(V[A-EOXY]|C[FGJ]|X[LM])[0-9]|\/VE[0-9]$/ && $3 ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/)) 
+    || ($1 ~ /^(V[A-EOY]|C[FGJ]|X[LM])[0-9]|\/V[EOY][0-9]$/ && $3 ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/)) 
   {
     exch = $3;
 #    if ($3 == "YUK") exch = "YT";

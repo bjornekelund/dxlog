@@ -18,8 +18,8 @@ BEGIN {
     printf("%s --> col1=%d, col2=%d\n", $0, col1, col2) > "/dev/stderr";
   } 
   else if (( \
-      ($1 ~ /^(A[A-L]|K[A-Z]?|N[A-Z]?|W[A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col2 ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-      ($1 ~ /^V[A-EOXY][0-9]([A-Z]+|\/)/ && $col2 ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) \
+      ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col2 ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+      ($1 ~ /^V[A-EOY][0-9]([A-Z]+|\/)/ && $col2 ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) \
       ) && $col1 ~ /^[ISC]$/ ) 
   {
     if (lines[$1] != "") 

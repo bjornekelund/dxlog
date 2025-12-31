@@ -5,7 +5,8 @@ BEGIN {
   col = 2;
 }
 {
-  if ($0 ~ /!!Order!!/) {
+  if ($1 ~ /!!Order!!/) 
+  {
     if ($3 ~ /Name/) col = 2;
     if ($4 ~ /Name/) col = 3;
     if ($5 ~ /Name/) col = 4;

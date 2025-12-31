@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls YUDXC* | tail -1 2> /dev/null`
+INFILE=`ls YUDXC_2* | tail -1 2> /dev/null`
 OUTFILE=YUDXC_db.txt
 
 echo Parsing $INFILE

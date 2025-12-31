@@ -7,33 +7,31 @@ BEGIN {
   col = 2;
 }
 {
-  if ($0 ~ "!!Order!!") {
+  if ($1 ~ /!!Order!!/) 
+  {
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
-  else {
-    if (\
-      ($1 ~ /^(A[A-L]|K[A-Z]?|N[A-Z]?|W[A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-      ($1 ~ /^(V[A-EOXY]|X[LM])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(NS|ON|MB|SK|AB|BC|NT|NB|NL|NU|YT|PE)$/) || \
-      ($1 ~ /^(V[A-EOXY]|X[LM])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ)(\/(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ))?$/) \
-      )
+  else if (\
+    ($1 ~ /^(A[A-L]|K[A-Z]?|N[A-Z]?|W[A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+    ($1 ~ /^(V[A-EOY]|X[LM])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(NS|ON|MB|SK|AB|BC|NT|NB|NL|NU|YT|PE)$/) || \
+    ($1 ~ /^(V[A-EOY]|X[LM])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ)(\/(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ))?$/) )
+  {
+    if (lines[$1] != "") 
     {
-      if (lines[$1] != "") 
-      {
-        printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
-      }
-      else if ($col !~ /^(NS|ON|MB|SK|AB|BC|NT|NB|NL|NU|YT|PE)$/)
-      {
-        printf("%s=%s\n", $1, $col);
-        lines[$1] = $0;
-      }
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
-    else if ($0 !~ /^(!|#|$)/ && $col != "") 
+    else if ($col !~ /^(NS|ON|MB|SK|AB|BC|NT|NB|NL|NU|YT|PE)$/)
     {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+      printf("%s=%s\n", $1, $col);
+      lines[$1] = $0;
     }
-  } 
-}
+  }
+  else if ($0 !~ /^(!|#|$)/ && $col != "") 
+  {
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+  }
+} 
 

@@ -11,7 +11,7 @@ BEGIN {
 {
   if ($0 ~ /^(!|#|$)/) 
   {
-    if ($0 ~ "^!!Order!!") 
+    if ($1 ~ /!!Order!!/) 
     {
       if ($2 ~ /Name/) col = 1;
       if ($3 ~ /Name/) col = 2;
@@ -22,7 +22,9 @@ BEGIN {
     } 
   }
   else if (line[$call] != "")
+  {
     printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+  }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/) 
   {
     if (length($col) > length(longest)) 

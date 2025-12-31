@@ -21,7 +21,7 @@ BEGIN {
       if ($statcol !~ /^(|AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC|GU|MH|MP|PR|VI)$/) {
         printf("Problem state/territory: \"%s\"\n", $0);
       }
-    } else if ($1 ~ /^(V[A-EOXY]|C[F-K]|CY)|\/(V[A-EOXY][0-9])$/) {
+    } else if ($1 ~ /^(V[A-EOY]|C[F-K]|CY)|\/(V[EOY][0-9])$/) {
       if ($sectcol !~ /^(|AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/) {
         printf("Problem RAC section: \"%s\"\n", $0) > "/dev/stderr";
       }
