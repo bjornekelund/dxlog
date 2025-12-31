@@ -1,7 +1,7 @@
 # ARRL RTTY database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-28
+# Last updated 2025-12-31
 4U1WB=DC
 AA0A=MO
 AA0AI=IA
@@ -4186,7 +4186,7 @@ KD2UTL=NY
 KD3CN=PA
 KD3EM=PA
 KD3RF=PA
-KD3TB=PA
+KD3TB=DE
 KD3UC=GA
 KD3UY=MD
 KD4ACG=FL

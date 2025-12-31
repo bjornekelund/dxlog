@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,State,UserText,
 # ARRLRTTY
 # FTROUNDUP
-# Last Edit,2025-12-28
+# Last Edit,2025-12-31
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn/SM7IUN. 
@@ -4190,7 +4190,7 @@ KD2UTL,,NY,
 KD3CN,,PA,
 KD3EM,,PA,
 KD3RF,,PA,
-KD3TB,,PA,
+KD3TB,Irwin,DE,
 KD3UC,,GA,
 KD3UY,,MD,
 KD4ACG,,FL,

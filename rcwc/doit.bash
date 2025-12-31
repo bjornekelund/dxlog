@@ -17,19 +17,8 @@ else
     unix2dos -q $OUTFILE
     echo Created $OUTFILE
 
-    ../copytosourcetree.bash $OUTFILE
+    if [ -s ../copytosourcetree.bash ]; then
+        ../copytosourcetree.bash $OUTFILE
+    fi
 fi
-exit
-
-
-exit
-echo Parsing $INFILE
-dos2unix -q $INFILE
-
-
-echo Created $OUTFILE
-unix2dos -q $OUTFILE
-
-../copytosourcetree.bash $OUTFILE
-
 exit

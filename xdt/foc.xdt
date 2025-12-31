@@ -34,7 +34,6 @@
 5H2JD        1612 John (K1JD)
 5H3TW        1177 Tom (K3TW)
 5P8X         2225 Harald (OZ8X)
-5Q2A         2099 Kim (OZ2A)
 5R8AL        2189 Alain
 5R8GC        1708 Baldur (DJ6SI)
 5R8HA        1513 Phil (G3SWH)
@@ -71,7 +70,6 @@
 8P9AA        1740 Yuri (VE3DZ)
 8P9AL        1740 Yuri (VE3DZ)
 8P9HT        1121 John (K4BAI)
-8P9IF        1778 Bob (G3PJT)
 8P9NX        1896 Peter (W0SA)
 8P9OX        2014 Bob (GU4YOX)
 8P9PE        2179 Rudi (DK7PE)
@@ -170,7 +168,6 @@ CK3LYC       1994 Cezar (VE3LYC)
 CK3TM        2174 Vlad (VE3TM)
 CK3USP       2010 Pista (VE3USP)
 CK3VA        1753 Jeff (VE3VA)
-CK7CC        1544 Lee (VE7CC)
 CN2MF        1634 Mike (KC7V)
 CN2OA        1174 Mike (F3OA)
 CN2YM        2238 Andy (DL3YM)
@@ -238,7 +235,6 @@ DU7ET        2097 Bob
 DXped        2024 Iain (M0PCB)
 E51BUO       1486 Dave (G4BUO)
 E51LYC       1994 Cezar (VE3LYC)
-E51PJT       1778 Bob (G3PJT)
 EA2AJB       2153 Andres
 EA4BB        2054 Nando
 EA6BF        2182 Josep
@@ -277,7 +273,6 @@ FW2CW        2106 Jacky (ZL3CW)
 FW5N         2106 Jacky (ZL3CW)
 G0AYN        2257 Ian
 G0BQV        1677 Mary
-G0EFO        2068 Mike
 G0GKH        1939 Dave
 G0HFL        2171 Nick (G5NIK)
 G0IBN        2048 Andy
@@ -293,7 +288,6 @@ G3BA         1893 Bob
 G3BJ         2006 Don
 G3CWA        1956 Harry
 G3FRR        2095 Pete (G0PNM)
-G3HEJ        1698 Derek
 G3J          1649 Mike (G4RMV)
 G3LDI        2037 Roger
 G3MCK        1639 Gerald
@@ -303,7 +297,6 @@ G3NKS        1573 Derek
 G3OLB        1816 Tom
 G3P          2019 Mike (G3WPH)
 G3PDH        1794 Mal
-G3PJT        1778 Bob
 G3PQD        1834 Derek
 G3ROO        1918 Ian
 G3RTE        1225 Jim
@@ -352,13 +345,11 @@ G4FNL        1631 Graham
 G4GA         2000 John (G4IRN)
 G4HMC        1934 David
 G4HZV        1568 Bob
-G4IFB        1912 Gary (ZL2IFB)
 G4IIY        2015 Ian
 G4ILW        2112 James
 G4IRN        2000 John
 G4IZZ        2210 Mike
 G4LFU        2091 Tony
-G4OKT        2137 Keith (GW4OKT)
 G4PCE        2236 Richard
 G4RCG        1899 John
 G4RMV        1649 Mike
@@ -368,7 +359,6 @@ G4WQI        2107 Dean
 G4ZVJ        1564 Andy (5Z4VJ)
 G5AZI        1159 Pete (W1RM)
 G5BTU        1150 Frank (W3LPL)
-G5CH         2137 Keith (GW4OKT)
 G5DPG        1159 Pete (W1RM)
 G5LP         1757 Lionel
 G5NIK        2171 Nick
@@ -394,7 +384,6 @@ GB4RS        2014 Bob (GU4YOX)
 GB60ANT      1998 Gavin (GM3GAV)
 GB85FOC      2171 Nick (G5NIK)
 GD3NKC       1991 David (G3NKC)
-GI3PDN       1839 Ray
 GK0PNM       2095 Pete (G0PNM)
 GK3VMK       1332 Dale (G3VMK)
 GM0GAV       1998 Gavin (GM3GAV)
@@ -418,7 +407,6 @@ GM4ZUK       2201 Allan
 GM5A         1430 Rob (GM3YTS)
 GM5CX        1430 Rob (GM3YTS)
 GQ0BQV       1677 Mary (G0BQV)
-GQ0EFO       2068 Mike (G0EFO)
 GQ0GKH       1939 Dave (G0GKH)
 GQ0HKS       2176 Will (GM0HKS)
 GQ0IBN       2048 Andy (G0IBN)
@@ -430,14 +418,11 @@ GQ2NF        1777 Tony (G2NF)
 GQ3BJ        2006 Don (G3BJ)
 GQ3CWA       1956 Harry (G3CWA)
 GQ3GAV       1998 Gavin (GM3GAV)
-GQ3HEJ       1698 Derek (G3HEJ)
 GQ3LDI       2037 Roger (G3LDI)
 GQ3MCK       1639 Gerald (G3MCK)
 GQ3NKC       1991 David (G3NKC)
 GQ3NKS       1573 Derek (G3NKS)
 GQ3PDH       1794 Mal (G3PDH)
-GQ3PDN       1839 Ray (GI3PDN)
-GQ3PJT       1778 Bob (G3PJT)
 GQ3POI        831 Clive (GM3POI)
 GQ3PQD       1834 Derek (G3PQD)
 GQ3ROO       1918 Ian (G3ROO)
@@ -473,7 +458,6 @@ GQ4DRS       2245 John (G4DRS)
 GQ4EVS       2060 David (GM4EVS)
 GQ4FAD       1997 Rich (G4FAD)
 GQ4FNL       1631 Graham (G4FNL)
-GQ4FOC       2137 Keith (GW4OKT)
 GQ4HBG       2246 Iain (GM4HBG)
 GQ4HMC       1934 David (G4HMC)
 GQ4HZV       1568 Bob (G4HZV)
@@ -484,7 +468,6 @@ GQ4IZZ       2210 Mike (G4IZZ)
 GQ4KGK       2208 Norman (GM4KGK)
 GQ4LFU       2091 Tony (G4LFU)
 GQ4MM        2218 Tim (GW4MM)
-GQ4OKT       2137 Keith (GW4OKT)
 GQ4PCE       2236 Richard (G4PCE)
 GQ4RCG       1899 John (G4RCG)
 GQ4RMV       1649 Mike (G4RMV)
@@ -508,13 +491,9 @@ GU4YOX       2014 Bob
 GW0HFL       2171 Nick (G5NIK)
 GW3KGV       1309 Ken
 GW3WVG       2233 Ian (G3WVG)
-GW4D         2137 Keith (GW4OKT)
 GW4MM        2218 Tim
-GW4OKT       2137 Keith
 GW4VXE       2218 Tim (GW4MM)
-GW5CH        2137 Keith (GW4OKT)
 GW8DX        2067 Jack
-GW9T         2137 Keith (GW4OKT)
 GX0HRS       2140 Nigel (G4BSW)
 GX4GA        2000 John (G4IRN)
 H40D         1994 Cezar (VE3LYC)
@@ -575,7 +554,6 @@ K1AJ         1635 Bruce
 K1AR         1528 John
 K1BG         2083 Bruce
 K1DG         1801 Doug
-K1DJ         2249 Rich
 K1DW         2089 Dallas
 K1ESE        2079 John
 K1FOC        1966 Gary (W1EBM)
@@ -883,7 +861,6 @@ ON4RU        1493 Mar (OQ3R)
 ON7PQ        2144 Pat
 OQ3R         1493 Mar
 OU5E         2073 Jalmar (OZ8CW)
-OV2QRP       2099 Kim (OZ2A)
 OV7X         2192 Rene (DL2JRM)
 OX24KING     1376 Peter (OZ6XT)
 OX24QUEEN    1376 Peter (OZ6XT)
@@ -894,7 +871,6 @@ OY1CT        1668 Caen
 OZ/LA9SN/p   2225 Harald (OZ8X)
 OZ1JHM       2073 Jalmar (OZ8CW)
 OZ1LO        1205 Leif
-OZ2A         2099 Kim
 OZ4UN        1554 Paul
 OZ5DX        1211 Hans
 OZ60VHSC     2073 Jalmar (OZ8CW)
@@ -1057,14 +1033,12 @@ VE3LYC       1994 Cezar
 VE3TM        2174 Vlad
 VE3USP       2010 Pista
 VE3VA        1753 Jeff
-VE7CC        1544 Lee
 VE7SV        2103 Dale (CE2SV)
 VE9CB        2141 Dave (VE3KG)
 VG2EBI       1886 George (VA2EBI)
 VG3SB        2228 Serge (VA3SB)
 VK1A         1922 Bernd (VK2IA)
 VK1FOC       1922 Bernd (VK2IA)
-VK1MJ        1778 Bob (G3PJT)
 VK2BJ        1628 Barry
 VK2GR        2169 Allan
 VK2IA        1922 Bernd
@@ -1098,7 +1072,6 @@ VO1AU        2141 Dave (VE3KG)
 VO2AAA       2141 Dave (VE3KG)
 VP2EBB       2014 Bob (GU4YOX)
 VP2EFO       1186 Don (K8MFO)
-VP2EJT       1778 Bob (G3PJT)
 VP2EN        1266 Nigel (OE5TXF)
 VP2ERK       2179 Rudi (DK7PE)
 VP2MCW       2179 Rudi (DK7PE)
@@ -1131,7 +1104,6 @@ VX3LYC       1994 Cezar (VE3LYC)
 VX3TM        2174 Vlad (VE3TM)
 VX3USP       2010 Pista (VE3USP)
 VX3VA        1753 Jeff (VE3VA)
-VX7CC        1544 Lee (VE7CC)
 VY1CO        2253 Scott
 VY1JT        1067 Jim (N3JT)
 VY2IA        1740 Yuri (VE3DZ)
@@ -1211,10 +1183,8 @@ W8KJP        1665 Del
 W8KR         2134 Jack
 W8SR         2141 Dave (VE3KG)
 W8ZR         2056 Jim
-W9FOC        1840 Vic (W9RGB)
 W9KNI        1262 Bob
 W9MYD        2105 Ken (K5WK)
-W9RGB        1840 Vic
 W9SN         2186 Steve
 W9VNE        1104 Jim
 W9YXX        2039 Bob
@@ -1304,14 +1274,11 @@ ZL1MH        1608 Mike
 ZL25NZ       2106 Jacky (ZL3CW)
 ZL2AGY       1645 Tony
 ZL2AZ        1717 Pete
-ZL2IFB       1912 Gary
 ZL3CW        2106 Jacky
 ZM1A         2106 Jacky (ZL3CW)
 ZM1MH        1608 Mike (ZL1MH)
 ZM2AGY       1645 Tony (ZL2AGY)
-ZM2IFB       1912 Gary (ZL2IFB)
 ZM3CW        2106 Jacky (ZL3CW)
-ZM4G         1912 Gary (ZL2IFB)
 ZM6CL        1645 Tony (ZL2AGY)
 ZQ2CW        1617 Derek (ZB2CW)
 ZS1C         2012 Raoul

@@ -1,5 +1,4 @@
 #!/bin/bash
-OLDFILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
 WEBFILE=CQMMWEB.txt
 OUTFILE=CQMM_db.txt
 
@@ -10,17 +9,15 @@ if [ ! -s $WEBFILE ]; then
     echo "ERROR! Download of member roster failed. Aborting."
     exit 1
 else
-    echo Downloaded $WEBFILE
-    echo Parsing $OLDFILE and $WEBFILE
-    dos2unix -q $OLDFILE $WEBFILE
+    echo Downloaded $WEBFILE, parsing...
+    dos2unix -q $WEBFILE
 
     # Keep only non-members from old file
-    gawk 'BEGIN{FS=","}{if ($2 !~ /..M$/) {print $0}}' $OLDFILE > .temp
     # Clean up web file.
     # Remove Ø and double quotes  
     # Remove asterisks and spaces
     # Remove everything after the first space in the callsign field
-    cat .temp $WEBFILE |\
+    cat $WEBFILE |\
     sed -e 's/Ø/0/g' |\
     sed -e 's/ //g' |\
     sed -e 's/\*//g' |\

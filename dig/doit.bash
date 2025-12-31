@@ -17,7 +17,9 @@ else
     unix2dos -q $OUTFILE
     echo Created $OUTFILE
 
-    ../copytosourcetree.bash $OUTFILE
+    if [ -s ../copytosourcetree.bash ]; then
+        ../copytosourcetree.bash $OUTFILE
+    fi
 fi
 
 exit
