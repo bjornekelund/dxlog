@@ -10,6 +10,7 @@ gawk -f coqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.bash $OUTFILE
+ls ../copytosourcetree.bash 
+. ../copytosourcetree.bash $OUTFILE
 
 exit
