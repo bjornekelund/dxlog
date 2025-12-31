@@ -12,7 +12,6 @@ else
     echo Downloaded $WEBFILE, parsing...
     dos2unix -q $WEBFILE
 
-    # Keep only non-members from old file
     # Clean up web file.
     # Remove Ø and double quotes  
     # Remove asterisks and spaces
@@ -30,6 +29,8 @@ else
     unix2dos -q $OUTFILE
     echo $OUTFILE created
 
-    ../copytosourcetree.bash $OUTFILE
+    if [ -s ../copytosourcetree.bash ]; then
+      ../copytosourcetree.bash $OUTFILE
+    fi
 fi
 exit

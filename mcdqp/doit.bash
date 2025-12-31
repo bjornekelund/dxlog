@@ -14,9 +14,9 @@ else
     dos2unix -q $WEBFILE
     echo Parsing $WEBFILE
 
-  sed 's/ //g' $WEBFILE |\
-    iconv -f ISO-8859-1 -t ASCII//TRANSLIT |\
-    gawk -f mcdqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
+    sed 's/ //g' $WEBFILE |\
+      iconv -f ISO-8859-1 -t ASCII//TRANSLIT |\
+      gawk -f mcdqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
 
   echo Created $OUTFILE
   unix2dos -q $OUTFILE
