@@ -12,7 +12,8 @@ else
     echo Downloaded $INFILE, parsing...
 
     dos2unix -q $INFILE
-    cat $INFILE | sed 's/\"//g' | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/^\#. /\# /g' > $OUTFILE
+    cat $INFILE | sed 's/\"//g' | sed 's/\\N//g' > .temp
+    cat .temp | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo Created $OUTFILE

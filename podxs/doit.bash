@@ -13,7 +13,7 @@ else
 
     dos2unix -q $INFILE
 
-    sed 's/\"//g' $INFILE | gawk -f podxs.awk | sort | sed 's/#. /# /g' > $OUTFILE
+    sed 's/\"//g' $INFILE | gawk -f podxs.awk | sort | sed 's/#.. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo Created $OUTFILE

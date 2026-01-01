@@ -1,8 +1,8 @@
 BEGIN {
   FS=","
-  printf("#0 PODXS 070 members database\n");
-  printf("#1 Based on data from https://www.podxs070.com/member-files\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 PODXS 070 members database\n");
+  printf("#01 Based on data from https://www.podxs070.com/member-files\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($2 == "2EOKHP") $2="2E0KHP";

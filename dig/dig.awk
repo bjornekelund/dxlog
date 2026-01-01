@@ -1,15 +1,31 @@
 BEGIN {
   FS=","
-  printf("#0 DIG members database\n");
-  printf("#1 Based on official member roster at https://diplom-interessen-gruppe.info \n");
-  printf("#2 Updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 DIG members database\n");
+  printf("#01 Based on official member roster at https://diplom-interessen-gruppe.info \n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^[0-9]+$/ && $4 ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)
+  if ($1 ~ /^[0-9]+$/ && $4 ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/)
   {
+    basecall = $4;
+    memberid = $3;
+    
     printf("%s=%s\n", $4, $3);
+
+    if ($5 != "")
+    {
+      extra = split($5, words, " ")
+      for (i = 1; i <= extra; i++) 
+      {
+        if (words[i] ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/)
+        {
+          printf("%s=%s\n", words[i], $3);
+          printf("\$4=\"%s\" \$5=\"%s\" => words[%d]=\"%s\"\n", $4, $5, i, words[i]) > "/dev/stderr";
+        }
+      }
+    }
   }
-  else if ($4 !~ /SWL|\-/ && $4 !~ /[0-9]$/)
+  else if ($4 !~ /SWL|\-/ && $4 !~/[0-9]$/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
