@@ -1,6 +1,6 @@
 # RCWC member database based on data from https://rcwc.ru/?do=members
 # Contains members up to #1516
-# Last updated 2025-12-31
+# Last updated 2026-01-01
 4L1MA=CM919
 4L3T=CM919
 4L6QC=CM271
@@ -1201,7 +1201,6 @@ SP9AVR=CM1086
 SP9MDY=CM929
 SP9YFF=CM1274
 SQ1EIX=CM804
-SQ1PSA=CM774
 SQ3KO=CM1413
 SQ8LUV=CM347
 SQ9IWS=CM1224

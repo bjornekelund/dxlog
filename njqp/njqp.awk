@@ -29,7 +29,8 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#|$)/) 
+  {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

@@ -9,7 +9,8 @@ BEGIN {
   if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
     $2 ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/) 
   {
-    if (call[$1] != "") {
+    if (call[$1] != "") 
+    {
       if (exch[$1] != $2) 
       {
         printf("Conflict for call %s: %s and %s\n", $1, $2, exch[$1]) > "/dev/stderr";

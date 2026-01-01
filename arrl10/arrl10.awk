@@ -8,7 +8,8 @@ BEGIN {
 {
   if ($0 ~ /^(!|#|$)/) 
   {
-    if ($1 ~ /!!Order!!/) {
+    if ($1 ~ /!!Order!!/) 
+    {
       if ($3 ~ /State/) col = 2;
       if ($4 ~ /State/) col = 3;
       if ($5 ~ /State/) col = 4;
@@ -20,7 +21,7 @@ BEGIN {
     printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
   } 
   else if (($1 ~ /^(A[A-L]|K[A-Z]?|N[A-Z]?|W[A-Z]?)[0-9][A-Z]+|\/W[0-9]$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) \
-    || ($1 ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) \
+    || ($1 ~ /^V[A-EOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) \
     || ($1 ~ /^(XE|6D)[0-9]/ && $col ~ /^(AGS|BAC|BCS|CAM|CHI|CHH|CMX|COA|COL|DGO|EMX|GTO|GRO|HGO|JAL|MIC|MOR|NAY|NLE|OAX|PUE|QRO|QUI|SLP|SIN|SON|TAB|TAM|TLX|VER|YUC|ZAC)$/)) 
   {
     printf("%s=%s\n", $1, $col);

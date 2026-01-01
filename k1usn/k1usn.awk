@@ -31,14 +31,16 @@ BEGIN {
     }
     else if (($cs ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $cs !~ /\/V[EOY][0-9]$/)) 
     {
-      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/) {
+      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/) 
+      {
         printf("Problem exchange1: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
       }
     }
-    else if (($cs ~ /^(V[A-EOY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $cs !~ /\/W[0-9]$/)) 
+    else if (($cs ~ /^(V[A-EOXY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $cs !~ /\/W[0-9]$/)) 
     {
-      if (exch !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/) {
+      if (exch !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/) 
+      {
         printf("Problem exchange2: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
       } 
@@ -50,7 +52,8 @@ BEGIN {
     }
     if (!bad && ($2 != "" || exch != "")) 
     {
-      if (call[$1] != "") {
+      if (call[$1] != "") 
+      {
         printf("\"%s\" reoccurs as \"%s\"\n", line[$cs], $0) > "/dev/stderr";
       }
       line[$1] = $0;

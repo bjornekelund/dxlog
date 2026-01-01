@@ -26,7 +26,8 @@ BEGIN {
     namevalid = name ~ /^[A-Za-z]{2,}$/;
     ok = 0;
 
-    if (!namevalid && name != "" && $0 !~ /^(#|!|$)/) {
+    if (!namevalid && name != "" && $0 !~ /^(#|!|$)/) 
+    {
       printf("Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
       name = "";
     }

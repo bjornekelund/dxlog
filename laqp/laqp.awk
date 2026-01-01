@@ -18,7 +18,8 @@ BEGIN {
       ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(ACAD|ALLE|ASCE|ASSU|AVOY|BEAU|BIEN|BOSS|CADD|CALC|CALD|CAME|CATA|CLAI|CONC|DESO|EBR|ECAR|EFEL|EVAN|FRAN|GRAN|IBER|IBVL|JACK|JEFF|JFDV|LAFA|LAFO|LASA|LINC|LIVI|MADI|MORE|NATC|ORLE|OUAC|PCP|PLAQ|RAPI|REDR|RICH|SABI|SBND|SCHL|SHEL|SJAM|SJB|SLAN|SMAR|SMT|STAM|TANG|TENS|TERR|UNIO|VERM|VERN|WASH|WBR|WCAR|WEBS|WFEL|WINN)$/) || \
       ($1 ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
-    if (lines[$1] != "") {
+    if (lines[$1] != "") 
+    {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     }
     else if ($col !~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)

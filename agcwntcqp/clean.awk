@@ -2,10 +2,12 @@ BEGIN {
   FS=","
 }
 {
-  if ($0 ~ /^(#|!)/) {
+  if ($0 ~ /^(#|!)/) 
+  {
     printf("%s\n", $0);
   }
-  else {
+  else 
+  {
     callok = $1 ~ /^[0-9A-Z/]+$/;
     nameok = $2 ~ /^[A-Za-z]{2,10}$|^$/;
     longname = $2 ~ /^[A-Za-z]{11,}$|^$/;
@@ -15,40 +17,47 @@ BEGIN {
     secondok = $4 ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
     lenok = $6 == "";
     umlaut = $2 ~ /[éüöä]/;
-
-    if (nameok) {
+    if (nameok) 
+    {
       name = $2;
     }
-    else if (umlaut) {
+    else if (umlaut) 
+    {
       printf("Umlaut name: \"%s\" --> \"%s\"\n", $2, name) > "/dev/stderr";
       nameok = 1;
     }
-    else if (hyphenated) {
+    else if (hyphenated) 
+    {
       p = index($2, "-");
       name = substr($2, 1, p - 1);
       printf("Hyphenated name: \"%s\"\n", $0) > "/dev/stderr";
       nameok = 1;
     }
-    else if (double) {
+    else if (double) 
+    {
       p = index($2, " ");
       name = substr($2, 1, p - 1);
       printf("Double name: \"%s\"\n", $0) > "/dev/stderr";
       nameok = 1;
     }
-    else {
+    else 
+    {
       name = "";
     }
 
-    if (callok && firstok && secondok && lenok) {
+    if (callok && firstok && secondok && lenok) 
+    {
       printf("%s,%s,%s,%s\n", $1, name, $3, $4);
-      if (!nameok) {
+      if (!nameok) 
+      {
           if (longname)
             printf("Name longer than 10: \"%s\"\n", $0) > "/dev/stderr";
           else
             printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
       }
     }
-    else if ($0 !~ /^(!|#|$)/) {
+    else if ($0 !~ /^(!|#|$)/) 
+    {
       if (nameok)
         printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
       else

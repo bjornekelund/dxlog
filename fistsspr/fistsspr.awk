@@ -6,7 +6,7 @@ BEGIN {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 == "!!Order!!") 
+  if ($1 ~ /!!Order!!/) 
   {
     if ($2 ~ /Call/) callcol = 1; else
     if ($3 ~ /Call/) callcol = 2; else
@@ -30,7 +30,8 @@ BEGIN {
 
     printf("%s --> call=%d, mem=%d, name=%d, loc=%d\n", $0, callcol, memcol, namecol, loccol) > "/dev/stderr";
   }
-  else if ($0 !~ /^#/ && $callcol !~ /SWL/){
+  else if ($0 !~ /^#/ && $callcol !~ /SWL/)
+  {
       # printf("%s mem=%d $mem=%s\n", $callcol, memcol, $memcol) > "/dev/stderr";
 
     if (memcol > 0 && $memcol != "") member[$callcol] = $memcol;
@@ -45,15 +46,16 @@ BEGIN {
 # if (namecol > 0)
 #     printf("callsign[%s]=%s name[%s]=%s\n", $callcol, callsign[$callcol], $callcol, name[$callcol]) > "/dev/stderr";
 
-
-    # if (call ~ /^[0-9A-Z/]+$/ && mem ~ /^([0-9]{1,5}|)$/ && name ~ /^([A-Z]{2,})$/) {
+    # if (call ~ /^[0-9A-Z/]+$/ && mem ~ /^([0-9]{1,5}|)$/ && name ~ /^([A-Z]{2,})$/) 
+    # {
     #   printf("%s=%s;%s\n", call, name, mem);
     # }
-    # else if ($0 !~ /^(!|#|$)/) {
+    # else if ($0 !~ /^(!|#|$)/) 
+    # {
     #   printf("ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-END{
+END {
     for (call in callsign)
     {
       if (member[call] != "")

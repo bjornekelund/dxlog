@@ -1,7 +1,7 @@
 # ARRL Field Day database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-28
+# Last updated 2026-01-01
 2E0FHM=1D;DX
 4M1W=1D;DX
 6D5C=1E;DX
@@ -1167,7 +1167,6 @@ AL1G=1D;AK
 AL2F=1E;AK
 AL4B=1D;TN
 AL4US=3A;TN
-AL54S=4A;TN
 AL5K=1D;AK
 AL5P=1A;NTX
 AL6A=1D;AK

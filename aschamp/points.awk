@@ -8,11 +8,15 @@ BEGIN {
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
   printf("# Exchange range is from %s to %s\n", minlat minlong, maxlat maxlong);
   printf("#\n");
-  for (mylat = minlat; mylat <= maxlat; mylat++) {
-    for (mylong = minlong; mylong <= maxlong; mylong++) {
+  for (mylat = minlat; mylat <= maxlat; mylat++) 
+  {
+    for (mylong = minlong; mylong <= maxlong; mylong++) 
+    {
       myexch = mylat mylong;
-      for (lat = minlat; lat <= maxlat; lat++) {
-        for (long = minlong; long <= maxlong; long++) {
+      for (lat = minlat; lat <= maxlat; lat++) 
+      {
+        for (long = minlong; long <= maxlong; long++) 
+        {
           exch = lat long;
           latdiff = (lat < mylat) ? mylat - lat : lat - mylat;
           longdiff = (long < mylong) ? mylong - long : long - mylong;

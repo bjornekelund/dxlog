@@ -32,7 +32,8 @@ BEGIN {
 
     if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (state || prov || incty || sevencnty || necnty || decnty)) 
     {
-      if (lines[$1] != "") {
+      if (lines[$1] != "") 
+      {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
       }
       else if (!prov && exch !~ /\//)

@@ -8,9 +8,11 @@ BEGIN {
   call = toupper($1);
   name = $2;
   ID = toupper($3);
-  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (name != "" || ID != "")) {
+  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (name != "" || ID != "")) 
+  {
 #    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr";    
-    if (ID ~ /^ *$/) {
+    if (ID ~ /^ *$/) 
+    {
       if (call ~ /^3B9/) ID = "3B9";
       if (call ~ /^3DA/) ID = "3DA";
       if (call ~ /^4O/) ID = "4O";
@@ -115,34 +117,41 @@ BEGIN {
       if (call ~ /^Z[R-S]/) ID = "ZS";
     }
     if (ID != ID && ID != "")
+    {
       printf("Exchange is \"%s\" when it should be \"%s\" for %s\n", ID, ID, call) > "/dev/stderr";
+    }
 
     idvalid = ID ~ /^[1-9][0-9]{0,3}$|^CWA$|^[IGF]$|^3DA$|^9M[26]$|^VP2M$|^[0-9][A-Z]$|^[A-Z]{1,2}[0-9]?$/;
     problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
 
     namevalid = name ~ /^[A-Za-z]{1,}$/;
 
-    if (!namevalid && name != "") {
+    if (!namevalid && name != "") 
+    {
       printf("Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
       name = "";
     }
 
-    if ((!namevalid && !idvalid) || problemid || (!namevalid && ID !~ /^([0-9]+|[A-Z]{2})$/)) {
+    if ((!namevalid && !idvalid) || problemid || (!namevalid && ID !~ /^([0-9]+|[A-Z]{2})$/)) 
+    {
 #      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
       printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
-    else {
+    else 
+    {
       printf("%s=%s;%s\n", call, name, ID);
       max = (int(ID) > max) ? int(ID) : max;
-      if (length(name) > maxlen) {
+      if (length(name) > maxlen) 
+      {
         maxlen = length(name);
         maxname = name;
       }
 #      printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
     }
   }
-  else if ($0 !~ /^(#|!|$)/ && !(name == "" && ID == "")){
-      printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
+  else if ($0 !~ /^(#|!|$)/ && !(name == "" && ID == ""))
+  {
+    printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

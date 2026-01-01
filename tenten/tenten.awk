@@ -10,7 +10,8 @@ BEGIN {
 {
   if ($1 ~ /^[0-9A-Z/]+$/ && $2 ~ /^([a-zA-Z]*|)$/ && $3 ~ /^[A-Z]+|$/ && $4 ~ /^([0-9]*|)$/)
   {
-    if (calls[$1] != "") {
+    if (calls[$1] != "") 
+    {
       printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr"
     }
     calls[$1] = $1;

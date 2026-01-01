@@ -6,7 +6,8 @@ BEGIN {
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ "!!Order!!") {
+  if ($1 ~ /!!Order!!/) 
+  {
     if ($3 ~ /Exch1/) exch = 2;
     if ($4 ~ /Exch1/) exch = 3;
     if ($5 ~ /Exch1/) exch = 4;

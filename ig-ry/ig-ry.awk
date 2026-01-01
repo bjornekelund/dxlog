@@ -6,7 +6,7 @@ BEGIN {
   FS=","
 }
 {
-  if ($1 == "!!Order!!") 
+  if ($1 ~ /!!Order!!/) 
   {
     if ($3 ~ /State|Exch1/) col = 2;
     if ($4 ~ /State|Exch1/) col = 3;
