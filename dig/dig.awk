@@ -5,27 +5,27 @@ BEGIN {
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^[0-9]+$/ && $4 ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && $4 !~ /^DE/)
-  {
-    basecall = $4;
-    memberid = $3;
-    
-    printf("%s=%s\n", $4, $3);
+  memberid = $3;
+  basecall = $4;
+  other = $5;
+  if (memberid ~ /^[0-9]+$/ && basecall ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && basecall !~ /^DE/)
+  {    
+    printf("%s=%s\n", basecall, memberid);
 
-    if ($5 != "")
+    if (other != "")
     {
-      extra = split($5, words, " ")
-      for (i = 1; i <= extra; i++) 
+      count = split(other, othercall, " ")
+      for (i = 1; i <= count; i++) 
       {
-        if (words[i] ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && words[i] !~ /^DE/)
+        if (othercall[i] ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && othercall[i] !~ /^DE/)
         {
-          printf("%s=%s\n", words[i], $3);
-#          printf("\$4=\"%s\" \$5=\"%s\" => words[%d]=\"%s\"\n", $4, $5, i, words[i]) > "/dev/stderr";
+          printf("%s=%s\n", othercall[i], memberid);
+          # printf("$4=\"%s\" $5=\"%s\" => call[%d]=\"%s\"\n", $4, $5, i, call[i]) > "/dev/stderr";
         }
       }
     }
   }
-  else if ($4 !~ /SWL|\-/ && $4 !~ /^DE|[0-9]$/)
+  else if (basecall !~ /SWL|\-/ && basecall !~ /^DE|[0-9]$/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

@@ -1,7 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
-
 # CWOPS
-# LastEdit,2025-12-27
+# LastEdit,2026-01-02
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -785,7 +784,7 @@ E72U,Vedo,E7,Brcko Bosnia and Herzegovina
 E73ESP,RC,,(Club Stjepan Polje) Bosnia and Herzegovina
 E74A,Edin,,Bosnia and Herzegovina
 E74D,Nermin,,Zenica Bosnia & Herzegovina
-E74X,Veljko,T9,LJubija Bosnia and Herzegovina
+E74X,Veljko,,LJubija Bosnia and Herzegovina
 E77DX,Braco,,Bosna & Herzegovina
 E77EA,Dragan,E7,Banja Luka Bosnia and Herzegovina
 E77XZ,Suad,,near Zenica Bosnia and Herzegovina
@@ -1364,8 +1363,8 @@ IT9MUO,Alf,1569,Ribera Italy
 IT9RZU,Joe,,Sicily Isl. Italy
 IT9SSI,Dario,2137,(W1SSI) Capo d'Orlando Messina Italy
 IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
-IU0HMB,Vlado,,Tuscania Italy
-IU0HMB/M,Vlado,,Tuscania Italy
+IU0HMB,Vlado,,Tuscany Italy
+IU0HMB/M,Vlado,,Tuscany Italy
 IU0OUL,Valerio,,Roma Italy
 IU1MRY,Fabrizio,I,Omegna Italy
 IU2OZU,Marco,,Gessate Italy
@@ -1812,6 +1811,7 @@ K3AO,Serge,NH,Bedford NH
 K3ARC,Adam,TN,Apison TN
 K3ATO,Hal,2552,Reading PA
 K3AXR,Dell,MD,
+K3BEQ,Ray,,
 K3BEQ/3,Ray,,
 K3BLN,Gil,PA,Hellertown PA
 K3BR,Brad,SC,Bluffton SC
@@ -2642,7 +2642,7 @@ KB6K,Ron,CA,Cardiff
 KB6NU,Dan,1418,Ann Arbor MI (CWops Webmaster)
 KB7AZ,Carl,AZ,Tucson AZ
 KB7EIU,Dan,FL,Alford FL
-KB7G/KH6,ALEX,,
+KB7G/KH6,Alex,HI,
 KB7KP,Dave,UT,Pleasant View UT
 KB7N,Mark,WA,Redmond WA
 KB7Q,Gene,MT,Bozeman MT
@@ -3820,7 +3820,7 @@ N4CU,Bob,2302,Holt FL
 N4CW,Bert,671,Raleigh NC
 N4CWZ,Dave,2407,Germanton NC
 N4DD,Dennis,1000,Blountville TN
-N4DL,GARY,,Full time RV
+N4DL,Gary,,Full time RV
 N4DPM,Rich,2287,Crestview FL
 N4DR,Marc,MD,Rockville MD
 N4DT,Danny,1740,Spartanburg SC 
@@ -4470,7 +4470,7 @@ NP2J,Dan,KP2,Christiansted Virgin Islands
 NP2X,Fred,524,Christiansted VI
 NP2ZA,Zaba,1856,Jan 26 to Feb 5th
 NP3A,Eric,1112,San Juan PR
-NP3JD,Jose,,Guaynabo PR
+NP3JD,Jose,PR,Guaynabo PR
 NP3K,Abe,1238,(Charlie) Jacksonville FL
 NP4FW,Luigi,,Sanjuan PR
 NP4H,Nomar,1550,West New York NJ
@@ -5613,7 +5613,7 @@ W0BNW,Jim,IA,Boone IA
 W0BR,Bob,PA,Carlisle PA
 W0BV,Bob,753,Buena Vista CO
 W0CAR,John,3153,Englewood CO
-W0CCA,Cap,,(1381) Dolores CO
+W0CCA,Cap,1381,Dolores CO
 W0CD,Jim,KS,Ozawkie KS
 W0CO,Brad,1452,Pitkin CO
 W0CP,Walt,1752,Englewood CO
@@ -5901,7 +5901,7 @@ W4/G0TRT,Cie,3429,Orlando FL
 W4/LZ5KF,Claude,2326,(F5PBL)
 W4ALF,Chris,KY,Independence KY
 W4ANE,Jim,SC,Columbia SC
-W4ANT,Alan,,
+W4ANT,Alan,SC,
 W4AQL,Bruce,2297,(KN8U) Georgia Tech ARC Atlanta GA
 W4ARB,Aaron,3777,Notasulga AL
 W4AU,John,224,Hamilton VA
@@ -6313,7 +6313,6 @@ W8TU,Jim,MI,Plymouth MI
 W8TWF,Tim,3497,Waynesboro VA
 W8UA,Javan,2662,Rittman OH
 W8UE,Ted,MI,Ypsilanti MI
-W8UE/4,Ted,,
 W8UV,Phil,DE,Wilford DE
 W8UY,Terry,3626,Defiance OH
 W8VNZ,Mark,MI,Montrose MI
@@ -6328,7 +6327,6 @@ W8XE,Winford,WI,Germantown WI
 W8YA,Mark,MI,Highland MI
 W8ZDT,Kevin,MI,Clarkston MI
 W8ZR,Jim,NM,Santa Fe NM
-W9/CE2LR,Matt,WI,@ W9XY Montello WI
 W9AW,Motoaki,1014,HONOLULU HI
 W9BGJ,Brian,IN,Huntington IN
 W9BGW,Billy,IN,Crandall IN (Big Gray Wolf)
@@ -6386,7 +6384,7 @@ W9RNY,Mike,2199,Jacksonville IL
 W9SAU,Dan,IL,Chicago IL
 W9SE,John,IL,Normal IL
 W9SN,Steve,642,Allardt TN
-W9SN/M,Steve,TN,mobile
+W9SN/M,Steve,642,mobile
 W9SZ,Zack,731,Urbana IL
 W9TD,Gary,2998,Lake Villa IL
 W9UCR,Bob,1907,Cape Coral FL
@@ -6924,8 +6922,8 @@ YT1AA,Vema,,Paracin Serbia
 YT1E,Rod,,Lazarevac Serbia
 YT5FD,Slavko,,lajkovac Serbia
 YT5N,Mike,,Serbia
-YU6DX,Alex,YU,Novi Beograd Serbia
-YU7GM,Ivan,YU,
+YU6DX,Alex,,Novi Beograd Serbia
+YU7GM,Ivan,,
 YU7TBA,Balint,,Backa Topola Serbia
 Z31PM,Misop,3811,North Macedonia
 Z32U,Zoki,Z3,North Macedonia
@@ -6933,23 +6931,23 @@ Z33B,Kirk,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
 ZA/G4PVM,Paul,2413,Albania
 ZA1EM,Elvira,3076,Elbasan Albania
-ZA1F,Fatos,ZA,Tirana Albania
+ZA1F,Fatos,,Tirana Albania
 ZA1RR,Miri,3279,Tirana Albania
 ZB2CW,Derek,,Gibraltar
 ZB2FK,Ernie,3244,Gibraltar
 ZB2X,Jorma,144,Gibraltar
 ZD8W,Oli,,Ascension Island (W6NV)
+ZF1MA,Marty,2276,Waban MA
 ZF2AA,Mike,1347,VE9AA
-ZF2DO,Dave,TX,Alpine TX
+ZF2DO,Dave,,Alpine TX
 ZF2DX,Kevin,1293,Cayman Isl. (N5DX)
 ZF2ET,Stan,272,(K5GO)
 ZF2IN,Tim,1942,(N6WIN)
-ZF2LZ,Martin,MA,Waban MA
 ZF2MJ,Dan,2164,N6MJ
 ZF2NE,Joe,,Cayman Isl.
 ZF2RX,Bray,,(3158) (KC1KUG)
 ZF2SC,Scott,1698,Cayman Isl. (KA9P)
-ZF2SS,Bill,ZF,Cayman Brac
+ZF2SS,Bill,,Cayman Brac
 ZF2VE,Gerry,191,(W1VE) Cayman Isl.
 ZF9CW,Stan,272,(K5GO) Siloam Springs Cayman Islands
 ZL1BBW,Gavin,,Whangarei New Zealand
@@ -6959,9 +6957,9 @@ ZL2AIM,Ian,1174,RD1 Hikuai
 ZL2GVA,Gerard,3028,Blenheim New Zealand
 ZL2KE,Steve,1281,70km NE of Wellington
 ZL3CW,Jacky,3270,(F2CCW) Tauranga New Zealand
-ZL3XDJ,Brian,ZL,Waikouaiti New Zealand
+ZL3XDJ,Brian,,Waikouaiti New Zealand
 ZL4BDG,Ben,3382,Upper Hutt New Zeland
-ZL4TT,Paul,ZL,Oamaru
+ZL4TT,Paul,,Oamaru
 ZL4YY,Yannick,,Porirua New Zealand
 ZM4YY,Yannick,,Porirua New Zealand
 ZP9MCE,Manu,3103,Hohenau Paraguay

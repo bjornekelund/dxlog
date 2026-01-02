@@ -1,9 +1,11 @@
 #!/bin/bash
 
-FILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
-echo Scrubbing $FILE
-dos2unix -q $FILE
+FILE1=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
+FILE2=CQMMWEB.txt
 
-gawk -b -f scrub.awk $FILE
+echo Scrubbing $FILE1 $FILE2
+dos2unix -q $FILE1 $FILE2
+
+gawk -b -f scrub.awk $FILE1 $FILE2
 
 exit

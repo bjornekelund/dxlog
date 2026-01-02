@@ -1,7 +1,7 @@
 # ARRL 10m database - state or province for US, Canadian, and Mexican stations
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-28
+# Last updated 2026-01-02
 6D5C=JAL
 AA0A=MO
 AA0AA=NE
@@ -5148,6 +5148,7 @@ KL5GF=AK
 KL5NE=AK
 KL5Z=MS
 KL6C=AK
+KL7/N1TX=AK
 KL7AC=AK
 KL7AF=AK
 KL7AIR=AK
@@ -9281,6 +9282,7 @@ W2YC=NJ
 W2YE=VA
 W2YR=NJ
 W2ZV=NC
+W3/NH7C=MD
 W3ABT=PA
 W3ACO=IA
 W3ADC=PA
@@ -9459,6 +9461,9 @@ W3ZGD=PA
 W3ZI=VA
 W3ZV=PA
 W3ZZ=MD
+W4/KP2N=FL
+W4/KP4Y=FL
+W4/VU2VK=VA
 W4AA=FL
 W4AAA=NC
 W4AAW=VA

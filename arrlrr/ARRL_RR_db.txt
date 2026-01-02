@@ -1,6 +1,6 @@
 # ARRL Rookie Roundup database
 # Based on a mix of sources
-# Last updated 2025-12-22
+# Last updated 2026-01-02
 4U1WB=MASA;89;DC
 AA0A=DENNIS;60;MO
 AA0AC=DAVE;96;MN

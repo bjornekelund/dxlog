@@ -13,7 +13,7 @@ BEGIN {
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   }
-  else if ($1 ~ /^(A[A-L]|[KNW][A-Z]?[0-9]([A-Z]+|\/)|4U1WB)|\/W[0-9]$/ && $1 !~ /\/V[EOY][0-9]$/)
+  else if ($1 ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $1 !~ /\/V[EOY][0-9]$/)
   {
     if (lines[$1] != "") 
     {
@@ -29,7 +29,7 @@ BEGIN {
       lines[$1] = $0;
     }
   } 
-  else if ($1 ~ /^(V[A-EOXY]|C[F-KY])|\/(V[EOY][0-9]$)/) 
+  else if ($1 ~ /^(V[A-EOXY]|C[F-KY])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/) 
   {
     if (lines[$1] != "") 
     {
