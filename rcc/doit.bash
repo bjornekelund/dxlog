@@ -5,7 +5,7 @@ OUTFILE=RCC_db.txt
 dos2unix -q $INFILE
 echo Parsing $INFILE
 
-gawk -f rcc.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f rcc.awk $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

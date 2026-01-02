@@ -4,7 +4,8 @@ BEGIN {
   printf("#2 Data collected and maintained by VE2FK\n");
   printf("#3 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=","
+  FS = ","
+  loc = 3;
 }
 {
   if ($0 ~ /^!!Order!!/)

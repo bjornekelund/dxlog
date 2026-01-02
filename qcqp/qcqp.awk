@@ -15,9 +15,9 @@ BEGIN {
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
   else if (\
-    ($1 ~ /^(A[A-L]|K[A-Z]?|N[A-Z]?|W[A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-    ($1 ~ /^(V[A-EOY]|X[LM])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(NS|ON|MB|SK|AB|BC|NT|NB|NL|NU|YT|PE)$/) || \
-    ($1 ~ /^(V[A-EOY]|X[LM])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ)(\/(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ))?$/) )
+    ($1 ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $1 !~ /\/V[EOY][0-9]$/ && $col ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+    ($1 ~ /^(V[A-EOXY]|C[F-KY]|X[LM])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/ && $col ~ /^(NS|ON|MB|SK|AB|BC|NT|NB|NL|NU|YT|PE)$/) || \
+    ($1 ~ /^(V[A-EOXY]|C[F-KY]|X[LM])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/ && $col ~ /^(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ)(\/(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ))?$/) )
   {
     if (lines[$1] != "") 
     {
