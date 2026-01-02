@@ -1,10 +1,9 @@
 #!/bin/bash
-FILE=counties.txt
-OUTFILE1=mult-counties.txt
-OUTFILE2=regex-counties.txt
+INFILE=mult-counties.txt
+OUTFILE=regex-counties.txt
 
-echo Parsing $FILE
-dos2unix -q $FILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
 gawk '
 BEGIN {
@@ -17,9 +16,9 @@ BEGIN {
 }
 END {
   printf(")$\n");
-}' $OUTFILE1 | sed 's/|)/)/g' > $OUTFILE2
+}' $INFILE | sed 's/|)/)/g' > $OUTFILE
 
-echo Created $OUTFILE2
-unix2dos -q $OUTFILE2
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
 
 exit

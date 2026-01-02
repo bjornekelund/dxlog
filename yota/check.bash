@@ -4,7 +4,7 @@ FILE=YOTA_db.txt
 echo Parsing $FILE
 dos2unix -q $FILE
 
-gawk '
+gawk '\
 BEGIN {
   FS="="
 }

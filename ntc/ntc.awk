@@ -8,7 +8,17 @@ BEGIN {
   maxname = "";
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^(|[a-zA-Z]+$)/ && $3 ~ /^([0-9]+|NM)$/) 
+  if ($1 ~ /!!Order!!/)
+  {
+    if ($3 ~ /Exch1/) exch = 2;
+    if ($4 ~ /Exch1/) exch = 3;
+    if ($5 ~ /Exch1/) exch = 4;
+    if ($3 ~ /Name/) name = 2;
+    if ($4 ~ /Name/) name = 3;
+    if ($5 ~ /Name/) name = 4;
+    printf("%s --> exch=%d, name=%d\n", $0, exch, name) > "/dev/stderr";
+  } 
+  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $name ~ /^(|[a-zA-Z]+$)/ && $exch ~ /^([0-9]+|NM)$/) 
   {
     if (lines[$1] != "") 
     {
@@ -16,14 +26,14 @@ BEGIN {
     }
     else 
     {
-      sub(/^0+/, "", $3);
-      printf("%s=%s;%s\n", $1, $2, $3);
+      sub(/^0+/, "", $exch);
+      printf("%s=%s;%s\n", $1, $name, $exch);
       lines[$1] = $0;
     }
-    if (length($2) > maxlen) 
+    if (length($name) > maxlen) 
     {
-      maxlen = length($2);
-      maxname = $2;
+      maxlen = length($name);
+      maxname = $name;
     }
   }
   else if ($0 !~ /^(!|#|$)/)

@@ -1,7 +1,7 @@
 # Illinois QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-29
+# Last updated 2026-01-02
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1416,6 +1416,7 @@ KO4QZY=GA
 KO4VW=GA
 KO4YVV=TN
 KO4ZWD=GA
+KO6CKO=CO
 KO6CZV=CA
 KO6EUM=CA
 KO6GTK=CA

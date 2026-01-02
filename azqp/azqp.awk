@@ -9,9 +9,9 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/) 
   {
-    if ($3 ~ /Exch1/) state = 2;
-    if ($4 ~ /Exch1/) state = 3;
-    if ($5 ~ /Exch1/) state = 4;
+    if ($3 ~ /Exch1|State/) state = 2;
+    if ($4 ~ /Exch1|State/) state = 3;
+    if ($5 ~ /Exch1|State/) state = 4;
     printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
   } 
   else if ( \

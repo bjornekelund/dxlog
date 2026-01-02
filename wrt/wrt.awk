@@ -38,7 +38,8 @@ BEGIN {
       if (call ~ /^(A[A-L]|[KNW][A-Z]?)|\/W[0-9]$/)
       {
         if (call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && \
-          $ex ~ /^(|KP[234]|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) 
+          $ex ~ /^(|KP[234]|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/ && \
+          $ex !~ /VE[0-9]$/ )
         {
           printf("%s=%s;%s\n", call, name, $ex);
           ok = 1;

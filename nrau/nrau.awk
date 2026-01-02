@@ -1,9 +1,9 @@
 BEGIN {
   FS=","
-  printf("#0 NRAU Baltic Contest database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 NRAU Baltic Contest database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   col = 2;
 }
 {
@@ -14,7 +14,9 @@ BEGIN {
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^(HM|HR|IV|JG|JR|LN|LV|PL|PU|RP|SR|TA|TL|VC|VO|VP|AG|AK|BO|BU|FI|HO|IN|JA|MO|NO|OF|OS|RL|SV|TE|TR|XX|AT|KD|KI|KM|KN|MM|PA|PN|SI|SU|TG|TI|UT|VU|VV|AL|EK|EP|ES|KE|KL|KP|KT|KU|LA|PH|PK|PM|PO|PP|PS|SA|UU|VA|BH|KH|NJ|SJ|VJ|VS|FA|GR|BL|DA|GA|GO|HA|JL|JO|KA|KR|NB|OG|OR|SE|SL|SO|UP|VB|VD|VL|VM|VN|IS|AI|AU|BA|BV|CE|DG|DO|GU|JE|JP|KG|KV|LI|LM|LU|MD|OE|PR|RE|RR|SD|TS|TU|VE|VK|VR)$/) 
+  else if ( \
+    $1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
+    $col ~ /^(HM|HR|IV|JG|JR|LN|LV|PL|PU|RP|SR|TA|TL|VC|VO|VP|AG|AK|BO|BU|FI|HO|IN|JA|MO|NO|OF|OS|RL|SV|TE|TR|XX|AT|KD|KI|KM|KN|MM|PA|PN|SI|SU|TG|TI|UT|VU|VV|AL|EK|EP|ES|KE|KL|KP|KT|KU|LA|PH|PK|PM|PO|PP|PS|SA|UU|VA|BH|KH|NJ|SJ|VJ|VS|FA|GR|BL|DA|GA|GO|HA|JL|JO|KA|KR|NB|OG|OR|SE|SL|SO|UP|VB|VD|VL|VM|VN|IS|AI|AU|BA|BV|CE|DG|DO|GU|JE|JP|KG|KV|LI|LM|LU|MD|OE|PR|RE|RR|SD|TS|TU|VE|VK|VR)$/ ) 
   {
     if (lines[$1] != "") 
     {

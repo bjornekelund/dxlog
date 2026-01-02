@@ -16,7 +16,7 @@ BEGIN {
   }
   else if ( \
     $1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $ \
-    col ~ /^(BGD|BOR|BRA|JAB|JBB|JBN|KMO|KOL|KOS|KPO|MAC|MOR|NIS|PCI|PEC|PIR|POD|POM|PRI|RAN|RAS|SBB|SBN|SBT|SRM|SUM|TOP|ZAJ|ZBB|ZLA)$/)
+    col ~ /^(BGD|BOR|BRA|JAB|JBB|JBN|KMO|KOL|KOS|KPO|MAC|MOR|NIS|PCI|PEC|PIR|POD|POM|PRI|RAN|RAS|SBB|SBN|SBT|SRM|SUM|TOP|ZAJ|ZBB|ZLA)$/ )
   {
     if (lines[$1] != "") 
     {
@@ -28,7 +28,7 @@ BEGIN {
       lines[$1] = $0;
     }
   }
-  else  # if ($0 !~ /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

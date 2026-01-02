@@ -5,7 +5,7 @@ OUTFILE=NAQP_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-sed 's/ //g' $INFILE | gawk -f naqp.awk | sort | sed 's/#. /# /g' > $OUTFILE
+sed 's/ //g' $INFILE | gawk -f naqp.awk | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

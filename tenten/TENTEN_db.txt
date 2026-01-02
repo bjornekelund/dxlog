@@ -1,19 +1,19 @@
 # 10-10 QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-11-24
+# Last updated 2026-01-02
 2E0FKB=MARK;;
 2E0FVN=MARK;;
 2E0HVB=TERRY;;
+2E0KPD=PAUL;;
 2E0LHG=LEE;;
 2E0LKA=SRIDA;;
 2E0LPA=ANDY;;
+2E0LRL=MARK;;
 2E0LSJ=GRAHAM;;
 2E0RIF=SEAN;;
 2E0VSS=MARK;;
 2E0XDZ=GRAHAM;;
-2EOKPD=PAUL;;
-2EOLRL=MARK;;
 2I0DMC=DECLAR;;
 2I0JKM=RODNY;;
 2M0MTJ=JULES;;

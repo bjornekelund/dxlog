@@ -1,18 +1,18 @@
 BEGIN {
   FS=","
-  printf("#0 North American QSO Party database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 North American QSO Party database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
   longest = "";
 }
 {
   if ($1 ~ /!!Order!!/) 
   {
-    if ($3 ~ /State/) state = 2;
-    if ($4 ~ /State/) state = 3;
-    if ($5 ~ /State/) state = 4;
+    if ($3 ~ /Exch1|State/) state = 2;
+    if ($4 ~ /Exch1|State/) state = 3;
+    if ($5 ~ /Exch1|State/) state = 4;
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;

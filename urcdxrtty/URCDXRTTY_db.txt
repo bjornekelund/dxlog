@@ -1,7 +1,7 @@
 # URC DX RTTY prefill database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-29
+# Last updated 2026-01-02
 2E0BLN=YAH
 4A5E=CMX
 4Z1MS=ISR
@@ -896,8 +896,6 @@ CT3HY=MRA
 CT7AQS=CPT
 CX3BPM=UGY
 CX5AE=UGY
-CY0=SPL
-CY9=SBL
 DF1QR=NRW
 DF4XX=SWH
 DF4ZL=HES
@@ -5339,7 +5337,6 @@ KI1U=CNT
 KI2D=NYO
 KI2G=FLA
 KI2P=NJR
-KI30=VGN
 KI3DS=MRL
 KI3O=VGN
 KI3W=PVN
@@ -9764,7 +9761,6 @@ VY2/AJ6V=PEI
 VY2CC=PEI
 VY2LI=PEI
 VY2SS=PEI
-VYIJA=YKN
 W0/OA4ABC=MNS
 W0AA=MNS
 W0AAE=MNS

@@ -11,13 +11,13 @@ BEGIN {
     if ($3 ~ /Exch1/) class = 2;
     if ($4 ~ /Exch1/) class = 3;
     if ($5 ~ /Exch1/) class = 4;
-    printf("%s --> Section is column %d\n", $0, sect) > "/dev/stderr";
-    printf("%s --> Class is column %d\n", $0, class) > "/dev/stderr";
+    printf("%s --> Section is column %d,Class is column %d\n", $0, sect, class) > "/dev/stderr";
   } 
   else 
   {
-    call = toupper($1);
-    if (call ~ /^[0-9A-Z/]+$/ && $class !~ /^\\d+[IOH]$/ && $sect ~ /^(DX|MX|AL|AK|AB|AZ|AR|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|ID|IL|IN|IA|KS|KY|LAX|LA|ME|MB|MDC|MI|MN|MS|MO|MT|NE|NV|NB|NH|NM|NLI|NL|NC|ND|NTX|NFL|NNJ|NNY|NS|OH|OK|ONE|ONN|ONS|ORG|OR|PAC|PE|PR|QC|RI|SV|SDG|SF|SJV|SB|SCV|SK|SC|SD|STX|SFL|SNJ|TN|TER|VI|UT|VT|VA|WCF|WTX|WV|WMA|WNY|WPA|WWA|WI|WY)$/) 
+    if ( \
+      $1 ~ /^[0-9A-Z/]+$/ && \
+      $class !~ /^\\d+[IOH]$/ && $sect ~ /^(DX|MX|AL|AK|AB|AZ|AR|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|ID|IL|IN|IA|KS|KY|LAX|LA|ME|MB|MDC|MI|MN|MS|MO|MT|NE|NV|NB|NH|NM|NLI|NL|NC|ND|NTX|NFL|NNJ|NNY|NS|OH|OK|ONE|ONN|ONS|ORG|OR|PAC|PE|PR|QC|RI|SV|SDG|SF|SJV|SB|SCV|SK|SC|SD|STX|SFL|SNJ|TN|TER|VI|UT|VT|VA|WCF|WTX|WV|WMA|WNY|WPA|WWA|WI|WY)$/)
     {
       if (lines[$1] != "") 
       {
