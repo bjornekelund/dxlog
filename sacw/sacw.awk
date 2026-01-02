@@ -1,14 +1,21 @@
 BEGIN {
-  printf("#0 South America Integration Contest database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 South America Integration Contest database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $3 ~ /^([0-9]?[0-9]|M|QRP|YL)$/) 
+  if ($1 ~ /!!Order!!/)
   {
-    printf("%s=%s\n", $1, $3);
+    if ($3 ~ /Exch1/) col = 2;
+    if ($4 ~ /Exch1/) col = 3;
+    if ($5 ~ /Exch1/) col = 4;
+    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+  }
+  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^([0-9]?[0-9]|M|QRP|YL)$/) 
+  {
+    printf("%s=%s\n", $1, $col);
   }
   else if ($0 !~ /^(!|#|$)/)
   {

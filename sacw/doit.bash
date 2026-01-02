@@ -5,7 +5,7 @@ OUTFILE=SACW_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk -f sacw.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f sacw.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

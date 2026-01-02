@@ -1,7 +1,7 @@
 # Texas QSO Party database
 # Data collected by NO5W and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2025-12-29
+# Last updated 2026-01-02
 AA0AW=MN
 AA0FO=KS
 AA2IL=CA
