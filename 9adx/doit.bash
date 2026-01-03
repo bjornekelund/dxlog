@@ -6,7 +6,7 @@ OUTFILE=9ADX_db.txt
 dos2unix -q $INFILE
 echo Parsing $INFILE
 
-gawk -f 9adx.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f 9adx.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

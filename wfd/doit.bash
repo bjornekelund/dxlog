@@ -7,7 +7,7 @@ OUTFILE=WFD_db.txt
 echo Parsing $INFILE1 and $INFILE2 to create $OUTFILE
 dos2unix -q $INFILE1 $INFILE2
 
-cat $INFILE1 $INFILE2 | tr -d ' \t' | gawk -f wfd.awk | sort | sed 's/#. /# /g' > $OUTFILE
+cat $INFILE1 $INFILE2 | tr -d ' \t' | gawk -f wfd.awk | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE1 $INFILE2
 echo Created $OUTFILE

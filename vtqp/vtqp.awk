@@ -4,29 +4,32 @@ BEGIN {
   printf("#01 Based on NAQP database maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  state = 2;
 }
 {
   if ($1 ~ /!!Order!!/)
   {
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
     if ($3 ~ /Exch1|State/) state = 2;
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
-    printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
+    printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   } 
   else if ( \
-    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MS|MN|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|WA|WI|WV|WY)$/) || \
-    ($1 ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(ADD|BEN|CAL|CHI|ESS|FRA|GRA|LAM|ORA|ORL|RUT|WAS|WNH|WNS)$/) || \
-    ($1 ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MS|MN|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|WA|WI|WV|WY)$/) || \
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(ADD|BEN|CAL|CHI|ESS|FRA|GRA|LAM|ORA|ORL|RUT|WAS|WNH|WNS)$/) || \
+    ($call ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
-    if (lines[$1] != "") 
+    if (lines[$call] != "") 
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else if ($state !~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
     {
-      printf("%s=%s\n", $1, $3);
-      lines[$1] = $0;
+      printf("%s=%s\n", $call, $3);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $3 != "VT" && $3 != "") 

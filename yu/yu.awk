@@ -1,6 +1,6 @@
 BEGIN {
-  printf("#0 YU car registration code database file\n");
-  printf("#1 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 YU car registration code database file\n");
+  printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
   FS="=";
 }
 {

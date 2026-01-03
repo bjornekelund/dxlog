@@ -1,28 +1,32 @@
 BEGIN {
   FS=","
-  printf("#0 9A DX database\n");
-  printf("#1 Based on call history data maintained by VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 9A DX database\n");
+  printf("#01 Based on call history data maintained by VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /!!Order!!/) 
   {
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~/^(BJ|BM|CK|DA|DE|DU|DJ|GS|IM|KA|KC|KR|KT|KZ|MA|NA|NG|OG|OS|PU|PZ|RI|SB|SK|SL|ST|SI|VK|VT|VU|VZ|ZD|ZG|ZU)$/) 
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~/^(BJ|BM|CK|DA|DE|DU|DJ|GS|IM|KA|KC|KR|KT|KZ|MA|NA|NG|OG|OS|PU|PZ|RI|SB|SK|SL|ST|SI|VK|VT|VU|VZ|ZD|ZG|ZU)$/) 
   {
-    if (lines[$1] != "") 
+    if (lines[$call] != "") 
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else 
     {
-      printf("%s=%s\n", $1, $col);
-      lines[$1] = $0;
+      printf("%s=%s\n", $call, $col);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $col != "") 

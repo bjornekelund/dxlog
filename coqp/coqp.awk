@@ -9,13 +9,16 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
     if ($3 ~ /Exch1|State/) state = 2;
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
-    call = 1;
     printf("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
   } 
   else if ( \

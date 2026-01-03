@@ -1,7 +1,7 @@
 BEGIN {
-  printf("#0 VHF/UHF 4-position grid data base\n");
-  printf("#1 Credits to VE2FK, HB9THU, and ES7GM\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 VHF/UHF 4-position grid data base\n");
+  printf("#01 Credits to VE2FK, HB9THU, and ES7GM\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   ignored = 0;
 }

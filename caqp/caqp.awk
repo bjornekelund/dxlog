@@ -8,10 +8,13 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/) 
   {
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
     if ($3 ~ /State|Exch1/) col = 2;
     if ($4 ~ /State|Exch1/) col = 3;
     if ($5 ~ /State|Exch1/) col = 4;
-    call = 1;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   else if ( \

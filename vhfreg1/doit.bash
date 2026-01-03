@@ -15,13 +15,13 @@ echo Creating 6-position grid database by parsing $INFILE
 
 # Create 6-position grid file
 
-gawk -f grid6.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+gawk -f grid6.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
 echo $OUTFILE "created with" `cat $OUTFILE | wc -l` "calls"
 
 echo  Creating 4-position grid database by parsing $INFILE4
 
-gawk -f grid4.awk $INFILE4 | sort | sed 's/^\#. /\# /g' > $OUTFILE4
+gawk -f grid4.awk $INFILE4 | sort | sed 's/^\#0. /\# /g' > $OUTFILE4
 
 echo $OUTFILE4 created with `cat $OUTFILE4 | wc -l` calls
 

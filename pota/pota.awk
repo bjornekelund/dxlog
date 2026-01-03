@@ -6,7 +6,10 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/) 
   {
-    call = 1;
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
     if ($3 ~ /Name/) col = 2;
     if ($4 ~ /Name/) col = 3;
     if ($5 ~ /Name/) col = 4;

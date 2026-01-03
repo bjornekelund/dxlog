@@ -1,26 +1,30 @@
 BEGIN {
   FS=","
-  printf("#0 WWFF activation database\n");
-  printf("#1 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 WWFF activation database\n");
+  printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /!!Order!!/) 
   {
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
     if ($3 ~ /Name/) col = 2;
     if ($4 ~ /Name/) col = 3;
     if ($5 ~ /Name/) col = 4;
-    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $1 ~ /[0-9]+/ && $1 ~ /[A-Z]+/) 
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $call ~ /[0-9]+/ && $call ~ /[A-Z]+/) 
   {
-    if (lines[$1] != "")
+    if (lines[$call] != "")
     {
-      printf("Repeated: \"%s\" and \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("Repeated: \"%s\" and \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
-      printf("%s=%s\n", $1, $col);
-      lines[$1] = $0;
+      printf("%s=%s\n", $call, $col);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/) 
