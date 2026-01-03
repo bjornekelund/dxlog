@@ -26,14 +26,14 @@ BEGIN {
 }
 END {
   printf("!!Order!!,Call,Exch1,UserText\n");
-  printf("#0 REF database\n");
-  printf("#1 Based on data collected and maintained by Claude VE2FK and Vince F5OIH\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 REF database\n");
+  printf("#01 Based on data collected and maintained by Claude VE2FK and Vince F5OIH\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in call) {
     printf("%s,%s,%s\n", call[c], exchange[c], user[c]);
   }
-}' | sort | sed 's/#. /# /g' > $OUTFILE
+}' | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

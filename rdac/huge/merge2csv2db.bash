@@ -4,9 +4,9 @@ gawk '
 BEGIN {
   FS=","
   date = strftime("%Y-%m-%d");
-  printf("#0 HUGE RDAC database.\n");
-  printf("#1 Based on database from https://rdaward.org and call history data from VE2FK.\n");
-  printf("#2 File created on %s.\n", date);
+  printf("#00 HUGE RDAC database.\n");
+  printf("#01 Based on database from https://rdaward.org and call history data from VE2FK.\n");
+  printf("#02 File created on %s.\n", date);
 }
 {
   if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[A-Z]{2}[0-9]{2}$/) {
@@ -23,5 +23,5 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' | sort | sed 's/#. /# /g' > RDAC_huge_db.txt
+}' | sort | sed 's/#0. /# /g' > RDAC_huge_db.txt
 unix2dos RDAC_huge_db.txt

@@ -28,13 +28,13 @@ BEGIN {
 }
 END {
   printf("!!Order!!,Call,Name,Loc1,UserText,\n");
-  printf("#0 Call history file for HF contests with four-position grid as exchange\n");
-  printf("#1 Created by merging StewPerry-002.txt, Russian160_CallHist.txt,\n");
-  printf("#2 and verifying differing grids by qrz.com lookup.\n");
+  printf("#00 Call history file for HF contests with four-position grid as exchange\n");
+  printf("#01 Created by merging StewPerry-002.txt, Russian160_CallHist.txt,\n");
+  printf("#02 and verifying differing grids by qrz.com lookup.\n");
   for (c in call) {
     printf("%s,,%s,\n", call[c], exchange[c]);
   }
-}' | sort | sed 's/#. /# /g' > $OUTFILE
+}' | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

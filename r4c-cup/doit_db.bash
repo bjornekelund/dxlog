@@ -8,9 +8,9 @@ dos2unix -q $INFILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 Saratov oblast database\n");
-  printf("#1 Based on database from https://rdaward.org\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 Saratov oblast database\n");
+  printf("#01 Based on database from https://rdaward.org\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($2 ~ /[0-9,A-Z]/ && $3 ~ /SA-[0-9]{2}/) {
@@ -29,7 +29,7 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+}' $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

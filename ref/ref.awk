@@ -1,28 +1,29 @@
 BEGIN {
   FS=","
-  printf("#0 REF database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK and Vince F5OIH\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 REF database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK and Vince F5OIH\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /!!Order!!/)
   {
+    call = 1;
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^(F[YRTSPOMKGHJW]|[0-9][0-9]?|2[AB])$/) 
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^(F[YRTSPOMKGHJW]|[0-9][0-9]?|2[AB])$/) 
   {
-    if (lines[$1] != "") 
+    if (lines[$call] != "") 
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else 
     {
-      printf("%s=%s\n", $1, ($col ~ /^[1-9]$/) ? "0" $col : $col);
-      lines[$1] = $0;
+      printf("%s=%s\n", $call, ($col ~ /^[1-9]$/) ? "0" $col : $col);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/)

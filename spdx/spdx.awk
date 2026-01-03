@@ -1,9 +1,9 @@
 BEGIN {
   FS=","
   max = 0;
-  printf("#0 SP DX participants database\n");
-  printf("#1 Based on call history data by Chris SP5KP, SN5N\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 SP DX participants database\n");
+  printf("#01 Based on call history data by Chris SP5KP, SN5N\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /!!Order!!/)

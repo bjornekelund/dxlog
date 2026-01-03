@@ -22,9 +22,9 @@ END {}' >> $TMPFILE
 gawk '
 BEGIN {
   FS=","
-  printf("#0 U-QRQ-C Members database\n");
-  printf("#1 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 U-QRQ-C Members database\n");
+  printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if (calls[$1] == "") { # Not seen before
@@ -58,22 +58,22 @@ END {
       printf("%s=%s;%s\n", calls[c], numbers[c], names[c]);
     }
   }
-}' $TMPFILE | sort -n -t '=' -k2 |  sed 's/#. /# /g' > $OUTFILE
+}' $TMPFILE | sort -n -t '=' -k2 |  sed 's/#0. /# /g' > $OUTFILE
 
 exit
 
 cat $FILE | sed 's/Ø/0/g' | gawk '
 BEGIN {
   FS=" "
-  printf("#0 U-QRQ-C Members database\n");
-  printf("#1 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 U-QRQ-C Members database\n");
+  printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   printf("%s=%s\n", $2, $1);
 }
 END {
-}' | sort | sed 's/#. /# /g' > $OUTFILE
+}' | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
