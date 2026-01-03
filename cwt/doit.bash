@@ -5,7 +5,7 @@ XDTFILE=CWOps.xdt
 
 dos2unix -q $INFILE
 
-gawk -f txt.awk $INFILE | sort | sed 's/^\#. /\# /g' > $DBFILE
+gawk -f txt.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $DBFILE
 echo Created $DBFILE
 unix2dos -q $DBFILE
 

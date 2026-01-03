@@ -34,14 +34,14 @@ BEGIN {
   prevcall = call;
 }
 END {
-  printf("#0 ARRL DX database\n");
-  printf("#1 Data collected and maintained by AD5Q\n");
-#  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 ARRL DX database\n");
+  printf("#01 Data collected and maintained by AD5Q\n");
+#  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in calls) {
      printf("%s=%s\n", c, exchanges[c]);
   }
-}' | sort | sed 's/^\#. /\# /g' > ARRL_DX_db.txt
+}' | sort | sed 's/^\#0. /\# /g' > ARRL_DX_db.txt
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE

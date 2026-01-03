@@ -1,32 +1,32 @@
 BEGIN {
   FS=","
-  printf("#0 Database for FISTS Sprint\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 Database for FISTS Sprint\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /!!Order!!/) 
   {
-    if ($2 ~ /Call/) callcol = 1; else
-    if ($3 ~ /Call/) callcol = 2; else
-    if ($4 ~ /Call/) callcol = 3; else
-    if ($5 ~ /Call/) callcol = 4; else callcol = 0;
+    if ($2 ~ /Call/) callcol = 1;
+    if ($3 ~ /Call/) callcol = 2;
+    if ($4 ~ /Call/) callcol = 3;
+    if ($5 ~ /Call/) callcol = 4;
 
-    if ($2 ~ /Misc/) memcol = 1; else
-    if ($3 ~ /Misc/) memcol = 2; else
-    if ($4 ~ /Misc/) memcol = 3; else
-    if ($5 ~ /Misc/) memcol = 4; else memcol = 0;
+    if ($2 ~ /Misc/) memcol = 1;
+    if ($3 ~ /Misc/) memcol = 2;
+    if ($4 ~ /Misc/) memcol = 3;
+    if ($5 ~ /Misc/) memcol = 4;
 
-    if ($2 ~ /Name/) namecol = 1; else
-    if ($3 ~ /Name/) namecol = 2; else
-    if ($4 ~ /Name/) namecol = 3; else
-    if ($5 ~ /Name/) namecol = 4; else namecol = 0;
+    if ($2 ~ /Name/) namecol = 1;
+    if ($3 ~ /Name/) namecol = 2;
+    if ($4 ~ /Name/) namecol = 3;
+    if ($5 ~ /Name/) namecol = 4;
 
-    if ($2 ~ /Exch1/) loccol = 1; else
-    if ($3 ~ /Exch1/) loccol = 2; else
-    if ($4 ~ /Exch1/) loccol = 3; else
-    if ($5 ~ /Exch1/) loccol = 4; else loccol = 0;
+    if ($2 ~ /Exch1/) loccol = 1;
+    if ($3 ~ /Exch1/) loccol = 2;
+    if ($4 ~ /Exch1/) loccol = 3;
+    if ($5 ~ /Exch1/) loccol = 4;
 
     printf("%s --> call=%d, mem=%d, name=%d, loc=%d\n", $0, callcol, memcol, namecol, loccol) > "/dev/stderr";
   }

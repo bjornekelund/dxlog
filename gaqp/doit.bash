@@ -5,7 +5,7 @@ OUTFILE=GAQP_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk -f gaqp.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f gaqp.awk $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

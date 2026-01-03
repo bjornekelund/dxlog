@@ -6,14 +6,14 @@ OUTFILE=NAMES_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk -f names-xdt.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILEXDT
+gawk -f names-xdt.awk $INFILE | sort | sed 's/#0. /# /g' > $OUTFILEXDT
 
 unix2dos -q $OUTFILEXDT
 echo Created $OUTFILEXDT
 
 cp $OUTFILEXDT ../xdt
 
-gawk -f names.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f names.awk $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

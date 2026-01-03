@@ -1,8 +1,7 @@
 BEGIN {
   FS=","
   max = 0;
-  maxname = "";
-  maxlen = 0;
+  longest = "";
 }
 {
   call = toupper($1);
@@ -166,10 +165,9 @@ BEGIN {
     {
       printf("%s=%s;%s\n", call, name, ID);
       max = (int(ID) > max) ? int(ID) : max;
-      if (length(name) > maxlen) 
+      if (length(name) > length(longest)) 
       {
-        maxlen = length(name);
-        maxname = name;
+        longest = name;
       }
 #      printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
     }
@@ -180,10 +178,10 @@ BEGIN {
   }
 }
 END {
-  printf("#0 CWOps CWT participants database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Send new info/corrections to ve2fk@arrl.net\n");
-  printf("#3 Contains members up to #%d\n", max);
-  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
-  printf("Longest name is \"%s\" with %d characters\n", maxname, maxlen) > "/dev/stderr";
+  printf("#00 CWOps CWT participants database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Send new info/corrections to ve2fk@arrl.net\n");
+  printf("#03 Contains members up to #%d\n", max);
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

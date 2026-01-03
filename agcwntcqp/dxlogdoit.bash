@@ -10,10 +10,10 @@ dos2unix -q $FILE
 cat $FILE | gawk '
 BEGIN {
   FS=","
-  printf("#0 AGCW-NTC Friendship QSO Party database\n");
-  printf("#1 Based on call history data maintained by VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 AGCW-NTC Friendship QSO Party database\n");
+  printf("#01 Based on call history data maintained by VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   maxlen = 0;
 }
 {
@@ -31,7 +31,7 @@ BEGIN {
 }
 END { 
     printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
-}' | sort | sed 's/#. /# /g' > $OUTFILE
+}' | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

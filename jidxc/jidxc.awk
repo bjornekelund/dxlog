@@ -1,21 +1,23 @@
 BEGIN {
-  printf("#0 JIDXC prefill database\n");
-  printf("#2 Data collected and maintained by Claude VE2FK\n");
-  printf("#3 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#01 JIDXC prefill database\n");
+  printf("#02 Data collected and maintained by Claude VE2FK\n");
+  printf("#03 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","  
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~/[0-9]{1,2}/)
+  call = 1;
+  col = 2;
+  if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~/[0-9]{1,2}/)
   {
-    if (lines[$1] != "")
+    if (lines[$call] != "")
     {
-      printf("Repeated: \"%s\" and \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
-      printf("%s=%s\n", $1, $2);
-      lines[$1] = $0;
+      printf("%s=%s\n", $call, $col);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(#|!| *$)/ && $2 != "")

@@ -1,26 +1,27 @@
 BEGIN {
+  printf("#00 Spanish provinces database including special exchanges HQ and SMR\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
-  maxlen = 0;
-  longest = "";
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^(SMR|A|AB|AL|AV|B|BA|BI|BU|C|CA|CC|CE|CO|CR|CS|CU|GC|GI|GR|GU|H|HQ|HU|IB|J|L|LE|LO|LU|M|MA|ML|MU|NA|O|OU|P|PO|S|SA|SE|SG|SO|SS|T|TE|TF|TO|V|VA|VI|Z|ZA)$/)
+  call = 1;
+  col = 2;
+  if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^(SMR|A|AB|AL|AV|B|BA|BI|BU|C|CA|CC|CE|CO|CR|CS|CU|GC|GI|GR|GU|H|HQ|HU|IB|J|L|LE|LO|LU|M|MA|ML|MU|NA|O|OU|P|PO|S|SA|SE|SG|SO|SS|T|TE|TF|TO|V|VA|VI|Z|ZA)$/)
   {
-    calls[$1] = $1;
-    exch[$1] = $2;
+    if (lines[$call] != "") 
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    } 
+    else 
+    {
+      printf("%s=%s\n", $call, $col);
+      lines[$call] = $0;
+    }
   }
   else if ($0 !~ /^(!|#|$)/) 
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
-  }
-}
-END {
-  printf("#0 Spanish provinces database including special exchanges HQ and SMR\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-  for (c in calls) 
-  {
-    printf("%s=%s\n", calls[c], exch[c]);
   }
 }

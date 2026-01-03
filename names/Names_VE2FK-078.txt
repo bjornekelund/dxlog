@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,UserText,
 #
 # 0- VE2FK CW-RTTY Personal Names/Friends list
-<<<<<<<< HEAD:names/Names_VE2FK-076.txt
-# 1- Last Edit,2025-11-28 
-========
 # 1- Last Edit,2025-12-02 
->>>>>>>> d7a7043d (Update):names/Names_VE2FK-078.txt
 # 2- Add your name, correction = direct to ve2fk@arrl.net
 # 3- Not suggested to use name on CW
 # 4- Thanks to Bjorn/SM7IUN for scrubbing the file
@@ -5675,11 +5671,7 @@ K4RLE,RICK,WI,
 K4RNV,NILES,SC
 K4RO,Kirk,Pegram TN
 K4RT,BRAD,VA
-<<<<<<<< HEAD:names/Names_VE2FK-076.txt
-K4RUM,Mike,New York NY
-========
 K4RUM,Mike,Bridgehampton NY
->>>>>>>> d7a7043d (Update):names/Names_VE2FK-078.txt
 K4RVH,VIC,
 K4SBZ,WALT,FL
 K4SET,SCOTT,KY
@@ -11557,11 +11549,7 @@ N4UFP/2,MARC,
 N4UFP/4,MARC,
 N4UK,Ken,
 N4UL,VERN,KY
-<<<<<<<< HEAD:names/Names_VE2FK-076.txt
-N4UM,TIM,Vero Beach FL
-========
 N4UM,TIM,Jupiter FL
->>>>>>>> d7a7043d (Update):names/Names_VE2FK-078.txt
 N4UP,Peter,Victoria VA
 N4UU,JAN,FL
 N4UW,LUTHER,

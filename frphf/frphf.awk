@@ -1,7 +1,9 @@
 BEGIN {
+  printf("#00 Farroupilha Contest prefill database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
-  maxlen = 0;
-  longest = "";
 }
 {
   if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $3 ~ /^(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO|QRP|YL|HQ|FRP)$/)
@@ -13,7 +15,7 @@ BEGIN {
     else 
     {
       calls[$1] = $1;
-      exch[$1] = $3;
+      exch[$1] = $3 != "" ? $3 : exch[$1];
       lines[$1] = $0;
     }
   }
@@ -23,10 +25,6 @@ BEGIN {
   }
 }
 END {
-  printf("#0 Farroupilha Contest prefill database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (c in calls) 
   {
     printf("%s=%s\n", calls[c], exch[c]);

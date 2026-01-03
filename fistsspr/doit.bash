@@ -9,11 +9,11 @@ dos2unix -q $INFILE $CWTFILE
 gawk 'BEGIN{FS = ",";}{
 if ($0 ~ /!!/) 
   printf("%s\n", $0); 
-else if ($0 !~ /^#/) 
+else if ($0 ~ /^[A-Z0-9]/) 
   printf("%s,%s\n", $1, $2);
   }' $CWTFILE > .cwt
 
-cat $INFILE .cwt | gawk -f fistsspr.awk | sort | sed 's/#. /# /g' > $OUTFILE
+cat $INFILE .cwt | gawk -f fistsspr.awk | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

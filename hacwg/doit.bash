@@ -5,7 +5,7 @@ OUTFILE=HACWG_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk -f hacwg.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
+gawk -f hacwg.awk $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE $INFILE

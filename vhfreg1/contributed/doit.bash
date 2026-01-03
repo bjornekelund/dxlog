@@ -34,9 +34,9 @@ echo Creating 6-position grid database by parsing $OUTFILEN
 
 gawk '
 BEGIN {
-  printf("#0 VHF/UHF 6-position grid data base\n");
-  printf("#1 Credits to VE2FK, HB9THU, and ES7GM\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 VHF/UHF 6-position grid data base\n");
+  printf("#01 Credits to VE2FK, HB9THU, and ES7GM\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   ignored = 0;
 }
@@ -61,7 +61,7 @@ END {
   for (c in calls)
     printf("%s=%s\n", calls[c], grids[c]);
   printf("Ignored %d lines\n", ignored) > "/dev/stderr";
-}'  $OUTFILEN | sort | sed 's/^\#. /\# /g' > $OUTFILE
+}'  $OUTFILEN | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
 echo $OUTFILE "created with" `cat $OUTFILE | wc -l` "calls"
 

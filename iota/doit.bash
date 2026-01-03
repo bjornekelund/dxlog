@@ -5,7 +5,7 @@ XDTFILE=IOTA.xdt
 
 dos2unix -q $INFILE
 
-gawk -f txt.awk $INFILE | sort | sed 's/#. /# /g' > $DBFILE
+gawk -f txt.awk $INFILE | sort | sed 's/#0. /# /g' > $DBFILE
 
 unix2dos -q $DBFILE
 echo Created $DBFILE

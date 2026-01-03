@@ -1,32 +1,29 @@
 BEGIN {
   FS=","
-  printf("#0 LZ DX Contest database\n");
-  printf("#1 Based on data collected and maintained by VE2FK and R9IR\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 LZ DX Contest database\n");
+  printf("#01 Based on data collected and maintained by VE2FK and R9IR\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $3 ~ /^(BU|BL|VN|VT|VD|VR|GA|DO|KA|KD|LV|MN|PA|PK|PL|PD|RZ|RS|SS|SL|SM|SF|SO|SZ|TA|HA|SN|YA)$/) 
+  call = 1;
+  col = 3;
+  if ( \
+    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
+    $col ~ /^(BU|BL|VN|VT|VD|VR|GA|DO|KA|KD|LV|MN|PA|PK|PL|PD|RZ|RS|SS|SL|SM|SF|SO|SZ|TA|HA|SN|YA)$/) 
   {
-    if (line[$1] != "") 
+    if (line[$call] != "") 
     {
-      printf("Duplicate entry \"%s\" and \"%s\"\n", line[$1], $1) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     else
     {
-      line[$1] = $0;
-      call[$1] = $1;
-      ex[$1] = $3;
+      line[$call] = $0;
+      printf("%s=%s\n", $call, $col);
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $3 != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-  }
-}
-END {
-  for (cl in call)
-  {
-    printf("%s=%s\n", cl, ex[cl]);
   }
 }

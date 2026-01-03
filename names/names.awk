@@ -1,7 +1,7 @@
 BEGIN {
   FS=","
-  printf("#1 Operator names based on data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#01 Operator names based on data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   maxlen = 0;
   maxname = "";
 }
@@ -28,7 +28,7 @@ BEGIN {
   }
 }
 END {
-  printf("#3 Longest name is %s (%d)\n", maxname, maxlen);
+  printf("#03 Longest name is %s (%d)\n", maxname, maxlen);
   printf("Longest name is %s (%d)\n", maxname, maxlen) > "/dev/stderr";
-  printf("#4 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
 }

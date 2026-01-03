@@ -1,26 +1,29 @@
 BEGIN {
   FS=","
-  printf("#0 KCJ contest database\n");
-  printf("#1 Data collected and maintained by VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 KCJ contest database\n");
+  printf("#01 Data collected and maintained by VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $2 ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/) 
+  call = 1;
+  col = 2;
+  if ( \
+    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
+    $col ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/) 
   {
-    if (call[$1] != "") 
+    if (calls[$call] != "") 
     {
-      if (exch[$1] != $2) 
+      if (exch[$call] != $col) 
       {
-        printf("Conflict for call %s: %s and %s\n", $1, $2, exch[$1]) > "/dev/stderr";
+        printf("Conflict for call %s: %s and %s\n", $call, $col, exch[$call]) > "/dev/stderr";
       }     
     }
     else
     {
-      printf("%s=%s\n", toupper($1), toupper($2));
-      call[$1] = $1;
-      exch[$1] = $2;
+      printf("%s=%s\n", toupper($1), toupper($col));
+      calls[$1] = $1;
+      exch[$1] = $col;
     }
   }
   else if ($0 !~ /^(#|!|$)/) 
