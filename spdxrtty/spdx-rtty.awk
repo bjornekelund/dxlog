@@ -1,29 +1,30 @@
 BEGIN {
-  printf("#0 SP DX RTTY prefill database\n");
-  printf("#1 Based on call history data by Chris, SP5KP\n");
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 SP DX RTTY prefill database\n");
+  printf("#01 Based on call history data by Chris, SP5KP\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }
 {
   if ($1 ~ /!!Order!!/)
   {
+    call = 1;
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   else if ( \
-    $1 ~ /^(SP\/[A-Z0-9]+|(3Z|HF|S[NOPQ]))[0-9]{1,4}[A-Z]{1,4}(\/[1-9PM])?$/ && \
+    $call ~ /^(SP\/[A-Z0-9]+|(3Z|HF|S[NOPQ]))[0-9]{1,4}[A-Z]{1,4}(\/[1-9PM])?$/ && \
     $col ~ /^(AB|AC|AG|AK|AL|AN|AP|AQ|AS|AU|AW|BA|BB|BC|BE|BF|BG|BH|BI|BJ|BL|BM|BN|BO|BP|BQ|BR|BS|BT|BU|BW|BY|BZ|CE|CH|CI|CJ|CL|CM|CN|CO|CR|CS|CT|CU|CW|CY|CZ|DA|DD|DE|DG|DL|DP|DT|DY|DZ|EA|EB|EC|ED|EG|EK|EL|EM|EN|ER|ET|EY|EZ|GA|GB|GC|GD|GE|GF|GG|GH|GI|GJ|GK|GL|GM|GN|GO|GP|GQ|GR|GS|GT|GU|GV|GW|GX|GY|GZ|HA|HR|IA|IC|ID|IK|IL|IM|IN|IR|IT|IW|IY|IZ|JA|JC|JE|JG|JL|JM|JR|JS|JW|JZ|KA|KB|KC|KD|KE|KF|KG|KH|KI|KJ|KK|KL|KM|KN|KO|KP|KQ|KR|KS|KT|KU|KV|KW|KX|KY|KZ|LA|LB|LC|LD|LE|LF|LG|LH|LI|LJ|LK|LL|LM|LN|LO|LP|LQ|LS|LT|LU|LV|LW|LX|LY|LZ|MA|MB|MC|ME|MF|MH|MI|ML|MM|MN|MO|MQ|MR|MS|MW|MY|MZ|NA|NC|ND|NF|NG|NI|NL|NM|NN|NO|NQ|NR|NS|NT|NV|NW|NY|OA|OB|OC|OD|OE|OF|OG|OH|OI|OJ|OK|OL|OM|ON|OO|OP|OQ|OR|OS|OT|OU|OV|OW|OX|OY|OZ|PA|PB|PC|PD|PE|PF|PG|PH|PI|PJ|PK|PL|PM|PN|PO|PP|PQ|PR|PS|PT|PU|PV|PW|PX|PY|PZ|RA|RB|RC|RD|RE|RJ|RK|RM|RN|RO|RP|RS|RU|RW|RX|RY|RZ|SA|SB|SC|SD|SE|SF|SG|SH|SI|SJ|SK|SL|SM|SN|SO|SP|SQ|SR|SS|ST|SU|SV|SW|SX|SY|SZ|TA|TB|TC|TE|TG|TH|TK|TL|TM|TN|TO|TR|TS|TU|TW|TY|TZ|UC|UD|UG|UK|UL|UM|UN|UP|US|UT|UW|WA|WB|WC|WD|WE|WF|WG|WH|WI|WJ|WK|WL|WM|WN|WO|WP|WQ|WR|WS|WT|WU|WV|WW|WX|WY|WZ|YA|YD|YN|YR|YS|YT|YW|ZA|ZB|ZC|ZE|ZF|ZG|ZL|ZM|ZN|ZO|ZP|ZQ|ZR|ZS|ZT|ZV|ZW|ZX|ZY)$/) 
   {
-    if (lines[$1] != "") 
+    if (lines[$call] != "") 
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
-      lines[$1] = $0;
-      printf("%s=%s\n", $1, $col);
+      lines[$call] = $0;
+      printf("%s=%s\n", $call, $col);
     }
   }
   else if ($0 !~ /^(!|#)/) 

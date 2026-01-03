@@ -5,7 +5,6 @@ BEGIN {
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   printf("#4 Updated to 2023 RAC sections\n");
-  col = 3;
 }
 {
   if ($1 ~ /!!Order!!/) 

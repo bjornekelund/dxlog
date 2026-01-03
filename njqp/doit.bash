@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls QSOP* | tail -1 2> /dev/null`
+INFILE=`ls QSOP_NJ* | tail -1 2> /dev/null`
 OUTFILE=NJQP_db.txt
 
 echo Parsing $INFILE

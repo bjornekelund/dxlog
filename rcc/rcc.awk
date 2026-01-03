@@ -1,7 +1,6 @@
 BEGIN {
   FS=","
   max = 0;
-  col = 2;
   printf("#00 RCC Cup prefill database\n");
   printf("#01 Data collected and maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");

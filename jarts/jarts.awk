@@ -1,6 +1,5 @@
 BEGIN {
   FS=","
-  col = 2;
   printf("#0@%s\n", strftime("%Y"));
   printf("#1 JARTS database for %s\n", strftime("%Y"));
   printf("#2 Data collected and maintained by Claude VE2FK\n");

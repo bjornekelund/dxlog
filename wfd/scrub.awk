@@ -1,6 +1,5 @@
 BEGIN {
   FS=","
-  col = 3;
 }
 {
   if ($1 ~ /!!Order!!/) 

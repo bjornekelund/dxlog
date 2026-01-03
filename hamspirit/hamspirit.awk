@@ -1,11 +1,9 @@
 BEGIN {
   FS=","
-  col = 1;
 }
 {
   if ($1 ~ /!!Order!!/) 
   {
-    if ($2 ~ /Sect/) col = 1;
     if ($3 ~ /Sect/) col = 2;
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;

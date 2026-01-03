@@ -4,7 +4,6 @@ BEGIN {
   printf("#0 SP DX participants database\n");
   printf("#1 Based on call history data by Chris SP5KP, SN5N\n");
   printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
-  col = 2;
 }
 {
   if ($1 ~ /!!Order!!/)

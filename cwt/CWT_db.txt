@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Contains members up to #3856
-# Last updated 2026-01-02
+# Last updated 2026-01-03
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1808,6 +1808,7 @@ K3ARC=Adam;TN
 K3ATO=Hal;2552
 K3AXR=Dell;MD
 K3BEQ/3=Ray;
+K3BEQ=Ray;
 K3BLN=Gil;PA
 K3BR=Brad;SC
 K3CT=John;466
@@ -6900,14 +6901,14 @@ YO8/LZ4UU=Iliya;YO
 YO9AYN=Ion;YO
 YO9GDN=Marian;YO
 YO9GNF=Jack;YO
-YQ6A=Joska;YT
-YT1AA=Vema;YT
-YT1E=Rod;YT
-YT5FD=Slavko;YT
-YT5N=Mike;YT
-YU6DX=Alex;YT
-YU7GM=Ivan;YT
-YU7TBA=Balint;YT
+YQ6A=Joska;YU
+YT1AA=Vema;YU
+YT1E=Rod;YU
+YT5FD=Slavko;YU
+YT5N=Mike;YU
+YU6DX=Alex;YU
+YU7GM=Ivan;YU
+YU7TBA=Balint;YU
 Z31PM=Misop;3811
 Z32U=Zoki;Z3
 Z33B=Kirk;Z3

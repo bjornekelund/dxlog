@@ -1,0 +1,50 @@
+Algoma District ALG Northern
+City of Brant BRA Southwest
+City of Brantford BFD Southwest
+Bruce County BRU Southwest
+City of Chatham-Kent CHK Southwest
+Cochrane District COC Northern
+Dufferin County DUF Central
+Durham Regional Municipality DUR Central
+Elgin County ELG Southwest
+Essex County ESX Southwest
+Frontenac County FRO Eastern
+Grey County GRY Southwest
+Town of Haldimand HAL Southwest
+Haliburton County HLB Eastern
+Halton Regional Municipality HTN Central
+City of Hamilton HAM Central
+Hastings County HAS Eastern
+Huron County HUR Southwest
+City of Kawartha Lakes KAW Eastern
+Kenora District KEN Northern
+Lambton County LAM Southwest
+Lanark County LAN Eastern
+Leeds & Grenville United Counties LGR Eastern
+Lennox-Addington County LXA Eastern
+Manitoulin District MAN Northern
+Middlesex County MSX Southwest
+Muskoka District MUS Northern
+Niagara Regional Municipality NIA Central
+Nipissing District NIP Northern
+Town of Norfolk NFK Southwest
+Northumberland County NOR Eastern
+City of Ottawa OTT Eastern
+Oxford County OXF Southwest
+Parry Sound District PSD Northern
+Peel Regional Municipality PEL Central
+Perth County PER Southwest
+Peterborough County PET Eastern
+United Counties of Prescott & Russell PRU Eastern
+City of Prince Edward PED Eastern
+Rainy River District RAI Northern
+Renfrew County REN Eastern
+Simcoe County SIM Central
+United Counties of Stormont, Dundas & Glengarry SDG Eastern
+Sudbury District SUD Northern
+Thunder Bay District TBY Northern
+Timiskaming District TIM Northern
+City of Toronto TOR Central
+Waterloo Regional Municipality WAT Southwest
+Wellington County WEL Southwest
+York Regional Municipality YRK Central

@@ -1,8 +1,7 @@
 BEGIN {
   FS=","
   printf("#0 WWFF activation database\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-  col = 2;
+  printf("#1 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
   if ($1 ~ /!!Order!!/) 

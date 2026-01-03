@@ -12,7 +12,6 @@ BEGIN {
   printf("#1 Based on call history data maintained by VE2FK ve2fk@arrl.net\n");
   printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-  col = 2;
 }
 {
   if ($1 ~ /!!Order!!/) {

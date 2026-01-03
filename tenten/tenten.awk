@@ -1,51 +1,47 @@
 BEGIN {
-  printf("#0 10-10 QSO Party database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 10-10 QSO Party database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
-  maxlen = 0;
   longest = "";
 }
 {
   if ($1 ~ /!!Order!!/) 
   {
-    if ($3 ~ /Name/) nm = 2;
-    if ($4 ~ /Name/) nm = 3;
-    if ($5 ~ /Name/) nm = 4;
-    if ($3 ~ /Exch1/) ex = 2;
-    if ($4 ~ /Exch1/) ex = 3;
-    if ($5 ~ /Exch1/) ex = 4;
-    if ($3 ~ /Misc/) mi = 2;
-    if ($4 ~ /Misc/) mi = 3;
-    if ($5 ~ /Misc/) mi = 4;
-    printf("%s --> name is column %d, exchange is column %d, miscellanous is column %d\n", $0, nm, ex, mi) > "/dev/stderr";
+    call = 1;
+    if ($3 ~ /Name/) name = 2;
+    if ($4 ~ /Name/) name = 3;
+    if ($5 ~ /Name/) name = 4;
+    if ($3 ~ /Exch1/) loc = 2;
+    if ($4 ~ /Exch1/) loc = 3;
+    if ($5 ~ /Exch1/) loc = 4;
+    if ($3 ~ /Misc/) mem = 2;
+    if ($4 ~ /Misc/) mem = 3;
+    if ($5 ~ /Misc/) mem = 4;
+    printf("%s --> call=%d name=%d loc=%d mem=%d\n", $0, call, name, loc, mem) > "/dev/stderr";
   } 
   else if ( \
-    $1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $2 ~ /^([a-zA-Z]*|)$/ && $3 ~ /^[A-Z]+|$/ && $4 ~ /^([0-9]*|)$/)
+    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
+    $name ~ /^([a-zA-Z]*|)$/ && $loc ~ /^[A-Z]+|$/ && $mem ~ /^([0-9]*|)$/)
   {
-    if (calls[$1] != "") 
+    if (calls[$call] != "") 
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", line[$1], $0) > "/dev/stderr"
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr"
     }
-    calls[$1] = $1;
-    name[$1] = toupper($nm);
-    line[$1] = $0;
-    num[$1] = $mi;
-    if ($3 ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
+    line[$call] = $0;
+    calls[$call] = $call;
+    names[$call] = toupper($name);
+    num[$call] = $mem ~ /^[0-9]+$/ ? $mem : "0";
+    if ($loc ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
     {
-      state[$1] = $ex;
+      location[$call] = $loc;
     }
     else
     {
-      state[$1] = "";
+      location[$call] = "";
     }
-    if (length($2) > maxlen) 
-    {
-      maxlen = length($2);
-      longest = $2;
-    }
+    longest = length($name) > length(longest) ? $name : longest;
   }
   else if ($0 !~ /^(!|#|$)/) 
   {
@@ -53,9 +49,9 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
+  printf("Longest name is %s (%d)\n", longest, length(longest)) > "/dev/stderr";
   for (c in calls) 
   {
-    printf("%s=%s;%s;%s\n", calls[c], name[c], num[c], state[c]);
+    printf("%s=%s;%s;%s\n", calls[c], names[c], num[c], location[c]);
   }
 }
