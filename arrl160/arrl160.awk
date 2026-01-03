@@ -1,9 +1,10 @@
 BEGIN {
-  printf("#0 ARRL 160m database - ARRL/RAC sections\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 ARRL 160m database - ARRL/RAC sections\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
+  col = 2;
 }
 {
   if ($1 ~ /!!Order!!/) 
@@ -35,7 +36,7 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
     } 
-    if ($col !~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/) 
+    else if ($col !~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/) 
     {
       printf("Problem RAC section : \"%s\"\n", $0) > "/dev/stderr";
     }
@@ -45,8 +46,8 @@ BEGIN {
       lines[$1] = $0;
     }
   } 
-  else if ($col !~ /^DX$/ && $0 !~ /^(!|#|$)/) 
+  else if ($0 !~ /^(!|#|$)/) 
   {
-    printf("Problem DX station  : \"%s\"\n", $0) > "/dev/stderr";
+    printf("DX station ignored  : \"%s\"\n", $0) > "/dev/stderr";
   }
 }

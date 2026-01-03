@@ -3,7 +3,7 @@ FILE=ELECTORAL.txt
 dos2unix -q $FILE
 gawk '
 BEGIN {
-  FS=" "
+  FS=" ";
   printf("^(");
 }
 {
@@ -13,4 +13,5 @@ BEGIN {
 END {
   printf(")$\n");
 }' $FILE | sed 's/|)/)/g' > electoral-regex.txt
+
 exit

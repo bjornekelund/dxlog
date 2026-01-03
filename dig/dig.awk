@@ -25,7 +25,7 @@ BEGIN {
       }
     }
   }
-  else if (basecall !~ /SWL|\-/ && basecall !~ /^DE|[0-9]$/)
+  else if (basecall !~ /SWL|\-|^DE|[0-9]$/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

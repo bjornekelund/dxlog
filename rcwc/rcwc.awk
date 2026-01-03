@@ -22,7 +22,7 @@ BEGIN {
   }
 }
 END {
-  printf("#0 RCWC member database based on data from https://rcwc.ru/?do=members\n");
-  printf("#2 Contains members up to #%d\n", last);
-  printf("#2 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 RCWC member database based on data from https://rcwc.ru/?do=members\n");
+  printf("#01 Contains members up to #%d\n", last);
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }

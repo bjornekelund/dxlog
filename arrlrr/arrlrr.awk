@@ -1,7 +1,7 @@
 BEGIN {
-  printf("#0 ARRL Rookie Roundup database\n");
-  printf("#1 Based on a mix of sources\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 ARRL Rookie Roundup database\n");
+  printf("#01 Based on a mix of sources\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }
 {

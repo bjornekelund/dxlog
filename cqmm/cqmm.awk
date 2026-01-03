@@ -1,4 +1,7 @@
 BEGIN {
+  printf("#00 CQMM DX database\n");
+  printf("#01 Data collected by VE2FK and from https://site.cwjf.com.br\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }
 {
@@ -16,9 +19,8 @@ BEGIN {
   }
 }
 END {
-  printf("#0 CQMM DX database\n");
-  printf("#1 Data collected by VE2FK and from https://site.cwjf.com.br\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
-  for (call in calls)
+  for (call in calls) 
+  {
     printf("%s=%s\n", call, exchange[call]);
+  }
 }

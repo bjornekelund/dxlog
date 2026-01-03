@@ -1,8 +1,8 @@
 BEGIN {
-  printf("#0 Commonwealth Contest HQ stations database\n");
-  printf("#1 Data collected and maintained by Claude VE2FK\n");
-  printf("#2 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#00 Commonwealth Contest HQ stations database\n");
+  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
   max = 0;
 }

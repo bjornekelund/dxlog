@@ -1,0 +1,14 @@
+BLM=Battlefords-Lloydminster-Meadow Lake
+CAR=Carlton Trail - Eagle Creek
+DES=Desnethe-Missinippi-Churchill River
+MOO=Moose Jaw - Lake Centre - Lanigan
+PRI=Prince Albert
+RGL=Regina - Lewvan
+RGQ=Regina Qu'Appelle
+RGW=Regina Wescana
+SKU=Saskatoon - University 
+SKS=Saskatoon South
+SKW=Saskatoon West
+SOU=Souris - Moose Mountain
+SGK=Swift Current - Grasslands - Kindersley
+YOR=Yorkton
