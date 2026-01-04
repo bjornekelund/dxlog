@@ -224,7 +224,6 @@ DL5YL        2026 Tina
 DL5YM        2028 Fred
 DL6KVA       2098 Axel
 DL6LBI       2020 Ingo
-DL8LBK       1763 Ken
 DL8TWA       1177 Tom (K3TW)
 DL9DC        1665 Del (W8KJP)
 DM88YLF      2026 Tina (DL5YL)
@@ -256,6 +255,7 @@ EU1M         2174 Vlad (VE3TM)
 EU1SA        2174 Vlad (VE3TM)
 EV1M         2174 Vlad (VE3TM)
 EX0ET        2097 Bob (DU7ET)
+EX0T         2097 Bob (DU7ET)
 EY8ZE        2225 Harald (OZ8X)
 F3OA         1174 Mike
 F4VTE         988 Reg (G3WPF)
@@ -284,7 +284,7 @@ G0PNM        2095 Pete
 G0VQW        1931 Sandy
 G2NF         1777 Tony
 G3AB         1564 Andy (5Z4VJ)
-G3BA         1893 Bob
+G3BA         1893 Bob (M5EEE)
 G3BJ         2006 Don
 G3CWA        1956 Harry
 G3FRR        2095 Pete (G0PNM)
@@ -321,7 +321,7 @@ G3WVG        2233 Ian
 G3XAQ        1500 Alan
 G3XTT        1805 Don
 G3YC         2040 Phil (VK6GX)
-G3YIQ        1893 Bob (G3BA)
+G3YIQ        1893 Bob (M5EEE)
 G3YJQ        2066 Fred
 G3YLA        2128 Jim
 G3ZEM        1670 Bob (5B4AGN)
@@ -716,6 +716,7 @@ M3X          1956 Harry (G3CWA)
 M4N          2210 Mike (G4IZZ)
 M5B          2233 Ian (G3WVG)
 M5D          2107 Dean (G4WQI)
+M5EEE        1893 Bob
 M5S          2000 John (G4IRN)
 M7KTZ        2213 Enzo (M0KTZ)
 M7N          1902 Nick (G3RWF)
@@ -740,6 +741,7 @@ MQ0MZB       2234 Matthew (M0MZB)
 MQ0NGN       2248 Nigel (M0NGN)
 MQ0PCB       2024 Iain (M0PCB)
 MQ0RYB       2147 Peter (M0RYB)
+MQ5EEE       1893 Bob (M5EEE)
 MR3S         2204 Gareth (G0MFR)
 MU5E         2014 Bob (GU4YOX)
 MW5B         2233 Ian (G3WVG)
@@ -1194,7 +1196,6 @@ WA1G         1635 Bruce (K1AJ)
 WA1SKQ       2200 Rich
 WA2USA       2173 Dennis
 WA5FOC       2043 Benny (K5KV)
-WA7HJV       2223 Jack
 WA9AQN       1887 John
 WB0SND       2146 Mike
 WB2JYM       1177 Tom (K3TW)

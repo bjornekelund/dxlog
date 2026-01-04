@@ -16,14 +16,14 @@ BEGIN {
     if ($3 ~ /Sect/) col = 2;
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
-#    printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   } 
-  else 
+  else if ($call ~ /[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && $col ~ /^[A-Z]{2}$/)
   {
-    exch = $col;
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Z]{2}$/)
-      printf("%s=%s\n", $call, exch);
-  	else if ($0 !~ /^(!|#|$)/)
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+    printf("%s=%s\n", $call, $col);
+  }
+  else if ($0 !~ /^(!|#|$)/)
+  {
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

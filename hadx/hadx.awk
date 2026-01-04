@@ -20,7 +20,15 @@ BEGIN {
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
     $col ~ /^(BA|BE|BN|BO|BP|CS|FE|GY|HB|HE|SZ|KO|NG|PE|SO|SA|TO|VA|VE|ZA)$/) 
   {
-    printf("%s=%s\n", $call, $col);
+    if (lines[$call] != "") 
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else 
+    {
+      printf("%s=%s\n", $call, $col);
+      lines[$call] = $0;
+    }
   }
   else if ($0 !~ /^(!|#|$)/) 
   {

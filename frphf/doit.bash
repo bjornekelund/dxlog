@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=FRPHF-002.txt
+INFILE=`ls FRPHF[^_]* | tail -1 2> /dev/null`
 OUTFILE=FRPHF_db.txt
 
 echo Parsing $INFILE

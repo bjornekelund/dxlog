@@ -1,21 +1,22 @@
 BEGIN {
   FS=","
+  callcol = 1;
   sectcol = 2;
   statcol = 3;
   chkcol = 4;
 }
 {
-  if ($0 !~ /^(#|!)/) 
+  if ($0 !~ /^(#|!|$)/) 
   {
-    if (call[$1] != "") 
+    if (call[$callcol] != "") 
     {
-      printf("Duplicate entry: \"%s\" and \"%s\"\n", line[$1], $0) > "/dev/stderr";
+      printf("Duplicate entry: \"%s\" and \"%s\"\n", line[$callcol], $0) > "/dev/stderr";
     }
     if ($chkcol !~ /^([0-9]{1,2}|)$/) 
     {
       printf("Problem Check      : \"%s\"\n", $0) > "/dev/stderr";
     }
-    if ($1 ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|4U1WB)|\/W[0-9]$/ && $1 !~ /V[A-Z][0-9]$/) 
+    if ($callcol ~ /^(A[A-L]|[KNW][A-Z]?[0-9]|4U1WB)|\/W[0-9]$/ && $callcol !~ /V[A-Z][0-9]$/) 
     {
       if ($sectcol !~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/) 
       {
@@ -26,7 +27,7 @@ BEGIN {
         printf("Problem state/territory: \"%s\"\n", $0);
       }
     } 
-    else if ($1 ~ /^(V[A-EOY]|C[F-K]|CY)|\/(V[EOY][0-9])$/) 
+    else if ($callcol ~ /^(V[A-EOY]|C[F-K]|CY)|\/(V[EOY][0-9])$/) 
     {
       if ($sectcol !~ /^(|AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/) 
       {
@@ -44,7 +45,7 @@ BEGIN {
         printf("Problem DX station : \"%s\"\n", $0) > "/dev/stderr";
       }
     }
-    line[$1] = $0;
-    call[$1] = $1;
+    line[$callcol] = $0;
+    call[$callcol] = $callcol;
   }
 }

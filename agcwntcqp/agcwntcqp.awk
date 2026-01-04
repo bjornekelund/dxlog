@@ -7,48 +7,75 @@ BEGIN {
   maxlen = 0;
 }
 {
-  callok = $1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
-  nameok = $2 ~ /^[A-Za-z]{2,10}$|^$/;
-  hyphenated = $2 ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;
-  firstok = $3 ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;
-  secondok = $4 ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
-  lenok = $6 == "";
-
-  if (callok && firstok && secondok && lenok) 
+  if ($1 ~ /!!Order!!/)
   {
-    if (nameok) 
-    {
-      name = $2;
-    }
-    else if (hyphenated) 
-    {
-      p = index($2, "-");
-      name = substr($2, 1, p - 1);
-      printf("Hyphenated name: \"%s\" --> \"%s\"\n", $2, name) > "/dev/stderr";
-    }
-    else 
-    {
-      name = "";
-    }
-
-    printf("%s=%s;%s;%s\n", $1, name, $3, $4);
-    if (length($2) > maxlen && nameok) 
-    {
-      maxcall = $1;
-      maxlen = length($2);
-      maxname = $2;
-    }
-    if (!nameok) 
-    {
-        printf("Name ignored: \"%s\"\n", $0) > "/dev/stderr";
-    }
-  }
-  else if ($0 !~ /^(!|#|$)/) 
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
+    if ($3 ~ /Name/) name = 2;
+    if ($4 ~ /Name/) name = 3;
+    if ($5 ~ /Name/) name = 4;
+    if ($6 ~ /Name/) name = 5;
+    if ($3 ~ /Exch1/) first = 2;
+    if ($4 ~ /Exch1/) first = 3;
+    if ($5 ~ /Exch1/) first = 4;
+    if ($6 ~ /Exch1/) first = 5;
+    if ($3 ~ /Misc/) second = 2;
+    if ($4 ~ /Misc/) second = 3;
+    if ($5 ~ /Misc/) second = 4;
+    if ($6 ~ /Misc/) second = 5;
+    if ($3 ~ /UserText/) empty = 2;
+    if ($4 ~ /UserText/) empty = 3;
+    if ($5 ~ /UserText/) empty = 4;
+    if ($6 ~ /UserText/) empty = 5;
+    printf("%s --> call=%d name=%d first=%d second=%d empty=%d\n", $0, call, name, first, second, empty) > "/dev/stderr";
+  } 
+  else 
   {
-    if (nameok)
-      printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
-    else
-      printf("Problem name:  \"%s\"\n", $0) > "/dev/stderr";
+    callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
+    nameok = $name ~ /^([A-Za-z]{2,10}|)$/;
+    hyphenated = $name ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;
+    firstok = $first ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;
+    secondok = $second ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
+    lenok = $empty == "";
+
+    if (callok && firstok && secondok && lenok) 
+    {
+      if (nameok) 
+      {
+        rname = $name;
+      }
+      else if (hyphenated) 
+      {
+        p = index($name, "-");
+        rname = substr($name, 1, p - 1);
+        printf("Hyphenated name: \"%s\" --> \"%s\"\n", $name, rname) > "/dev/stderr";
+      }
+      else 
+      {
+        rname = "";
+      }
+      printf("%s=%s;%s;%s\n", $call, rname, $first, $second);
+      if (length($name) > maxlen && nameok) 
+      {
+        maxcall = $call;
+        maxlen = length($name);
+        maxname = $name;
+      }
+      if (!nameok) 
+      {
+          printf("Name \"%s\" ignored in \"%s\"\n", rname, $0) > "/dev/stderr";
+      }
+    }
+    else if ($0 !~ /^(!|#|$)/) 
+    {
+      if (nameok)
+        # printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+        printf("") > "/dev/stderr";
+      else
+        printf("Problem name:  \"%s\"\n", $0) > "/dev/stderr";
+    }
   }
 }
 END { 

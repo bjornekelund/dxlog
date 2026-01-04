@@ -12,7 +12,7 @@ else
     echo Downloaded $INFILE, parsing...
 
     dos2unix -q $INFILE
-    gawk -f rcwc.awk $INFILE | sort | sed 's/^\#. /\# /g' > $OUTFILE
+    gawk -f rcwc.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo Created $OUTFILE

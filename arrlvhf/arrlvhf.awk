@@ -17,16 +17,16 @@ BEGIN {
     if ($5 ~ /Loc1/) col = 4;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   } 
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-R]{2}[0-9]{2}$/) 
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-R]{2}[0-9]{2}$/) 
   {
-    if (lines[$1] != "") 
+    if (lines[$call] != "") 
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else 
     {
-      printf("%s=%s\n", $1, $col);
-      lines[$1] = $0;
+      printf("%s=%s\n", $call, $col);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/) 

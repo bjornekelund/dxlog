@@ -1,15 +1,13 @@
 # ARRL CW Sweepstakes database
 # Based on data collected and maintained by VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-03
+# Last updated 2026-01-04
 4U1WB=;89;MDC
-=;;
 AA0A=;60;MO
 AA0AA=;86;NE
 AA0AC=;96;MN
 AA0AW=;86;MN
 AA0BA=;63;NE
-AA0BV=;61;
 AA0CL=;77;MO
 AA0CY=;63;EPA
 AA0FD=;16;CO
@@ -5728,7 +5726,6 @@ KK6GJ=;0;SB
 KK6GMH=;13;SCV
 KK6IEE=;13;ORG
 KK6KSY=;14;EB
-KK6L=;95;
 KK6LE=;93;ORG
 KK6MC=;65;NM
 KK6MS=;79;SDG

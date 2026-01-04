@@ -5,6 +5,5 @@ echo Scrubbing $FILE...
 dos2unix -q $FILE
 
 gawk -f scrub.awk $FILE
-echo Done.
 
 exit

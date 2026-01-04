@@ -1,7 +1,7 @@
 # AGCW members database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4457
-# Last updated 2026-01-01
+# Contains members up to #4459
+# Last updated 2026-01-04
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1786,6 +1786,7 @@ LY3X=3339
 LY4T=1730
 LY5W=3548
 LY7M=3553
+LZ1PID=4459
 LZ1UA=473
 LZ2VP=2661
 LZ3BZ=1673
@@ -1799,6 +1800,7 @@ MM0CMV=4032
 MW0BXJ=3233
 MW0REN=2625
 N1RR=4118
+N5XZ=4458
 N6WS=3958
 N7BVY=4075
 N9DAK=721

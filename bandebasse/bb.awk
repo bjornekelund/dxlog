@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /Misc/) misc = 2;
     if ($4 ~ /Misc/) misc = 3;
     if ($5 ~ /Misc/) misc = 4;
-    printf("%s --> sect=%d, misc=%d\n", $0, sect, misc) > "/dev/stderr";
+    printf("%s --> call=%d sect=%d, misc=%d\n", $0, call, sect, misc) > "/dev/stderr";
   } 
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $sect ~ /^(AG|AL|AN|AO|AP|AQ|AR|AT|AV|BA|BG|BI|BL|BN|BO|BR|BS|BT|BZ|CA|CB|CE|CH|CL|CN|CO|CR|CS|CT|CZ|EN|FC|FE|FG|FI|FM|FR|GE|GO|GR|IM|IS|KR|LC|LE|LI|LO|LT|LU|MB|MC|ME|MI|MN|MO|MS|MT|NA|NO|NU|OR|PA|PC|PD|PE|PG|PI|PN|PO|PR|PT|PU|PV|PZ|RA|RC|RE|RG|RI|RM|RN|RO|SA|SI|SO|SP|SR|SS|SU|SV|TA|TE|TN|TO|TP|TR|TS|TV|UD|VA|VB|VC|VE|VI|VR|VT|VV)$/ && $misc ~ /^([0-9]+|)$/) 
   {

@@ -1,6 +1,6 @@
 # UR oblast prefill
 # Only contains oblast that are not possible to guess based on callsign
-# Last updated 2025-08-30
+# Last updated 2026-01-04
 EO23I=KV
 U5JA=KR
 U5JN=KR
