@@ -4,7 +4,6 @@ BEGIN {
   printf("#01 Data collected and maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  printf("#04 Updated to 2023 RAC sections\n");
 }
 {
   if ($1 ~ /!!Order!!/) 
@@ -23,7 +22,7 @@ BEGIN {
   } 
   else if ( \
     toupper($call) ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $cls !~ /^\[1-9][0-9]*[IOH]$/ && \
+    $cls !~ /^\[1-9][0-9]?[IOH]$/ && \
     $sct ~ /^(DX|MX|AL|AK|AB|AZ|AR|BC|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|GH|ID|IL|IN|IA|KS|KY|LAX|LA|ME|MB|MDC|MI|MN|MS|MO|MT|NE|NV|NB|NH|NM|NLI|NL|NC|ND|NTX|NFL|NNJ|NNY|NS|OH|OK|ONE|ONN|ONS|ORG|OR|PAC|PE|PR|QC|RI|SV|SDG|SF|SJV|SB|SCV|SK|SC|SD|STX|SFL|SNJ|TN|TER|VI|UT|VT|VA|WCF|WTX|WV|WMA|WNY|WPA|WWA|WI|WY)$/) 
   {
     callsign[toupper($call)] = toupper($call);
