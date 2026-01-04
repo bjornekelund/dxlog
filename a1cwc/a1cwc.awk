@@ -23,8 +23,8 @@ BEGIN {
   } 
   else 
   {
-    nm = toupper($col);
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && nm ~ /^[A-Z]+$/ && length(nm) <= limit) 
+    name = toupper($col);
+    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && name ~ /^[A-Z]+$/ && length(name) <= limit) 
     {
       if (calls[$call] != "") 
       {
@@ -34,11 +34,8 @@ BEGIN {
       {
         line[$call] = $0;
         calls[$call] = $call;
-        names[$call] = nm;
-        if (length(nm) > length(longest)) 
-        {
-          longest = nm;
-        }
+        names[$call] = name;
+        longest = length(name) > length(longest) ? name : longest;
       }
     }
     else if ($0 !~ /^(!|#|$)/) 
@@ -52,5 +49,5 @@ END {
   {
     printf("%s=%s\n", cl, names[cl]);
   }
-  printf("Longest name is \"%s\" (%d)\n", longest, length(longest)) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

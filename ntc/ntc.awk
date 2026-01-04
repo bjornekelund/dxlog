@@ -4,8 +4,7 @@ BEGIN {
   printf("#02 Send updates/corrections to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
-  maxlen = 0;
-  maxname = "";
+  longest = "";
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -33,11 +32,7 @@ BEGIN {
       sub(/^0+/, "", $exch);
       printf("%s=%s;%s\n", $call, $name, $exch);
       lines[$call] = $0;
-    }
-    if (length($name) > maxlen) 
-    {
-      maxlen = length($name);
-      maxname = $name;
+      longest = length($name) > length(longest) ? $name : longest;
     }
   }
   else if ($0 !~ /^(!|#|$)/)
@@ -46,5 +41,5 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is \"%s\" which is %d characters long.\n", maxname, maxlen) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

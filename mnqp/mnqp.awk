@@ -40,10 +40,7 @@ BEGIN {
     {
       printf("%s=%s;%s\n", $call, toupper($name), $state);
       lines[$call] = $0;
-      if (length($name) > length(longest)) 
-      {
-        longest = $name;
-      }
+      longest = length($name) > length(longest) ? $name : longest;
     }
   }
   else if ($0 !~ /^(!|#|$)/)
@@ -52,5 +49,5 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is %s (%d)\n", longest, length(longest)) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

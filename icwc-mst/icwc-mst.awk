@@ -29,11 +29,8 @@ BEGIN {
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/) 
   {
-    if (length($col) > length(longest)) 
-    {
-      longest = $col;
-    }
     printf("%s=%s\n", $call, toupper($col));
+    longest = length($col) > length(longest) ? $col : longest;
     line[$call] = $0;
   }
   else 
@@ -49,5 +46,5 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is: \"%s\" with %d characters.\n", longest, length(longest)) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

@@ -43,6 +43,7 @@ BEGIN {
           $ex !~ /VE[0-9]$/ )
         {
           printf("%s=%s;%s\n", $call, name, $ex);
+          longest = length(name) > length(longest) ? name : longest;
           ok = 1;
         }
         else
@@ -55,6 +56,7 @@ BEGIN {
         if ($call ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/)
         {
           printf("%s=%s;%s\n", $call, name, "");
+          longest = length(name) > length(longest) ? name : longest;
           ok = 1;
         }
         else
@@ -65,13 +67,10 @@ BEGIN {
       else
       {
           printf("%s=%s;%s\n", $call, name, "");
+          longest = length(name) > length(longest) ? name : longest;
           ok = 1;
       } 
   #    printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
-      if (ok && length(name) > length(longest)) 
-      {
-        longest = name;
-      }
     }
     else if ($0 !~ /^(#|!|$)/)
     {
@@ -80,5 +79,5 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is \"%s\" (%d)\n", longest, length(longest)) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

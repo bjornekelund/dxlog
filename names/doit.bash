@@ -13,6 +13,8 @@ echo Created $OUTFILEXDT
 
 cp $OUTFILEXDT ../xdt
 
+echo Parsing $INFILE
+
 gawk -f names.awk $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE

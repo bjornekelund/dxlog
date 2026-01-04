@@ -30,25 +30,18 @@ BEGIN {
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|^4U1W|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) || \
     ($call ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)) 
   {
-    if (length($name) > maxlen) 
-    {
-      maxlen = length($name);
-      longest = $name;
-    }
     if (!($state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/ && $name ~ /^$/)) 
     {
       printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
+      longest = length($name) > length(longest) ? $name : longest;
       lines[$call] = $0;
     }
   } 
-  else if ($call ~ /^[A-Z0-9]/ && $state ~ /^(VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|J8|VP[25]|DX)$/) 
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~ /^(VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|J8|VP[25]|DX)$/) 
   {
-    if (length($name) > maxlen) 
-    {
-      maxlen = length($name);
-      longest = $name;
-    }
     printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
+    longest = length($name) > length(longest) ? $name : longest;
+    lines[$call] = $0;
   }
   else if ($0 !~ /^(!|#|$)/) 
   {
@@ -56,5 +49,5 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is %s (%d)\n", longest, maxlen) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

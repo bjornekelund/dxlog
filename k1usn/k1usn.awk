@@ -68,10 +68,7 @@ BEGIN {
         calls[$1] = $call;
         name[$1] = toupper($nm);
         exchange[$1] = exch;
-        if (length($nm) > length(longest)) 
-        {
-          longest = toupper($nm);
-        }
+        longest = length($nm) > length(longest) ? $nm : longest;
       }
     }
   }

@@ -3,9 +3,8 @@
 # JARTSWWRTY
 # LastEdit,2025-10-20
 # Original file from IZ/W0IZ 
-# Thanks to Bjorn SM7IUN for editing file for 2025
-# These are numbers from 2025, +1 will be added for 2026
 # Updated from log of VE2FK 2025
+# Thanks to Bjorn SM7IUN for editing file for 2026
 2E0CVN,39,
 2E0FHM,55,
 3Z9W,78,

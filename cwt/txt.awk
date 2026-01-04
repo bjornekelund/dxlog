@@ -165,10 +165,7 @@ BEGIN {
     {
       printf("%s=%s;%s\n", call, name, ID);
       max = (int(ID) > max) ? int(ID) : max;
-      if (length(name) > length(longest)) 
-      {
-        longest = name;
-      }
+      longest = length(name) > length(longest) ? name : longest;
 #      printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
     }
   }

@@ -17,10 +17,7 @@ BEGIN {
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Z0-9]+$/) 
   {
     printf("%s=%s\n", $call, $col);
-    if (length($col) > length(longest)) 
-    {
-      longest = $col;
-    }
+    longest = length($col) > length(longest) ? $col : longest;
   }
   else if ($0 !~ /^(!|#|$)/ && $col != "") 
   {
@@ -33,5 +30,5 @@ END {
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Longest DOK is %s with %d characters.\n", longest, length(longest)); 
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
-  printf("Longest DOK is %s with %d characters.\n", longest, length(longest)) > "/dev/stderr"; 
+  printf("Longest DOK is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr"; 
 }

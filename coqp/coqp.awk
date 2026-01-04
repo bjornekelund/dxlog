@@ -33,11 +33,8 @@ BEGIN {
     }
     else if (!($state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/ && $name ~ /^$/))
     {
-      if (length($name) > length(longest)) 
-      {
-        longest = $name;
-      }
       printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
+      longest = length($name) > length(longest) ? $name : longest;
       lines[$call] = $0;
     }
   }
@@ -47,5 +44,5 @@ BEGIN {
   }
 }
 END {
-  printf("Longest name is %s (%d)\n", longest, length(longest)) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }
