@@ -27,7 +27,10 @@ BEGIN {
     }
     else 
     {
-      printf("%s=%s\n", $call, $3);
+      if ($state !~ /^(AB|BC|LB|MB|NB|NF|NT|NS|NU|ON|PE|QC|SK|YT)$/)
+      {
+        printf("%s=%s\n", $call, $state);
+      }
       lines[$call] = $0;
     }
   }

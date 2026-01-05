@@ -20,13 +20,13 @@ BEGIN {
   else if ( \
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TX|UT|VT|VA|WA|WV|WI|WY)$/) || \
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $state ~ /^(ANDE|BEDF|BENT|BLED|BLOU|BRAD|CAMP|CANN|CARR|CART|CHEA|CHES|CLAI|CLAY|COCK|COFF|CROC|CUMB|DAVI|DECA|DEKA|DICK|DYER|FAYE|FENT|FRAN|GIBS|GILE|GRAI|GREE|GRUN|HAMB|HAMI|HANC|HARD|HARN|HAWK|HAYW|HEND|HENR|HICK|HOUS|HUMP|JACK|JEFF|JOHN|KNOX|LAKE|LAUD|LAWR|LEWI|LINC|LOUD|MACO|MADI|MARI|MARS|MAUR|MCMI|MCNA|MEIG|MONR|MONT|MOOR|MORG|OBIO|OVER|PERR|PICK|POLK|PUTN|RHEA|ROAN|ROBE|RUTH|SCOT|SEQU|SEVI|SHEL|SMIT|STEW|SULL|SUMN|TIPT|TROU|UNIC|UNIO|VANB|WARR|WASH|WAYN|WEAK|WHIT|WILL|WILS)$/) || \
-    ($call ~ /^V[A-EOY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
+    ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$call] != "") 
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if ($state !~ /^(AB|BC|LB|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
+    else if ($state !~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
     {
       printf("%s=%s\n", $call, $state);
       lines[$call] = $0;
