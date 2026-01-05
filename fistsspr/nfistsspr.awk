@@ -8,26 +8,22 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/) 
   {
-    member = 0;
-    call = 0;
-    name = 0;
-    loc = 0;
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($2 ~ /Misc/) member = 1;
-    if ($3 ~ /Misc/) member = 2;
-    if ($4 ~ /Misc/) member = 3;
-    if ($5 ~ /Misc/) member = 4;
-    if ($2 ~ /Name/) name = 1;
-    if ($3 ~ /Name/) name = 2;
-    if ($4 ~ /Name/) name = 3;
-    if ($5 ~ /Name/) name = 4;
-    if ($2 ~ /Exch1/) loc = 1;
-    if ($3 ~ /Exch1/) loc = 2;
-    if ($4 ~ /Exch1/) loc = 3;
-    if ($5 ~ /Exch1/) loc = 4;
+    if ($2 ~ /Call/) call = 1; else
+    if ($3 ~ /Call/) call = 2; else 
+    if ($4 ~ /Call/) call = 3; else
+    if ($5 ~ /Call/) call = 4; else call = 0;
+    if ($2 ~ /Misc/) member = 1; else
+    if ($3 ~ /Misc/) member = 2; else
+    if ($4 ~ /Misc/) member = 3; else
+    if ($5 ~ /Misc/) member = 4; else member = 0;
+    if ($2 ~ /Name/) name = 1; else
+    if ($3 ~ /Name/) name = 2; else
+    if ($4 ~ /Name/) name = 3; else
+    if ($5 ~ /Name/) name = 4; else name =0;
+    if ($2 ~ /Exch1/) loc = 1; else
+    if ($3 ~ /Exch1/) loc = 2; else
+    if ($4 ~ /Exch1/) loc = 3; else
+    if ($5 ~ /Exch1/) loc = 4; else loc = 0;
     printf("%s --> call=%d, member=%d, name=%d, loc=%d\n", $0, call, member, name, loc) > "/dev/stderr";
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \

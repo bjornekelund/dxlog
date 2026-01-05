@@ -16,7 +16,7 @@ else
     echo "!!Order!!,Misc,Call,Name" > $INFILE
     dos2unix -q $WEBFILE $OLDFILE
     cat $WEBFILE >> $INFILE
-    cat $OLDFILE >> $INFILE
+    # cat $OLDFILE >> $INFILE
 
     gawk -f nfistsspr.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
