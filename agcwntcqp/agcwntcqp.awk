@@ -35,7 +35,6 @@ BEGIN {
   {
     callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
     nameok = $name ~ /^([A-Za-z]{2,10}|)$/;
-    hyphenated = $name ~ /^[A-Za-z]{2,10}\-[A-Za-z]{2,10}$/;
     firstok = $first ~ /^(AGCW[1-9][0-9]{0,3}|NTC[1-9][0-9]{0,3}$|NM)$/;
     secondok = $second ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
     lenok = $empty == "";
@@ -46,14 +45,9 @@ BEGIN {
       {
         rname = $name;
       }
-      else if (hyphenated) 
-      {
-        p = index($name, "-");
-        rname = substr($name, 1, p - 1);
-        printf("Hyphenated name: \"%s\" --> \"%s\"\n", $name, rname) > "/dev/stderr";
-      }
       else 
       {
+        printf("Problem name in: \"%s\"\n", $0) > "/dev/stderr";
         rname = "";
       }
       printf("%s=%s;%s;%s\n", $call, rname, $first, $second);
@@ -63,21 +57,17 @@ BEGIN {
         maxlen = length($name);
         maxname = $name;
       }
-      if (!nameok) 
-      {
-          printf("Name \"%s\" ignored in \"%s\"\n", rname, $0) > "/dev/stderr";
-      }
     }
     else if ($0 !~ /^(!|#|$)/) 
     {
       if (nameok)
-        # printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
-        printf("") > "/dev/stderr";
+        printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+        # printf("") > "/dev/stderr";
       else
         printf("Problem name:  \"%s\"\n", $0) > "/dev/stderr";
     }
   }
 }
 END { 
-    printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
+    printf("%s has the longest name: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
 }

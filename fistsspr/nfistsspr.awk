@@ -9,6 +9,7 @@ BEGIN {
   if ($1 ~ /!!Order!!/) 
   {
     member = 0;
+    call = 0;
     name = 0;
     loc = 0;
     if ($2 ~ /Call/) call = 1;
@@ -29,17 +30,22 @@ BEGIN {
     if ($5 ~ /Exch1/) loc = 4;
     printf("%s --> call=%d, member=%d, name=%d, loc=%d\n", $0, call, member, name, loc) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
+    $member ~ /^([0-9]+)$/ && $name ~ /^[A-Za-z]+$/ && $loc ~ /./)
   {
-      # printf("%s mem=%d $mem=%s\n", $call, member, $member) > "/dev/stderr";
+    printf("%s mem=%d $mem=%s\n", $call, member, $member) > "/dev/stderr";
+
+    if (callsign[$call] != "" && (membernr[$call] != $member || opname[$call] = toupper($name) || location[$call] = $loc))
+    {
+      printf("%s updated name=%s mem=%s loc=%s\n", $call, opname[$call], membernr[$call], location[$call]) > "/dev/stderr";
+      printf("line=\"%s\"\n", $0) > "/dev/stderr";
+    }
 
     if (member > 0 && $member ~ /^[0-9]+$/) membernr[$call] = $member;
     if (name > 0 && $name ~ /^[A-Za-z]+$/) opname[$call] = toupper($name);
     if (loc > 0 && $loc ~ /^[A-Z]{2}$/) location[$call] = $loc;
     # if (loc > 0 && $loc !~ /^(|AB|BC|LB|MB|NB|NF|NT|NS|NU|ON|PE|QC|SK|YT)$/) location[$call] = $loc;
 
-    if (callsign[$call] != "")
-      printf("%s updated name=%s mem=%s loc=%s\n", $call, opname[$call], membernr[$call], location[$call]) > "/dev/stderr";
 
     callsign[$call] = $call;
 
