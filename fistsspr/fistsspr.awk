@@ -31,8 +31,8 @@ BEGIN {
   }
   else if (call > 0 && $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)
   {
-    if ($call == "2E0AAO")
-      printf("%s mem=%d $mem=%s\n", $call, member, $member) > "/dev/stderr";
+    if ($call == "2E0AAO" && name > 0)
+      printf("%s name=%d $name=%s\n", $call, name, $name) > "/dev/stderr";
 
     if (member > 0 && $member ~ /^[0-9]+$/) membernr[$call] = $member;
     if (name > 0 && $name ~ /^[A-Za-z]+$/) opname[$call] = toupper($name);

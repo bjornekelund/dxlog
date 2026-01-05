@@ -1,4 +1,4 @@
-!!Order!!,Call,Name,Misc,OLD
+!!Order!!,Call,Name,Misc,
 2E0AAO,STEPHEN,18706,
 2E0AGQ,BRIAN,12584,
 2E0ATS,JIM,7144,

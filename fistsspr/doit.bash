@@ -26,6 +26,7 @@ else
     dos2unix -q $WEBFILE $OLDFILE $CWTFILE $SSFILE
 
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Misc,Call,Name,NEWFILE\n");}{if ($0 ~ /^[0-9]/)printf("%s\n", $0);}' $WEBFILE > $NEWFILE
+    gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Name,xxx,OLDFILE\n");}{if ($0 ~ /^[A-Z0-9]/)printf("%s\n", $0);}' $OLDFILE >> $NEWFILE
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Name,NAMEFILE\n");}{if ($0 ~ /^[A-Z0-9]/ && $2 ~ /^[A-Za-z]+/)printf("%s,%s\n", $1, $2);}' $CWTFILE > $NAMEFILE
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Exch1,LOCFILE\n");}{if ($0 ~ /^[A-Z0-9]/ && $3 ~ /^[A-Z]+/)printf("%s,%s\n", $1, $3);}' $SSFILE > $LOCFILE
 
