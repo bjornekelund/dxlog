@@ -1,3 +1,0 @@
-NDE=Delaware New Castle County
-KDE=Delaware Kent County
-SDE=Delaware Sussex County
