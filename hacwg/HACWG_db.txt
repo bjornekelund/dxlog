@@ -1,7 +1,7 @@
 # HACWG members database
 # Data collected and maintained by HA3NU
 # Report updates and corrections directly to ha3nu@dx.hu
-# Last updated 2026-01-03
+# Last updated 2026-01-05
 4N7CW=89
 9A1AA=245
 9A3SM=84

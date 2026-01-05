@@ -1,7 +1,7 @@
 # CQ WW CW database
 # Based on call history data maintained by VE2FK ve2fk@arrl.net
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2022-11-28
+# Last updated 2026-01-05
 2E0AQQ=14
 2E0CNL=14
 2E0FAQ=14

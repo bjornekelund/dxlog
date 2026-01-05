@@ -1,5 +1,5 @@
 # POTA activation database
-# Last updated 2025-12-29
+# Last updated 2026-01-05
 2I0WLZ=ANDREW
 4X4FC=ALEX
 5P5Q=VERNER

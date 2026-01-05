@@ -1,7 +1,7 @@
 # JIDXC prefill database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-04
+# Last updated 2026-01-05
 7J1ABD/1=11
 7J1ABD=10
 7J1ANH/1=10

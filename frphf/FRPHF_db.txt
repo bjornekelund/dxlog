@@ -2,7 +2,7 @@
 # Data collected and maintained by Claude VE2FK
 # Contains only calls not handled by rule-based prefill
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-04
+# Last updated 2026-01-05
 PP5AA=HQ
 PP5CS=QRP
 PP5LG=QRP
