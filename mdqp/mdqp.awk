@@ -32,7 +32,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $col !~ /^(MD|DC)$/) 
+  else if ($0 !~ /^(!|#|$)/ && $call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|MA|ME|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) 
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

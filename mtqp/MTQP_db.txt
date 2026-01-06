@@ -1,7 +1,7 @@
 # Montana QSO Party database
 # Based on NAQP database maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-05
+# Last updated 2026-01-06
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
