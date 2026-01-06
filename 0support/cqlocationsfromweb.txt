@@ -1,0 +1,100 @@
+DX	DX	Outside USA/Canada
+CT	W1	Connecticut
+EMA	W1	Eastern Massachusetts
+WMA	W1	Western Massachusetts
+MA	W1	Massachusetts
+VT	W1	Vermont
+NH	W1	New Hamsphire
+RI	W1	Rhode Island
+ME	W1	Maine
+ENY	W2	Eastern New York
+WNY	W2	Western New York
+NLI	W2	New York Long Island
+NNJ	W2	Northern New Jersey
+NNY	W2	Northern New York
+SNJ	W2	Southern New Jersey
+NY	W2	New York
+NJ	W2	New Jersey
+DE	W3	Delaware
+EPA	W3	Eastern Pennsylvania
+MDC	W3	Maryland District of Columbia
+WPA	W3	Western Pennsylvania
+PA	W3	Pennsylvania
+MD	W3	Maryland
+AL	W4	Alabama
+GA	W4	Georgia
+KY	W4	Kentucky
+NC	W4	North Carolina
+NFL	W4	Northern Florida
+SC	W4	South Carolina
+SFL	W4	South Florida
+WCF	W4	West Central Florida
+TN	W4	Tennessee
+VA	W4	Virginia
+FL	W4	Florida
+AR	W5	Arkansas
+LA	W5	Louisiana
+MS	W5	Mississippi
+NM	W5	New Mexico
+NTX	W5	North Texas
+OK	W5	Oklahoma
+STX	W5	South Texas
+WTX	W5	West Texas
+TX	W5	Texas
+EB	W6	East Bay
+LAX	W6	Los Angeles
+ORG	W6	Orange
+SB	W6	Santa Barbara
+SCV	W6	Santa Clara Valley
+SDG	W6	San Diego
+SF	W6	San Francisco
+SJV	W6	San Joaquin Valley
+SV	W6	Sacramento Valley
+CA	W6	California
+AZ	W7	Arizona
+EWA	W7	Eastern Washington
+ID	W7	Idaho
+MT	W7	Montana
+NV	W7	Nevada
+OR	W7	Oregon
+UT	W7	Utah
+WWA	W7	Western Washington
+WY	W7	Wyoming
+WA	W7	Washington
+MI	W8	Michigan
+OH	W8	Ohio
+WV	W8	West Virginia
+IL	W9	Illinois
+IN	W9	Indiana
+WI	W9	Wisconsin
+CO	W0	Colorado
+IA	W0	Iowa
+KS	W0	Kansas
+MN	W0	Minnesota
+MO	W0	Missouri
+NE	W0	Nebraska
+ND	W0	North Dakota
+SD	W0	South Dakota
+NL	VO	Newfoundland and Labrador
+MAR	VE1	Maritime (NB-NS-PE)
+NS	VE1	Nova Scotia
+NB	VE9	New Brunswick
+PE	VY2	Prince Edward Island
+QC	VE2	Quebec
+ON	VE3	Ontario
+ONE	VE3	Ontario East
+ONN	VE3	Ontario North
+ONS	VE3	Ontario South
+GTA	VE3	Greater Toronto Area
+GH	VE3	Golden Horsehoe
+MB	VE4	Manitoba
+SK	VE5	Saskatchewan
+AB	VE6	Alberta
+BC	VE7	British Columbia
+NT	VE8	Northwest Territories
+YT	VY1	Yukon Territory
+TER	VY1	Yukon/NWT/Nunavut
+AK	KL	Alaska
+PAC	KH	Pacific
+PR	KP4	Puerto Rico
+VI	KP2	Virgin Islands

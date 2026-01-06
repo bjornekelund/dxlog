@@ -1,6 +1,6 @@
 # RCWC member database based on data from https://rcwc.ru/?do=members
 # Contains members up to #1516
-# Last updated 2026-01-05
+# Last updated 2026-01-06
 4L1MA=CM919
 4L3T=CM919
 4L6QC=CM271
