@@ -342,7 +342,6 @@ DL5MFF,Andy
 K2AO,Andy
 DL5MX,Mike
 DL5NAM,Chris
-DL5NDX,Ulrich
 DL5NEN,Tom
 DR5M,Tom
 DN5EN,Tom

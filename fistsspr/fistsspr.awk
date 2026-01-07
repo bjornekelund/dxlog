@@ -4,6 +4,9 @@ BEGIN {
   printf("#01 Data collected and maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  addlocs = 0;
+  uplocs = 0;
+  upnames = 0;
 }
 {
   if ($1 ~ /!!Order!!/) 
@@ -31,16 +34,42 @@ BEGIN {
   }
   else if (call > 0 && $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)
   {
-    if ($call == "2E0AAO" && name > 0)
-      printf("%s name=%d $name=%s\n", $call, name, $name) > "/dev/stderr";
+    if (member > 0 && $member ~ /^[0-9]+$/ && $member != membernr[$call]) 
+    {
+      if (membernr[$call] != "")
+      {
+        printf("Updated member no of %s from %s to %s\n", $call, membernr[$call], $member) > "/dev/stderr";
+      }
+      membernr[$call] = $member;
+    }
 
-    if (member > 0 && $member ~ /^[0-9]+$/) membernr[$call] = $member;
-    if (name > 0 && $name ~ /^[A-Za-z]+$/) opname[$call] = toupper($name);
-    if (loc > 0 && $loc ~ /^[A-Z]{2}$/) location[$call] = $loc;
+    if (name > 0 && $name ~ /^[A-Za-z]+$/ && toupper($name) != opname[$call] && toupper($name) !~ /CLUB/) 
+    {
+      if (membernr[$call] != "")
+      {
+        if (opname[$call] != "")
+        {
+          upnames++;
+        }
+        # printf("Updated name of %s from %s to %s\n", $call, opname[$call], toupper($name)) > "/dev/stderr";
+      }
+      opname[$call] = toupper($name);
+    }
+
+    if (loc > 0 && $loc ~ /^[A-Z]{2}$/ && $loc != location[$call]) 
+    {
+      if (location[$call] != "")
+      {
+        # printf("Updated location of %s from %s to %s\n", $call, location[$call], $loc) > "/dev/stderr";
+        uplocs++;
+      }
+      else
+      {
+        addlocs++;
+      }
+      location[$call] = $loc;
+    }
     # if (loc > 0 && $loc !~ /^(|AB|BC|LB|MB|NB|NF|NT|NS|NU|ON|PE|QC|SK|YT)$/) location[$call] = $loc;
-
-    if (callsign[$call] != "" && $call == "2E0AAO")
-      printf("%s updated name=%s mem=%s loc=%s\n", $call, opname[$call], membernr[$call], location[$call]) > "/dev/stderr";
 
     callsign[$call] = $call;
 
@@ -61,6 +90,8 @@ BEGIN {
   }
 }
 END {
+    printf("Added %d locations and updated %d of them\n", addlocs, uplocs) > "/dev/stderr";
+    printf("Updates %d names\n", upnames) > "/dev/stderr";
     for (cl in callsign)
     {
       if (membernr[cl] != "")
