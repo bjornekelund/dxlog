@@ -133,14 +133,22 @@ BEGIN {
     }
     if (ID != "" && OID != "" && ID != OID && OID !~ /^([1-9][0-9]{0,3}|CWA)$/)
     {
-      printf("Exchange is \"%s\" for %s but should probably be \"%s\"\n", OID, call, ID) > "/dev/stderr";
+      if ( \
+        !(call == "VE1ASE" && OID == "NB") && \
+        !(call == "VE1EJ" && OID == "ON") && \
+        !(call == "ZF2DO" && OID == "TX") && \
+        !(call == "ZF2LZ" && OID == "MA") \
+        )
+      {
+        printf("Exchange is \"%s\" for %s but should probably be \"%s\"\n", OID, call, ID) > "/dev/stderr";
+      }
     }
     
     if (OID != "")
     {
       ID = OID;    
     }
-    else if (ID == "")
+    else if (ID == "" && call != "N4DL")
     {
       printf("Empty member/location for %s\n", call) > "/dev/stderr";
     }
