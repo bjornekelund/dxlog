@@ -1,7 +1,7 @@
 BEGIN {
   FS=","
   printf("#00 LZ DX Contest database\n");
-  printf("#01 Based on data collected and maintained by VE2FK and R9IR\n");
+  printf("#01 Based on data maintained by VE2FK and R9IR\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
 }

@@ -1,6 +1,6 @@
 BEGIN {
   printf("#00 HA DX database\n");
-  printf("#01 Data collected and maintained by HA2NA ha2na@ha2na.hu\n");
+  printf("#01 Based on data maintained by HA2NA ha2na@ha2na.hu\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }

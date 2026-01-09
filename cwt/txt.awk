@@ -184,7 +184,7 @@ BEGIN {
 }
 END {
   printf("#00 CWOps CWT participants database\n");
-  printf("#01 Data collected and maintained by Claude VE2FK\n");
+  printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#03 Contains members up to #%d\n", max);
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));

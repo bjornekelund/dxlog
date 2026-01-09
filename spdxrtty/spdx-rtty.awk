@@ -1,6 +1,6 @@
 BEGIN {
   printf("#00 SP DX RTTY prefill database\n");
-  printf("#01 Based on call history data by Chris, SP5KP\n");
+  printf("#01 Based on data maintained by Chris SP5KP\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }

@@ -1,7 +1,7 @@
 BEGIN {
   FS=","
   printf("#00 REF database\n");
-  printf("#01 Data collected and maintained by Claude VE2FK and Vince F5OIH\n");
+  printf("#01 Based on data maintained by Claude VE2FK and Vince F5OIH\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
 }
