@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-01-07
+# LastEdit,2026-01-09
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -2229,6 +2229,7 @@ K6TET,Ted,CA,San Bruno CA
 K6TJ,Pete,CA,Los Altos CA
 K6TOR,Rick,2732,San Francisco CA
 K6TR,Paul,2589,(ex K2HZO) Ukian CA
+K6TTA,Jeff,3860,
 K6TTT,Bruce,2595,Lancaster CA
 K6TXA,Bob,CA,Newport Beach CA
 K6UFO,Mork,403,San Francisco CA
@@ -2449,7 +2450,8 @@ K9CTS,Greg,WI,River Falls WI
 K9CW,Drew,979,Thomasboro IL
 K9DSD,Dave,CO,Colorado Springs CO
 K9DUR,Ray,IN,West Terre Haute IN
-K9DX,John,184,DE
+K9DX,John,184,Inverness IL
+K9DX/3,John,184,Wilmington DE
 K9EI,Matt,3391,Ellettsville IN
 K9EU,Erik,886,Naperville IL
 K9EXY,Rick,IN,Evansville IN
@@ -2787,6 +2789,7 @@ KD4S,Rich,SC,Travelers Rest SC
 KD4UKW,John,GA,Atlanta GA
 KD4UYP,Brian,GA,Sugar Hill GA
 KD4Y,Gene,3694,Newport TN
+KD4ZFS,Jon,3859,
 KD5BKW,Abdul,LA,Metairie LA
 KD5DD,Doc,MS,Tupelo MS (Deep Dixie Contest Club)
 KD5J,Cord,AR,Batesville AR
@@ -5354,7 +5357,7 @@ VE2DZZ,Pierre,QC,Sherbrooke QC
 VE2EBK,Dany,QC,Quebec QC
 VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,QC,(1181) Eastern QC.
+VE2FK,Dub,QC,*** Linked to Real Time Contest Server ***
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2GT,Pierre,QC,

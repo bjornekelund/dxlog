@@ -1,8 +1,8 @@
-# CWOps CWT participants database
-# Data collected and maintained by Claude VE2FK
+# CWOps CWT prefill database
+# Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Contains members up to #3857
-# Last updated 2026-01-08
+# Contains members up to #3860
+# Last updated 2026-01-09
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -2224,6 +2224,7 @@ K6TET=Ted;CA
 K6TJ=Pete;CA
 K6TOR=Rick;2732
 K6TR=Paul;2589
+K6TTA=Jeff;3860
 K6TTT=Bruce;2595
 K6TXA=Bob;CA
 K6UFO=Mork;403
@@ -2444,6 +2445,7 @@ K9CTS=Greg;WI
 K9CW=Drew;979
 K9DSD=Dave;CO
 K9DUR=Ray;IN
+K9DX/3=John;184
 K9DX=John;184
 K9EI=Matt;3391
 K9EU=Erik;886
@@ -2782,6 +2784,7 @@ KD4S=Rich;SC
 KD4UKW=John;GA
 KD4UYP=Brian;GA
 KD4Y=Gene;3694
+KD4ZFS=Jon;3859
 KD5BKW=Abdul;LA
 KD5DD=Doc;MS
 KD5J=Cord;AR
