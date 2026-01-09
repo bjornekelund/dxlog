@@ -1,7 +1,7 @@
-# Vermont QSO Party database
-# Based on NAQP database maintained by Claude VE2FK
+# Vermont QSO Party prefill database
+# Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-05
+# Last updated 2026-01-09
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -6193,7 +6193,6 @@ KK7AC=AZ
 KK7B=OR
 KK7BIJ=UT
 KK7BJ=AZ
-KK7CED/AG=WA
 KK7DS=OR
 KK7JS=TX
 KK7KSC=OR
@@ -6467,7 +6466,6 @@ KO4GAR=SC
 KO4IJH=VA
 KO4IVS=SC
 KO4JES=FL
-KO4KET/AG=VA
 KO4KSJ=GA
 KO4LZZ=NC
 KO4MFX=GA

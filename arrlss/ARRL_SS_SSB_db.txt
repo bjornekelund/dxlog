@@ -1,7 +1,7 @@
-# ARRL SSB Sweepstakes database
-# Based on data collected and maintained by VE2FK
+# ARRL SSB Sweepstakes prefill database
+# Based on data maintained by VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-05
+# Last updated 2026-01-09
 4U1WB=;89;MDC
 AA0A=;60;MO
 AA0AA=;86;NE
@@ -3463,7 +3463,6 @@ KA3SMF=;88;WPA
 KA3TCC=;88;MDC
 KA3UIH=;89;MDC
 KA3UOL=;89;WPA
-KA3VQR/A=;90;EPA
 KA3WIK=;90;WPA
 KA3YJM=;92;MDC
 KA4AQM=;79;VA
@@ -9896,7 +9895,6 @@ W1END=;55;NH
 W1EQ=;63;CT
 W1ESE=;5;AZ
 W1EZ=;71;EMA
-W1EZER=;18;MO
 W1FA=;75;EMA
 W1FM=;61;EMA
 W1FNJ=;92;NH

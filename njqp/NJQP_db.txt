@@ -1,4 +1,4 @@
-# New Jersey QSO Party database
+# New Jersey QSO Party prefill database
 # Based data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2026-01-09

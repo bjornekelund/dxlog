@@ -1,5 +1,5 @@
-# California QSO Party database
-# Data collected and maintained by Claude VE2FK
+# California QSO Party prefill database
+# Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2026-01-09
 AA0AC=MN
@@ -10,6 +10,7 @@ AA0FO=KS
 AA0Q=CO
 AA0Y=AZ
 AA1BS=ME
+AA1HE/QRP=UT
 AA1N=MA
 AA1SE=MA
 AA2AD=PA

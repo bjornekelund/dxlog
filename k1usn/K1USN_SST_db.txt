@@ -1,4 +1,4 @@
-# K1USN Slow Speed Test participants database
+# K1USN Slow Speed Test prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2026-01-09
@@ -5291,7 +5291,7 @@ N0IS=BOB;MO
 N0JL=JIM;IA
 N0JO=JOE;MN
 N0KBD=DAVID;MN
-N0KCJ/J=JOHN;MN
+N0KCJ/J=JOHN;DX
 N0KE=PHIL;CO
 N0KK=KIRK;MN
 N0KKY=STAN;CO

@@ -1,7 +1,7 @@
-# South Dakota QSO Party database
-# Data collected and maintained by Claude VE2FK
+# South Dakota QSO Party prefill database
+# Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-07
+# Last updated 2026-01-09
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -4009,7 +4009,6 @@ KA3MUJ=PA
 KA3NAM=KS
 KA3NED=PA
 KA3NZR=VA
-KA3OCS/QRP=VA
 KA3PCX=PA
 KA3PMW=PA
 KA3PVA=PA
@@ -6132,7 +6131,6 @@ KK7AC=AZ
 KK7B=OR
 KK7BIJ=UT
 KK7BJ=AZ
-KK7CED/AG=WA
 KK7DS=OR
 KK7JS=TX
 KK7KSC=OR
@@ -6404,7 +6402,6 @@ KO4GAR=SC
 KO4IJH=VA
 KO4IVS=SC
 KO4JES=FL
-KO4KET/AG=VA
 KO4KSJ=GA
 KO4LZZ=NC
 KO4MFX=GA
@@ -11819,7 +11816,6 @@ W6LD=CA
 W6LED=CA
 W6LEN=CA
 W6LEV=CO
-W6LFB/QRP=TX
 W6LFB=TX
 W6LMJ=FL
 W6LSN=CA
