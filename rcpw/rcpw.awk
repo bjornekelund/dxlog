@@ -15,7 +15,7 @@ BEGIN {
   }
 }
 END {
-  printf("#1 RCPW members database based on http://rcpw.ru/members.html\n");
+  printf("#1 RCPW members prefill database based on http://rcpw.ru/members.html\n");
   printf("#2 Contains members up to #%d\n", last);
   printf("#3 Last updated %s\n", strftime("%Y-%m-%d"));
   for (i = 1; i <= last; i++)

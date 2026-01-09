@@ -1,6 +1,6 @@
 BEGIN {
   FS=","
-  printf("#00 Montana QSO Party database\n");
+  printf("#00 Montana QSO Party prefill database\n");
   printf("#01 Based on NAQP data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
@@ -18,8 +18,9 @@ BEGIN {
     printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   } 
   else if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $state ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $state ~ /^(BEA|BIG|BLA|BRO|CAS|CHO|CRB|CRT|CUS|DAN|DAW|DEE|FAL|FER|FLA|GAL|GAR|GLA|GOL|GRA|HIL|JEF|JUD|LAK|LEW|LIB|LIN|MAD|MCC|MEA|MIN|MIS|MUS|PAR|PET|PHI|PON|PRA|PWD|PWL|RAV|RIC|ROO|ROS|SAN|SHE|SIL|STI|SWE|TET|TOO|TRE|VAL|WHE|WIB|YEL)$/) || \
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
+      ($state ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/ || \
+      $state ~ /^(BEA|BIG|BLA|BRO|CAS|CHO|CRB|CRT|CUS|DAN|DAW|DEE|FAL|FER|FLA|GAL|GAR|GLA|GOL|GRA|HIL|JEF|JUD|LAK|LEW|LIB|LIN|MAD|MCC|MEA|MIN|MIS|MUS|PAR|PET|PHI|PON|PRA|PWD|PWL|RAV|RIC|ROO|ROS|SAN|SHE|SIL|STI|SWE|TET|TOO|TRE|VAL|WHE|WIB|YEL)$/)) || \
     ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$call] != "") 

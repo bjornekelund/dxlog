@@ -1,6 +1,6 @@
 BEGIN {
   FS=","
-  printf("#00 WWFF activation database\n");
+  printf("#00 WWFF activation prefill database\n");
   printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {

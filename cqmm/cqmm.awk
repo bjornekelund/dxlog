@@ -1,6 +1,6 @@
 BEGIN {
-  printf("#00 CQMM DX database\n");
-  printf("#01 Data collected by VE2FK and from https://site.cwjf.com.br\n");
+  printf("#00 CQMM DX Contest prefill database\n");
+  printf("#01 Based on data maintained by VE2FK and from https://site.cwjf.com.br\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }

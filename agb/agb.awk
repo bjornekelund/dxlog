@@ -14,7 +14,7 @@ BEGIN {
   }
 }
 END {
-  printf("#00 AGB members database\n");
+  printf("#00 AGB members prefill database\n");
   printf("#01 Based on http://ev5agb.com/club/agb-list.txt\n");
   printf("#02 Contains members up to #%d\n", max);
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));

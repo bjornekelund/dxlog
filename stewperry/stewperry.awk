@@ -1,7 +1,7 @@
 BEGIN {
   printf("#00 Stew Perry TBDC data base\n");
   printf("#01 Also used for Makrothen, Maidenhead Mayhem, Russian 160m, Solar Eclipse QP, and CQ WW VHF contests\n");
-  printf("#02 Data collected and maintained by VE2FK\n");
+  printf("#02 Based on data maintained by VE2FK\n");
   printf("#03 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ","

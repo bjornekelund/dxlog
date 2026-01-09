@@ -1,7 +1,7 @@
 BEGIN {
   printf("#01 !!Order!!,Call,Prec,Sect,State,CK,UserText,\n");
-  printf("#02 ARRL Sweepstakes database\n");
-  printf("#03 Based on data collected and maintained by AD5Q\n");
+  printf("#02 ARRL Sweepstakes prefill database\n");
+  printf("#03 Based on data maintained by AD5Q\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=","
 }

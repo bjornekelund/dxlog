@@ -76,7 +76,7 @@ BEGIN {
 }
 END { 
 #  printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
-  printf("# AGCW-NTC Friendship QSO Party database\n");
+  printf("# AGCW-NTC Friendship QSO Party prefill database\n");
 #  printf("# Based on call history data maintained by VE2FK\n");
 #  printf("# Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));

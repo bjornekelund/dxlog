@@ -1,6 +1,6 @@
 BEGIN {
   FS=","
-  printf("#00 PODXS 070 members database\n");
+  printf("#00 PODXS 070 members prefill database\n");
   printf("#01 Based on data from https://www.podxs070.com/member-files\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }

@@ -1,6 +1,6 @@
 BEGIN {
   FS=","
-  printf("#00 Pennsylvania QSO Party database\n");
+  printf("#00 Pennsylvania QSO Party prefill database\n");
   printf("#01 Credits to AA3B and K3CT for collecting and consolidating the data\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }

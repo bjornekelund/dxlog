@@ -183,7 +183,7 @@ BEGIN {
   }
 }
 END {
-  printf("#00 CWOps CWT participants database\n");
+  printf("#00 CWOps CWT prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Send new info/corrections to ve2fk@arrl.net\n");
   printf("#03 Contains members up to #%d\n", max);

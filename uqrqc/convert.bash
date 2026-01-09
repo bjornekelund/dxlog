@@ -22,7 +22,7 @@ END {}' >> $TMPFILE
 gawk '
 BEGIN {
   FS=","
-  printf("#00 U-QRQ-C Members database\n");
+  printf("#00 U-QRQ-C Members prefill database\n");
   printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
@@ -65,7 +65,7 @@ exit
 cat $FILE | sed 's/Ø/0/g' | gawk '
 BEGIN {
   FS=" "
-  printf("#00 U-QRQ-C Members database\n");
+  printf("#00 U-QRQ-C Members prefill database\n");
   printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }

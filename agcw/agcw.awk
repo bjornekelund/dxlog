@@ -14,7 +14,7 @@ BEGIN {
   }
 }
 END {
-  printf("#00 AGCW members database\n");
+  printf("#00 AGCW members prefill database\n");
   printf("#01 Based on official member roster at www.agcw.de\n");
   printf("#02 Contains members up to #%d\n", max);
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));

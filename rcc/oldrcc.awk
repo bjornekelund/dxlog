@@ -1,7 +1,7 @@
 BEGIN {
   FS=";"
   max = 0;
-  printf("# RCC member database\n");
+  printf("# RCC members prefill database\n");
   printf("# Based on http://rcccup.ru/information/rcc-members\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
 }

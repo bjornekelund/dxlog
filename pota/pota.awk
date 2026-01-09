@@ -1,6 +1,6 @@
 BEGIN {
   FS=","
-  printf("#00 POTA activation database\n");
+  printf("#00 POTA activation prefill database\n");
   printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
@@ -10,10 +10,10 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Name/) col = 2;
-    if ($4 ~ /Name/) col = 3;
-    if ($5 ~ /Name/) col = 4;
-    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    if ($3 ~ /Name/) name = 2;
+    if ($4 ~ /Name/) name = 3;
+    if ($5 ~ /Name/) name = 4;
+    printf("%s --> call=%d name=%d\n", $0, call, name) > "/dev/stderr";
   } 
   else if ($call ~ /^[A-Z0-9]+$/ && $call ~ /[0-9]+/ && $call ~ /[A-Z]+/) 
   {
@@ -23,7 +23,7 @@ BEGIN {
     }
     else 
     {
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $name);
       lines[$call] = $0;
     }
   }

@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 RDXC irregular exchanges prefill database\n");
+  printf("#00 Russian DX Contest irregular exchanges prefill database\n");
   printf("#01 Contains only prefill that differs from DXLog's rule based Oblast prefill\n");
   printf("#02 Based on data maintained by VE2FK with contributions from NA3M\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
