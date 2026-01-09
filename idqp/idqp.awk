@@ -18,8 +18,8 @@ BEGIN {
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   } 
   else if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]+|\/)|\/W[0-9]$/ && $col ~ /^(ADA|ADM|BAN|BEA|BEN|BIN|BLA|BOI|BNR|BNV|BOU|BUT|CAM|CAN|CAR|CAS|CLA|CLE|CUS|ELM|FRA|FRE|GEM|GOO|IDA|JEF|JER|KOO|LAT|LEM|LEW|LIN|MAD|MIN|NEZ|ONE|OWY|PAY|POW|SHO|TET|TWI|VAL|WAS)$/) || \
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $col ~ /^(ADA|ADM|BAN|BEA|BEN|BIN|BLA|BOI|BNR|BNV|BOU|BUT|CAM|CAN|CAR|CAS|CLA|CLE|CUS|ELM|FRA|FRE|GEM|GOO|IDA|JEF|JER|KOO|LAT|LEM|LEW|LIN|MAD|MIN|NEZ|ONE|OWY|PAY|POW|SHO|TET|TWI|VAL|WAS)$/) || \
     ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$call] != "") 

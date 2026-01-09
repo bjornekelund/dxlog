@@ -18,8 +18,8 @@ BEGIN {
     printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
   } 
   else if ( \
-    ($call ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $state ~ /^(AL|AK|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-    ($call ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $state ~ /^(APH|CHS|CNO|GLA|GHM|GLE|LPZ|MCP|MHV|NVO|PMA|PNL|SCZ|YVP|YMA)$/) || \
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$|^4U1WB$/ && $state ~ /^(AL|AK|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9]([A-Z]{1,3})((\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$|^4U1WB$/ && $state ~ /^(APH|CHS|CNO|GLA|GHM|GLE|LPZ|MCP|MHV|NVO|PMA|PNL|SCZ|YVP|YMA)$/) || \
     ($call ~ /^(V[A-GOXY]|C[F-KY]|X[J-M])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) ) 
   {
     if (lines[$call] != "") 

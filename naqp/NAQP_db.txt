@@ -1,7 +1,7 @@
 # North American QSO Party database
 # Data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-07
+# Last updated 2026-01-09
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
 AA0AO=TOM;MN
@@ -10,7 +10,6 @@ AA0FO=MARSH;KS
 AA0Q=JOE;CO
 AA0Y=DON;AZ
 AA1BS=ROB;ME
-AA1HE/QRP=HARRY;UT
 AA1N=ADAM;MA
 AA1SE=RAY;MA
 AA2AD=PETE;PA
@@ -407,6 +406,7 @@ K3EU=BRIAN;DC
 K3EW=PHIL;MD
 K3FH=MIKE;PA
 K3FHP=DAVE;FL
+K3FI=SAUL;PA
 K3GP=GEO;OH
 K3HW=BILL;PA
 K3IE=HUNTER;TN
