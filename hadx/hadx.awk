@@ -2,7 +2,7 @@ BEGIN {
   printf("#00 HA DX Contest prefill database\n");
   printf("#01 Based on data maintained by HA2NA ha2na@ha2na.hu\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=","
+  FS=",";
 }
 {
   if ($1 ~ /!!Order!!/) 

@@ -2,11 +2,10 @@ dos2unix $1 $2
 cat $1 $2 |
 gawk '
 BEGIN {
-  FS=","
-  date = strftime("%Y-%m-%d");
-  printf("#00 HUGE RDAC database.\n");
-  printf("#01 Based on database from https://rdaward.org and call history data from VE2FK.\n");
-  printf("#02 File created on %s.\n", date);
+  printf("#00 HUGE RDA Contest prefill database.\n");
+  printf("#01 Based on data from https://rdaward.org and call history data from VE2FK.\n");
+  printf("#02 File created on %s.\n", strftime("%Y-%m-%d"));
+  FS=",";
 }
 {
   if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[A-Z]{2}[0-9]{2}$/) {

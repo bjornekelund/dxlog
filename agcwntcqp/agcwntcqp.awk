@@ -1,9 +1,9 @@
 BEGIN {
-  FS=","
   printf("#00 AGCW-NTC Friendship QSO Party prefill database\n");
   printf("#01 Based on data maintained by VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=",";
   maxlen = 0;
 }
 {

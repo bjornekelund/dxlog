@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 MARCONI CLUB ARI LOANO members prefill database\n");
+  printf("#00 Marconi Club ARI Loano members database\n");
   printf("#01 Based on data from http://www.ariloano.it/marconiclub\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=";"

@@ -1,9 +1,9 @@
 BEGIN {
-  printf("#00 CQ WW RTTY database - States and provinces but AK HI PR VI not included\n");
+  printf("#00 CQ WW RTTY Contest prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=","
+  FS=",";
 }
 {
   if ($1 ~ /!!Order!!/) 

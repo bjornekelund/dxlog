@@ -1,4 +1,4 @@
-# CQ 160M database - States and provinces
+# CQ 160M Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2026-01-11

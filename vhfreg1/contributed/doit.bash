@@ -12,7 +12,7 @@ echo Creating N1MM database by parsing $FILE
 
 cat $FILE | sed -e 's/=/,/g' | gawk '
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
   call = toupper($1);

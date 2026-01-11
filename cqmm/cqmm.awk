@@ -2,7 +2,7 @@ BEGIN {
   printf("#00 CQMM DX Contest prefill database\n");
   printf("#01 Based on data maintained by VE2FK and from https://site.cwjf.com.br\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=","
+  FS=",";
 }
 {
   if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQYM]?$/) 

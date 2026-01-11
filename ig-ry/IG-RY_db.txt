@@ -1,4 +1,4 @@
-# Database for IG-RY, SCC RTTY and RTTYops WW DX contests
+# Prefill database for IG-RY, SCC RTTY and RTTYops WW DX contests
 # Based on data maintained by Claude VE2FK
 # Report errors and updates to ve2fk@arrl.net
 # Last updated 2026-01-11

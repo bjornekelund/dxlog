@@ -1,9 +1,10 @@
 BEGIN {
-  printf("#00 Spanish provinces database including special exchanges HQ and SMR\n");
-  printf("#01 Based on data maintained by Claude VE2FK\n");
-  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=","
+  printf("#01 Spanish provinces prefill database\n");
+  printf("#02 Includes special exchanges HQ and SMR\n");
+  printf("#03 Based on data maintained by Claude VE2FK\n");
+  printf("#04 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#05 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=",";
 }
 {
   if ($1 ~ /!!Order!!/) 

@@ -1,12 +1,12 @@
 BEGIN {
-  FS=","
-  printf("#00 A1 CLUB Weekly Contest prefill database\n");
+  printf("#00 A1 Club Weekly Contest prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  longest = "";
   limit = 10;
   printf("Name length limit set to %d\n", limit) > "/dev/stderr";
+  FS=",";
+  longest = "";
 }
 {
   if ($1 ~ /!!Order!!/) 

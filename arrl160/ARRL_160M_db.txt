@@ -1,4 +1,4 @@
-# ARRL 160m database - ARRL/RAC sections
+# ARRL 160m Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2026-01-11

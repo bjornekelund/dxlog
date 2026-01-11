@@ -37,7 +37,7 @@ echo Parsing $NTCDB
 
 cat $NTCDB | gawk '
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
 # Format is # Call,Name,Number
@@ -54,7 +54,7 @@ echo Merging data
 
 cat $SUMFILE | sed 's/ü/u/g' | sed 's/é/e/g' | sed 's/ö/o/g' | sed 's/á/a/g' | gawk '
 BEGIN {
-  FS=","
+  FS=",";
   maxlen = 0;
 }
 {

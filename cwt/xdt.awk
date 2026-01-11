@@ -1,6 +1,6 @@
 BEGIN {
-  FS=","
   printf("#TITLE CWOps members\n");
+  FS=",";
 }
 {
   call = $1;

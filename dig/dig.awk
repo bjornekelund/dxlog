@@ -1,8 +1,8 @@
 BEGIN {
-  FS=","
   printf("#00 DIG members prefill database\n");
   printf("#01 Based on official member roster at https://diplom-interessen-gruppe.info \n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=",";
 }
 {
   memberid = $3;

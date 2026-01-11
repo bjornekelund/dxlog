@@ -1,8 +1,8 @@
 BEGIN {
-  FS=","
   printf("#00 UN DX Contest prefill database\n");
   printf("#01 Credits to SP5KP and VE2FK for collecting and consolidating the data\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=",";
 }
 {
   if ($1 ~ /!!Order!!/) 

@@ -27,7 +27,7 @@ END {}' > $SUMFILE
 
 cat $NTCDB | gawk '
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
 # Format is # Call,Name,Number
@@ -40,7 +40,7 @@ END {}' >> $SUMFILE
 
 cat $SUMFILE | gawk '
 BEGIN {
-  FS=","
+  FS=",";
   maxlen = 0;
 }
 {

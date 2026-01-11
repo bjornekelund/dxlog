@@ -3,7 +3,7 @@ BEGIN {
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   longest = "";
-  FS=","
+  FS=",";
 }
 {
   if ($1 ~ /!!Order!!/)

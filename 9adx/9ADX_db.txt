@@ -1,4 +1,4 @@
-# 9A DX prefill database
+# 9A DX Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Last updated 2026-01-11
 # Report updates and corrections directly to ve2fk@arrl.net

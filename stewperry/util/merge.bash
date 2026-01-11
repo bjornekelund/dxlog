@@ -10,7 +10,7 @@ dos2unix -q $FILE1 $FILE2 $FILE3
 
 cat $FILE1 $FILE2 $FILE3 | gawk '
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
   if ($1 ~ /^[A-Z0-9]+$/ && $3 ~ /^[A-R]{2}[0-9]{2}$/) {

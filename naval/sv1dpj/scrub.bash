@@ -8,7 +8,7 @@ dos2unix -q $FILE
 cat $FILE | sed 's/=/,/g' | sed 's/;/,/g' |\
 gawk '
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
   if (($1 !~ /^[0-9,A-Z\/]+$/ || $2 !~ /^(BM|MI|FN|GR|IN|MA|MF|CA|PN|RN|YO)([0-9]{1,4})?$/) && $0 !~ /^(!|#|$)/) {

@@ -1,4 +1,4 @@
-# MARCONI CLUB ARI LOANO members prefill database
+# Marconi Club ARI Loano members database
 # Based on data from http://www.ariloano.it/marconiclub
 # Last updated 2026-01-11
 3B8CF=MC284

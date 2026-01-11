@@ -1,10 +1,9 @@
 BEGIN {
-  FS=","
   printf("#00 North American QSO Party prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  maxlen = 0;
+  FS=",";
   longest = "";
 }
 {
@@ -37,7 +36,7 @@ BEGIN {
       lines[$call] = $0;
     }
   } 
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~ /^(|VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|J8|VP[25])$/) 
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~ /^(|8P|VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|J8|VP5|VP2[EMV])$/) 
   {
     printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
     longest = length($name) > length(longest) ? $name : longest;

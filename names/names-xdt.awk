@@ -1,6 +1,6 @@
 BEGIN {
-  FS=","
   printf("#01 Operator names by VE2FK\n");
+  FS=",";
 }
 {
   call = toupper($1)

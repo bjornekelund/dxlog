@@ -1,0 +1,215 @@
+--- 13colonies ---
+/home/bjorn/Ubuntu/dxlog/13colonies
+Parsing 13COLONIES-001.txt
+"!!Order!!,Call,Name,Exch1,UserText," --> call=1 state=3
+Ignored: "AA1HE/QRP,HARRY,UT,"
+"KO4PRE,BRUCE,VA," reoccurs as "KO4PRE,BRUCE,VA,"
+Ignored: "VE3ZT/M,PAUL,ON,"
+Ignored: "VO1IV/M,AARON,NL,"
+Created 13COLONIES_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/13COLONIES_db.txt
+--- 9adx ---
+/home/bjorn/Ubuntu/dxlog/9adx
+Parsing 9ADX_2025.txt
+!!Order!!, Call,Exch1,UserText, --> call=1 state=2
+Created 9ADX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/9ADX_db.txt
+--- a1cwc ---
+/home/bjorn/Ubuntu/dxlog/a1cwc
+Parsing A1AWT-020.txt
+Name length limit set to 10
+!!Order!!,Call,Name,UserText, --> call=1 nm=2
+Longest name is "GIANFRANCO" with 10 characters
+Created A1CWC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/A1CWC_db.txt
+--- acqp ---
+/home/bjorn/Ubuntu/dxlog/acqp
+Parsing QSOP_AC-2025-006.txt
+!!Order!!,Call,Name,Exch1,UserText, --> call=1 state=3
+Ignored: "VE1AON,,NSHRM/NSCOL,"
+Created ACQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ACQP_db.txt
+--- agb ---
+/home/bjorn/Ubuntu/dxlog/agb
+Downloaded agb-list.txt, parsing...nano
+Created AGB_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AGB_db.txt
+--- agcw ---
+/home/bjorn/Ubuntu/dxlog/agcw
+Downloaded Mitglieder.csv, parsing...
+Created AGCW_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AGCW_db.txt
+--- agcwntcqp ---
+/home/bjorn/Ubuntu/dxlog/agcwntcqp
+Parsing AGCW-NTCQP-010.txt
+!!Order!!, Call, Name, Exch1, Misc,UserText, --> call=1 name=2 first=3 second=4 empty=5
+9A3XV has the longest name: "Aleksandar" (10)
+Created AGCWNTCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AGCWNTCQP_db.txt
+--- allasian ---
+/home/bjorn/Ubuntu/dxlog/allasian
+Parsing ALLASIACW_2025.txt
+!!Order!!,Call,Exch1, --> call=1 state=2
+Created ALLASIAN_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ALLASIAN_db.txt
+--- alqp ---
+/home/bjorn/Ubuntu/dxlog/alqp
+Parsing QSOP_AL-2025-001.txt
+!!Order!!,Call,Name,Exch1,UserText, --> call=1 state=3
+Created AQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AQP_db.txt
+--- arqp ---
+/home/bjorn/Ubuntu/dxlog/arqp
+Parsing QSOP_AR-2025-003.txt
+!!Order!!,Call,Name,Exch1,UserText, --> call=1 state=3
+Created ARQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARQP_db.txt
+--- arrl10 ---
+/home/bjorn/Ubuntu/dxlog/arrl10
+Parsing ARRL10M_2026-001.txt
+!!Order!!,Call,State, --> call=1 state=2
+Created ARRL_10M_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_10M_db.txt
+--- arrl160 ---
+/home/bjorn/Ubuntu/dxlog/arrl160
+Parsing ARRL160-2025-008.txt
+!!Order!!,Call,Exch1, --> call=1 col=2
+DX station ignored  : "ABR,MS,"
+Created ARRL_160M_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_160M_db.txt
+--- arrldx ---
+/home/bjorn/Ubuntu/dxlog/arrldx
+Parsing ARRLDXCW_2025-005.txt
+!!Order!!,Call,Name,State,Power,UserText, --> call=1 pcol=4 scol=3
+Ignored: "VE9M85A,JOE,NB,"
+Created ARRL_DX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX_db.txt
+--- arrlfd ---
+/home/bjorn/Ubuntu/dxlog/arrlfd
+Parsing FDGOTA_2025-008.txt
+!!Order!!,Call,Exch1,Sect,UserText --> call=1 exch=2 sect=3
+Created ARRL_FD_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_FD_db.txt
+--- arrlrr ---
+/home/bjorn/Ubuntu/dxlog/arrlrr
+Parsing ../arrlss/SSCW-009.txt
+Parsing ../naqp/NAQPCW.txt
+Parsing ../wrt/WRT-052.txt
+Parsing ../names/Names_VE2FK-081.txt
+Parsing ../fistsspr/FISTSSPR-OLD.txt
+Created ARRL_RR_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RR_db.txt
+--- arrlrtty ---
+/home/bjorn/Ubuntu/dxlog/arrlrtty
+Parsing ARRLRTTY_2027-001.txt
+!!Order!!,Call,Name,State,UserText, --> call=1 state=3
+Ignored: "W6LFB/QRP,,TX,"
+Created ARRL_RTTY_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RTTY_db.txt
+--- arrlscr ---
+/home/bjorn/Ubuntu/dxlog/arrlscr
+Parsing ARRL-SCR-004.txt
+!!Order!!,Call,Misc,State,UserText, --> call=1 col1=2, col2=3
+Ignored: "KA3VQR/A,I,PA,"
+Ignored: "NC7K/QRP,I,AZ,"
+Created ARRL_SCR_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SCR_db.txt
+--- arrlss ---
+/home/bjorn/Ubuntu/dxlog/arrlss
+Parsing SSCW-009.txt
+!!Order!!,Call,Sect,State,CK,UserText, --> call=1 check=4 sect=2
+Problem entry: ""
+Problem entry: "AA0BV,,CA,61,"
+Problem entry: "KA3VQR/A,EPA,PA,90,"
+Problem entry: "KK6L,,CA,95,"
+Problem entry: "W1EZER,MO,MO,18,"
+Created ARRL_SS_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_db.txt
+Parsing SSSSB_2025-001.txt
+!!Order!!,Call,Sect,State,CK,UserText, --> call=1 check=4 sect=2
+Problem entry: ""
+Problem entry: "AA0BV,,CA,61,"
+Problem entry: "KA3VQR/A,EPA,PA,90,"
+Problem entry: "KK6L,,CA,95,"
+Problem entry: "W1EZER,MO,MO,18,"
+Created ARRL_SS_SSB_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_SSB_db.txt
+--- arrlvhf ---
+/home/bjorn/Ubuntu/dxlog/arrlvhf
+Parsing ARRLVHFSEP.txt
+!!Order!!,Call,Name,Loc1,UserText, --> call=1 col=3
+Ignored: "HGM3DXC,,JN96,"
+Ignored: "HGM3O,,JN96,"
+Created ARRL-VHF_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL-VHF_db.txt
+--- azqp ---
+/home/bjorn/Ubuntu/dxlog/azqp
+Parsing QSOP_AZ-2024-001.txt
+!!Order!!,Call,Name,Exch1,UserText, --> state=3
+Ignored: "KK7CED/AG,VIC,WA,"
+Ignored: "KO4KET/AG,JIM,VA,"
+Ignored: "VE9M85A,JOE,NB,"
+Created AZQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AZQP_db.txt
+--- bandebasse ---
+/home/bjorn/Ubuntu/dxlog/bandebasse
+Parsing BB_ITALIA-001.txt
+!!Order!!,Call,Sect,Misc --> call=1 sect=2, misc=3
+Created BANDE_BASSE_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/BANDE_BASSE_db.txt
+--- bcqp ---
+/home/bjorn/Ubuntu/dxlog/bcqp
+Parsing QSOP_BC-2026-wrk-002.txt
+!!Order!!,Call,Name,Exch1,UserText, --> call=1 state=3
+Ignored: "VE7VR,,VFS,"
+Ignored: "KG4HF,AL,DX,"
+Ignored: "KK7CED/AG,VIC,WA,"
+Ignored: "KO4KET/AG,JIM,VA,"
+Ignored: "NP2X,ED,DX,"
+Ignored: "NP3Y,PAUL,DX,"
+Created BCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/BCQP_db.txt
+--- caqp ---
+/home/bjorn/Ubuntu/dxlog/caqp
+Parsing QSOP_CA-2025-009.txt
+!!Order!!,Call,Name,Exch1,UserText, --> call=1 state=3
+Created CQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQP_db.txt
+--- commonwealth ---
+/home/bjorn/Ubuntu/dxlog/commonwealth
+Parsing RSGBBERU_2025-014.txt...
+!!Order!!,Call,Name,State,UserText, --> call=1 state=3
+!!Order!!,Call,Name,Usertext --> call=1 state=3
+Created COMMONW_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/COMMONW_db.txt
+Created COMMONW.xdt
+--- coqp ---
+/home/bjorn/Ubuntu/dxlog/coqp
+Parsing QSOP_CO-2025-001.txt
+!!Order!!, Call, Name, Exch1, UserText --> call=1 state=3 name=2
+Ignored: "KK7CED/AG,VIC,WA,"
+Ignored: "KO4KET/AG,JIM,VA,"
+Longest name is "SEBASTIAN" with 9 characters
+Created COQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/COQP_db.txt
+--- cpqp ---
+/home/bjorn/Ubuntu/dxlog/cpqp
+Parsing QSOP_CP-2025-006.txt
+!!Order!!,Call,Name,Exch1,UserText, --> state=3
+Ignored: "KK7CED/AG,VIC,WA,"
+Ignored: "KO4KET/AG,JIM,VA,"
+Created CPQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CPQP_db.txt
+--- cq160 ---
+/home/bjorn/Ubuntu/dxlog/cq160
+Parsing CQ160CW-005.txt
+!!Order!!,Call,Name,State,UserText, --> call=1 col=3
+Ignored: "DH2WQ,,,"
+Ignored: "K3WT,TOM,,"
+Created CQ160_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQ160_db.txt
+--- cqmm ---
+/home/bjorn/Ubuntu/dxlog/cqmm
+Downloaded CQMMWEB.txt
+Parsing CQMMDX-000.txt and CQMMWEB.txt
+CQMM_db.txt created

@@ -12,7 +12,7 @@ cat $FILE1 | sed 's/Ø/0/g' | gawk 'BEGIN {FS=" "} {printf("%s,%s\n", $2, $1)} E
 
 cat $FILE2 | sed 's/Ø/0/g' | gawk '\
 BEGIN {
-  FS=","
+  FS=",";
 }
 {
   printf("%s,%s,%s\n", $1, $3, $2);
@@ -21,10 +21,10 @@ END {}' >> $TMPFILE
 
 gawk '
 BEGIN {
-  FS=","
   printf("#00 U-QRQ-C Members prefill database\n");
   printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=",";
 }
 {
   if (calls[$1] == "") { # Not seen before
@@ -64,10 +64,10 @@ exit
 
 cat $FILE | sed 's/Ø/0/g' | gawk '
 BEGIN {
-  FS=" "
   printf("#00 U-QRQ-C Members prefill database\n");
   printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  FS=" ";
 }
 {
   printf("%s=%s\n", $2, $1);

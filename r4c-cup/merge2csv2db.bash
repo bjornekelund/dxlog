@@ -3,7 +3,7 @@ dos2unix $1 $2
 cat $1 $2 |
 gawk '
 BEGIN {
-  FS=","
+  FS=",";
   printf("#00 Saratov Region Cup prefill database\n");
   printf("#01 Based on database from https://rdaward.org and call history data from VE2FK\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
