@@ -1,6 +1,6 @@
-# SP DX participants database
-# Based on call history data by Chris SP5KP, SN5N
-# Last updated 2026-01-05
+# SP DX Contest prefill database
+# Based on data maintained by Chris SP5KP
+# Last updated 2026-01-11
 3Z0R=K
 3Z0X=R
 3Z1K=Z

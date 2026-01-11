@@ -1,6 +1,6 @@
 # Members of International Radio Club ARKTIKA
 # Data provided by Oleg RA9JM
-# Last updated 2026-01-05
+# Last updated 2026-01-11
 DC9EL=AC69
 DL5EBE=AC370
 DL6ZFG=AC313

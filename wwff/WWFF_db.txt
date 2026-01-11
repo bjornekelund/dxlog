@@ -1,5 +1,5 @@
-# WWFF activation database
-# Last updated 2026-01-05
+# WWFF activation prefill database
+# Last updated 2026-01-11
 2E0AGB=
 2E0CRV=
 2E0ESY=

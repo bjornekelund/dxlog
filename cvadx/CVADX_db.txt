@@ -1,8 +1,8 @@
-# CVA DX prefill database
-# Data collected and maintained by Claude VE2FK
+# CVA DX Contest prefill database
+# Based on data maintained by Claude VE2FK
 # Contains only calls not handled by rule-based prefill
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-05
+# Last updated 2026-01-11
 PP2BLF=MIL
 PP2DX=MIL
 PQ3A=RS

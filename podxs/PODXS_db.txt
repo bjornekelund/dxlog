@@ -1,6 +1,6 @@
 # PODXS 070 members prefill database
 # Based on data from https://www.podxs070.com/member-files
-# Last updated 2026-01-09
+# Last updated 2026-01-11
 2E0DKH=2261
 2E0GBK=1870
 2E0HPI=2118

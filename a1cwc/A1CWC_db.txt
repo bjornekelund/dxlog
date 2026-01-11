@@ -1,7 +1,7 @@
-# A1 CLUB Weekly Contest database
+# A1 CLUB Weekly Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-09
+# Last updated 2026-01-11
 2E0DCW=GERALD
 2E0FPW=JK
 2E0OBO=BOB

@@ -1,5 +1,5 @@
-# Udmurtia open championship database
-# Last updated 2026-01-05
+# Udmurtia open championship prefill database
+# Last updated 2026-01-11
 ER5DX=KN46
 ES2JJ=KO29
 EU1OID=KO33

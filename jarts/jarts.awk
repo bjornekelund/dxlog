@@ -1,7 +1,7 @@
 BEGIN {
   FS=","
   printf("#01@%s\n", strftime("%Y"));
-  printf("#02 JARTS database for %s\n", strftime("%Y"));
+  printf("#02 JARTS Contest prefill database for %s\n", strftime("%Y"));
   printf("#03 Data collected and maintained by Claude VE2FK\n");
   printf("#04 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#05 Last updated %s\n", strftime("%Y-%m-%d"));

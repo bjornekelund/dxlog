@@ -1,7 +1,7 @@
-# ARRL RTTY database
-# Data collected and maintained by Claude VE2FK
+# ARRL RTTY Contest prefill database
+# Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-07
+# Last updated 2026-01-11
 4U1WB=DC
 AA0A=MO
 AA0AI=IA

@@ -1,5 +1,5 @@
-# POTA activation database
-# Last updated 2026-01-05
+# POTA activation prefill database
+# Last updated 2026-01-11
 2I0WLZ=ANDREW
 4X4FC=ALEX
 5P5Q=VERNER

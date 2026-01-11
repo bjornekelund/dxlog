@@ -1,7 +1,7 @@
 # Colorado QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-09
+# Last updated 2026-01-11
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
 AA0AO=TOM;MN
@@ -3985,6 +3985,7 @@ KA3MUJ=WILLARD;PA
 KA3NAM=JOE;KS
 KA3NED=;PA
 KA3NZR=HARRY;VA
+KA3OCS/QRP=BOB;VA
 KA3PCX=;PA
 KA3PMW=DAVE;PA
 KA3PVA=;PA
@@ -12455,6 +12456,7 @@ W6LAX=ROGER;CA
 W6LD=JOHN;CA
 W6LED=;CA
 W6LEN=;CA
+W6LFB/QRP=;TX
 W6LFB=;TX
 W6LMJ=TERRY;FL
 W6LSN=;CA

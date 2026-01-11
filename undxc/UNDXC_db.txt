@@ -1,6 +1,6 @@
-# UN DX Contest database
+# UN DX Contest prefill database
 # Credits to SP5KP and VE2FK for collecting and consolidating the data
-# Last updated 2026-01-05
+# Last updated 2026-01-11
 UN0B=Z03
 UN0C=C14
 UN0EM=B18

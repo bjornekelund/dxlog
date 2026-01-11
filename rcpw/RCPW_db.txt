@@ -1,6 +1,6 @@
-# RCPW members database based on http://rcpw.ru/members.html
+# RCPW members prefill database based on http://rcpw.ru/members.html
 # Contains members up to #448
-# Last updated 2026-01-05
+# Last updated 2026-01-11
 ER5AE=PW418
 EU4DGC=PW2
 EW1ACC=PW253

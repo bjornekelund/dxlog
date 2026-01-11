@@ -22,7 +22,7 @@ dos2unix -q $FOLDER/$OUTFILE
 
 gawk '
 BEGIN {
-  printf("# HQ database for IARU HF Championship\n");
+  printf("# HQ prefill database for IARU HF Championship\n");
   printf("# Data collected and maintained by Joe OZ0J and Bob N6TV\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
 }

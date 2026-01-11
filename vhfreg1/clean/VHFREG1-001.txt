@@ -1,6 +1,6 @@
 !!Order!!,Call,Loc1,UserText,
 # VHF/UHF 6-position grid data base
-# Last updated 2026-01-05
+# Last updated 2026-01-11
 DG2JJ,JO31LL,,
 HA2QQ,JN97AR,,
 G1JFE,IO83MI,,
