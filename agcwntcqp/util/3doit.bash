@@ -22,8 +22,7 @@ cat $AGCWDB | gawk 'BEGIN {
     printf("%s,%s,%s\n", $3, $2, "AGCW" $1, $2);
   else if ($0 !~ /^(#|!|$)/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-}
-END {}' > $SUMFILE
+}' > $SUMFILE
 
 cat $NTCDB | gawk '
 BEGIN {
@@ -35,8 +34,7 @@ BEGIN {
     printf("%s,%s,%s\n", $1, $2, "NTC" $3);
   else if ($0 !~ /^(#|!|$)/)
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-}
-END {}' >> $SUMFILE
+}' >> $SUMFILE
 
 cat $SUMFILE | gawk '
 BEGIN {

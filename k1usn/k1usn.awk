@@ -1,7 +1,7 @@
 BEGIN {
-  printf("#01 K1USN Slow Speed Test prefill database\n");
-  printf("#02 Based on data maintained by Claude VE2FK\n");
-  printf("#03 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#00 K1USN Slow Speed Test prefill database\n");
+  printf("#01 Based on data maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   longest = "";
@@ -75,6 +75,7 @@ BEGIN {
 }
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
+  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
   for (c in calls) 
   {
     if (name[c] != "") 

@@ -2,9 +2,9 @@ BEGIN {
   printf("#00 AGCW-NTC Friendship QSO Party prefill database\n");
   printf("#01 Based on data maintained by VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
-  maxlen = 0;
+  maxname ="";
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -51,10 +51,9 @@ BEGIN {
         rname = "";
       }
       printf("%s=%s;%s;%s\n", $call, rname, $first, $second);
-      if (length($name) > maxlen && nameok) 
+      if (length($name) > length(maxname) && nameok)
       {
         maxcall = $call;
-        maxlen = length($name);
         maxname = $name;
       }
     }
@@ -69,5 +68,6 @@ BEGIN {
   }
 }
 END { 
-    printf("%s has the longest name: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
+    printf("%s has the longest name: \"%s\" with %d characters\n", maxcall, maxname, length(maxname)) > "/dev/stderr";
+    printf("#03 Longest name is \"%s\" with %d characters\n", maxname, length(maxname));
 }

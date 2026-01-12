@@ -1,7 +1,8 @@
 # Weekly RTTY Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-11
+# Longest name is "CHRISTOPHER" with 11 characters
+# Last updated 2026-01-12
 4U1UN=YOSHI;
 4U1WB=MASA;
 6Y1A=JAVON;

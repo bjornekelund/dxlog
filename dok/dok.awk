@@ -1,4 +1,8 @@
 BEGIN {
+  printf("#00 German DOK prefill database\n");
+  printf("#01 Based on data maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   longest = "";
 }
@@ -25,10 +29,6 @@ BEGIN {
   }
 }
 END {
-  printf("#00 German DOK prefill database\n");
-  printf("#01 Based on data maintained by Claude VE2FK\n");
-  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Longest DOK is %s with %d characters.\n", longest, length(longest)); 
-  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   printf("Longest DOK is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr"; 
 }

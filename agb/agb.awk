@@ -1,4 +1,7 @@
 BEGIN {
+  printf("#00 AGB members prefill database\n");
+  printf("#01 Based on data from http://ev5agb.com/club/agb-list.txt\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=" "
   max = 0;
 }
@@ -14,8 +17,6 @@ BEGIN {
   }
 }
 END {
-  printf("#00 AGB members prefill database\n");
-  printf("#01 Based on http://ev5agb.com/club/agb-list.txt\n");
   printf("#02 Contains members up to #%d\n", max);
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("Highest member number is %d\n", max) > "/dev/stderr";
 }

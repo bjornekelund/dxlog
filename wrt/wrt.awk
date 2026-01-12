@@ -2,7 +2,7 @@ BEGIN {
   printf("#00 Weekly RTTY Contest prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   longest = "";
 }
@@ -75,4 +75,5 @@ BEGIN {
 }
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
+  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }

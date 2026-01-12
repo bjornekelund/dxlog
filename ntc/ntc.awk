@@ -2,9 +2,10 @@ BEGIN {
   printf("#00 Netherlands Telegraphy Club QSO Party prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Send updates/corrections to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#05 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   longest = "";
+  highest = 0;
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -29,10 +30,12 @@ BEGIN {
     }
     else 
     {
-      sub(/^0+/, "", $exch);
-      printf("%s=%s;%s\n", $call, $name, $exch);
+      number = $exch;
+      sub(/^0+/, "", number);
+      printf("%s=%s;%s\n", $call, toupper($name), number);
       lines[$call] = $0;
-      longest = length($name) > length(longest) ? $name : longest;
+      longest = length($name) > length(longest) ? toupper($name) : longest;
+      highest = int(number) > highest ? int(number) : highest;
     }
   }
   else if ($0 !~ /^(!|#|$)/)
@@ -42,4 +45,7 @@ BEGIN {
 }
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
+  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
+  printf("Contains members up to #%d\n", highest) > "/dev/stderr";
+  printf("#04 Contains members up to #%d\n", highest);
 }

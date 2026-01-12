@@ -1,10 +1,13 @@
 BEGIN {
   printf("#00 A1 Club Weekly Contest prefill database\n");
+  printf("#00 A1 Club Weekly Contest prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   limit = 10;
   printf("Name length limit set to %d\n", limit) > "/dev/stderr";
+  FS=",";
+  longest = "";
   FS=",";
   longest = "";
 }
@@ -50,4 +53,5 @@ END {
     printf("%s=%s\n", cl, names[cl]);
   }
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
+  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }

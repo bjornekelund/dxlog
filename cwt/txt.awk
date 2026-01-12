@@ -1,4 +1,8 @@
 BEGIN {
+  printf("#00 CWOps CWT prefill database\n");
+  printf("#01 Based on data maintained by Claude VE2FK\n");
+  printf("#02 Send new info/corrections to ve2fk@arrl.net\n");
+  printf("#05 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   max = 0;
   longest = "";
@@ -183,10 +187,8 @@ BEGIN {
   }
 }
 END {
-  printf("#00 CWOps CWT prefill database\n");
-  printf("#01 Based on data maintained by Claude VE2FK\n");
-  printf("#02 Send new info/corrections to ve2fk@arrl.net\n");
-  printf("#03 Contains members up to #%d\n", max);
-  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Contains members up to #%d\n", max);
+  printf("Highest member number is %d\n", max) > "/dev/stderr";
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
+  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }

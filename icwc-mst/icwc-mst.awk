@@ -3,7 +3,7 @@ BEGIN {
   printf("#00 ICWS Medium Speed Test prefill database\n");
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=",";
   longest = "";
 }
@@ -30,7 +30,7 @@ BEGIN {
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/) 
   {
     printf("%s=%s\n", $call, toupper($col));
-    longest = length($col) > length(longest) ? $col : longest;
+    longest = length($col) > length(longest) ? toupper($col) : longest;
     line[$call] = $0;
   }
   else 
@@ -47,4 +47,5 @@ BEGIN {
 }
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
+  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }

@@ -1,7 +1,8 @@
 # 10-10 QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-11
+# Longest name is WELLINGTON with 10 characters)
+# Last updated 2026-01-12
 2E0FKB=MARK;0;
 2E0FVN=MARK;0;
 2E0HVB=TERRY;0;

@@ -1,4 +1,8 @@
 BEGIN {
+  printf("#00 ARRL DX Contest prefill database\n");
+  printf("#01 Based on data maintained by AD5Q\n");
+#  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS=" ";
   prevcall = "";
 }
@@ -15,7 +19,8 @@ BEGIN {
     {
       exchange = $2;
       if (exchange ~ /^1?KW?$/) exchange = "KW";
-      if (exchanges[call] != "" && exchanges[call] != exchange) {
+      if (exchanges[call] != "" && exchanges[call] != exchange) 
+      {
 	      # printf("For %s, %s is replaced by %s -> ignored\n", call, exchanges[call], exchange) > "/dev/stderr";
       }
       else
@@ -32,11 +37,8 @@ BEGIN {
   prevcall = call;
 }
 END {
-  printf("#00 ARRL DX Contest prefill database\n");
-  printf("#01 Based on data maintained by AD5Q\n");
-#  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  for (c in calls) {
+  for (c in calls) 
+  {
      printf("%s=%s\n", c, exchanges[c]);
   }
 }
