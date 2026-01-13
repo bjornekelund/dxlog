@@ -1,6 +1,6 @@
 awk '
 BEGIN {
-  FS=" "
+  FS = " ";
 } 
 {
   gridlist[$1]=$3;

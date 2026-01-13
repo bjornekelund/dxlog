@@ -6,7 +6,7 @@ dos2unix -q $FILE1 $FILE2
 
 cat $FILE1 $FILE2 | awk '
 BEGIN {
-  FS="="
+  FS = "=";
 }
 {
   call = $1;

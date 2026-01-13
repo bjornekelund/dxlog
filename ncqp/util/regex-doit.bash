@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 
 gawk '
 BEGIN {
-  FS="=";
+  FS = "=";
   printf("^(");
 }
 {

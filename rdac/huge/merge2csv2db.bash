@@ -5,7 +5,7 @@ BEGIN {
   printf("#00 HUGE RDA Contest prefill database.\n");
   printf("#01 Based on data from https://rdaward.org and call history data from VE2FK.\n");
   printf("#02 File created on %s.\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ /^[0-9,A-Z\/]+$/ && $2 ~ /^[A-Z]{2}[0-9]{2}$/) {

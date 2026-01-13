@@ -9,7 +9,7 @@ dos2unix -q $INFILE
 cat "$INFILE" |\
 gawk '
 BEGIN {
-  FS=" ";
+  FS = " ";
 }
 {
   if ($2 == "")

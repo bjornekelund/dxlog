@@ -1,6 +1,6 @@
 BEGIN {
   printf("#TITLE IOTA\n");
-  FS=",";
+  FS = ",";
 }
 {
   call = $1;

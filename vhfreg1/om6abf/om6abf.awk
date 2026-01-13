@@ -2,7 +2,7 @@ BEGIN {
   printf("#00 VHF/UHF 6-position grid data base\n");
   printf("#01 Credits to OM6ABF\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS="=";
+  FS = "=";
   ignored = 0;
 }
 {

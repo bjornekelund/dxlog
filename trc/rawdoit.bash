@@ -10,7 +10,7 @@ TMPFILE=TRCTEMP.txt
 
 gawk '
 BEGIN {
-  FS=" "
+  FS = " ";
 }
 {
   if ($0 ~ /^TRC#/ && $0 !~ /SWL/ && $2 != "CB" && $2 !~ /-/ && $2 != "")

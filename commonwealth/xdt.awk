@@ -1,6 +1,6 @@
 BEGIN {
   printf("#TITLE Commonwealth Contest Stations\n");
-  FS=",";
+  FS = ",";
 }
 {
 #  printf("$1=\"%s\", $2=\"%s\"\n", $1, $3) > "/dev/stderr";

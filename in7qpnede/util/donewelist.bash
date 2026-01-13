@@ -6,7 +6,7 @@ echo Parsing $FILE
 dos2unix -q $FILE
 
 gawk 'BEGIN {
-  FS=" "
+  FS = " ";
   state = "";
 }
 {

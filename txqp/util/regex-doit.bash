@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 
 cat $INFILE | gawk '
 BEGIN {
-  FS="=";
+  FS = "=";
 }
 {
   cnty = toupper($1)
@@ -17,7 +17,7 @@ BEGIN {
     printf("Skipped: %s\n", $0) > "/dev/stderr";
 }' | gawk '
 BEGIN {
-  FS=" ";
+  FS = " ";
   notfirst = 0;
   count = 0;
   printf("^(");

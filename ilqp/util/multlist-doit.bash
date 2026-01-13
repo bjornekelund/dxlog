@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 
 cat $INFILE | gawk '
 BEGIN {
-  FS=" ";
+  FS = " ";
 }
 {
   abb = toupper($2);
@@ -34,7 +34,7 @@ dos2unix -q $INFILE
 
 cat $INFILE | gawk '
 BEGIN {
-  FS=" ";
+  FS = " ";
 }
 {
   abb = toupper($2);

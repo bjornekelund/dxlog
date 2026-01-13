@@ -6,9 +6,9 @@ BEGIN {
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   limit = 10;
   printf("Name length limit set to %d\n", limit) > "/dev/stderr";
-  FS=",";
+  FS = ",";
   longest = "";
-  FS=",";
+  FS = ",";
   longest = "";
 }
 {

@@ -17,7 +17,7 @@ else
     # Keep only YL, QRP, and clubs from reference file
     # Y, Q, and C take precedence over M
     # Non-members are automatically prefilled
-    gawk 'BEGIN{FS=","}{if ($2 ~ /^(NA|EU|AS|AF|OC|SA)[CQY]$/) {print $0}}' $REFFILE >> $WEBFILE
+    gawk 'BEGIN{FS=","}{if($2~/^(NA|EU|AS|AF|OC|SA)[CQY]$/){print $0}}' $REFFILE >> $WEBFILE
     # Clean up web file.
     # Remove Ø and double quotes  
     # Remove asterisks and spaces

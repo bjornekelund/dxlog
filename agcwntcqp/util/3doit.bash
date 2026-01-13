@@ -14,7 +14,7 @@ cp $AGCWDIR/$AGCWDB $NTCDIR/$NTCDB .
 dos2unix -q $AGCWDB $NTCDB
 
 cat $AGCWDB | gawk 'BEGIN {
-  FS=";";
+  FS = ";";
 }
 {
 # Format is # AGCW#;VORNAME;RUFZ
@@ -26,7 +26,7 @@ cat $AGCWDB | gawk 'BEGIN {
 
 cat $NTCDB | gawk '
 BEGIN {
-  FS=",";
+  FS = ",";
 }
 {
 # Format is # Call,Name,Number
@@ -38,7 +38,7 @@ BEGIN {
 
 cat $SUMFILE | gawk '
 BEGIN {
-  FS=",";
+  FS = ",";
   maxlen = 0;
 }
 {

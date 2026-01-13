@@ -1,6 +1,6 @@
 #
 BEGIN {
-  FS=" ";
+  FS = " ";
   count = 0;
 }
 {

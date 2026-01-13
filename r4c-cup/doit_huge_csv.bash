@@ -5,7 +5,7 @@ dos2unix -q $FILE
 
 gawk '
 BEGIN {
-  FS=",";
+  FS = ",";
 }
 {
   if ($2 ~ /[0-9,A-Z\/]+/ && $3 ~ /[A-Z,a-z]{2}-[0-9]{2}/) {

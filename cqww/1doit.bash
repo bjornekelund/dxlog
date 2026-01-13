@@ -10,7 +10,7 @@ echo Parsing $SOURCE
 awk \
 'BEGIN\
 {
-  FS=",";
+  FS = ",";
 }
 {
   if ($0 !~ /^(!|#|$)/) {

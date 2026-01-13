@@ -8,7 +8,7 @@ dos2unix -q $INFILE
 
 gawk '
 BEGIN {
-  FS="=";
+  FS = "=";
   notfirst = 0;
   count = 0;
   printf("^(");

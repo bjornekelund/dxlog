@@ -1,5 +1,5 @@
 BEGIN {
-  FS=";"
+  FS = ";"
   max = 0;
   printf("# RCC members prefill database\n");
   printf("# Based on http://rcccup.ru/information/rcc-members\n");

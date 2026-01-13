@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 
 gawk '
 BEGIN {
-  FS=",";
+  FS = ",";
   printf("#00 Saratov Oblast Contest prefill database\n");
   printf("#01 Based on database from https://rdaward.org\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));

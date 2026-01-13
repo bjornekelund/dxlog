@@ -6,11 +6,11 @@ rm -f $XDTFILE
 curl -s https://foc.telegraphy.de/db/$XDTFILE -O
 
 if [ ! -s $XDTFILE ]; then
-    echo "ERROR! Download of $XDTFILE failed. Aborting."
+    echo ERROR! Download of $XDTFILE failed. Aborting.
     exit 1
 else
     unix2dos -q $XDTFILE
-    echo "Downloaded $XDTFILE"
+    echo Downloaded $XDTFILE
     cp $XDTFILE ../xdt
 fi
 
@@ -18,12 +18,14 @@ rm -f $DBFILE
 curl -s https://foc.telegraphy.de/db/$DBFILE -O
 
 if [ ! -s $DBFILE ]; then
-    echo "ERROR! Download of $DBFILE failed. Aborting."
+    echo ERROR! Download of $DBFILE failed. Aborting.
     exit 1
 else
+    echo Downloaded $DBFILE
+    gawk 'BEGIN{FS = ";";max=0;}{max=($0!~/^#/&&$2>max)?$2:max;}END{printf("Highest member number is %d\n",max);}' $DBFILE 
     unix2dos -q $DBFILE
-    echo "Downloaded $DBFILE"
     ../copytosourcetree.bash $DBFILE
 fi
 
 exit
+

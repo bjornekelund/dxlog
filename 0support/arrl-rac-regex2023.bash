@@ -9,7 +9,7 @@ cat $SOURCE1 $SOURCE2 | sort |\
 awk \
 'BEGIN\
 {
-  FS="=";
+  FS = "=";
   printf("^(");
   notfirst = 0;
 }

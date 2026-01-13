@@ -1,5 +1,5 @@
 BEGIN {
-  FS="="
+  FS = "=";
   first = 1;
   printf("^(", $1)
 }

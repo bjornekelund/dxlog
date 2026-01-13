@@ -7,7 +7,7 @@ dos2unix -q $FILE
 
 gawk '
 BEGIN {
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ "!!Order!!") {

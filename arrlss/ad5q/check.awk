@@ -1,5 +1,5 @@
 BEGIN {
-  FS=" "
+  FS = " ";
   calcol = 1;
   precol = 2;
   chkcol = 4;

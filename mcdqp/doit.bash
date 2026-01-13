@@ -1,5 +1,4 @@
 #!/bin/bash
-
 WEBFILE=List_Members_MC.csv
 OUTFILE=MCD_db.txt
 
@@ -10,20 +9,16 @@ if [ ! -s $WEBFILE ]; then
     echo "ERROR! Download of $WEBFILE failed"
     exit 1
 else
-    echo Downloaded $WEBFILE
+    echo Downloaded $WEBFILE, parsing...
     dos2unix -q $WEBFILE
-    echo Parsing $WEBFILE
-
     sed 's/ //g' $WEBFILE |\
       iconv -f ISO-8859-1 -t ASCII//TRANSLIT |\
       gawk -f mcdqp.awk | sort | sed 's/#0. /# /g' > $OUTFILE
-
-  echo Created $OUTFILE
-  unix2dos -q $OUTFILE
-
-  if [ -s ../copytosourcetree.bash ]; then
-      ../copytosourcetree.bash $OUTFILE
-  fi
+    echo Created $OUTFILE
+    unix2dos -q $OUTFILE
+    if [ -s ../copytosourcetree.bash ]; then
+        ../copytosourcetree.bash $OUTFILE
+    fi
 fi
 
 exit

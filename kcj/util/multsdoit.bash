@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 sort -k4 $INFILE |\
 awk '
 BEGIN {
-  FS=" "
+  FS = " ";
   count = 0;
 }
 {

@@ -1,7 +1,7 @@
  
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-01-11
+# 1-LastEdit,2026-01-12
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from CW logs of VE2FK
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -115,6 +115,7 @@ AC3RA,RICH,PA,
 AC3U,BILL,MD,
 AC4G,BRUCE,TN,
 AC4HI,AL,IN,
+AC4NK,RYAN,TN,
 AC5RR,AX,OK,
 AC5XK,DON,DC,
 AC6T,STEVE,CA,

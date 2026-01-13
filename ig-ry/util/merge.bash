@@ -9,7 +9,7 @@ dos2unix -q $INFILE1 $INFILE2
 
 cat $INFILE1 $INFILE2 | gawk '\
 BEGIN {
-  FS=",";
+  FS = ",";
   comment = 0;
 }
 {

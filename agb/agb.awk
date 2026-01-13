@@ -2,7 +2,7 @@ BEGIN {
   printf("#00 AGB members prefill database\n");
   printf("#01 Based on data from http://ev5agb.com/club/agb-list.txt\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=" "
+  FS = " ";
   max = 0;
 }
 {

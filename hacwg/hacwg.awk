@@ -3,7 +3,7 @@ BEGIN {
   printf("#01 Based on data maintained by HA3NU\n");
   printf("#02 Report updates and corrections directly to ha3nu@dx.hu\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ /!!Order!!/) 

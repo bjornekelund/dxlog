@@ -14,7 +14,7 @@ else
 
   sed 's/ //g' $WEBFILE | sort | gawk -b '
   BEGIN {
-    FS=",";
+    FS = ",";
     first = 1;
     count = 0;
   }

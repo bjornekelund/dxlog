@@ -5,7 +5,7 @@ dos2unix -q cty.tmp
 sed 's/ //g' < cty.tmp > cty2.tmp
 gawk '
 BEGIN {
-  FS=":";
+  FS = ":";
 }
 {
   if ($2 ~ /^[0-9]{2}/ && $4 == "EU" && $8 !~ /\*/)

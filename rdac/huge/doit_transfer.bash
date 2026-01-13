@@ -15,7 +15,7 @@ sed 's/ \t/\t/g' | sed 's/\t /\t/g' | sed 's/\t\t/\t/g' | awk '
 BEGIN {
   printf("#!/bin/bash\n");
   printf("sed");
-  FS="\t";
+  FS = "\t";
   max = 0;
 }
 {

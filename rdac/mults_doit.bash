@@ -12,7 +12,7 @@ sed 's/  /\t/g' rda_eng.txt | sed 's/\/ /\//g' | sed 's/ \/\t/\/\t/g' |\
 sed 's/ \t/\t/g' | sed 's/\t /\t/g' | sed 's/\t\t/\t/g' | awk '
 BEGIN {
   printf("[MULTIPLIERS START]\n");
-  FS="\t";
+  FS = "\t";
   max = 0;
 }
 {

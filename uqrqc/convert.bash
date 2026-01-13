@@ -8,11 +8,11 @@ TMPFILE=.temp.txt
 echo Processing $FILE1 $FILE2
 dos2unix -q $FILE1 $FILE2
 
-cat $FILE1 | sed 's/Ø/0/g' | gawk 'BEGIN {FS=" "} {printf("%s,%s\n", $2, $1)} END {}' > $TMPFILE
+cat $FILE1 | sed 's/Ø/0/g' | gawk 'BEGIN {FS = " "} {printf("%s,%s\n", $2, $1)} END {}' > $TMPFILE
 
 cat $FILE2 | sed 's/Ø/0/g' | gawk '\
 BEGIN {
-  FS=",";
+  FS = ",";
 }
 {
   printf("%s,%s,%s\n", $1, $3, $2);
@@ -24,7 +24,7 @@ BEGIN {
   printf("#00 U-QRQ-C Members prefill database\n");
   printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   if (calls[$1] == "") { # Not seen before
@@ -67,7 +67,7 @@ BEGIN {
   printf("#00 U-QRQ-C Members prefill database\n");
   printf("#01 Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=" ";
+  FS = " ";
 }
 {
   printf("%s=%s\n", $2, $1);

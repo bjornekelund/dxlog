@@ -2,7 +2,7 @@
 dos2unix -q $1
 gawk '
 BEGIN {
-  FS="="
+  FS = "=";
   printf("^(");
 }
 {

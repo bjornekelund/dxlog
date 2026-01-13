@@ -7,7 +7,7 @@ dos2unix -q $SOURCE
 cat $SOURCE | awk \
 'BEGIN {
   printf("^(");
-  FS=":";
+  FS = ":";
   notfirst = 0;
 }
 {

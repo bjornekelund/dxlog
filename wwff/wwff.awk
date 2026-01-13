@@ -1,7 +1,7 @@
 BEGIN {
   printf("#00 WWFF activation prefill database\n");
   printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ /!!Order!!/) 

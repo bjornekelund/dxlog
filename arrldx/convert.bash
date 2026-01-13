@@ -6,7 +6,7 @@ echo Parsing $INFILE
 dos2unix -q $INFILE
 
 cat $INFILE | sort | gawk 'BEGIN {
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ /!!Order!!/) {

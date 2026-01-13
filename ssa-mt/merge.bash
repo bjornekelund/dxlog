@@ -1,6 +1,6 @@
 awk '
 BEGIN {
-  FS="="
+  FS = "=";
 } 
 {
   callist[$1]=$1
@@ -13,7 +13,7 @@ END {
 
 awk '
 BEGIN {
-  FS=" "
+  FS = " ";
 } 
 {
   gridlist[$1]=$3;

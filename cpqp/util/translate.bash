@@ -5,7 +5,7 @@ OUTFILE=QSOP_CP-FIXED.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk 'BEGIN { FS="," }
+gawk 'BEGIN { FS = "," }
 {
   if ($0 ~ /^(!|#|$)/) {
     printf("%s\n", $0);

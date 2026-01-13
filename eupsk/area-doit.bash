@@ -6,7 +6,7 @@ dos2unix -q $INFILE
 
 cat $INFILE | gawk '
 BEGIN {
-  FS=",";
+  FS = ",";
   printf("000[MULTIPLIERS START]\n");
 }
 {

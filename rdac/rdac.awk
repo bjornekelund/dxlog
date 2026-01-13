@@ -3,7 +3,7 @@ BEGIN {
   printf("#01 Based on data maintained data by VE2FK and UR7QM\n");
   printf("#02 Includes updates by NA3M and RA3R\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^[A-Z]{2}[0-9]{2}$/) 

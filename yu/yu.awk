@@ -1,7 +1,7 @@
 BEGIN {
   printf("#00 YU car registration code database file\n");
   printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS="=";
+  FS = "=";
 }
 {
   if ($1 ~ /^Y[UT][0-9]{1,2}[A-Z]{1,4}$/) # Ignore all non YU stations

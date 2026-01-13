@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 
 gawk '
 BEGIN {
-  FS=" ";
+  FS = " ";
 }
 {
   if ($1 ~ /^[0-9]+$/ && $2 ~ /[A-Z]{2}/) {

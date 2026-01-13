@@ -18,7 +18,7 @@ BEGIN {
   printf("!!Order!!,Call,Loc1,UserText,\n");
   printf("# VHF/UHF 6-position grid data base\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
   ignored = 0;
 }
 {
@@ -66,7 +66,7 @@ BEGIN {
   printf("!!Order!!,Call,Loc1,UserText,\n");
   printf("# VHF/UHF 4-position grid data base\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
   ignored = 0;
 }
 {

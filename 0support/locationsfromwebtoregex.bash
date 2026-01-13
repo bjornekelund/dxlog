@@ -8,7 +8,7 @@ cat $1 | sort |\
 awk \
 'BEGIN\
 {
-  FS=" ";
+  FS = " ";
   printf("^(");
   notfirst = 0;
 }

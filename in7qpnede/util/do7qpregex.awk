@@ -1,5 +1,5 @@
 BEGIN {
-  FS=" "
+  FS = " ";
   state = "";
   first = 1;
   printf("^(", $1)

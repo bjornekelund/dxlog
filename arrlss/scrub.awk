@@ -1,5 +1,5 @@
 BEGIN {
-  FS=",";
+  FS = ",";
   callcol = 1;
   sectcol = 2;
   statcol = 3;

@@ -7,7 +7,7 @@ dos2unix -q $FILE
 
 gawk 'BEGIN {
   printf("!!Order!!,Call,Name,Exch1,UserText,\n");
-  FS=",";
+  FS = ",";
 }
 {
   if ($0 ~ "!!Order!!") {

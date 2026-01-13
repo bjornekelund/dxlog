@@ -3,10 +3,10 @@ BEGIN {
   printf("#02 ARRL Sweepstakes prefill database\n");
   printf("#03 Based on data maintained by AD5Q\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 BEGIN {
-  FS=" "
+  FS = " ";
   callcol = 1;
   preccol = 2;
   checkcol = 4;

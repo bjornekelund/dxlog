@@ -3,7 +3,7 @@ BEGIN {
   printf("#01 Based on data maintained by Claude VE2FK\n");
   printf("#02 Send updates/corrections to ve2fk@arrl.net\n");
   printf("#05 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
   longest = "";
   highest = 0;
 }

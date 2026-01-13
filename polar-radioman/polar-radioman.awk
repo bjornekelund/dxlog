@@ -2,7 +2,7 @@ BEGIN {
   printf("#01 Members of International Radio Club ARKTIKA\n");
   printf("#02 Data provided by Oleg RA9JM\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   if ($1 ~ /!!Order!!/)

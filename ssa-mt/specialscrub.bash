@@ -1,7 +1,7 @@
 #/bin/sh
 awk '
 BEGIN {
-  FS="=";
+  FS = "=";
 }
 {
   if ($2!="Fail") print $0;

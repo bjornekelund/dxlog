@@ -3,7 +3,7 @@ BEGIN {
   printf("#01 Based on data maintained by VE2FK\n");
   printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS=",";
+  FS = ",";
 }
 {
   # Call,Sect,State,CK,UserText,

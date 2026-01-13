@@ -4,7 +4,7 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2026-01-05
+# Last Edit,2026-01-12
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
@@ -1601,6 +1601,7 @@ K1OJ,OJ,2398,(Owen) Houston TX
 K1OKD,Jerry,2734,Dracut MA
 K1ON,Larry,VT,Barton VT
 K1PAD,Rick,MA,Billerica MA
+K1PAP,PAULO,
 K1PDY,Ron,NH,Canterbury NH
 K1PJA,PETE,
 K1PJS,Pete,3032,Concord NH
@@ -1863,6 +1864,7 @@ K3UQ,Kelly,3116,North Potomac MD
 K3US,John,VA,Fairfax VA
 K3UT,Phil,1537,St-Simons Island GA NA058
 K3UT/1,PHIL,
+K3VGE,DON,
 K3VIG,Ron,PA,Newfoundland PA
 K3VZ,Don,PA,MC Clure PA
 K3WA,Bill,319,Pittsboro NC
@@ -1941,6 +1943,7 @@ K4IA,BUCK,,Fredericksburg VA
 K4IEY,JULES,
 K4IG,John,SC,Jenkinsville SC
 K4II,SAM,,Sopartanburg SC
+K4IN,DENNIS,
 K4ITV,Chas,1312,Bristol VA
 K4IU,Fred,507,Rochester MN
 K4IWW,Will,NC,Cary NC
@@ -2502,6 +2505,7 @@ K9KMD,Kent,IL,Algonquin IL
 K9KSG,Junior,IL,Bourbonnais IL
 K9LA,Carl,920,Fort Wayne IN
 K9LPX,Jerome,WI,Washburn WI
+K9LWA,BOB,
 K9LZJ,Hank,IN,Indianapolis IN
 K9MA,Scott,1385,Madison WI
 K9MM,John,120,Prospect Heights IL
@@ -2575,6 +2579,7 @@ KA1UUM,MARK,
 KA1WPM,DANA,
 KA1WWD,BOB,
 KA1YQC,Mark,2718,Franklin MA
+KA1YZC,PAUL,
 KA2F,John,NJ,Eatontown NJ
 KA2KGP,Tom,NY,Forestville NY
 KA2SJG,JACK,
@@ -2885,6 +2890,7 @@ KD2RCQ,DANIEL,
 KD2RKN,Jason,2919,Greenville SC
 KD2S,Al,NJ,(Chris) High Bridge NJ
 KD2ST,Al,2711,Mount Laurel NJ
+KD2TUD,DAN,
 KD2TUU,TOM,PA,
 KD2VLQ,VINCE,,Mountain Lakes NJ
 KD2VXW,OWEN,NY,
@@ -3095,6 +3101,7 @@ KF9D,Roger,2068,Algonquin IL
 KF9FH,George,IL,Northbrooke IL
 KF9HE,Andy,IL,Tinley Park IL
 KF9LI,NATE,
+KF9ND,MARVIN,
 KF9SW,Victor,IN,Martinsville IN
 KF9VV,Jim,2452,Middleton WI
 KG0E,MATT,,MN
@@ -3411,6 +3418,7 @@ KO4TCL,TOM,,Athens GA
 KO4TFK,STEVE,
 KO4UHE,RICK,,KY
 KO4UW,Steve,1234,
+KO4VOY,JOE,
 KO4VW,Steve,3096,Roswell GA
 KO4WFP,TERI,GA,Savannah GA
 KO4WJU,WES,,Seaford VA
@@ -3846,6 +3854,7 @@ N1TA,Mike,MA,Westfield MA
 N1TIM,TIM,,Danvers MA
 N1TKS,TONY,CT,Greenwich CT
 N1TO,Ed,685,Sebastian FL
+N1TOR,MIKE,
 N1TWC,Jeff,OH,Dublin OH
 N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
@@ -3989,6 +3998,7 @@ N3LSB,DAVE,MD,Taneytown MD
 N3MM,Harry,2804,Lynchburg VA
 N3MNT,Bob,MD,Annapolis MD
 N3ND,Dan,189,Wake Forest NC
+N3OC,BRIAN,
 N3OC,Brian,2944,Brookeville MD
 N3PQ,MUNIR,
 N3QE,Tim,1223,Bethesda MD
@@ -4264,6 +4274,7 @@ N6EE,Ron,CA,Turlock CA
 N6EED,Terry,2122,Rancho Cucamonga CA
 N6EFF,Bob,2936,Fremont CA
 N6EK,KC,
+N6EK,KC,
 N6ER,Kevin,CA,Fullerton CA
 N6ERD,Dan,CA,San Diego CA
 N6ERD/1,Dan,CT,
@@ -4362,6 +4373,7 @@ N7LU,Pat,1290,Cortaro Contest Club San Diego CA
 N7MB,Mike,629,Bloomington IL
 N7MQ,Steve,2215,Powell WY
 N7MU,Jim,2243,Covington WA
+N7MZZ,BEN,
 N7NEW,MIKE,
 N7NM,Doug,1944,Olalla WA
 N7NR,Dave,2927,Huntington Beach CA
@@ -4370,6 +4382,7 @@ N7OC,Stan,WA,Custer WA
 N7ON,John,628,Reno NV
 N7OR,BOB,OR,Sandy OR
 N7PHI,Derek,UT,Saint George UT
+N7QR,RUSS,
 N7QT,Rob,2637,Clyde Hill WA
 N7RC,Dick,CA,Marysville CA
 N7RCS,Jim,1580,Moscow ID
@@ -4388,6 +4401,7 @@ N7UM,AL,
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
 N7VS,Steve,
+N7WMN,DAVID,
 N7WY,Bob,1406,WY
 N7XE,JIM,NV,Bethleham PA
 N7XM,Josh,WV,Dayton NV
@@ -4559,6 +4573,7 @@ NC4RB,John,NC,Thomasville NC
 NC4S,Gary,757,Lovettsville VA
 NC5G,George,TX,Gallantin TX
 NC6K,Eric,1640,Poway CA
+NC7I,DARREN,
 NC7M,Marc,1002,Boring OR
 NC8R,DAN,
 ND1R,Dai,,JF2IWL Remote
@@ -5501,6 +5516,7 @@ VA2SG,Pete,QC,Jonquiere QC (also VE2SSS)
 VA2UR,Guy,QC,(VE2BWL)
 VA2WA,Vic,2212,Boucherville QC (COSBoard)
 VA3AJB,JOHN,
+VA3AR,STEFAN,
 VA3CWT,GABRIEL,
 VA3CX,Ron,1775,London ON (VE3FXX)
 VA3DKL,Dave,2847,Kitchener ON
@@ -5551,6 +5567,7 @@ VA7CW,Andy,352,Delta BC
 VA7DX,Neil,2691,Vancouver BC
 VA7ETR,Tamara,2619,Vancouver BC
 VA7GI,GUY,BC,Vancouver BC
+VA7HA,ALLAN,
 VA7KH,Steve,3039,Ladysmith BC
 VA7OM,Les,2739,Mission BC
 VA7PK/3,CHRIS,
@@ -5943,6 +5960,7 @@ W1BCC/M,BRAD,MA,Winchester NH
 W1BOY,STAN,
 W1BRY,DON,
 W1CWT,,,New England CWops Club (Beverly MA)
+W1DWJ,JOE,
 W1EBI,George,9,Acton MA  (Also VA2EBI)
 W1EBM,Gary,784,Brookline NH
 W1EP,CARL,MA,Framingham MA
@@ -6445,6 +6463,7 @@ W6DR,Dave,CA,Los Gatos CA
 W6EEN,AARONN,
 W6EO,LORIEN,
 W6EU,Jim,317,Truckee CA
+W6GA,GARY,
 W6GGG,RICK,
 W6GJB,Glen,CA,Santa Cruz CA
 W6GMT,Brock,2211,Marcell MN
@@ -7305,6 +7324,7 @@ WW9W,Robert,TX,Allen TX
 WX0B,Jay,620,Sunnyvale TX
 WX2S,Steve,1757,Kingston NJ
 WX3M,Milt,775,Rockville VA
+WX3O,MARK,
 WX4W,CW,1991,(Curtis) Crestwood KY
 WX5CW,Chris,1762,St. Louis MO
 WX7SJ,Mark,1100,Sequim WA

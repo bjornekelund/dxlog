@@ -1,6 +1,6 @@
 awk '
 BEGIN {
-  FS="="
+  FS = "=";
 } 
 {
   print $1 " " $1 " " $2

@@ -6,7 +6,7 @@ dos2unix -q $FILE
 
 gawk '\
 BEGIN {
-  FS="="
+  FS = "=";
 }
 {
   if (lines[$1] != "") 
