@@ -30,7 +30,7 @@ BEGIN {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-END {}' $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
+END {}' $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

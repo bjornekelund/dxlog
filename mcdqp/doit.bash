@@ -13,7 +13,7 @@ else
     dos2unix -q $WEBFILE
     sed 's/ //g' $WEBFILE |\
       iconv -f ISO-8859-1 -t ASCII//TRANSLIT |\
-      gawk -f mcdqp.awk | sort | sed 's/#0. /# /g' > $OUTFILE
+      gawk -f mcdqp.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
     echo Created $OUTFILE
     unix2dos -q $OUTFILE
     if [ -s ../copytosourcetree.bash ]; then

@@ -31,7 +31,7 @@ BEGIN {
 }
 END { 
     printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
-}' | sort | sed 's/#0. /# /g' > $OUTFILE
+}' | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

@@ -23,5 +23,5 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' rda.txt | sort | sed 's/#0. /# /g' > RDAC_huge_db.txt
+}' rda.txt | sort | sed 's/^#0. /# /g' > RDAC_huge_db.txt
 unix2dos RDAC_huge_db.txt

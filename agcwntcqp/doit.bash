@@ -5,7 +5,7 @@ OUTFILE=AGCWNTCQP_db.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-cat $INFILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk -f agcwntcqp.awk | sort | sed 's/#0. /# /g' > $OUTFILE
+cat $INFILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk -f agcwntcqp.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

@@ -9,7 +9,7 @@ echo Parsing $INFILE2
 #dos2unix -q $INFILE1 $INFILE2
 dos2unix -q $INFILE1 $INFILE2
 
-cat $INFILE2 | sed 's/ //g' | gawk -f ea.awk | sort | sed 's/#0. /# /g' > $OUTFILE
+cat $INFILE2 | sed 's/ //g' | gawk -f ea.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE2
 echo Created $OUTFILE

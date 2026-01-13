@@ -34,7 +34,7 @@ END {
   for (c in call) {
     printf("%s,,%s,\n", call[c], exchange[c]);
   }
-}' | sort | sed 's/#0. /# /g' > $OUTFILE
+}' | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

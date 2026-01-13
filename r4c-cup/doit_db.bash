@@ -29,7 +29,7 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' $INFILE | sort | sed 's/#0. /# /g' > $OUTFILE
+}' $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

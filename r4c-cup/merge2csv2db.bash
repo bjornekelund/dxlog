@@ -23,7 +23,7 @@ END {
   for (cs in callist) {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
-}' | sort | sed 's/#0. /# /g' > R4C-CUP_db.txt
+}' | sort | sed 's/^#0. /# /g' > R4C-CUP_db.txt
 
 unix2dos R4C-CUP_db.txt
 

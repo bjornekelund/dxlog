@@ -28,7 +28,7 @@ else
     sed -e 's/\*//g' |\
     sed -e 's/"//g' |\
     sed 's/ ([^)]*)//g' |\
-    gawk -f cqmm.awk | sort | sed 's/#0. /# /g' > $OUTFILE
+    gawk -f cqmm.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo $OUTFILE created

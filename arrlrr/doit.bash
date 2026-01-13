@@ -26,7 +26,7 @@ gawk 'BEGIN{FS = ","}{if ($0 !~ /^(#|!|\s*$)/) printf("%s,%s,,\n", $1, $2);}' $I
 echo Parsing $INFILEFISTS
 gawk 'BEGIN{FS = ","}{if ($0 !~ /^(#|!|\s*$)/) printf("%s,%s,,\n", $1, $2);}' $INFILEFISTS >> .temp
 
-gawk -f arrlrr.awk .temp | sort | sed 's/#0. /# /g' > $OUTFILE
+gawk -f arrlrr.awk .temp | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE

@@ -5,7 +5,7 @@ OUTFILE=POLAR-radioman.txt
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-gawk -f polar-radioman.awk $INFILE  | sort | sed 's/#0. /# /g' > $OUTFILE
+gawk -f polar-radioman.awk $INFILE  | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

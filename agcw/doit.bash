@@ -12,7 +12,7 @@ else
     echo Downloaded $WEBFILE, parsing...
     dos2unix -q $WEBFILE
 
-    cat $WEBFILE | sed 's/Ø/0/g' | sed 's/ //g' | gawk -f agcw.awk | sort | sed 's/#0. /# /g' > $OUTFILE
+    cat $WEBFILE | sed 's/Ø/0/g' | sed 's/ //g' | gawk -f agcw.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     echo Created $OUTFILE
     unix2dos -q $OUTFILE

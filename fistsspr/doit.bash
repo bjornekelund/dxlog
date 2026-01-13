@@ -36,7 +36,7 @@ else
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Exch1,LOCFILE-SS\n");}{if ($0 ~ /^[A-Z0-9]/ && $3 ~ /^[A-Z]+/)printf("%s,%s\n", $1, $3);}' $SSFILE > $LOCFILE
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Name,Exch1,LOCFILE-NAQP\n");}{if ($0 ~ /^[A-Z0-9]/ && $3 ~ /^[A-Z]+/)printf("%s,%s,%s\n", $1, $2, $3);}' $NAQPFILE >> $LOCFILE
 
-    cat $MEMFILE $OLDFILE $NAMEFILE $LOCFILE | gawk -f fistsspr.awk | sort | sed 's/#0. /# /g' > $OUTFILE
+    cat $MEMFILE $OLDFILE $NAMEFILE $LOCFILE | gawk -f fistsspr.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo Created $OUTFILE

@@ -58,7 +58,7 @@ END {
       printf("%s=%s;%s\n", calls[c], numbers[c], names[c]);
     }
   }
-}' $TMPFILE | sort -n -t '=' -k2 |  sed 's/#0. /# /g' > $OUTFILE
+}' $TMPFILE | sort -n -t '=' -k2 |  sed 's/^#0. /# /g' > $OUTFILE
 
 exit
 
@@ -73,7 +73,7 @@ BEGIN {
   printf("%s=%s\n", $2, $1);
 }
 END {
-}' | sort | sed 's/#0. /# /g' > $OUTFILE
+}' | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
