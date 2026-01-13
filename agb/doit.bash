@@ -9,7 +9,7 @@ if [ ! -s $WEBFILE ]; then
     echo "ERROR! Download of $WEBFILE failed. Aborting."
     exit 1
 else
-    echo Downloaded $WEBFILE, parsing...nano
+    echo Downloaded $WEBFILE, parsing...
     dos2unix -q $WEBFILE
 
     gawk -f agb.awk $WEBFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
