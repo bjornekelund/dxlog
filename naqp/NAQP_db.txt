@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "CHRISTOPHER" with 11 characters
-# Last updated 2026-01-13
+# Last updated 2026-01-14
 8P5A=TOM;8P
 AA0AC=DAVE;MN
 AA0AI=STEVE;IA
@@ -103,6 +103,7 @@ AC3RA=RICH;PA
 AC3U=BILL;MD
 AC4G=BRUCE;TN
 AC4HI=AL;IN
+AC4NK=RYAN;TN
 AC5RR=AX;OK
 AC5XK=DON;DC
 AC6T=STEVE;CA

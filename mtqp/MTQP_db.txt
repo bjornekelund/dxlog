@@ -1,7 +1,7 @@
 # Montana QSO Party prefill database
 # Based on NAQP data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-13
+# Last updated 2026-01-14
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -100,6 +100,7 @@ AC3RA=PA
 AC3U=MD
 AC4G=TN
 AC4HI=IN
+AC4NK=TN
 AC5RR=OK
 AC5XK=DC
 AC6T=CA
