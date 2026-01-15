@@ -3,7 +3,7 @@
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
 # Contains members up to #3860
-# Last updated 2026-01-12
+# Last updated 2026-01-15
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1032,6 +1032,7 @@ G3KTZ=Ron;G
 G3LDI=Roger;1843
 G3LQC=Ray;G
 G3MPN=Dave;G
+G3NDS=Ray;G
 G3NKC=Dave;449
 G3OAC=Ken;G
 G3OKA=John;G
@@ -2010,7 +2011,6 @@ K4SX=Ron;810
 K4TD=Rick;1081
 K4TNE=Jeff;3457
 K4TZ=Tom;1993
-K4UW=Bob;3353
 K4VBM=Bob;GA
 K4VIZ=Tom;AR
 K4WA=Steve;3251
@@ -2853,7 +2853,7 @@ KE6MT=Rex;CA
 KE6OIO=Ann;CA
 KE6PY=Steve;3179
 KE6YLH=Jeff;CA
-KE7IR=Patti;AZ
+KE7IR=Patti;CWA
 KE7LOY=Brian;ID
 KE7MPO=Geo;3330
 KE7UAE=Paul;3515
@@ -3623,6 +3623,7 @@ N1RM=Rick;2659
 N1RO/C6A=Dave;3019
 N1RO=Dave;3019
 N1RR=Charlie;2631
+N1SFE=Paul;CT
 N1SNB=Jeff;MA
 N1SP=Randy;3026
 N1SU=Jason;NY
@@ -4830,6 +4831,7 @@ PJ2/W7JET=BB;2993
 PJ4AA=Scott;102
 PJ4K=Dave;232
 PJ4LS=Hans;849
+PJ4PA=Scott;102
 PJ7PA=Tom;1092
 PJ7PL=Ed;PJ7
 PP5EG=Oms;549

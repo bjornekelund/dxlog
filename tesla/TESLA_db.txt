@@ -1,7 +1,7 @@
 # Tesla Memorial Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-11
+# Last updated 2026-01-15
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -6586,6 +6586,7 @@ M3W=IO93
 M3X=IO80
 M4A=JO02
 M4J=JO02
+M4N=IO81
 M5ACN=IO91
 M5ADZ=IO95
 M5AEX=IO92

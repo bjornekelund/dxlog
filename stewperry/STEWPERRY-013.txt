@@ -1,8 +1,8 @@
 !!Order!!,Call,Name,Loc1,UserText,
-# 0-LastEdit,2025-12-28
+# 0-LastEdit,2026-01-15
 # 1-Created by merging StewPerry.txt, Russian160_CallHist.txt,
 # 2-Send info, correction direct to ve2fk@arrl.net
-# 3-Thanks to Bjorn SM7IUN, NA3M, VE2CSM,
+# 3-Thanks to Bjorn SM7IUN, NA3M,
 # ARRLIDC
 # ARRLVHFJAN 
 # ARRLVHFJUN 
@@ -19,7 +19,10 @@
 # SEQP
 # STEWPERRY 
 # TARAGRID 
-# WWDIGI 
+# WWDIGI
+# RTC 
+
+M4N,,IO81,
 
 2E0BPP,,IO83,
 2E0CVN,,JO01,

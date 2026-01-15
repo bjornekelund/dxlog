@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2025-10-21
-# Last number listed 293 PA3MM
+# Last edit,2026-01-14
+# Last number listed 295 PA4N
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -16,7 +16,7 @@ AA2YK,Ernst,255,(NY)
 AE1N,Lane,171,(NH)
 AL3T,Veit,286,
 CT7AUP,David,118,
-CT7BTL,Sint,40, 2025 Santa Claus
+CT7BTL,Sint,40, 
 DC8ED,Karl,77,
 DF0VK,Bert,235,
 DF1XC,Doc,279,
@@ -55,7 +55,7 @@ DL5XL,Felix,80,
 DL7ET,Veit,286,
 DL8KAZ,Dieter,211,
 DL9BU,Burger,230,
-DL/UA6AX,Yuri,174
+DL/UA6AX,Yuri,174,
 DM3ZM,Harald,158,
 DM4RW,Robert,73,
 DM5JBN,Eddy,190,
@@ -159,6 +159,7 @@ OK1DZ,Zdenek,217,
 OK1LO,Lad,215,
 OK1RR,Martin,51,
 OK1WSL,Josef,262,
+OK2BCF,Milan,294,
 OK2BMA,Pavel,62,
 OK2BTK,Petr,NM,
 OK2BVX,Dali,209,
@@ -183,9 +184,10 @@ OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,(ON6QS)
 OV5YL,Joana,278,
 OV1XC,Doc,279,
+PA05NTC,Theo,200, 5 year Anniversary call
 PA0AGF,Remy,131,
 PA0BAK,Ron,9, 
-PA0CMU,Carel,76, 2025 Santa Bonus station
+PA0CMU,Carel,76, 
 PA0GJV,Gerrit,113,
 PA0GRU,Dick,97,
 PA0HRM,Hans,182,
@@ -201,7 +203,7 @@ PA0PJE,Peter,243,
 PA0Q,Hans,14,
 PA0QAW,Jac,177,
 PA0QRB,Harold,95,
-PA0RBA,Rienus,96, 2025 Santa Bonus station
+PA0RBA,Rienus,96, 
 PA0RDT,Roelof,208,
 PA0RRU,Ru,245,
 PA0SIM,Jan,59,
@@ -266,10 +268,10 @@ PA3PKO,Peter,201,
 PA3Y,Nico,19,
 PA4HJB,Hans,292,
 PA4M,Mark,29,
+PA4N,Frank,295,
 PA4O,Peter,7,
 PA4WM,Martin,23,
 PA4Y,Teo,189,
-PA40MARAC,Theo,NM, 2025 Santa Bonus station
 PA5ABW,AB,52,(Albert)
 PA5FN,Hans,195,
 PA5JW,Jan,142,
@@ -280,7 +282,7 @@ PA6F,Andre,78,
 PA6FBE,Peter,243,(PA0PJE)
 PA6FAP,Peter,243,(PA0PJE)
 PA7DN,Dirk,173,
-PA7F,Frank,181, 2025 Santa Bonus station
+PA7F,Frank,181, 
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
 PA7RM,Rob,31, 
@@ -347,7 +349,7 @@ SM6EWB,Geo,238,
 SM6OEF,Ben,274,(also SC6O)
 SO5CW,Fabian,99,
 SP7N,Piotr,111,
-SP7OGP,Piotr,111, 2025 Santa Bonus station
+SP7OGP,Piotr,111, 
 SP9BRP,Jan,202,
 SP9R,Jan,202,(SP9BRP)
 SQ3RLL,Greg,186,(DL3GJ)
