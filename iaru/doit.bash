@@ -32,6 +32,7 @@ BEGIN {
 
 unix2dos -q $OUTFILE
 cp $FOLDER/$XDTFILE .
+rm -f ../xdt/iaru*.xdt
 cp $FOLDER/$XDTFILE ../xdt
 
 echo Created $OUTFILE $XDTFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-WEBFILE=BCC.xdt
+WEBFILE=bcc-members.xdt
 
 rm -f $WEBFILE
 curl -sS https://www.bavarian-contest-club.de/data/$WEBFILE -O
@@ -9,6 +9,6 @@ if [ ! -s $WEBFILE ]; then
     exit 1
 else
     echo Downloaded $WEBFILE
-    unix2dos -q $WEBFILE
+    # unix2dos -q $WEBFILE
     cp $WEBFILE ../xdt
 fi

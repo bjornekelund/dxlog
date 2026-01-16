@@ -74,7 +74,7 @@ SkookumLogger (TNX K1GQ):
 3. Check that CE3AA prefills HQ code RCCH
 
 UcxLog (TNX OZ1BII):
-
+ 
 1. Extract iaru.txt to C:\UcxLog\MEMBER\
 2. Remember to delete old IARU files in C:\UcxLog\MEMBER\
 3. Enter CE3AA and the logger should prefill RCCH as the exchange in the Membership window
