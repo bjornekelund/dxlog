@@ -7,7 +7,8 @@ BEGIN {
   callist[$1]=$2;
 } 
 END { 
-  for (c in callist) { 
+  for (c in callist)
+  { 
     grid = (gridlist[c] == "?") ? gridlist[callist[c]] : gridlist[c];
     if (grid == "" && substr(callist[c],1,1) == "S")
       printf("%s\n", callist[c]);  

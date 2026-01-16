@@ -11,28 +11,34 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 !~ /^[A-Z0-9\/]+$/) {
+  if ($1 !~ /^[A-Z0-9\/]+$/)
+  {
     line[num++] = $0;
   }
-  else {
-    if (call[$1] == "") {
-
-      if ($2 == "" && ($3 == "" || $3 !~ /^[A-Z]{2,3}$/)) {
+  else 
+  {
+    if (call[$1] == "")
+    {
+      if ($2 == "" && ($3 == "" || $3 !~ /^[A-Z]{2,3}$/)) 
+      {
         printf("%s is missing data\n", $0) >> "/dev/stderr";
       }
-      else {
+      else 
+      {
         call[$1] = $1;
         calline[$1] = $0;
         line[num++] = $0;
       }
     }
-    else {
+    else
+    {
       printf("%s is repeated as %s\n", calline[$1], $0) >> "/dev/stderr";
     }
   }
 }
 END {
-    for (i = 0; i < num; i++) {
+    for (i = 0; i < num; i++)
+    {
         print line[i];
     }
 }' $FILE > $OUTFILE

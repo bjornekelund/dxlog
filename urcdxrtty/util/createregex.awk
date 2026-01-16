@@ -9,7 +9,8 @@ BEGIN {
     printf(first ? "%s" : "|%s", $1);
     first = 0;
   }
-  else {
+  else
+  {
     printf("Problem \"%s\"\n", $0) > "/dev/stderr";
   }
 }

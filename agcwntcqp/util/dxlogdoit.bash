@@ -17,15 +17,18 @@ BEGIN {
   maxlen = 0;
 }
 {
-  if ($0 ~ /^[A-Z0-9]/) {
+  if ($0 ~ /^[A-Z0-9]/) 
+  {
     printf("%s=%s;%s;%s\n", $1, $2, $3, $4);
-    if (length($2) > maxlen) {
+    if (length($2) > maxlen) 
+    {
       maxcall = $1;
       maxlen = length($2);
       maxname = $2;
     }
   }
-  else if ($0 !~ /^(!|#|$)/) {
+  else if ($0 !~ /^(!|#|$)/) 
+  {
     printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

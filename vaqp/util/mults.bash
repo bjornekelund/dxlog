@@ -11,15 +11,16 @@ BEGIN {
   mult = "";
 }
 {
-  if (odd) {
+  if (odd) 
+  {
     mult = $1;
   }
-  else {
+  else 
+  {
     printf("%s=%s\n", $1, mult)
   }
   odd = !odd;
-}
-END { }' | sort > $OUTFILE
+}' | sort > $OUTFILE
 
 unix2dos -q $OUTFILE
 echo Created $OUTFILE

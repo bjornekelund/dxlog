@@ -11,7 +11,8 @@ BEGIN {
   {
     printf("Problem exchange: \"%s\"\n", $0) > "/dev/stderr";
   }
-  else {
+  else 
+  {
     if ($0 !~ /^#/) 
     {
       if ($2 !~ /^[A-Z]{2}[0-9]{2}$/) 

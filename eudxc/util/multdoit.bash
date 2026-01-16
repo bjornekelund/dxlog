@@ -14,7 +14,8 @@ BEGIN {
 {
   if ($2 == "")
     printf("# %s\n", $1)
-  else {
+  else 
+  {
     printf("%s=", $1);
     $1 = "";
     printf("%s\n", $0);

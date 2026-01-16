@@ -15,11 +15,13 @@ gawk 'BEGIN {
   else if ($4 == "") last = 3;
   else if ($5 == "") last = 4;
   else last = 5;
-  if ($last !~ /^[A-Z]+$/) {
+  if ($last !~ /^[A-Z]+$/)
+  {
     state = $1;
     if ($2 != "") state = state " " $2;
   }
-  else {
+  else 
+  {
     if (last == 2) name = $1;
     else if (last == 3) name = $1 " " $2;
     else if (last == 4) name = $1 " " $2 " " $3;

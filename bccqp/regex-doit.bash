@@ -20,7 +20,8 @@ else
   }
   {
     call = toupper($1)
-    if (call ~ /^[0-9,A-Z,\/]+$/) {
+    if (call ~ /^[0-9,A-Z,\/]+$/)
+    {
       if (first)
         string = call;
       else

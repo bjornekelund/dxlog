@@ -10,12 +10,14 @@ BEGIN {
   printf("000[MULTIPLIERS START]\n");
 }
 {
-  if ($6 ~ /^[A-Z]{2}\.[A-Z]{2}\.[A-Z]{2}$/) {
+  if ($6 ~ /^[A-Z]{2}\.[A-Z]{2}\.[A-Z]{2}$/)
+  {
     area = substr($6, 1, 2) substr($6, 4, 2) substr($6, 7, 2);
     printf("%s=%s\n", area, $2);
 #    printf("area: %s\n", area) > "/dev/stderr";
   }
-  else if ($1 != "") {
+  else if ($1 != "")
+  {
 #    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

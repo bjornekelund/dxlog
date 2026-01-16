@@ -49,25 +49,31 @@ BEGIN {
   hyphenated = $2 ~ /^[A-Za-z]{2,10}[\- ][A-Za-z]{2,10}$/;
 
 
-  if (callok) {
-    if (nameok) {
-      if (calls[$1] == "") { 
+  if (callok) 
+  {
+    if (nameok) 
+    {
+      if (calls[$1] == "") 
+      {
         # First membership
         calls[$1] = $1;
         names[$1] = name;
         mem1[$1] = $3;
       }
-      else {
+      else
+      {
         calls[$1] = $1;
-        if (names[$1] != name) {
+        if (names[$1] != name) 
+        {
           printf("Name overwrite for %s: \"%s\" --> \"%s\"\n", $1, names[$1], name) > "/dev/stderr";
         }
         names[$1] = name;
         mem2[$1] = $3;      
       }
     }
-    else {
-          printf("Problem name \"%s\" for %s\n", $2, $1) > "/dev/stderr";
+    else 
+    {
+      printf("Problem name \"%s\" for %s\n", $2, $1) > "/dev/stderr";
     }
 
   }

@@ -17,8 +17,10 @@ BEGIN {
 }
 END {
   prevprefix = "";
-  for (i = 0; i < count; i++) {
-    if (prefix[i] != prevprefix) {
+  for (i = 0; i < count; i++)
+  {
+    if (prefix[i] != prevprefix)
+    {
       printf("\nGroup->%s: %s", prefix[i], pref[i]);
       prevprefix = prefix[i];
     }

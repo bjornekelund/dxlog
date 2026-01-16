@@ -43,7 +43,8 @@ BEGIN {
     {
       rname = $name;
     }
-    else {
+    else 
+    {
       rname = $name;
       if (rname !~ /^[A-Za-z -]+$/) 
       {

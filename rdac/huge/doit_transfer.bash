@@ -19,7 +19,8 @@ BEGIN {
   max = 0;
 }
 {
-  if ($1 ~ /[A-Z][A-Z]-[0-9][0-9]/ && $2 == "deleted") {
+  if ($1 ~ /[A-Z][A-Z]-[0-9][0-9]/ && $2 == "deleted")
+  {
     old = $1;
     col = 3;
     while ($col !~ /\-/ && col < 20)

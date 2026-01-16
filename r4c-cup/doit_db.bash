@@ -13,7 +13,8 @@ BEGIN {
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($2 ~ /[0-9,A-Z]/ && $3 ~ /SA-[0-9]{2}/) {
+  if ($2 ~ /[0-9,A-Z]/ && $3 ~ /SA-[0-9]{2}/) 
+  {
     calll = length($2) - 2;
     call = substr(substr($2, 2), 1, calll);
     rda = substr($3,2,2) substr($3,5,2);
@@ -21,12 +22,14 @@ BEGIN {
     callist[call] = call;
     rdalist[call] = rda;
   }
-  else {
+  else 
+  {
 #    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {
-  for (cs in callist) {
+  for (cs in callist) 
+  {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }
 }' $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE

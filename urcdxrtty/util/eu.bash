@@ -10,7 +10,8 @@ gawk 'BEGIN {
   printf("!!Order!!,Call,Name,Exch1,UserText,\n");
 }
 {
-  switch ($2) {
+  switch ($2) 
+  {
     case "SE01": 
         ter = "SHM"; 
         break;

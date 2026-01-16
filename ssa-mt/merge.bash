@@ -25,7 +25,8 @@ END {
   printf("#3 By SM7IUN with great help from SM5AJV and SM0HJZ\n");
   printf("#4 Last updated 2019-08-29\n");
   printf("#5\n");
-  for (c in callist) { 
+  for (c in callist)
+  {
     grid = (gridlist[c] == "?") ? gridlist[callist[c]] : gridlist[c];
     if (grid != "" && grid != "?" && 
         substr(callist[c],1,1) == "S" && (substr(grid,1,1) == "J" || substr(grid,1,1) == "K"))

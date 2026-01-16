@@ -11,7 +11,8 @@ BEGIN {
 }
 {
   cnty = toupper($2)
-  if (cnty ~ /^[A-Z]{3,4}$/) {
+  if (cnty ~ /^[A-Z]{3,4}$/)
+  {
     printf("%s\n", cnty);
   }
 }' | sort | gawk '
@@ -24,7 +25,8 @@ BEGIN {
 {
   cnty = toupper($1)
 #  printf("%s\n",$1) > "/dev/stderr";
-  if (cnty ~ /^[A-Z]{3,4}$/) {
+  if (cnty ~ /^[A-Z]{3,4}$/)
+  {
     if (notfirst)
       printf("|");
     notfirst = 1;

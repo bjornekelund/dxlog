@@ -11,7 +11,8 @@ cat $SOURCE | awk \
   notfirst = 0;
 }
 {
-  if ($4 ~ /NA/) {
+  if ($4 ~ /NA/) 
+  {
   if (notfirst++)
     printf("|");
     printf("%s", $8)

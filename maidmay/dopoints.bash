@@ -15,20 +15,27 @@ BEGIN {
     chr[i] = i;
 
   bandregex="160|80|40";
-  for (first = 65; first < 83; first++) {
-    for (second = 65; second < 83; second++) {
+  for (first = 65; first < 83; first++)
+  {
+    for (second = 65; second < 83; second++)
+    {
       thisgrid = sprintf("%c", first) sprintf("%c", second);
       printf("# Rules for station with grid %s for bands %s\n", thisgrid, bandregex)
-      for (modei = 0; modei < 3; modei++) {
+      for (modei = 0; modei < 3; modei++)
+      {
         printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;DEST->RCVD:^%s([0-9]{2})?$;^(%s)$;%s;%d\n", thisgrid, thisgrid, bandregex, modes[modei], points[modes[modei]] * 1);
         gridregex = "";
         notfirst = 0;
-        for (fd = -1; fd < 2; fd++) {
-          for (sd = -1; sd < 2; sd++) {
-            if (fd != 0 || sd != 0) {
+        for (fd = -1; fd < 2; fd++)
+        {
+          for (sd = -1; sd < 2; sd++)
+          {
+            if (fd != 0 || sd != 0)
+            {
               fn = (first - 65 + fd + 17) % 17 + 65;
               sn = (second - 65 + sd + 17) % 17 + 65;
-              if (notfirst) {
+              if (notfirst)
+              {
                 gridregex = gridregex "|"
               }
               gridregex  = gridregex sprintf("%c", fn) sprintf("%c", sn);
@@ -43,20 +50,27 @@ BEGIN {
   }
 
   bandregex="20|15|10";
-  for (first = 65; first < 83; first++) {
-    for (second = 65; second < 83; second++) {
+  for (first = 65; first < 83; first++)
+  {
+    for (second = 65; second < 83; second++)
+    {
       thisgrid = sprintf("%c", first) sprintf("%c", second);
       printf("# Rules for station with grid %s for bands %s\n", thisgrid, bandregex)
-      for (modei = 0; modei < 3; modei++) {
+      for (modei = 0; modei < 3; modei++)
+      {
         printf("POINTS_FIELD_BAND_MODE=CONFIG->EXCHANGE:^%s([0-9]{2})?$;DEST->RCVD:^%s([0-9]{2})?$;^(%s)$;%s;%d\n", thisgrid, thisgrid, bandregex, modes[modei], points[modes[modei]] * 3);
         gridregex = "";
         notfirst = 0;
-        for (fd = -1; fd < 2; fd++) {
-          for (sd = -1; sd < 2; sd++) {
-            if (fd != 0 || sd != 0) {
+        for (fd = -1; fd < 2; fd++)
+        {
+          for (sd = -1; sd < 2; sd++)
+          {
+            if (fd != 0 || sd != 0)
+            {
               fn = (first - 65 + fd + 17) % 17 + 65;
               sn = (second - 65 + sd + 17) % 17 + 65;
-              if (notfirst) {
+              if (notfirst)
+              {
                 gridregex = gridregex "|"
               }
               gridregex  = gridregex sprintf("%c", fn) sprintf("%c", sn);
