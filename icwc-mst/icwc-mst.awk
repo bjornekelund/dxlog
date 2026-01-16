@@ -42,5 +42,3 @@ END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
   printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }
-
-#   if ($0 ~ /^(!|#|$)/)   {

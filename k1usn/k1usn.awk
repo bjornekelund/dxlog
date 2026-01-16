@@ -12,18 +12,18 @@ BEGIN {
   {
     if ($1 ~ /!!Order!!/)
     {
-      if ($2 ~ /Call/) call = 1;
-      if ($3 ~ /Call/) call = 2;
-      if ($4 ~ /Call/) call = 3;
-      if ($5 ~ /Call/) call = 4;
-      if ($2 ~ /Name/) nm = 1;
-      if ($3 ~ /Name/) nm = 2;
-      if ($4 ~ /Name/) nm = 3;
-      if ($5 ~ /Name/) nm = 4;
-      if ($2 ~ /Exch1/) ex = 1;
-      if ($3 ~ /Exch1/) ex = 2;
-      if ($4 ~ /Exch1/) ex = 3;
-      if ($5 ~ /Exch1/) ex = 4;
+      if ($2 ~ /Call/) call = 1; else
+      if ($3 ~ /Call/) call = 2; else
+      if ($4 ~ /Call/) call = 3; else
+      if ($5 ~ /Call/) call = 4; else printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
+      if ($2 ~ /Name/) nm = 1; else
+      if ($3 ~ /Name/) nm = 2; else
+      if ($4 ~ /Name/) nm = 3; else
+      if ($5 ~ /Name/) nm = 4; else printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
+      if ($2 ~ /Exch1/) ex = 1; else
+      if ($3 ~ /Exch1/) ex = 2; else
+      if ($4 ~ /Exch1/) ex = 3; else
+      if ($5 ~ /Exch1/) ex = 4; else printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
       printf("%s --> call=%d nm=%d ex=%d\n", $0, call, nm, ex) > "/dev/stderr";
     }
   }
