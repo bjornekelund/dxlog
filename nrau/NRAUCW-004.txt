@@ -3,7 +3,7 @@
 # NRAUSSB
 # Compiled by LY5T, various sources
 # Thanks Bjorn/SM7IUN for his help
-# Send any corrections direct ve2fk@±arrl.net 
+# Send any corrections direct ve2fk@±arrl.net
 # Last Edit,2026-01-11
 !!Order!!, Call, Sect
 #

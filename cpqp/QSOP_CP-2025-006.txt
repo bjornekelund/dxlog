@@ -8,7 +8,7 @@
 # QSOP_CP
 # QSOPARTY CP
 
-# Fixed - Fed. Electoral Districts list 
+# Fixed - Fed. Electoral Districts list
 VA4ADM,Paul,STB,St Vital- St Boniface
 VA4HZ,Harm,KIL,Kildonan-St. Paul
 VA4JP,Jack,PRO,Provencher

@@ -1,5 +1,5 @@
-﻿# 
-# DXLog.net contest definition file 
+﻿#
+# DXLog.net contest definition file
 # See below for update information
 #
 CONTESTNAME=BCC QSO Party
@@ -32,7 +32,7 @@ MULT1_COUNT=PER_MODE
 MULT1_FIELD=RCVD
 MULT1_DISPLAY=MULT
 
-# Start machine generated 
+# Start machine generated
 
 # Silent multiplier to highlight members in bandmap.
 # Member callsigns from https://www.bavarian-contest-club.de as of 2026-01-15

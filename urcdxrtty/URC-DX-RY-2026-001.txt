@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2025-10-03 
+# 1-Last Edit,2025-10-03
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-Thanks to: SM7IUN for his help
 # 4-Updated from Logs of  and VE2FK

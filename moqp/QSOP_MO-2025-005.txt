@@ -1,5 +1,5 @@
 !!Order!!,Call,Exch1,UserText
-# 
+#
 # Last Edit,2025-04-04
 # MISSOURI QSO PARTY
 # QSOPARTY MO
@@ -10,7 +10,7 @@
 
 # 1X1 Stations list .........
 K0E,,(K0AP)  MOBILE
-K0S,,(K5DB)  MOBILE 
+K0S,,(K5DB)  MOBILE
 K0H,,(KK0U)  MOBILE
 K0O,,(N0BDS)
 K0W,DAD,(WB0VPS)
@@ -59,7 +59,7 @@ K0KEX,PLA,Platte County
 K0LAF,GRN,Greene County
 K0VC,STG,St. Genevieve County
 K2HT,MGM,Montgomery County
-K5CM,,MOBILE - 
+K5CM,,MOBILE -
 K8MCN,LCN,Lincoln
 KA0REN,JAC,Jackson County
 KA4TRV,CHR,CHRISTIAN
@@ -88,7 +88,7 @@ KI0Y,COL,Cole CountyCole County
 KN4FRG,PUL,Pulaski County
 N0OFE,SLC,St Louis
 KR0RD,,FRA GAS OSA
-NR9A,STG,St. Genevieve 
+NR9A,STG,St. Genevieve
 KX0K,WAR,Warren
 N0AHY,STN,STONE
 N0CS,WOR,Worth

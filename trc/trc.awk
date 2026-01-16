@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -16,20 +16,20 @@ BEGIN {
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^TRC$/) 
+  }
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^TRC$/)
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else 
+    else
     {
       printf("%s=%s\n", $call, $col);
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(#|!|$)/) 
+  else if ($0 !~ /^(#|!|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

@@ -10,44 +10,44 @@ gawk 'BEGIN {
   printf("!!Order!!,Call,Name,Exch1,UserText,\n");
 }
 {
-  switch ($2) 
+  switch ($2)
   {
-    case "SE01": 
-        ter = "SHM"; 
+    case "SE01":
+        ter = "SHM";
         break;
     case "SE02":
     case "SE03":
     case "SE04":
-    case "SE18": 
+    case "SE18":
         ter = "ESW";
         break;
     case "SE05":
     case "SE06":
     case "SE07":
     case "SE09":
-    case "SE10": 
-        ter = "SSW"; 
+    case "SE10":
+        ter = "SSW";
         break;
-    case "SE08": 
+    case "SE08":
         ter = "GTL";
         break;
     case "SE11":
-    case "SE12": 
-        ter = "SWS"; 
+    case "SE12":
+        ter = "SWS";
         break;
     case "SE13":
     case "SE14":
-    case "SE16": 
-        ter = "WSW"; 
+    case "SE16":
+        ter = "WSW";
         break;
     case "SE15":
     case "SE17":
-    case "SE19": 
-        ter = "MSW"; 
+    case "SE19":
+        ter = "MSW";
         break;
     case "SE20":
-    case "SE21": 
-        ter = "NSN"; 
+    case "SE21":
+        ter = "NSN";
         break;
     case "DK01": ter = "CHG"; break;
     case "DK02": ter = "CJU"; break;
@@ -85,11 +85,11 @@ gawk 'BEGIN {
     case "AT09": ter = "VBG"; break;
 
     case "BE02": ter = "WLN"; break;
-    
+   
     case "BE03": ter = "FDS"; break;
     case "BE10": ter = "FDS"; break;
     case "BE11": ter = "FDS"; break;
-    
+   
     case "CY01":
     case "CY02":
     case "CY03":

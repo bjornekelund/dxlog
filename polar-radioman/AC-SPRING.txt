@@ -1,9 +1,9 @@
 
-!!Order!!, Call, Sect, UserText, 
+!!Order!!, Call, Sect, UserText,
 # Arktika
 # AC-SPRING
 # Last Edit,2021-04-21
-# Thanks Oleg RA9JM 
+# Thanks Oleg RA9JM
 RL1Z,AC1,
 RC2SC,AC3,
 RA9XR,AC5,

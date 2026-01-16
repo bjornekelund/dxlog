@@ -3,16 +3,16 @@
 #
 #  QSL-Regio's verzameld uit PA-Beker uitslagen 2008-2019 door PG7V www.contestkalender.nl
 #
-#  Updates nadien door Thomas PA1M. 
+#  Updates nadien door Thomas PA1M.
 #
 #  LET OP: Regio's kunnen wijzigen, dus controleer de ontvangen regio
-#  Jaartal achter de call is de meest recente deelname aan de PA-Beker 
+#  Jaartal achter de call is de meest recente deelname aan de PA-Beker
 #
 #Last Edit,2023-03-05 PA1M - VE2FK
 # PABEKERCW
 # PABEKERSSB
 
-!!Order!!,Call,Sect,UserText,	 	
+!!Order!!,Call,Sect,UserText,	 
 PA0AKN,42,2022
 PA0ATY,43,2012
 PA0AWH,35,2013

@@ -7,7 +7,7 @@ BEGIN {
   longest = "";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -17,18 +17,18 @@ BEGIN {
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> call=5d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Z0-9]+$/) 
+  }
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Z0-9]+$/)
   {
     printf("%s=%s\n", $call, $col);
     longest = length($col) > length(longest) ? $col : longest;
   }
-  else if ($0 !~ /^(!|#|$)/ && $col != "") 
+  else if ($0 !~ /^(!|#|$)/ && $col != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {
-  printf("#03 Longest DOK is %s with %d characters.\n", longest, length(longest)); 
-  printf("Longest DOK is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr"; 
+  printf("#03 Longest DOK is %s with %d characters.\n", longest, length(longest));
+  printf("Longest DOK is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
 }

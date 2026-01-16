@@ -17,8 +17,8 @@ BEGIN {
 }
 
 
-#!!Order!!,Call,Sect,State,CK,UserText, 
-# 
+#!!Order!!,Call,Sect,State,CK,UserText,
+#
 # Current contest: SSCW and SSSSB
 # Helping file, LOG what you copy
 # Last Edit,2024-10-25

@@ -2,13 +2,13 @@
 # QSOP_CO
 # QSOPARTY CO
 # Last Edit,2025-12-28
-# Send new info/corrections DIRECT to ve2fk@arrl.net 
+# Send new info/corrections DIRECT to ve2fk@arrl.net
 # Colorado stations send call sign, name and county (three letter designator).
 # Colorado Opr., Counties and Mobiles follows
 # Sorry, no updated data on COQP site.
 AA0JE,Royce,
 AF0S,,,ROVER or MOBILE (BONUS)
-K0DME,BEN,WEL,Weld 
+K0DME,BEN,WEL,Weld
 K0KWH,KEN,LAA,Las Animas
 K0TER,Mike,
 K0XF,Max,

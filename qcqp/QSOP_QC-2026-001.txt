@@ -2,11 +2,11 @@
 # QSOP_QC
 # QSOPARTY QC
 # Last Edit,2025-12-29
-# Send new info/corrections DIRECT to ve2fk@arrl.net 
+# Send new info/corrections DIRECT to ve2fk@arrl.net
 # Merci/Thanks VE2VAB for update/mises a jour.
 # Thanks Bjorn/SM7IUN for his help
 
-# Regions du QC Fixes et Mobiles/Portables 
+# Regions du QC Fixes et Mobiles/Portables
 VA2AU,JEAN,QUE,Capitale-Nationale
 VA2CF,Fred,MEE,Monteregie
 VA2CO,MICHEL,SLS,Saguenay Lac St-Jean
@@ -37,7 +37,7 @@ VA2SG,PETE,SLS,Saguenay Lac St-Jean
 VA2UK,ALAN,OTS,Outaouais
 VA2UP,FABI,MTL,Montreal
 VA2UR,GUY,ETE,Estrie
-VA2VT,Nick,LVL,Laval 
+VA2VT,Nick,LVL,Laval
 VA2WA,VIC,CDQ,Centre du Quebec
 VA2WY,Rene,CAS,MT-Radar St-Sylvestre
 VA2YZX,SLY,CDQ,Cote Nord
@@ -49,7 +49,7 @@ VE2BWL,GUY,ETE,Estrie
 VE2CBW,CLAUDE,MEE,Monteregie
 VE2CEL,DENIS,CND,Cote Nord
 VE2CQF,DUB,BSA,Bas St-Laurent
-VE2CRO,RC,OTS,Outaouais - Station BONUS 
+VE2CRO,RC,OTS,Outaouais - Station BONUS
 VE2CSM,SYL,QUE,Capitale-Nationale
 VE2CSP,SYL,QUE,Capitale-Nationale
 VE2CWQ,RC,LDE,Lanaudiere
@@ -79,8 +79,8 @@ VE2GHO,Gaetan,QUE,Capitale-Nationale
 VE2GHR,JOCELYN,QUE,Capitale-Nationale
 VE2GK,GARY,OTS,OutaouaisOutaouais
 VE2GSO,GILLES,BSA,Bas St-Laurent
-VE2GT,Pierre,,Mobile ETE - MEE - MTL - LVL - LNS 
-VE2GT/M,Pierre,,Mobile ETE - MEE - MTL - LVL - LNS 
+VE2GT,Pierre,,Mobile ETE - MEE - MTL - LVL - LNS
+VE2GT/M,Pierre,,Mobile ETE - MEE - MTL - LVL - LNS
 VE2HAY,VITTORIO,LVL,Laval
 VE2HLS,SERGE,MEE,Monteregie
 VE2HQ,NOEL,CAS,Chaudiere Appalaches

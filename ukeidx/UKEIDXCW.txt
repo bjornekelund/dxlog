@@ -1,4 +1,4 @@
-!!Order!!,Call,Exch1 
+!!Order!!,Call,Exch1
 #
 # Current contest: UKEIDXCW
 # Last Edit,2025-10-05

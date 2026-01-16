@@ -7,7 +7,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($2 ~ /[0-9,A-Z]/ && $3 ~ /[A-Z]{2}-[0-9]{2}/) 
+  if ($2 ~ /[0-9,A-Z]/ && $3 ~ /[A-Z]{2}-[0-9]{2}/)
   {
     calll = length($2) - 2;
     call = substr(substr($2, 2), 1, calll);
@@ -22,7 +22,7 @@ BEGIN {
   }
 }
 END {
-  for (cs in callist) 
+  for (cs in callist)
   {
     printf("%s=%s\n", callist[cs], rdalist[cs]);
   }

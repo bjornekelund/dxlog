@@ -2,7 +2,7 @@ doit.bash combines several database files.
 
 Start with oldest to let newer ones overwrite.
 
-VHF_UHF_DB.txt is the original DXLog database. 
+VHF_UHF_DB.txt is the original DXLog database.
 VHFREG1.txt is the N1MM database with newer content
 LOCAL.txt is used to make local updates that override the two previous
 

@@ -16,7 +16,7 @@ BEGIN {
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
-  } 
+  }
   else if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
     $col ~ /^(GR|FR|DR|OV|GD|UT|FL|NH|ZH|NB|ZL|LB)$/)
@@ -25,10 +25,10 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
-    else 
+    else
     {
         printf("%s=%s\n", $call, $col);
-        lines[$call] = $0; 
+        lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/)

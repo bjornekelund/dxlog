@@ -11,11 +11,11 @@ BEGIN {
   mult = "";
 }
 {
-  if (odd) 
+  if (odd)
   {
     mult = $1;
   }
-  else 
+  else
   {
     printf("%s=%s\n", $1, mult)
   }

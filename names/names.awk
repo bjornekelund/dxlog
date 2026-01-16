@@ -16,27 +16,27 @@ BEGIN {
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
     printf("%s --> call=%d name=%d\n", $0, call, name) > "/dev/stderr";
-  } 
+  }
   else
   {
     ucall = toupper($call);
     uname = toupper($name);
     # printf("$call=\"%s\" uname=\"%s\"\n", $call, uname) > "/dev/stderr";
     # printf("$0=\"%s\"\n", $0) > "/dev/stderr";
-    if (ucall ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && uname ~ /^[A-Z]+$/) 
+    if (ucall ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && uname ~ /^[A-Z]+$/)
     {
       if (line[ucall] != "")
       {
         printf("\"%s\" reoccurs as \"%s\"\n", line[ucall], $0) > "/dev/stderr";
       }
-      else if (uname != "") 
+      else if (uname != "")
       {
         printf("%s=%s\n", ucall, uname);
         line[ucall] = $0;
         longest = length(uname) > length(longest) ? uname : longest;
       }
     }
-    else if ($0 !~ /^(!|#)/) 
+    else if ($0 !~ /^(!|#)/)
     {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }

@@ -11,7 +11,7 @@ BEGIN {
 {
   call = $1;
   grid = $2;
-  if (callist[call] != "" && gridlist[call] != grid) 
+  if (callist[call] != "" && gridlist[call] != grid)
   {
     printf("Correction: %s = %s\n", call, grid) >> "/dev/stderr";
   }

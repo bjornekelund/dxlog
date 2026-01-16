@@ -5,7 +5,7 @@
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-
 # 4-
-# 5-Thanks Bjorn SM7IUN for corr. 
+# 5-Thanks Bjorn SM7IUN for corr.
 # 6-
 # QSOP_ME
 # QSOPARTY ME
@@ -42,7 +42,7 @@ WS1SM,,YOR,YORK
 WW1M,,YOR,YorkME
 WW1ME,,HAN,HANCOCK
 
-# Out of States and Prov. 
+# Out of States and Prov.
 AA0AC,DAVE,MN,
 AA0AI,STEVE,IA,
 AA0AO,TOM,MN,

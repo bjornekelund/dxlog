@@ -16,7 +16,7 @@ BEGIN {
 #    printf("call=%s rda=%s\n", call, rda) > "/dev/stderr";
     printf("%s,%s\n", call, rda);
   }
-  else 
+  else
   {
     printf("Bad data: %s\n", $0) > "/dev/stderr";
   }

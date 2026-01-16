@@ -1,52 +1,52 @@
 Examples of the cabrillo format for the UBA DX Contest
 ------------------------------------------------------
-START-OF-LOG: version-number 
-Must be the first line of the log submission. The current version-number is 3.0. 
-END-OF-LOG: 
-Must be the last line of the log submission. 
-CALLSIGN: callsign 
-The callsign used during the contest. 
+START-OF-LOG: version-number
+Must be the first line of the log submission. The current version-number is 3.0.
+END-OF-LOG:
+Must be the last line of the log submission.
+CALLSIGN: callsign
+The callsign used during the contest.
 CATEGORY: operator-category band-category power-category [mode-category]
-For HF contests the operator-category must be one of the following: SINGLE-OP, SINGLE-OP-ASSISTED, MULTI-ONE, MULTI-TWO, MULTI-MULTI, SCHOOL-CLUB (ARRL-SS-CW and ARRL-SS-SSB only), SWL, or CHECKLOG.  
-For HF contests the band-category must be one of the following: ALL, 160M, 80M, 40M, 20M, 15M or 10M. 
-The power-category must be HIGH, LOW or QRP. 
+For HF contests the operator-category must be one of the following: SINGLE-OP, SINGLE-OP-ASSISTED, MULTI-ONE, MULTI-TWO, MULTI-MULTI, SCHOOL-CLUB (ARRL-SS-CW and ARRL-SS-SSB only), SWL, or CHECKLOG. 
+For HF contests the band-category must be one of the following: ALL, 160M, 80M, 40M, 20M, 15M or 10M.
+The power-category must be HIGH, LOW or QRP.
 The mode-category must be CW, SSB or MIXED and is only permitted for single operator entries in multi-mode contests that permit single mode entries such as IARU-HF and the 10 Meter Contest.  SO NOT NEEDED FOR UBA DX CONTEST
 CATEGORY-TIME: time-category
 The time category is only applicable for ON entrants in the UBA Contest and must be either 6-HOURS or 12-HOURS or 24-HOURS
-CLAIMED-SCORE: n 
-The claimed-score of the log submission, in integer form such as 1217315 or 19113 or 12. 
-CLUB: text 
-Name of the radio club with which the score should be aggregated. 
-CONTEST: contest-name 
+CLAIMED-SCORE: n
+The claimed-score of the log submission, in integer form such as 1217315 or 19113 or 12.
+CLUB: text
+Name of the radio club with which the score should be aggregated.
+CONTEST: contest-name
 UBA-DX
-CREATED-BY: text 
-Name and version of the logging program used to create the Cabrillo file. 
-NAME: text 
-ADDRESS: text 
-Name and address. 
-OPERATORS: callsign 1 [callsign2 callsign3...] A space-delimited list of operator callsign(s). 
-SOAPBOX: text 
-Soapbox comments. 
-QSO: qso-data 
-QSO data as specified by the Cabrillo QSO data format. 
+CREATED-BY: text
+Name and version of the logging program used to create the Cabrillo file.
+NAME: text
+ADDRESS: text
+Name and address.
+OPERATORS: callsign 1 [callsign2 callsign3...] A space-delimited list of operator callsign(s).
+SOAPBOX: text
+Soapbox comments.
+QSO: qso-data
+QSO data as specified by the Cabrillo QSO data format.
 
-•	freq: 
-integer frequency in kHz; if freq not known then 28000, 21000, 14000, 7000, 3500, 1800 
-•	 mo: 
-CW or PH, 
-•	date: 
-UTC date in yyyy-mm-dd form 
-•	time: 
-UTC time in nnnn form 
-•	call: 
-callsign 
-•	rst: 
-RST 
-•	nr: 
-Serial number in 4 digits 
-•	ex1: 
+ï¿½	fre: 
+integer frequency in kHz; if freq not known then 28000, 21000, 14000, 7000, 3500, 1800
+ï¿½	 m: 
+CW or PH,
+ï¿½	dat: 
+UTC date in yyyy-mm-dd form
+ï¿½	tim: 
+UTC time in nnnn form
+ï¿½	cal: 
+callsign
+ï¿½	rs: 
+RST
+ï¿½	n: 
+Serial number in 4 digits
+ï¿½	ex: 
 UBA section sent by ON stations
-•	ex2:
+ï¿½	ex2:
 UBA section sent by ON stations
 
 Example Cabrillo log for Stations with QTH in Belgium
@@ -73,7 +73,7 @@ CLUB: ACC
 CLAIMED-SCORE: 311040
 NAME: Marc Domen
 ADDRESS: Ferdinand Coosemansstraat 32
-ADDRESS: B – 2600  Berchem
+ADDRESS: B ï¿½ 2600  Berchem
 ADDRESS: Belgium
 EMAIL:
 SOAPBOX: Pleased to see the excellent activity this year.
@@ -120,7 +120,7 @@ MODE: SSB
 CALLSIGN: G3XTT
 OPERATORS: G3XTT
 CATEGORY-OPERATOR: SINGLE-OP ALL HIGH
-CATEGORY-TIME: 
+CATEGORY-TIME:
 CLUB:
 CLAIMED-SCORE: 311040
 NAME: Don Field

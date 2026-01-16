@@ -1,10 +1,10 @@
 !!Order!!,Call,Name,Loc1,UserText,
-# 0- 
+# 0-
 # 1-
 # 2-Send info, correction direct to ve2fk@arrl.net
 # 3-Last Edit,2022-10-08
 # 4-Thanks to Uwe DL8UD for updates
-# UKEI80_VHF 
+# UKEI80_VHF
 #
 EI5G,,,Bonus station
 G5GEI,,,Bonus station

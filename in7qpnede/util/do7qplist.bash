@@ -23,7 +23,7 @@ gawk 'BEGIN {
     if ($5 != "") name = name " " $5;
      printf("%s=%s %s\n",state $1, statename, name);
   }
-  else 
+  else
   {
     printf("Problem \"%s\"\n", $0) > "/dev/stderr";
   }

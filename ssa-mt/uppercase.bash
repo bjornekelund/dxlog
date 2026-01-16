@@ -1,2 +1,2 @@
 #/bin/sh
-tr '[:lower:]' '[:upper:]' 
+tr '[:lower:]' '[:upper:]'

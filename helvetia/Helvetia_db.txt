@@ -1,6 +1,6 @@
 # Prefill database for Helvetia contest
 # Last Edit 2022-04-11
-# Including known operations out of usual QTH 
+# Including known operations out of usual QTH
 # Thanks to HB9DUR HB9OCR F6IRA
 HB1A=ZH
 HB2008HQ=AG

@@ -5,7 +5,7 @@
 # Update sent also to ve2fk@arrl.net
 # Updated from raw and final score of 2024 Contest,
 !!Order!!,Call,Exch1,
-# EU_DXC 
+# EU_DXC
 3Z9V,PL03
 4U1A,AT01
 4U9A,IT03

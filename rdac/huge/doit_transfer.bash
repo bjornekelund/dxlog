@@ -31,9 +31,9 @@ BEGIN {
     if (new ~ / /)
       new = substr(new, 1, 5);
     printf("\\\n -e 's/%s/%s/g'", old, new);
-  }	  
+  }	 
 }
-END { 
+END {
   printf("\nexit\n");
 }' > $BASHFILE
 

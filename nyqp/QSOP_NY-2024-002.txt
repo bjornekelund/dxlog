@@ -2,7 +2,7 @@
 # QSOP_NY
 # QSOPARTY NY
 # Last Edit,2024-10-16
-# Send new info/corrections DIRECT to ve2fk@arrl.net 
+# Send new info/corrections DIRECT to ve2fk@arrl.net
 # Counties follows ......
 AA2GF,,ERI,ERIE,
 AA2PR,,ERI,ERIE,
@@ -105,7 +105,7 @@ N2KW/M,,,MOBILE
 N2LQ,,ALL,ALLEGANY,
 N2MF,,ONO,
 N2MG,,,MOBILE
-N2MG/2,,,MOBILE 
+N2MG/2,,,MOBILE
 N2MG/M,,,MOBILE
 N2MTG,,DUT,DUTCHESS,
 N2NOM,,BRM,BROOME,

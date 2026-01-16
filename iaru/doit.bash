@@ -16,7 +16,7 @@ wget -q https://bit.ly/itudtb -O $ZIPFILE
 
 echo Unzipping $ZIPFILE
 
-unzip -o $ZIPFILE -d $FOLDER 
+unzip -o $ZIPFILE -d $FOLDER
 
 dos2unix -q $FOLDER/$OUTFILE
 

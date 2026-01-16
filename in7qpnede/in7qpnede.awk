@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -16,12 +16,12 @@ BEGIN {
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
     printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
-  } 
-  else 
+  }
+  else
   {
     exch = $state
 
-    if (exch ~ /^[A-Z]{5}\/[A-Z]{3}$/) 
+    if (exch ~ /^[A-Z]{5}\/[A-Z]{3}$/)
     {
       exch = substr(exch, 0, 6) substr(exch, 0, 2) substr(exch, 7);
       printf("%s --> %s\n", $0, exch) > "/dev/stderr";
@@ -34,9 +34,9 @@ BEGIN {
     necnty = exch ~ /^(CTCAP|CTGBR|CTLCR|CTNAU|CTNOE|CTNOW|CTSOE|CTSOC|CTWES|MEAND|MEARO|MECUM|MEFRA|MEHAN|MEKEN|MEKNO|MELIN|MEOXF|MEPEN|MEPIS|MESAG|MESOM|MEWAL|MEWAS|MEYOR|MABAR|MABER|MABRI|MADUK|MAESS|MAFRA|MAHMD|MAHMP|MAMID|MANAN|MANOR|MAPLY|MASUF|MAWOR|NHBEL|NHCAR|NHCHE|NHCOO|NHGRA|NHHIL|NHMER|NHROC|NHSTR|NHSUL|RIBRI|RIKEN|RINEW|RIPRO|RIWAS|VTADD|VTBEN|VTCAL|VTCHI|VTESS|VTFRA|VTGRA|VTLAM|VTORA|VTORL|VTRUT|VTWAS|VTWNH|VTWND)(\/(CTCAP|CTGBR|CTLCR|CTNAU|CTNOE|CTNOW|CTSOE|CTSOC|CTWES|MEAND|MEARO|MECUM|MEFRA|MEHAN|MEKEN|MEKNO|MELIN|MEOXF|MEPEN|MEPIS|MESAG|MESOM|MEWAL|MEWAS|MEYOR|MABAR|MABER|MABRI|MADUK|MAESS|MAFRA|MAHMD|MAHMP|MAMID|MANAN|MANOR|MAPLY|MASUF|MAWOR|NHBEL|NHCAR|NHCHE|NHCOO|NHGRA|NHHIL|NHMER|NHROC|NHSTR|NHSUL|RIBRI|RIKEN|RINEW|RIPRO|RIWAS|VTADD|VTBEN|VTCAL|VTCHI|VTESS|VTFRA|VTGRA|VTLAM|VTORA|VTORL|VTRUT|VTWAS|VTWNH|VTWND))*$/;
     decnty = exch ~ /^[KNS]DE(\/([KNS]DE))?$/;
 
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (stateok || provok || incty || sevencnty || necnty || decnty)) 
+    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (stateok || provok || incty || sevencnty || necnty || decnty))
     {
-      if (lines[$call] != "") 
+      if (lines[$call] != "")
       {
         printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
       }
@@ -47,7 +47,7 @@ BEGIN {
         lines[$call] = $0;
       }
     }
-    else if ($0 !~ /^(!|#|$)/ && $state != "") 
+    else if ($0 !~ /^(!|#|$)/ && $state != "")
     {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }

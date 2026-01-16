@@ -15,24 +15,24 @@ BEGIN {
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
     printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
-  } 
+  }
   else if ( \
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
       ($state ~ /^(^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NV|NNY|NTX|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WTX|WV|WWA|WY)$)$/ || \
       $state ~ /^(ADA|ALL|ARM|BEA|BED|BER|BLA|BRA|BUT|BUX|CAR|CEN|CHE|CLA|CLE|CLI|CMB|COL|CRA|CRN|CUM|DAU|DCO|ELK|ERI|FAY|FOR|FRA|FUL|GRE|HUN|INN|JEF|JUN|LAC|LAN|LAW|LEB|LEH|LUZ|LYC|MCK|MER|MGY|MIF|MOE|MTR|NHA|NUM|PER|PHI|PIK|POT|SCH|SNY|SOM|SUL|SUS|TIO|UNI|VEN|WAR|WAS|WAY|WES|WYO|YOR)(\/(ADA|ALL|ARM|BEA|BED|BER|BLA|BRA|BUT|BUX|CAR|CEN|CHE|CLA|CLE|CLI|CMB|COL|CRA|CRN|CUM|DAU|DCO|ELK|ERI|FAY|FOR|FRA|FUL|GRE|HUN|INN|JEF|JUN|LAC|LAN|LAW|LEB|LEH|LUZ|LYC|MCK|MER|MGY|MIF|MOE|MTR|NHA|NUM|PER|PHI|PIK|POT|SCH|SNY|SOM|SUL|SUS|TIO|UNI|VEN|WAR|WAS|WAY|WES|WYO|YOR))?$/)) || \
     ($call ~ /^(C[FG]|V[A-EOY])[0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/))
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else 
+    else
     {
       printf("%s=%s\n", $call, $state);
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/) 
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

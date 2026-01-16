@@ -1,6 +1,6 @@
 !!Order!!, Call, Sect, UserText
 #
-# Database for PACC Contest 
+# Database for PACC Contest
 # Based on preleminary works by DL5JQ
 # Created by RM1F software at 13.02.2021 11:16:58
 # Last Edit,2024-03-13

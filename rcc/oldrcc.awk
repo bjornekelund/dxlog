@@ -6,7 +6,7 @@ BEGIN {
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
 }
 {
-  if ($1 ~ /^[1-9]/ && $2 !~ / (SK|HQ)$/) 
+  if ($1 ~ /^[1-9]/ && $2 !~ / (SK|HQ)$/)
   {
     mnr = $1
     call = $2

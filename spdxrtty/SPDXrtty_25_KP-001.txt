@@ -1,5 +1,5 @@
 #
-# Created by Chris SP5KP, SN5N - 2025 Apr 21 
+# Created by Chris SP5KP, SN5N - 2025 Apr 21
 # Current contest: SPDXrtty 2025 Apr 26/27
 # Rules: https://pkrvg.org/strona,spdxrttyen.html
 # SPDXRTTY

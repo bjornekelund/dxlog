@@ -10,13 +10,13 @@ BEGIN {
   basecall = $4;
   other = $5;
   if (memberid ~ /^[0-9]+$/ && basecall ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && basecall !~ /^DE/)
-  {    
+  {   
     printf("%s=%s\n", basecall, memberid);
     max = memberid > max ? memberid : max;
     if (other != "")
     {
       count = split(other, othercall, " ")
-      for (i = 1; i <= count; i++) 
+      for (i = 1; i <= count; i++)
       {
         if (othercall[i] ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && othercall[i] !~ /^DE/)
         {

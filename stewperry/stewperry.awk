@@ -17,20 +17,20 @@ BEGIN {
     if ($4 ~ /Loc1/) loc = 3;
     if ($5 ~ /Loc1/) loc = 4;
     printf("%s --> call=%d loc=%d\n", $0, call, loc) > "/dev/stderr";
-  } 
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $loc ~ /^[A-R]{2}[0-9]{2}$/) 
+  }
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $loc ~ /^[A-R]{2}[0-9]{2}$/)
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else 
+    else
     {
       printf("%s=%s\n", $call, $loc);
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $loc != "") 
+  else if ($0 !~ /^(!|#|$)/ && $loc != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

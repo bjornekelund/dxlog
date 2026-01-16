@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -16,14 +16,14 @@ BEGIN {
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
     printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
-  } 
+  }
   else if ( \
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
       ($state ~ /^(AL|AK|AZ|AR|CA|CT|CO|DC|DE|FL|GA|HI|ID|IL|IA|IN|KS|KY|LA|ME|MD|MA|MI|MN|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/ || \
       $state ~ /^(ADA|ALC|AMI|ATT|BEN|BOL|CAL|CAR|CHI|CHO|CLA|CLB|CLK|COA|COP|COV|DES|FOR|FRA|GEO|GRE|GRN|HAN|HAR|HIN|HOL|HUM|ISS|ITA|JAC|JAS|JDV|JEF|JON|KEM|LAF|LAM|LAU|LAW|LEA|LEE|LEF|LIN|LOW|MAD|MAR|MGY|MON|MRN|NES|NEW|NOX|OKT|PAN|PEA|PER|PIK|PON|PRE|QUI|RAN|SCO|SHA|SIM|SMI|STO|SUN|TAL|TAT|TIP|TIS|TUN|UNI|WAL|WAR|WAS|WAY|WEB|WIL|WIN|YAL|YAZ)$/)) || \
     ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }

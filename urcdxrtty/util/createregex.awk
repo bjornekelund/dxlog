@@ -4,7 +4,7 @@ BEGIN {
   printf("^(", $1)
 }
 {
-  if ($1 ~ /^\S\S\S$/) 
+  if ($1 ~ /^\S\S\S$/)
   {
     printf(first ? "%s" : "|%s", $1);
     first = 0;

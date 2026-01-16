@@ -16,7 +16,7 @@ N4F,,,Special Event Callsign
 N4A,,,Special Event Callsign
 N4R,,,Special Event Callsign
 N4L,,,Special Event Callsign
- 
+
 # Mobile Stations
 AD4EB,,,MOBILE CW with Melody KI4HVY (10-40m)
 AD4EB/M,,,MOBILE CW with Melody KI4HVY (10-40m)
@@ -31,13 +31,13 @@ AA4XG,,BART,Bartow
 AA5JF,,RICH,Richmond
 AB4TT,,FULT,Fulton
 AC4SH,,POLK,
-AD4XT,,,Rover 
+AD4XT,,,Rover
 AE4XO,,EARL,Early
 AJ4FJ,,BART,Bartow
 AK4EM,,HNRY,Henry
 K3GWK,,HNRY,Henry
 K3UT,,GLYN,Glynn
-K4CGA,,PAUL,Paulding 
+K4CGA,,PAUL,Paulding
 K4CIH,,SPAL,Splading
 K4EA,,CHGA,Chattooga
 K4GSX,,COBB,Cobb

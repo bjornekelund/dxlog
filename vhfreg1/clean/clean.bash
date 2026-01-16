@@ -29,17 +29,17 @@ BEGIN {
   grid1ok = grid1 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/
   grid2 = toupper($4);
   grid2ok = grid2 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/
-  if (callok == 0) 
+  if (callok == 0)
   {
 #    printf("Bad call in: \"%s\"\n", $0) > "/dev/stderr";
     ignored++;
   }
-  else if (grid1ok == 0) 
+  else if (grid1ok == 0)
   {
 #    if (grid1 != "") printf("Bad grid in: \"%s\"\n", $0) > "/dev/stderr";
     ignored++;
   }
-  else if (grid2ok && grid1 != grid2) 
+  else if (grid2ok && grid1 != grid2)
   {
 #    printf("Disagreeing grids for %s: %s and %s\n", $1, grid1, grid2) > "/dev/stderr";
     ignored++;
@@ -53,7 +53,7 @@ BEGIN {
 }
 END {
   printf("%d calls ignored in file\n", ignored) > "/dev/stderr";
-  for (c in calls) 
+  for (c in calls)
   {
     printf("%s,%s,%s,\n", c, grids[c], names[c]);
   }
@@ -82,22 +82,22 @@ BEGIN {
   grid1ok = grid1 ~ /^[A-R]{2}[0-9]{2}/
   grid2 = toupper($4);
   grid2ok = grid2 ~ /^[A-R]{2}[0-9]{2}/
-  if (callok == 0) 
+  if (callok == 0)
   {
 #    printf("Bad call in: \"%s\"\n", $0) > "/dev/stderr";
     ignored++;
   }
-  else if (grid1ok == 0) 
+  else if (grid1ok == 0)
   {
 #    if (grid1 != "") printf("Bad grid in: \"%s\"\n", $0) > "/dev/stderr";
     ignored++;
   }
-  else if (grid2ok && grid1 != grid2) 
+  else if (grid2ok && grid1 != grid2)
   {
 #    printf("Disagreeing grids for %s: %s and %s\n", $1, grid1, grid2) > "/dev/stderr";
     ignored++;
   }
-  else 
+  else
   {
     calls[call] = call;
     names[call] = name;
@@ -106,7 +106,7 @@ BEGIN {
 }
 END {
   printf("%d calls ignored in file\n", ignored) > "/dev/stderr";
-  for (c in calls) 
+  for (c in calls)
   {
     printf("%s,%s,%s,\n", c, grids[c], names[c]);
   }

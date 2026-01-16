@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -17,7 +17,7 @@ BEGIN {
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
+  }
   else if ($call ~ /[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && $col ~ /^[A-Z]{2}$/)
   {
     printf("%s=%s\n", $call, $col);

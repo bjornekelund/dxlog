@@ -1,4 +1,4 @@
-!!Order!!, Call, Name, Exch1, UserText, 
+!!Order!!, Call, Name, Exch1, UserText,
 # LABRE_DX
 # LastEdit,2025-12-29
 # Original file from PY1ZV - Fabio Hoelz

@@ -9,7 +9,7 @@ COA	Courtenay-Alberni
 CPC	Coquitlam-Port Coquitlam
 CPG	Cariboo-Prince George
 DEL	Delta
-ESQ	Esquimalt-Saanich-Sooke 
+ESQ	Esquimalt-Saanich-Sooke
 FPK	Fleetwood-Port Kells
 KEL	Kelowna
 KSC	Kamloops-Shuwswap-Central Rockies
@@ -21,7 +21,7 @@ NBM	New Westminster-Burnaby-Maillardville
 NPR	North Island-Powell River
 NVC	North Vancouver-Capilano
 OSK	Okanagan Lake West-South Kelowna
-PMC	Port Moody-Coquitlam 
+PMC	Port Moody-Coquitlam
 PMM	Pitt Meadows-Maple Ridge
 PPN	Prince George-Peace River-Northern Rockies
 RCM	Richmond Center-Marpole

@@ -14,12 +14,12 @@ BEGIN {
 }
 {
   exchange = toupper($1);
-  if (exchange ~ /^[A-Z]{2}$/) 
+  if (exchange ~ /^[A-Z]{2}$/)
   {
     printf(notfirst ? "|%s" : "%s", exchange);
     notfirst = 1;
   }
-  else 
+  else
   {
     printf("Skipped: %s\n", $0) > "/dev/stderr";
   }

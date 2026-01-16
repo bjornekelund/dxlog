@@ -10,9 +10,9 @@ BEGIN {
   callok = call ~ /^([A-Z0-9]+\/)?[0-9]?[A-Z]+[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
   grid1 = $2;
   grid1ok = grid1 ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/
-  if (callok && grid1ok) 
+  if (callok && grid1ok)
   {
-    if (grids[call] != 0) 
+    if (grids[call] != 0)
     {
       if (grids[call] == 1)
       {
@@ -26,9 +26,9 @@ BEGIN {
     printf("%s=%s\n", call, grid1);
     grids[call] += 1;
   }
-  else 
+  else
   {
-    if ($0 !~ /^(!|#|$)/) 
+    if ($0 !~ /^(!|#|$)/)
     {
       printf("Bad entry in: \"%s\"\n", $0) > "/dev/stderr";
     }

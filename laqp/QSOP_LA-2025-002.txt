@@ -4,7 +4,7 @@
 # QSOP_LA
 # QSOPARTY LA
 
-# LA Counties 
+# LA Counties
 AA5AU,,
 AC5O,,LAFO,
 AE5V,,OUAC,

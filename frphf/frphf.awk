@@ -22,11 +22,11 @@ BEGIN {
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
     $col ~ /^(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO|QRP|YL|HQ|FRP)$/)
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else 
+    else
     {
       guess = "";
       if ($call ~ /^PU8[J-L]|^PT8/) guess = "AC";
@@ -59,13 +59,13 @@ BEGIN {
 
       # printf("%s: $col=\"%s\" guess=\"%s\"\n", $call, $col, guess) > "/dev/stderr"
 
-      if (guess != $col) 
+      if (guess != $col)
       {
         printf("%s=%s\n", $call, $col);
       }
     }
   }
-  else if ($0 !~ /^(!|#|$)/) 
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }

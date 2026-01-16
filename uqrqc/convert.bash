@@ -27,28 +27,28 @@ BEGIN {
   FS = ",";
 }
 {
-  if (calls[$1] == "") 
+  if (calls[$1] == "")
   { # Not seen before
-    if ($2 ~ /^[1-9]/ && $3 == "") 
+    if ($2 ~ /^[1-9]/ && $3 == "")
     {
       printf("New: \"%s\"\n", $0) > "/dev/stderr";
       calls[$1] = $1;
       printf("calls[\"%s\"]=\"%s\"\n", $1, calls[$1]) > "/dev/stderr";
       numbers[$1] = $2;
-    } 
+    }
     else
     {
       printf("Ignored new: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
-  else 
+  else
   { # Seen before
-    if (calls[$1] == $1 && numbers[$1] == $2 && $3 != "") 
+    if (calls[$1] == $1 && numbers[$1] == $2 && $3 != "")
     {
       printf("Update with name: \"%s\"\n", $0) > "/dev/stderr";
       names[$1] = $3;
-    } 
-    else 
+    }
+    else
     {
       printf("calls[\"%s\"]=\"%s\", $1=\"%s\"\n", $1, calls[$1], $1) > "/dev/stderr";
       printf("numbers[\"%s\"]=\"%s\", $2=\"%s\"\n", $1, numbers[$1], $2) > "/dev/stderr";
@@ -59,9 +59,9 @@ BEGIN {
   }
 }
 END {
-  for (c in calls) 
+  for (c in calls)
   {
-    if (calls[c] != "") 
+    if (calls[c] != "")
     {
       printf("%s=%s;%s\n", calls[c], numbers[c], names[c]);
     }

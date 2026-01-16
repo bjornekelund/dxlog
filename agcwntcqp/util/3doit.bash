@@ -49,11 +49,11 @@ BEGIN {
   hyphenated = $2 ~ /^[A-Za-z]{2,10}[\- ][A-Za-z]{2,10}$/;
 
 
-  if (callok) 
+  if (callok)
   {
-    if (nameok) 
+    if (nameok)
     {
-      if (calls[$1] == "") 
+      if (calls[$1] == "")
       {
         # First membership
         calls[$1] = $1;
@@ -63,22 +63,22 @@ BEGIN {
       else
       {
         calls[$1] = $1;
-        if (names[$1] != name) 
+        if (names[$1] != name)
         {
           printf("Name overwrite for %s: \"%s\" --> \"%s\"\n", $1, names[$1], name) > "/dev/stderr";
         }
         names[$1] = name;
-        mem2[$1] = $3;      
+        mem2[$1] = $3;     
       }
     }
-    else 
+    else
     {
       printf("Problem name \"%s\" for %s\n", $2, $1) > "/dev/stderr";
     }
 
   }
 }
-END { 
+END {
 #  printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
   printf("# AGCW-NTC Friendship QSO Party prefill database\n");
 #  printf("# Based on call history data maintained by VE2FK\n");

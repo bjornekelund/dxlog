@@ -1,5 +1,5 @@
 !!Order!!,Call,Name,Misc,UserText,
- 
+
 # Always LOG what is sent.
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
@@ -163,7 +163,7 @@ AA8CA,Vlad,OH,North Royalton OH
 AA8IA,Mike,966,Toronto OH
 AA8P,Ralph,OH,Springfield OH
 AA8R,Randy,2214,Punta Gorda FL
-AA8TA,Joe,1821,Columbus OH 
+AA8TA,Joe,1821,Columbus OH
 AA8TK,Evan,MI,Oak Park MI
 AA8UL,LYDIA,,Parkersburg WV
 AA9A,Tom,1092,De Pere WI
@@ -252,7 +252,7 @@ AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
 AC3RA,RICH,,Pittsburgh PA
 AC3U,Bill,1699,St Marys City MD (W3UL Remote)
-AC4BT,Jerry,1148,Herndon VA  
+AC4BT,Jerry,1148,Herndon VA 
 AC4CA,John,650,Fredericksburg TX
 AC4DP,Dave,2793,Newnan GA
 AC4PA,Pavel,GA,Alpharetta GA
@@ -269,7 +269,7 @@ AC6AC,Buz,1911,Topanga CA
 AC6SL,John,CA,Boulder Creek CA
 AC6T,Steve,CA,Santa Barbara CA
 AC6YY,Ned,1244,Santa Clara CA
-AC6ZM,Juan,2419,Loudon TN  
+AC6ZM,Juan,2419,Loudon TN 
 AC6ZX,CHARLIE,
 AC7JW,Jason,627,Woods Cross UT
 AC7T,Doug,822,Redmond WA
@@ -515,7 +515,7 @@ C6AYW,Steve,2289,Bahamas WA8Y
 C6AZM,Juan,2419,Bahamas
 C92ZO,Mark,1224,N5ZO
 CA3FJK,Fernando,,Santiago de Chilie
-CE2LR,Matt,2281,La Calera V Region Chile 
+CE2LR,Matt,2281,La Calera V Region Chile
 CE3CT,Roberto,2837,Santiago Chile
 CE3DNP,Carlos,,Santiago Chile
 CG2X,DUB,,Royal Canadian Air Force Centennial
@@ -1354,10 +1354,10 @@ IZ7GEG,Luca,,S. Vito Dei Normanni Italy
 IZ7LGT,FABIO,,Campi Salentina Italy
 IZ8DSX,LUIGI,DX,
 IZ8VKW,Luigi,,Caserta Italia
-J26K,KYLE,,(WA4PGM) 
+J26K,KYLE,,(WA4PGM)
 J6/K4ZGB,Tom,468,St-Lucia
 J6/WA4PGM,Kyle,255,
-J68PG,Kyle,255,(WA4PGM) 
+J68PG,Kyle,255,(WA4PGM)
 J68SS,Steve,1862,(NY3B) St.Lucia
 J75Y,Doug,817,Dominica (K1LI)
 J79IX,John,984,Dominica (W4IX)
@@ -2077,7 +2077,7 @@ K5GM,Pete,322,Austin TX
 K5GN,Dave,TX,Houston TX
 K5GO,Stan,272,Harrison AR
 K5GP,Gene,2104,Austin TX
-K5GQ,Mark,672,Houston TX  
+K5GQ,Mark,672,Houston TX 
 K5HK,Carl,803,Reno NV
 K5HP,Monk,1717,Wimberley TX
 K5IRH,Tom,LA,Bossier City LA
@@ -2101,7 +2101,7 @@ K5LG,Les,857,Everton AR
 K5LN,Bill,1152,Round Rock TX
 K5LXP,MARK,
 K5LY,Lee,1124,New Hope TX
-K5MA,Jan,MA,West Falmouth MA 
+K5MA,Jan,MA,West Falmouth MA
 K5ME,Bob,2671,Lufkin TX
 K5MM,Ron,1984,Wimberly TX
 K5MO,John,NC,Clayton NC
@@ -2188,7 +2188,7 @@ K6GRH,Gwen,3058,Van Nuys CA
 K6GVG,ROY,1207,Newport Beach CA
 K6GVG/M,ROY,,
 K6HP,Ed,1267,Murphys CA
-K6HTN,Kate,1068,Pasadena CA 
+K6HTN,Kate,1068,Pasadena CA
 K6HZR,Jose,CA,La Verne CA
 K6IFF,Bill,CA,Claremont CA
 K6III,Jerry,CA,Grass Valley CA
@@ -2314,7 +2314,7 @@ K7MOT,Key,CA,San Diego Motorola ARC
 K7MQV,JIM,WA,East Wenatchee WA
 K7MSO,MIKE,
 K7NEW,MARK,
-K7NJ,Riki,275,Cedar City UT 
+K7NJ,Riki,275,Cedar City UT
 K7NM,Lee,801,West Point UT
 K7NT,Mike,WA,Olympia WA
 K7NV,Kurt,441,Minden NV
@@ -2468,7 +2468,7 @@ K9CJM,Tom,WI,Wisconsin Rapids WI
 K9CNP,Jim,IL,Auburn IL
 K9CPO,Nate,2666,Kenosha WI
 K9CS,Carl,IL,Watseka IL
-K9CT,Craig,276,Trivoli IL 
+K9CT,Craig,276,Trivoli IL
 K9CW,Drew,979,Thomasboro IL
 K9DSD,Dave,CO,Colorado Springs CO
 K9DUR,Ray,IN,West Terre Haute IN
@@ -2549,7 +2549,7 @@ K9WO,Steve,2992,Portage WI
 K9WPV,Larry,,Goshen IN
 K9WWS,Bill,IL,Niles IL
 K9WWT,GEORGE,IN,Merrillville IN
-K9WX,Tim,1462,West Lafayette IN 
+K9WX,Tim,1462,West Lafayette IN
 K9WX/M,Tim,1462,Somewhere mobile
 K9WZB,Garry,AZ,Lake Havasu City AZ
 K9XV,Tom,FL,Punta Gorda FL
@@ -2704,7 +2704,7 @@ KB5RXL,Mark,
 KB5ZCR,Tim,2314,South Lake TX
 KB6ECW,Mike,AZ,
 KB6K,Ron,CA,Cardiff
-KB6NU,Dan,1418,Ann Arbor MI 
+KB6NU,Dan,1418,Ann Arbor MI
 KB7AZ,Carl,AZ,Tucson AZ
 KB7CDA,Jason,OR,Grants Pass OR
 KB7EIU,Dan,FL,Alford FL
@@ -2792,7 +2792,7 @@ KC3VYK,DAVE,,West Mifflin PA
 KC3WPW,WES,,Moon Twp PA
 KC3X,Hollis,1725,Snow Hill NC
 KC4BBD,Aaron,VA,Lynchburg VA
-KC4D,Bill,419,Lynchburg VA 
+KC4D,Bill,419,Lynchburg VA
 KC4DUT,Silas,IN,Tasell IN
 KC4HCH,ROGER,,
 KC4HN,CARL,,Hopatcong NJ
@@ -3475,7 +3475,7 @@ KQ8Q,DAN,GA,Altlanta GA
 KQ9L,RICH,
 KR2AA,Eric,2550,Staten Island NY
 KR2Q,Doug,438,Randolph NJ
-KR3E,Ed,ND,Derwood MD 
+KR3E,Ed,ND,Derwood MD
 KR4AE,Alan,1460,Cleveland GA (Full Time QRP K3/10 @ 5w)
 KR4BUA,ELLIOT,
 KR4CRJ,Brian,NC,Stoneville NC
@@ -3610,7 +3610,7 @@ KZ1J,JIM,,Pembroke MA
 KZ3P,BOB,
 KZ4KG,JEFF,
 KZ4LY,MICHAEL,
-KZ5D,Art,12,New Ibria LA 
+KZ5D,Art,12,New Ibria LA
 KZ6H,Steve,2286,Thousand Oaks CA
 LA/DL4HCF,Hubert,,
 LA0CX,Uli,,Halden Norway
@@ -3745,7 +3745,7 @@ N0AX,Ward,1744,St-Charles MO
 N0BK,Bruce,2763,South Saint Paul MN
 N0BM,Brian,2772,Woodbury MN
 N0CB,Royce,NE,Omaha NE
-N0CVW,Chas,2661,Fairway KS 
+N0CVW,Chas,2661,Fairway KS
 N0CWO,,,Midwest CWops Club (Andover KS)
 N0DIR,Nodir,815,Stafford VA
 N0DNF,Bill,ID,Pocatello ID
@@ -3816,7 +3816,7 @@ N1CK,Nick,AZ,Payson AZ
 N1CUU,CARL,,Fairfield PA
 N1DC,Rick,1257,Braintree MA
 N1DC/4,Rick,1257,
-N1DG,Don,2,Duxbury MA 
+N1DG,Don,2,Duxbury MA
 N1DN,Phil,CT,West Hartford CT
 N1EA,David,MA,Green Harbor MA
 N1EN,Mike,1247,Windsor CT
@@ -3836,7 +3836,7 @@ N1IIX,CHRIS,
 N1KL,Kevin,MA,Wheelwright MA
 N1KM,Mark,RI,Bristol RI
 N1KW,Bob,1022,Homer Glen IL
-N1LN,Bruce,1141,Chapel Hill NC 
+N1LN,Bruce,1141,Chapel Hill NC
 N1LU,Don,CT,Stamford CT
 N1MM,Tom,CT,Vernon CT (N1MM Logger+)
 N1MT,MARK,FL,Land O Lakes FL
@@ -3988,7 +3988,7 @@ N3HIH,Frank,NC,Durham NC
 N3IQ,Brian,302,Mt Airy MD
 N3JFD,JOHN,,Finleyville PA
 N3JG,JERRY,WV,Paw Paw WV
-N3JT,Jim,1,Mclean VA and FL 
+N3JT,Jim,1,Mclean VA and FL
 N3JUY,Ridge,FL,(John)  Palm Coast
 N3KI,NICK,
 N3KN,Tony,VA,Blacksburg VA
@@ -4686,12 +4686,12 @@ NL7V,Paul,AK,North Pole Alaska
 NL7VX,Steve,1052,Woodbridge VA
 NM1Y,Jeff,1887,Deep River CT
 NM1Y/PJ6,Jeff,1887,Island of Saba
-NM2A,Mark,3014,Pulaski NY 
+NM2A,Mark,3014,Pulaski NY
 NM2L,Greg,1118,Sugar Hill GA
 NM3A,Dan,3064,Export PA
 NM4N,John,3030,Franklin TN
 NM5D,JEREMY,
-NM5G,Keith,2570,Tomball TX 
+NM5G,Keith,2570,Tomball TX
 NM5M,Eric,974,Plano TX
 NM5N,Sam,2670,Ft Worth TX
 NM5S,Alan,1171,Santa Fe NM
@@ -4776,7 +4776,7 @@ NS4X,Bart,2571,Williston TN
 NS7F,Ross,AZ,Tempe AZ
 NS7V,Ken,WA,Snohomish WA
 NS8O,Lee,1496,Albany OH
-NS9I,Dwight,WI,Little Suamico WI 
+NS9I,Dwight,WI,Little Suamico WI
 NT0G,RON,,Boone IA
 NT0K,Tim,NC,Skyland NC
 NT1N,Bill,ME,Winthrop ME
@@ -5676,7 +5676,7 @@ VE3KAH,MIKE,
 VE3KBI,Paul,ON,North Yourk ON
 VE3KCY,Ken,ON,Alma ON
 VE3KG,DAVE,
-VE3KI,Rich,783,Richmond ON 
+VE3KI,Rich,783,Richmond ON
 VE3KIU,Dave,3077,Ottawa ON
 VE3KOT,Gege,ON,Oakville ON
 VE3KP,Ken,1246,Peterborough ON
@@ -6288,7 +6288,7 @@ W4MUB,Mark,3025,Chandler AZ
 W4MY,Marty,NC,Erwin NC
 W4NA,Nate,1334,Gore VA
 W4NBS,Tom,1696,Trinity AL
-W4NC,SAM,NC, 
+W4NC,SAM,NC,
 W4NF,Jack,2360,Manassas VA
 W4NI,Russ,TN,Nashville TN
 W4NPX,Bob,VA,Charlottesville VA
@@ -6517,7 +6517,7 @@ W6STR,Mike,1641,Santa Rosa CA
 W6SX,Hank,61,Mammoth Lakes CA
 W6TED,Ted,CA,San Diego CA
 W6TK,Dick,CA,Nipomo CA
-W6TN,Trung,1707,Garden Grove CA 
+W6TN,Trung,1707,Garden Grove CA
 W6TSJ,TOM,CA,Laguna Niguel CA
 W6UB,Larry,TN,Friendsville TN
 W6UDO,Joe,OR,Crooked River Ranch OR
@@ -7179,7 +7179,7 @@ WJ4M,JIM,,San Anton io TX
 WJ6O,Dave,482,Studio City CA (G3WGN)
 WJ7S,John,1582,Saratoga Springs UT (Occ. QRP)
 WJ8Y,Greg,1915,Tiffin OH
-WJ9B,Will,1085,Middleton ID 
+WJ9B,Will,1085,Middleton ID
 WK0B,Greg,MN,Fosston MN
 WK0E,MARTY,,Papillion NE
 WK0P,Dave,2197,Wheat Ridge CO
@@ -7425,7 +7425,7 @@ ZP6CW,Doug,,Caacupe Paraguy
 ZP9MCE,Manu,3103,Hohenau Paraguay
 ZR2A,Ulrich,2470,Port Elizabeth SA
 ZS1ANF,Oleg,3157,Western Cape South Africa
-ZS1C,Raoul,338,Kraaifontein SA 
+ZS1C,Raoul,338,Kraaifontein SA
 ZS1EL,Vidi,13,Somerset Mall South Africa
 ZS1I,Johan,,Heiderand South Africa
 ZS1X,Dirk,,Parklands Cape Town South Africa

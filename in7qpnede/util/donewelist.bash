@@ -20,7 +20,7 @@ gawk 'BEGIN {
     state = $1;
     if ($2 != "") state = state " " $2;
   }
-  else 
+  else
   {
     if (last == 2) name = $1;
     else if (last == 3) name = $1 " " $2;

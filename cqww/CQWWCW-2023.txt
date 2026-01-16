@@ -1,6 +1,6 @@
- 
-!!Order!!, Call, Exch1, UserText, 
-# 
+
+!!Order!!, Call, Exch1, UserText,
+#
 # CQWWCW
 # CQWWSSB
 # Last Edit,2022-11-27

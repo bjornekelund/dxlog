@@ -3,36 +3,36 @@
 # QSOP_OK
 # QSOPARTY OK
 # Last Edit,2025-03-03
-# Send new info/corrections DIRECT to ve2fk@arrl.net 
+# Send new info/corrections DIRECT to ve2fk@arrl.net
 #
-# Ok counties stations 
-K5CM,,,Mobile .039 - 
-K5CM/M,,,Mobile .039 - 
+# Ok counties stations
+K5CM,,,Mobile .039 -
+K5CM/M,,,Mobile .039 -
 K5DB,,,MOBILE CW/SSB
 K5LAD,Jim,ROG,Rogers
 K5UV,Mike,CLE,Cleveland
 K5WE,Jeff,WAG,Wagner
 K5ZZR,Russ,,Mobile SSB
 KG5CMS,Don,,.034  CW and SSB from MCU, PUS, and CHO
-KK6MC,Duffey,,.035.5  CW and SSB 40 thru 10 meters 
-N4CD,Bob,,.038 
+KK6MC,Duffey,,.035.5  CW and SSB 40 thru 10 meters
+N4CD,Bob,,.038
 N5AQ,Bill,CLE,Cleveland county
 N5DY,Jack,PAY,Payne
 N5OHL,Jim,OKL,Oklahoma
 N5OK,Coy,CAN,Canadian
-N5OT,Mark,,.036 - Sat.- Mark CW on 40 and 20 meters 
+N5OT,Mark,,.036 - Sat.- Mark CW on 40 and 20 meters
 N5PT,Paul,CAN,Canadian
 N5XTR,Crew,COT/TIL,Cotton/Tillman
-W0BH,Bob,,.037 - CW and SSB 
+W0BH,Bob,,.037 - CW and SSB
 W5CW,Dave,MUS,Muskogee county CW/SSB
 W5GFI,John,CRA,Craig
 W5LE,Gene,OKM,Okmulgee County
 W5TM,Ed,OKM,Okmulgee - CW
 W5TMC,Mike,SEQ,Seequoyah
-W5WIL,,,036.5 
-W5WIL/M,,,036.5 
-WQ5R,Gary,LAT,Latimer 
-WW5X,Bill,, 
+W5WIL,,,036.5
+W5WIL/M,,,036.5
+WQ5R,Gary,LAT,Latimer
+WW5X,Bill,,
 
 # Out of OK and CDN Prov.
 AA0AC,DAVE,MN,

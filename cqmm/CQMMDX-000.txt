@@ -1,5 +1,5 @@
-!!Order!!, Call, Sect, UserText, 
-# 
+!!Order!!, Call, Sect, UserText,
+#
 # CQMMDX
 # Last Edit,2025-04-16
 # NOT for CQ-M International

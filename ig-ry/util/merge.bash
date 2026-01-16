@@ -13,16 +13,16 @@ BEGIN {
   comment = 0;
 }
 {
-  if ($1 == "!!Order!!") 
+  if ($1 == "!!Order!!")
   {
     if ($3 ~ /State|Exch1/) col = 2;
     if ($4 ~ /State|Exch1/) col = 3;
     if ($5 ~ /State|Exch1/) col = 4;
     printf("\"%s\" --> col=%d\n", $0, col) > "/dev/stderr";
-  } 
-  else 
+  }
+  else
   {
-    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /(19|20)[0-9]{2}$/) 
+    if ($1 ~ /^[0-9A-Z/]+$/ && $col ~ /(19|20)[0-9]{2}$/)
     {
       if (year[$1] != $col && year[$1] != "")
         printf("Replaced %s with %s for %s\n", year[$1], $2, $1) > "/dev/stderr";

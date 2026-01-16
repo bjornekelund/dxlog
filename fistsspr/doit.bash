@@ -28,7 +28,7 @@ else
 
     echo Parsing $WEBFILE $OLDFILE $NAMESFILE $CWTFILE $SSFILE $NAQPFILE
     dos2unix -q $WEBFILE $OLDFILE $NAMESFILE $CWTFILE $SSFILE $NAQPFILE
-    
+   
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Misc,Call,Name,NEWFILE\n");}{if ($0 ~ /^[0-9]/)printf("%s\n", $0);}' $WEBFILE > $MEMFILE
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Name,xxx,OLDFILE\n");}{if ($0 ~ /^[A-Z0-9]/)printf("%s\n", $0);}' $OLDFILE >> $MEMFILE
     gawk 'BEGIN{FS = ",";printf("!!Order!!,Call,Name,NAMEFILE-NAMES\n");}{if ($0 ~ /^[A-Z0-9]/ && $2 ~ /^[A-Za-z]+/)printf("%s,%s\n", $1, $2);}' $NAMESFILE > $NAMEFILE

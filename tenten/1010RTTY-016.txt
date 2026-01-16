@@ -4,7 +4,7 @@
 # LastEdit,2025-11-23
 # New DATA from 2025 logs of Allen/N5XZ,
 # Send new info/corr. DIRECT to  ve2fk@arrl.net
-# Special thanks to Bjorn SM7IUN for his help 
+# Special thanks to Bjorn SM7IUN for his help
 2E0FKB,MARK,G,
 2E0FVN,MARK,G,
 2E0HVB,TERRY,G,

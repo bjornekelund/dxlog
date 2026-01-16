@@ -2,7 +2,7 @@
 # QSOP_MS
 # QSOPARTY MS
 # Last Edit,2025-12-29
-# Send new info/corrections DIRECT to ve2fk@arrl.net 
+# Send new info/corrections DIRECT to ve2fk@arrl.net
 # Counties and mobiles follows
 K5OLV,,DES,DESOTO
 AB6Z/P,,PEA,PEARLRIVER

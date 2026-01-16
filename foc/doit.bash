@@ -22,7 +22,7 @@ if [ ! -s $DBFILE ]; then
     exit 1
 else
     echo Downloaded $DBFILE
-    gawk 'BEGIN{FS = ";";max=0;}{max=($0!~/^#/&&$2>max)?$2:max;}END{printf("Highest member number is %d\n",max);}' $DBFILE 
+    gawk 'BEGIN{FS = ";";max=0;}{max=($0!~/^#/&&$2>max)?$2:max;}END{printf("Highest member number is %d\n",max);}' $DBFILE
     unix2dos -q $DBFILE
     ../copytosourcetree.bash $DBFILE
 fi

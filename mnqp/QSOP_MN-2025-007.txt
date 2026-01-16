@@ -4,7 +4,7 @@
 # QSOPARTY MN
 # 0-This is helping file, LOG what you copy.
 # 1-Last Edit,2025-02-01
-# 2-Send any corrections direct to 
+# 2-Send any corrections direct to
 # 3-Thanks Bill/AC0W for MN info.
 # 4-Thanks Bjorn/SM7IUN for his help
 

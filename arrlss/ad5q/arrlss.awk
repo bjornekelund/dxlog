@@ -12,32 +12,32 @@ BEGIN {
   sectcol = 5;
 }
 {
-  if ($0 !~ /^(#|!)/) 
+  if ($0 !~ /^(#|!)/)
   {
-    if (call[$callcol] != "") 
+    if (call[$callcol] != "")
     {
       printf("Duplicate entry     : \"%s\" and \"%s\"\n", line[$callcol], $0) > "/dev/stderr";
     }
 
-    if ($checkcol !~ /^[0-9]{1,2}$/) 
+    if ($checkcol !~ /^[0-9]{1,2}$/)
     {
       printf("Problem Check       : \"%s\"\n", $0) > "/dev/stderr";
     }
 
-    if ($callcol ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $callcol !~ /\/V[EOY][0-9]$/) 
+    if ($callcol ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $callcol !~ /\/V[EOY][0-9]$/)
     {
       if ($sectcol !~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/)
       {
         printf("Problem ARRL section: \"%s\"\n", $0) > "/dev/stderr";
       }
-    } 
-    else if ($callcol ~ /^(V[A-GOXY]|C[F-KY]|X[J-M])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/) 
+    }
+    else if ($callcol ~ /^(V[A-GOXY]|C[F-KY]|X[J-M])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/)
     {
       if ($sectcol !~ /^(|AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/)
       {
         printf("Problem RAC section : \"%s\"\n", $0) > "/dev/stderr";
       }
-    } else 
+    } else
     {
       if ($sectcol !~ /^DX$/)
       {

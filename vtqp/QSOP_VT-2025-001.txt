@@ -6,7 +6,7 @@
 # 3-Thanks to Bjorn for his help
 # QSOP_VT
 # QSOPARTY VT
-# VT county 
+# VT county
 AA1SU,,CHI,CHITTENDEN,
 AB1WG,,CHI,CHITTENDEN,
 AB1XQ,,WNS,WINDSOR,

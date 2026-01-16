@@ -5,7 +5,7 @@ OUTFILE=regex.txt
 echo Parsing $FILE
 dos2unix -q $FILE
 
-#cat $FILE | sed 's/* //g' | 
+#cat $FILE | sed 's/* //g' |
 
 gawk '
 BEGIN {

@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -16,14 +16,14 @@ BEGIN {
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
     printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
-  } 
+  }
   else if ( \
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
       ($state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/ || \
       $state ~ /^(ADA|ADM|BAN|BEA|BEN|BIN|BLA|BOI|BNR|BNV|BOU|BUT|CAM|CAN|CAR|CAS|CLA|CLE|CUS|ELM|FRA|FRE|GEM|GOO|IDA|JEF|JER|KOO|LAT|LEM|LEW|LIN|MAD|MIN|NEZ|ONE|OWY|PAY|POW|SHO|TET|TWI|VAL|WAS)$/)) || \
     ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
@@ -33,7 +33,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $state != "") 
+  else if ($0 !~ /^(!|#|$)/ && $state != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

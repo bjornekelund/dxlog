@@ -9,7 +9,7 @@ BEGIN {
   upnames = 0;
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     member = 0;
     name = 0;
@@ -34,7 +34,7 @@ BEGIN {
   }
   else if (call > 0 && $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)
   {
-    if (member > 0 && $member ~ /^[0-9]+$/ && $member != membernr[$call]) 
+    if (member > 0 && $member ~ /^[0-9]+$/ && $member != membernr[$call])
     {
       if (membernr[$call] != "")
       {
@@ -43,7 +43,7 @@ BEGIN {
       membernr[$call] = $member;
     }
 
-    if (name > 0 && $name ~ /^[A-Za-z]+$/ && toupper($name) != opname[$call] && toupper($name) !~ /CLUB/) 
+    if (name > 0 && $name ~ /^[A-Za-z]+$/ && toupper($name) != opname[$call] && toupper($name) !~ /CLUB/)
     {
       if (membernr[$call] != "")
       {
@@ -56,7 +56,7 @@ BEGIN {
       opname[$call] = toupper($name);
     }
 
-    if (loc > 0 && $loc ~ /^[A-Z]{2}$/ && $loc != location[$call]) 
+    if (loc > 0 && $loc ~ /^[A-Z]{2}$/ && $loc != location[$call])
     {
       if (location[$call] != "")
       {
@@ -76,11 +76,11 @@ BEGIN {
 # if (name > 0)
 #     printf("callsign[%s]=%s opname[%s]=%s\n", $call, callsign[$call], $call, opname[$call]) > "/dev/stderr";
 
-    # if (call ~ /^[0-9A-Z/]+$/ && mem ~ /^([0-9]{1,5}|)$/ && name ~ /^([A-Z]{2,})$/) 
+    # if (call ~ /^[0-9A-Z/]+$/ && mem ~ /^([0-9]{1,5}|)$/ && name ~ /^([A-Z]{2,})$/)
     # {
     #   printf("%s=%s;%s\n", call, name, mem);
     # }
-    # else if ($0 !~ /^(!|#|$)/) 
+    # else if ($0 !~ /^(!|#|$)/)
     # {
     #   printf("ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

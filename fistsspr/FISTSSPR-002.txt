@@ -1,5 +1,5 @@
 # From 2023
-!!Order!!,Call,Name,Misc,UserText, 
+!!Order!!,Call,Name,Misc,UserText,
 GX0IPX,Club,1,FISTS
 GX3ZQS,Club,2,FISTS
 G4XHZ,Frank,8,FISTS

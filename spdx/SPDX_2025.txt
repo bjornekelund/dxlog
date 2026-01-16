@@ -1,4 +1,4 @@
-# Created by Chris SP5KP, SN5N - 2025 Apr 3 
+# Created by Chris SP5KP, SN5N - 2025 Apr 3
 # Current contest: SPDXcw/ssb 2025 Apr 5/6
 # Rules: https://spdxcontest.pzk.org.pl/2025/
 !!Order!!,Call, Sect

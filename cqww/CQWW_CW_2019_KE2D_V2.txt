@@ -1,7 +1,7 @@
-# 
+#
 # CQWWCW
 # Current contest: CQWWCW
-# 
+#
 # This file created by KE2D, 19 Nov. 2019, using logs from 16 top scoring stations in 2018:
 # CN3A, EF8R, PJ2T, CR3DX, P33W, ES9C, PJ4Q, PJ4A, PJ4K, TI7W, KH6J, KH6LC, M6T, HQ9X, DF0HQ, 9A1A
 # Contains 11,307 calls with validated or verified exchanges.

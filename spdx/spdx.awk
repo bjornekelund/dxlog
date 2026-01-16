@@ -13,7 +13,7 @@ BEGIN {
     printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
   }
   else if ($1 ~ /^(SP\/[A-Z0-9]+|(3Z|HF|S[NOPQ]))[0-9]{1,4}[A-Z]{1,4}(\/[1-9PM])?$/ && $col ~/^[BCDFGJKLMOPRSUWZ]$/)
-  { 
+  {
     if (lines[$1] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$1], $0) > "/dev/stderr";

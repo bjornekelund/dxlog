@@ -99,7 +99,7 @@ BEGIN {
   if ($1 ~ /^[RU]0Y|^R[A-Z]0Y|^U[A-I]0Y/) oblast="TU"
   if ($1 ~ /^[RU]0[XZ]|^R[A-Z]0[XZ]|^U[A-I]0[XZ]/) oblast="KT"
 
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $3 != oblast && $1 !~ /\/(QRP|M)/) 
+  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $3 != oblast && $1 !~ /\/(QRP|M)/)
   {
     if (oblast == "")
       printf("%s: file: %s\n", $1, $3) > "/dev/stderr";

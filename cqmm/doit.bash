@@ -19,7 +19,7 @@ else
     # Non-members are automatically prefilled
     gawk 'BEGIN{FS=","}{if($2~/^(NA|EU|AS|AF|OC|SA)[CQY]$/){print $0}}' $REFFILE >> $WEBFILE
     # Clean up web file.
-    # Remove Ø and double quotes  
+    # Remove Ø and double quotes 
     # Remove asterisks and spaces
     # Remove everything after the first space in the callsign field
     cat $WEBFILE |\

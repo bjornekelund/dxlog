@@ -12,7 +12,7 @@ RT3F,CP,Cosmonaut Training Center
 R5AG,AL,Aerospace R&D Center ROSTO
 R3LA,RG,Yuri Gagarin's place of birth
 UA5L,YG,Yuri Gagarin's place of birth
-RT4D,MP,Landing Site of Yuri Gagarin 
+RT4D,MP,Landing Site of Yuri Gagarin
 RG2X,RK,Motherland of Russian cosmonautics
 RC3XC,LA,Aerospace laboratory
 RW0A,SA,Aerospace Academy

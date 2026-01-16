@@ -7,11 +7,11 @@ dos2unix -q $INFILE
 
 gawk 'BEGIN { FS = "," }
 {
-  if ($0 ~ /^(!|#|$)/) 
+  if ($0 ~ /^(!|#|$)/)
   {
     printf("%s\n", $0);
   }
-  else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $3 !~ /^(SKG|CYP|CFL|CRR|EMW|EWE|RDM|CHA|DAU)$/) 
+  else if ($1 ~ /^(A[A-L]|K[A-Z]?[0-9]|N[A-Z]?[0-9]|W[A-Z]?[0-9]|V[A-EOXY]|4U)/ && $3 !~ /^(SKG|CYP|CFL|CRR|EMW|EWE|RDM|CHA|DAU)$/)
   {
     switch ($3)
     {
@@ -28,13 +28,13 @@ gawk 'BEGIN { FS = "," }
       case "STA": ex = "SPK"; break;
       case "STR": ex = "STS"; break;
       case "BRS": ex = "BRA"; break;
-      case "CHR": ex = "CHU"; break;      
+      case "CHR": ex = "CHU"; break;     
       default: ex = $3; break;
     }
     printf("%s,%s,%s,%s\n", $1, $2, ex, $4);
     lines[$1] = $0;
   }
-  else 
+  else
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

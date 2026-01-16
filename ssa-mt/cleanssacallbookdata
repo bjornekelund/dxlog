@@ -2,6 +2,6 @@
 sed 's/|/ /g' smcb_lokator.txt | \
     tr '[:lower:]' '[:upper:]' | \
     awk '{if (length($2)==6 && substr($1,4,1) != "-" && substr($1,1,1) == "S") {printf("%s=%s\n",$1,$2);}}' | \
-    sort > smn.txt 
+    sort > smn.txt
 cat smc.txt smn.txt | sort > sm_mt.txt
 #grep - sm_mt.txt

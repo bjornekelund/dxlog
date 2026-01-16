@@ -2,12 +2,12 @@
 # This file is used for the following contest(s):
 # CVA DX SSB / CW,
 # Original file from PY1ZV  ** update by PP2BT last edit AGO 2024
-# Last edit,2024-08-18 
+# Last edit,2024-08-18
 # Send any corrections to riodxgroup@riodxgroup.com
 # CVADXCW
 # CVADXSSB
 #
-!!Order!!, Call, Name, Exch1, UserText, 
+!!Order!!, Call, Name, Exch1, UserText,
 PP1AA,,ES,
 PP1AR,,ES,
 PP1BM,,ES,

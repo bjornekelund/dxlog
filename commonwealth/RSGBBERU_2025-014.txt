@@ -8,8 +8,8 @@
 
 !!Order!!,Call,Name,State,UserText,
 
-# HQ Follow 
-AT1HQ,,HQ,Bangalore India 
+# HQ Follow
+AT1HQ,,HQ,Bangalore India
 AT3T,,HQ,Bangalore India
 GI6XX,,HQ,
 GM6XX,,HQ,
@@ -23,18 +23,18 @@ GJ6XX,,HQ,Jersey
 # Canada HQ (2024)
 VA2RAC,DUB,HQ,(VE2FK)  RAC QC Canada
 VA3RAC,Dave,HQ,(VE3KG)  RAC ON Canada
-VA6RAC,,HQ,RAC AB Canada 
+VA6RAC,,HQ,RAC AB Canada
 VE1RAC,,HQ,RAC NS Canada
 VE3RHQ,Mike,HQ,(VE3FFK) RAC ON Canada
 VE4RAC,,HQ,RAC MB Canada
-VE5RAC,,HQ,RAC SK Canada 
+VE5RAC,,HQ,RAC SK Canada
 VE6RAC,,HQ,RAC AB Canada
 VE7RAC,,HQ,RAC BC Canada  (VA7KH VE7EA VA7DZ)
-VE8RAC,,HQ,RAC NT Canada 
+VE8RAC,,HQ,RAC NT Canada
 VE9RAC,,HQ,RAC NB Canada
-VO2RAC,,HQ,RAC NL Canada 
+VO2RAC,,HQ,RAC NL Canada
 VY0RAC,,HQ,RAC NU Canada
-VY1RAC,,HQ,RAC YT Yukon 
+VY1RAC,,HQ,RAC YT Yukon
 VY2RAC,,HQ,RAC PE Canada
 
 # VK HQ (2025)
@@ -49,7 +49,7 @@ VK7WIA,,HQ,
 # ZL HQ
 ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
 
-# Teams and Expedition Follow 
+# Teams and Expedition Follow
 !!Order!!,Call,Name,Usertext
 
 # Team Nootka Sounders
@@ -74,16 +74,16 @@ G4SGX/6Y,Iain,Team World Travellers Plus (2025)
 ZF2CA,Colin,Team World Travellers Plus (2025)
 5H3VJG,,Tanzania (G0VJG) (Expedition)
 5Z4VJ,Andy,(G3AB)  Team World Travellers Plus
-VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands 
+VP8TXF,Nigel,(G3TXF) with G3WVG in  Falklands
 VP8CIW,Ian,(G3WVG) in Falklands
-G0VDZ/G0,Nubsey,  Isle of Sheppey 
+G0VDZ/G0,Nubsey,  Isle of Sheppey
 
 # Team Quake Contesters (2025)
-ZL2RX,Roger,Team Quake Contesters - 
+ZL2RX,Roger,Team Quake Contesters -
 ZL3P,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
 ZL3GA,Geoff,Team Quake Contesters - Kaiapoi New Zeland
 ZL4TT,Paul,Team Quake Contesters - Oamaru New Zeland
-ZL/G4GUO,Dave,Team Quake Contesters - 
+ZL/G4GUO,Dave,Team Quake Contesters -
 
 # Team UK
 G3BJ,,TEAM UK
@@ -93,12 +93,12 @@ G4PVM,,TEAM UK
 G4FNL,GRAHAM,TEAM UK
 
 
-# Australia One (2025) 
-VK2GR,ALLAN,CAPTAIN - Australia One 
-VJ3A,DP,(VK3IA) - Australia One 
+# Australia One (2025)
+VK2GR,ALLAN,CAPTAIN - Australia One
+VJ3A,DP,(VK3IA) - Australia One
 VK5GG,Braeme, - Australia ONE
-VK6T,KEV,(VK6LW) - Australia One 
-VK7BO,ALAN, - Australia One 
+VK6T,KEV,(VK6LW) - Australia One
+VK7BO,ALAN, - Australia One
 
 # Australia Two (2025)
 VK6VZ,STEVE,CAPTAIN - Australia Two
@@ -134,8 +134,8 @@ G4FNL,Graham,Brighton England - Team GE (2024)
 6Y5HN,Nigel,Kingston Jamaica
 6Y5WJ,JOSH,St-Elizaberth Jamaica,
 7Q2T,Gerry,Remote VE1RM/W1VE at 7Q6M  2025
-8P6DR,Richard,Barbados 
-8Q7NC,,Maldives IOTA AS-118 
+8P6DR,Richard,Barbados
+8Q7NC,,Maldives IOTA AS-118
 9H1AE,SAVVAS,Sliema Malta,
 9H1CG,Joe,Pembroke PBK Malta
 9H1MRC,,Marconi RC Malta,
@@ -146,7 +146,7 @@ G4FNL,Graham,Brighton England - Team GE (2024)
 9H3FC,Kris,Mellieha Malta
 9H6A,John,Xghajra Malta,
 9J2BO,BRIAN,Lusaka Zanbia,
-9J2LA,,Zambia DXP 
+9J2LA,,Zambia DXP
 9M2PUL,ZUKHI,West Malaysia,
 9V1VV,JOHN,Singapore,
 9V1YC,JAMES,Singapore,
@@ -746,7 +746,7 @@ M4F,,(G0GHK) Finningley Amateur Radio Society,
 M4I,,(GI4SJQ),
 M4J,Jon,(G0DVJ)  Near Ipswich England
 M4K,,(GD0EMG) The Manx Kippers,
-M4M,Paul,(M0PNN) 
+M4M,Paul,(M0PNN)
 M4N,Mike,Cheltenham England
 M4P,Paul,(M0PMV),
 M4T,,(M0MDG) Middlesex DX Group,
@@ -780,7 +780,7 @@ M7T,DAVID,(G3YYD) (2tone) Melton Mowbray England,
 M7V,,M0VAA,
 M7X,,G0TSM,
 M7Z,,G4BWP,
-M8A,,M0HDF 
+M8A,,M0HDF
 M8C,,(G3RCV) Cray Valley Radio Society,
 M8T,JAMES,(MM0CWJ),
 M8Z,JASON,(GM7VSB),
@@ -1287,7 +1287,7 @@ VE3XT,BILL,,
 VE3YAA,,ONS,
 VE3YF,MIKE,,
 VE3ZY,MIKE,Ottawa ON,
-VE4AEO,RICH,(VE3KI) MB 
+VE4AEO,RICH,(VE3KI) MB
 VE4AHZ,MINOR,,
 VE4AI,BOHDAN,,
 VE4ANG,ADAM,,
@@ -1544,7 +1544,7 @@ VP8GAV,GAVIN,,
 VP8NO,MIKE,Falkland Islands,
 VP8WA,PETER,,
 VP9GE,ED,,
-VP9I,PETER,,(G3LET) 
+VP9I,PETER,,(G3LET)
 VP9MZ,LARRY,,
 VQ9JC,JIM,Panama City Beach FL USA,
 VQ9LA,LARRY,Grandview MO USA,
@@ -1569,7 +1569,7 @@ VY2MP,GREG,,
 VY2OX,LOWELL,Charlottetown PE,
 VY2SS,ROBBY,O'Leary PE,
 VY2TT,,Prince Edward Island Canada NA029,
-VY2ZM,Jeff,Monticello PE 
+VY2ZM,Jeff,Monticello PE
 VY9CC,MICHEL,,
 VY9MCC,MCC,,
 VYIJA,JAY,Whitehorse YT,

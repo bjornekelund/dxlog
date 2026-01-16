@@ -1,6 +1,6 @@
-# Exchange guessing data base on 
-# master.scp/qrz.com, ssa.se and 
-# actual contest records. 
+# Exchange guessing data base on
+# master.scp/qrz.com, ssa.se and
+# actual contest records.
 # By SM7IUN & SM5AJV 2019-08-24.
 7S3J=JP93KF
 7S5C=JO99BV

@@ -9,7 +9,7 @@ BEGIN {
   FS = "=";
 }
 {
-  if (lines[$1] != "") 
+  if (lines[$1] != "")
   {
     printf("Repeated call: \"%s\" and \"%s\"\n", lines[$1], $0) > "/dev/stderr";
   }

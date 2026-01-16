@@ -162,7 +162,7 @@ AA6PZ,1D,SCV,Foothills ARS (CA)
 AA6QI,2E,LAX,Pasadena RC
 AA6RS,1D,SV,Sierra Foothills ARC
 AA6VX,1D,SB
-AA6W,1D,SCV,San Benito County ARA 
+AA6W,1D,SCV,San Benito County ARA
 AA6X,1E,AZ
 AA7CF,1E,AZ,Northern Arizona DX Assn
 AA7DK,1D,AZ,Northern Arizona DX Assn
@@ -222,7 +222,7 @@ AB1BL,1B,WNY,ARA of the Southern Tier
 AB1BM,1D,NH,Granite State ARA
 AB1CR,1E,CT
 AB1CW,1D,WMA,Mohawk ARC
-AB1EP,1E,ME,Ellsworth ARA 
+AB1EP,1E,ME,Ellsworth ARA
 AB1HD,1E,EMA,PART of Westford
 AB1HI,1E,CT,Stamford ARA
 AB1IP,1E,UT,Utah ARC
@@ -240,7 +240,7 @@ AB1XQ,1D,VT,Twin State RC
 AB1ZJ,1D,WMA,Hampden County Radio Assn
 AB2AN,1E,VA,Williamsburg Area ARC
 AB2E,1D,SNJ,Gloucester County ARC
-AB2GD,1B,ENY,Binghamton ARA 
+AB2GD,1B,ENY,Binghamton ARA
 AB2KP,1D,SNJ,Southern Counties ARA
 AB2MP,1B,WNY,Salt City DX Assn
 AB2NM,1B,WNY
@@ -334,7 +334,7 @@ AB8S,1D,WV,Mid Ohio Valley ARC
 AB8SI,1D,OH
 AB8SV,1E,OH,Coshocton County ARA
 AB8TN,1D,PAC
-AB8VS,1E,MI,Shiawassee ARA 
+AB8VS,1E,MI,Shiawassee ARA
 AB8WW,1D,WV,Tri-State ARA
 AB8YZ,1D,NTX,Ham Assn. of Mesquite
 AB9A,1D,LAX,Palos Verdes ARC
@@ -375,7 +375,7 @@ AC1BZ,3A,NH,Team Ferret
 AC1DD,1E,IL
 AC1DQ,1D,CT,Greater Bridgeport ARC
 AC1DV,1D,RI,Newport County RC
-AC1EO,1E,EMA,Southeastern Massachusetts ARA 
+AC1EO,1E,EMA,Southeastern Massachusetts ARA
 AC1EV,1E,EMA,Nashua Area Radio Soc
 AC1FS,1D,EPA
 AC1FX,1D,NH,Nashua Area Radio Soc
@@ -393,7 +393,7 @@ AC1PK,1D,NH,Port City ARC
 AC2BI,3A,MDC,(WA3SFJ GOTA) Chesapeake Bay Radio Assn.
 AC2BQ,1D,NLI,Great South Bay ARC
 AC2C,1D,MDC,Straight Key Century Club
-AC2F,1D,NNJ,Garden State ARA 
+AC2F,1D,NNJ,Garden State ARA
 AC2FA,1D,WNY,Niagara Frontier Radiosport
 AC2GC,2E,ENY,Putnam Emergency Amateur Repeater League
 AC2IJ,1D,NNJ,Splitrock ARA
@@ -401,11 +401,11 @@ AC2IK,1D,WNY
 AC2JK,1E,WNY
 AC2K,1D,AZ,Radio Soc of Tucson
 AC2KV,1D,ENY
-AC2KW,1D,NFL,Lake ARA 
+AC2KW,1D,NFL,Lake ARA
 AC2LB,1D,SC,Grand Strand ARC
 AC2N,1E,NFL
 AC2OC,1D,ENY
-AC2PD,1D,SNJ,Garden State ARA 
+AC2PD,1D,SNJ,Garden State ARA
 AC2PT,1E,SNJ,Gloucester Co. ARC
 AC2RJ,1D,ENY,Straight Key Century Club
 AC2RL,1E,WNY,Rochester (NY) DX Assn.
@@ -491,7 +491,7 @@ AC7YT,2A,IA,Traveling AR Team
 AC8AP,1D,OH
 AC8AZ,1D,MI
 AC8FJ,1D,MI,Garden City ARC
-AC8G,1D,OH,Mound ARA 
+AC8G,1D,OH,Mound ARA
 AC8HZ,1D,MI
 AC8JF,1D,MI,Hazel Park ARC
 AC8JW,1B,MI
@@ -641,7 +641,7 @@ AD6ZR,1A,UT,Manila Creek Stake  ERC
 AD7DD,1B,ID
 AD7F,1D,WWA,Microhams ARC
 AD7GU,1B,AZ
-AD7I,1D,NNJ,Garden State ARA 
+AD7I,1D,NNJ,Garden State ARA
 AD7J,1D,NV
 AD7KG,1B,UT
 AD7KI,1C,CO
@@ -731,7 +731,7 @@ AE4WX,2A,NC,Means/Snyder Family
 AE4Y,1E,NC,South East Contest Club
 AE5CA,1E,NTX,Heart O' Texas ARC
 AE5CS,1E,AR
-AE5EZ,1B,NTX,Lewisville ARA 
+AE5EZ,1B,NTX,Lewisville ARA
 AE5FM,1D,NTX,Dallas ARC
 AE5IT,1B,CO,Rocky Mountain Ham Radio
 AE5LC,1D,NFL,The Villages ARC
@@ -849,7 +849,7 @@ AF7LZ,1D,ID
 AF7SC,2A,EWA,(WW7A GOTA) Mics & Beers
 AF7UX,3E,WWA,Issaquah ARC
 AF7VC,1B,OR
-AF7ZA,1D,OR,Columbia (OR) ARA 
+AF7ZA,1D,OR,Columbia (OR) ARA
 AF8C,1D,OH,Northern Ohio DX Assn
 AF9FA,1E,WI,Yellow Thunder ARC
 AF9J,1E,WI
@@ -881,7 +881,7 @@ AG5AB,1B,MS,Marion County Ham RC
 AG5AT,1E,AL,Birmingham ARC
 AG5AY,1D,LA,Baton Rouge ARC
 AG5B,1D,MS
-AG5BC,1D,MS,Central Mississippi ARA 
+AG5BC,1D,MS,Central Mississippi ARA
 AG5CC,2A,AR,(KF5TL GOTA) White River Radio Comm. Grp.
 AG5DB,1B,OK,South Canadian ARS
 AG5FX,1D,WPA,Steel City ARC
@@ -1021,7 +1021,7 @@ AI6DO,2E,LAX
 AI6EH,1E,SCV,San Jose ARES RACES
 AI6EM,1D,PAC
 AI6JB,1B,SV,Sierra Foothills ARC
-AI6JJ,1D,SCV,Santa Clara County ARA 
+AI6JJ,1D,SCV,Santa Clara County ARA
 AI6LY,1D,SCV
 AI6MS,1E,SCV,BayNet
 AI6MW,1D,SB
@@ -1498,7 +1498,7 @@ K1AA,3A,NFL,Orlando ARC
 K1ADW,2E,EMA
 K1AIR,2A,EMA,(K1RK GOTA) Falmouth ARA
 K1ALA,1E,ME
-K1AMJ,1D,EMA,Falmouth ARA 
+K1AMJ,1D,EMA,Falmouth ARA
 K1AUS,1D,MT
 K1AV,1D,RI
 K1AZ,1D,CT
@@ -1510,7 +1510,7 @@ K1BRM,1D,NH,Nashua Area Radio Soc
 K1BUK,1D,CT
 K1BZ,1D,MDC,Potomac Valley RC
 K1C,1D,WMA,Yankee Clipper Contest Club
-K1CB,1D,EMA,Falmouth ARA 
+K1CB,1D,EMA,Falmouth ARA
 K1CBI,1D,NC,Pamlico ARS
 K1CCN,4A,WI,Koomer Ridge Contesters
 K1CE,1E,NFL
@@ -1535,7 +1535,7 @@ K1DU,4A,WCF,(K4LKL GOTA) Lakeland ARC
 K1DW,1D,LA,DFW Contest Group
 K1EBY,1D,CT,Murphys Marauders
 K1ECU,1D,CT,CTRI Contest Grp.
-K1EEE,1E,VA,Rappahannock ARA 
+K1EEE,1E,VA,Rappahannock ARA
 K1EHZ,1B,NH,Granite State ARA
 K1EME,1A,NH,Littleton Area Radio Klub
 K1EV,1D,CT,Tri-City ARC of CT
@@ -1670,7 +1670,7 @@ K1TTW,1B,CO
 K1TW,1D,EMA,BARS/Billerica CERT
 K1TWH,1D,EMA,Whitman ARC
 K1UHF,1D,NFL,Suwannee ARC
-K1UR,1D,EMA,Framingham ARA 
+K1UR,1D,EMA,Framingham ARA
 K1VDF,1D,CT,Meriden ARC
 K1VG,1E,CT
 K1VI,1D,RI,Blackstone Valley ARC
@@ -1682,7 +1682,7 @@ K1VUV,1E,MDC,Easton ARS
 K1VW,1A,ME,New England Radio Discussion Soc.
 K1VWQ,1B,CT
 K1WAS,3D,CT,Westport Astro ARC/Housatonic ARC/Greater Fairfield ARA
-K1WCC,1D,EMA,Falmouth ARA 
+K1WCC,1D,EMA,Falmouth ARA
 K1WDY,1D,EMA,Falmouth ARA
 K1WJL,1D,CT,Meriden ARC
 K1WJY,1B,ME,Ellsworth Amateur Wireless Assn.
@@ -1726,7 +1726,7 @@ K2CR,1E,NNJ,Int'l Soc for Amateur Radio Innovation
 K2CT,4A,ENY,Albany ARA
 K2CVY,1D,NLI
 K2CWM,1E,SNJ
-K2CYS,1E,NNJ,Garden State ARA 
+K2CYS,1E,NNJ,Garden State ARA
 K2D,3F,SNJ,Burlington Co. RC
 K2DAR,1D,WNY
 K2DB,1B,NFL,Rochester (NY) DX Assn
@@ -1813,7 +1813,7 @@ K2NJ,2F,NNJ,West Jersey DX Group
 K2NMT,1D,ENY,Broughton Memorial Field Day Group
 K2NNN,1D,NNJ,West Essex ARC
 K2NPN,1E,WNY
-K2NPT,1D,SNJ,Garden State ARA 
+K2NPT,1D,SNJ,Garden State ARA
 K2NRS,2E,ENY,Orange County (NY) ARC
 K2NTH,1D,ENY
 K2NV,1D,WNY,Niagara Frontier Radiosport
@@ -2063,7 +2063,7 @@ K3PGM,1D,DE,First State ARC
 K3PNW,1D,WWA
 K3PP,1B,EPA,Frankford RC
 K3PSG,5A,WPA,Butler Co. AR Public Srvc. Grp.
-K3PW,1E,ME,Ellsworth ARA 
+K3PW,1E,ME,Ellsworth ARA
 K3PZN,4A,MDC,Carroll Co. ARC
 K3Q,4A,EPA,Education Alliance for AR
 K3QAC,5A,MDC,Queen Anne's ARC
@@ -2102,7 +2102,7 @@ K3SW,1B,EPA,Frankford RC
 K3SY,1D,WCF,Tamiami ARC
 K3T,3A,WPA,North Hills ARC
 K3TBD,1D,MDC,Columbia (MD) ARA
-K3TEE,1E,MDC,Columbia (MD) ARA 
+K3TEE,1E,MDC,Columbia (MD) ARA
 K3TEF,1E,EPA,Northeast Maryland AR Contest Soc.
 K3TN,1E,MDC,Potomac Valley RC
 K3TOW,1D,EPA,Murgas ARC
@@ -2189,13 +2189,13 @@ K4BEH,1A,GA,Jasper RC
 K4BEZ,1D,TN,West TN ARS
 K4BFT,4A,AL,Huntsville ARC
 K4BGV,1D,TN,Bristol ARC
-K4BH,1D,SFL,Gold Coast ARA 
+K4BH,1D,SFL,Gold Coast ARA
 K4BKV,4A,NFL,Hernando Co. ARA
 K4BNZ,1D,VA,Roanoke Valley ARC
 K4BP,1D,TN,Tennessee Contest Group
 K4BRI,3A,KY,Oh-Ky-In ARS
 K4BRU,1E,NC,Franklin Co. (NC) ARC
-K4BSE,1D,GA,Sawnee ARA 
+K4BSE,1D,GA,Sawnee ARA
 K4BSK,1D,NC
 K4BT,2A,NFL,Orange Park ARC
 K4BV,4A,NFL,Daytona Beach ARA
@@ -2357,16 +2357,16 @@ K4JJL,1D,SFL,Lighthouse Point BBQ Club
 K4JJW,1D,NC,Pamlico ARS
 K4JKB,1D,VA,Central Virginia Contest Club
 K4JNB,1D,KS,Kansas Antenna Club in Johnson County
-K4JNM,1D,GA,Sawnee ARA 
+K4JNM,1D,GA,Sawnee ARA
 K4JSK,1D,NC
 K4JST,1B,VA,Williamsburg Area ARC
-K4JTN,1D,VA,Rappahannock ARA 
+K4JTN,1D,VA,Rappahannock ARA
 K4JZQ,1D,VA,Albemarle ARC
 K4K,2A,NC,Thermal Belt ARC
 K4KBD,1A,NFL,Emerald Coast ARA
 K4KBI,2A,SC,(KC4RC GOTA) Kershaw Co. ARC
 K4KEW,1D,NFL,SAARS
-K4KGG,1D,ENY,Boca Raton ARA 
+K4KGG,1D,ENY,Boca Raton ARA
 K4KGM,1E,NC
 K4KJQ,6A,KY,Bluegrass ARS
 K4KMW,2A,KY,Caldwell ARES
@@ -2379,8 +2379,8 @@ K4KSC,3A,SFL,(K4KSC GOTA) Titusville ARC
 K4KSR,1E,VA
 K4KXX,1D,WCF,Peace River Rado Assn
 K4KZ,1D,NC,Potomac Valley RC
-K4KZM,1D,SFL,Boca Raton ARA 
-K4LA,1D,SFL,Boca Raton ARA 
+K4KZM,1D,SFL,Boca Raton ARA
+K4LA,1D,SFL,Boca Raton ARA
 K4LBL,1D,VA
 K4LDC,1E,GA,Silver Comet ARS
 K4LDI,1D,GA
@@ -2545,7 +2545,7 @@ K4UK,2A,VA,Franklin Co. (VA) ARC
 K4ULD,1D,WCF,Ski Country ARC
 K4US,5A,VA,(K4US GOTA) Mt. Vernon (VA) ARC
 K4UTL,1D,SFL,Everglades ARC
-K4UVX,1D,NC,McDowell  ARA 
+K4UVX,1D,NC,McDowell  ARA
 K4V,4A,AL,(K4BFT GOTA) Huntsville ARC
 K4VBL,1D,VA
 K4VBM,1E,GA
@@ -2585,7 +2585,7 @@ K4YJ,1D,OH
 K4YJJ,1D,GA,North Fulton ARL
 K4YL,1D,WCF,South Lyon Area ARC
 K4YLX,2E,NFL,Orange Park ARC
-K4YM,1D,VA,Rappahannock ARA 
+K4YM,1D,VA,Rappahannock ARA
 K4YO,1D,UT
 K4YTZ,2A,SC,York Co. ARS
 K4YWE,1A,AL,Lake Martin ARC
@@ -2684,7 +2684,7 @@ K5IBK,1D,NTX,Ham Assn. of Mesquite
 K5IFA,1E,NTX,McKinney ARC
 K5IKB,1D,MS,Southwest Mississippi ARC
 K5IMC,1D,NTX
-K5IWT,1D,NTX,Lewisville ARA 
+K5IWT,1D,NTX,Lewisville ARA
 K5IZO,1D,STX,Brazos Valley ARC
 K5JAD,1D,LA,Shreveport ARA
 K5JAZ,1D,LA
@@ -2715,7 +2715,7 @@ K5LDA,1B,MS,Mobile ARC
 K5LET,2F,NTX,Longview East Texas ARC
 K5LG,1D,AR
 K5LGV,1B,NTX
-K5LGX,1D,NTX,Lewisville ARA 
+K5LGX,1D,NTX,Lewisville ARA
 K5LJ,1E,STX,Brazos Valley ARC
 K5LKJ,1D,NTX,Brazos Valley ARC
 K5LMB,1D,MS,University Of Mississippi ARC
@@ -2834,7 +2834,7 @@ K5TXB,1D,NTX,West Fork ARC
 K5TXM,1E,NTX
 K5TXQ,1A,NTX,Wood Co. ARA
 K5TYR,5A,NTX,Tyler ARC
-K5UA,1D,LA,Acadiana ARA 
+K5UA,1D,LA,Acadiana ARA
 K5UAR,1A,NTX,Upshur Area ARC
 K5UDO,1D,UT,Utah Valley ARC
 K5UTA,1A,NTX,Maverick Radio Mentors
@@ -3049,7 +3049,7 @@ K6MDS,1B,SJV
 K6MEP,13A,SB,Ventura Co. ARC
 K6MI,1A,SCV,Chew's Ridge Gang
 K6MLE,1D,SV
-K6MM,1D,SCV,Palo Alto ARA 
+K6MM,1D,SCV,Palo Alto ARA
 K6MMM,3A,SCV,Monkey Lover's Radio Consortium
 K6MQA,1D,SB,Conejo Valley ARC
 K6MSM,1D,ORG,South Orange Amateur Radio Assoc.
@@ -3074,7 +3074,7 @@ K6OX,2A,LAX,Antelope Valley ARC
 K6P,2D,SDG
 K6PAC,4A,SV,Western Placer ARC
 K6PB,1D,ORG,Irvine Disaster EmComms
-K6PBQ,1D,SCV,Santa Clara County ARA 
+K6PBQ,1D,SCV,Santa Clara County ARA
 K6PFG,2A,SDG,(W6UUS GOTA) Convair/220 ARC
 K6PGH,1D,ORG,Orange County (CA) ARC
 K6PNJ,1E,LAX,Hughes ARC
@@ -3366,7 +3366,7 @@ K7NWR,1B,WWA
 K7NWS,2F,WWA,Boeing Employees ARS
 K7NWT,1D,OR,Hoodview ARC
 K7NZE,1D,WWA
-K7OED,1B,AZ,Cochise ARA 
+K7OED,1B,AZ,Cochise ARA
 K7OEG,1D,NTX,Ellis County ARC
 K7OG,1E,WWA
 K7OHK,1D,AZ,Oro Valley ARC
@@ -3553,7 +3553,7 @@ K8FAY,1F,OH,Fayette ARA
 K8FB,1D,AZ,Yavapai ARC
 K8FC,1D,SFL
 K8FCM,1D,OH,JeffersonOH
-K8FER,1D,WV,Tri-State ARA 
+K8FER,1D,WV,Tri-State ARA
 K8FF,1D,OH,Northern Ohio DX Assn
 K8FH,1E,OH,Medina County ARC
 K8FR,1D,OH
@@ -3613,7 +3613,7 @@ K8MC,1B,GA,Cherokee ARS
 K8MEJ,2B,OH
 K8MH,1B,MI
 K8MHW,1D,OH
-K8MJH,1D,OH,Mound ARA 
+K8MJH,1D,OH,Mound ARA
 K8MOL,3A,MI,(K8DAA GOTA) Holland ARC
 K8MP,1D,OH,Delaware ARA
 K8MR,1D,OH,Mad River RC
@@ -3625,7 +3625,7 @@ K8NAP,1D,OH,Madison County (OH) ARC
 K8NBD,1E,LAX,Pasadena RC/JPLARC/CITARC
 K8NGW,1D,MI
 K8NOW,3A,MI,Metropolitan ARC
-K8NQ,1D,OH,Newark Ohio ARA 
+K8NQ,1D,OH,Newark Ohio ARA
 K8NQW,2A,OH,Not Quite Workable Contest Club
 K8NVH,1D,MI,L'Anse Creuse ARC
 K8NVR,1E,OH,Medina County ARC
@@ -3644,7 +3644,7 @@ K8PK,1D,OH,Milford ARC
 K8PL,2A,MI,Delta Co. ARS
 K8PQ,1D,TN
 K8PT,1D,EPA,Holmesburg ARC
-K8QXO,1D,OH,Lake County ARA 
+K8QXO,1D,OH,Lake County ARA
 K8RAR,1D,SFL
 K8RDH,1D,OH,Toledo Mobile Radio Assn
 K8RDJ,1D,MI,Utica Shelby Emergency Comms Assn.
@@ -3680,7 +3680,7 @@ K8TR,1B,SV,Palo Alto ARA
 K8TS,1D,MI,Cascades ARS
 K8TSG,1B,OH
 K8TTE,2A,MI,North Country ARA
-K8TW,1D,OH,Mountaineer ARA 
+K8TW,1D,OH,Mountaineer ARA
 K8TXM,1D,MI
 K8UDH,1D,NE,Prairie Dog ARC
 K8UHL,1E,KY
@@ -3698,7 +3698,7 @@ K8VT,1D,MI,South Lyon Area ARC
 K8VUS,2D,OH,Crooked River Contest Club
 K8WDA,1D,KY
 K8WHB,2A,OH,Geauga ARA
-K8WMU,1B,MI,Blossomland ARA 
+K8WMU,1B,MI,Blossomland ARA
 K8WS,1D,OH
 K8WSL,4A,OH,Wireless Soc. of Lorain Co.
 K8WSR,1B,MI
@@ -3902,7 +3902,7 @@ K9SS,3A,IL,North Shore RC (IL)
 K9SSN,1D,IL,Chicago Suburban Radio Assn.
 K9STV,2A,SCV,(K6YA GOTA) Foothills ARS
 K9T,2A,IL,Northern IL Quad Co. ARG
-K9TA,1D,IN,Wabash Valley ARA 
+K9TA,1D,IN,Wabash Valley ARA
 K9TAD,1D,LAX,PAPA System
 K9TCD,1D,IL,Fox River Radio League
 K9TDB,1E,IN
@@ -3981,7 +3981,7 @@ KA1CTL,1D,EMA,Barnstable ARC
 KA1DJ,1D,WCF,Peace River Rado Assn
 KA1EMH,1D,RI,Blackstone Valley ARC
 KA1EWN,1D,EMA,Sturdy Memorial Hospital ARC
-KA1FAI,1D,CT,Metro North Railroad ARA 
+KA1FAI,1D,CT,Metro North Railroad ARA
 KA1GCN,1D,WMA,Mohawk ARC
 KA1GG,5F,EMA,Pilgrim Amateur Wireless Assn.
 KA1HAH,1D,WMA,Franklin Co. (MA) ARC
@@ -3989,7 +3989,7 @@ KA1HPM,1D,NC,Orange County Radio Amateurs & Durham FM Assn
 KA1HVR,1D,CT
 KA1KNW,1C,CT
 KA1LHJ,1D,CT
-KA1LM,1D,VT,Addison County ARA 
+KA1LM,1D,VT,Addison County ARA
 KA1O,1E,NH
 KA1PPV,1D,CT
 KA1QYP,1D,WMA
@@ -4015,7 +4015,7 @@ KA2FIR,1E,NNJ
 KA2FNK,1E,KS,Johnson County Radio Amateurs Club
 KA2GQQ,1E,NNJ
 KA2GVY,1D,WNY,Radio Assn of Western New York
-KA2IRQ,1D,NNJ,Garden State ARA 
+KA2IRQ,1D,NNJ,Garden State ARA
 KA2IWK,1D,WNY
 KA2IYU,1D,AZ,Oro Valley ARC
 KA2JAI,1D,MDC,Team Montrose
@@ -4054,7 +4054,7 @@ KA3PCX,2E,NC
 KA3PMW,1D,WPA
 KA3PVM,2A,MDC,KA3PVM and family plus N3DRL
 KA3QLF,1B,IL,Soc. of Midwest Contesters
-KA3RLZ,1D,WMA,Central Mass ARA 
+KA3RLZ,1D,WMA,Central Mass ARA
 KA3RQR,1D,VA,Vienna Wireless Soc
 KA3SME,1D,GA,ARC of Butts Co.
 KA3TTT,1E,EPA,Phil-Mont Mobile RC
@@ -4137,7 +4137,7 @@ KA6LJR,1D,LAX,Palos Verdes ARC
 KA6MJR,1D,LAX,Palos Verdes ARC
 KA6NZB,1D,EB,Oakland Radio Communication Assn.
 KA6OES,2F,SF,Humboldt Co. AUXCOMM Team
-KA6S,1D,EB,South Bay ARA 
+KA6S,1D,EB,South Bay ARA
 KA6UAI,1D,SV,Sierra Foothills ARC
 KA6UGS,1E,ORG,Desert Radio Amateur Transmitting Soc.
 KA6WAG,1E,OR,Central Oregon Coast ARC
@@ -4172,7 +4172,7 @@ KA8DYD,1E,GA,Cherokee ARS
 KA8G,1E,OH
 KA8GKT,1B,OH,CW Band-Dits
 KA8GPM,1E,OH
-KA8HKC,1D,OH,Newark Ohio ARA 
+KA8HKC,1D,OH,Newark Ohio ARA
 KA8HOK,1E,AL
 KA8HUZ,1D,OH,Parma RC
 KA8JBK,1D,MI
@@ -4325,7 +4325,7 @@ KB1RZA,1B,VT
 KB1SEQ,1D,EMA,PART of Westford
 KB1SL,1D,CT
 KB1SXE,1D,NH,Granite State ARA
-KB1TLR,1D,EMA,Falmouth ARA 
+KB1TLR,1D,EMA,Falmouth ARA
 KB1UJS,1B,ME
 KB1UKU,1B,EMA,Police Amateur Radio Team of Westford
 KB1VP,1B,VT,Twin State RC
@@ -4341,7 +4341,7 @@ KB1WV,1D,RI,Blackstone Valley ARC
 KB1YNT,1E,CT
 KB1YO,1E,CT
 KB1YTR,1E,MN,Wireless Soc. of Southern Maine
-KB1YXL,1B,EMA,Framingham ARA 
+KB1YXL,1B,EMA,Framingham ARA
 KB1YZ,1D,MDC,St Marys County ARA
 KB1ZAC,1D,CT
 KB1ZIR,1D,CT,Candlewood ARA
@@ -4367,9 +4367,9 @@ KB2HSV,3A,WV,(W8GK GOTA) Kanawha ARC
 KB2IXT,1D,ENY,Broughton Memorial Field Day Grp.
 KB2JDB,1D,WNY,Boston Valley Simplex Club
 KB2JED,1B,WNY,Keuka Lake ARA
-KB2KDY,1D,ENY,Troy ARA 
+KB2KDY,1D,ENY,Troy ARA
 KB2KOL,1D,WNY,Boston Valley Simplex Club
-KB2LZ,1D,ENY,Troy ARA 
+KB2LZ,1D,ENY,Troy ARA
 KB2M,1D,NFL,FVVFD
 KB2MDR,1D,NNJ,Fair Lawn ARC
 KB2MGQ,1E,SNJ
@@ -4392,7 +4392,7 @@ KB2TDT,1D,WNY
 KB2TLG,1E,NNJ,Bergen County Emergency Management RC
 KB2URI,3E,WNY
 KB2WZT,1D,ENY,Broughton Memorial Field Day Group
-KB2YSI,1D,WNY,Chenango Valley ARA 
+KB2YSI,1D,WNY,Chenango Valley ARA
 KB2ZPB,1D,NLI,Radio Central ARC and Order of Boiled Owls of NY
 KB2ZVD,1E,SV,El Dorado Co. ARC
 KB3A,1E,AL,Huntsville ARC
@@ -4540,7 +4540,7 @@ KB7AZ,1D,AZ,Oro Valley ARC
 KB7BTO,1D,WWA
 KB7CFV,1E,AZ,Coconino ARC
 KB7DUJ,1D,MT,Hi-Line ARC
-KB7GAB,5A,OR,(W7VW GOTA) Klamath Basin ARA 
+KB7GAB,5A,OR,(W7VW GOTA) Klamath Basin ARA
 KB7GFL,1D,WWA,Sky Valley ARC
 KB7GK,1E,ID
 KB7HCZ,1B,EWA
@@ -4614,7 +4614,7 @@ KB8ZR,1D,OH
 KB8ZUN,2B,OH,Wireless Soc. of Lorain Co.
 KB8ZWT,1D,OH,Portage County Amateur Radio Service
 KB8ZYE,1D,OH,West Chester ARA
-KB9BVL,1D,KY,Paducah ARA 
+KB9BVL,1D,KY,Paducah ARA
 KB9DED,1E,WI,Wisconsin Valley Radio Assn
 KB9DVC,1E,IL,York Radio Club
 KB9E,1D,WI
@@ -4743,13 +4743,13 @@ KC1CPA,1E,ME
 KC1CUE,2F,RI,Coventry EMA
 KC1CYT,1D,CT
 KC1DCQ,1D,WMA,Franklin County (MA) ARC
-KC1DMM,1E,EMA,Framingham ARA 
+KC1DMM,1E,EMA,Framingham ARA
 KC1DSQ,1E,EMA,PART of Westford
 KC1DVT,1D,ME
 KC1DWP,1D,TN,WCARES-TN
 KC1DXL,1D,EMA,Nashua Area Radio Soc
-KC1ECV,1D,ME,Aroostook ARA 
-KC1ELB,1D,EMA,Falmouth ARA 
+KC1ECV,1D,ME,Aroostook ARA
+KC1ELB,1D,EMA,Falmouth ARA
 KC1ELF,1D,EMA,Police Amateur Radio Team of Westford
 KC1EMI,1B,NH,Granite State ARA
 KC1EOT,1D,NH,Great Bay RA
@@ -4901,12 +4901,12 @@ KC3ANX,1D,WPA,SWPA Shut-ins
 KC3ARC,2A,DE,Kent Co. ARC
 KC3AZT,1D,EPA,Holmesburg ARC
 KC3BHI,1A,WPA,Nittany ARC
-KC3BJS,1D,MDC,Columbia (MD) ARA 
+KC3BJS,1D,MDC,Columbia (MD) ARA
 KC3BLF,1D,EPA,Lehigh Valley ARC
 KC3BTV,2A,DE,(KC3ARC GOTA) Kent Co. ARC
 KC3BXN,1B,MDC
 KC3C,1D,EPA
-KC3CC,1B,WPA,Cameron County ARA 
+KC3CC,1B,WPA,Cameron County ARA
 KC3D,1D,SFL,Palm Beach ARC
 KC3DLL,1B,WPA
 KC3DTE,1A,WPA,Indiana Co. ARC
@@ -5059,7 +5059,7 @@ KC4TIE,1D,KY
 KC4TKL,1E,KS,Johnson County Radio Amateurs Club
 KC4TNQ,1D,TN
 KC4TQF,1D,VA,Virginia Mountain ARC
-KC4TVN,1B,VA,Rappahannock ARA 
+KC4TVN,1B,VA,Rappahannock ARA
 KC4UAL,9A,SC,(W4CAE GOTA) Columbia (SC) ARC
 KC4UCT,1D,GA,North Fulton ARL
 KC4UG,2A,AL,West Alabama ARC
@@ -5123,7 +5123,7 @@ KC6KWP,1D,SV,FARCE
 KC6MEH,1E,LAX,ARESLAXNW
 KC6MIE,1D,SDG,Fallbrook ARC
 KC6SLA,1D,IA
-KC6TYD,1E,SCV,Palo Alto ARA 
+KC6TYD,1E,SCV,Palo Alto ARA
 KC6UCN,1E,WTX
 KC6UFE,1D,SV,Golden Empire ARS
 KC6WOK,3A,ORG,(WG6OTA GOTA) GOTAHAMS
@@ -5181,7 +5181,7 @@ KC8BFI,1D,OH
 KC8CAD,1E,OH,Lorain County ARA
 KC8CNN,4A,MI,Tuscola Co. ARA
 KC8EHR,2A,MI
-KC8ETW,1D,MI,Shiawassee ARA 
+KC8ETW,1D,MI,Shiawassee ARA
 KC8FOV,1D,OH
 KC8GOQ,1D,WTX,El Paso ARC
 KC8HQS,1D,OH,Oh-Ky-In ARS
@@ -5451,11 +5451,11 @@ KD2OUG,1D,NNJ,Ocean Monmouth ARC
 KD2PER,1D,WNY,Squaw Island ARC
 KD2PFH,1D,WNY
 KD2PHN,2D,EPA
-KD2PKP,1D,WNY,Binghamton ARA 
+KD2PKP,1D,WNY,Binghamton ARA
 KD2PLR,1D,NNJ,Tri County Radio Assn.
 KD2PSC,1B,WNY,Genesee Radio Amateurs
 KD2PTX,1D,ENY,Orange County (NY) ARC
-KD2PWB,1E,WNY,Binghamton ARA 
+KD2PWB,1E,WNY,Binghamton ARA
 KD2PWL,1B,ENY,Sleeping Bag Portables
 KD2QAR,1B,WNY,Genesee Radio Amateurs
 KD2QED,1D,SNJ,Southern Counties ARA
@@ -5617,7 +5617,7 @@ KD5YPH,1D,CO,Kicked Back Contesters Club
 KD5YS,1D,LA,Central Louisiana ARC
 KD5ZAT,1D,NTX
 KD5ZCQ,1D,NTX
-KD5ZLB,1D,LA,Minden ARA 
+KD5ZLB,1D,LA,Minden ARA
 KD5ZLR,1D,STX,Kendall ARS
 KD6ASL,1E,SB,Ventura County ARC
 KD6BAC,1B,LAX,L.A. City ACS
@@ -5722,7 +5722,7 @@ KD8KYK,1E,OH,Bearcat DX Club
 KD8LBS,1A,OH,Ohio Valley Experimenters Club
 KD8LLS,1D,OH,Seneca RC
 KD8LNO,6A,MI,(K8BMI GOTA) Barry ARA
-KD8M,1E,AZ,Cochise ARA 
+KD8M,1E,AZ,Cochise ARA
 KD8MQ,1B,OH,Alliance ARC
 KD8MRL,1D,IL
 KD8MSS,1B,OH
@@ -5744,7 +5744,7 @@ KD8RNF,1D,OH,NOARS
 KD8RSH,1D,MI,Central Michigan ARC
 KD8RTT,1B,KS
 KD8SAV,1D,OH
-KD8SCL,1D,OH,Newark Ohio ARA 
+KD8SCL,1D,OH,Newark Ohio ARA
 KD8SCV,1D,OH,Cuyahoga ARS
 KD8SKZ,3A,WV,(WV8HAT GOTA) Hancock AUXCOM Team
 KD8SPF,1D,OH
@@ -5850,7 +5850,7 @@ KD9MER,1B,IN
 KD9MHJ,1E,IL,Six Meter Club of Chicago
 KD9MKR,1D,SC
 KD9MQV,2D,IL,Dupage ARC
-KD9MS,2E,IL,Paducah ARA 
+KD9MS,2E,IL,Paducah ARA
 KD9NHZ,1E,IL,Bolingbrook ARS
 KD9NJR,2A,IL,(N9RJV GOTA) Schaumburg ARC
 KD9NUE,1D,IN
@@ -6046,7 +6046,7 @@ KE3FL,1E,MDC,4SQRP
 KE3GK,1D,MDC,Northeast MD Amateur Radio Contest Soc.
 KE3K,1D,MI,Blossomland ARA
 KE3KD,1B,WPA
-KE3KK,1D,WMA,Framingham ARA 
+KE3KK,1D,WMA,Framingham ARA
 KE3KQ,2B,EPA,Pottstown Area ARC
 KE3Q,13A,MDC,(W3AO GOTA) Potomac Valley RC
 KE3TW,1D,MDC,Southern PA Communications Group
@@ -6407,7 +6407,7 @@ KF2BQ,1D,SNJ,Old Barney ARC
 KF2FK,4A,ENY,(W2YRC GOTA) Yonkers ARC
 KF2UJ,1D,NNJ,Tri-County ARA (NJ)
 KF2VX,1D,WNY,Lodi ARC
-KF2WA,1D,ENY,Troy ARA 
+KF2WA,1D,ENY,Troy ARA
 KF2YV,1C,NNJ,Garden State ARA
 KF3AA,1D,DE
 KF3EB,1E,WPA
@@ -6580,7 +6580,7 @@ KF7WX,1D,WWA
 KF7YEM,2F,UT,(K7EM GOTA) Logan Utah Central Stake
 KF7YHB,1D,AZ,Kingman Amateur Radio CW Operators Club
 KF7YRS,1D,UT
-KF8G,1D,OH,Slivercreek ARA 
+KF8G,1D,OH,Slivercreek ARA
 KF8I,1D,OH
 KF8MZ,1E,OH
 KF8O,1E,OH
@@ -6616,7 +6616,7 @@ KG2E,1D,KY
 KG2H,3A,ENY,(K2DLL GOTA) Saratoga Co. ARA
 KG2MM,5A,NFL
 KG2NI,1D,WNY
-KG2NV,1D,NNJ,Garden State ARA 
+KG2NV,1D,NNJ,Garden State ARA
 KG2OR,1D,WNY,Radio Assoc of Western New York
 KG3V,1D,VA,Potomac Valley RC
 KG4AFY,1B,AL
@@ -6631,7 +6631,7 @@ KG4EIF,1C,VA,Albemarle ARC
 KG4EXY,1D,VA
 KG4FAB,1D,NC
 KG4FSE,1D,NC,Albemarle ARS
-KG4IKQ,1D,NC,McDowell  ARA 
+KG4IKQ,1D,NC,McDowell  ARA
 KG4ISY,1D,NC,Pamlico ARS
 KG4IUQ,1D,NC,Cleveland Co. Amateur Radio Service
 KG4IYS,1D,WCF,Tamiami ARC
@@ -6694,8 +6694,8 @@ KG5LRB,1B,WI,Santa Fe ARES
 KG5LRL,1D,NTX,Lake Area AR Klub
 KG5MAF,1D,NM,Messila Valley RC
 KG5MDB,1D,STX,Beaumont ARC
-KG5MVZ,1D,NTX,Lewisville ARA 
-KG5NIN,1D,NTX,Lewisville ARA 
+KG5MVZ,1D,NTX,Lewisville ARA
+KG5NIN,1D,NTX,Lewisville ARA
 KG5NUX,1E,NTX,Rains ARA
 KG5OA,1E,NTX,Cowtown ARC
 KG5OIB,1E,NTX,West Fork ARC
@@ -6722,7 +6722,7 @@ KG5VK,1D,NTX
 KG5VMO,1D,NTX,Hurst ARC
 KG5VSR,1B,NTX,White Rock Lake ARC
 KG5VW,1D,OK,Kay County ARC
-KG5WAW,1E,NTX,Sachse ARA 
+KG5WAW,1E,NTX,Sachse ARA
 KG5WDF,1E,STX
 KG5WHQ,1B,NTX
 KG5WHS,1E,NTX,Heart O' Texas ARC
@@ -6943,7 +6943,7 @@ KI5BGC,2F,AR,Cross County ARC
 KI5BUV,1D,STX
 KI5CDP,1D,STX,Lakes Area (TX) ARC
 KI5CXO,1A,STX,Simmons Family
-KI5CYA,1D,NTX,Sachse ARA 
+KI5CYA,1D,NTX,Sachse ARA
 KI5CYM,1B,WTX
 KI5DDO,1E,STX,WCARC-TX
 KI5DRY,1D,STX,Matagorda Co. Arc
@@ -6983,7 +6983,7 @@ KI5IZD,1D,NTX
 KI5IZI,1D,NTX,Mansfield-Johnson Amateur Radio Service
 KI5JF,1B,MS
 KI5JJJ,1D,OK
-KI5JJP,1D,MS,Jackson County ARA 
+KI5JJP,1D,MS,Jackson County ARA
 KI5JKG,1B,STX
 KI5JMG,1D,NTX,Lake Area AR Klub
 KI5JMU,1D,STX,Oak Hill ARC
@@ -7151,7 +7151,7 @@ KI7W,6A,WY,Big Horn Basin ARC
 KI7WNS,1D,NM,Coconino ARC
 KI7WTS,1D,AZ,Coconino ARC
 KI7YDK,2B,AZ
-KI8B,1E,OH,Silvercreek ARA 
+KI8B,1E,OH,Silvercreek ARA
 KI8CP,1D,STX,Van Wert ARC
 KI8DP,1B,MI
 KI8KF,1D,OH,CRES ARC
@@ -7174,7 +7174,7 @@ KJ4CRW,1D,TN,Williamson Co. (TX) ARES
 KJ4DMO,1B,TN
 KJ4DWX,3A,AL,(N4SEV GOTA) Limestone Amateur Radio Em. Svc.
 KJ4EG,1D,IL,Lewis and Clark RC
-KJ4EU,1D,KY,Paducah ARA 
+KJ4EU,1D,KY,Paducah ARA
 KJ4FUU,1E,VA,Alexandria RC
 KJ4IC,1D,WCF,Forsyth ARC
 KJ4IWZ,1D,TN,Cleveland ARC
@@ -7477,7 +7477,7 @@ KK5PL,2D,NM
 KK5RW,1D,STX
 KK5W,10A,STX,Brazos Valley ARC
 KK5XF,1E,AR,North Arkansas ARS
-KK6AXF,1D,NTX,Sachse ARA 
+KK6AXF,1D,NTX,Sachse ARA
 KK6AYK,1B,EB
 KK6BEY,1D,LAX,Culver City ARES
 KK6BY,1D,LAX,South Bay ARC
@@ -7493,7 +7493,7 @@ KK6FPI,1D,SCV,Cupertino ARES
 KK6FPP,1D,SCV,Sunnyvale ARES
 KK6GCB,1B,LAX,Aerospace Employees Assn ARC
 KK6HWN,1B,SCV,Santa Clara Co. ARA
-KK6HWP,1E,SCV,Palo Alto ARA 
+KK6HWP,1E,SCV,Palo Alto ARA
 KK6IPR,1E,EB,South Bay ARA
 KK6IZS,1E,EB,Orca DX and Contest Club
 KK6JA,1A,SCV,JANET Club
@@ -7530,7 +7530,7 @@ KK6TV,1D,SDG,Escondido ARS
 KK6TXN,1E,LAX,United Radio Amateur Club
 KK6UC,1A,SDG,UC San Diego ARC
 KK6UE,1D,SB,Ventura County ARS
-KK6UGA,1E,SCV,San Benito County ARA 
+KK6UGA,1E,SCV,San Benito County ARA
 KK6UHN,1D,ORG,Barstow ARC
 KK6UMB,1D,ORG,South Orange Amateur Radio Assoc.
 KK6VF,1D,SCV,West Valley ARA
@@ -7614,7 +7614,7 @@ KL7R,1D,AK,Arctic ARC
 KL7SK,1E,WWA,Olympia ARS
 KL7SWD,2A,AK,Seward ARC
 KM0F,1D,SD
-KM1D,1D,WMA,Central Mass ARA 
+KM1D,1D,WMA,Central Mass ARA
 KM1Z,1D,TN,Maury ARC
 KM2B,1B,WNY
 KM2C,2D,NNJ,Fair Lawn ARC
@@ -7668,7 +7668,7 @@ KM4IZZ,1D,TN
 KM4JHK,1D,NC
 KM4JRH,1B,NC,Raleigh ARS
 KM4JTE,1B,NFL,Gainesville ARS
-KM4JZJ,1D,KY,Marshall County ARA 
+KM4JZJ,1D,KY,Marshall County ARA
 KM4KAF,3A,VA,(NN4VA GOTA) Westmoreland ARC
 KM4KB,1E,GA,Cherokee ARS
 KM4KLB,1E,VA,Ole Virginia Hams
@@ -7680,7 +7680,7 @@ KM4LHZ,1D,VA,Vienna Wireless Soc
 KM4LRH,1D,MS
 KM4MDR,1D,NC,Orange Co. Radio Amateurs and Durham FM Assn
 KM4MWZ,1D,VA,Woodbridge Wireless ARC
-KM4ND,1D,SFL,Columbia (MD) ARA 
+KM4ND,1D,SFL,Columbia (MD) ARA
 KM4NHN,1D,VA
 KM4NMJ,1E,GA
 KM4NXW,1B,TN,Bristol (TN) ARC
@@ -7754,8 +7754,8 @@ KM6AEQ,1E,LAX,L.A. City ACS
 KM6AES,1E,LAX,L.A. City ACS
 KM6B,1D,SB,Ventura County ARS
 KM6BDN,1B,SV
-KM6CPF,1E,SCV,Palo Alto ARA 
-KM6CTR,1D,SCV,San Benito County ARA 
+KM6CPF,1E,SCV,Palo Alto ARA
+KM6CTR,1D,SCV,San Benito County ARA
 KM6DKE,1D,SCV
 KM6DLG,2F,SCV,Portola Valley ARC
 KM6DLI,1D,SJV,Sierra ARC of the High Mojave
@@ -7773,7 +7773,7 @@ KM6GUE,2D,SB,Ventura County ARS
 KM6GUO,1D,SF,Sonoma Co. Radio Amateurs
 KM6HBH,1E,SCV
 KM6HF,1D,LAX,Associated Radio Amateurs of Long Beach
-KM6HRW,1D,SCV,San Benito County ARA 
+KM6HRW,1D,SCV,San Benito County ARA
 KM6HWX,1B,ORG,Desert Radio Amateur Transmitting Soc.
 KM6HYX,1B,SJV
 KM6I,1D,SCV,VMware ARC
@@ -7813,7 +7813,7 @@ KM6S,1E,LAX,GOTAHAMS
 KM6SBB,1D,SV,River City AR Comms Soc
 KM6SEG,1C,LAX,ARESLAXNW
 KM6SJO,1B,EB
-KM6SKA,1D,SCV,Palo Alto ARA 
+KM6SKA,1D,SCV,Palo Alto ARA
 KM6SNR,1E,EB,Oakland Radio Communication Assn
 KM6SR,2B,LAX,Downey ARC
 KM6TNT,1B,LAX,Zuni Loop MEF
@@ -7854,7 +7854,7 @@ KM7SC,4A,NV,(W7V GOTA) Elko ARC
 KM7W,2A,MT,Big Sky Contesters
 KM8AM,1D,OH,Bellbrook ARC
 KM8G,1E,WV,Kanawha ARC
-KM8N,1D,OH,Mound ARA 
+KM8N,1D,OH,Mound ARA
 KM9M,1D,IL,Metro DX Club
 KM9U,1D,IN
 KN0P,1B,SF
@@ -7982,7 +7982,7 @@ KN4TBG,1B,VA,Albemarle ARC
 KN4TBZ,1D,NFL,Panama City ARC
 KN4TDL,1D,NFL,Sportsman's Paradise ARC
 KN4TGU,1E,NFL
-KN4TIP,1B,KY,Paducah ARA 
+KN4TIP,1B,KY,Paducah ARA
 KN4TRT,1C,NFL,Tallahassee ARS
 KN4TYK,1D,WCF,Tampa ARC
 KN4UAR,1E,KY
@@ -8320,7 +8320,7 @@ KQ4BBQ,2F,GA,Liberty Co. ARES
 KQ4BLF,1A,AL,Eva ARC
 KQ4BNU,2A,KY,Harrison Co. ARC
 KQ4CCC,1D,NC
-KQ4CQA,1D,NFL,American Legion ARC 5th District 
+KQ4CQA,1D,NFL,American Legion ARC 5th District
 KQ4CTD,1E,AL
 KQ4DRX,1D,WCF
 KQ4EON,5A,TN,(KO4LFR GOTA) Plateau ARC
@@ -8551,14 +8551,14 @@ KW0E,1B,IL,Fox River Radio League
 KW0J,1D,IA,River Bend Wireless Operators Club
 KW0LF,8A,IN,(W9UUU GOTA) Wabash Valley ARA
 KW0MPS,1D,MN
-KW0RM,1D,MI,Blossomland ARA 
+KW0RM,1D,MI,Blossomland ARA
 KW1HF,1D,OR
 KW1W,1E,EMA
 KW2O,2A,NLI,Order of Boiled Owls of NY and Radio Central ARC
 KW2A,1D,MDC
 KW2P,1D,WV
 KW2T,1E,WMA,Nashoba Valley ARC
-KW3D,1D,GA,Sawnee ARA 
+KW3D,1D,GA,Sawnee ARA
 KW3DX,1C,VA
 KW4AQ,1D,GA,ARC of Butts County
 KW4EE,1B,NC
@@ -8580,7 +8580,7 @@ KW4UT,1D,NFL,Panama City ARC
 KW4VA,3A,VA,(W4VA GOTA) Fauquier ARA
 KW4VE,1D,TN
 KW4WA,1B,SFL,Palms West ARC
-KW4WL,1D,GA,Sawnee ARA 
+KW4WL,1D,GA,Sawnee ARA
 KW4XQ,2A,SC,(WA4USN GOTA) Charleston ARS
 KW4XZ,1D,VA,King George Amateur Radio Operators
 KW4ZD,1D,AL,Montgomery Amateur Club
@@ -8605,7 +8605,7 @@ KW9R,1B,WI
 KX0A,2B,CO
 KX0B,2E,CO
 KX0R,1B,WY,Boulder ARC
-KX1C,1D,EMA,Falmouth ARA 
+KX1C,1D,EMA,Falmouth ARA
 KX1Q,2B,ENY
 KX1W,1D,SNJ
 KX2S,1D,EPA,Hilltop Transmitting Assn
@@ -8956,7 +8956,7 @@ N1CCC,1D,MO
 N1CEO,1E,EMA,PART of Westford
 N1CFB,1D,EMA,Whitman ARC
 N1CGP,1D,ME
-N1CJS,1D,ME,Ellsworth ARA 
+N1CJS,1D,ME,Ellsworth ARA
 N1CKA,1E,SF,Sonoma Co. Radio Amateurs
 N1CLG,1D,RI,Coventry EMA
 N1CM,1D,CT,Stamford ARA
@@ -8993,7 +8993,7 @@ N1FAM,1D,CT,Tri-City ARC of CT
 N1FD,3A,NH,Nashua Area Radio Soc.
 N1FQI,1E,CT,Eastern CT ARA
 N1FS,2A,VT,Addison Co. ARA
-N1FSK,1D,WMA,Central Mass ARA 
+N1FSK,1D,WMA,Central Mass ARA
 N1FTP,1E,WMA,Hampden County Radio Assn
 N1GB,1D,VT,Littleton Area Radio Klub
 N1GFV,1D,VA,Vienna Wireless Soc
@@ -9010,7 +9010,7 @@ N1IBM,1D,VT
 N1IBQ,1D,CT,Candlewood ARA
 N1ILZ,1E,EMA,Barnstable ARC
 N1IXF,1D,CT,Murphys Marauders
-N1JCT,1D,EMA,Falmouth ARA 
+N1JCT,1D,EMA,Falmouth ARA
 N1JD,1E,ME
 N1JEZ,1E,VT
 N1JFU,1D,EMA
@@ -9083,7 +9083,7 @@ N1TO,1E,SFL,Florida Contest Group
 N1TRC,1E,ME,Mid Coast Red Cross RC
 N1TRK,1B,VT,Addison Co. ARA
 N1TVL,1D,CT,Woodmont Amateur Radio Assoc
-N1TYH,1B,WMA,Central Mass ARA 
+N1TYH,1B,WMA,Central Mass ARA
 N1UF,1D,VT,Green Mountain Wireless Soc.
 N1UI,1B,MI
 N1UMJ,1D,EMA,Pilgrim Amateur Wireless Assn.
@@ -9128,7 +9128,7 @@ N2AXX,1B,NNJ
 N2BBT,1B,SFL,Davie/Cooper City ARC
 N2BEF,1D,ENY,Orange Co. (IN) ARC
 N2BEG,1B,WNY,Rochester (NY) DX Assn
-N2BHD,1D,WNY,Binghamton ARA 
+N2BHD,1D,WNY,Binghamton ARA
 N2BJ,2D,IL,Metro DX Club
 N2BJW,1E,WNY,Rochester (NY) DX Assn.
 N2BRJ,1D,SNJ,Gloucester Co. ARC
@@ -9164,7 +9164,7 @@ N2EJI,1D,ENY
 N2EJT,1D,WPA,Boston Valley Simplex Club
 N2ELG,1D,SFL,Boca Raton ARA
 N2EM,1E,WPA,Butler Co. (PA) ARA
-N2ENG,1D,WNY,Binghamton ARA 
+N2ENG,1D,WNY,Binghamton ARA
 N2ESP,1D,WCF,St. Petersburg ARC
 N2ETA,1D,ENY,Orange Co. (NY) ARC
 N2EVI,1D,WNY,Binghamton ARA
@@ -9231,14 +9231,14 @@ N2MA,1E,WPA,Skyview Radio Soc.
 N2MAC,1D,NLI
 N2MBX,1E,ENY,Saratoga County ARA
 N2MD,1B,NFL
-N2MEP,1D,NNJ,Garden State ARA 
+N2MEP,1D,NNJ,Garden State ARA
 N2MF,1D,WNY
 N2MG,1C,WNY,Rome RC
 N2MH,1D,NNJ,Brunswick Shores ARC
 N2MJZ,1D,NFL,FVVFD
 N2MN,1D,NNJ,Garden State ARA
 N2MO,4A,NNJ,Ocean Monmouth ARC
-N2MOF,1D,WNY,Tompkins County ARA 
+N2MOF,1D,WNY,Tompkins County ARA
 N2MQ,3A,WNY,Chatauqua Amateur Radio Service
 N2MTG,1E,ENY
 N2MUZ,1D,ENY,Peekskill-Cortlandt ARA
@@ -9262,7 +9262,7 @@ N2OMD,1D,WNY
 N2OO,1D,SNJ,Old Barney ARC
 N2PA,2A,WNY,Mountain Group
 N2PEZ,1D,WNY,ARA of the Southern Tier
-N2PM,1D,WNY,Binghamton ARA 
+N2PM,1D,WNY,Binghamton ARA
 N2PQW,1B,NNJ,Ocean Monmouth ARC
 N2PYH,1E,WNY
 N2QFD,1B,WNY
@@ -9322,7 +9322,7 @@ N2WK,1D,WNY,Orleans County ARC
 N2WM,1D,NNJ,Sussex County ARC
 N2WVP,1D,WNY
 N2XJ,2A,NNJ,New Providence ARC
-N2XJS,1D,WNY,Tompkins County ARA 
+N2XJS,1D,WNY,Tompkins County ARA
 N2XP,3A,NNJ,Splitrock ARA
 N2XQP,1B,EPA
 N2XW,1D,SNJ,Old Barney ARC
@@ -9466,7 +9466,7 @@ N3NMP,1D,EPA
 N3NQP,1D,WPA
 N3NR,1D,EPA
 N3NZ,1D,EPA
-N3OA,1D,ME,Ellsworth ARA 
+N3OA,1D,ME,Ellsworth ARA
 N3OAW,1D,EPA,State Line RC
 N3OBY/MM,1C,EPA
 N3OC,1E,MDC,W3AO Team
@@ -9715,7 +9715,7 @@ N4KN,5A,TN,(W4GGM GOTA) Maury ARC
 N4KPT,1B,TN
 N4KS,1D,NFL,Florida Contest Grp.
 N4KW,1D,NC,Orange Co. Radio Amateurs and Durham FM Assn.
-N4KXO,1D,NFL,Lake ARA 
+N4KXO,1D,NFL,Lake ARA
 N4KZS,1D,TN,Bristol (TN) ARC
 N4L,2A,TN,Cumberland Plateau ARC
 N4LCA,3A,KY,Lake Cumberland ARA
@@ -9914,7 +9914,7 @@ N5DGK,1B,LA,Baton Rouge ARC
 N5DLX,1E,NTX
 N5DN,1D,NTX,North Richland Hills ARC
 N5DTT,1D,STX,Brazos Valley ARC
-N5DU,2D,MS,Central Mississippi ARA 
+N5DU,2D,MS,Central Mississippi ARA
 N5DWV,1D,NTX
 N5EBH,1D,STX,Lakes Area (TX) ARC
 N5EBW,1D,NTX,Rockwall ARC
@@ -10130,7 +10130,7 @@ N6CST,1D,EB
 N6CTB,1D,ORG,Orange County (CA) ARC
 N6CUQ,1D,SV
 N6D,2D,ORG,Morongo Basin ARC
-N6DB,1E,SCV,Palo Alto ARA 
+N6DB,1E,SCV,Palo Alto ARA
 N6DEC,1D,LAX,San Fernando Valley ARC
 N6DME,1E,SFL,Everglades ARC
 N6DPL,1D,ORG
@@ -10495,7 +10495,7 @@ N8BRO,1D,MI,USECA
 N8BV,1D,OH,Oh-Ky-In ARS
 N8BVD,1D,OH,Splinter Grp. ARC
 N8CBA,1D,MI,Blossomland ARA
-N8CD,1D,OH,Silvercreek ARA 
+N8CD,1D,OH,Silvercreek ARA
 N8CDY,1D,OH
 N8CJ,1E,OH,Central Ohio Operators Klub
 N8CLZ,1B,MI,Utica Shelby Emergency Comms Assn
@@ -10514,7 +10514,7 @@ N8DJW,1D,WV,West Virginia Amateur Radio
 N8DM,1D,WCF
 N8DMT,1B,IL
 N8DNA,1D,OH
-N8DNG,1D,OH,Mound ARA 
+N8DNG,1D,OH,Mound ARA
 N8DNX,1D,MI,Charlevoix/Cheboygan/Emmet Co Pub Srvc Comms Org
 N8DNZ,2C,AL
 N8DXR,1D,MI,Monroe County Radio Communications Assn
@@ -10523,7 +10523,7 @@ N8DZM,1D,OH,Massillon ARC
 N8EE,1D,OH,Marion ARC
 N8EFO,2B,OH
 N8EH,1D,OH,Dial RC of Middletown
-N8EI,1E,OH,Silvercreek ARA 
+N8EI,1E,OH,Silvercreek ARA
 N8EME,1C,EPA,W3AO Team
 N8EPG,1D,OH,West Chester ARA
 N8ERF,1D,MI,Midland (MI) ARC
@@ -10566,7 +10566,7 @@ N8JEN,1D,OH,Portsmouth (OH) RC
 N8JFJ,1D,MI
 N8JIA,1E,STX
 N8JK,1D,OH
-N8JLM,1D,OH,Silvercreek ARA 
+N8JLM,1D,OH,Silvercreek ARA
 N8JTQ,1D,MI,Top of Michigan ARC
 N8JTV,1D,MI
 N8JXJ,1B,OH,Mound ARA
@@ -10834,7 +10834,7 @@ N9OL,1B,IN,Tri State ARS
 N9OQC,1D,IL,Iroquois Co. ARC
 N9PG,1D,WI
 N9PGG,1D,NC,South Wake ARC
-N9PIT,1D,GA,Glynn ARA 
+N9PIT,1D,GA,Glynn ARA
 N9PKL,1D,IN,Grant Co. ARC
 N9PQ,1E,IN
 N9PQJ,1D,WI,N9UDO Memorial Field Day
@@ -10947,7 +10947,7 @@ NA6Q,1D,LAX,United Radio Amateur Club
 NA6US,1D,OR,VMware ARC
 NA6Y,1D,NNY
 NA7C,4A,UT,(W7S GOTA) Sandy ARC
-NA7CS,2E,AZ,Maricopa ARA 
+NA7CS,2E,AZ,Maricopa ARA
 NA7DO,1D,WWA
 NA7L,2D,EPA
 NA7MS,1D,ID,HP Boise ARC
@@ -11066,7 +11066,7 @@ NE4H,1D,NFL,Orlando ARC
 NE4S,1D,GA,South East Contest Club
 NE5A,1D,OK
 NE5B,1D,STX,Texas DX Soc
-NE5ET,1D,NTX,Lewisville ARA 
+NE5ET,1D,NTX,Lewisville ARA
 NE5IL,1D,NTX,Plano ARC
 NE5P,1D,STX,Oak Hill ARC
 NE5S,3A,AR,(K5PXP GOTA) Arkansas River Valley ARF
@@ -11112,7 +11112,7 @@ NF9B,2A,IN,Wildcat Creek DX and Contest Club
 NF9V,1D,WI,Watertown ARC
 NF9Z,1D,IL
 NG0E,1B,MN,Minnesota Wireless Assn.
-NG1F,1D,ME,Aroostook ARA 
+NG1F,1D,ME,Aroostook ARA
 NG1I,1D,WMA
 NG1M,1D,RI,CTRI Contest Group
 NG2A,1D,SFL,Davie/Cooper City ARC
@@ -11238,8 +11238,8 @@ NM9J,1D,ENY,Peekskill / Cortlandt ARA
 NM9O,1B,WI,Four Lakes ARC
 NN0G,1D,CO,Parker Radio Assn.
 NN0JS,1D,MO,MID-MO ARC
-NN2AJO,1D,SNJ,Garden State ARA 
-NN2K,1D,WNY,Binghamton ARA 
+NN2AJO,1D,SNJ,Garden State ARA
+NN2K,1D,WNY,Binghamton ARA
 NN2L,1E,WNY
 NN2NN,1D,WNY,Niagara Frontier Radiosport
 NN3I,1B,MDC,Columbia (MD) ARA
@@ -12158,7 +12158,7 @@ VE3HZ,1D,ONS,Kitchener-Waterloo ARC
 VE3IBW,1E,GH,York Region ARC
 VE3IC,6A,ONS,Kitchener-Waterloo ARC
 VE3IDT,1D,ONS,London ARC
-VE3IDX/W1,1D,EMA,Framingham ARA 
+VE3IDX/W1,1D,EMA,Framingham ARA
 VE3IEM,1D,ONE,Quinte & Prince Edward RCs
 VE3IGG,1D,GH,York Region ARC
 VE3IGJ,1B,ONE,Ottawa ARC
@@ -12534,7 +12534,7 @@ VE7LGY,3A,BC,Langley ARA
 VE7LIO,1D,BC,Richmond ARC
 VE7LO,1D,BC,Delta ARS
 VE7LRV,1B,BC,
-VE7LSE,1B,BC,Nanaimo ARA 
+VE7LSE,1B,BC,Nanaimo ARA
 VE7LSI,1D,BC,
 VE7LWK,1B,BC,North Okanagan RAC
 VE7MHW,1E,BC,
@@ -12772,7 +12772,7 @@ W0JWT,1D,MO,Raytown ARC
 W0JYM,1E,CO
 W0KAH,1E,MO,Emergency Communications Assn.
 W0KCK,2A,KS,Wyandotte Co. RACES/CERT
-W0KD,1D,LA,Shreveport ARA 
+W0KD,1D,LA,Shreveport ARA
 W0KDM,1B,SB
 W0KEM,3F,MO,Hannibal ARC
 W0KI,1E,CO
@@ -12933,7 +12933,7 @@ W1ANT,1B,CO,Boulder ARC
 W1AQ,1A,RI,Assoc. Radio Amateurs of So. New England
 W1ARR,1D,RI
 W1ARY,1D,CT
-W1AS,1D,CT,Northville ARA 
+W1AS,1D,CT,Northville ARA
 W1ASP,2B,VT
 W1AST,1D,WMA,Hampden County Radio Assn
 W1AUT,1D,EMA,Blackstone Valley ARC
@@ -12947,7 +12947,7 @@ W1BCG,1A,CT,Shoreline ARC
 W1BD,2A,VT,Central VT ARC
 W1BIM,3A,WMA,Central MA ARA
 W1BLU,1D,SFL,Martin County ARA
-W1BNC,1D,WMA,Central Mass ARA 
+W1BNC,1D,WMA,Central Mass ARA
 W1BOS,4A,EMA,Boston ARC
 W1BPM,2A,NH,Live Free or Die
 W1BPT,2F,CT,Greater Bridgeport ARC
@@ -13021,12 +13021,12 @@ W1FSH,1B,WMA,Montachusett ARA
 W1FSR,1C,EMA,Cape Ann ARA
 W1FWE,1D,CT,Tri-City ARC of CT
 W1FWS,1D,ME,St. Croix Valley ARC
-W1FX,1D,EMA,Falmouth ARA 
+W1FX,1D,EMA,Falmouth ARA
 W1FY,3A,EMA,Framingham ARA
 W1FYG,1E,CT
 W1FZ,3A,NH,Great Bay Radio Assn.
 W1G,1B,VT,Littleton Area Radio Klub
-W1GD,1D,WMA,Central Mass ARA 
+W1GD,1D,WMA,Central Mass ARA
 W1GF,1D,ME,Wireless Soc of Southern Maine
 W1GHD,1E,CT
 W1GKT,1E,AL
@@ -13074,7 +13074,7 @@ W1KBN,2D,EMA,Northeastern Univ. ARC
 W1KDA,2F,RI,(KC1CUE GOTA) Coventry EMA
 W1KEN,1D,WCF,Blackstone Valley ARC
 W1KES,1D,NC,Orange Co. Radio Amateurs & Durham FM Assn.
-W1KM,1E,EMA,Falmouth ARA 
+W1KM,1E,EMA,Falmouth ARA
 W1KMA,1D,RI
 W1KU,1B,NFL,Framingham ARA
 W1KX,1A,ME,Bass Hill Repeater Grp.
@@ -13120,7 +13120,7 @@ W1OHM,1E,NH
 W1OP,3A,RI,Providence Radio Assn.
 W1OPR,1D,ME
 W1ORS,2E,CT,Stratford ARC
-W1PA,1D,WMA,Central Mass ARA 
+W1PA,1D,WMA,Central Mass ARA
 W1PAC,1D,EMA,North Shore RA
 W1PB,2A,WCF,Zephyrhills Area ARC
 W1PBR,2A,ME,Pen Bay ARC
@@ -13174,7 +13174,7 @@ W1TM,1B,RI
 W1TNX,1E,NC
 W1TO,1D,WMA,Northern Berkshire ARC
 W1TOM,2A,WMA,Mt. Tom Amateur Repeater Assn.
-W1TR,1D,CT,Central Mass ARA 
+W1TR,1D,CT,Central Mass ARA
 W1TRK,1B,WMA
 W1TS,1D,CT
 W1TU,3A,ME,Ellsworth Amateur Wireless Assn.
@@ -13195,7 +13195,7 @@ W1VR,1D,NFL,One Old Timer
 W1WAB,1D,WCF
 W1WDT,4F,CT,Woodmont ARA
 W1WEF,1D,EMA,Barnstable ARC
-W1WH,1D,EMA,Falmouth ARA 
+W1WH,1D,EMA,Falmouth ARA
 W1WIU,1D,RI
 W1WQM,3A,NH,(K1R GOTA) Port City ARC
 W1WRG,2A,CT,Meriden ARC
@@ -13355,7 +13355,7 @@ W2NRS,1D,SNJ,Old Barney ARC
 W2NTN,1B,EMA
 W2NTV,1D,ENY,QSY Soc.
 W2NYW,2A,ENY,Peekskill Cortlandt ARA
-W2OD,1D,NNJ,Garden State ARA 
+W2OD,1D,NNJ,Garden State ARA
 W2ODH,1D,AZ,AZVHFS
 W2OFQ,4A,WNY,Rome RC
 W2OK,1E,MDC,Maryland Mobileers ARC
@@ -13367,7 +13367,7 @@ W2OZB,1D,STX,Brazos Valley ARC
 W2PE,3A,WNY,Radio Assn. of Western NY
 W2PJ,1D,WNY,Niagara Frontier Radiosport
 W2PLK,1D,ENY,Warren Co. Radio Club
-W2PSK,1D,NNJ,Garden State ARA 
+W2PSK,1D,NNJ,Garden State ARA
 W2PTP,1D,NNJ,New Providence ARC
 W2PVY,1D,VA,Albemarle ARC
 W2PW,1D,NLI,Great South Bay ARC
@@ -13533,7 +13533,7 @@ W3GYM,1D,WCF,The Villages ARC
 W3H,3F,MDC,(KC3FHC GOTA) Harford Co. ARES RACES
 W3HA,2A,EPA,Carbon ARC
 W3HAC,2A,MDC,HacDC ARC
-W3HBM,1E,ME,Ellsworth ARA 
+W3HBM,1E,ME,Ellsworth ARA
 W3HDG,1D,WPA
 W3HDH,1D,IL,Nittany ARC
 W3HF,1D,EPA,PODXS 070
@@ -13739,7 +13739,7 @@ W4BCG,1D,TN
 W4BCI,1D,WCF,BCI Comm. ARC
 W4BCU,1B,TN,Bristol ARC
 W4BFB,2A,NC,Mecklenburg ARS
-W4BFL,1C,SFL,Boca Raton ARA 
+W4BFL,1C,SFL,Boca Raton ARA
 W4BFT,2A,SC,Beaufort Radio Amateur Grp.
 W4BH,1D,NFL,Northern Arizona DX Assn
 W4BHJ,1D,NC
@@ -13823,7 +13823,7 @@ W4DXM,1E,SFL,DX Marathon Club
 W4DXZ,1D,VA,Western Tidewater RA
 W4E,2A,SFL,Dade RC of Miami
 W4ECA,1F,GA,SEDARES
-W4ED,1D,GA,Sawnee ARA 
+W4ED,1D,GA,Sawnee ARA
 W4EDF,1E,VA
 W4EE,1D,SFL,Florida Contest Grp.
 W4EF,1D,LAX,Pasadena RC
@@ -13929,7 +13929,7 @@ W4KBR,2F,KY,(KY4KY GOTA) Bullitt ARS
 W4KD,1B,OH
 W4KDA,1D,GA,Gwinnett ARS
 W4KDK,1D,TN,West TN ARS
-W4KEK,1D,ENY,Boca Raton ARA 
+W4KEK,1D,ENY,Boca Raton ARA
 W4KEL,2B,VA
 W4KFC,2E,MDC,Potomac Valley RC
 W4KIL,1D,NC,Orange Co. Radio Amateurs & Durham FM Assn.
@@ -14146,7 +14146,7 @@ W4VS,1D,GA,Valdosta ARC
 W4VU,1D,NC,Alamance ARC
 W4W,5A,TN,(W4OLB GOTA) Smoky Mountain ARC
 W4WC,5A,TN,Andrew Johnson ARC
-W4WCD,1D,SFL,Boca Raton ARA 
+W4WCD,1D,SFL,Boca Raton ARA
 W4WDK,1D,VA
 W4WIG,1E,GA
 W4WKU,1B,KY
@@ -14329,14 +14329,14 @@ W5JHC,1D,OK,Tulsa ARC
 W5JJJP,1D,STX
 W5JJR,1D,NTX,North Richland Hills ARC
 W5JJT,1E,NM
-W5JK,1D,NTX,Lewisville ARA 
+W5JK,1D,NTX,Lewisville ARA
 W5JOC,1B,NM
 W5JP,1D,NTX,Northeast Tarrant ARC
 W5JPT,1D,NTX
 W5JR,1D,GA,North Fulton ARL
 W5K,3A,STX,(W5K GOTA) Hays/Caldwell ARC
 W5KA,3A,STX,Austin ARC
-W5KF,1D,ME,Aroostook ARA 
+W5KF,1D,ME,Aroostook ARA
 W5KFX,1B,NTX
 W5KRK,2A,AR,Hogville ARC
 W5KS,3A,OK,DFW Contest Grp.
@@ -14494,7 +14494,7 @@ W5YIU,1B,STX
 W5YL,1A,LA,Thibodaux ARC
 W5YM,1A,AR,ARC at University of Arkansas
 W5YO,3A,AR,(N5BVA GOTA) Bella Vista RC
-W5YS,1D,NTX,Lewisville ARA 
+W5YS,1D,NTX,Lewisville ARA
 W5YZ,1B,NM
 W5ZBT,1D,NTX,Plano AR Klub
 W5ZDN,2A,NTX,Heart O' Texas ARC
@@ -14510,7 +14510,7 @@ W6AGZ,1B,OR
 W6AJF,3A,SF,Valley of the Moon ARC
 W6AJR,1D,SCV
 W6AOY,1D,SF
-W6APZ,1C,SCV,Palo Alto ARA 
+W6APZ,1C,SCV,Palo Alto ARA
 W6AQ,1B,LAX,CITARC/JPLARC/PRC/SPARC
 W6ARA,2A,SCV,Palo Alto ARA
 W6ART,1E,SDG
@@ -14804,7 +14804,7 @@ W6ZZK,5A,SF,Humboldt ARC
 W6ZZZ,12A,SCV,(K6EI GOTA) West Valley ARA
 W7A,1B,EWA
 W7AAU,1E,OR
-W7AB,1D,NV,Comstock ARA 
+W7AB,1D,NV,Comstock ARA
 W7ABF,2A,WWA,Radio Amateurs of Skagit Co.
 W7ACS,2A,WWA,(W7AW GOTA) PSRG/WSARC/Seattle ACS
 W7AI,2F,AZ,(K7T GOTA) Oro Valley ARC
@@ -15057,7 +15057,7 @@ W7VOI,3A,ID,Voice of Idaho RC
 W7VQ,3A,UT,(K7DAV GOTA) Davis Co. ARC
 W7VW,5A,OR,Klamath Basin ARA
 W7VXS,1D,WWA,Boeing Employees ARS
-W7VY,1D,NV,Comstock ARA 
+W7VY,1D,NV,Comstock ARA
 W7W,3A,ID,3 Rivers ARC
 W7WA,1E,WWA,Western WA DX Club
 W7WEB,1E,EB,Oakland Radio Communication Assn
@@ -15104,7 +15104,7 @@ W8AKR,1B,OH
 W8AL,2A,OH,Canton ARC
 W8AN,1B,OH
 W8AND,1D,MI
-W8ANG,1D,GA,Glynn ARA 
+W8ANG,1D,GA,Glynn ARA
 W8APP,2E,MI
 W8ASA,1D,OH,Bellbrook ARC
 W8AT,1D,WV,Central West Virginia Wireless Assn.
@@ -15124,7 +15124,7 @@ W8BLR,1E,MDC,Carroll County MD ARC
 W8BLV,3A,OH,(K8PI GOTA) Dial RC of Middletown
 W8BM,6A,OH,Cuyahoga ARS
 W8BO,1D,OH,Survivors Of Broadcast
-W8BR,1E,OH,Newark Ohio ARA 
+W8BR,1E,OH,Newark Ohio ARA
 W8BRY,1E,VA,Shenandoah Valley ARC
 W8BUD,1B,MI
 W8BXG,2A,OH,Bearcat DX Club
@@ -15154,7 +15154,7 @@ W8DLK,1E,MI,Lapeer Co. ARA
 W8DOW,1D,MI,Garden City ARC
 W8DPK,1E,OH,Madison Co. ARC
 W8DSI,1D,NC
-W8DUQ,1D,WV,Tri-State ARA 
+W8DUQ,1D,WV,Tri-State ARA
 W8DW,1E,MI,Saginaw Valley ARA
 W8DWL,2A,MI,(W8PI GOTA) Monroe Co. Radio Comm. Assn.
 W8DYY,3D,OH,Mound ARA
@@ -15174,7 +15174,7 @@ W8EYU,3A,TN,(K4T GOTA) Cumberland Plateau ARC
 W8EZT,1E,OH,Cuyahoga Falls ARC
 W8FD,1D,OH,Central Ohio Operators Klub
 W8FFF,1E,MI,South Lyon Area ARC
-W8FHF,1D,OH,Cambridge ARA 
+W8FHF,1D,OH,Cambridge ARA
 W8FJ,1D,EPA,Frankford RC
 W8FN,1D,NC,DFW Contest Group
 W8FNG,1D,OH
@@ -15279,7 +15279,7 @@ W8O,3A,MI,(W8TNO GOTA) Oakland Co. ARS
 W8OBC,4A,OH,All Things ARA
 W8OG,2A,OH,Clark Co. ARA
 W8OMR,1F,OH,Ohio Military Reserve ARG
-W8OP,1D,WV,Mountaineer ARA 
+W8OP,1D,WV,Mountaineer ARA
 W8ORC,3A,OH,Summit Co. ARS
 W8ORS,3A,WV,Opequon Radio Soc.
 W8OU,1D,OK,Edmond ARS
@@ -15357,8 +15357,8 @@ W8WCQ,1D,OH,Hamilton (OH) ARC
 W8WE,6A,OH,Intercity ARC
 W8WEJ,1E,WV
 W8WFD,1D,OH
-W8WGR,3D,OH,Mound ARA 
-W8WGT,1D,OH,Mound ARA 
+W8WGR,3D,OH,Mound ARA
+W8WGT,1D,OH,Mound ARA
 W8WKY,7A,OH,Silvercreek ARA
 W8WLI,1D,OH,Parma RC
 W8WLK,1E,OH,Madison County (OH) ARC
@@ -15678,7 +15678,7 @@ WA0ZOG,1D,MO,Mid-MO ARC
 WA0ZQG,1E,IA,Southwest IA ARC
 WA1BXY,1E,NFL,Florida Contest Grp.
 WA1CFX,1D,EMA,Waltham ARA
-WA1DRQ,1D,EMA,Falmouth ARA 
+WA1DRQ,1D,EMA,Falmouth ARA
 WA1DXO,1D,ME,St. Croix Valley ARC
 WA1ENO,1E,EMA,Ski Country ARC
 WA1FFT,1D,CT
@@ -15704,7 +15704,7 @@ WA1PMA,1D,NFL,Sun Country ARS
 WA1Q,1D,EMA,Whitman ARC
 WA1QKT,1E,WMA,Hampden Co. Radio Assn.
 WA1QZK,3A,EMA,Town of Middleton RACES
-WA1RC,1D,EMA,Falmouth ARA 
+WA1RC,1D,EMA,Falmouth ARA
 WA1RIW,1D,EMA,Whitman ARC
 WA1RWO,2E,NFL,FVFD21
 WA1S,1D,NFL,Florida Contest Grp.
@@ -15716,7 +15716,7 @@ WA1VKO,1D,NH
 WA1WEE,1D,RI,Providence Radio Assn.
 WA1YZN,1E,NH,Cheshire Co. DX ARC
 WA1Z,2D,NH
-WA1ZU,1D,ENY,Northville ARA 
+WA1ZU,1D,ENY,Northville ARA
 WA1ZYX,1D,NH,Cheshire Co. DX ARC
 WA2AAZ,5A,WNY,Drumlins ARC/Skenoh Island ARC
 WA2ACV,1D,SNJ,Old Barney ARC
@@ -15747,7 +15747,7 @@ WA2IBZ,1D,SNJ,Gloucester Co. ARC
 WA2ILY,1D,CT
 WA2IMS,1D,NNJ,Morris RC/ Hanover Twp OEM
 WA2JLW,1E,NC
-WA2JOE,1B,NNJ,Garden State ARA 
+WA2JOE,1B,NNJ,Garden State ARA
 WA2JQK,1D,ENY,Hudson Valley Contesters and DXers
 WA2JQZ,1D,CO,Pikes Peak Radio Amateur Assn
 WA2KBZ,1E,MO,Mid-MO ARC
@@ -15755,7 +15755,7 @@ WA2KDL,5A,LAX,(W6TRW GOTA) W6TRW ARC
 WA2KLP,1D,ENY
 WA2LMC,1D,NC
 WA2LTH,1D,WNY,Squaw Island ARC
-WA2LXB,1C,WNY,Tompkins County ARA 
+WA2LXB,1C,WNY,Tompkins County ARA
 WA2MCR,1D,ENY,Peekskill / Cortlandt ARA
 WA2MCT,1D,STX
 WA2MFU,1D,GA
@@ -15772,7 +15772,7 @@ WA2SUH,1D,NLI,Long Island Mobile ARC
 WA2TMB,1D,WNY
 WA2TMF,1B,SNJ
 WA2TOP,1D,STX
-WA2TPQ,1B,WNY,Tompkins County ARA 
+WA2TPQ,1B,WNY,Tompkins County ARA
 WA2UAR,1D,EPA,Holmesburg ARC
 WA2UBK,1D,NNJ,Frankford RC
 WA2USA,1D,IN,Tri State ARS
@@ -16205,7 +16205,7 @@ WB0VGI,1D,MN,Mora Open Repeater Assn
 WB0WIV,1D,IA
 WB0YLA,2A,IA
 WB0ZHB,1E,MO,NEMO ARC
-WB1AEL,1D,NH,Central Mass ARA 
+WB1AEL,1D,NH,Central Mass ARA
 WB1BWQ,1E,WTX
 WB1CWI,1D,EMA,Falmouth ARA
 WB1CZX,1D,NC,Albemarle ARS
@@ -16413,7 +16413,7 @@ WB6CZG,1B,SCV,Northern California Contest Club
 WB6DHI,1D,AZ,MARCA
 WB6DIK,1D,ORG,Desert Radio Amateur Transmitting Soc.
 WB6EGI,1E,LAX,SCAN/Red Ant Annihilators
-WB6EWM,1D,SCV,San Benito County ARA 
+WB6EWM,1D,SCV,San Benito County ARA
 WB6FRZ,1E,SF,Sonoma Co. Radio Amateurs
 WB6HII,1D,OR
 WB6HLS,1D,LAX,South Bay ARC
@@ -16484,7 +16484,7 @@ WB8DC,1C,OH,Not Quite Workable Contest Club
 WB8EJN,1D,MO,Boeing Employees ARS - St. Louis
 WB8ENE,1D,OH
 WB8FXJ,1D,WCF,Tamiami ARC
-WB8III,1E,WV,Mountaineer ARA 
+WB8III,1E,WV,Mountaineer ARA
 WB8JAY,1B,OH
 WB8JB,1E,OH,Scioto Valley ARC
 WB8JUI,1E,OH,Not Quite Workable Contest Club
@@ -16514,7 +16514,7 @@ WB8WUA,1D,OH,Straight Key Century Club
 WB8YHD,1E,OH,Mahoning Valley ARA
 WB8YNR,4F,WV,(W8VA GOTA) Tri-State ARA
 WB8YYY,1E,MDC,Carroll Co. ARC
-WB8ZGH,1D,OH,Lake County ARA 
+WB8ZGH,1D,OH,Lake County ARA
 WB8ZTP,1D,OH,CRES ARC
 WB8ZXU,1D,AZ,Chandler Ham RC
 WB8ZZR,2E,OH,Clinton County ARA
@@ -16757,12 +16757,12 @@ WE7G,1D,AZ,Hualapai ARC
 WE7H,1D,AZ
 WE7P,1D,WWA,Radio Club of Tacoma
 WE8DX,1D,OH,Central Ohio Contest Assn
-WE8J,1D,GA,Glynn ARA 
+WE8J,1D,GA,Glynn ARA
 WE8L,1D,OH
 WE8M,1D,OH,OH-KY-IN ARS
 WE8R,1D,NFL,Drake ARC
 WE8T,1D,OH,JeffersonOH
-WE8V,1D,OH,Newark Ohio ARA 
+WE8V,1D,OH,Newark Ohio ARA
 WE9N,1D,NTX,North Richland Hills ARC
 WF0RT,2A,IA,Ft. Madison ARC
 WF1T,1D,NH
@@ -17202,7 +17202,7 @@ WX0MWL,1D,MO,Raytown ARC
 WX0ND,1A,ND,(N0LAC GOTA) Lake Agassiz RC
 WX1J,1D,MI,Cherryland ARC
 WX1NE,4A,NH,(W1BST GOTA) Lakes Region Repeater Assn.
-WX1O,1D,VT,Addison County ARA 
+WX1O,1D,VT,Addison County ARA
 WX1USN,1D,EMA
 WX1W,1D,CT,Hop River RC
 WX2C,1D,EPA,Alamance ARC
@@ -17241,7 +17241,7 @@ WX5MC,2A,OK,Mayes Co. ARC
 WX5MOR,1E,OK,South Canadian ARS
 WX5RJ,1F,MS,Mississippi Coast ARA
 WX5SKY,1B,OK
-WX6A,1D,SCV,South Bay ARA 
+WX6A,1D,SCV,South Bay ARA
 WX6B,1D,SF,Redwood Empire DX Assn./MARS
 WX7P,1D,EWA
 WX7V,1E,NTX,Richardson Wireless Klub

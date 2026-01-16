@@ -1,8 +1,8 @@
 ﻿
-!!Order!!, Call, Sect, 
+!!Order!!, Call, Sect,
 # Database for European HF Championship 2021
 # Based on preleminary works by EA2AOO and VE2FK
-# Created by RM1F software. 
+# Created by RM1F software.
 # Total 3066 unique entries.
 # Send new info/corrections DIRECT ve2fk@arrl.net
 # LastEdit,2023-08-01

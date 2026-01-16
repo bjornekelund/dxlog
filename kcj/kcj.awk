@@ -16,17 +16,17 @@ BEGIN {
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
+  }
   else if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $col ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/) 
+    $col ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/)
   {
-    if (calls[$call] != "") 
+    if (calls[$call] != "")
     {
-      if (exch[$call] != $col) 
+      if (exch[$call] != $col)
       {
         printf("Conflict for call %s: %s and %s\n", $call, $col, exch[$call]) > "/dev/stderr";
-      }     
+      }    
     }
     else
     {
@@ -35,7 +35,7 @@ BEGIN {
       exch[$1] = $col;
     }
   }
-  else if ($0 !~ /^(#|!|$)/) 
+  else if ($0 !~ /^(#|!|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

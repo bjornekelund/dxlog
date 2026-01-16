@@ -1,5 +1,5 @@
 #@2025
-# Database for YOTA Contest 
+# Database for YOTA Contest
 # Based on sent logs from 2023-2024
 # Total 5669 unique entries.
 # Created by HA3LN csaba@ha3ln.hu

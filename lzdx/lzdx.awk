@@ -16,12 +16,12 @@ BEGIN {
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
+  }
   else if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $col ~ /^(BU|BL|VN|VT|VD|VR|GA|DO|KA|KD|LV|MN|PA|PK|PL|PD|RZ|RS|SS|SL|SM|SF|SO|SZ|TA|HA|SN|YA)$/) 
+    $col ~ /^(BU|BL|VN|VT|VD|VR|GA|DO|KA|KD|LV|MN|PA|PK|PL|PD|RZ|RS|SS|SL|SM|SF|SO|SZ|TA|HA|SN|YA)$/)
   {
-    if (line[$call] != "") 
+    if (line[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }

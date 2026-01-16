@@ -7,7 +7,7 @@ BEGIN {
   longest = "";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -23,12 +23,12 @@ BEGIN {
     if ($4 ~ /Misc/) mem = 3;
     if ($5 ~ /Misc/) mem = 4;
     printf("%s --> call=%d name=%d loc=%d mem=%d\n", $0, call, name, loc, mem) > "/dev/stderr";
-  } 
+  }
   else if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
     $name ~ /^([a-zA-Z]*|)$/ && $loc ~ /^[A-Z]+|$/ && $mem ~ /^([0-9]*|)$/)
   {
-    if (calls[$call] != "") 
+    if (calls[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr"
     }
@@ -44,7 +44,7 @@ BEGIN {
       names[$call] = "";
       printf("Name is \"%s\" for %s\n", $name, $call) > "/dev/stderr";
     }
-    
+   
     num[$call] = $mem ~ /^[0-9]+$/ ? $mem : "0";
 
     if ( \
@@ -66,7 +66,7 @@ BEGIN {
     }
     longest = length($name) > length(longest) ? $name : longest;
   }
-  else if ($0 !~ /^(!|#|$)/) 
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
@@ -74,7 +74,7 @@ BEGIN {
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
   printf("#03 Longest name is \"%s\" with %d characters)\n", longest, length(longest));
-  for (c in calls) 
+  for (c in calls)
   {
     printf("%s=%s;%s;%s\n", calls[c], names[c], num[c], location[c]);
   }

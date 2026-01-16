@@ -14,15 +14,15 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Exch1/) col = 1;
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
 #    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
-  } 
-  else 
+  }
+  else
   {
     if ($1 ~ /^[0-9,A-Z,\/]+$/ && $col ~ /^(0?[1-9]|[1-3][0-9]|40)$/)
       printf("%s=%02d\n", $1, $col);

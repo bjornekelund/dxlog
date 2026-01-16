@@ -46,7 +46,7 @@ N0Q,Randy,,K7TQ - 26 counties
 W0Q,Darrel,JAC,KC0ATQ - Jackson
 K0P,Mike,BUT,K0PY - Butler
 N0P,Morgan,SHA,NS0R - Shawnee
-W0P,Duffey,,KK6MC - ROVER 
+W0P,Duffey,,KK6MC - ROVER
 K0T,Tony,,KD8RTT - 4 counties
 N0T,Jon,,N0JK - PORTABLE
 W0T,Wayne,BUT,KD0WAT - Butler
@@ -74,12 +74,12 @@ KB0DTI,,LIN,LINN
 K0ASA,,WAS,WASHINGTON
 KS0KS,,,BONUS
 AD0IM,,JOH,Johnson
-K0AVN,,JEF,Jefferson SSB 
+K0AVN,,JEF,Jefferson SSB
 KA0DJR,,LEA,Leavenworth
 KE0SYO,,JEW,Jewell
 N0CS,,FIN,Finney
 W0SDK,,NEO,Neosho
-W0WND,,FOR,Ford 
+W0WND,,FOR,Ford
 
 # Out of KS US States and CDN Prov.
 AA0AC,DAVE,MN,

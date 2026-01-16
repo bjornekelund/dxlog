@@ -2,7 +2,7 @@
 # QSOP_NJ
 # QSOPARTY NJ
 # Last Edit, 2025-12-29
-# Send new info/corr. DIRECT to ve2fk@arrl.net 
+# Send new info/corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help
 # NJ DATA from 2023 results
 # NJ Fixe/Mobile/Rover/Portable

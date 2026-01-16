@@ -15,15 +15,15 @@ BEGIN {
   {
     line[num++] = $0;
   }
-  else 
+  else
   {
     if (call[$1] == "")
     {
-      if ($2 == "" && ($3 == "" || $3 !~ /^[A-Z]{2,3}$/)) 
+      if ($2 == "" && ($3 == "" || $3 !~ /^[A-Z]{2,3}$/))
       {
         printf("%s is missing data\n", $0) >> "/dev/stderr";
       }
-      else 
+      else
       {
         call[$1] = $1;
         calline[$1] = $0;

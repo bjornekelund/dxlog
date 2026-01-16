@@ -63,7 +63,7 @@ BEGIN {
   callok = $1 ~ /^[0-9,A-Z,\/]+$/;
   hyphenated = $2 ~ /^[A-Za-z]{2,10}[\- ][A-Za-z]{2,10}/;
 
-  if (hyphenated) 
+  if (hyphenated)
   {
     p = $2 ~ /\-/ ? index($2, "-") : index($2, " ");
     name = substr($2, 1, p - 1);
@@ -71,40 +71,40 @@ BEGIN {
   }
 
   nameok = name ~ /^([A-Za-z]{2,15})$/;
-  
+ 
   if (name ~ /[Cc]lub/)
     name = "";
 
-  if (callok) 
+  if (callok)
   {
-    if (nameok) 
+    if (nameok)
     {
-      if (calls[$1] == "") 
+      if (calls[$1] == "")
       {
         # First membership
         calls[$1] = $1;
         names[$1] = name;
         mem1[$1] = $3;
       }
-      else 
+      else
       {
         calls[$1] = $1;
-        if (names[$1] != name) 
+        if (names[$1] != name)
         {
           printf("Name overwrite for %s: \"%s\" --> \"%s\"\n", $1, names[$1], name) > "/dev/stderr";
         }
         names[$1] = name;
-        mem2[$1] = $3;      
+        mem2[$1] = $3;     
       }
     }
-    else 
+    else
     {
       printf("Problematic name \"%s\" for %s\n", $2, $1) > "/dev/stderr";
     }
 
   }
 }
-END { 
+END {
 #  printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
   printf("!!Order!!,Call,Name,Exch1,Misc,UserText\n")
   printf("# AGCW-NTC Friendship QSO Party prefill database\n");

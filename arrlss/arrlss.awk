@@ -28,7 +28,7 @@ BEGIN {
     ($call ~ /^(C[FG]|V[A-EOY])[0-9]([A-Z]+$|\/)|\/V[EOY][0-9]$/ && $sect ~ /^(|AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/)) && \
     $check ~ /^([0-9]{,2})$/)
   {
-    if (calls[$call] != "" && (precs[$call] != "" || checks[$call] != $check || sects[$call] != $sect)) 
+    if (calls[$call] != "" && (precs[$call] != "" || checks[$call] != $check || sects[$call] != $sect))
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
@@ -47,7 +47,7 @@ BEGIN {
   }
 }
 END {
-  for (cs in calls) 
+  for (cs in calls)
   {
     printf("%s=%s;%s;%s\n", cs, precs[cs], checks[cs], sects[cs]);
   }

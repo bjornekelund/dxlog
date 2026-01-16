@@ -7,7 +7,7 @@ BEGIN {
   longest = "";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -20,20 +20,20 @@ BEGIN {
     if ($4 ~ /Exch1/) exch = 3;
     if ($5 ~ /Exch1/) exch = 4;
     printf("%s --> call=%d name=%s exch=%s\n", $0, call, nm, exch) > "/dev/stderr";
-  } 
-  else 
+  }
+  else
   {
     name = toupper($nm);
     namevalid = name ~ /^[A-Za-z]{2,}$/;
     ok = 0;
 
-    if (!namevalid && name != "" && $0 !~ /^(#|!|$)/) 
+    if (!namevalid && name != "" && $0 !~ /^(#|!|$)/)
     {
       printf("Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
       name = "";
     }
 
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && namevalid) 
+    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && namevalid)
     {
       # printf("$call=%s name=%s ID=%s\n", $call, name, ID) > "/dev/stderr";
       if ($call ~ /^(A[A-L]|[KNW][A-Z]?)|\/(KL|KH|W)[0-9]$/ && $call !~ /V[EOY][0-9]$/)
@@ -60,7 +60,7 @@ BEGIN {
           printf("Problem Canadian entry: \"%s\"\n", $0) > "/dev/stderr";
         }
       }
-      else 
+      else
       {
         printf("%s=%s;%s\n", $call, name, "");
         longest = length(name) > length(longest) ? name : longest;

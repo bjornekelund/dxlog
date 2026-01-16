@@ -2,7 +2,7 @@
 # ALLASIA
 # JARTSWWRTY
 # LastEdit,2025-10-20
-# Original file from IZ/W0IZ 
+# Original file from IZ/W0IZ
 # Updated from log of VE2FK 2025
 # Thanks to Bjorn SM7IUN for editing file for 2026
 2E0CVN,39,

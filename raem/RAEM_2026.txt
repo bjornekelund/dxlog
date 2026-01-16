@@ -1,8 +1,8 @@
-!!Order!!,Call,Exch1,UserText, 
-# 
+!!Order!!,Call,Exch1,UserText,
+#
 # Last Edit,2026-01-02
 # Originally idea of UR7QM/sk, coded by RA6YDX
-# RAEM 
+# RAEM
 # Send any info, correction direct to ve2fk@arrl.net
 # Thanks Nick/NA3M and Bjorn/SM7IUN
 2E0SUR,51N0W,

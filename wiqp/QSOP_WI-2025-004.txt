@@ -6,7 +6,7 @@
 # Thanks SM7IUN for scrubbing the file.
 # QSOP_WI
 # QSOPARTY WI
-# Send new info or corrections DIRECT to ve2fk@arrl.net 
+# Send new info or corrections DIRECT to ve2fk@arrl.net
 AA0PK,POR
 AA9ASJ,SHE
 AA9DR,MIL

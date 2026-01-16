@@ -3,7 +3,7 @@
 #
 # Created 2023 May 14 by Chris SP5KP & SN5N - sp5kp@wp.pl
 #
-# Send any new info/correction direct ve2fk@arrl.net 
+# Send any new info/correction direct ve2fk@arrl.net
 # UNDX
 !!Order!!, Call, Sect,
 UN0B,Z03

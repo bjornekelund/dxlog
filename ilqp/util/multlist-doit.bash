@@ -16,7 +16,7 @@ BEGIN {
   {
     printf("%s=%s\n", abb, name);
   }
-  else 
+  else
   {
     printf("bad: %s\n", $0) > "/dev/stderr";
   }
@@ -45,7 +45,7 @@ BEGIN {
   {
     printf("%s=%s\n", abb, name);
   }
-  else 
+  else
   {
     printf("bad: %s\n", $0) > "/dev/stderr";
   }

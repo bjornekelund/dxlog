@@ -8,9 +8,9 @@ BEGIN {
 }
 {
   bad = 0;
-  if ($0 ~ /^(!|#|$)/) 
+  if ($0 ~ /^(!|#|$)/)
   {
-    if ($1 ~ /!!Order!!/) 
+    if ($1 ~ /!!Order!!/)
     {
       if ($2 ~ /Call/) call = 1;
       if ($3 ~ /Call/) call = 2;
@@ -25,44 +25,44 @@ BEGIN {
       if ($4 ~ /Exch1/) ex = 3;
       if ($5 ~ /Exch1/) ex = 4;
       printf("%s --> call=%d nm=%d ex=%d\n", $0, call, nm, ex) > "/dev/stderr";
-    } 
+    }
   }
-  else 
+  else
   {
     exch = $ex;
-    if ($nm !~ /^([A-Z][A-Za-z]+)?$/) 
+    if ($nm !~ /^([A-Z][A-Za-z]+)?$/)
     {
       printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
       bad = 1;
     }
-    else if (($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $call !~ /\/V[EOY][0-9]$/)) 
+    else if (($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $call !~ /\/V[EOY][0-9]$/))
     {
-      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/) 
+      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/)
       {
         printf("Problem exchange1: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
       }
     }
-    else if (($call ~ /^(V[A-EOXY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $call !~ /\/W[0-9]$/)) 
+    else if (($call ~ /^(V[A-EOXY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $call !~ /\/W[0-9]$/))
     {
-      if (exch !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/) 
+      if (exch !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/)
       {
         printf("Problem exchange2: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
-      } 
+      }
     }
-    else if (exch !~ /^DX$/) 
+    else if (exch !~ /^DX$/)
     {
         printf("Exchange changed to DX: \"%s\"\n", $0) > "/dev/stderr";
         exch = "DX"
     }
-    if (!bad && ($2 != "" || exch != "")) 
+    if (!bad && ($2 != "" || exch != ""))
     {
-      if (calls[$1] != "") 
+      if (calls[$1] != "")
       {
         printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
       }
-      else 
+      else
       {
         line[$1] = $0;
         calls[$1] = $call;
@@ -76,9 +76,9 @@ BEGIN {
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
   printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
-  for (c in calls) 
+  for (c in calls)
   {
-    if (name[c] != "") 
+    if (name[c] != "")
     {
       printf("%s=%s;%s\n", calls[c], name[c], exchange[c]);
     }

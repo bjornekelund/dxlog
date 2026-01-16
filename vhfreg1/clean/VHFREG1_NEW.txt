@@ -5,7 +5,7 @@
 # Send new info or corrections direct to ve2fk@arrl.net
 # EUAS-CHAMP
 # VHFREG1
-!!Order!!, Call, Name, Loc1, UserText, 
+!!Order!!, Call, Name, Loc1, UserText,
 
 9A0C,,JN85AO
 9A0V,,JN95PE

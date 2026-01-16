@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -21,11 +21,11 @@ BEGIN {
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $ \
     col ~ /^(BGD|BOR|BRA|JAB|JBB|JBN|KMO|KOL|KOS|KPO|MAC|MOR|NIS|PCI|PEC|PIR|POD|POM|PRI|RAN|RAS|SBB|SBN|SBT|SRM|SUM|TOP|ZAJ|ZBB|ZLA)$/ )
   {
-    if (lines[$call] != "") 
+    if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else 
+    else
     {
       printf("%s=%s\n", $call, $col);
       lines[$call] = $0;

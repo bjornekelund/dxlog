@@ -296,7 +296,7 @@ SU Suwałki (ziemski)
 SV Strzelin
 SW Świecie
 SX Szamotuły
-SY Strzyżów 
+SY Strzyżów
 SZ Szczecinek
 TA Tarnów (ziemski)
 TB Tarnobrzeg (ziemski)

@@ -5,11 +5,11 @@ BEGIN {
   printf("^(", $1)
 }
 {
-  if ($1 ~ /^(AZ|MT|OR|ID|NV|WY|UT|WA)$/) 
+  if ($1 ~ /^(AZ|MT|OR|ID|NV|WY|UT|WA)$/)
   {
     state = $1;
   }
-  else if ($1 ~ /^\S\S\S$/) 
+  else if ($1 ~ /^\S\S\S$/)
   {
     if (first)
       printf("%s",state $1);
@@ -17,7 +17,7 @@ BEGIN {
       printf("|%s",state $1);
     first = 0;
   }
-  else 
+  else
   {
     printf("Problem \"%s\"\n", $0) > "/dev/stderr";
   }

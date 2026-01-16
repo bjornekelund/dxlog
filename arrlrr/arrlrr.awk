@@ -5,9 +5,9 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($0 !~ /^(#|!|\s*$)/) 
+  if ($0 !~ /^(#|!|\s*$)/)
   {
-    # if (call[$1] != "" && (name[$1] != $2 || check[$1] != $3 || mult[$1] != $4)) 
+    # if (call[$1] != "" && (name[$1] != $2 || check[$1] != $3 || mult[$1] != $4))
     # {
     #   printf("\"%s\" overridden by \"%s\"\n", line[$1], $0) > "/dev/stderr";
     # }
@@ -17,16 +17,16 @@ BEGIN {
     if ($3 != "") check[$1] = $3;
     if ($4 != "") mult[$1] = $4;
   }
-  else 
+  else
   {
     printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {
   for (cs in call)
-    if (check[cs] != "" && name[cs] != "" && mult[cs] != "") 
+    if (check[cs] != "" && name[cs] != "" && mult[cs] != "")
     {
-      nm = name[cs] != "CLUB" ? name[cs] : "";      
+      nm = name[cs] != "CLUB" ? name[cs] : "";     
       printf("%s=%s;%02d;%s\n", cs, nm, check[cs], mult[cs]);
     }
 }

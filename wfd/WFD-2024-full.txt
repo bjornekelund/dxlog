@@ -1,11 +1,11 @@
-!!Order!!,Call,Sect,Exch1,UserText,	
-#	
-# LastEdit,2024-01-18	
-# Send new info or corrections direct to ve2fk@arrl.net	
+!!Order!!,Call,Sect,Exch1,UserText,
+#
+# LastEdit,2024-01-18
+# Send new info or corrections direct to ve2fk@arrl.net
 # This is only helping file, LOG what you receive.
-# DATA from 2023 WFD site results	
-# WFD	
-# Winter Field Day 2024	
+# DATA from 2023 WFD site results
+# WFD
+# Winter Field Day 2024
 
 AA0AJ,MN,1H
 AA0AM,IA,1M

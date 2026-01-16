@@ -33,7 +33,7 @@ END {
   printf(")$\n");
 }' > $OUTFILE
 
-echo Created $OUTFILE 
+echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit

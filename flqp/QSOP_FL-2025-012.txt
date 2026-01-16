@@ -2,7 +2,7 @@
 #
 # 0-This is helping file, LOG what you copy.
 # 1-LastEdit,2025-04-25
-# 2-Send new info/corrections DIRECT to ve2fk@arrl.net 
+# 2-Send new info/corrections DIRECT to ve2fk@arrl.net
 # 3-Info from FLQP site.
 # 4-Thanks Bjorn/SM7IUN for his help and Chris/NX4N
 # QSOP_FL
@@ -58,12 +58,12 @@ KQ3Q,,EXPEDITION
 N4CW,,EXPEDITION
 N4EH,,EXPEDITION
 N4MMR,,EXPEDITION
-W2FU,,EXPEDITION CW 
+W2FU,,EXPEDITION CW
 W4DAK,,EXPEDITION
 WA1S,,EXPEDITION
 WB0ZJJ,PAL,EXPEDITION PALM-EACH
 
-# Fixed FL Stations... 
+# Fixed FL Stations...
 AA2WN,PAL,Parm Beach - Mixed
 AA4NP,BRE,Brevard - CW
 AA4O,PIN,PINELLAS
@@ -103,7 +103,7 @@ K4O,LAK,LAKE,
 K4QR,SUM,Sumter
 K4RFK,LEE,LEE
 K4SBZ,LEO,LEON - SSB
-K4SRQ,SAR,Sarasota - Mixed 
+K4SRQ,SAR,Sarasota - Mixed
 K4SXC,BRE,Breward
 K4WTL,ALC,ALCHUA
 K6BOS,BRE,Brevard
@@ -135,7 +135,7 @@ KO4YZI,BAY,Bay Mixed
 KQ4GAH,HIL,HILLSBOROUGH - SSB
 KQ4HBY,BRE,Brevard - SSB
 KQ4LVP,PAL,PALM-BEACH
-KQ4R,VOL,Volusia - CW 
+KQ4R,VOL,Volusia - CW
 KT3T,HIL,HILLSBOROUGH
 KT4WA,MAO,Marion
 KU8E,DUV,DUVAL - MIXED

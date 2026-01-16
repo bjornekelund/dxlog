@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -16,8 +16,8 @@ BEGIN {
     if ($4 ~ /State|Exch1/) col = 3;
     if ($5 ~ /State|Exch1/) col = 4;
     printf("\"%s\" --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^(19|20)[0-9]{2}$/) 
+  }
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^(19|20)[0-9]{2}$/)
   {
     if (year[$call] != "")
       printf("Replaced %s with %s for %s\n", year[$call], $2, $call) > "/dev/stderr";

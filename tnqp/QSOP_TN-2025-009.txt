@@ -7,7 +7,7 @@
 # 4-
 # QSOP_TN
 # QSOPARTY TN
-# 
+#
 AA4UT,,KNOX,Knox
 AA5JF,,,MOBILE
 AB3I,,SULL,Sullivan
