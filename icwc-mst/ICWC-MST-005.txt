@@ -336,7 +336,7 @@ AE0P,Brian,1051,Yankton SD
 AE0Q,Glenn,2878,Arvada CO
 AE1CW,Jim,ME,Newburgh ME
 AE1N,Lane,NH,Nashua NH
-AE1T,Peter,1404,Plymouth NH
+AE1T,Pete,1404,Plymouth NH
 AE1T/1,Pete,1404,QRP in Maine
 AE2DB,Don,2922,Saugerties NY
 AE2T,Al,NY,Lockport NY
@@ -536,7 +536,7 @@ CT1BOH,Jose,837,Portugal
 CT1DBS,Pedro,,Lisboa Portugal
 CT1DRB,Dave,430,Paio Pires Portugal
 CT1ILT,Fil,2699,(CR6K)  S. Martinho da Gandara Portugal
-CT7/W1UU,PETE,
+CT7/W1UU,Pete,
 CT7AFN,Carlos,,Near Fatima Portugal
 CT7AGZ,Ken,2126,(G4RWD)  Carvoeiro LGA Portugal
 CT7AUP,David,,Arruda dos Vinhos Portugal
@@ -3998,7 +3998,6 @@ N3LSB,DAVE,MD,Taneytown MD
 N3MM,Harry,2804,Lynchburg VA
 N3MNT,Bob,MD,Annapolis MD
 N3ND,Dan,189,Wake Forest NC
-N3OC,BRIAN,
 N3OC,Brian,2944,Brookeville MD
 N3PQ,MUNIR,
 N3QE,Tim,1223,Bethesda MD
@@ -4273,7 +4272,6 @@ N6DVS,VIC,CA,Novato CA
 N6EE,Ron,CA,Turlock CA
 N6EED,Terry,2122,Rancho Cucamonga CA
 N6EFF,Bob,2936,Fremont CA
-N6EK,KC,
 N6EK,KC,
 N6ER,Kevin,CA,Fullerton CA
 N6ERD,Dan,CA,San Diego CA
@@ -6020,9 +6018,9 @@ W1TS,WILL,,Oxford CT
 W1UE,Dennis,MA,Marlborough MA
 W1UE/VE3,Dennis,,ON
 W1UJ,Jay,426,Webster MA
-W1UU,Peter,91,Falmouth MA  (QRP/43'Vert.)
-W1UU/1,Peter,91,Trapp Family Lodge in Stowe Vermont
-W1UU/4,Peter,91,QRP FL
+W1UU,Pete,91,Falmouth MA  (QRP/43'Vert.)
+W1UU/1,Pete,91,Trapp Family Lodge in Stowe Vermont
+W1UU/4,Pete,91,QRP FL
 W1VE,Gerry,191,Nelson NH (Could be QRP)
 W1VEM,Dave,CT,Bolton CT
 W1VKE,Vin,3079,Orleans MA
@@ -6084,7 +6082,6 @@ W2MFT,Doc,NY,Tonawanda NY
 W2MGF,Mike,NY,Bronx NY
 W2MIA,CODY,
 W2MKM,Ed,2681,Washington NJ
-W2MM,QCWA,
 W2MM,QCWA,FL,(W3US)  Quarter Century Wireless Assn.
 W2MSW,Mark,2790,Union NJ
 W2NO,Dan,2174,Metuchen NJ
@@ -7026,7 +7023,6 @@ WB5BKL,Nick,1371,Lake Buchanan TX (K3-QRP)
 WB5D,JACK,,NM
 WB5DW,ANDY,TX,Orange TX
 WB5GM,GREG,TX,Cedar Park TX
-WB5HOW,VICTOR,
 WB5HOW,VICTOR,
 WB5K,Jay,1769,Allen TX
 WB5LXJ,Greg,TX,Garland TX
