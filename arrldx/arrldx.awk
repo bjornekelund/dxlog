@@ -6,7 +6,7 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
@@ -20,8 +20,8 @@ BEGIN {
     if ($5 ~ /State/) scol = 4;
     printf("%s --> call=%d pcol=%d scol=%d\n", $0, call, pcol, scol) > "/dev/stderr";
   }
-  else if (lines[$call] != "") 
-  { 
+  else if (lines[$call] != "")
+  {
     printf("Repeated entry: \"%s\" and \"%s\"\n", lines[$call], $0) > "/dev/stderr";
   }
   else if ( \
@@ -32,19 +32,19 @@ BEGIN {
     exchanges[$call] = $scol;
     lines[$call] = $0;
   }
-  else if ($call ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $pcol ~ /^([1-9][0-9]{,3}W?|1?KW?)$/) 
+  else if ($call ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $pcol ~ /^([1-9][0-9]{,3}W?|1?KW?)$/)
   {
     calls[$call] = $call;
     exchanges[$call] = $pcol;
     lines[$call] = $0;
   }
-  else if ($0 !~ /^(!|#|$)/) 
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
   }
 }
 END {
-  for (c in calls) 
+  for (c in calls)
   {
     if (exchanges[c] !~ /^(AB|BC|LB|MB|NB|NF|NT|NS|NU|ON|PE|QC|SK|YT)$/)
     {

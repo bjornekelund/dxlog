@@ -2,12 +2,12 @@
 #
 # ARRL International (For DX and US side)
 # ARRLDXCW
-# ARRLDXSSB 
+# ARRLDXSSB
 # Last Edit,2024-12-28
 # Send correction direct to ve2fk@arrl.net
 # Some names added but not part of exchange
 # Thanks Bjorn SM7IUN for corrections.
-# Updated from log of VE2FK 
+# Updated from log of VE2FK
 2E0CVN,,,50,
 3V8SS,,,100,
 3W9A,,,500,

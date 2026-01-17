@@ -3,14 +3,16 @@ BEGIN {
   printf("#01 Based on data maintained by VE2FK and from https://site.cwjf.com.br\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
+  count = 0;
 }
 {
   if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQYM]?$/)
   {
-    if ($2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQYM]$/)
+    if ($2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQY]$/)
     {
       calls[$1] = $1;
       exchange[$1] = $2;
+      count++;
     }
   }
   else if ($0 !~ /^(!|#|$)/ && $1 !~ /^CALLSIGN/ && $1 !~ /-/)
@@ -19,6 +21,7 @@ BEGIN {
   }
 }
 END {
+  printf("File contains %d members\n", count) > "/dev/stderr";
   for (call in calls)
   {
     printf("%s=%s\n", call, exchange[call]);

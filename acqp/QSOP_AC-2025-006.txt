@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # QSOP_AC
 # QSOPARTY AC
-# 
+#
 # LastEdit,2025-12-28
 # Thanks Bjorn SM7IUN
 # Thanks Stu VE9CF
@@ -79,7 +79,7 @@ VE9OA,BILL,
 VE9RAC,,NBWES,BONUS
 VE9RLW,BOB,
 VE9SZ,Ed,NBRES,
-VE9TK,,,MOBILE - 
+VE9TK,,,MOBILE -
 VE9TTY,JIM,
 VE9VIC,VIC,NBRES,
 VE9WH,JIM,

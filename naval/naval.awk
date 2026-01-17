@@ -7,7 +7,7 @@ BEGIN {
 }
 {
   call = 1;
-  col = 2; 
+  col = 2;
   if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ &&
     $col ~ /^(BM|MA|MI|FN|GR|IN|MA|MF|CA|PN|RN|YO)[0-9]{1,4}$/)

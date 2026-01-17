@@ -1,2 +1,2 @@
-# 13 Canadian historical provinces and territories 
+# 13 Canadian historical provinces and territories
 ^(AB|BC|LB|MB|NB|NF|NT|NS|NU|ON|PE|QC|SK|YT)$

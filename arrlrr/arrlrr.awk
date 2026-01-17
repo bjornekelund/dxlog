@@ -26,7 +26,7 @@ END {
   for (cs in call)
     if (check[cs] != "" && name[cs] != "" && mult[cs] != "")
     {
-      nm = name[cs] != "CLUB" ? name[cs] : "";     
+      nm = name[cs] != "CLUB" ? name[cs] : "";   
       printf("%s=%s;%02d;%s\n", cs, nm, check[cs], mult[cs]);
     }
 }

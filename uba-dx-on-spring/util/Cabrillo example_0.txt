@@ -7,7 +7,7 @@ Must be the last line of the log submission.
 CALLSIGN: callsign
 The callsign used during the contest.
 CATEGORY: operator-category band-category power-category [mode-category]
-For HF contests the operator-category must be one of the following: SINGLE-OP, SINGLE-OP-ASSISTED, MULTI-ONE, MULTI-TWO, MULTI-MULTI, SCHOOL-CLUB (ARRL-SS-CW and ARRL-SS-SSB only), SWL, or CHECKLOG. 
+For HF contests the operator-category must be one of the following: SINGLE-OP, SINGLE-OP-ASSISTED, MULTI-ONE, MULTI-TWO, MULTI-MULTI, SCHOOL-CLUB (ARRL-SS-CW and ARRL-SS-SSB only), SWL, or CHECKLOG.
 For HF contests the band-category must be one of the following: ALL, 160M, 80M, 40M, 20M, 15M or 10M.
 The power-category must be HIGH, LOW or QRP.
 The mode-category must be CW, SSB or MIXED and is only permitted for single operator entries in multi-mode contests that permit single mode entries such as IARU-HF and the 10 Meter Contest.  SO NOT NEEDED FOR UBA DX CONTEST
@@ -30,21 +30,21 @@ Soapbox comments.
 QSO: qso-data
 QSO data as specified by the Cabrillo QSO data format.
 
-�	fre: 
+�	fre:
 integer frequency in kHz; if freq not known then 28000, 21000, 14000, 7000, 3500, 1800
-�	 m: 
+�	 m:
 CW or PH,
-�	dat: 
+�	dat:
 UTC date in yyyy-mm-dd form
-�	tim: 
+�	tim:
 UTC time in nnnn form
-�	cal: 
+�	cal:
 callsign
-�	rs: 
+�	rs:
 RST
-�	n: 
+�	n:
 Serial number in 4 digits
-�	ex: 
+�	ex:
 UBA section sent by ON stations
 �	ex2:
 UBA section sent by ON stations

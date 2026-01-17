@@ -68,7 +68,7 @@ BEGIN {
           printf("Name overwrite for %s: \"%s\" --> \"%s\"\n", $1, names[$1], name) > "/dev/stderr";
         }
         names[$1] = name;
-        mem2[$1] = $3;     
+        mem2[$1] = $3;   
       }
     }
     else

@@ -18,7 +18,7 @@ BEGIN {
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   else if ( \
-    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
+    $call ~ /^LZ[0-9]{1,4}[A-Z]{1,3}(\/[MP0-9])?$/ && \
     $col ~ /^(BU|BL|VN|VT|VD|VR|GA|DO|KA|KD|LV|MN|PA|PK|PL|PD|RZ|RS|SS|SL|SM|SF|SO|SZ|TA|HA|SN|YA)$/)
   {
     if (line[$call] != "")
@@ -31,7 +31,7 @@ BEGIN {
       printf("%s=%s\n", $call, $col);
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $3 != "")
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

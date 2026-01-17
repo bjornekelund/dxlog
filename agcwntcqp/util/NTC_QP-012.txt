@@ -3,7 +3,7 @@
 # Last number listed 179
 # NTC_QP
 # Original file from Club list via VE2FK
-# Send any info, corrections direct to pa3hen@gmail.com	
+# Send any info, corrections direct to pa3hen@gmail.com
 # Thanks Theo/PA3HEN for update/corrections.
 # This is helping file, LOG what is sent.
 # Use UDC file NTC_QP by G4OGB
@@ -46,7 +46,7 @@ EA1IQ,Chus,68,
 EA3NO,Liuis,69,
 EA5FID,Juan,67,
 EA5IUY,Gary,108,
-F5NLX,Jean,41,(Jean-Marie) 
+F5NLX,Jean,41,(Jean-Marie)
 F6JOE,Jean,44,
 F8DTU,Frank,49,
 F8NUH,Jean,43,(Jean-Pierre)
@@ -95,7 +95,7 @@ ON8WR,Ward,152,
 OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,
 PA0AGF,Remy,131,
-PA0BAK,Ron,9, 
+PA0BAK,Ron,9,
 PA0CMU,Carel,76,
 PA0DIN,DJ,46,
 PA0GJV,Gerrit,113,
@@ -115,14 +115,14 @@ PA0XAW,Age,119,
 PA1BBO,Bert,92,
 PA1CW,Theo,18,
 PA1DI,Dick,168,
-PA1DMG,Marc,10, 
+PA1DMG,Marc,10,
 PA1MAR,Marcel,5,
 PA1REG,Reg,87,
 PA2DK,Dennis,161,
 PA2G,Gerard,30,
-PA2JJB,Jan,24, 
+PA2JJB,Jan,24,
 PA2PCH,Ad,170,
-PA2RG,Roel,13, 
+PA2RG,Roel,13,
 PA2SQ,Simon,71,NTC Award manager
 PA2V,Peter,129,
 PA2W,Martin,86,
@@ -135,7 +135,7 @@ PA3BYW,Durk,32,
 PA3CNI,Will,54,
 PA3CWQ,Harry,20,
 PA3CXB,Jan,160,
-PA3DAZ,Edu,22, 
+PA3DAZ,Edu,22,
 PA3DBS,Peter,53,
 PA3DSB,Paul,162,
 PA3EEG,Ruud,5,
@@ -146,7 +146,7 @@ PA3FTP,Louis,28,
 PA3FYE,Jacob,55,
 PA3GBK,Aeilko,130
 PA3GEO,Robert,17,
-PA3GNZ,Gose,4,(Tjeerd)  
+PA3GNZ,Gose,4,(Tjeerd) 
 PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
 PA3HK,Henry,126,
@@ -164,7 +164,7 @@ PA5Z,Kees,93,
 PA7DN,Dick,173
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
-PA7RM,Rob,31, 
+PA7RM,Rob,31,
 PA8AD,Ad,121,
 PA9CW,Ton,81,
 PA9J,Jorrit,128
@@ -181,12 +181,12 @@ PD0WLM,William,25,
 PD5N,Eric,179,
 PD7Q,Jacob,178,
 PE0CD,Chris,163,H
-PE1CDA,Peter,167, 
+PE1CDA,Peter,167,
 PE1LDS,Ferry,169,
-PE1PYZ,Henk,39, 
+PE1PYZ,Henk,39,
 PE1RCT,Andreas,122,
 PE4KH,Koos,165,
-PF44F,Enno,40, 
+PF44F,Enno,40,
 PF5X,Enno,40,
 PF6NTC,Rien,150,NTC Special Event Call
 PG0S,Cor,8,
@@ -194,7 +194,7 @@ PG2W,Wouter,45,
 PG4I,JO,2,
 PG6F,Dick,97,
 PG6NTC,JO,100,NTC Special Event Call
-PG7R,Ronald,61, 
+PG7R,Ronald,61,
 PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
 S58MU,Milan,66,
@@ -204,7 +204,7 @@ SP7OGP,Piotr,111,
 SQ9S,Adam,38,
 SV2BBK,Theo,147,
 SV9RNG,Pol,42,
-UA6AX,Yuri,174 
+UA6AX,Yuri,174
 V31HE,Andreas,89,
 VE2FK,DUB,NM,
 W4WEN,CARL,135,

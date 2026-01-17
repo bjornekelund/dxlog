@@ -5,7 +5,7 @@
 # MAR are now NB + NS, NT is TER and GTA is GH
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # This file need to use Exch1 in preamble
-# Thanks Bjorn/SM7IUN for his help 
+# Thanks Bjorn/SM7IUN for his help
 4U1WB,MDC,
 AA0A,MO,
 AA0AA,NE,

@@ -12,15 +12,14 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    if ($3 ~ /Exch1/) exch = 2;
+    if ($4 ~ /Exch1/) exch = 3;
+    if ($5 ~ /Exch1/) exch = 4;
+    printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if ( \
-    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
     $call ~ /^Y[OPQR][0-9]{1,3}[A-Z]+(\/[0-9PM])?$/ && \
-    $col ~ /^(AB|AG|AR|BC|BH|BN|BR|BT|BU|BV|BZ|CJ|CL|CS|CT|CV|DB|DJ|GJ|GL|GR|HD|HR|IF|IL|IS|MH|MM|MS|NT|OT|PH|SB|SJ|SM|SV|TL|TM|TR|VL|VN|VS)$/)
+    $exch ~ /^(AB|AG|AR|BC|BH|BN|BR|BT|BU|BV|BZ|CJ|CL|CS|CT|CV|DB|DJ|GJ|GL|GR|HD|HR|IF|IL|IS|MH|MM|MS|NT|OT|PH|SB|SJ|SM|SV|TL|TM|TR|VL|VN|VS)$/)
   {
     if (lines[$call] != "")
     {
@@ -28,7 +27,7 @@ BEGIN {
     }
     else
     {
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $exch);
       lines[$call] = $0;
     }
   }

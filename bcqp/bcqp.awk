@@ -36,7 +36,7 @@ BEGIN {
   }
   else if ($0 !~ /^(!|#|$)/ && $state != "")
   {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"; 
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 

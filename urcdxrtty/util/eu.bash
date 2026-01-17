@@ -85,11 +85,11 @@ gawk 'BEGIN {
     case "AT09": ter = "VBG"; break;
 
     case "BE02": ter = "WLN"; break;
-   
+ 
     case "BE03": ter = "FDS"; break;
     case "BE10": ter = "FDS"; break;
     case "BE11": ter = "FDS"; break;
-   
+ 
     case "CY01":
     case "CY02":
     case "CY03":

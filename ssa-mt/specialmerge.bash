@@ -11,7 +11,7 @@ END {
   {
     grid = (gridlist[c] == "?") ? gridlist[callist[c]] : gridlist[c];
     if (grid == "" && substr(callist[c],1,1) == "S")
-      printf("%s\n", callist[c]); 
+      printf("%s\n", callist[c]);
 #    printf("Call=%s Grid=%s\n", c, grid);
   }
 }' SSA_master.txt SSA_special.txt | sort | more

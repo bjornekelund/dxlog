@@ -30,8 +30,8 @@ BEGIN {
     if ($5 ~ /UserText/) empty = 4;
     if ($6 ~ /UserText/) empty = 5;
     printf("%s --> call=%d name=%d first=%d second=%d empty=%d\n", $0, call, name, first, second, empty) > "/dev/stderr";
-  } 
-  else 
+  }
+  else
   {
     callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
     nameok = $name ~ /^([A-Za-z]{2,10}|)$/;
@@ -39,13 +39,13 @@ BEGIN {
     secondok = $second ~ /^(NTC[1-9][0-9]{0,3}$|)$/;
     lenok = $empty == "";
 
-    if (callok && firstok && secondok && lenok) 
+    if (callok && firstok && secondok && lenok)
     {
-      if (nameok) 
+      if (nameok)
       {
         rname = $name;
       }
-      else 
+      else
       {
         printf("Problem name in: \"%s\"\n", $0) > "/dev/stderr";
         rname = "";
@@ -57,7 +57,7 @@ BEGIN {
         maxname = $name;
       }
     }
-    else if ($0 !~ /^(!|#|$)/) 
+    else if ($0 !~ /^(!|#|$)/)
     {
       if (nameok)
         printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
@@ -67,7 +67,7 @@ BEGIN {
     }
   }
 }
-END { 
+END {
     printf("%s has the longest name: \"%s\" with %d characters\n", maxcall, maxname, length(maxname)) > "/dev/stderr";
     printf("#03 Longest name is \"%s\" with %d characters\n", maxname, length(maxname));
 }

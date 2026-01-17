@@ -8,7 +8,7 @@ BEGIN {
   longest = "";
 }
 {
-  if ($1 ~ /!!Order!!/) 
+  if ($1 ~ /!!Order!!/)
   {
     if ($2 ~ /Call/) call = 1; else
     if ($3 ~ /Call/) call = 2; else
@@ -19,8 +19,8 @@ BEGIN {
     if ($4 ~ /Name/) col = 3; else
     if ($5 ~ /Name/) col = 4; else col = 0;
     printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
-  } 
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/) 
+  }
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/)
   {
     if (line[$call] != "")
     {
@@ -33,7 +33,7 @@ BEGIN {
       line[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $col != "") 
+  else if ($0 !~ /^(!|#|$)/ && $col != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

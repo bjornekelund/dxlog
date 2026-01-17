@@ -19,7 +19,7 @@ BEGIN {
   if ($1 ~ /[A-Z][A-Z]-[0-9][0-9]/ && $2 != "deleted")
   {
     printf("%s%s=%s\n", substr($1, 1, 2), substr($1, 4, 2), $2);
-  }	 
+  }
 }
 END {
   printf("[MULTIPLIERS END]\n");

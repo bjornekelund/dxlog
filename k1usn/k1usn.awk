@@ -27,50 +27,67 @@ BEGIN {
       printf("%s --> call=%d nm=%d ex=%d\n", $0, call, nm, ex) > "/dev/stderr";
     }
   }
-  else
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)
   {
-    exch = $ex;
-    if ($nm !~ /^([A-Z][A-Za-z]+)?$/)
+    if (calls[$1] != "")
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+      bad = 1;
+    }
+    else if ($nm !~ /^([A-Z][A-Za-z]+)?$/)
     {
       printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
       bad = 1;
     }
-    else if (($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $call !~ /\/V[EOY][0-9]$/))
+    else if ( \
+      $call ~ /^(A[A-L]|[KNW][A-z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
+      $call !~ /\/V[EOY][0-9]$/ && \
+      $call !~ /^KG4[A-Z]{2}$|^[KNW]P[234][A-Z]{1,3}$/)
     {
-      if (exch !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/)
+      if ($ex !~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/)
       {
-        printf("Problem exchange1: \"%s\"\n", $0) > "/dev/stderr";
+        printf("Problem US exchange: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
       }
     }
-    else if (($call ~ /^(V[A-EOXY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/ && $call !~ /\/W[0-9]$/))
+    else if ( \
+      $call ~ /^KG4[A-Z]{2}$|^[KNW]P[234][A-Z]{1,3}$/ && $call !~ /\/V[EOY][0-9]$/)
     {
-      if (exch !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/)
+      if ($ex !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/)
       {
-        printf("Problem exchange2: \"%s\"\n", $0) > "/dev/stderr";
+        printf("Problem KP[234] exchange: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
       }
     }
-    else if (exch !~ /^DX$/)
+    else if (($call ~ /^(V[A-EOXY]|C[FGJK]|X[LM])[0-9]([A-Z]+|\/)|V[EOY][0-9]$/))
     {
-        printf("Exchange changed to DX: \"%s\"\n", $0) > "/dev/stderr";
-        exch = "DX"
-    }
-    if (!bad && ($2 != "" || exch != ""))
-    {
-      if (calls[$1] != "")
+      if ($ex !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT|)$/)
       {
-        printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
-      }
-      else
-      {
-        line[$1] = $0;
-        calls[$1] = $call;
-        name[$1] = toupper($nm);
-        exchange[$1] = exch;
-        longest = length($nm) > length(longest) ? $nm : longest;
+        printf("Problem Canadian exchange: \"%s\"\n", $0) > "/dev/stderr";
+        bad = 1;
       }
     }
+    else if ($ex !~ /^DX$/)
+    {
+        printf("Exchange should be: \"%s\"\n", $0) > "/dev/stderr";
+        bad = 1;
+    }
+    if (!bad && ($nm != "" || $ex != ""))
+    {
+      line[$1] = $0;
+      calls[$1] = $call;
+      name[$1] = toupper($nm);
+      exchange[$1] = $ex;
+      longest = length($nm) > length(longest) ? $nm : longest;
+    }
+    else
+    {
+      printf("Problem line: \"%s\"\n", $0) > "/dev/stderr";
+    }
+  }
+  else if ($0 != /^(!|#|$)/)
+  {
+    printf("Problem call: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

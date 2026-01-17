@@ -12,14 +12,14 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Sect/) col = 2;
-    if ($4 ~ /Sect/) col = 3;
-    if ($5 ~ /Sect/) col = 4;
-    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+    if ($3 ~ /Sect/) exch = 2;
+    if ($4 ~ /Sect/) exch = 3;
+    if ($5 ~ /Sect/) exch = 4;
+    printf("%s --> exch=%d\n", $0, exch) > "/dev/stderr";
   }
   else if ( \
-    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $col ~ /^(GR|FR|DR|OV|GD|UT|FL|NH|ZH|NB|ZL|LB)$/)
+    $call ~ /^P[A-I][0-9]{1,4}[A-Z]{1,5}(\/[AMP0-9])?$/ && \
+    $exch ~ /^(GR|FR|DR|OV|GD|UT|FL|NH|ZH|NB|ZL|LB)$/)
   {
     if (lines[$call] != "")
     {
@@ -27,7 +27,7 @@ BEGIN {
     }
     else
     {
-        printf("%s=%s\n", $call, $col);
+        printf("%s=%s\n", $call, $exch);
         lines[$call] = $0;
     }
   }

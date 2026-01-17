@@ -44,7 +44,7 @@ BEGIN {
       names[$call] = "";
       printf("Name is \"%s\" for %s\n", $name, $call) > "/dev/stderr";
     }
-   
+ 
     num[$call] = $mem ~ /^[0-9]+$/ ? $mem : "0";
 
     if ( \

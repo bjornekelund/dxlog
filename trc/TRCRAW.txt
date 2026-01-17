@@ -1,3716 +1,3716 @@
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	3A1001SWL	Eric		
-3V - Tunisia - 147				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	3V8ST	Montassar		
-TRC#100	3V8SA	Club - ARCS		
-4K - Azerbaijan - 303				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	4K6FO	Alim		
-TRC#003	4K6AG	Ruslan		
-TRC#004	4K3M	Farkhad		
-TRC#005	4K6MAR	Mekhman		
-TRC#101	4J9M	Rashid		
-TRC#102	4K5CW	Said		
-TRC#103	4K9C	Said		
-TRC#104	4J8YL	Eva		
-4L - Georgia - 306				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	4L1MA	Anatoly		
-TRC#003	4L1AX	Enriko		
-TRC#011	4L4MM	Mario		
-TRC#101	4L1DW	Lado		
-TRC#102	4L1AP	Alex		
-TRC#103	CB	Beso		
-TRC#104	CB	Aleko		
-TRC#105	CB	Mamuka		
-4O - Montenegro - 344				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	4O3TT	Boro		
-				
-4S - Sri Lanka - 177				
-TRC#002	4S7BRG	Mario		
-				
-4Z - Israel - 97				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	4Z5ON	Offer		
-TRC#003	4Z5TC	Israel		
-TRC#004	4Z4DX	Dov		
-TRC#005	4X6DK	David		
-TRC#006	4X1VF	Jan	4X0A	
-TRC#007	4Z5MY	Yakov		
-TRC#008	4Z5LA	Ros		
-TRC#009	4X5MT	Avi		
-TRC#010	4X5EW	Oleg		
-TRC#012	4Z5FI	Ruben		
-TRC#013	4Z4KX	Mark		
-TRC#101	4Z5PT	Lery		
-TRC#102	CB	Daniel		
-TRC#105	CB	Leo		
-TRC#1401	4X-1401	Ilan		
-				
-5A - Libya - 92				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Abubaker		
-TRC#102	CB	Omar		
-TRC#005	CB	Hamida		
-				
-5B - Cypros - 110				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	5B4AIK	Mike		
-TRC#003	5B4AGT	Arthur - S.K.		
-TRC#004	5B4AHO	Barry		
-TRC#005	5B4AIX	Noz		
-				
-5H - Tanzania - 83				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	5H3CMG	Jaco		
-				
-5R - Malagesy  Rep. - 188				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	5R8SV	Jaco		
-				
-5W - Samoa - 223				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#1000	5W0GC		DX-pedition - 2018	
-				
-5Z - Kenya - 223				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	5Z4/LZ4NM	Nick		
-				
-6Y - Jamaica - 23				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Winston		
-TRC#102	CB	Anthony		
-				
-7X - Algeria - 146				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	7X2GK	Kamel		
-TRC#003	7X2DD	Mohamed		
-TRC#005	7X2EB	Redha		
-TRC#006	7X2KV	Miloud		
-TRC#100	7X2VFK	Great Desert Djelfa Radio Club		
-TRC#101	CB	Rafy		
-				
-8P - Barbados - 122				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Daniel		
-TRC#003	8P6NW	Glenroy		
-TRC#103	CB	Carson		
-				
-9A - Croatia - 328				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	9A3ALD	Davor		
-TRC#003	9A5V	Frano		
-TRC#004	9A8GES	Gabriele		
-TRC#005	9A0W	Ivan		
-TRC#006	9A2WJ - S.K.	Daki		
-TRC#007	9A2AJ	Tomislav		
-TRC#008	9A5SM	Marija		
-TRC#009	9A4ZP	Zeljko		
-TRC#010	9A3JB	Mike		
-TRC#011	9A3BSL	Ljubo		
-TRC#012	9A6TT	Ivan		
-TRC#014	9A3LUC	YL Lucija		
-TRC#015	9A4TX	Branko		
-TRC#016	9A3ND	Dubravka		
-TRC#017	9A7R	Braco		
-TRC#021	9A7JQQ	Tomislav		
-TRC#022	9A1AA	Ivo		
-TRC#023	9A7W	Ozren		
-TRC#024	9A3ZI	Predrag		
-TRC#025	9A6KX	Mirko		
-TRC#026	9A0S	Mario		
-TRC#100	9A3B	RADIO KLUB BELISCE		
-TRC#102	CB	Jan		
-TRC#103	CB	Ilija		
-TRC#104	CB	Goran		
-TRC#105	CB	Bruno		
-TRC#106	CB	Tony		
-TRC#107	CB	Lili		
-				
-9H - Malta - 93				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	9H2RJ	Ruben		
-TRC#010	CB	Joe		
-TRC#016	CB	Ray		
-TRC#020	CB	Remigio		
-TRC#108	CB	Jesmond		
-TRC#167	CB	Noel		
-				
-9K - Kuwait - 102				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	9K2BS	Saud		
-TRC#003	9K2DB	Ahmad		
-TRC#101	9K2DD	Saleh		
-TRC#102	CB	Mohamed		
-TRC#103	CB	Hady		
-TRC#104	CB	Mohamed		
-TRC#108	CB	Hamad		
-TRC#111	9K2YM	Yaser		
-TRC#112	CB	Hamid		
-				
-9M2 - Malaysia - 113				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	9M2RDX	Rizal		
-TRC#003	9M2ESM	Sam		
-TRC#004	9M2PJU	Piju		
-				
-9M6 - East Malaysia - 58				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	9W8WAT	Wat		
-TRC#003	9M6RHM	Abdul		
-				
-9Y - Trinidad & Tobago - 158				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#100	CB	Horace		
-TRC#101	CB	Anthony		
-TRC#102	CB	Dave		
-				
-A3 - Kingdom of Tonga - 96				
-TRC#1000	A35GC	Stanislav - LZ1GC	DX-pedition - 2022	
-A4 - Oman -				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	A41CK	Khalid	A42K	
-TRC#003	A41RN	Mudhfer		
-TRC#004	A41KB	Abdalla		
-				
-A5 - Bhutan - 202				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	A52EGV	Takuma Mama		
-				
-A6 - U.A.E. - 94				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	A61ZX	Ibrahim		
-TRC#003	A61BK	Khalid		
-TRC#004	A61K	Khalid		
-TRC#005	A61KM	Khalifa		
-TRC#006	A61VV	Badr		
-TRC#007	A61NN	Khalid		
-TRC#008	A61EE	Ahmed		
-TRC#009	A61BM	Eissa		
-TRC#010	A61Q	Abdullah		
-TRC#011	A61DJ	Obaid		
-TRC#012	A61SM	Salim		
-TRC#013	A65DF	Jayanarayanan		
-TRC#014	A65DB	Shindo		
-TRC#049	CB	Ramy		
-TRC#094	CB	Ali		
-TRC#101	A61BR	Rashed		
-TRC#102	CB	Rashid		
-TRC#106	CB	Hamid		
-TRC#299	A61FJ	Faisal		
-				
-A7 - Qatar - 115				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	A71YY	Juma		
-TRC#003	CB	Ali		
-TRC#004	A71BZ	Ali al Ahmad		
-TRC#005	A71CV	Abdulla		
-TRC#006	A71GO	Aziz		
-TRC#007	A71AE	Mubarak		
-TRC#101	CB	Salem		
-TRC#555	CB	Mohammed		
-TRC#707	A71FJ	Jimmy		
-TRC#606	CB	Rose		
-TRC#777	A71EM	Juma		
-				
-AP - Pakistan - 114				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	AP2AMR	Amir		
-TRC#102	CB	Naseem		
-				
-BY - China - 203				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	BA4TB	Dale Yu		
-TRC#003	BH1KVZ	Baolaisong		
-TRC#004	BG9XD	Chenxing		
-TRC#005	BG8GAM	Qiu tau		
-TRC#006	BG6TWT	Tim		
-TRC#007	BD6JN	Lianzhong		
-TRC#008	BG0CAB	Sun Chao		
-TRC#009	BD6SNM	Yang		
-TRC#010	BH1UZJ	Ziyuan		
-TRC#021	CB	Yee		
-TRC#101	CB	Tom Su		
-TRC#999	CB	Gena		
-				
-C3 - Andorra - 51				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Nikko		
-TRC#259	CB	Philippe		
-				
-C6 - Bahamas Isl. - 121				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Shaun		
-TRC#102	CB	Leonard		
-				
-CE - Chile - 32				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CE1VCZ	Moris		
-TRC#003	CE4KCA	Rodrigo		
-TRC#004	CE7VPQ	Javier		
-TRC#005	XQ6OA	Erich		
-TRC#006	CE7KF	Mauricio		
-TRC#007	CE6UBP	John		
-TRC#008	CA2UDY	Edinson		
-TRC#080	CB	Pedro		
-TRC#101	CB	Javier		
-TRC#110	CB	Felipe		
-TRC#148	CB	Roni		
-				
-CN - Morocco - 76				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CN8WW	Saaid		
-TRC#003	CN8SG	Hassan		
-TRC#004	CN2LO	Francois		
-TRC#005	CN8CE	Zidane		
-TRC#006	CN8BHA	Mohamed		
-TRC#010	CB	Mario		
-				
-CO - Cuba - 88				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CO2IR	Frank		
-TRC#003	CL7HNS	Mabel		
-TRC#004	CO2AME	Amed		
-TRC#005	CO2XK	Alexei		
-TRC#006	CM8AKD	Joseph		
-TRC#007	CO6RD	Reinaldo		
-TRC#008	CL2DPC	Dayron		
-TRC#009	CM2ANA	Anaisa		
-TRC#010	CO2BK	Luis		
-TRC#011	CO2QU	Narciso		
-TRC#012	CM2IU	William		
-TRC#013	CL7YW	Yorley		
-TRC#102	CO6YI	Julian		
-TRC#103	CO6LG	Lorgio		
-TRC#104	CO6EI	Gresin		
-TRC#105	CO6XF	Felix		
-TRC#106	CB	Narciso		
-TRC#107	CB	Henly		
-				
-CP - Bolivia - 80				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Mariano		
-				
-CT - Portugal - 31				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CT1BWW	Marque		
-TRC#003	CT2FTD	Jose		
-TRC#004	CT5KDN	Sylvio		
-TRC#005	CT1EXR	Jorge		
-TRC#006	CT2FPY	Leonel		
-TRC#007	CT1ELZ	Manuel		
-TRC#008	CT2FUO	Manuel		
-TRC#009	CT4KG	Gil		
-TRC#010	CT5ICH	Jose Manuel		
-TRC#011	CT5JZX	Pedro		
-TRC#012	CT1BWU	Joao		
-TRC#013	CT7AEQ	Todor		
-TRC#014	CT7AQS	Joao		
-TRC#015	CS7AMN	Bruno		
-TRC#016	CT1FMX	Jorge		
-TRC#017	CT7AOV	Hugo		
-TRC#018	CS7AWL	Jose		
-TRC#019	CT2GMI	Antonio		
-TRC#101	CB	Joao		
-TRC#102	CB	Jose		
-TRC#149	CB	Manuel		
-TRC#150	CT2ITZ	Paulo		
-TRC#321	CB	Gabriel		
-TRC#405	CB	Lucien		
-				
-CU - Azores Isl. -75				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CU2JR	Duarte		
-TRC#003	CU5AQ	Abilio		
-TRC#004	CU3AK	Jaime		
-TRC#005	CU3AA	Joao		
-TRC#022	CB	John		
-				
-CX - Uruguay - 12				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CX1FU	Daniel		
-TRC#003	CX7BBR	Ruben		
-TRC#101	CB	Martin		
-TRC#102	CB	Diego		
-TRC#103	CB	Carlos		
-TRC#108	CB	Alfredo		
-TRC#116	CX6TU	Danilo		
-TRC#199	CB	Felix		
-				
-D6 - Comoros Isl. - 185				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Cheik		
-				
-DL - Germany - 13				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#000	CB	Club		
-TRC#002	CB	Bernd		
-TRC#003	CB	Peter		
-TRC#004	CB	Herbert		
-TRC#005	CB	Rydi		
-TRC#006	DB8ZQ	Walter		
-TRC#007	CB	Bernd		
-TRC#008	DL2NAI	Israel		
-TRC#009	DL5GBP	Peter		
-TRC#010	CB	Diddi		
-TRC#011	DO5OT	Mario		
-TRC#012	DG1BQC	Hardy		
-TRC#013	CB	Martin		
-TRC#014	DL1DF	Frank		
-TRC#015	DJ2RG	Klaus		
-TRC#016	DL6MER	Karl		
-TRC#017	DL1OW	Orlin		
-TRC#018	DK1MZ	Stamen		
-TRC#019	DO2RFC	Finger		
-TRC#020	DB3UB	Walter		
-TRC#021	DO7JF	Matthias		
-TRC#022	DH5WB	Wilfried		
-TRC#023	DK4WO	Andy		
-TRC#024	DK8RE	Hans-Juergen		
-TRC#025	DL1ARG	Rolf		
-TRC#026	DK9MS	Markus		
-TRC#027	DO1IP	Udo		
-TRC#028	DL4ABO	Michael		
-TRC#029	DF8XC	Burkhard		
-TRC#030	DL6BS	Stefan		
-TRC#031	DF8VV	Horst		
-TRC#032	DO9MJ	Matthias		
-TRC#033	DL4FDM	Fritz		
-TRC#034	DF2AJ	Andy		
-TRC#035	DK2VA	Josef		
-TRC#036	DE2LBB	Heiner		
-TRC#037	DL8BV	Heirbert		
-TRC#038	DG2PHE	Peter		
-TRC#039	CB	Stefan		
-TRC#040	DL6XAZ	Fred		
-TRC#041	DF5WW	Juergen		
-TRC#042	DL1CW	Arno		
-TRC#043	CB	Dieter		
-TRC#044	DL-S21-21737	Marco		
-TRC#045	DF2CQ	Achim		
-TRC#046	DO2WAL	Manfred		
-TRC#047	DL2NBY	Tom		
-TRC#048	DL2YAK	Uwe		
-TRC#049	DM5BB	Alexander		
-TRC#050	DO2FM	Frauke		
-TRC#051	CB	Valentin		
-TRC#052	DL5AWI	Gerd		
-TRC#053	DJ1CQ	Viktor		
-TRC#054	DL2AMM	Manfred		
-TRC#055	DL7ET	Veit		
-TRC#056	DM2RN	Ernst		
-TRC#057	DK7FF	Josef		
-TRC#058	DJ9ZB	Franz		
-TRC#059	DL6KWN	Helmut		
-TRC#060	DB4BJ	Martin		
-TRC#061	DL1CC	Wolf		
-TRC#062	DK3DUA	Thomas		
-TRC#063	DF3TE	Elfi		
-TRC#064	DH1PAL	Werner		
-TRC#065	DM3ZM	Harald		
-TRC#066	DL0052SWL	Marco		
-TRC#067	DG1YOW	Olivier		
-TRC#068	DM3KXL	Reinhard		
-TRC#069	DL4HBF	Heinz		
-TRC#070	DG8PD	Juergen		
-TRC#071	DJ0JB	Jorg		
-TRC#072	DL3WB	Willi		
-TRC#073	DK5ON	Andy		
-TRC#074	DH0GME	Elmar		
-TRC#075	DL8UD	Uwe		
-TRC#076	DL1ERE	Vesko		
-TRC#077	DK7OG	Hans-Andr‚		
-TRC#078	DL9FCQ	Thomas		
-TRC#079	DL8KAC	Vlad		
-TRC#080	DE0MKH	Michael		
-TRC#081	DJ7OM	Paul		
-TRC#082	DL2DXA	Bernd		
-TRC#083	DL6ZFG	Rolf		
-TRC#084	DJ0FX	Walt		
-TRC#085	DE2TRF	Torsten		
-TRC#086	DM5EM	Sven		
-TRC#087	DD8VX	Matthias		
-TRC#088	DG2BAR	Barbara		
-TRC#089	DL6BCX	Hermann		
-TRC#090	DL8UVG	Volkhard		
-TRC#091	DG0KS	Michel		
-TRC#092	DL5JQ	Erhard		
-TRC#093	DL2LDE	Daniel		
-TRC#094	DL1JGO	Wolf		
-TRC#095	DG9AK	Karl-Walter		
-TRC#096	DO9SO	Soner		
-TRC#097	DE1JST	Jurgen		
-TRC#098	DF5EG	Joe		
-TRC#099	DF4WC	Andy		
-TRC#101	CB	Herbert		
-TRC#102	CB	Wolfgang		
-TRC#103	CB	Klaus		
-TRC#104	CB	Stephan		
-TRC#105	CB	Schenk		
-TRC#106	CB	Karl-Heinz		
-TRC#107	CB	Jurgen		
-TRC#108	CB	Dieter		
-TRC#109	CB	Tim		
-TRC#110	CB	Willi		
-TRC#111	CB	Kai		
-TRC#112	CB	Christian		
-TRC#113	CB	Ralf		
-TRC#114	CB	Olaf		
-TRC#115	CB	Jurgen		
-TRC#116	CB	Dirk		
-TRC#117	CB	Paul		
-TRC#118	CB	Detlef		
-TRC#119	DM6FF	Frank		
-TRC#120	CB	Lars		
-TRC#121	DF1XC	Doc		
-TRC#122	DL4CF	Joe		
-TRC#123	DG3BCZ	Florian		
-TRC#124	CB	Chris		
-TRC#125	DL8BFV	Sebastian		
-TRC#126	DL4FCH	Peter		
-TRC#127	DL1LRI	Gerald		
-TRC#128	DF8AN	Michael		
-TRC#129	DR7T	Martin		
-TRC#130	DE1RSG	Reiner		
-TRC#131	DL2LU	Lueder		
-TRC#132	DF7KD	Rainer		
-TRC#133	DJ0MA	Andreas		
-TRC#134	DJ6DO	Gerhard		
-TRC#135	DC1YY	Reinhard		
-TRC#136	DK9PA	Patrick		
-TRC#157	CB	Carsten		
-TRC#173	CB	Volker		
-TRC#222	CB	Wolfgang		
-TRC#256	CB	Robin		
-TRC#333	CB	Markus		
-TRC#585	CB	Olaf		
-TRC#707	CB	Uli		
-TRC#765	CB	Martin		
-				
-DU - Philippines - 79				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	DV1UD			
-TRC#003	DU1ZGH	Aves		
-TRC#004	4G1QAZ	Joy		
-TRC#100	CB	Choi		
-TRC#101	CB	Aldrin		
-TRC#103	CB	Hector		
-				
-E4 - Palestine - 340				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	E41WT	Walaa		
-				
-E7 - Bosnia and Hercegovina - 331				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	E77O	Slobodan		
-TRC#003	E77E	Robert - S.K.		
-TRC#004	E77S	Sadudin		
-TRC#005	E76WO	Goran		
-TRC#006	E79Q	Josip		
-TRC#007	E77EE	Zdravko		
-TRC#101	CB	Mile		
-				
-EA - Spain - 30				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Nik		
-TRC#003	EA3KE	Toni		
-TRC#004	EA7OR	Francisco		
-TRC#005	CB	Raul		
-TRC#006	EA2TA	George		
-TRC#007	EA2DCF	Kepa		
-TRC#008	EB3DSD	Joan		
-TRC#009	EA5HBM	Manuel		
-TRC#010	CB	Nikko		
-TRC#011	EA3FHP	Joseph		
-TRC#012	EB5DZC	Juan Carlos		
-TRC#013	EC7ALW	Monki		
-TRC#014	EA4M	Rick		
-TRC#015	EB1AGG	Jesus		
-TRC#016	EA5HT	Jesus		
-TRC#017	EA2NA	German		
-TRC#018	EA5YU	Jose		
-TRC#019	EA1UJ	Francisco		
-TRC#020	EA1HLW	Angeles		
-TRC#021	CB	Oscar		
-TRC#022	CB	Antonio		
-TRC#023	EA1IDG	Pablo		
-TRC#024	CB	Paco		
-TRC#025	EB3WH	Juanjo		
-TRC#026	EA7Q	Leonardo		
-TRC#027	EA7AJP	Francisco		
-TRC#028	EA2KR	Francisco		
-TRC#029	EA5HM	Pepe		
-TRC#030	EA3ARN	Josep		
-TRC#031	EA3HYJ	Agustin		
-TRC#032	EA4BAS	Miguel		
-TRC#033	EA3HKA	Eliseo		
-TRC#034	EA3GYE	Antonio		
-TRC#035	EA5WI	Joe		
-TRC#036	EA7JAN	Jose		
-TRC#037	EA4HKF	Jose		
-TRC#038	EA4FME	Antonio		
-TRC#039	EA3HJB	Jordi		
-TRC#041	CB	Alvaro		
-TRC#042	EA5PC	Juan		
-TRC#043	EA4CO	Miguel		
-TRC#044	EA3MQ	Jose		
-TRC#045	EA1NJ	Julio		
-TRC#046	EA5005SWL	Antolin		
-TRC#047	EA1DD	Paco		
-TRC#048	EA5ITT	Fred		
-TRC#101	EA2DT	Manuel		
-TRC#102	CB	Nicanor		
-TRC#104	CB	Angel		
-TRC#105	EC5CWW	Fran		
-TRC#108	CB	Jose		
-TRC#109	CB	Jose		
-TRC#110	CB	Sebastian		
-TRC#294	CB	Frank		
-TRC#313	CB	Nicanor		
-TRC#314	EA3HSL	Jordi		
-TRC#999	EC7K	Tony		
-				
-EA6 - Balearic Isl. - 49				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#011	CB	Mrs. Lumi		
-TRC#012	CB	Jaime		
-TRC#015	CB	Peter		
-TRC#029	CB	Sebas		
-TRC#049	CB	Leandro		
-TRC#101	CB	Javi		
-TRC#108	CB	Maria		
-				
-EA8 - Canary Isl. - 34				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	EA8MT	Dunia		
-TRC#003	EA8GP	Jose		
-TRC#004	EA8ZT	Gul		
-TRC#005	EA8AT	Oscar		
-				
-EA9 - Ceuta & Melilla - 106				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#010	CB	Mario		
-TRC#121	CB	Fernando		
-				
-EI - Ireland - 29				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Oliver		
-TRC#003	CB	Edy		
-TRC#004	CB	Owen		
-TRC#005	CB	Lisa-Marie		
-TRC#006	CB	Tom		
-TRC#007	EI3JB	Nicholas		
-TRC#008	EI5GOB	Francis		
-TRC#009	EI8HL	Bob		
-TRC#010	EI3CTB	Justin		
-TRC#011	EI3GAB	Anthony		
-TRC#012	EI3HA	Tony		
-TRC#013	EI8DD	Tom		
-TRC#014	EI3GRB	Bob		
-TRC#015	EI6KW	Slav		
-TRC#016	EI5KF	Gerard		
-TRC#019	CB	Brendan		
-TRC#029	CB	Frank		
-TRC#102	CB	Robby		
-TRC#167	CB	Edward		
-TRC#170	CB	Pat		
-				
-EK - Armenia - 301				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	EK7DX	Karen		
-TRC#003	EK8ZZ	Karen		
-TRC#004	EK5KE	Henry		
-TRC#005	EK1KE	Rafik		
-TRC#006	EK-RS-156	Valeri		
-TRC#010	EK6RPO	Arthem		
-TRC#100	EK8SL	Club		
-TRC#101	EK6SW	Walter		
-				
-EP - Iran - 154				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Rupert		
-				
-ER - Moldova - 312				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ER5AE	Alexandr		
-TRC#011	ER4DX	Willy		
-TRC#069	ER-069	Andy		
-TRC#101	ER4OT	Vasilij		
-TRC#102	ER2GF	Vladimir		
-TRC#103	CB	Paul		
-TRC#104	CB	Vlad		
-TRC#105	CB	Igor		
-TRC#325	ER2AW	Sergey		
-				
-ES - Estonia - 304				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ES5GP	Juri		
-TRC#003	ES4MM	Alex		
-TRC#004	ES5QA	Valeri		
-TRC#005	ES6JAN	Janno		
-TRC#006	ES3ACV	Rein		
-TRC#007	ES1TNN	Hilar		
-TRC#008	CB	Aulo		
-TRC#009	ES4RX	Valery		
-TRC#010	ES5EP	Enn		
-TRC#011	ES7AM	Rein		
-TRC#012	ES2TT	Ed		
-TRC#013	CB	Victor		
-TRC#014	ES4BP	Vlad		
-TRC#015	ES7FU	Hellar		
-TRC#016	ES5FD	Voldemar		
-TRC#017	ES1QX	Eduard		
-				
-EU - Belarus - 317				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	EW6GF	Andrey	EW6F	
-TRC#003	EW1P	Igor		
-TRC#004	EW8OG	Valery	EW8G	
-TRC#005	EW6FW	Sergej		
-TRC#006	EW1DL	Leonid		
-TRC#007	EW4W	Mikalai		
-TRC#008	EW7BU	Aleksandr		
-TRC#009	EW1D	Leonid	EV5O	
-TRC#010	EW3ADE	Andrei		
-TRC#050	CB	Leonid		
-TRC#055	CB	Alex		
-TRC#100	EU7WW	CLUB		
-TRC#101	EU6AB	Andrej		
-TRC#102	EW6AP	Gary		
-TRC#200	EU1XD	Children club Mayak		
-TRC#471	CB	Valentin		
-				
-EX - Kyrgizstan - 309				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	EX8BN	Evgenij		
-TRC#003	EX8004	Ivan		
-TRC#070	EX8AA	Alex		
-TRC#101	CB	Misha		
-TRC#102	EX8MH	Vlad		
-				
-EY - Tadzhikistan - 313				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#009	EY8AW	Anna		
-TRC#010	EY8CQ	Alex		
-				
-EZ - Turkmenistan - 314				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	EZ8CQ	Alexandr		
-TRC#102	EZ8CW	Vitaly		
-TRC#103	EZ8AQ	Jenny		
-TRC#104	EZ8YL	Elena		
-TRC#105	EZ3AA	Alex		
-TRC#106	CB	Miku		
-				
-F - France - 14				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#003	F4EZJ	Stef		
-TRC#004	F1ICS	Henri		
-TRC#005	F6GYZ	Pierre		
-TRC#006	F5TFI	Rene		
-TRC#007	F4FJH	Eric		
-TRC#008	F4FYC	Patrick		
-TRC#009	F4GDO	John		
-TRC#010	F4BVO	Olivier		
-TRC#011	F4EIE	Richard		
-TRC#012	CB	Erik		
-TRC#013	CB	Antoine		
-TRC#014	F1IWH	Daniel		
-TRC#015	F0EZH	Regis		
-TRC#016	F8NUH	Rochez		
-TRC#017	F1AEY	Philippe		
-TRC#018	F5OEV	Alain		
-TRC#019	F5MPN	St‚phane		
-TRC#020	F4DTO	Franck		
-TRC#021	CB	Lucien		
-TRC#022	F4GFE	Patrick		
-TRC#023	F4BPO	Gregory		
-TRC#024	F1ONW	Lioret		
-TRC#025	F1DSZ	Jean-Claude		
-TRC#026	F6AJM	Jean-Pierre		
-TRC#027	F6EAZ	Chris		
-TRC#028	F8BON	Pat		
-TRC#029	F6JOE	Jean		
-TRC#030	F-16527	Bernard		
-TRC#031	F8ATS	Tony		
-TRC#032	F5UQE	Duc		
-TRC#033	F8DGF	Nicolas		
-TRC#034	F5NBX	Fred		
-TRC#035	F6DHI	Christian		
-TRC#036	CB	Patrice		
-TRC#037	F4HZS	Nicolas		
-TRC#038	F8AZK	Jean-Pihilippe		
-TRC#039	F8DFP	Morel		
-TRC#040	F5NLX	Jean-Marie		
-TRC#041	F4FMU	Rodolphe		
-TRC#042	CB	Monique		
-TRC#043	F-10255	Stephane		
-TRC#044	CB	Jean-Paul		
-TRC#045	F1TIO	Bruno		
-TRC#046	CB	Abel		
-TRC#047	F5PVK	Yvon		
-TRC#048	F4VSD	Sandu		
-TRC#049	F5PHY	Ivan		
-TRC#050	F6GTX	Emile		
-TRC#051	F5VBU	Malcolm		
-TRC#052	F4FRC	Herve		
-TRC#053	F4VRF	Alan		
-TRC#054	F1UIJ	Andy		
-TRC#055	F4HYT	Pascal		
-TRC#056	F4DIA	Andre		
-TRC#057	CB	Jean Pierre		
-TRC#058	F6OBD	Philippe		
-TRC#059	CB	Jean-Marie		
-TRC#060	F4BND	Rubio		
-TRC#061	F4CTJ	Karim		
-TRC#064	CB	Frederic		
-TRC#065	CB	Didier		
-TRC#066	CB	Christian		
-TRC#067	CB	Bernard		
-TRC#068	CB	Jean  Claude		
-TRC#069	CB	Fabrice		
-TRC#070	CB	Alain		
-TRC#071	CB	Simon		
-TRC#072	CB	Christophe		
-TRC#073	CB	Regis		
-TRC#074	F4DCJ	Philippe		
-TRC#075	CB	Yohann		
-TRC#076	CB	Francois		
-TRC#077	CB	Rene		
-TRC#078	CB	Jean		
-TRC#080	CB	Cedric		
-TRC#081	CB	Patrick		
-TRC#083	CB	Michel		
-TRC#085	CB	Philippe		
-TRC#086	CB	Jean Michel		
-TRC#087	CB	Michel		
-TRC#088	CB	Michel		
-TRC#091	CB	Philippe		
-TRC#100	TP2CE	Club - C.E.R.A.C.		
-TRC#101	CB	Richard		
-TRC#102	CB	Pascal		
-TRC#103	CB	Ramon		
-TRC#104	F1TNH	Jean-Michel		
-TRC#105	CB	Cyril		
-TRC#106	CB	Sebastien		
-TRC#107	CB	Jean		
-TRC#108	CB	Julien		
-TRC#109	CB	Georges		
-TRC#110	CB	Gilberte		
-TRC#111	CB	Pierre		
-TRC#112	CB	Arnaud		
-TRC#113	CB	Christian		
-TRC#114	CB	Robert		
-TRC#115	CB	Patrick		
-TRC#116	FA1BWV	Bruno		
-TRC#117	CB	Francois		
-TRC#118	CB	Yannick		
-TRC#120	CB	Patrick		
-TRC#121	CB	Eric		
-TRC#122	CB	Gregory		
-TRC#123	CB	Eric		
-TRC#124	CB	Jean		
-TRC#125	CB	Francois-Rene		
-TRC#126	CB	Michel		
-TRC#127	CB	Claude		
-TRC#128	CB	Arnault		
-TRC#129	CB	Patrice		
-TRC#130	CB	Bernard		
-TRC#131	F4CZH	Alain		
-TRC#132	CB	Philippe		
-TRC#133	CB	Mimi		
-TRC#134	CB	Jean-Philippe		
-TRC#135	CB	Roger		
-TRC#136	CB	Olivier		
-TRC#137	CB	Eric		
-TRC#138	CB	Pascal		
-TRC#139	CB	Jean-Marie		
-TRC#140	CB	Bernard		
-TRC#141	CB	Geraldine		
-TRC#142	CB	Sophie		
-TRC#143	CB	Eric		
-TRC#144	CB	Paul		
-TRC#145	CB	Bruno		
-TRC#146	CB	Michel		
-TRC#147	CB	Jacky		
-TRC#148	CB	Victor		
-TRC#149	CB	Manuel		
-TRC#150	CB	Bruno		
-TRC#151	CB	Michael		
-TRC#152	CB	Charles		
-TRC#153	CB	Jean-Michel		
-TRC#154	CB	Philippe		
-TRC#155	CB	Jean-Marie		
-TRC#156	CB	Jean-Claude		
-TRC#157	CB	Jack		
-TRC#158	CB	Gilbert		
-TRC#159	CB	Jacques		
-TRC#160	CB	Ludovic		
-TRC#161	FA1BNF	David		
-TRC#162	CB	Hubert		
-TRC#163	CB	Herve		
-TRC#164	CB	Thierry		
-TRC#165	F0EAR	Jacques		
-TRC#166	CB	Michel		
-TRC#167	CB	Christian		
-TRC#168	CB	Raoul		
-TRC#169	CB	Francois		
-TRC#170	CB	Francis		
-TRC#171	CB	Maurice		
-TRC#172	CB	Rene		
-TRC#173	CB	Jean-Michel		
-TRC#174	CB	Eric		
-TRC#176	CB	Eddy		
-TRC#177	CB	Adrien		
-TRC#178	CB	Frederic		
-TRC#179	CB	Stephane		
-TRC#180	CB	Denis		
-TRC#181	CB	Claude		
-TRC#182	CB	William		
-TRC#184	CB	Henri		
-TRC#185	CB	Sebastien		
-TRC#186	CB	Pierre		
-TRC#187	CB	Fabrice		
-TRC#188	CB	Sophie		
-TRC#189	CB	Pascal		
-TRC#190	CB	Philippe		
-TRC#191	CB	Guedon		
-TRC#192	CB	Audrey		
-TRC#193	CB	Michel		
-TRC#194	CB	Bernard		
-TRC#195	F-15933	Guy		
-TRC#196	CB			
-TRC#198	CB	Denis		
-TRC#199	CB	Fabrice		
-TRC#200	CB	Didier		
-TRC#201	CB	Michel		
-TRC#202	CB	Fred		
-TRC#203	CB	Sylvain		
-TRC#204	CB	Daniel		
-TRC#205	CB	Frederic		
-TRC#206	CB	Jean-Claude		
-TRC#207	CB			
-TRC#208	CB	Fabrice		
-TRC#209	CB	Vincent		
-TRC#210	CB	Morgan		
-TRC#211	CB	Christophe		
-TRC#212	CB	Martial		
-TRC#213	CB	Martine		
-TRC#214	CB	Bruno		
-TRC#215	CB	Victor		
-TRC#217	CB	Francis		
-TRC#220	CB	Michel		
-TRC#221	CB	Sonia		
-TRC#222	CB	Jean-Philippe		
-TRC#223	CB	Yann		
-TRC#224	CB	Sonia		
-TRC#225	CB	Claude		
-TRC#226	CB	Julien		
-TRC#227	CB	Erick		
-TRC#229	CB	David		
-TRC#230	CB	Henri		
-TRC#231	CB	Michel		
-TRC#232	CB	Jean-Claude		
-TRC#234	CB	Jacques		
-TRC#235	CB	Jean		
-TRC#236	F4EFL	Jean		
-TRC#237	CB	Stephane		
-TRC#239	CB	Johann		
-TRC#240	CB	Guillaume		
-TRC#242	CB	Christophe		
-TRC#243	CB	Christophe		
-TRC#244	CB	Jose		
-TRC#245	CB	Patrice		
-TRC#246	CB	Alain		
-TRC#247	CB	Monique		
-TRC#248	CB	Damien		
-TRC#249	CB	Yves		
-TRC#251	CB	Leo		
-TRC#252	CB	Arnaud		
-TRC#253	CB	Thomas		
-TRC#254	F0DWK	Serge		
-TRC#255	CB	Jean-Michel		
-TRC#256	CB	Claude		
-TRC#257	CB	Jean-Louis		
-TRC#258	CB	Jean Luc		
-TRC#259	CB	Philippe		
-TRC#261	CB	Philippe		
-TRC#262	CB	Francois		
-TRC#263	CB	Andre		
-TRC#264	CB	Alain		
-TRC#265	CB	Christine		
-TRC#268	CB	Marc		
-TRC#270	CB	Jacques		
-TRC#271	CB	Romain		
-TRC#272	CB	Bruno		
-TRC#273	CB	Guy		
-TRC#274	CB	Philippe		
-TRC#275	CB	Fred		
-TRC#276	F-18017	Laurent		
-TRC#277	CB	Georges		
-TRC#279	CB	Michel		
-TRC#281	CB	Norbert		
-TRC#282	CB	Michel		
-TRC#283	CB	Ludovic		
-TRC#284	CB	Patrice		
-TRC#285	CB	Gilbert		
-TRC#286	CB	Jacky		
-TRC#287	CB	Philippe		
-TRC#289	CB	Gerard		
-TRC#290	CB	Jose		
-TRC#291	CB	Nicolas		
-TRC#292	CB	Bertrand		
-TRC#293	CB	Rupert		
-TRC#294	CB	Monique		
-TRC#295	CB	Christophe		
-TRC#296	CB	Nicolas		
-TRC#297	CB	Christophe		
-TRC#298	CB	Eric		
-TRC#299	CB	Faisal		
-TRC#301	CB	Gerard		
-TRC#302	CB	Jacques		
-TRC#303	CB	Isabelle		
-TRC#304	CB	Philippe		
-TRC#306	CB	Bernard		
-TRC#307	CB	Raymond		
-TRC#308	CB - S.K.	Pierre		
-TRC#309	CB	Julien		
-TRC#310	F-18065	Joel		
-TRC#312	CB	Robert		
-TRC#313	CB	Jesica		
-TRC#314	CB	Jean-Pierre		
-TRC#315	CB	Jean-Luc		
-TRC#317	CB	Frederic		
-TRC#318	CB	David		
-TRC#325	CB	Daniel		
-TRC#327	CB	Herve		
-TRC#328	CB	Jean-Claude		
-TRC#332	CB	James		
-TRC#334	CB	Philippe		
-TRC#337	CB	Eric		
-TRC#340	CB	Marcel		
-TRC#345	CB	Kevin		
-TRC#355	CB	Thierry		
-TRC#359	CB	Pierre		
-TRC#374	CB	Fred		
-TRC#376	CB	Joel		
-TRC#400	CB	Patrick		
-TRC#417	CB	Daniel		
-TRC#418	CB	Patrice		
-TRC#428	CB	Raymond		
-TRC#433	CB	Laurent		
-TRC#445	CB	Pierre		
-TRC#474	CB	Frederic		
-TRC#500	CB	Francois		
-TRC#501	CB	Jean-Francois		
-TRC#502	CB	Bernard		
-TRC#531	CB	Nathalie		
-TRC#543	CB	Nathalie		
-TRC#555	F4HZR	Micke		
-TRC#571	CB	Christelle		
-TRC#576	CB	David		
-TRC#582	CB	Serge		
-TRC#585	CB	Frederic		
-TRC#666	CB	Jean-Claude		
-TRC#678	F4DSV	Bertrand		
-TRC#707	CB	Jean-Luc		
-TRC#747	CB	Laurent		
-TRC#778	CB	Eric		
-TRC#928	CB	Claude		
-TRC#929	CB	Dany		
-				
-FG - Guadeloupe - 196				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	FG8NY	Jean		
-TRC#101	CB	Victor		
-				
-FK - New Caledonia - 172				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Robert		
-TRC#003	CB	Eliane		
-TRC#101	CB	Gilles		
-				
-FM - Martinique - 136				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#029	CB	Hugues		
-TRC#101	CB	Alain		
-TRC#104	CB	Rodrigues		
-TRC#136	CB	Francis		
-				
-FO - Fr. Polynesia - 201				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	FO4BM	Philippe		
-TRC#101	CB	Victor		
-				
-FR - Reunion isl. - 173				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#049	CB	Michel		
-TRC#066	CB	Francois		
-TRC#110	CB	Franco		
-TRC#121	CB	Eric		
-				
-FS - St. Martin Isl. - 166				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Franklin		
-TRC#103	CB	Akram		
-				
-FY - French Guyana - 22				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#011	CB	Francis		
-				
-G - England - 26				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#000	CB	Club - CB		
-TRC#002	G0GFQ	Keith		
-TRC#003	M0SHK	Ken		
-TRC#004	M0SMJ	Michael		
-TRC#005	CB	Mark		
-TRC#006	G6AJW	David		
-TRC#007	G7VRK	Steven		
-TRC#008	G0WOU	David		
-TRC#009	CB	Peter		
-TRC#010	CB	Melanie		
-TRC#011	M0MJA	Bob		
-TRC#012	CB	Joshua		
-TRC#013	G7FSI	Barry		
-TRC#014	M3TRC	Peter		
-TRC#015	M6EZI	Simon		
-TRC#016	M0GGO	Chris		
-TRC#017	G6XOU	Herbie		
-TRC#018	G4UCJ	Sean		
-TRC#019	CB	Allen		
-TRC#020	CB	Bryan		
-TRC#021	CB	Simon		
-TRC#022	G4KPN	Bruce		
-TRC#023	G0AJJ	Linda		
-TRC#024	M6WAD	Paul		
-TRC#025	CB	Andrew		
-TRC#026	G3VGR	Dave		
-TRC#027	CB	Terry		
-TRC#029	CB	Smith		
-TRC#030	G7VVE	Tony		
-TRC#031	M0XDJ	Kevin		
-TRC#032	2E0JYK	Graham		
-TRC#033	M0WXX - 2E0DCS	Dave		
-TRC#034	2E0PLA	Phil		
-TRC#035	G6PUE	Mike		
-TRC#036	G3XXR	Roger		
-TRC#037	G0MHC	George		
-TRC#038	G0TNI	Arthur		
-TRC#039	G0CER	Dave		
-TRC#040	G8NDL	Ken		
-TRC#041	M0NPQ	Nerijus		
-TRC#042	G1TYV	Martin		
-TRC#043	G3LIK	Mick		
-TRC#044	G3MPB	Roy		
-TRC#045	M3FYV	Barry		
-TRC#046	G4PPK	Clive		
-TRC#047	M5PLY	Ivor		
-TRC#048	M3PQQ	Robert		
-TRC#049	M0NNH	Gary		
-TRC#050	G3OCA	Ken		
-TRC#051	M0TRN	Thomas		
-TRC#052	M0XLT	Kevin		
-TRC#053	M6KOM	Dave		
-TRC#054	G0OIW	Mark		
-TRC#055	M3KAH	Richard		
-TRC#056	CB	Dave		
-TRC#057	CB	Jon		
-TRC#058	M0YBC	David		
-TRC#059	CB	Rod		
-TRC#060	G0SDT	Jon		
-TRC#061	G3TWA	Mike		
-TRC#062	M0HWK	Kev		
-TRC#063	M6IVO	Ivo		
-TRC#064	G4YMB	Malcolm		
-TRC#065	G1PIE	Mark		
-TRC#066	G3KME	Lindsay		
-TRC#067	M3MNQ	Ian		
-TRC#068	2E0HTC	Gary		
-TRC#069	M0HEM	John		
-TRC#070	G3ZRN	Dave		
-TRC#071	G3SQU	Chris		
-TRC#072	G4CPA	Geoff		
-TRC#073	M0SAS	Steve		
-TRC#074	M0XOC	Mike		
-TRC#075	G4IBW	Richard		
-TRC#076	M6AIF	Kieron		
-TRC#079	M0HZT	Jenni		
-TRC#080	G8SGB	Phil		
-TRC#081	2E0NHR	Steve		
-TRC#082	2E0LRK	Lee		
-TRC#083	M6TET	Tony		
-TRC#084	M6DDT	David		
-TRC#085	G3AGW	Steve		
-TRC#086	M0NMC	Nicholas		
-TRC#087	M0RWL	Robert		
-TRC#089	G1TDN	Trevor		
-TRC#090	G8JYV	Ken		
-TRC#091	2E0VWX	Terence		
-TRC#092	G1MXP	Edward		
-TRC#093	G3CUR	Ronald		
-TRC#094	M0YKB	Dillon		
-TRC#095	2E0FJD	Karl		
-TRC#096	G0VXC	Martin		
-TRC#097	G0OOD	Tim		
-TRC#098	G7OBS	Mike		
-TRC#099	2E1ADT	Kelvin		
-TRC#100	2E0PDX	Graham		
-TRC#101	2E0CVN	Simon		
-TRC#102	CB	Pat		
-TRC#103	M0FGB	Frank		
-TRC#104	CB	Seb		
-TRC#105	CB	Simon		
-TRC#106	M0MET	Robin		
-TRC#107	CB	Patrick		
-TRC#108	CB	Erik Mc Kay		
-TRC#109	CB	Derek		
-TRC#110	CB	Patrick		
-TRC#111	CB	James		
-TRC#112	M3VTI	Tom		
-TRC#113	M6KWE	Ken		
-TRC#114	G8DQP	Jim		
-TRC#115	M0WRI	Peter		
-TRC#116	M0HXS	Matthew		
-TRC#117	G4SNU	Ron		
-TRC#118	G4LJU	Colin		
-TRC#119	CB	Tony		
-TRC#120	G4SJY	John		
-TRC#121	M0WPJ	Peter		
-TRC#122	M6IWD	Allan - S.K.		
-TRC#123	G4PVM	Paul		
-TRC#124	G4PFK	Graham		
-TRC#125	G0AOL	YL Gill		
-TRC#126	M3INW	Steve		
-TRC#127	G4UHM	Steve		
-TRC#128				
-TRC#129	G1SQY	Paul		
-TRC#130	G7KHV	Richard		
-TRC#131	2E0NAQ	Nick		
-TRC#132	G4SMB	Mike		
-TRC#133	G4ZIB	Tony		
-TRC#134	2E0MFC	Lee		
-TRC#135	M0DXT	Bill		
-TRC#136	G6HXL	Derek		
-TRC#137	G7SYW	Roger		
-TRC#138	G0VWL	John		
-TRC#139	G4RCG	John	M2G	
-TRC#140	M7AJA	Anthony		
-TRC#141	2E0EAY	Alonza		
-TRC#142	M7DVP	Dave		
-TRC#143	M7KEV	Kev		
-TRC#144	M7NAW	Nobby		
-TRC#145	M3UXJ	Gary		
-TRC#146	M0HWA	Merfyn		
-TRC#147	G0FGI	Tom		
-TRC#148	CB	Dave		
-TRC#149	G8VVY	Robin		
-TRC#150	G4JBA	Jim		
-TRC#151	G4HVC	Andrew		
-TRC#152	M0SAR	Stuard		
-TRC#153	2E1DFI	Ray		
-TRC#154	G4HLN	Larry		
-TRC#155	M6XPB	Marcus		
-TRC#156	CB	Adrian		
-TRC#157	G4NAQ	Clive		
-TRC#158	G7SWS	Olly		
-TRC#159	M0IRU	Andrew		
-TRC#160	M6RGX	Bill		
-TRC#161	G7UQN	Glyn		
-TRC#162	G4YDL	Paul		
-TRC#163	M0GLP	Garry		
-TRC#164	G7UVC	Bob		
-TRC#165	M0NMQ	Ian		
-TRC#166	CB	Andy		
-TRC#167	2E0LKC	Mark		
-TRC#168	G0ERS	Rod		
-TRC#169	M0CFM	Andrew		
-TRC#170	G0OFD	John		
-TRC#171	G0FOG	Colin		
-TRC#172	M7PHE	Kelvin		
-TRC#175	CB	Norman		
-TRC#176	2E0LMD	Anne		
-TRC#184	M3DGD	Colin		
-TRC#193	CB	Bill		
-TRC#200	MX0PPC	Club - C.R.A.C.		
-TRC#212	2E0YMT	Paul		
-TRC#214	2E0TBT	Nick		
-TRC#218	CB	Graham		
-TRC#272	M3MSD	John  B		
-TRC#281	M0ZOL	Zoltan		
-TRC#300	G6UT	Club - H.D.A.R.S.		
-TRC#316	M0VPE	Iain		
-TRC#337	2E0ATB	Lee		
-TRC#386	CB	Kevin		
-TRC#412	M3DDY	Martin		
-TRC#444	CB	Donna		
-TRC#456	CB	Thierry		
-TRC#548	M3GJN	Philip		
-TRC#549	CB	Trevor		
-TRC#666	CB	Stuart		
-TRC#696	CB	Tony		
-TRC#711	CB	Bev		
-TRC#747	CB	Mark		
-TRC#782	G0VVY	Matt		
-TRC#880	CB	Eddie		
-				
-GD - Isle of Man - 137				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	GD0OUD	Stuard		
-TRC#003	GD6ICR	Mile		
-TRC#004	2D0YLX	David		
-TRC#005	GD4EIP	Colyn		
-				
-GI - Northern Ireland - 68				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#000	CB	Club		
-TRC#002	GI3SG	Martin		
-TRC#003	GI4FUE	Charlie		
-TRC#004	MI3AIN	Robert		
-TRC#005	CB	Robert		
-TRC#006	GI8YJV	Peter		
-TRC#007	MI0GTA	Stevie		
-TRC#008	MI6LFU	Clive		
-TRC#009	MI0JZZ	Chris		
-TRC#010	2I0WAI	Martin		
-TRC#100	GN5DX	DX-World Radio Club		
-TRC#101	CB			
-TRC#102	CB	Sean		
-TRC#103	CB	Brian		
-TRC#133	CB	Lynn		
-				
-GM - Scotland - 108				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	MM0KSS	Kevin		
-TRC#003	GM4CFS	Glyn		
-TRC#004	MM6DAF	Darryl		
-TRC#005	MM6PMC	Paul		
-TRC#006	MM0GZZ	Duncan		
-TRC#007	GM0NKX	Peter		
-TRC#008	MM0XXW	Martyn		
-TRC#009	GM0CDV	Ray		
-TRC#010	MM3DYB	Kevin		
-TRC#011	GM0WED	Ed		
-TRC#012	GM0JZV	John		
-TRC#013	MM0DHQ	Arthur		
-TRC#014	2M0BHR	Peter		
-TRC#015	GM0FSV	John		
-TRC#016	MM0DXH	Jim		
-TRC#017	CB	Kevin		
-TRC#018	MM5AII	Liam		
-TRC#019	GM4JKZ	Keith		
-TRC#020	GM0LIR	Phil	MM2T	
-TRC#024	MM3SCO	Gary		
-TRC#059	2M0KVM	Kevin		
-TRC#069	CB	Marie		
-TRC#101	CB	Ludovic		
-TRC#102	CB	Sandy		
-TRC#103	CB	Ali Mc Ewan		
-TRC#104	CB	David		
-TRC#105	MM0PQJ	Pat		
-TRC#106	CB	John		
-TRC#107	CB	Alvar		
-TRC#108	CB	Andy		
-TRC#109	CB	Brian		
-TRC#224	MM3AWA	Gordon		
-TRC#225	CB	Chris		
-TRC#226	MM3AWD	Scott		
-TRC#261	CB	Brendan		
-TRC#333	CB	Peter		
-				
-GU - Guernsey Isl. - 169				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	GU5WZY	Simon		
-TRC#010	CB	Rod		
-				
-GW - Wales - 163				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	MW3MOJ	Pitt		
-TRC#003	MW3VJN	Tristan		
-TRC#004	GW4GNY	Martin		
-TRC#005	MW7OKW	Mark		
-TRC#020	CB	Mark		
-TRC#028	CB	Kevin		
-TRC#044	CB	Paul		
-TRC#055	CB	Peter		
-TRC#067	CB	Dave		
-TRC#100	MC0NSC	N.D.Sea Cadets		
-TRC#101	CB	Dennis		
-TRC#102	CB	Danny		
-TRC#105	CB	Barry		
-TRC#317	CB	Jack		
-TRC#333	CB	Alan		
-TRC#2000	CB	Gary		
-				
-HA - Hungary - 109				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	HA8UT	Istvan		
-TRC#003	HA7PL	Laszlo		
-TRC#004	HA5BA	Klara		
-TRC#005	HA5BWW	Ede	HA5W	
-TRC#006	HA1RS - S.K.	Laszlo		
-TRC#007	HA5LC	Peti		
-TRC#008	HA2ESM	Tamas		
-TRC#009	HA8TQ	Laszlo		
-TRC#010	HA2MM	Joszef		
-TRC#011	HA9SU - S.K.	Bela		
-TRC#012	HA7JQK	Alexandrosz		
-TRC#013	CB	Gabor		
-TRC#014	HA1VG	Janos		
-TRC#015	HG3FIC	Gyorgy		
-TRC#016	HA5BSW	Tibor		
-TRC#017	HA8TP	Jeno		
-TRC#018	HA1AS	Turi		
-TRC#019	HA0BW	Imre		
-TRC#020	HA7RY	Tamas		
-TRC#021	HA7PO	Gabor		
-TRC#022	HA2EAV	Jozsef		
-TRC#023	HA7TM	Tibor		
-TRC#024	HA7ZB	Csuhaj		
-TRC#025	HA1XU	Janos		
-TRC#026	HA3HK	Zoli		
-TRC#027	CB	Karoy		
-TRC#100	HG7T	rd V rosi R di¢klub SE		
-TRC#101	HA3JO	Joe		
-				
-HB - Switzerland - 15				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Pablo		
-TRC#003	HB9TWU	Gregoire		
-TRC#004	HB9EKS	Maurizio		
-TRC#005	HB9ELV	Christoph		
-TRC#006	HB9DAX	Manfred		
-TRC#007	HB9CSA	Fritz		
-TRC#008	HB9AII	Franz		
-TRC#009	HB9BRU	Peter		
-TRC#010	CB	Diddi		
-TRC#011	CB	Seb		
-TRC#012	CB	Mark		
-TRC#013	HB9EDG	Franco		
-TRC#015	CB	Oscar		
-TRC#016	HB9AYZ	Werner		
-TRC#017	HB3XUT	Erik		
-TRC#019	HB9HLD	George		
-TRC#020	CB	Caroline		
-TRC#029	HB9FBS	Goran		
-TRC#100	HB9NE	Doubs Contest Group		
-TRC#101	CB	Gregory	HB9HMP	
-TRC#111	CB	Osmarina		
-TRC#222	CB	Yann		
-				
-HB0 - Liechtenstein - 40				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#010	CB	Diddi		
-				
-HC - Ecuador - 61				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	HC5VF	Fausto		
-TRC#003	HC5CR	Fausto		
-TRC#004	HC3BL	Byron		
-TRC#005	HC5DX	David		
-				
-HH - Haiti - 103				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Michel		
-TRC#102	CB	Herve		
-				
-HI - Dominican Rep. - 37				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	HI8CJG	Candido		
-TRC#003	HI8MU	Mariano		
-TRC#004	HI8JAN	Jose		
-TRC#005	HI8CJP	Cristian		
-TRC#006	HI5MLE	Marcos		
-TRC#007	HI4RKR	Ramon		
-TRC#008	HI5JFG	Jose		
-TRC#010	HI4CNP	Casiano		
-TRC#011	HI4ERM	Elvin		
-TRC#012	HI8PAQ	Pedro		
-TRC#013	HI8ANN	Apolinar		
-TRC#014	HI3JAC	Juan		
-TRC#015	HI3VDE	Eusebio		
-TRC#016	HI6DTC	Domingo		
-TRC#017	HI5FIW	Fulvio		
-TRC#018	HI8EFS	Elio		
-TRC#019	HI5GFJ	Jorge		
-TRC#101	CB	Fabian		
-TRC#123	CB	Fausto		
-				
-HK - Columbia - 6				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	HK6J	Juan		
-TRC#003	HK8RKF	Javier		
-TRC#004	HJ2BKY	Yeinson		
-TRC#005	HK3X	Pedro		
-TRC#006	HK3ZD	Victor		
-TRC#101	CB	Eduardo		
-TRC#102	CB	Laura		
-TRC#103	CB	Alberto		
-				
-HL - South Korea - 100				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	DS2AGH	Aves		
-				
-HP - Panama - 24				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	HP1DCP	Rene		
-TRC#003	HP1AVS	Victor		
-TRC#004	HP1ALX	Luis		
-TRC#102	CB	Alfred		
-				
-HR - Honduras - 28				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	HR5JCO	Yovanni		
-TRC#102	CB	Elia		
-TRC#110	CB	Oscar		
-				
-HS - Thailand - 153				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	HS1IWX	Amnat		
-TRC#003	E20VWT	Apluck		
-TRC#004	HS0ZLE	Gregory		
-TRC#005	E21YDP	Harongdej		
-TRC#100	HS0AC	Club		
-				
-HZ - Saudi  Arabia - 48				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	7Z1HL	Harry		
-TRC#003	HZ1DG	Abdul		
-TRC#004	HZ1SK	Samir		
-TRC#005	7Z1AL	Abdulaziz		
-TRC#006	7Z1LR	Hamoud		
-TRC#101	7Z1SJ	Suleiman		
-				
-I - Italy - 1				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#000	CB	Club		
-TRC#002	IK8SDQ	Sergio		
-TRC#003	CB	Roberto		
-TRC#004	IW0BAY	Luigi		
-TRC#005	CB	Antonio		
-TRC#006	CB	Livio		
-TRC#007	IZ1ORU	Patrizia		
-TRC#008	IW1PUE	Luciano		
-TRC#009	IZ2SVW	Silvio		
-TRC#010	IZ8CCW	Antonio		
-TRC#011	CB	Jim		
-TRC#012	IK2CJF	Stefano		
-TRC#013	IZ2JNN	Stefano		
-TRC#014	IZ1GJK	Maurizio		
-TRC#015	IV3AZV	Mauro		
-TRC#016	IN3NJB	Roberto		
-TRC#017	IZ3PZL	Giorgio		
-TRC#018	IK2EKO	Pierangelo		
-TRC#019	IZ0DBA	Giacomo		
-TRC#020	IZ1MHY	Andrea		
-TRC#021	I2AZ	Giuseppe		
-TRC#022	I2MOV	Flaviano		
-TRC#023	IK8JKU	Enzo		
-TRC#024	IW1PRT	Alberto		
-TRC#025	CB	Luigi		
-TRC#026	CB	Alberto		
-TRC#027	CB	Mino		
-TRC#028	IZ0EGY - S.K.	Antonio		
-TRC#029	IK7BEF	Antonio		
-TRC#030	I8TUS	Sal		
-TRC#031	IT9BUA	Natalino		
-TRC#032	IK3GES - S.K.	Gabriele		
-TRC#033	IW3SGT	Alessandro		
-TRC#034	IK7YGQ	Teresa		
-TRC#035	I3VAD	Giancarlo		
-TRC#036	IT9IMJ	Rosario		
-TRC#037	IW3IDS	Francesco		
-TRC#038	IW3BKN	Roberto		
-TRC#039	IW1DQS	Davide		
-TRC#040	IV3BUC	Giuseppe		
-TRC#041	I3-65709	Walter		
-TRC#042	IK0GDG	Antonelo		
-TRC#043	IZ5HZO	Lorenzo		
-TRC#044	IZ8JFL	Fabio		
-TRC#045	IZ3XNJ	Stefano		
-TRC#046	IK1ZOD	Fabrizio		
-TRC#047	IZ2GRG	Stan		
-TRC#048	IT9DVZ	Roberto		
-TRC#049	IT9HLR	Salvo		
-TRC#050	IK8NSR	Davide		
-TRC#051	IZ7DOZ	Pasquale		
-TRC#052	IZ1MRO	Sandro		
-TRC#053	IZ5JMZ	Giovanni		
-TRC#054	IZ5RKC	Enrico		
-TRC#055	IZ8TGC	Angelo		
-TRC#056	IZ7XWO	Ferdinando		
-TRC#057	IZ1PNT	Andrea		
-TRC#058	I8-1659-RC	Salvatore		
-TRC#059	IU2BWQ	Diego		
-TRC#060	IZ1DPS	Mauro		
-TRC#061	IZ4SJP	Carlos		
-TRC#062	IU5CJP	Massimiliano		
-TRC#063	IZ0TTA	Andrea		
-TRC#064	IW0GVG	Giovanni		
-TRC#065	I1PJK	Maurizio		
-TRC#066	IV3VBM	Mario		
-TRC#067	IU2DQH	Pasquale		
-TRC#068	CB	Francesco		
-TRC#069	IU4DEG	Andrea		
-TRC#070	I3PVE	Gildo		
-TRC#071	IZ4WLD	Oreste		
-TRC#073	IK2CWZ	Tony		
-TRC#074	IW3QRM	Gianni		
-TRC#075	IU6EVN	Marco		
-TRC#076	IK1XPK	Clay		
-TRC#077	I6HWD	Domenico		
-TRC#078	IT9ACJ	Roberto		
-TRC#079	IN3UFW	Marco		
-TRC#080	IT9RRU	Maurizio		
-TRC#081	IU3KGO	Massimo		
-TRC#082	IW1PPB	Andrea		
-TRC#083	IK2EST	Mario		
-TRC#084	IU5GBQ	Andrea		
-TRC#085	I6FDJ	Filippo		
-TRC#086	I6YEF	Piero		
-TRC#087	IK2AVH	Piero		
-TRC#088	IN3FOS	YL Alessandra		
-TRC#089	IW1CHX	Nikola		
-TRC#090	CB	Eugy		
-TRC#091	IK3HTH	Michele		
-TRC#092	IV3SKB	Andrea		
-TRC#093	IV3HAX	Mauro		
-TRC#094	IU6FUB	Cesare		
-TRC#095	IZ8VKR	Clemente		
-TRC#096	IW3FVZ	Fabio		
-TRC#097	IT9RZU	Joe		
-TRC#098	IU4FLO	Daniel		
-TRC#099	IV3UHL	Paolo		
-TRC#100	IQ1TG	R. C. Tigullio		
-TRC#101	IZ1GJH	Massimo		
-TRC#102	CB	Federico		
-TRC#103	CB	Luca		
-TRC#104	CB	Katiuscia		
-TRC#105	CB	Graziano		
-TRC#106	CB	Guglielmo		
-TRC#107	CB	Daniele		
-TRC#108	CB	Ezio		
-TRC#109	CB	Marco		
-TRC#110	CB	Luca		
-TRC#111	CB	Raimondo		
-TRC#112	IK8TPB	Dario		
-TRC#113	CB	Marino		
-TRC#114	IZ1TEJ	Brusnego		
-TRC#116	CB	Emilio		
-TRC#117	IK0NOJ	Daniele		
-TRC#118	IU3BTY	Valerio		
-TRC#119	IC8FBU	Antonio		
-TRC#120	I0WM	Maurizio		
-TRC#121	IU0MBJ	Christian		
-TRC#122	IZ8QMZ	Salvatore		
-TRC#124	IZ5WTV	Henry		
-TRC#125	IU3NOM	Roberto		
-TRC#126	IW8PQ	Nino		
-TRC#127	CB	Peter		
-TRC#128	IU8DON	Vincenzo		
-TRC#129	IK4DCX	Marco		
-TRC#130	IK2WAD	Giosue		
-TRC#131	CB	Dario		
-TRC#132	IK6QRH	Roberto		
-TRC#133	IK4ZHH	Filippo		
-TRC#134	IT9CBS	Giuseppe		
-TRC#135	IN3PPH	Sandro		
-TRC#137	CB	Giovanni		
-TRC#138	CB	Cristiano		
-TRC#139	CB	Alessandro		
-TRC#140	CB	Natalia		
-TRC#141	IU1QRG	Nicola		
-TRC#142	IV3LNQ	Luigi		
-TRC#143	IU5PTB	Paolo		
-TRC#144	IU1PSQ	Giovanni		
-TRC#145	IT9SSI	Dario		
-TRC#146	I1EIS	Marco		
-TRC#147	IW3SSD	Andrea		
-TRC#154	CB	Daniele		
-TRC#161	CB	Darek		
-TRC#170	CB	Mauro		
-TRC#178	CB	Angelo		
-TRC#200	IB2LV			
-TRC#236	CB	Paolo		
-TRC#252	CB	Roberto		
-TRC#286	IW0HEU	Massimo		
-TRC#300	IQ2CJ	ARI Cinisello		
-TRC#1931	IK7ZLW	Antonio		
-				
-IS0 - Sardinia - 165				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	IS0DFW	Angelo		
-TRC#003	IS0DCR	Ivan		
-				
-J6 - St. Lucia - 143				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#010				
-TRC#104	CB	Junior		
-TRC#108	CB	Ian		
-TRC#113	CB	Francis		
-TRC#333	CB	Cuthbert		
-				
-J7 - Grenada Isl. - 195				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Leslie		
-				
-JA - Japan - 25				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	JH1XUP	Jame		
-TRC#003	JI3CJP	Kanji		
-TRC#004	JR6GIM	Eisuke		
-TRC#005	JA1AAA	Nobuo		
-TRC#006	JI3UVB	Kazushi		
-TRC#007	JP1HUJ	Koji		
-TRC#008	JA3ENN	Yoshiaki		
-TRC#009	JG1OIY	Wataru		
-TRC#010	JA1FMN	Shuji		
-TRC#011	JA1OZZ	Toyohiro		
-TRC#012	JE6NSS	Akihiro		
-TRC#013	JA1TRC	Jay		
-TRC#014	JA8RRF	Kenichi		
-TRC#015	7L4IOU	Hisami		
-TRC#016	JQ1FEP	Kazushige		
-TRC#017	JH8GEU	Shiro		
-TRC#101	CB	Yoshi		
-TRC#104	JO2WIX	Katsu		
-				
-JT - Mongolia - 95				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#102	JT1BV	Naran		
-				
-A3 - Tonga - 96				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#010	CB	Christian		
-				
-K - U.S.A. - 2				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	K4JC	Vincent		
-TRC#003	N2MLP	Brian		
-TRC#004	K4OP	John		
-TRC#005	K5JMB	Jerry		
-TRC#006	W0EAX	Ron		
-TRC#007	K3AXR	Dell		
-TRC#008	W2MLS	Mike		
-TRC#009	KO1H	John		
-TRC#010	AA2LF	Valentin		
-TRC#011	W8BBQ	Mark		
-TRC#012	W8HW	Bruce		
-TRC#013	WB1DSJ	Bob		
-TRC#014	W2KKZ	Robert		
-TRC#015	K9DXR	Russels		
-TRC#016	KB3SDD	Ragu		
-TRC#017	N9NTC	Mike		
-TRC#018	W8ARE	Larry		
-TRC#019	KA2MGI	Chris		
-TRC#020	K2MGR	Kurt		
-TRC#021	K2OEK	George		
-TRC#022	KD6XH	Clifford		
-TRC#023	WA5HDL	Steven		
-TRC#024	N7FF	Frank		
-TRC#025	W1ZS	Burt		
-TRC#026	N7RD	Ron		
-TRC#027	W6YQ	Michael		
-TRC#028	WA9AWJ	Art		
-TRC#029	W1PID	Jim		
-TRC#030	KM2L	Bruce		
-TRC#032	N3PPH	Bob		
-TRC#033	W1ATV	Walter		
-TRC#034	W3CC	Ed		
-TRC#036	KI4MNR	Paul		
-TRC#037	NS3Q	Clint		
-TRC#038	WE8R	Robert		
-TRC#039	K5TDD	Jeffrey		
-TRC#040	NE8J	Howard		
-TRC#041	NV9Z	Chris		
-TRC#042	KC9NEA	Ricky		
-TRC#043	CB	Larry		
-TRC#044	N4NDX	David		
-TRC#045	KB3WJC	Patti		
-TRC#046	K8ED	Mark		
-TRC#047	K5UTG	Warren		
-TRC#048	K1SM	Bill		
-TRC#049	WB7CAG	Gary		
-TRC#050	W1EBM	Gary		
-TRC#051	W5VGR	Don		
-TRC#052	WD8CW	David		
-TRC#053	KD4KIG	Larry		
-TRC#054	W5UY	Bill		
-TRC#055	WB2AQC	George - S.K.		
-TRC#056	N4THG	Tim		
-TRC#057	KA1HFL	Duarte		
-TRC#058	CB	Brian		
-TRC#059	NW7US	Tomas		
-TRC#060	WB8QZZ	Jim		
-TRC#061	AD8DE	Scot		
-TRC#062	KD8ENJ	Ron - S.K.		
-TRC#063	K1QS	Walter		
-TRC#064	KD8SAV	Gary		
-TRC#065	N4KM	Kevin		
-TRC#066	W5JBO	John		
-TRC#067	KK5NA	Joel		
-TRC#068	WA3LUS	Louis		
-TRC#069	AG6OR	Markku		
-TRC#070	K2TQC	Bill		
-TRC#072	KD2FJB	Eugene		
-TRC#073	K8EQ	Robert		
-TRC#074	KK3Q	Floyd		
-TRC#075	K8MEG	Richard		
-TRC#076	W9OV	Martin		
-TRC#077	K3YP	Ray		
-TRC#078	KD4EE	Scott		
-TRC#079	K2RET	Robert		
-TRC#080	NE2E	Fernando		
-TRC#081	AD3Y	Larry		
-TRC#082	W9YU	Roger		
-TRC#083	NX9G	Yanko		
-TRC#084	KO9V	Bob		
-TRC#085	W1DGL	Michel		
-TRC#086	N3SY	Boris		
-TRC#087	W4WCD	Walt		
-TRC#088	K2ECS	Ernest		
-TRC#089	W8/LZ4GU	Georgi		
-TRC#090	KC2FKM	Juan		
-TRC#091	W1JCW	John		
-TRC#092	N4UK	Kenneth		
-TRC#093	W1ARY	Marcel		
-TRC#094	K5VSD	Wayne		
-TRC#095	AA9L	Richard		
-TRC#096	KB0PGI	Doug		
-TRC#097	WA3TLT	Larry		
-TRC#098	AE8U	Michael		
-TRC#099	W3ZYF	Wayne		
-TRC#100	WY4Y	Kenneth		
-TRC#101	W1BLU	David		
-TRC#102	AC1EG	Keith		
-TRC#103	WF3P	Roger		
-TRC#104	KN4WOJ	Roy		
-TRC#105	KB3JHC	Allen		
-TRC#106	NC4MI	Luther		
-TRC#107	KN4RFK	Harold		
-TRC#108	N4LKB	Michael		
-TRC#109	AE2JL	Joel		
-TRC#110	N7WEJ	Steven		
-TRC#111	CB	Alvin		
-TRC#112	K9GB	Mel		
-TRC#113	KI2N	Mark		
-TRC#114	KE8IML	Michele		
-TRC#115	KE8GC	Gregory		
-TRC#116	KT4VK	Hilary		
-TRC#117	N4SO	Ken		
-TRC#118	AC8TO	Don		
-TRC#119	W9ILY	John		
-TRC#120	KW4HQ	Steven		
-TRC#121	K9CW	Drew		
-TRC#122	K4MM	Tom		
-TRC#123	NB0V	Remo		
-TRC#124	KK4CS	Scott		
-TRC#125	K9NUD	Steve		
-TRC#126	KC1RLS	Robert		
-TRC#127	N5LPT	Mark		
-TRC#128	N2HAY	Hayden		
-TRC#129	KA1EFO	Dole		
-TRC#130	W4NRG	Christopher		
-TRC#131	WU9D	Mike		
-TRC#132	KC9TZO	James		
-TRC#133	WJ8Y	Gregg		
-TRC#134	AB2E	Darrell		
-TRC#135	N0EUV	Milan		
-TRC#136	W1MEE	Forrest		
-TRC#137	W4QYV	Avery		
-TRC#138	N7YA	Adam		
-TRC#139	WA2HIP	John		
-TRC#140	CB	Phillip		
-TRC#141	N3HON	Michael		
-TRC#142	N0KWA	James		
-TRC#143	WN4V	Jon		
-TRC#144	W3DV	Scott		
-TRC#145	AJ4EN	Bobby		
-TRC#146	AI6O	Ed		
-TRC#147	AC5XK	Don		
-TRC#148	KI5QIO	Randy		
-TRC#157	CB	Eliu		
-TRC#228	CB	Mychelle		
-TRC#411	CB	Bernadette		
-TRC#555	CB	Brent		
-TRC#727	CB	Jim		
-				
-KH0 - Mariana Isl. - 133				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#102	CB	Joe		
-TRC#102	CB	Ray		
-TRC#126	CB	Joey		
-				
-KH2 - Guam  Isl. - 62				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Ely		
-				
-KH6 - Hawaii - 17				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	NH0S	Jim		
-TRC#777	CB	Ben		
-TRC#961	NH6OW	Hisashi		
-				
-KL - Alaska - 33				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Larry		
-TRC#102	CB	Eric		
-TRC#446	CB	Ernie		
-				
-KP2 - Virgin Isl. - 127				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Alfred		
-				
-KP4 - Puerto Rico - 11				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	NP3V	Luis		
-TRC#003	KP4EJ	Carlos		
-TRC#004	KP4CPC	Carlos		
-TRC#005	WP3S	Cheo		
-TRC#006	KP3BR	Jimmy		
-TRC#007	WP4IDK	Alvin		
-TRC#008	KP4BC	Angel		
-TRC#009	WP3GW	Angel		
-TRC#010	WP4MB	Pedro		
-TRC#011	KP4JED	Javier		
-TRC#012	KP4TN	Carlos		
-TRC#013	WP4PJK	Brian		
-TRC#014	KP4JFR	Jose		
-TRC#015	WP3NO	Alan		
-TRC#016	NP4LW	Nelson		
-TRC#017	KP3IV	Ivan		
-TRC#018	KP4EGY	Edgardo		
-TRC#019	WP4IDK	Alvin		
-TRC#020	KP4OMR	Felix		
-TRC#021	CB	Tito		
-TRC#022	KP4AF	Carlos		
-TRC#023	WP4J	Manuel		
-TRC#100	WP4OLC	Club - B.R.C.P.R.		
-TRC#101	WP3UI	Joel		
-TRC#102	WP3DZ	Edwin		
-TRC#103	CB	Lito		
-TRC#104	CB	Rene		
-TRC#106	CB	Ricardo		
-TRC#125	NP3ZY	Javi		
-TRC#200	KP3ER	Club - B.C..R.		
-TRC#300	NP4NN	Puerto Rico CW Club		
-				
-LA - Norway - 20				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	LA6LPA	Rune		
-TRC#003	LA4EU	Hans		
-TRC#004	LA2VRA	Arnt		
-TRC#005	LA5FJA	Paul		
-TRC#006	LA2HFA	Andy		
-TRC#007	LA4XX	Hjalmar		
-TRC#008	LA2IR	Einar		
-TRC#009	LB6GG	Hans		
-TRC#010	CB	Kare		
-TRC#011	CB	Paul		
-TRC#012	LA1EOA	Roar		
-TRC#013	LA6KOA	Torbj?rn	LC5C	
-TRC#014	LA5RE	Rune		
-TRC#020	CB	Sverre		
-TRC#021	CB	Cammila		
-TRC#022	LA8ENA	Vidar		
-TRC#101	CB	Aage		
-TRC#117	CB	Raymond		
-TRC#118	CB	Martin		
-TRC#127	CB	Gilbert		
-TRC#269	CB	John		
-TRC#310	CB	Frode		
-TRC#369	CB	Rune		
-TRC#666	CB	Eli		
-				
-LU - Argentina - 4				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Jony		
-TRC#003	LU7DAF	Daniel		
-TRC#004	LU7FIA	Willy		
-TRC#005	CB	Antonio		
-TRC#006	LU4MHQ	Carlos		
-TRC#007	LU1QS	Oscar		
-TRC#008	LU1DZ	Alberto		
-TRC#009	LW1DXH	Oscar		
-TRC#010	LW5DFR	Daniel		
-TRC#011	LU3CM	Hector		
-TRC#012	CB	Daniel		
-TRC#013	LW3DG	Eduardo		
-TRC#014	LU4DPL	Pablo		
-TRC#015	LU5EHD	Jose		
-TRC#016	LU7DSY	Carlos		
-TRC#017	LU1EUU	Gerardo		
-TRC#018	LU5DEM	Eduardo		
-TRC#019	LU7DKO	Marcos		
-TRC#020	LU4DBT	Willy		
-TRC#021	LW2DCJ	Francisco		
-TRC#022	LU4EG	Daniel		
-TRC#023	LU5HA	Marcos		
-TRC#024	LU9OTA	Jorge		
-TRC#025	LU7FJO	Facundo		
-TRC#026	LU2JLS	Gullermo		
-TRC#027	LU4VI	Javier		
-TRC#028	LU8FDA	Eladio		
-TRC#029	LU3PI	Jose		
-TRC#030	LW4EAZ	Walter		
-TRC#031	LU1DLA	Alejandro		
-TRC#032	LW2EIY	Pedro		
-TRC#033	LW5DR	Jorge		
-TRC#034	LU6MAL	Aurelio		
-TRC#035	LW6EQG	Ruben		
-TRC#036	CB	Pablo		
-TRC#037	LW7EDH	Eduardo		
-TRC#038	LU3EAR	Roberto		
-TRC#050	CB	Dario		
-TRC#103	CB	Nany		
-TRC#106	CB	Silvio		
-TRC#108	CB	Nestor		
-TRC#111	LU3QDF	Diego		
-TRC#112	CB	Oscar		
-TRC#113	CB	Alejandro		
-TRC#114	CB	Juan Carlos		
-TRC#115	CB	Omar		
-TRC#117	LU3EP	Diego		
-TRC#118	CB	Rafael		
-TRC#119	CB	Gustavo		
-TRC#120	CB	Guillermo		
-TRC#124	CB	Simon		
-TRC#125	CB	Ricardo		
-TRC#126	CB	Amilcar		
-TRC#127	CB	Marcelo		
-TRC#130	CB	Ernesto		
-TRC#131	CB	Diego		
-TRC#132	CB	Raul		
-TRC#133	CB	Luis		
-TRC#140	CB	Javi		
-TRC#184	CB	Miguel		
-TRC#212	CB	Carlos		
-				
-LX - Luxembourg - 54				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#011	CB	Heinz		
-TRC#102	CB	Weber		
-TRC#103	CB	Josephine		
-TRC#112	LX1MAX	Fred		
-TRC#325	CB	Daniel		
-TRC#778	CB	Eric		
-				
-LY - Lithuania - 311				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	LY3BY	Vilmantas		
-TRC#003	LY5W	Saulius		
-TRC#004	LY3W	Rimas		
-TRC#005	LY2BIS	Michail		
-TRC#007	LY2XC	Zbignev		
-TRC#008	LY6A	Rimas		
-TRC#009	LY3X	Tomas		
-TRC#010	LY2BMX	Algirdas	LY4ZZ	
-TRC#011	LY3BA	Dana		
-TRC#101	CB	Aleksander		
-				
-LZ - Bulgaria - 178				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#000	CB	Club		
-TRC#001	LZ1YE	Nasko	LZ5Y	
-TRC#002	LZ1OJ - S.K.	Don		
-TRC#003	LZ1PQ	Misho		
-TRC#004	LZ1OP	Mike		
-TRC#005	LZ1TP	Tanyo		
-TRC#006	LZ1FX	George		
-TRC#007	LZ3NO	Venci		
-TRC#008	LZ3ZZ	Aleko	LZ5I	
-TRC#009	LZ1ONN	Ofer		
-TRC#010	LZ3ND	Nick		
-TRC#011	LZ5DB	Milen		
-TRC#012	LZ1RW	Marin		
-TRC#013	LZ1DB	Kolyo		
-TRC#014	LZ1WL - S.K.	Walentin		
-TRC#015	LZ5SZ - S.K.	Stefan		
-TRC#016	LZ2AVA	Anatoli		
-TRC#017	LZ1DCD	Dimo		
-TRC#018	LZ2AES	Emil		
-TRC#019	LZ3GH	George		
-TRC#020	LZ3YP	Ana		
-TRC#021	LZ3YW	Petya		
-TRC#022	LZ1BJ	Boytcho		
-TRC#023	LZ1GL	Krasimir		
-TRC#024	CB	Plamen		
-TRC#025	LZ1ZF	George		
-TRC#026	LZ1JO	Ralie		
-TRC#027	LZ1ADF	Alexander		
-TRC#028	CB	Magdalena		
-TRC#029	LZ1VH	George		
-TRC#030	LZ3SD	Spas		
-TRC#031	LZ2DF	Mike		
-TRC#032	LZ1ONK	Ognian	LZ7O	
-TRC#033	LZ1DLZ	Vesselin		
-TRC#034	LZ2UW	Krasi		
-TRC#035	LZ1VPS	Vasko		
-TRC#036	LZ1CLK	Dobri	LZ1T	
-TRC#037	LZ7DX	Marian		
-TRC#038	LZ2VP	Georgi		
-TRC#039	LZ2CM	Plamen		
-TRC#040	LZ1NY	Victor	LZ3V	
-TRC#041	LZ1OI - S.K.	Kosyo		
-TRC#042	LZ2ZG	Vladimir		
-TRC#043	LZ2WE	Dora		
-TRC#044	LZ1DM	Plamen		
-TRC#045	LZ2ZY	Radi		
-TRC#046	LZ1VVD	Vladimir		
-TRC#047	LZ1KP - S.K.	Konstantin		
-TRC#048	LZ1DQ	Vladimir		
-TRC#049	LZ4NM	Nikolai		
-TRC#050	LZ2JR	Boris		
-TRC#051	LZ1MP	Marko		
-TRC#052	LZ1EP - S.K.	Encho		
-TRC#053	LZ1IS - S.K.	spas		
-TRC#054	LZ2AN	Angel		
-TRC#055	LZ1MC	Slavi		
-TRC#056	LZ3QR	Ivan		
-TRC#057	LZ3GA	Ilian		
-TRC#058	LZ3KB	Vassil		
-TRC#059	CB	Denitza		
-TRC#060	LZ2HT	Ivan	LZ8Z	
-TRC#061	LZ2AE	Angel		
-TRC#062	LZ1CN	Drago		
-TRC#063	LZ1KZ	Vlado		
-TRC#064	CB	Ludmil		
-TRC#065	LZ2MDI	Max		
-TRC#066	LZ2ILR	Edwin		
-TRC#067	LZ1YLE	Elena		
-TRC#068	LZ1MBU	Miro		
-TRC#069	LZ3NF	Nick		
-TRC#070	LZ1MG	Malen		
-TRC#071	LZ1DRM	Mitko		
-TRC#072	LZ3XX	Plamen	LZ5X	
-TRC#073	LZ3BX	Atanas		
-TRC#074	LZ4TU	Stanislav		
-TRC#075	LZ1DKZ	Dido	LZ5E	
-TRC#076	LZ1KU	Stamen	LZ6Y	
-TRC#077	LZ1ASP	Sava		
-TRC#078	LZ1ILM	Iskren		
-TRC#079	LZ5ZX	Stefan		
-TRC#080	LZ1CF	Hristo		
-TRC#081	LZ3RN	Ivo	LZ7D	
-TRC#082	LZ1SEC	Desislava		
-TRC#083	LZ4AE	Angel		
-TRC#084	LZ1NPN	Peter		
-TRC#085	LZ3DJ	Dinko		
-TRC#086	LZ2RM - S.K.	Valery		
-TRC#087	LZ2SC - S.K.	Stefan		
-TRC#088	LZ2KLR	Club	LZ6C	
-TRC#089	LZ2MR	Miroslav		
-TRC#090	LZ2ITU - S.K.	Metin	LZ7H	
-TRC#091	LZ1EV	Mitko		
-TRC#092	LZ3PZ	Lubo		
-TRC#093	LZ2PT - S.K.	Dimitar		
-TRC#094	LZ1IRQ	Ivaylo	`	
-TRC#095	LZ3JY	Alexander		
-TRC#096	LZ1UBO	Georgi		
-TRC#097	LZ4OC	Sasho		
-TRC#098	LZ4TL	Margarit	LZ4T	
-TRC#099	LZ2FL	Georgi		
-TRC#100	LZ2TRC	Ognyan		
-TRC#101	LZ5KP	Saleh		
-TRC#102	LZ5ZZ	Rositsa		
-TRC#103	LZ2TC	Rositsa		
-TRC#104	LZ1TSD	Teodor		
-TRC#105	LZ1XL - S.K.	Minko		
-TRC#106	LZ1CLM	Ivaylo		
-TRC#107	LZ1HCO	Venelin		
-TRC#108	LZ7DJ	Kiril		
-TRC#109	LZ2WNW	Weselin		
-TRC#110	LZ4GL	George		
-TRC#111	LZ2HN	Kolyo		
-TRC#112	LZ1YP	Ivan		
-TRC#113	LZ3BS	Nikolay		
-TRC#114	CB	Kiril		
-TRC#115	LZ1ML	Milcho		
-TRC#116	LZ4SU - S.K.	Krasimir		
-TRC#117	LZ1IA	Ivan		
-TRC#118	LZ2CH	Krasimir		
-TRC#119	LZ1VQ	Veko		
-TRC#120	LZ2VR	Krum		
-TRC#121	LZ1ZX	Dimitar		
-TRC#122	LZ2JU	Yovko		
-TRC#123	LZ1PPD	Petar		
-TRC#124	LZ1PRO	Yanko		
-TRC#125	LZ1DAF	Dafcho		
-TRC#126	LZ1ZAZ	Atanas		
-TRC#127	LZ1HW	Spas		
-TRC#128	LZ1WR	Todor		
-TRC#129	LZ1ZK	George		
-TRC#130	LZ1XE	Petko		
-TRC#131	LZ1SJ	Svetlin		
-TRC#132	LZ3DI	Dimitar		
-TRC#133	LZ5GB	Evgeny		
-TRC#134	LZ1NAG	Gergin		
-TRC#135	LZ1WF	Vasil		
-TRC#136	LZ3BB	Plamen	LZ8R	
-TRC#137	LZ5CT	Sashko		
-TRC#138	LZ1ZIL	Dragomir		
-TRC#139	LZ1VKI	Valentin		
-TRC#140	LZ1DCR	Dimitar		
-TRC#141	LZ1SMF	Stefan		
-TRC#142	LZ2DB - S.K.	Stefan		
-TRC#143	LZ2HR - S.K.	Hristo		
-TRC#144	LZ1AKW	Anton		
-TRC#145	LZ2JA - S.K.	Kiril		
-TRC#146	LZ4NY	Miroslav		
-TRC#147	LZ2YO	Rumen		
-TRC#148	LZ5UF	Stefan		
-TRC#149	LZ1LT	Nedelko		
-TRC#150	LZ1DCN	Mitko		
-TRC#151	LZ2HAM	Martin		
-TRC#152	LZ1LZS	Svetlin	LZ7MM	
-TRC#153	LZ6DJ	Ivaylo	LZ4W	
-TRC#154	LZ5IL	Vladimir		
-TRC#155	LZ7DF	Ivan		
-TRC#156	LZ5SF	Misho		
-TRC#157	LZ1AAF	Stefan		
-TRC#158	LZ4VP			
-TRC#159	LZ4RV	Ivailo		
-TRC#160	LZ1JP	Asen		
-TRC#161	LZ1CRI	Christo	LZ1W	
-TRC#162	LZ5ET	Gerasim	LZ5G	
-TRC#163	LZ2CC	Wasil		
-TRC#165	LZ1WE	Todor		
-TRC#166	LZ1RAN	Rangel		
-TRC#167	LZ2SMX	Svilen		
-TRC#168	LZ1ZFG	Rolf		
-TRC#169	LZ5IY	Ivaylo		
-TRC#170	LZ5RD	Rumen		
-TRC#171	LZ1TLZ	Vulcho		
-TRC#172	LZ1GUE	Konstantin		
-TRC#173	LZ2MI	Minko		
-TRC#174	LZ5FD	Marius		
-TRC#175	LZ1GC	Stanislav		
-TRC#176	LZ3QE	Ilcho		
-TRC#177	LZ2DK	Dimcho		
-TRC#179	LZ2EC - S.K.	Encho		
-TRC#180	LZ2RS	Rumen		
-TRC#181	LZ7VM	Vasko		
-TRC#182	LZ1GE	Apostol		
-TRC#183	LZ2AF	Rumen		
-TRC#184	LZ2II	Donko		
-TRC#185	LZ1XN	Adam		
-TRC#186	LZ5PW	Vassil		
-TRC#187	LZ2DIM	Dimo		
-TRC#188	LZ2INP	Ivan		
-TRC#189	LZ7DP	Dimitar	LZ5B	
-TRC#190	LZ2OG	Alexandar		
-TRC#191	LZ4SC	Stefan		
-TRC#192	LZ1ZB	Vladimir		
-TRC#193	LZ2VU	Juli	LZ6V	
-TRC#194	LZ5EO	Emil		
-TRC#195	LZ1MTS	Martin		
-TRC#196	LZ2UR - SK	Alexander		
-TRC#197	LZ1SAD	Svetoslav		
-TRC#198	LZ4NM	Nick		
-TRC#199	CB	Ivo		
-TRC#200	LZ76ZZ			
-TRC#201	LZ5RO	Rosen		
-TRC#202	LZ1MIT	Dimitar		
-TRC#203	LZ7MT	Christo	LZ2V	
-TRC#204	LZ1ZJ	Slav	LZ3R	
-TRC#205	LZ1PRT	Stanimir		
-TRC#206	LZ1GBY	George		
-TRC#207	LZ30AM			
-TRC#208	LZ95MA			
-TRC#209	LZ4DJ	Keith		
-TRC#210	CB	Denis		
-TRC#211	LZ1STU	Ivan		
-TRC#212	LZ1VDR	Vlado		
-TRC#213	CB	Marian		
-TRC#214	LZ4GU	Georgi		
-TRC#215	LZ1MTS	Martin		
-TRC#216	LZ2LBB	Lachezar		
-TRC#217	LZ4AI	Adrean		
-TRC#300	LZ1KGB	Club		
-TRC#400	LZ1KAU	Club	LZ1D	
-TRC#500	LZ1KTR	Club	LZ5W	
-TRC#600	LZ1KPW	Club	LZ5M	
-TRC#700	LZ2KRM	Radio Club Kubrat		
-TRC#555	LZ3HI	Emil		
-TRC#579	LZ1DAT	Stanimir		
-TRC#599	LZ1YG - S.K.	Ivan		
-TRC#666	LZ1VTR	Petko		
-TRC#777	LZ2UF	Encho		
-TRC#871	LZ1MDZ	Dimitar		
-TRC#888	LZ2HM	Andy		
-TRC#1000	LZ73TRC	TRC - HQ		
-				
-OA - Peru - 8				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Jaime		
-				
-OD - Lebanon - 112				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	OD5ZF	Omar		
-TRC#003	OD5SK	Samir		
-TRC#010	OD5RZ	Ahmad		
-TRC#011	OD5UU	Mohamad		
-TRC#015	OD5UR	Abdul		
-TRC#101	CB	Mouhamed		
-TRC#107	CB	Amer		
-TRC#117	CB	Mustafa		
-				
-OE - Austria - 35				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#000	CB	Club		
-TRC#002	CB	Chris		
-TRC#003	OE5WRO	Wolfgang		
-TRC#004	CB	Johnny		
-TRC#005	OE3SGU	Hannes		
-TRC#006	OE-7001	Michael		
-TRC#007	OE3TWB	Thomas		
-TRC#008	OE7LVI	Viktor		
-TRC#009	OE7TTT	Mike		
-TRC#010	CB	Diddi		
-TRC#011	OE7DXT	Geni		
-TRC#012	OE3DMA	Alex		
-TRC#013	OE9LWV	Wolfgang		
-TRC#014	OE2GXL	Gilbert		
-TRC#015	OE6GND	Gerhard		
-TRC#016	OE3UKW	Christian		
-TRC#017	CB	Alex		
-TRC#022	OE6MDF	Max		
-TRC#023	OE5CCN	Christian		
-TRC#024	OE3BKC	Herbert		
-TRC#025	OE6IWG	Walter		
-TRC#101	CB	Gery		
-TRC#149	CB - SK	Helene		
-TRC#178	CB	Joe		
-TRC#400	OE2CRP	Markus		
-TRC#999	OE4VIE	Joerg		
-				
-OH - Finland - 56				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	OH6MW	Ari	OG7A	
-TRC#003	OH3MF	Rauno		
-TRC#004	OH1BOI	Jari	OH1B	
-TRC#005	OH6FTR	Risto		
-TRC#006	OH8UV	Markku		
-TRC#007	OH3KJM	Jari		
-TRC#008	OH6GAZ	Juha		
-TRC#009	OH1TD	Tauno		
-TRC#010	OH2KW	Arto		
-TRC#011	CB	Mika		
-TRC#012	OH3CBN	James		
-TRC#013	OH2OT	Keijo		
-TRC#014	OH1RX	Jouko		
-TRC#101	CB	Mikko		
-TRC#116	CB	Jouko		
-TRC#199	CB	Maik		
-TRC#555	CB	Vlad		
-				
-OH0 - Aland Isl. - 212				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	OH0XX	Olli		
-				
-OK - Czech Rep. - 329				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	OK1RR	Martin		
-TRC#003	OK1FIM	Vlasta		
-TRC#004	OK1TPC	Josef		
-TRC#005	OK4AZ	Ivan		
-TRC#006	OK1MIQ	Jan		
-TRC#007	OK5MM	Vit		
-TRC#008	OK1ZHV	Vojtech		
-TRC#009	OK1MNI	Miroslav		
-TRC#010	CB	Simon		
-TRC#011	OK1RO	Jan		
-TRC#012	OK1AMF	Franti		
-TRC#013	OK1ND	Mirek		
-TRC#014	OK1LV	Ladislav		
-TRC#015	OK2BOB	Bob		
-TRC#016	OK1BA	Karel		
-TRC#017	OK1VKK	Frantisek		
-TRC#018	OK1DRY	Josef		
-TRC#019	OK2XY	Pavel		
-TRC#020	OK1DSA	Roman		
-TRC#021	OK1DOZ	Beda		
-TRC#022	OK1VK	Pavel	OK3X	
-TRC#023	OK2ZK	Zbinek		
-TRC#024	OK1DWQ	Tom	OL6D	
-TRC#025	OK5MM	Vit		
-TRC#026	OK1RP	Petr		
-TRC#027	OK1BPN	David		
-TRC#028	OK2BMI	Milan		
-TRC#029	OK3MO	Ota		
-TRC#101	CB	Vojta		
-TRC#102	CB	Tomas		
-				
-OM - Slovakia - 330				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	OM4JD	Juraj	OM4J	
-TRC#003	OM6MS	Miki		
-TRC#004	OM8CD	Stefan		
-TRC#005	OM2AGN	Gabriele		
-TRC#006	OM3LO	Tibor		
-TRC#007	OM2CS	Ivan		
-TRC#008	OM7AT	Vincent		
-TRC#009	OM1AX	Vladimir		
-TRC#010	OM5MX	Pavel		
-TRC#012	OM0AFM	Mari n		
-TRC#013	OM3TNA	Jan		
-CB	Simon	Simon		
-CB	Martin	Martin		
-				
-ON - Belgium - 16				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ON3XX	Jozef		
-TRC#003	ON4LO	Francois		
-TRC#004	CB	Ivan		
-TRC#005	CB	Jurgen		
-TRC#006	CB	Ludwig		
-TRC#007	CB	Peter		
-TRC#008	ON5GQ	Ben		
-TRC#009	ON4CB	Kurt		
-TRC#010	CB	Robert		
-TRC#011	ON6DJ	Edwin	OT5T	
-TRC#012	ON6MG	Alain		
-TRC#013	ON3ND	Jean-Jacques		
-TRC#014	ON3HLU	Hakim		
-TRC#015	ON7EC	Erik		
-TRC#016	ON3JMD	Jan		
-TRC#017	ON4ALY	Xavier	OR5T	
-TRC#018	ON7JC	Antoaine		
-TRC#019	ON7DY	Marcel		
-TRC#020	ON4ON	Danny		
-TRC#021	OR4K	Mario		
-TRC#022	ON3DFD	Bert		
-TRC#023	ON3ZL	Claude		
-TRC#024	ON7VA	Eddy		
-TRC#025	ON7SU	Peter		
-TRC#026	ON2FT	Luc		
-TRC#028	ON4AEO	Filip	OS6A	
-TRC#029	ON8RR	Roger		
-TRC#030	ON2WAB	Peter		
-TRC#031	ON6NA	Paul		
-TRC#032	ON6LY	Francis	OP4A	
-TRC#033	ON7KM	Gaston		
-TRC#034	ON7LO	Louis		
-TRC#035	ON3FZT	Luc		
-TRC#036	ON6DP	Paul		
-TRC#037	CB	Kitty		
-TRC#038	ON2AD	Patrick		
-TRC#039	ON3EA	Eddy		
-TRC#040	ON5BWE	Erwin		
-TRC#041	CB	Peter		
-TRC#042	ON4VT	Danny		
-TRC#043	OP4L	Alex		
-TRC#044	ON5GF	Guy		
-TRC#045	ON7ULM	Fabien		
-TRC#046	ON6LR	Marc		
-TRC#047	ON5OO	Jacques		
-TRC#048	ON4AMP	Peter		
-TRC#049	ON3LX	Jean-Pierre		
-TRC#050	ON4SV	Gabriel		
-TRC#051	ON6SAT	Berto		
-TRC#052	ON7WM	Werner		
-TRC#054	ON6PJ	Jelle		
-TRC#055	ON6ZV	Eddy		
-TRC#056	ON6OM	Rene		
-TRC#057	ON7DC	Tom		
-TRC#058	ON7IR	Rudi		
-TRC#059	ON6FY	David		
-TRC#060	ON4MHO	Arnaud		
-TRC#061	ON3TBE	Tim		
-TRC#062	ON3GSU	Gerard		
-TRC#063	ON3RMD	Raymond		
-TRC#064	ON9TT	Marc		
-TRC#065	ON6WP	Paul		
-TRC#066	ON4YOU	Gerald		
-TRC#100	ON6UB	Club		
-TRC#101	CB	Luc		
-TRC#102	ON5ZYZ	Fred		
-TRC#104	CB	Marc		
-TRC#105	CB	Jean-Pierre		
-TRC#106	CB	Bill		
-TRC#110	CB	Bruno		
-TRC#111	CB	Ben		
-TRC#191	ON3HAT	Serge		
-TRC#200	ON4BF	Club BFA		
-TRC#201	ON4XA	Xavier		
-TRC#215	CB	Victor		
-TRC#241	CB	Patrick		
-TRC#281	CB	Jan		
-TRC#339	CB	Jean-Paul		
-TRC#378	CB	Ewald		
-TRC#444	CB	Gilbert		
-TRC#666	ON3NR	Pascal		
-				
-OY - Faroe - 52				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#234	CB	Olavur		
-				
-OZ - Denmark - 47				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	5P1W	Willy		
-TRC#003	OZ1HET	Finn		
-TRC#004	OZ1GCT	Niels		
-TRC#005	OZ3SA	Sven		
-TRC#006	OZ4FF	Karsten		
-TRC#007	OZ2BAC	Bo		
-TRC#008	5P2BA	Frank		
-TRC#009	OZ4CG	Carsten		
-TRC#010	OZ5AFM	Kurt		
-TRC#011	OZ1KJG	Flemming		
-TRC#012	OZ3ABU	Claus		
-TRC#013	OZ5NJ	Niels		
-TRC#014	OZ7EA	Elin		
-TRC#015	OU2I	Henning		
-TRC#016	5Q0T	Ferenc		
-TRC#017	OZ0B	Soren		
-TRC#018	OZ1AAR	Villy		
-TRC#101	CB	Ole		
-				
-P4 - Aruba - 232				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#003	CB	Hilario		
-TRC#101	CB	Adriaan		
-TRC#102	CB	Marvin		
-				
-PA - The Netherlands - 19				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	Leo		
-TRC#003	PA7RA	Rien		
-TRC#004	PD0ADR	Ed		
-TRC#005	PA3HIZ	Arie		
-TRC#006	PA3DBS	Peter		
-TRC#007	PA3CLQ	Jan		
-TRC#008	PD3GO	Gerrit		
-TRC#009	NL-12869	Jacques		
-TRC#010	CB	Michel		
-TRC#011	PD1TC	Flip		
-TRC#012	PD5CW	Jeroen		
-TRC#013	PC1EMR	Eric		
-TRC#014	PD6W	Eric		
-TRC#015	PA1TAS	Paul		
-TRC#016	PA2PCH	Ad		
-TRC#017	PA0FAW	Fred		
-TRC#018	CB	Geert		
-TRC#019	PD5JFK	Frank		
-TRC#020	CB	Tony		
-TRC#021	CB - S.K.	Mirian		
-TRC#022	PA0AWH	Ad		
-TRC#023	PC2F	Frans		
-TRC#024	PD5L	Edwin		
-TRC#025	PA3EEG	Ruud		
-TRC#026	PA3FJE	Theo		
-TRC#027	PD3JAG	Jan		
-TRC#028	PD0MLO	Marinus		
-TRC#029	PD0MV	Mark		
-TRC#030	PA3CVI	Cees		
-TRC#031	PA9RD	Ruud		
-TRC#032	PA3FOE	Cor		
-TRC#033	CB	Theo		
-TRC#034	PD5SS	Rudy		
-TRC#035	PA3CFB	Han		
-TRC#036	PD9ASO	Pino		
-TRC#037	PG7R	Ronald		
-TRC#038	PD0RS	Charles		
-TRC#039	PA4O	Peter		
-TRC#040	PD9W	Nico		
-TRC#041	PB7Z	Bernard		
-TRC#042	PD0FGQ	Peter		
-TRC#043	PA0O	Jaap		
-TRC#044	PD1RON	Ron		
-TRC#045	PD3MR	Marcel		
-TRC#046	PD3AL	Andre		
-TRC#047	PD1JFB	Friso		
-TRC#048	PD1AJT	Marco		
-TRC#049	PA1FJ	Fred		
-TRC#050	PA9IGB	Giuseppe		
-TRC#051	PA3JEM	Johan		
-TRC#052	PA7BAS	Bas		
-TRC#053	PA1KEK	Giovanni		
-TRC#054	PA3249	Harry		
-TRC#055	PD1CW	Patrick		
-TRC#056	PA5N	Jeroen		
-TRC#057	OP5K	Roland		
-TRC#058	PD0EBS	Wim		
-TRC#059	PA3BNT	Marten		
-TRC#060	PD0WR	Wicher		
-TRC#061	PA3EVY	Willy	PI4DX	
-TRC#062	PE2K	Adriaan		
-TRC#063	PA2MDL	Rinus		
-TRC#064	PD2JPL	Jan		
-TRC#065	PD1SA	Bert		
-TRC#066	PD0FW	Fred		
-TRC#068	PD0ME	Mark		
-TRC#069	PD7WL	Willem-Jan		
-TRC#070	PE1NKV	Jacob		
-TRC#071	CB	John		
-TRC#072	PA3OES	Andre		
-TRC#073	PA0VLD	Jan		
-TRC#074	PD1BU	Henny		
-TRC#075	PA7DN	Dirk		
-TRC#076	PD0GIP	Gerard		
-TRC#077	PA3GEO	Robert		
-TRC#078	PA3HEN	Theo		
-TRC#079	PA4JJ	Jan		
-TRC#080	PD1RP	Peter		
-TRC#081	PE5TT	Marcel		
-TRC#082	PA0PIW	Gerard		
-TRC#083	PD0JMH	Jos		
-TRC#084	PD2MS	Mark		
-TRC#088	PB2Z	Barbara		
-TRC#089	PA1CW	Theo		
-TRC#090	PA0ADR	Ed		
-TRC#091	PG5FRL	Storm	PG6PEACE	
-TRC#092	PE0CD	Chris		
-TRC#093	PD2TW	Tjip		
-TRC#094	PA0RDT	Roelof		
-TRC#102	CB	Henry		
-TRC#103	CB	Lucien		
-TRC#123	CB	Arthur		
-TRC#142	CB	Dervin		
-TRC#525	CB	Paul		
-TRC#552	CB	Henny		
-TRC#585	CB	Fred		
-TRC#614	CB	Frank		
-TRC#727	CB	Simon		
-				
-PY - Brasil - 3				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	PU8WWW	Renato		
-TRC#003	PT2IW	Flavio		
-TRC#004	PR7HR	Marte		
-TRC#005	PR7AB	Alcides		
-TRC#006	PP1CZ	Leo		
-TRC#007	PY2CX	Mauricio		
-TRC#008	PY2SRL	Paulo		
-TRC#009	CB	Fernando		
-TRC#010	CB	Leandro		
-TRC#011	CB	Vaz		
-TRC#012	PP5BI	Carlos		
-TRC#013	CB	Marcie		
-TRC#014	CB	Mateus		
-TRC#015	PU5AEC	Alexandre		
-TRC#016	PY1MK	Marcos		
-TRC#017	CB	Andre		
-TRC#018	PY4RR	Ricardo		
-TRC#019	PY4EK	Flavio		
-TRC#020	PY2BK	Fabio		
-TRC#021	PY1WX	Valdemar		
-TRC#022	PY1IBM	Marivaldo		
-TRC#023	PU2PZZ	Fabio		
-TRC#024	PY4ARS	Roberto		
-TRC#025	PU4MHO	Mauricio		
-TRC#026	PR8EP	Robertson		
-TRC#027	PY4CR	Claudio Roberto		
-TRC#028	CB	Kerne		
-TRC#029	PU1SKS	Julio		
-TRC#030	PP5XA	Xavier		
-TRC#031	CB	Fabio		
-TRC#032	PP5AM	Robertson		
-TRC#033	PY2EBD	Edivaldo		
-TRC#034	PT2DF	Joel		
-TRC#035	CB	Ricardo		
-TRC#036	PY1AX	Antoni		
-TRC#037	PY2OSD	Orlando		
-TRC#038	PY7BEL	Jolibel		
-TRC#039	PP7DX	Jose		
-TRC#040	PY7BC	Luiz		
-TRC#041	PY7KG	Moreira		
-TRC#042	PU1MCE	Carlos		
-TRC#043	PP5FMM	Mateus		
-TRC#044	PY2XL	Danilo		
-TRC#045	PY1FOG	Fernando		
-TRC#046	PP5AMP	Marcos		
-TRC#047	PU2NPK	Erivaldo		
-TRC#048	PU1VKG	Jose		
-TRC#049	PU2ARS	Claudio		
-TRC#050	PY1ME	Marcos		
-TRC#051	PY3JFS	Jose		
-TRC#052	PY2XC	Carlos		
-TRC#053	PY5EG	Atilano		
-TRC#054	PU2BOB	Roberto		
-TRC#055	PY3TP	Tiago		
-TRC#079	CB	Jose		
-TRC#100	PP5EI	Club - UBRO		
-TRC#102	CB	Marcelo		
-TRC#103	CB	Rodrigues		
-TRC#104	CB	Luciano		
-TRC#105	CB	Fernando		
-TRC#107	CB	Marco		
-TRC#108	CB	Marco		
-TRC#109	CB	Dinorah		
-TRC#110	CB	Loyal		
-TRC#111	CB	Sebastin		
-TRC#112	CB	Marcelo		
-TRC#133	CB	Marcio		
-TRC#137	CB	Antonio		
-TRC#138	PY2GX	Walter		
-TRC#139	CB	Mauricio		
-TRC#148	PY2MTV	Andre		
-TRC#177	CB	Marcio		
-TRC#228	CB	Mychelle		
-TRC#777	CB	Luis		
-				
-PZ - Surinam - 73				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	PZ5RA	Ramon		
-TRC#100	CB	Ron		
-TRC#101	CB	Manuel		
-TRC#315	CB	Reggie		
-				
-S5 - Slovenia - 327				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	S56B	Andreja		
-TRC#003	S57U	Pol		
-TRC#004	S51AP	Ivan		
-TRC#005	S51AY	Arpi		
-TRC#006	S51M	Bruno		
-TRC#007	S57YB	Joze		
-TRC#008	S53EO	Milos		
-TRC#009	CB	Borut		
-TRC#010	CB	Anton		
-TRC#011	S58MU	Milan		
-TRC#012	S57AJ	Janez		
-TRC#013	S52WW	Damjan		
-TRC#014	S58X	Borut		
-TRC#015	S53W	Bojan		
-TRC#016	S57YK	Bojan		
-TRC#017	S56WPF	Mitja		
-TRC#018	S50X	Silvo		
-TRC#019	S56IPS	Samo		
-TRC#020	S57PKT	Toma		
-TRC#021	S55M	Adi		
-TRC#022	S55RD	Renato		
-TRC#023	S51RU	Marjan		
-TRC#024	S51FP	Lojz		
-TRC#025	S57AX	Darko		
-TRC#026	S56FE	Franci		
-TRC#027	S57RV	Vojko		
-TRC#028	S56TOM	Jure		
-TRC#029	S58SA	Anton		
-TRC#030	S57JK	Janko		
-TRC#031	S56UVB	Bogomir		
-TRC#032	S53X	Milos		
-TRC#033	S54X	Rajko		
-TRC#101	S58F	Eric		
-TRC#102	CB	Peter		
-TRC#106	S57RPR	Rudi		
-TRC#737	CB	Aljosa		
-				
-S7 - Seychelles - 190				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	S79KW	Kamil		
-				
-SM - Sweden - 21				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	SM7WYS	Thomas		
-TRC#003	CB	Tony		
-TRC#004	SM7HZK	Bo		
-TRC#005	SM0AIG	Ingemar	SA0A	
-TRC#006	SA0BGF	Johnny		
-TRC#007	SA6AXR	Bruno	SE6N	
-TRC#008	SA7AIY	Bruno		
-TRC#009	SM7ZDC	Lars		
-TRC#010	CB	Hans		
-TRC#011	SM7YLS	Chris		
-TRC#012	SM4DQE	Lars	SE4E	
-TRC#013	CB	Mariana		
-TRC#014	SA5CDO	Lars		
-TRC#015	SM0LPO	Mikael	SF0A	
-TRC#016	SA7BXO	Anders		
-TRC#017	SM0KCR	Robert		
-TRC#018	SA7LAK	Anders	SB7A	
-TRC#019	SM0YPT	Goran		
-TRC#021	SA7BSX	Andree	SB7T	
-TRC#022	SA7TOR	Tord		
-TRC#023	SM5ALJ	Bengt		
-TRC#024	SM6FPC	Peter		
-TRC#025	SM6LRR	Mats		
-TRC#035	CB	Karl		
-TRC#101	CB	Karl		
-TRC#110	SM0UXX	Eric		
-TRC#122	CB	Yngve		
-TRC#154	CB	John		
-TRC#400	CB	Ronny		
-				
-SP - Poland - 161				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	SQ9S	Adam		
-TRC#003	SP5KP	Chris	SN5N	
-TRC#004	SP2DNI	Andy		
-TRC#005	SQ8KEZ	Janusz		
-TRC#006	SP5XSL	Mariusz		
-TRC#007	SP1AEN	Wladyslaw		
-TRC#008	SP8LEP	Artur		
-TRC#009	SP9NWN	Mieczyslaw		
-TRC#010	SP2LNW	Slaw		
-TRC#011	SP1DMD	Romuald		
-TRC#012	SP9DTE	Lukasz		
-TRC#013	SP2FAP	Sylwerter		
-TRC#014	SP5CGN	Edward		
-TRC#015	SP8CGU	Kazimerz		
-TRC#016	SP9COO	Gregor		
-TRC#017	SP8EET	Bartolomiej		
-TRC#018	SP2EWQ	Aleksander		
-TRC#019	SP5MXW	Wojtek		
-TRC#020	SP9BRP	Jan		
-TRC#021	SP2WXZ	Andrzey		
-TRC#022	SQ8JCB	Michael		
-TRC#024	SP8MI	Wojtek		
-TRC#025	SP9MRP	Mariusz		
-TRC#026	SQ9MEP	Maciej		
-TRC#027	SP9MDY	Hubert		
-TRC#028	SO8FH	Frits		
-TRC#029	SQ3A	Zdzich		
-TRC#030	SP9MA	Jarek		
-TRC#031	HF1D	Jerzy		
-TRC#032	SP6OPZ	Henryk		
-TRC#033	SP1DPA	Waldemar		
-TRC#034	SP9DSD	Czeslaw		
-TRC#036	SP3CUG	Ryszard		
-TRC#037	SP1DOZ	Slawek		
-TRC#038	SP1TMN	Janusz		
-TRC#039	SO1YL	Agata		
-TRC#040	SP1EG	Wies	SN1A	
-TRC#041	SP5JTW	Piotr		
-TRC#042	SQ7EQB	Gregory		
-TRC#043	SP3BLP	Dick		
-TRC#044	SP9HXE	Jan		
-TRC#045	SQ1PSA	Jan		
-TRC#046	SQ9FQY	Janusz		
-TRC#048	SQ8JLF	Mariusz		
-TRC#049	SP2PZ	Piotr		
-TRC#050	SQ9IWA	Tom		
-TRC#051	SP5DZE	Mieczyslaw		
-TRC#052	SN6P	Marek		
-TRC#053	SP5X	Andrzej		
-TRC#054	SP7SEW	Ryszard		
-TRC#055	SP2EG	Wieslaw		
-TRC#056	SP3VST	Radek		
-TRC#057	SP6IHE	Jan		
-TRC#058	SQ9LFQ	Jozef		
-TRC#059	SQ9OZA	Andy		
-TRC#060	SP4AWE	Kazamierz		
-TRC#061	SP9MRO	Witek		
-TRC#062	SP5DC	Seweryn		
-TRC#063	SP1TJ	Marek		
-TRC#064	SP6SOZ	Ryszard		
-TRC#065	SP5GEO	George		
-TRC#066	SP5BUJ	Jozef		
-TRC#067	SQ9FMU	Robert		
-TRC#068	SP6EIY	Stanislaw		
-TRC#069	CB	Peter		
-TRC#070	SN5L	Wieslaw		
-TRC#071	SQ3CUX	Jacek		
-TRC#072	SP2FOV	Henryk		
-TRC#073	SQ5CQ	Daniel		
-TRC#074	SP9DLY	Jan		
-TRC#075	SP1ZX	Tomek		
-TRC#076	SP7X	Jarek		
-TRC#077	SQ2IP	Slawek		
-TRC#078	SP9NGL	Angel		
-TRC#079	SQ3KO	Rafal		
-TRC#100	SP1PEA	Club PZK przy KSM		
-TRC#200	SP3PDO	Dobrzycki Klub Kr¢tkofalowc¢w		
-TRC#101	CB	Henryk		
-TRC#102	CB	Chris		
-TRC#104	CB	Marcin		
-TRC#105	CB	Maciek		
-TRC#106	SP5XOV	Piotr		
-TRC#110	CB	Roman		
-TRC#111	SQ9UM	Olek		
-TRC#123	SQ4HDK	Nick		
-TRC#124	CB	Janusz		
-TRC#125	CB	Emil		
-TRC#126	CB	Maciek		
-TRC#127	CB	Jacek		
-TRC#128	CB	Michal		
-TRC#171	CB	Daniele		
-TRC#200	SP5PDA	Club - ANODA		
-TRC#242	CB	Lukasz		
-TRC#275	CB	Mariusz		
-TRC#611	CB	Maciek		
-				
-SU - Egypt - 117				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	SU1ER - S.K.	Ezzat		
-				
-SV - Greece - 18				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	SV2HWR	Pantsios		
-TRC#003	SV4FFL	Costas		
-TRC#004	SV1HEM	Giorgos		
-TRC#005	CB	Spiros		
-TRC#006	CB	Panos		
-TRC#007	CB	Eya		
-TRC#008	SV7LWQ	Kwstas		
-TRC#009	SV4FFK	Sakis		
-TRC#010	SV2CLJ	Thomas		
-TRC#012	SV2HJQ	Michael		
-TRC#013	SV1MO	Michael		
-TRC#014	CB	Dino		
-TRC#015	SV1QED	Michael		
-TRC#016	SV8LMQ	Dimitrios		
-TRC#017	SV1AVT	Spiros		
-TRC#018	SV1JRF	George		
-TRC#019	SV2CXW	George		
-TRC#020	SV1CEI	Nikos		
-TRC#021	SV1QVW	Tasos		
-TRC#022	SV1ME	Emmanuel		
-TRC#023	SV2OEL	Atonio		
-TRC#024	SV1JFL	Stavros		
-TRC#025	SV2BFN	Vangelis		
-TRC#027	SV2HXV	Ioannis		
-TRC#028	SV7CUD	Panagiotis		
-TRC#029	SV8SXF	Konstantinos		
-TRC#030	SV1SWX	Stavros		
-				
-SV5 - Dodecanese Isl. - 59				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	SV0XCA/5 - S.K.	Walentin		
-				
-SV9 - Crete Isl. - 90				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	SV0XBN/9	Dick		
-TRC#003	SV9RNG	Paul		
-TRC#004	SV9KNN	Vassilis		
-				
-T30 - West Kiribati - 224				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#095	CB	Tam		
-TRC#101	CB	Tibou		
-TRC#120	CB	Tatonga		
-TRC#1000	T30GC	Stanislav - LZ1GC	DX-pedition - 2019	
-				
-TA - Turkey - 116				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	TA2AHS	Sari		
-TRC#003	TA1CR	Can		
-TRC#004	TA2ASA	Halis		
-TRC#005	CB	Zeki		
-TRC#006	TA7R	Ahmet		
-TRC#007	TA1DX	Atila		
-TRC#008	TA2AD	Aziz		
-TRC#009	TA3CE	Huseyin		
-TRC#010	TA1FA	Iscan		
-TRC#011	TA1AGA	Yusuf		
-TRC#012	TA3SA	Ali		
-TRC#013	TA1EE	Arif		
-TRC#014	TA3EP	Mete		
-TRC#015	TA2TX	Mustafa		
-TRC#016	TA4RC	Ali		
-TRC#017	TA4OSK	Seyyid		
-TRC#018	TA1BZ	Metin		
-TRC#019	TA2LEK	Eray		
-TRC#020	TA7LDU	Ufuk		
-TRC#021	TA2SE	Rifat		
-TRC#022	TA/OH2KW	Arto		
-TRC#023	TA7OYG	Osman		
-TRC#024	TA3SS	Fuat		
-TRC#025	TA1SA	Yener		
-TRC#026	TA5AHO	Hamit		
-TRC#027	TA1ONG	Mehmet		
-TRC#028	TA8LMK	Muhammed		
-TRC#029	TA1SOR	Orkun San		
-TRC#030	TA2J	Ridvan		
-TRC#101	TA4ED	Atilla		
-				
-TF - Iceland - 27				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	TF2CT	Aegir		
-TRC#003	TF3AO	Seli		
-TRC#004	TF4WD	Kristjan		
-				
-TG - Guatemala - 72				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	TG9AHM	Emmanuel		
-TRC#003	TG9AEB	Marlon		
-TRC#101	CB	Cezar		
-				
-TI - Costa Rica - 69				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Lisandro		
-TRC#105	CB	Luis Fernando		
-TRC#111	CB	Octavio		
-				
-TK - Corsica - 104				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Sebastien		
-TRC#111	CB	Jean - Louis		
-				
-TU -Ivory Coast - 84				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	John		
-				
-TY - Benin - 183				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#018	CB	Maurice		
-TRC#019	CB	Julienne		
-				
-UA - Russia - 50				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	RA4PTA	Genady		
-TRC#003	UA1ADV	Valery		
-TRC#004	UA3TN	Vladimir		
-TRC#005	UA1ZOH	Sergei		
-TRC#006	RA3XCZ	Vladimir		
-TRC#007	RK6AX	Valentin		
-TRC#008	UA6UAQ	Valera		
-TRC#009	RU6UR	Yuri		
-TRC#010	UA6NN	Vladilen		
-TRC#011	RD6LK	Andy		
-TRC#012	RA4HHW	Yuri		
-TRC#013	RN6AJ	Igor		
-TRC#014	RU7A	Alex		
-TRC#015	RZ3XF	Slava		
-TRC#016	R3QX	Victor		
-TRC#017	RA3QH	Mike		
-TRC#018	RD3BD	Vladimir		
-TRC#019	RZ6AVP	Sasha		
-TRC#020	RU4AJ	Nick		
-TRC#021	UA3GX	Yuri		
-TRC#022	UA5QO	Valentin		
-TRC#023	R7BX	Andrey		
-TRC#024	RD3ZQ	Vladimir		
-TRC#025	UA1WM	Victor		
-TRC#026	RZ3BQ	Gennady		
-TRC#027	RV6ACC	Alex		
-TRC#028	RA3DNC	Oleg		
-TRC#029	RK3ZZ	Alexander		
-TRC#030	R3RR	Yuri		
-TRC#031	UA1CFE	Peter		
-TRC#032	UA6HFI	Nikolay		
-TRC#033	RA6FUZ	Oleg		
-TRC#034	RA1TV	Serge	RD1T	
-TRC#035	RO5O	Alexander		
-TRC#036	UA3QR	Vladimir		
-TRC#037	R2LA	Igor		
-TRC#038	RV3QK - S.K.	Alexander		
-TRC#039	RX4HJ	Yuri		
-TRC#040	CB	Sergey		
-TRC#041	RN3ZIN	Gennady		
-TRC#043	UA4CNZ	Alex		
-TRC#044	UA1CEC	Tony		
-TRC#045	RW3DOX	Sergey		
-TRC#046	UA4FCO	Yuri		
-TRC#047	UA1CEX	Victor		
-TRC#048	RM4HZ	Alex		
-TRC#049	R7GW	Sergey		
-TRC#050	RK3IK	Vladimir		
-TRC#051	UA3XAF	Vlad		
-TRC#052	R3LZ	Valeri		
-TRC#053	RD3AEF	Michael		
-TRC#054	RG3T - ex RW3TT	Vasily		
-TRC#055	CB	Gulnaz		
-TRC#056	CB	Mavlida		
-TRC#057	RX3XP	Victor		
-TRC#058	RN3ZIC	Mikhail		
-TRC#059	R1NV	Vladimir		
-TRC#060	UA3ZBN	Yura		
-TRC#061	UA3CS	Serge		
-TRC#062	UA7G	Valentin		
-TRC#063	UA4HLU	Nikolay		
-TRC#064	UA1WCM	Hellen		
-TRC#065	UA3YDI	Anatoly		
-TRC#067	RU6BS	Sergey		
-TRC#068	UA3GBH	Alexander		
-TRC#069	R3LC	Sergey		
-TRC#070	RD3AJB	Mike		
-TRC#071	RT3T	Alexander		
-TRC#072	UA3RF	Alexander		
-TRC#073	RA3TD	Eugene		
-TRC#074	R6DA	Alex		
-TRC#075	R4ZZ	Nick		
-TRC#076	RX3F	Serge		
-TRC#077	CB	Allen		
-TRC#078	UA6AK	Valentin		
-TRC#079	R2GNP	Gennadiy		
-TRC#080	R3RAO	Ruslan		
-TRC#081	CB	Dary		
-TRC#082	RY2S	Stanislav		
-TRC#083	R3ZV	Yuri		
-TRC#084	R1C-7	Sergei		
-TRC#085	RN3Z	Mikhail		
-TRC#086	RW7W	Stanislaw		
-TRC#087	RW4HZ	Vlad		
-TRC#089	RW3RZ	Oleg		
-TRC#090	R6KEE	Yuti		
-TRC#091	R4FAA	Eremin		
-TRC#092	RU3WR	Vlad		
-TRC#093	RV4HZ	Igor		
-TRC#094	RK3DSW	Yuri		
-TRC#095	UA4HTT	Slava	RM4I	
-TRC#096	R3XP	Victor		
-TRC#097	R7KKO	Alex		
-TRC#098	RZ4AZ	Dmitry		
-TRC#099	UA3195-SWL	Alexander		
-TRC#100	RZ4PXO	Club		
-TRC#101	RK4HZR	Igor		
-TRC#102	CB	Eugene		
-TRC#103	CB	Roman		
-TRC#104	CB	Ildar		
-TRC#105	CB	Sergey		
-TRC#106	CB	Sergey		
-TRC#107	CB	Valery		
-TRC#108	CB	Wasi		
-TRC#109	RA4PII	Ramil		
-TRC#110	UA4PIE	Rinat		
-TRC#111	CB	Alex		
-TRC#112	CB	Oleg		
-TRC#113	RA3ZW	Igor		
-TRC#114	CB	Konstantin		
-TRC#115	CB	Nikolay		
-TRC#116	CB	Andrey		
-TRC#117	CB	Ilyas		
-TRC#118	CB	Victor		
-TRC#119	CB	Ania		
-TRC#120	RW3DSR	Alex	UG5F	
-TRC#121	RN4HW	Victor		
-TRC#122	RA4HVL	Mihail		
-TRC#123	R3IBT	Pavel		
-TRC#124	RA6LF	Yuri		
-TRC#125	UA3FQ	Andy		
-TRC#126	R1BBL	Ilya		
-TRC#127	R3DL	Amir		
-TRC#128	RK4FF	Vlad		
-TRC#129	RA3VMX	Alexandert		
-TRC#131	RA3Z	Gennady		
-TRC#132	UA3182SWL	GennadIy		
-TRC#133	RA6XT	Anatoly		
-TRC#134	R6AW	Anatoly		
-TRC#135	UA6CE	Vlad		
-TRC#136	UA3IBD	Alexej		
-TRC#137	R7BW	Anatoly		
-TRC#138	RT6DI	Valentin		
-TRC#139	RA3PDG	Vyacheslav		
-TRC#140	UA-3113 SWL	Nickolay		
-TRC#141	R4PCE	Alex		
-TRC#142	RC4YB	Valentin		
-TRC#143	R3GZ	Victor		
-TRC#144	RM6LD	Ivan		
-TRC#145	UB3DQR	Alexander		
-TRC#146	UC4I	Stanislav		
-TRC#147	RN3OG	Yuri		
-TRC#148	RZ6D	Sergey		
-TRC#149	UB1WBI	Aleksei		
-TRC#150	R3AQ	Sergey		
-TRC#151	RN4HAB	Sergey		
-TRC#152	UG4P	Nick		
-TRC#153	RX6N	Nikita		
-TRC#154	R9A-030	Pavel		
-TRC#155	RM2D	Mats		
-TRC#168	CB	Ilygyz		
-TRC#170	CB	Andy		
-TRC#199	CB	Igor		
-TRC#200	RY6Y	Shakhan Club		
-TRC#300	RA6X	"Center For Children's Creativity ""Scrabble"""		
-TRC#222	RA4YAV	Dmitry		
-TRC#301	RU4CK	Vladimir		
-TRC#325	CB	Oleg		
-TRC#375	CB	Oleg		
-TRC#376	CB	Sergey		
-TRC#377	CB	Evgeny		
-TRC#378	RW6MHM	Alex		
-TRC#379	RW4CIG	Sergey		
-TRC#525	RA1QEA	Sergej		
-TRC#555	CB	Vlad		
-TRC#606	CB	Pavel		
-TRC#777	CB	Victor		
-TRC#844	CB	Ramil		
-				
-UA2F - Kaliningrad - 307				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	UA2FCH	Boris		
-TRC#003	RA2FDX	Vyacheslav		
-TRC#004	RA2FT	Yuri		
-TRC#055	RA2FIN	Nick		
-TRC#101	CB	Igor		
-TRC#102	CB	Aleksey		
-TRC#103	CB	Vlad		
-				
-UA9 - As. Russia - 302				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	R9MN	Vasiliy		
-TRC#003	UA9TK	Alex		
-TRC#004	R7CA	Andy		
-TRC#005	R9LM	Alexander		
-TRC#006	RX9LW	Alexander	S.K.	
-TRC#007	UA9OA	Alex	S.K.	
-TRC#009	UA9AAG	Wladimir		
-TRC#010	RT8O	Alexander		
-TRC#011	CB	Igor		
-TRC#012	RK9A	Ruslan		
-TRC#013	UA9CGL	Vlad	S.K.	
-TRC#014	UA0BA	Andy		
-TRC#015	CB	Victor		
-TRC#016	RA9FEL	Boris		
-TRC#017	R9OZ	Eugene	S.K.	
-TRC#018	RW9OG	Gennady		
-TRC#019	R8WO	Vasily		
-TRC#020	R9UZ	Vladimir		
-TRC#021	RA0FBZ	Oleg		
-TRC#022	RV9YK	Sergey		
-TRC#023	RA9SUQ	Vlad	S.K.	
-TRC#025	R9SQ	Pavel		
-TRC#026	RA0AY	Sergej		
-TRC#027	UA9CSR	Valery		
-TRC#028	R9UAK	Andrey		
-TRC#029	R8DW	Alex		
-TRC#030	R9AL	Evgeniy		
-TRC#031	UA9SMU	Alex		
-TRC#032	RW9MZ	Andrej		
-TRC#033	UA0L	Dmitry		
-TRC#034	R9UEJ	Alexander		
-TRC#035	UA9TI	Sergey		
-TRC#036	R0SK	Sergey		
-TRC#037	UA9OTW	Valery		
-TRC#038	R0CD	Victor		
-TRC#039	R9GM	Mike		
-TRC#040	R8FF	Andrey		
-TRC#041	CB	Andrey		
-TRC#042	RV9DC	Sergei	S.K.	
-TRC#043	R0AI	Grigoriy		
-TRC#044	R9HBW	Eugene		
-TRC#045	RC8SJ	Oleg		
-TRC#047	CB	Sergey		
-TRC#049	CB	Konstantin		
-TRC#051	RA9UO	Pavel		
-TRC#052	RU9UB	Nickolay		
-TRC#053	UA9CBR	Grigory		
-TRC#054	RC8SJ	Oleg		
-TRC#057	R9UBS	Alexander		
-TRC#059	UC9UAC	Slava		
-TRC#073	RA9UCY	Herman		
-TRC#099	RU0ALK	Sergey		
-TRC#100	RK9SWY	Club		
-TRC#101	RA0SCA	Yura		
-TRC#102	CB	Vasilij		
-TRC#104	CB	Tagir		
-TRC#105	RA5AO	Alex		
-TRC#106	UA0QLB	Vladimir		
-TRC#107	CB	Aleksander		
-TRC#109	RX9AFQ	Aleksander		
-TRC#110	CB	Dmitriy		
-TRC#111	CB	Nikolay		
-TRC#114	RA9WVH	Nicolay		
-TRC#115	CB	Alex		
-TRC#117	CB	Yana		
-TRC#118	CB	Fredy		
-TRC#120	UA9AEA	Fuat		
-TRC#128	CB	Jenny		
-TRC#133	R9YBM	Eugenij		
-TRC#162	RA0FEC	Slava		
-TRC#200	RC9UB	DOSAAF - Myski		
-TRC#274	CB	Stanislav		
-TRC#300	RW9UZZ	RW9UZZ		
-TRC#400	RK8T	Radio Club		
-TRC#429	RA9YEN	S.K.		
-TRC#603	CB	Sergey		
-TRC#686	CB	Vitaly		
-TRC#888	CB	Aleksandr		
-				
-UK - Uzbekistan - 316				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	UK8LA	Karim		
-TRC#003	UK8APA	Vladimir		
-TRC#030	UK8AKG	Oleg		
-TRC#100	UK8IWT	Club		
-TRC#101	UK8IT	Valery		
-TRC#102	CB	YL Rozaly		
-TRC#103	CB	Sherzod		
-TRC#104	UK8ICP	Yuri		
-TRC#244	UK8AKK	Victor		
-TRC#304	CB	Nataly		
-TRC#702	UK8ICQ	Zera		
-				
-UN - Kazakhstan - 308				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	UN7TK	Nikolay		
-TRC#003	UN7IO	Yurij		
-TRC#004	UN7DA	Lev		
-TRC#005	CB	Anatoly		
-TRC#006	UN7TG	Nurlan		
-TRC#007	UN7BI	Vyacheslav		
-TRC#011	UN9LEL	Natali		
-TRC#021	UN9LFF	Yakow		
-TRC#022	UN2L	Vitaly		
-TRC#024	UN7JGR	Nick		
-TRC#026	CB	Marat		
-TRC#035	CB	Genadij		
-TRC#036	UN7GFC	Andrej		
-TRC#043	UN8GDS	Alexander		
-TRC#059	CB	Sergey		
-TRC#064	CB	Andy		
-TRC#073	UN7GF	Yuri Surov		
-TRC#098	UN9GC	Sergej		
-TRC#099	CB	Vsevolod		
-TRC#100	UN9LR	Sergey		
-TRC#101	UN9L	Pavel		
-TRC#102	UN7QBH	Vlad		
-TRC#156	UN7GCW	Aleksandr		
-TRC#193	CB	Aidar		
-TRC#401	UN7GDL	Yuri		
-TRC#563	CB	Stepan		
-				
-UR - Ukraine - 315				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	UR7UC	Serge		
-TRC#003	UR5WCA	Valery		
-TRC#004	UR5MM	Yuri		
-TRC#005	US7ITC	Vyacheslav		
-TRC#006	UX0UN	Nick		
-TRC#007	UR7MZ	Vladimir		
-TRC#008	UT5ULX	Anatoly		
-TRC#009	UT9LI	Sergio		
-TRC#010	US5MGJ	Valeriy		
-TRC#011	UX4FC	Victor		
-TRC#012	UT1PR	Ivan		
-TRC#013	UR2MZ	Vladimir		
-TRC#014	UT5MB	Alex		
-TRC#015	UT5EM	Yuri		
-TRC#016	US5VX	Eugene		
-TRC#017	UR7CT	Nick		
-TRC#018	UR5IHQ	Alexander		
-TRC#019	UX1LW	Andriy		
-TRC#020	UT1IM	Vladimir		
-TRC#021	UX8IR	Valery		
-TRC#022	UR5CC	Yakov		
-TRC#023	UY0CA	Pavel		
-TRC#025	UR5FCM	Igor		
-TRC#026	UX7LI	Vlad		
-TRC#027	US0UX	Vasili		
-TRC#028	UX3IT	Vladimir		
-TRC#029	UX1DC	Stanislav		
-TRC#030	UT5ERP	Roman		
-TRC#031	UX1CL	Vasily		
-TRC#032	US1RCH	Victor		
-TRC#033	US7IID	Anatoly		
-TRC#034	UR3AFS	Mihail		
-TRC#035	UR5DAW	Igor		
-TRC#036	UY2LA	Alexander		
-TRC#037	UR1YDD	Yuriy		
-TRC#038	UB5BIG	Volodymyr		
-TRC#039	US5WAF	Yaro		
-TRC#040	US5FET	Mykola		
-TRC#041	UR5FHD	Pavel		
-TRC#042	UT0VE	Alexander		
-TRC#043	US2MT	Toly		
-TRC#044	UT5LI	Ivan		
-TRC#045	UT8IBU	Vitaly		
-TRC#046	UX2MS	Alex		
-TRC#047	UT0HB	Slava		
-TRC#048	UY2LA	Alexander		
-TRC#049	US3EW	Vladimir		
-TRC#050	UR5QW	Voldemar		
-TRC#051	UT3UZ	Alex		
-TRC#052	UR4CU	Anatoly		
-TRC#053	US5WAC	Andrey		
-TRC#054	UT7FA	Pavlo		
-TRC#055	UZ1WW	Vladimir		
-TRC#056	UT2IV	Victor		
-TRC#057	UR4MP	Alexander		
-TRC#058	UT3NA	Volodymyr		
-TRC#059	UT3HD	Yuri		
-TRC#060	UR0IG	Ivan		
-TRC#061	UR4MS	Gennadiy		
-TRC#062	UR5LY	Victor		
-TRC#088	UR4HAA	YL Ania		
-TRC#100	UT2HZT	A.R.C. Satellite		
-TRC#101	UR6IHV	Roman		
-TRC#102	CB	Vitally		
-TRC#103	CB	Yura		
-TRC#104	CB	Tom		
-TRC#105	US6UCA	Vlad		
-TRC#112	CB	Vlad		
-TRC#123	UT3IW	Vitaly		
-TRC#200	UZ1HWW	Club - P.S.B.S.		
-TRC#300	UT7AXA	Club		
-TRC#387	CB	Anatoly		
-TRC#529	CB	Vitaly		
-TRC#681	US5ERU	Nick		
-TRC#777	US7IO	Vlad		
-				
-V2 - Antigua - 120				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Lyndon		
-				
-V5 - Namibia - 74				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Mervin		
-TRC#102	CB	Dirk		
-				
-V7 - Marshall   Isl. - 132				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#010	CB	Val		
-TRC#011	CB	Kinja		
-TRC#012	CB	Kintaro		
-				
-VE - Canada - 9				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	VA3MZB	Basil		
-TRC#003	VE9DX	Andy		
-TRC#004	VA2WT	Guy		
-TRC#005	VE3HMK	Mark		
-TRC#006	VE2FK	Claude		
-TRC#007	VE1OP	Scot		
-TRC#008	VE3FAL	Fred		
-TRC#009	VE2GT	Pierre		
-TRC#010	VE2KBS	Dominique		
-TRC#011	VE2UGO	Hugo		
-TRC#012	VE5RH	Richard		
-TRC#013	VA3RGS	Rudy		
-TRC#014	VE1RY	Stan		
-TRC#015	VE2SN	Earl		
-TRC#016	CB	Adrian		
-TRC#101	VE9EZ	John		
-TRC#102	CB	Michel		
-TRC#140	CB	Michel		
-TRC#141	CB	Allison		
-				
-VK - Australia - 43				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	VK7XX	John		
-TRC#003	VK4AFU	Daniel		
-TRC#004	VK2NRB	Bob		
-TRC#005	VK7KT	Doug		
-TRC#006	VK7LDK	Dick		
-TRC#007	VK3LX	Warren		
-TRC#008	VK5CM	Chris		
-TRC#009	VK7TZ	Dick		
-TRC#010	VK3XZ	Michael		
-TRC#027	CB	Jim		
-TRC#036	CB	John		
-TRC#038	CB	Mark		
-TRC#041	CB	Alan		
-TRC#043	CB	Noel		
-TRC#045	CB	Grant		
-TRC#050	CB	Bob		
-TRC#058	CB	Dave		
-TRC#059	CB	Steve		
-TRC#099	CB	Greg		
-TRC#101	CB	Jordan		
-TRC#152	CB	Victor		
-TRC#177	CB	Victor		
-TRC#181	CB	David		
-TRC#229	CB	Peter		
-				
-VU - India - 57				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	VU2UR - S.K.	Arasu		
-TRC#003	VU2LX	Laxman		
-TRC#004	VU2TS	Ganesh		
-TRC#005	VU2MUD	Madhukar		
-TRC#006	VU2PHD	Mathew		
-TRC#007	VU3JHC	Snehasish		
-TRC#008	VU2DSI	Datta		
-TRC#009	VU2CVS	Valluri		
-TRC#010	VU2PLG	Praveen		
-TRC#011	VU2IBI	Kash		
-TRC#012	VU2BGS	Gajendra		
-TRC#013	VU2ZDI	Durgadas		
-TRC#014	VU2MGS	Manorita		
-TRC#015	VU2FR	Frank		
-				
-XE - Mexico - 10				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	XE1AY	Ismael		
-TRC#003	XE2XCX	Joaquin		
-TRC#004	XE1RP	Marco		
-TRC#010	XE3VE	Ricardo		
-TRC#101	CB	Junior		
-TRC#103	XE2XXX	Carlos		
-TRC#104	XE2KBP	Edgar		
-TRC#205	CB	Luis		
-TRC#258	CB	Hugo		
-				
-YB - Indonesia - 91				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	YB3JBJ	Farid		
-TRC#003	YB3XM	Sugiyanto		
-TRC#004	YB0MWM	Hariyanto		
-TRC#005	YB0COU	Lie		
-TRC#006	YG9RGA	Eko		
-TRC#007	YB2EUZ	Dadang		
-TRC#008	YC9WZJ	Joni		
-TRC#009	YD9SOQ	Femmy		
-TRC#010	YF1AR	Budi		
-TRC#011	YD9RWY	Semuel		
-TRC#012	YB8ROP	Ronald		
-TRC#013	YB6DE	Eddy		
-TRC#014	YB1ALL	Agus		
-TRC#015	YB8QF	John		
-TRC#016	YD8MGN	Zulkarnain		
-TRC#017	YD7MHZ	Muhammad		
-TRC#018	YD9SCN	Edi		
-TRC#019	YC9SWW	Jumasman		
-TRC#020	YD6BFI			
-TRC#021	YC0KTS	Anto		
-TRC#022	YC6AM			
-TRC#023	YC6JRT	Ridha		
-TRC#024	YB3IZK	John		
-TRC#025	YC2VOC	Galih		
-TRC#026	YB1ACN	Sandy		
-TRC#027	YC9CT	Tony		
-TRC#028	YB1IM	Iman		
-TRC#029	YD2DSV	Wely		
-TRC#030	YC1BON	Nehroe		
-TRC#031	YB8OUN	Syafyuddin		
-TRC#032	YB2CTE	Ahmad		
-TRC#033	YB1KK	Moh		
-TRC#034	YB9AY	Made		
-TRC#035	YD2DOP	Ary		
-TRC#036	YD1KLX	Heri		
-TRC#037	YD1JXU	Andi		
-TRC#038	YD4RWH	Syahadi		
-TRC#039	YC5NBY	Adel		
-TRC#040	YB3BBF	Bambang		
-TRC#041	YD2AYA	Ibnu		
-TRC#042	YC1JNV	Cucun		
-TRC#044	YD2CKY	Arif		
-TRC#045	YB1COA	Ruddy		
-TRC#046	YD2CZF	Suharyanto		
-TRC#047	YD8AFG	Andi		
-TRC#048	YC1PZ	Phiar		
-TRC#049	YB1JQC	Sandraleka		
-TRC#050	YD1FPC	Handy		
-TRC#051	YD4SIO	Erwin		
-TRC#052	YD2COM	Purwanto		
-TRC#053	YC6SUT	Mas'udy		
-TRC#054	YC4DCE	Harnadi		
-TRC#055	YG3DZU	Rahmad		
-TRC#056	YB1LBW	Irwan		
-TRC#057	YD9KAN	Narain		
-TRC#058	YD3CER	Rudi		
-TRC#059	YD8MABS	Syamsu		
-TRC#060	YG7UAN	Achmad		
-TRC#061	YB1MBA	Anil		
-TRC#062	YD1ISM	Sutikno		
-TRC#063	YD8MUZ	Ismail		
-TRC#064	YF8CKM	Nurdin		
-TRC#065	YD8NEH	Syamsu		
-TRC#066	YD9MBM	Musa		
-TRC#067	YB3BAR	Djoko		
-TRC#068	YC2SPP	Setyawan		
-TRC#069	YC4SIZ	Setio		
-TRC#070	YE3FZR	Rianto		
-TRC#099	YC4VD	Edwin		
-TRC#111	CB	Isfan		
-TRC#191	CB	Bruno		
-TRC#555	CB	Johnny		
-				
-YI - Iraq - 151				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	YI1RZ	Razi		
-				
-YJ -Vanuatu - 197				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#1000	YJ0GC	Stanislav	DX-pedition - 2018	
-				
-YL - Latvia - 310				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	YL3ID	Jurijs		
-TRC#003	YL-RS-01	Alex		
-TRC#004	YL2CA	Arnolds		
-TRC#005	YL2TD	Yevgeniy		
-TRC#006	YL2EC	Janis		
-TRC#007	YL3DQ	Normunds	YL5T	
-TRC#008	YL2IU	Uldis		
-TRC#009	YL2GQK	Andris		
-TRC#010	YL2GW	Edy		
-TRC#011	YL2CW	Andy		
-TRC#012	YL3FW	Sergei		
-TRC#013	YL3GBC	Arnis		
-TRC#014	YL2HB	Karl		
-TRC#015	YL2AG	Alexandr		
-TRC#016	YL3JD	Hanz		
-TRC#102	CB	Aivars		
-TRC#105	YL3GBF	Janis		
-TRC#125	YL3DR	Aivars		
-				
-YN - Nicaragua - 126				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	YN3ZAV	Alex		
-				
-YO - Romania - 233				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	YO5OAG	Tomo		
-TRC#003	YO5OED	Feri		
-TRC#004	YO3AIS	Nicolae		
-TRC#005	YO6EX	Vasile		
-TRC#006	YO6UO	Denes		
-TRC#007	YO6PJX	Laszlo		
-TRC#008	YO2RR	Nelu		
-TRC#009	YO5PBF	Carol	YR5N	
-TRC#010	YO4AAC	George		
-TRC#011	YO2LGV	Carol		
-TRC#012	YO2GL	Daroczi		
-TRC#013	YO5OBA	Adrian		
-TRC#014	YO6DBL	Ionel		
-TRC#015	YO6PZZ	Zoltan	YP6Z	
-TRC#016	YO4ASG	Cornel-Emil		
-TRC#017	YO5OHY	Zoli		
-TRC#018	YO5CDF	Diaconu		
-TRC#019	YO7SG	Serge		
-TRC#020	YO9CNU	Florin		
-TRC#021	YO3CZW	Mariusz		
-TRC#022	YO9IAB	Vasile		
-TRC#023	YO2LMW	Dorel		
-TRC#024	YO2LEA	Nelu		
-TRC#025	YO6EZ	Dan		
-TRC#026	YO3IMD	Ilie		
-TRC#027	YO2LDS	Lucian		
-TRC#028	YO2DFA	Ovidiu		
-TRC#029	YO5EI	Horia		
-TRC#031	YO3GH	Dan		
-TRC#032	YO4LHR	Nick		
-TRC#033	YO8RCW	Stefan		
-TRC#034	YO6OGY	Szoke		
-TRC#035	YO2BPZ	Adrian		
-TRC#036	YO9BXE	Ion		
-TRC#037	YO7YO	Maxim		
-TRC#038	YO9RIJ	Petrica		
-TRC#039	YO4SIQ	Valesco		
-TRC#040	YO9GMI	Dorin		
-TRC#041	YO4PX	Francisc		
-TRC#042	YO7ARY	Marcel		
-TRC#043	YO5OAC	Muntean		
-TRC#044	YO3BIZ	Valentin		
-TRC#045	YO8DOH	Stefan		
-TRC#046	YO3FF	Dan		
-TRC#047	YO8SGZ	Ion		
-TRC#048	YO2ZQ	Dan		
-TRC#049	YO7MPI	Artaris		
-TRC#050	YO3FVS	Dan		
-TRC#051	YO9FQT	Marius		
-TRC#052	YO8BSE	Costi		
-TRC#053	YO9IOE	Manole		
-TRC#054	YO6FPW	Lucilius		
-TRC#056	YO3IWZ	Lucian		
-TRC#057	YO8BFB	Viorel		
-TRC#058	YO4BEW	Stefan		
-TRC#059	YO2ADQ	Petre		
-TRC#060	YO3HEX	Gabriel		
-TRC#061	YO7LLH	Viorel		
-TRC#062	YO4RDW	Romeo		
-TRC#063	YO2CEQ	Slobodan		
-TRC#101	CB	Dan		
-TRC#102	CB	Doru		
-TRC#103	CB	Marius		
-TRC#104	CB	Doru		
-				
-YS - El Salvador - 53				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Mauricio		
-TRC#102	CB	Walter		
-TRC#103	CB	Carlos		
-				
-YT - Serbia - 45				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	YT2SMS	Bojan		
-TRC#003	YU1KN	Sasa		
-TRC#004	YT1VPB	Perica		
-TRC#005	YT1MSX	Milos		
-TRC#006	YT3KTT	Branko		
-TRC#007	YT7MBX	Ilija		
-TRC#008	YT5M	Vasa		
-TRC#009	YU1TY	Jubisa		
-TRC#010	YT5FD	Slavko	YT3M	
-TRC#011	CB	Zoran		
-TRC#012	YT2ISM	Ismail		
-TRC#013	YT2KID	Dragi		
-TRC#014	YT1E	Rodo		
-TRC#015	YT9A	Boban		
-TRC#016	YU5EQP	Petar		
-TRC#017	YU5T	Zoran		
-TRC#018	YT2AZD	Zika		
-TRC#019	YU1WAT	Vinko		
-TRC#020	YU1DX	Srecko		
-TRC#021	YU1USA	Milan		
-TRC#022	YU1AU	Miki		
-TRC#023	YU1OS	Dusan		
-TRC#024	YU4PEG	Milan		
-TRC#101	CB	Boban		
-TRC#102	4N1FNM	Marjan		
-TRC#305	CB	Niko		
-				
-YV - Venezuela - 5				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	YV8BXN	Ismael		
-TRC#003	YV3EDT	Nelson		
-TRC#004	YV8AD	Rei		
-TRC#005	YV6CA	Carlos		
-TRC#006	YV4MT	Miguel		
-TRC#007	YV5HV	Pedro		
-TRC#008	YV5AJE	Jesus		
-TRC#009	YV1GIY	Carlos		
-TRC#010	YY1ALE	Alejandro		
-TRC#011	YV6BXN			
-TRC#012	YY5AAH	Leonardo		
-TRC#013	YV5MBI	Andres		
-TRC#014	YV5AJI	Edgar		
-TRC#019	CB	Julio		
-TRC#101	CB	Carlos		
-TRC#102	YV1SW	Sixson		
-TRC#103	CB	Victor		
-TRC#106	CB	Ingrid		
-TRC#110	CB	Gabriel		
-TRC#125	CB	Jose		
-				
-Z2 - Zimbabwe - 85				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#101	CB	Dean		
-TRC#102	CB	Lewis		
-TRC#104	CB	Monty		
-				
-Z3 - Macedonia - 332				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	Z35T	Ozren		
-TRC#003	Z33F	Zoki		
-TRC#004	Z39A	Chris		
-TRC#005	Z32M	Mladen		
-TRC#006	Z35W	Zvonko		
-TRC#007	Z36W	Venco		
-				
-Z6 - Rep. of Kosovo - 352				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	Z61DX	Driton		
-TRC#003	Z61AS	Agim		
-				
-ZA - Albania - 251				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ZA1AK	Anila		
-				
-ZB - Gibraltar - 55				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	CB	John		
-TRC#003	CB	Joseph		
-TRC#111	CB	Tony		
-				
-ZL - New Zealand - 41				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ZL3PAH	Phil	ZL3P	
-TRC#103	ZL1SW			
-TRC#747	ZL1TTW	Tony		
-				
-ZP - Paraguay - 67				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ZP5AJR	Alfonso		
-TRC#003	ZP5DNB	Angel		
-TRC#101	CB	Carlos		
-TRC#102	CB	Der		
-TRC#103	CB	Alfredo		
-TRC#105	CB	Fabio		
-				
-ZS - South Africa - 44				
-#	Callsign	Name	Contest/Sp. callsign	
-TRC#002	ZS5GD	Glenham		
-TRC#003	ZS6PMT	Paul		
-TRC#004	ZS2EC	Theunis		
-TRC#005	ZS6ZA	Etienne		
-TRC#011	CB	Derek		
-TRC#101	CB	Ashley		
-TRC#102	CB	Derek		
-TRC#103	CB	Jean-Pierre		
-TRC#252	CB	Spike		
-				
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	3A1001SWL	Eric	
+3V - Tunisia - 147			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	3V8ST	Montassar	
+TRC#100	3V8SA	Club - ARCS	
+4K - Azerbaijan - 303			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	4K6FO	Alim	
+TRC#003	4K6AG	Ruslan	
+TRC#004	4K3M	Farkhad	
+TRC#005	4K6MAR	Mekhman	
+TRC#101	4J9M	Rashid	
+TRC#102	4K5CW	Said	
+TRC#103	4K9C	Said	
+TRC#104	4J8YL	Eva	
+4L - Georgia - 306			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	4L1MA	Anatoly	
+TRC#003	4L1AX	Enriko	
+TRC#011	4L4MM	Mario	
+TRC#101	4L1DW	Lado	
+TRC#102	4L1AP	Alex	
+TRC#103	CB	Beso	
+TRC#104	CB	Aleko	
+TRC#105	CB	Mamuka	
+4O - Montenegro - 344			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	4O3TT	Boro	
+			
+4S - Sri Lanka - 177			
+TRC#002	4S7BRG	Mario	
+			
+4Z - Israel - 97			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	4Z5ON	Offer	
+TRC#003	4Z5TC	Israel	
+TRC#004	4Z4DX	Dov	
+TRC#005	4X6DK	David	
+TRC#006	4X1VF	Jan	4X0A
+TRC#007	4Z5MY	Yakov	
+TRC#008	4Z5LA	Ros	
+TRC#009	4X5MT	Avi	
+TRC#010	4X5EW	Oleg	
+TRC#012	4Z5FI	Ruben	
+TRC#013	4Z4KX	Mark	
+TRC#101	4Z5PT	Lery	
+TRC#102	CB	Daniel	
+TRC#105	CB	Leo	
+TRC#1401	4X-1401	Ilan	
+			
+5A - Libya - 92			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Abubaker	
+TRC#102	CB	Omar	
+TRC#005	CB	Hamida	
+			
+5B - Cypros - 110			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	5B4AIK	Mike	
+TRC#003	5B4AGT	Arthur - S.K.	
+TRC#004	5B4AHO	Barry	
+TRC#005	5B4AIX	Noz	
+			
+5H - Tanzania - 83			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	5H3CMG	Jaco	
+			
+5R - Malagesy  Rep. - 188			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	5R8SV	Jaco	
+			
+5W - Samoa - 223			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#1000	5W0GC		DX-pedition - 2018
+			
+5Z - Kenya - 223			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	5Z4/LZ4NM	Nick	
+			
+6Y - Jamaica - 23			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Winston	
+TRC#102	CB	Anthony	
+			
+7X - Algeria - 146			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	7X2GK	Kamel	
+TRC#003	7X2DD	Mohamed	
+TRC#005	7X2EB	Redha	
+TRC#006	7X2KV	Miloud	
+TRC#100	7X2VFK	Great Desert Djelfa Radio Club	
+TRC#101	CB	Rafy	
+			
+8P - Barbados - 122			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Daniel	
+TRC#003	8P6NW	Glenroy	
+TRC#103	CB	Carson	
+			
+9A - Croatia - 328			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	9A3ALD	Davor	
+TRC#003	9A5V	Frano	
+TRC#004	9A8GES	Gabriele	
+TRC#005	9A0W	Ivan	
+TRC#006	9A2WJ - S.K.	Daki	
+TRC#007	9A2AJ	Tomislav	
+TRC#008	9A5SM	Marija	
+TRC#009	9A4ZP	Zeljko	
+TRC#010	9A3JB	Mike	
+TRC#011	9A3BSL	Ljubo	
+TRC#012	9A6TT	Ivan	
+TRC#014	9A3LUC	YL Lucija	
+TRC#015	9A4TX	Branko	
+TRC#016	9A3ND	Dubravka	
+TRC#017	9A7R	Braco	
+TRC#021	9A7JQQ	Tomislav	
+TRC#022	9A1AA	Ivo	
+TRC#023	9A7W	Ozren	
+TRC#024	9A3ZI	Predrag	
+TRC#025	9A6KX	Mirko	
+TRC#026	9A0S	Mario	
+TRC#100	9A3B	RADIO KLUB BELISCE	
+TRC#102	CB	Jan	
+TRC#103	CB	Ilija	
+TRC#104	CB	Goran	
+TRC#105	CB	Bruno	
+TRC#106	CB	Tony	
+TRC#107	CB	Lili	
+			
+9H - Malta - 93			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	9H2RJ	Ruben	
+TRC#010	CB	Joe	
+TRC#016	CB	Ray	
+TRC#020	CB	Remigio	
+TRC#108	CB	Jesmond	
+TRC#167	CB	Noel	
+			
+9K - Kuwait - 102			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	9K2BS	Saud	
+TRC#003	9K2DB	Ahmad	
+TRC#101	9K2DD	Saleh	
+TRC#102	CB	Mohamed	
+TRC#103	CB	Hady	
+TRC#104	CB	Mohamed	
+TRC#108	CB	Hamad	
+TRC#111	9K2YM	Yaser	
+TRC#112	CB	Hamid	
+			
+9M2 - Malaysia - 113			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	9M2RDX	Rizal	
+TRC#003	9M2ESM	Sam	
+TRC#004	9M2PJU	Piju	
+			
+9M6 - East Malaysia - 58			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	9W8WAT	Wat	
+TRC#003	9M6RHM	Abdul	
+			
+9Y - Trinidad & Tobago - 158			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#100	CB	Horace	
+TRC#101	CB	Anthony	
+TRC#102	CB	Dave	
+			
+A3 - Kingdom of Tonga - 96			
+TRC#1000	A35GC	Stanislav - LZ1GC	DX-pedition - 2022
+A4 - Oman -			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	A41CK	Khalid	A42K
+TRC#003	A41RN	Mudhfer	
+TRC#004	A41KB	Abdalla	
+			
+A5 - Bhutan - 202			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	A52EGV	Takuma Mama	
+			
+A6 - U.A.E. - 94			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	A61ZX	Ibrahim	
+TRC#003	A61BK	Khalid	
+TRC#004	A61K	Khalid	
+TRC#005	A61KM	Khalifa	
+TRC#006	A61VV	Badr	
+TRC#007	A61NN	Khalid	
+TRC#008	A61EE	Ahmed	
+TRC#009	A61BM	Eissa	
+TRC#010	A61Q	Abdullah	
+TRC#011	A61DJ	Obaid	
+TRC#012	A61SM	Salim	
+TRC#013	A65DF	Jayanarayanan	
+TRC#014	A65DB	Shindo	
+TRC#049	CB	Ramy	
+TRC#094	CB	Ali	
+TRC#101	A61BR	Rashed	
+TRC#102	CB	Rashid	
+TRC#106	CB	Hamid	
+TRC#299	A61FJ	Faisal	
+			
+A7 - Qatar - 115			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	A71YY	Juma	
+TRC#003	CB	Ali	
+TRC#004	A71BZ	Ali al Ahmad	
+TRC#005	A71CV	Abdulla	
+TRC#006	A71GO	Aziz	
+TRC#007	A71AE	Mubarak	
+TRC#101	CB	Salem	
+TRC#555	CB	Mohammed	
+TRC#707	A71FJ	Jimmy	
+TRC#606	CB	Rose	
+TRC#777	A71EM	Juma	
+			
+AP - Pakistan - 114			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	AP2AMR	Amir	
+TRC#102	CB	Naseem	
+			
+BY - China - 203			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	BA4TB	Dale Yu	
+TRC#003	BH1KVZ	Baolaisong	
+TRC#004	BG9XD	Chenxing	
+TRC#005	BG8GAM	Qiu tau	
+TRC#006	BG6TWT	Tim	
+TRC#007	BD6JN	Lianzhong	
+TRC#008	BG0CAB	Sun Chao	
+TRC#009	BD6SNM	Yang	
+TRC#010	BH1UZJ	Ziyuan	
+TRC#021	CB	Yee	
+TRC#101	CB	Tom Su	
+TRC#999	CB	Gena	
+			
+C3 - Andorra - 51			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Nikko	
+TRC#259	CB	Philippe	
+			
+C6 - Bahamas Isl. - 121			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Shaun	
+TRC#102	CB	Leonard	
+			
+CE - Chile - 32			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CE1VCZ	Moris	
+TRC#003	CE4KCA	Rodrigo	
+TRC#004	CE7VPQ	Javier	
+TRC#005	XQ6OA	Erich	
+TRC#006	CE7KF	Mauricio	
+TRC#007	CE6UBP	John	
+TRC#008	CA2UDY	Edinson	
+TRC#080	CB	Pedro	
+TRC#101	CB	Javier	
+TRC#110	CB	Felipe	
+TRC#148	CB	Roni	
+			
+CN - Morocco - 76			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CN8WW	Saaid	
+TRC#003	CN8SG	Hassan	
+TRC#004	CN2LO	Francois	
+TRC#005	CN8CE	Zidane	
+TRC#006	CN8BHA	Mohamed	
+TRC#010	CB	Mario	
+			
+CO - Cuba - 88			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CO2IR	Frank	
+TRC#003	CL7HNS	Mabel	
+TRC#004	CO2AME	Amed	
+TRC#005	CO2XK	Alexei	
+TRC#006	CM8AKD	Joseph	
+TRC#007	CO6RD	Reinaldo	
+TRC#008	CL2DPC	Dayron	
+TRC#009	CM2ANA	Anaisa	
+TRC#010	CO2BK	Luis	
+TRC#011	CO2QU	Narciso	
+TRC#012	CM2IU	William	
+TRC#013	CL7YW	Yorley	
+TRC#102	CO6YI	Julian	
+TRC#103	CO6LG	Lorgio	
+TRC#104	CO6EI	Gresin	
+TRC#105	CO6XF	Felix	
+TRC#106	CB	Narciso	
+TRC#107	CB	Henly	
+			
+CP - Bolivia - 80			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Mariano	
+			
+CT - Portugal - 31			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CT1BWW	Marque	
+TRC#003	CT2FTD	Jose	
+TRC#004	CT5KDN	Sylvio	
+TRC#005	CT1EXR	Jorge	
+TRC#006	CT2FPY	Leonel	
+TRC#007	CT1ELZ	Manuel	
+TRC#008	CT2FUO	Manuel	
+TRC#009	CT4KG	Gil	
+TRC#010	CT5ICH	Jose Manuel	
+TRC#011	CT5JZX	Pedro	
+TRC#012	CT1BWU	Joao	
+TRC#013	CT7AEQ	Todor	
+TRC#014	CT7AQS	Joao	
+TRC#015	CS7AMN	Bruno	
+TRC#016	CT1FMX	Jorge	
+TRC#017	CT7AOV	Hugo	
+TRC#018	CS7AWL	Jose	
+TRC#019	CT2GMI	Antonio	
+TRC#101	CB	Joao	
+TRC#102	CB	Jose	
+TRC#149	CB	Manuel	
+TRC#150	CT2ITZ	Paulo	
+TRC#321	CB	Gabriel	
+TRC#405	CB	Lucien	
+			
+CU - Azores Isl. -75			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CU2JR	Duarte	
+TRC#003	CU5AQ	Abilio	
+TRC#004	CU3AK	Jaime	
+TRC#005	CU3AA	Joao	
+TRC#022	CB	John	
+			
+CX - Uruguay - 12			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CX1FU	Daniel	
+TRC#003	CX7BBR	Ruben	
+TRC#101	CB	Martin	
+TRC#102	CB	Diego	
+TRC#103	CB	Carlos	
+TRC#108	CB	Alfredo	
+TRC#116	CX6TU	Danilo	
+TRC#199	CB	Felix	
+			
+D6 - Comoros Isl. - 185			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Cheik	
+			
+DL - Germany - 13			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#000	CB	Club	
+TRC#002	CB	Bernd	
+TRC#003	CB	Peter	
+TRC#004	CB	Herbert	
+TRC#005	CB	Rydi	
+TRC#006	DB8ZQ	Walter	
+TRC#007	CB	Bernd	
+TRC#008	DL2NAI	Israel	
+TRC#009	DL5GBP	Peter	
+TRC#010	CB	Diddi	
+TRC#011	DO5OT	Mario	
+TRC#012	DG1BQC	Hardy	
+TRC#013	CB	Martin	
+TRC#014	DL1DF	Frank	
+TRC#015	DJ2RG	Klaus	
+TRC#016	DL6MER	Karl	
+TRC#017	DL1OW	Orlin	
+TRC#018	DK1MZ	Stamen	
+TRC#019	DO2RFC	Finger	
+TRC#020	DB3UB	Walter	
+TRC#021	DO7JF	Matthias	
+TRC#022	DH5WB	Wilfried	
+TRC#023	DK4WO	Andy	
+TRC#024	DK8RE	Hans-Juergen	
+TRC#025	DL1ARG	Rolf	
+TRC#026	DK9MS	Markus	
+TRC#027	DO1IP	Udo	
+TRC#028	DL4ABO	Michael	
+TRC#029	DF8XC	Burkhard	
+TRC#030	DL6BS	Stefan	
+TRC#031	DF8VV	Horst	
+TRC#032	DO9MJ	Matthias	
+TRC#033	DL4FDM	Fritz	
+TRC#034	DF2AJ	Andy	
+TRC#035	DK2VA	Josef	
+TRC#036	DE2LBB	Heiner	
+TRC#037	DL8BV	Heirbert	
+TRC#038	DG2PHE	Peter	
+TRC#039	CB	Stefan	
+TRC#040	DL6XAZ	Fred	
+TRC#041	DF5WW	Juergen	
+TRC#042	DL1CW	Arno	
+TRC#043	CB	Dieter	
+TRC#044	DL-S21-21737	Marco	
+TRC#045	DF2CQ	Achim	
+TRC#046	DO2WAL	Manfred	
+TRC#047	DL2NBY	Tom	
+TRC#048	DL2YAK	Uwe	
+TRC#049	DM5BB	Alexander	
+TRC#050	DO2FM	Frauke	
+TRC#051	CB	Valentin	
+TRC#052	DL5AWI	Gerd	
+TRC#053	DJ1CQ	Viktor	
+TRC#054	DL2AMM	Manfred	
+TRC#055	DL7ET	Veit	
+TRC#056	DM2RN	Ernst	
+TRC#057	DK7FF	Josef	
+TRC#058	DJ9ZB	Franz	
+TRC#059	DL6KWN	Helmut	
+TRC#060	DB4BJ	Martin	
+TRC#061	DL1CC	Wolf	
+TRC#062	DK3DUA	Thomas	
+TRC#063	DF3TE	Elfi	
+TRC#064	DH1PAL	Werner	
+TRC#065	DM3ZM	Harald	
+TRC#066	DL0052SWL	Marco	
+TRC#067	DG1YOW	Olivier	
+TRC#068	DM3KXL	Reinhard	
+TRC#069	DL4HBF	Heinz	
+TRC#070	DG8PD	Juergen	
+TRC#071	DJ0JB	Jorg	
+TRC#072	DL3WB	Willi	
+TRC#073	DK5ON	Andy	
+TRC#074	DH0GME	Elmar	
+TRC#075	DL8UD	Uwe	
+TRC#076	DL1ERE	Vesko	
+TRC#077	DK7OG	Hans-Andr‚	
+TRC#078	DL9FCQ	Thomas	
+TRC#079	DL8KAC	Vlad	
+TRC#080	DE0MKH	Michael	
+TRC#081	DJ7OM	Paul	
+TRC#082	DL2DXA	Bernd	
+TRC#083	DL6ZFG	Rolf	
+TRC#084	DJ0FX	Walt	
+TRC#085	DE2TRF	Torsten	
+TRC#086	DM5EM	Sven	
+TRC#087	DD8VX	Matthias	
+TRC#088	DG2BAR	Barbara	
+TRC#089	DL6BCX	Hermann	
+TRC#090	DL8UVG	Volkhard	
+TRC#091	DG0KS	Michel	
+TRC#092	DL5JQ	Erhard	
+TRC#093	DL2LDE	Daniel	
+TRC#094	DL1JGO	Wolf	
+TRC#095	DG9AK	Karl-Walter	
+TRC#096	DO9SO	Soner	
+TRC#097	DE1JST	Jurgen	
+TRC#098	DF5EG	Joe	
+TRC#099	DF4WC	Andy	
+TRC#101	CB	Herbert	
+TRC#102	CB	Wolfgang	
+TRC#103	CB	Klaus	
+TRC#104	CB	Stephan	
+TRC#105	CB	Schenk	
+TRC#106	CB	Karl-Heinz	
+TRC#107	CB	Jurgen	
+TRC#108	CB	Dieter	
+TRC#109	CB	Tim	
+TRC#110	CB	Willi	
+TRC#111	CB	Kai	
+TRC#112	CB	Christian	
+TRC#113	CB	Ralf	
+TRC#114	CB	Olaf	
+TRC#115	CB	Jurgen	
+TRC#116	CB	Dirk	
+TRC#117	CB	Paul	
+TRC#118	CB	Detlef	
+TRC#119	DM6FF	Frank	
+TRC#120	CB	Lars	
+TRC#121	DF1XC	Doc	
+TRC#122	DL4CF	Joe	
+TRC#123	DG3BCZ	Florian	
+TRC#124	CB	Chris	
+TRC#125	DL8BFV	Sebastian	
+TRC#126	DL4FCH	Peter	
+TRC#127	DL1LRI	Gerald	
+TRC#128	DF8AN	Michael	
+TRC#129	DR7T	Martin	
+TRC#130	DE1RSG	Reiner	
+TRC#131	DL2LU	Lueder	
+TRC#132	DF7KD	Rainer	
+TRC#133	DJ0MA	Andreas	
+TRC#134	DJ6DO	Gerhard	
+TRC#135	DC1YY	Reinhard	
+TRC#136	DK9PA	Patrick	
+TRC#157	CB	Carsten	
+TRC#173	CB	Volker	
+TRC#222	CB	Wolfgang	
+TRC#256	CB	Robin	
+TRC#333	CB	Markus	
+TRC#585	CB	Olaf	
+TRC#707	CB	Uli	
+TRC#765	CB	Martin	
+			
+DU - Philippines - 79			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	DV1UD		
+TRC#003	DU1ZGH	Aves	
+TRC#004	4G1QAZ	Joy	
+TRC#100	CB	Choi	
+TRC#101	CB	Aldrin	
+TRC#103	CB	Hector	
+			
+E4 - Palestine - 340			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	E41WT	Walaa	
+			
+E7 - Bosnia and Hercegovina - 331			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	E77O	Slobodan	
+TRC#003	E77E	Robert - S.K.	
+TRC#004	E77S	Sadudin	
+TRC#005	E76WO	Goran	
+TRC#006	E79Q	Josip	
+TRC#007	E77EE	Zdravko	
+TRC#101	CB	Mile	
+			
+EA - Spain - 30			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Nik	
+TRC#003	EA3KE	Toni	
+TRC#004	EA7OR	Francisco	
+TRC#005	CB	Raul	
+TRC#006	EA2TA	George	
+TRC#007	EA2DCF	Kepa	
+TRC#008	EB3DSD	Joan	
+TRC#009	EA5HBM	Manuel	
+TRC#010	CB	Nikko	
+TRC#011	EA3FHP	Joseph	
+TRC#012	EB5DZC	Juan Carlos	
+TRC#013	EC7ALW	Monki	
+TRC#014	EA4M	Rick	
+TRC#015	EB1AGG	Jesus	
+TRC#016	EA5HT	Jesus	
+TRC#017	EA2NA	German	
+TRC#018	EA5YU	Jose	
+TRC#019	EA1UJ	Francisco	
+TRC#020	EA1HLW	Angeles	
+TRC#021	CB	Oscar	
+TRC#022	CB	Antonio	
+TRC#023	EA1IDG	Pablo	
+TRC#024	CB	Paco	
+TRC#025	EB3WH	Juanjo	
+TRC#026	EA7Q	Leonardo	
+TRC#027	EA7AJP	Francisco	
+TRC#028	EA2KR	Francisco	
+TRC#029	EA5HM	Pepe	
+TRC#030	EA3ARN	Josep	
+TRC#031	EA3HYJ	Agustin	
+TRC#032	EA4BAS	Miguel	
+TRC#033	EA3HKA	Eliseo	
+TRC#034	EA3GYE	Antonio	
+TRC#035	EA5WI	Joe	
+TRC#036	EA7JAN	Jose	
+TRC#037	EA4HKF	Jose	
+TRC#038	EA4FME	Antonio	
+TRC#039	EA3HJB	Jordi	
+TRC#041	CB	Alvaro	
+TRC#042	EA5PC	Juan	
+TRC#043	EA4CO	Miguel	
+TRC#044	EA3MQ	Jose	
+TRC#045	EA1NJ	Julio	
+TRC#046	EA5005SWL	Antolin	
+TRC#047	EA1DD	Paco	
+TRC#048	EA5ITT	Fred	
+TRC#101	EA2DT	Manuel	
+TRC#102	CB	Nicanor	
+TRC#104	CB	Angel	
+TRC#105	EC5CWW	Fran	
+TRC#108	CB	Jose	
+TRC#109	CB	Jose	
+TRC#110	CB	Sebastian	
+TRC#294	CB	Frank	
+TRC#313	CB	Nicanor	
+TRC#314	EA3HSL	Jordi	
+TRC#999	EC7K	Tony	
+			
+EA6 - Balearic Isl. - 49			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#011	CB	Mrs. Lumi	
+TRC#012	CB	Jaime	
+TRC#015	CB	Peter	
+TRC#029	CB	Sebas	
+TRC#049	CB	Leandro	
+TRC#101	CB	Javi	
+TRC#108	CB	Maria	
+			
+EA8 - Canary Isl. - 34			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	EA8MT	Dunia	
+TRC#003	EA8GP	Jose	
+TRC#004	EA8ZT	Gul	
+TRC#005	EA8AT	Oscar	
+			
+EA9 - Ceuta & Melilla - 106			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#010	CB	Mario	
+TRC#121	CB	Fernando	
+			
+EI - Ireland - 29			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Oliver	
+TRC#003	CB	Edy	
+TRC#004	CB	Owen	
+TRC#005	CB	Lisa-Marie	
+TRC#006	CB	Tom	
+TRC#007	EI3JB	Nicholas	
+TRC#008	EI5GOB	Francis	
+TRC#009	EI8HL	Bob	
+TRC#010	EI3CTB	Justin	
+TRC#011	EI3GAB	Anthony	
+TRC#012	EI3HA	Tony	
+TRC#013	EI8DD	Tom	
+TRC#014	EI3GRB	Bob	
+TRC#015	EI6KW	Slav	
+TRC#016	EI5KF	Gerard	
+TRC#019	CB	Brendan	
+TRC#029	CB	Frank	
+TRC#102	CB	Robby	
+TRC#167	CB	Edward	
+TRC#170	CB	Pat	
+			
+EK - Armenia - 301			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	EK7DX	Karen	
+TRC#003	EK8ZZ	Karen	
+TRC#004	EK5KE	Henry	
+TRC#005	EK1KE	Rafik	
+TRC#006	EK-RS-156	Valeri	
+TRC#010	EK6RPO	Arthem	
+TRC#100	EK8SL	Club	
+TRC#101	EK6SW	Walter	
+			
+EP - Iran - 154			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Rupert	
+			
+ER - Moldova - 312			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ER5AE	Alexandr	
+TRC#011	ER4DX	Willy	
+TRC#069	ER-069	Andy	
+TRC#101	ER4OT	Vasilij	
+TRC#102	ER2GF	Vladimir	
+TRC#103	CB	Paul	
+TRC#104	CB	Vlad	
+TRC#105	CB	Igor	
+TRC#325	ER2AW	Sergey	
+			
+ES - Estonia - 304			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ES5GP	Juri	
+TRC#003	ES4MM	Alex	
+TRC#004	ES5QA	Valeri	
+TRC#005	ES6JAN	Janno	
+TRC#006	ES3ACV	Rein	
+TRC#007	ES1TNN	Hilar	
+TRC#008	CB	Aulo	
+TRC#009	ES4RX	Valery	
+TRC#010	ES5EP	Enn	
+TRC#011	ES7AM	Rein	
+TRC#012	ES2TT	Ed	
+TRC#013	CB	Victor	
+TRC#014	ES4BP	Vlad	
+TRC#015	ES7FU	Hellar	
+TRC#016	ES5FD	Voldemar	
+TRC#017	ES1QX	Eduard	
+			
+EU - Belarus - 317			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	EW6GF	Andrey	EW6F
+TRC#003	EW1P	Igor	
+TRC#004	EW8OG	Valery	EW8G
+TRC#005	EW6FW	Sergej	
+TRC#006	EW1DL	Leonid	
+TRC#007	EW4W	Mikalai	
+TRC#008	EW7BU	Aleksandr	
+TRC#009	EW1D	Leonid	EV5O
+TRC#010	EW3ADE	Andrei	
+TRC#050	CB	Leonid	
+TRC#055	CB	Alex	
+TRC#100	EU7WW	CLUB	
+TRC#101	EU6AB	Andrej	
+TRC#102	EW6AP	Gary	
+TRC#200	EU1XD	Children club Mayak	
+TRC#471	CB	Valentin	
+			
+EX - Kyrgizstan - 309			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	EX8BN	Evgenij	
+TRC#003	EX8004	Ivan	
+TRC#070	EX8AA	Alex	
+TRC#101	CB	Misha	
+TRC#102	EX8MH	Vlad	
+			
+EY - Tadzhikistan - 313			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#009	EY8AW	Anna	
+TRC#010	EY8CQ	Alex	
+			
+EZ - Turkmenistan - 314			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	EZ8CQ	Alexandr	
+TRC#102	EZ8CW	Vitaly	
+TRC#103	EZ8AQ	Jenny	
+TRC#104	EZ8YL	Elena	
+TRC#105	EZ3AA	Alex	
+TRC#106	CB	Miku	
+			
+F - France - 14			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#003	F4EZJ	Stef	
+TRC#004	F1ICS	Henri	
+TRC#005	F6GYZ	Pierre	
+TRC#006	F5TFI	Rene	
+TRC#007	F4FJH	Eric	
+TRC#008	F4FYC	Patrick	
+TRC#009	F4GDO	John	
+TRC#010	F4BVO	Olivier	
+TRC#011	F4EIE	Richard	
+TRC#012	CB	Erik	
+TRC#013	CB	Antoine	
+TRC#014	F1IWH	Daniel	
+TRC#015	F0EZH	Regis	
+TRC#016	F8NUH	Rochez	
+TRC#017	F1AEY	Philippe	
+TRC#018	F5OEV	Alain	
+TRC#019	F5MPN	St‚phane	
+TRC#020	F4DTO	Franck	
+TRC#021	CB	Lucien	
+TRC#022	F4GFE	Patrick	
+TRC#023	F4BPO	Gregory	
+TRC#024	F1ONW	Lioret	
+TRC#025	F1DSZ	Jean-Claude	
+TRC#026	F6AJM	Jean-Pierre	
+TRC#027	F6EAZ	Chris	
+TRC#028	F8BON	Pat	
+TRC#029	F6JOE	Jean	
+TRC#030	F-16527	Bernard	
+TRC#031	F8ATS	Tony	
+TRC#032	F5UQE	Duc	
+TRC#033	F8DGF	Nicolas	
+TRC#034	F5NBX	Fred	
+TRC#035	F6DHI	Christian	
+TRC#036	CB	Patrice	
+TRC#037	F4HZS	Nicolas	
+TRC#038	F8AZK	Jean-Pihilippe	
+TRC#039	F8DFP	Morel	
+TRC#040	F5NLX	Jean-Marie	
+TRC#041	F4FMU	Rodolphe	
+TRC#042	CB	Monique	
+TRC#043	F-10255	Stephane	
+TRC#044	CB	Jean-Paul	
+TRC#045	F1TIO	Bruno	
+TRC#046	CB	Abel	
+TRC#047	F5PVK	Yvon	
+TRC#048	F4VSD	Sandu	
+TRC#049	F5PHY	Ivan	
+TRC#050	F6GTX	Emile	
+TRC#051	F5VBU	Malcolm	
+TRC#052	F4FRC	Herve	
+TRC#053	F4VRF	Alan	
+TRC#054	F1UIJ	Andy	
+TRC#055	F4HYT	Pascal	
+TRC#056	F4DIA	Andre	
+TRC#057	CB	Jean Pierre	
+TRC#058	F6OBD	Philippe	
+TRC#059	CB	Jean-Marie	
+TRC#060	F4BND	Rubio	
+TRC#061	F4CTJ	Karim	
+TRC#064	CB	Frederic	
+TRC#065	CB	Didier	
+TRC#066	CB	Christian	
+TRC#067	CB	Bernard	
+TRC#068	CB	Jean  Claude	
+TRC#069	CB	Fabrice	
+TRC#070	CB	Alain	
+TRC#071	CB	Simon	
+TRC#072	CB	Christophe	
+TRC#073	CB	Regis	
+TRC#074	F4DCJ	Philippe	
+TRC#075	CB	Yohann	
+TRC#076	CB	Francois	
+TRC#077	CB	Rene	
+TRC#078	CB	Jean	
+TRC#080	CB	Cedric	
+TRC#081	CB	Patrick	
+TRC#083	CB	Michel	
+TRC#085	CB	Philippe	
+TRC#086	CB	Jean Michel	
+TRC#087	CB	Michel	
+TRC#088	CB	Michel	
+TRC#091	CB	Philippe	
+TRC#100	TP2CE	Club - C.E.R.A.C.	
+TRC#101	CB	Richard	
+TRC#102	CB	Pascal	
+TRC#103	CB	Ramon	
+TRC#104	F1TNH	Jean-Michel	
+TRC#105	CB	Cyril	
+TRC#106	CB	Sebastien	
+TRC#107	CB	Jean	
+TRC#108	CB	Julien	
+TRC#109	CB	Georges	
+TRC#110	CB	Gilberte	
+TRC#111	CB	Pierre	
+TRC#112	CB	Arnaud	
+TRC#113	CB	Christian	
+TRC#114	CB	Robert	
+TRC#115	CB	Patrick	
+TRC#116	FA1BWV	Bruno	
+TRC#117	CB	Francois	
+TRC#118	CB	Yannick	
+TRC#120	CB	Patrick	
+TRC#121	CB	Eric	
+TRC#122	CB	Gregory	
+TRC#123	CB	Eric	
+TRC#124	CB	Jean	
+TRC#125	CB	Francois-Rene	
+TRC#126	CB	Michel	
+TRC#127	CB	Claude	
+TRC#128	CB	Arnault	
+TRC#129	CB	Patrice	
+TRC#130	CB	Bernard	
+TRC#131	F4CZH	Alain	
+TRC#132	CB	Philippe	
+TRC#133	CB	Mimi	
+TRC#134	CB	Jean-Philippe	
+TRC#135	CB	Roger	
+TRC#136	CB	Olivier	
+TRC#137	CB	Eric	
+TRC#138	CB	Pascal	
+TRC#139	CB	Jean-Marie	
+TRC#140	CB	Bernard	
+TRC#141	CB	Geraldine	
+TRC#142	CB	Sophie	
+TRC#143	CB	Eric	
+TRC#144	CB	Paul	
+TRC#145	CB	Bruno	
+TRC#146	CB	Michel	
+TRC#147	CB	Jacky	
+TRC#148	CB	Victor	
+TRC#149	CB	Manuel	
+TRC#150	CB	Bruno	
+TRC#151	CB	Michael	
+TRC#152	CB	Charles	
+TRC#153	CB	Jean-Michel	
+TRC#154	CB	Philippe	
+TRC#155	CB	Jean-Marie	
+TRC#156	CB	Jean-Claude	
+TRC#157	CB	Jack	
+TRC#158	CB	Gilbert	
+TRC#159	CB	Jacques	
+TRC#160	CB	Ludovic	
+TRC#161	FA1BNF	David	
+TRC#162	CB	Hubert	
+TRC#163	CB	Herve	
+TRC#164	CB	Thierry	
+TRC#165	F0EAR	Jacques	
+TRC#166	CB	Michel	
+TRC#167	CB	Christian	
+TRC#168	CB	Raoul	
+TRC#169	CB	Francois	
+TRC#170	CB	Francis	
+TRC#171	CB	Maurice	
+TRC#172	CB	Rene	
+TRC#173	CB	Jean-Michel	
+TRC#174	CB	Eric	
+TRC#176	CB	Eddy	
+TRC#177	CB	Adrien	
+TRC#178	CB	Frederic	
+TRC#179	CB	Stephane	
+TRC#180	CB	Denis	
+TRC#181	CB	Claude	
+TRC#182	CB	William	
+TRC#184	CB	Henri	
+TRC#185	CB	Sebastien	
+TRC#186	CB	Pierre	
+TRC#187	CB	Fabrice	
+TRC#188	CB	Sophie	
+TRC#189	CB	Pascal	
+TRC#190	CB	Philippe	
+TRC#191	CB	Guedon	
+TRC#192	CB	Audrey	
+TRC#193	CB	Michel	
+TRC#194	CB	Bernard	
+TRC#195	F-15933	Guy	
+TRC#196	CB		
+TRC#198	CB	Denis	
+TRC#199	CB	Fabrice	
+TRC#200	CB	Didier	
+TRC#201	CB	Michel	
+TRC#202	CB	Fred	
+TRC#203	CB	Sylvain	
+TRC#204	CB	Daniel	
+TRC#205	CB	Frederic	
+TRC#206	CB	Jean-Claude	
+TRC#207	CB		
+TRC#208	CB	Fabrice	
+TRC#209	CB	Vincent	
+TRC#210	CB	Morgan	
+TRC#211	CB	Christophe	
+TRC#212	CB	Martial	
+TRC#213	CB	Martine	
+TRC#214	CB	Bruno	
+TRC#215	CB	Victor	
+TRC#217	CB	Francis	
+TRC#220	CB	Michel	
+TRC#221	CB	Sonia	
+TRC#222	CB	Jean-Philippe	
+TRC#223	CB	Yann	
+TRC#224	CB	Sonia	
+TRC#225	CB	Claude	
+TRC#226	CB	Julien	
+TRC#227	CB	Erick	
+TRC#229	CB	David	
+TRC#230	CB	Henri	
+TRC#231	CB	Michel	
+TRC#232	CB	Jean-Claude	
+TRC#234	CB	Jacques	
+TRC#235	CB	Jean	
+TRC#236	F4EFL	Jean	
+TRC#237	CB	Stephane	
+TRC#239	CB	Johann	
+TRC#240	CB	Guillaume	
+TRC#242	CB	Christophe	
+TRC#243	CB	Christophe	
+TRC#244	CB	Jose	
+TRC#245	CB	Patrice	
+TRC#246	CB	Alain	
+TRC#247	CB	Monique	
+TRC#248	CB	Damien	
+TRC#249	CB	Yves	
+TRC#251	CB	Leo	
+TRC#252	CB	Arnaud	
+TRC#253	CB	Thomas	
+TRC#254	F0DWK	Serge	
+TRC#255	CB	Jean-Michel	
+TRC#256	CB	Claude	
+TRC#257	CB	Jean-Louis	
+TRC#258	CB	Jean Luc	
+TRC#259	CB	Philippe	
+TRC#261	CB	Philippe	
+TRC#262	CB	Francois	
+TRC#263	CB	Andre	
+TRC#264	CB	Alain	
+TRC#265	CB	Christine	
+TRC#268	CB	Marc	
+TRC#270	CB	Jacques	
+TRC#271	CB	Romain	
+TRC#272	CB	Bruno	
+TRC#273	CB	Guy	
+TRC#274	CB	Philippe	
+TRC#275	CB	Fred	
+TRC#276	F-18017	Laurent	
+TRC#277	CB	Georges	
+TRC#279	CB	Michel	
+TRC#281	CB	Norbert	
+TRC#282	CB	Michel	
+TRC#283	CB	Ludovic	
+TRC#284	CB	Patrice	
+TRC#285	CB	Gilbert	
+TRC#286	CB	Jacky	
+TRC#287	CB	Philippe	
+TRC#289	CB	Gerard	
+TRC#290	CB	Jose	
+TRC#291	CB	Nicolas	
+TRC#292	CB	Bertrand	
+TRC#293	CB	Rupert	
+TRC#294	CB	Monique	
+TRC#295	CB	Christophe	
+TRC#296	CB	Nicolas	
+TRC#297	CB	Christophe	
+TRC#298	CB	Eric	
+TRC#299	CB	Faisal	
+TRC#301	CB	Gerard	
+TRC#302	CB	Jacques	
+TRC#303	CB	Isabelle	
+TRC#304	CB	Philippe	
+TRC#306	CB	Bernard	
+TRC#307	CB	Raymond	
+TRC#308	CB - S.K.	Pierre	
+TRC#309	CB	Julien	
+TRC#310	F-18065	Joel	
+TRC#312	CB	Robert	
+TRC#313	CB	Jesica	
+TRC#314	CB	Jean-Pierre	
+TRC#315	CB	Jean-Luc	
+TRC#317	CB	Frederic	
+TRC#318	CB	David	
+TRC#325	CB	Daniel	
+TRC#327	CB	Herve	
+TRC#328	CB	Jean-Claude	
+TRC#332	CB	James	
+TRC#334	CB	Philippe	
+TRC#337	CB	Eric	
+TRC#340	CB	Marcel	
+TRC#345	CB	Kevin	
+TRC#355	CB	Thierry	
+TRC#359	CB	Pierre	
+TRC#374	CB	Fred	
+TRC#376	CB	Joel	
+TRC#400	CB	Patrick	
+TRC#417	CB	Daniel	
+TRC#418	CB	Patrice	
+TRC#428	CB	Raymond	
+TRC#433	CB	Laurent	
+TRC#445	CB	Pierre	
+TRC#474	CB	Frederic	
+TRC#500	CB	Francois	
+TRC#501	CB	Jean-Francois	
+TRC#502	CB	Bernard	
+TRC#531	CB	Nathalie	
+TRC#543	CB	Nathalie	
+TRC#555	F4HZR	Micke	
+TRC#571	CB	Christelle	
+TRC#576	CB	David	
+TRC#582	CB	Serge	
+TRC#585	CB	Frederic	
+TRC#666	CB	Jean-Claude	
+TRC#678	F4DSV	Bertrand	
+TRC#707	CB	Jean-Luc	
+TRC#747	CB	Laurent	
+TRC#778	CB	Eric	
+TRC#928	CB	Claude	
+TRC#929	CB	Dany	
+			
+FG - Guadeloupe - 196			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	FG8NY	Jean	
+TRC#101	CB	Victor	
+			
+FK - New Caledonia - 172			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Robert	
+TRC#003	CB	Eliane	
+TRC#101	CB	Gilles	
+			
+FM - Martinique - 136			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#029	CB	Hugues	
+TRC#101	CB	Alain	
+TRC#104	CB	Rodrigues	
+TRC#136	CB	Francis	
+			
+FO - Fr. Polynesia - 201			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	FO4BM	Philippe	
+TRC#101	CB	Victor	
+			
+FR - Reunion isl. - 173			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#049	CB	Michel	
+TRC#066	CB	Francois	
+TRC#110	CB	Franco	
+TRC#121	CB	Eric	
+			
+FS - St. Martin Isl. - 166			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Franklin	
+TRC#103	CB	Akram	
+			
+FY - French Guyana - 22			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#011	CB	Francis	
+			
+G - England - 26			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#000	CB	Club - CB	
+TRC#002	G0GFQ	Keith	
+TRC#003	M0SHK	Ken	
+TRC#004	M0SMJ	Michael	
+TRC#005	CB	Mark	
+TRC#006	G6AJW	David	
+TRC#007	G7VRK	Steven	
+TRC#008	G0WOU	David	
+TRC#009	CB	Peter	
+TRC#010	CB	Melanie	
+TRC#011	M0MJA	Bob	
+TRC#012	CB	Joshua	
+TRC#013	G7FSI	Barry	
+TRC#014	M3TRC	Peter	
+TRC#015	M6EZI	Simon	
+TRC#016	M0GGO	Chris	
+TRC#017	G6XOU	Herbie	
+TRC#018	G4UCJ	Sean	
+TRC#019	CB	Allen	
+TRC#020	CB	Bryan	
+TRC#021	CB	Simon	
+TRC#022	G4KPN	Bruce	
+TRC#023	G0AJJ	Linda	
+TRC#024	M6WAD	Paul	
+TRC#025	CB	Andrew	
+TRC#026	G3VGR	Dave	
+TRC#027	CB	Terry	
+TRC#029	CB	Smith	
+TRC#030	G7VVE	Tony	
+TRC#031	M0XDJ	Kevin	
+TRC#032	2E0JYK	Graham	
+TRC#033	M0WXX - 2E0DCS	Dave	
+TRC#034	2E0PLA	Phil	
+TRC#035	G6PUE	Mike	
+TRC#036	G3XXR	Roger	
+TRC#037	G0MHC	George	
+TRC#038	G0TNI	Arthur	
+TRC#039	G0CER	Dave	
+TRC#040	G8NDL	Ken	
+TRC#041	M0NPQ	Nerijus	
+TRC#042	G1TYV	Martin	
+TRC#043	G3LIK	Mick	
+TRC#044	G3MPB	Roy	
+TRC#045	M3FYV	Barry	
+TRC#046	G4PPK	Clive	
+TRC#047	M5PLY	Ivor	
+TRC#048	M3PQQ	Robert	
+TRC#049	M0NNH	Gary	
+TRC#050	G3OCA	Ken	
+TRC#051	M0TRN	Thomas	
+TRC#052	M0XLT	Kevin	
+TRC#053	M6KOM	Dave	
+TRC#054	G0OIW	Mark	
+TRC#055	M3KAH	Richard	
+TRC#056	CB	Dave	
+TRC#057	CB	Jon	
+TRC#058	M0YBC	David	
+TRC#059	CB	Rod	
+TRC#060	G0SDT	Jon	
+TRC#061	G3TWA	Mike	
+TRC#062	M0HWK	Kev	
+TRC#063	M6IVO	Ivo	
+TRC#064	G4YMB	Malcolm	
+TRC#065	G1PIE	Mark	
+TRC#066	G3KME	Lindsay	
+TRC#067	M3MNQ	Ian	
+TRC#068	2E0HTC	Gary	
+TRC#069	M0HEM	John	
+TRC#070	G3ZRN	Dave	
+TRC#071	G3SQU	Chris	
+TRC#072	G4CPA	Geoff	
+TRC#073	M0SAS	Steve	
+TRC#074	M0XOC	Mike	
+TRC#075	G4IBW	Richard	
+TRC#076	M6AIF	Kieron	
+TRC#079	M0HZT	Jenni	
+TRC#080	G8SGB	Phil	
+TRC#081	2E0NHR	Steve	
+TRC#082	2E0LRK	Lee	
+TRC#083	M6TET	Tony	
+TRC#084	M6DDT	David	
+TRC#085	G3AGW	Steve	
+TRC#086	M0NMC	Nicholas	
+TRC#087	M0RWL	Robert	
+TRC#089	G1TDN	Trevor	
+TRC#090	G8JYV	Ken	
+TRC#091	2E0VWX	Terence	
+TRC#092	G1MXP	Edward	
+TRC#093	G3CUR	Ronald	
+TRC#094	M0YKB	Dillon	
+TRC#095	2E0FJD	Karl	
+TRC#096	G0VXC	Martin	
+TRC#097	G0OOD	Tim	
+TRC#098	G7OBS	Mike	
+TRC#099	2E1ADT	Kelvin	
+TRC#100	2E0PDX	Graham	
+TRC#101	2E0CVN	Simon	
+TRC#102	CB	Pat	
+TRC#103	M0FGB	Frank	
+TRC#104	CB	Seb	
+TRC#105	CB	Simon	
+TRC#106	M0MET	Robin	
+TRC#107	CB	Patrick	
+TRC#108	CB	Erik Mc Kay	
+TRC#109	CB	Derek	
+TRC#110	CB	Patrick	
+TRC#111	CB	James	
+TRC#112	M3VTI	Tom	
+TRC#113	M6KWE	Ken	
+TRC#114	G8DQP	Jim	
+TRC#115	M0WRI	Peter	
+TRC#116	M0HXS	Matthew	
+TRC#117	G4SNU	Ron	
+TRC#118	G4LJU	Colin	
+TRC#119	CB	Tony	
+TRC#120	G4SJY	John	
+TRC#121	M0WPJ	Peter	
+TRC#122	M6IWD	Allan - S.K.	
+TRC#123	G4PVM	Paul	
+TRC#124	G4PFK	Graham	
+TRC#125	G0AOL	YL Gill	
+TRC#126	M3INW	Steve	
+TRC#127	G4UHM	Steve	
+TRC#128			
+TRC#129	G1SQY	Paul	
+TRC#130	G7KHV	Richard	
+TRC#131	2E0NAQ	Nick	
+TRC#132	G4SMB	Mike	
+TRC#133	G4ZIB	Tony	
+TRC#134	2E0MFC	Lee	
+TRC#135	M0DXT	Bill	
+TRC#136	G6HXL	Derek	
+TRC#137	G7SYW	Roger	
+TRC#138	G0VWL	John	
+TRC#139	G4RCG	John	M2G
+TRC#140	M7AJA	Anthony	
+TRC#141	2E0EAY	Alonza	
+TRC#142	M7DVP	Dave	
+TRC#143	M7KEV	Kev	
+TRC#144	M7NAW	Nobby	
+TRC#145	M3UXJ	Gary	
+TRC#146	M0HWA	Merfyn	
+TRC#147	G0FGI	Tom	
+TRC#148	CB	Dave	
+TRC#149	G8VVY	Robin	
+TRC#150	G4JBA	Jim	
+TRC#151	G4HVC	Andrew	
+TRC#152	M0SAR	Stuard	
+TRC#153	2E1DFI	Ray	
+TRC#154	G4HLN	Larry	
+TRC#155	M6XPB	Marcus	
+TRC#156	CB	Adrian	
+TRC#157	G4NAQ	Clive	
+TRC#158	G7SWS	Olly	
+TRC#159	M0IRU	Andrew	
+TRC#160	M6RGX	Bill	
+TRC#161	G7UQN	Glyn	
+TRC#162	G4YDL	Paul	
+TRC#163	M0GLP	Garry	
+TRC#164	G7UVC	Bob	
+TRC#165	M0NMQ	Ian	
+TRC#166	CB	Andy	
+TRC#167	2E0LKC	Mark	
+TRC#168	G0ERS	Rod	
+TRC#169	M0CFM	Andrew	
+TRC#170	G0OFD	John	
+TRC#171	G0FOG	Colin	
+TRC#172	M7PHE	Kelvin	
+TRC#175	CB	Norman	
+TRC#176	2E0LMD	Anne	
+TRC#184	M3DGD	Colin	
+TRC#193	CB	Bill	
+TRC#200	MX0PPC	Club - C.R.A.C.	
+TRC#212	2E0YMT	Paul	
+TRC#214	2E0TBT	Nick	
+TRC#218	CB	Graham	
+TRC#272	M3MSD	John  B	
+TRC#281	M0ZOL	Zoltan	
+TRC#300	G6UT	Club - H.D.A.R.S.	
+TRC#316	M0VPE	Iain	
+TRC#337	2E0ATB	Lee	
+TRC#386	CB	Kevin	
+TRC#412	M3DDY	Martin	
+TRC#444	CB	Donna	
+TRC#456	CB	Thierry	
+TRC#548	M3GJN	Philip	
+TRC#549	CB	Trevor	
+TRC#666	CB	Stuart	
+TRC#696	CB	Tony	
+TRC#711	CB	Bev	
+TRC#747	CB	Mark	
+TRC#782	G0VVY	Matt	
+TRC#880	CB	Eddie	
+			
+GD - Isle of Man - 137			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	GD0OUD	Stuard	
+TRC#003	GD6ICR	Mile	
+TRC#004	2D0YLX	David	
+TRC#005	GD4EIP	Colyn	
+			
+GI - Northern Ireland - 68			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#000	CB	Club	
+TRC#002	GI3SG	Martin	
+TRC#003	GI4FUE	Charlie	
+TRC#004	MI3AIN	Robert	
+TRC#005	CB	Robert	
+TRC#006	GI8YJV	Peter	
+TRC#007	MI0GTA	Stevie	
+TRC#008	MI6LFU	Clive	
+TRC#009	MI0JZZ	Chris	
+TRC#010	2I0WAI	Martin	
+TRC#100	GN5DX	DX-World Radio Club	
+TRC#101	CB		
+TRC#102	CB	Sean	
+TRC#103	CB	Brian	
+TRC#133	CB	Lynn	
+			
+GM - Scotland - 108			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	MM0KSS	Kevin	
+TRC#003	GM4CFS	Glyn	
+TRC#004	MM6DAF	Darryl	
+TRC#005	MM6PMC	Paul	
+TRC#006	MM0GZZ	Duncan	
+TRC#007	GM0NKX	Peter	
+TRC#008	MM0XXW	Martyn	
+TRC#009	GM0CDV	Ray	
+TRC#010	MM3DYB	Kevin	
+TRC#011	GM0WED	Ed	
+TRC#012	GM0JZV	John	
+TRC#013	MM0DHQ	Arthur	
+TRC#014	2M0BHR	Peter	
+TRC#015	GM0FSV	John	
+TRC#016	MM0DXH	Jim	
+TRC#017	CB	Kevin	
+TRC#018	MM5AII	Liam	
+TRC#019	GM4JKZ	Keith	
+TRC#020	GM0LIR	Phil	MM2T
+TRC#024	MM3SCO	Gary	
+TRC#059	2M0KVM	Kevin	
+TRC#069	CB	Marie	
+TRC#101	CB	Ludovic	
+TRC#102	CB	Sandy	
+TRC#103	CB	Ali Mc Ewan	
+TRC#104	CB	David	
+TRC#105	MM0PQJ	Pat	
+TRC#106	CB	John	
+TRC#107	CB	Alvar	
+TRC#108	CB	Andy	
+TRC#109	CB	Brian	
+TRC#224	MM3AWA	Gordon	
+TRC#225	CB	Chris	
+TRC#226	MM3AWD	Scott	
+TRC#261	CB	Brendan	
+TRC#333	CB	Peter	
+			
+GU - Guernsey Isl. - 169			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	GU5WZY	Simon	
+TRC#010	CB	Rod	
+			
+GW - Wales - 163			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	MW3MOJ	Pitt	
+TRC#003	MW3VJN	Tristan	
+TRC#004	GW4GNY	Martin	
+TRC#005	MW7OKW	Mark	
+TRC#020	CB	Mark	
+TRC#028	CB	Kevin	
+TRC#044	CB	Paul	
+TRC#055	CB	Peter	
+TRC#067	CB	Dave	
+TRC#100	MC0NSC	N.D.Sea Cadets	
+TRC#101	CB	Dennis	
+TRC#102	CB	Danny	
+TRC#105	CB	Barry	
+TRC#317	CB	Jack	
+TRC#333	CB	Alan	
+TRC#2000	CB	Gary	
+			
+HA - Hungary - 109			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	HA8UT	Istvan	
+TRC#003	HA7PL	Laszlo	
+TRC#004	HA5BA	Klara	
+TRC#005	HA5BWW	Ede	HA5W
+TRC#006	HA1RS - S.K.	Laszlo	
+TRC#007	HA5LC	Peti	
+TRC#008	HA2ESM	Tamas	
+TRC#009	HA8TQ	Laszlo	
+TRC#010	HA2MM	Joszef	
+TRC#011	HA9SU - S.K.	Bela	
+TRC#012	HA7JQK	Alexandrosz	
+TRC#013	CB	Gabor	
+TRC#014	HA1VG	Janos	
+TRC#015	HG3FIC	Gyorgy	
+TRC#016	HA5BSW	Tibor	
+TRC#017	HA8TP	Jeno	
+TRC#018	HA1AS	Turi	
+TRC#019	HA0BW	Imre	
+TRC#020	HA7RY	Tamas	
+TRC#021	HA7PO	Gabor	
+TRC#022	HA2EAV	Jozsef	
+TRC#023	HA7TM	Tibor	
+TRC#024	HA7ZB	Csuhaj	
+TRC#025	HA1XU	Janos	
+TRC#026	HA3HK	Zoli	
+TRC#027	CB	Karoy	
+TRC#100	HG7T	rd V rosi R di¢klub SE	
+TRC#101	HA3JO	Joe	
+			
+HB - Switzerland - 15			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Pablo	
+TRC#003	HB9TWU	Gregoire	
+TRC#004	HB9EKS	Maurizio	
+TRC#005	HB9ELV	Christoph	
+TRC#006	HB9DAX	Manfred	
+TRC#007	HB9CSA	Fritz	
+TRC#008	HB9AII	Franz	
+TRC#009	HB9BRU	Peter	
+TRC#010	CB	Diddi	
+TRC#011	CB	Seb	
+TRC#012	CB	Mark	
+TRC#013	HB9EDG	Franco	
+TRC#015	CB	Oscar	
+TRC#016	HB9AYZ	Werner	
+TRC#017	HB3XUT	Erik	
+TRC#019	HB9HLD	George	
+TRC#020	CB	Caroline	
+TRC#029	HB9FBS	Goran	
+TRC#100	HB9NE	Doubs Contest Group	
+TRC#101	CB	Gregory	HB9HMP
+TRC#111	CB	Osmarina	
+TRC#222	CB	Yann	
+			
+HB0 - Liechtenstein - 40			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#010	CB	Diddi	
+			
+HC - Ecuador - 61			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	HC5VF	Fausto	
+TRC#003	HC5CR	Fausto	
+TRC#004	HC3BL	Byron	
+TRC#005	HC5DX	David	
+			
+HH - Haiti - 103			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Michel	
+TRC#102	CB	Herve	
+			
+HI - Dominican Rep. - 37			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	HI8CJG	Candido	
+TRC#003	HI8MU	Mariano	
+TRC#004	HI8JAN	Jose	
+TRC#005	HI8CJP	Cristian	
+TRC#006	HI5MLE	Marcos	
+TRC#007	HI4RKR	Ramon	
+TRC#008	HI5JFG	Jose	
+TRC#010	HI4CNP	Casiano	
+TRC#011	HI4ERM	Elvin	
+TRC#012	HI8PAQ	Pedro	
+TRC#013	HI8ANN	Apolinar	
+TRC#014	HI3JAC	Juan	
+TRC#015	HI3VDE	Eusebio	
+TRC#016	HI6DTC	Domingo	
+TRC#017	HI5FIW	Fulvio	
+TRC#018	HI8EFS	Elio	
+TRC#019	HI5GFJ	Jorge	
+TRC#101	CB	Fabian	
+TRC#123	CB	Fausto	
+			
+HK - Columbia - 6			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	HK6J	Juan	
+TRC#003	HK8RKF	Javier	
+TRC#004	HJ2BKY	Yeinson	
+TRC#005	HK3X	Pedro	
+TRC#006	HK3ZD	Victor	
+TRC#101	CB	Eduardo	
+TRC#102	CB	Laura	
+TRC#103	CB	Alberto	
+			
+HL - South Korea - 100			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	DS2AGH	Aves	
+			
+HP - Panama - 24			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	HP1DCP	Rene	
+TRC#003	HP1AVS	Victor	
+TRC#004	HP1ALX	Luis	
+TRC#102	CB	Alfred	
+			
+HR - Honduras - 28			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	HR5JCO	Yovanni	
+TRC#102	CB	Elia	
+TRC#110	CB	Oscar	
+			
+HS - Thailand - 153			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	HS1IWX	Amnat	
+TRC#003	E20VWT	Apluck	
+TRC#004	HS0ZLE	Gregory	
+TRC#005	E21YDP	Harongdej	
+TRC#100	HS0AC	Club	
+			
+HZ - Saudi  Arabia - 48			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	7Z1HL	Harry	
+TRC#003	HZ1DG	Abdul	
+TRC#004	HZ1SK	Samir	
+TRC#005	7Z1AL	Abdulaziz	
+TRC#006	7Z1LR	Hamoud	
+TRC#101	7Z1SJ	Suleiman	
+			
+I - Italy - 1			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#000	CB	Club	
+TRC#002	IK8SDQ	Sergio	
+TRC#003	CB	Roberto	
+TRC#004	IW0BAY	Luigi	
+TRC#005	CB	Antonio	
+TRC#006	CB	Livio	
+TRC#007	IZ1ORU	Patrizia	
+TRC#008	IW1PUE	Luciano	
+TRC#009	IZ2SVW	Silvio	
+TRC#010	IZ8CCW	Antonio	
+TRC#011	CB	Jim	
+TRC#012	IK2CJF	Stefano	
+TRC#013	IZ2JNN	Stefano	
+TRC#014	IZ1GJK	Maurizio	
+TRC#015	IV3AZV	Mauro	
+TRC#016	IN3NJB	Roberto	
+TRC#017	IZ3PZL	Giorgio	
+TRC#018	IK2EKO	Pierangelo	
+TRC#019	IZ0DBA	Giacomo	
+TRC#020	IZ1MHY	Andrea	
+TRC#021	I2AZ	Giuseppe	
+TRC#022	I2MOV	Flaviano	
+TRC#023	IK8JKU	Enzo	
+TRC#024	IW1PRT	Alberto	
+TRC#025	CB	Luigi	
+TRC#026	CB	Alberto	
+TRC#027	CB	Mino	
+TRC#028	IZ0EGY - S.K.	Antonio	
+TRC#029	IK7BEF	Antonio	
+TRC#030	I8TUS	Sal	
+TRC#031	IT9BUA	Natalino	
+TRC#032	IK3GES - S.K.	Gabriele	
+TRC#033	IW3SGT	Alessandro	
+TRC#034	IK7YGQ	Teresa	
+TRC#035	I3VAD	Giancarlo	
+TRC#036	IT9IMJ	Rosario	
+TRC#037	IW3IDS	Francesco	
+TRC#038	IW3BKN	Roberto	
+TRC#039	IW1DQS	Davide	
+TRC#040	IV3BUC	Giuseppe	
+TRC#041	I3-65709	Walter	
+TRC#042	IK0GDG	Antonelo	
+TRC#043	IZ5HZO	Lorenzo	
+TRC#044	IZ8JFL	Fabio	
+TRC#045	IZ3XNJ	Stefano	
+TRC#046	IK1ZOD	Fabrizio	
+TRC#047	IZ2GRG	Stan	
+TRC#048	IT9DVZ	Roberto	
+TRC#049	IT9HLR	Salvo	
+TRC#050	IK8NSR	Davide	
+TRC#051	IZ7DOZ	Pasquale	
+TRC#052	IZ1MRO	Sandro	
+TRC#053	IZ5JMZ	Giovanni	
+TRC#054	IZ5RKC	Enrico	
+TRC#055	IZ8TGC	Angelo	
+TRC#056	IZ7XWO	Ferdinando	
+TRC#057	IZ1PNT	Andrea	
+TRC#058	I8-1659-RC	Salvatore	
+TRC#059	IU2BWQ	Diego	
+TRC#060	IZ1DPS	Mauro	
+TRC#061	IZ4SJP	Carlos	
+TRC#062	IU5CJP	Massimiliano	
+TRC#063	IZ0TTA	Andrea	
+TRC#064	IW0GVG	Giovanni	
+TRC#065	I1PJK	Maurizio	
+TRC#066	IV3VBM	Mario	
+TRC#067	IU2DQH	Pasquale	
+TRC#068	CB	Francesco	
+TRC#069	IU4DEG	Andrea	
+TRC#070	I3PVE	Gildo	
+TRC#071	IZ4WLD	Oreste	
+TRC#073	IK2CWZ	Tony	
+TRC#074	IW3QRM	Gianni	
+TRC#075	IU6EVN	Marco	
+TRC#076	IK1XPK	Clay	
+TRC#077	I6HWD	Domenico	
+TRC#078	IT9ACJ	Roberto	
+TRC#079	IN3UFW	Marco	
+TRC#080	IT9RRU	Maurizio	
+TRC#081	IU3KGO	Massimo	
+TRC#082	IW1PPB	Andrea	
+TRC#083	IK2EST	Mario	
+TRC#084	IU5GBQ	Andrea	
+TRC#085	I6FDJ	Filippo	
+TRC#086	I6YEF	Piero	
+TRC#087	IK2AVH	Piero	
+TRC#088	IN3FOS	YL Alessandra	
+TRC#089	IW1CHX	Nikola	
+TRC#090	CB	Eugy	
+TRC#091	IK3HTH	Michele	
+TRC#092	IV3SKB	Andrea	
+TRC#093	IV3HAX	Mauro	
+TRC#094	IU6FUB	Cesare	
+TRC#095	IZ8VKR	Clemente	
+TRC#096	IW3FVZ	Fabio	
+TRC#097	IT9RZU	Joe	
+TRC#098	IU4FLO	Daniel	
+TRC#099	IV3UHL	Paolo	
+TRC#100	IQ1TG	R. C. Tigullio	
+TRC#101	IZ1GJH	Massimo	
+TRC#102	CB	Federico	
+TRC#103	CB	Luca	
+TRC#104	CB	Katiuscia	
+TRC#105	CB	Graziano	
+TRC#106	CB	Guglielmo	
+TRC#107	CB	Daniele	
+TRC#108	CB	Ezio	
+TRC#109	CB	Marco	
+TRC#110	CB	Luca	
+TRC#111	CB	Raimondo	
+TRC#112	IK8TPB	Dario	
+TRC#113	CB	Marino	
+TRC#114	IZ1TEJ	Brusnego	
+TRC#116	CB	Emilio	
+TRC#117	IK0NOJ	Daniele	
+TRC#118	IU3BTY	Valerio	
+TRC#119	IC8FBU	Antonio	
+TRC#120	I0WM	Maurizio	
+TRC#121	IU0MBJ	Christian	
+TRC#122	IZ8QMZ	Salvatore	
+TRC#124	IZ5WTV	Henry	
+TRC#125	IU3NOM	Roberto	
+TRC#126	IW8PQ	Nino	
+TRC#127	CB	Peter	
+TRC#128	IU8DON	Vincenzo	
+TRC#129	IK4DCX	Marco	
+TRC#130	IK2WAD	Giosue	
+TRC#131	CB	Dario	
+TRC#132	IK6QRH	Roberto	
+TRC#133	IK4ZHH	Filippo	
+TRC#134	IT9CBS	Giuseppe	
+TRC#135	IN3PPH	Sandro	
+TRC#137	CB	Giovanni	
+TRC#138	CB	Cristiano	
+TRC#139	CB	Alessandro	
+TRC#140	CB	Natalia	
+TRC#141	IU1QRG	Nicola	
+TRC#142	IV3LNQ	Luigi	
+TRC#143	IU5PTB	Paolo	
+TRC#144	IU1PSQ	Giovanni	
+TRC#145	IT9SSI	Dario	
+TRC#146	I1EIS	Marco	
+TRC#147	IW3SSD	Andrea	
+TRC#154	CB	Daniele	
+TRC#161	CB	Darek	
+TRC#170	CB	Mauro	
+TRC#178	CB	Angelo	
+TRC#200	IB2LV		
+TRC#236	CB	Paolo	
+TRC#252	CB	Roberto	
+TRC#286	IW0HEU	Massimo	
+TRC#300	IQ2CJ	ARI Cinisello	
+TRC#1931	IK7ZLW	Antonio	
+			
+IS0 - Sardinia - 165			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	IS0DFW	Angelo	
+TRC#003	IS0DCR	Ivan	
+			
+J6 - St. Lucia - 143			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#010			
+TRC#104	CB	Junior	
+TRC#108	CB	Ian	
+TRC#113	CB	Francis	
+TRC#333	CB	Cuthbert	
+			
+J7 - Grenada Isl. - 195			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Leslie	
+			
+JA - Japan - 25			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	JH1XUP	Jame	
+TRC#003	JI3CJP	Kanji	
+TRC#004	JR6GIM	Eisuke	
+TRC#005	JA1AAA	Nobuo	
+TRC#006	JI3UVB	Kazushi	
+TRC#007	JP1HUJ	Koji	
+TRC#008	JA3ENN	Yoshiaki	
+TRC#009	JG1OIY	Wataru	
+TRC#010	JA1FMN	Shuji	
+TRC#011	JA1OZZ	Toyohiro	
+TRC#012	JE6NSS	Akihiro	
+TRC#013	JA1TRC	Jay	
+TRC#014	JA8RRF	Kenichi	
+TRC#015	7L4IOU	Hisami	
+TRC#016	JQ1FEP	Kazushige	
+TRC#017	JH8GEU	Shiro	
+TRC#101	CB	Yoshi	
+TRC#104	JO2WIX	Katsu	
+			
+JT - Mongolia - 95			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#102	JT1BV	Naran	
+			
+A3 - Tonga - 96			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#010	CB	Christian	
+			
+K - U.S.A. - 2			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	K4JC	Vincent	
+TRC#003	N2MLP	Brian	
+TRC#004	K4OP	John	
+TRC#005	K5JMB	Jerry	
+TRC#006	W0EAX	Ron	
+TRC#007	K3AXR	Dell	
+TRC#008	W2MLS	Mike	
+TRC#009	KO1H	John	
+TRC#010	AA2LF	Valentin	
+TRC#011	W8BBQ	Mark	
+TRC#012	W8HW	Bruce	
+TRC#013	WB1DSJ	Bob	
+TRC#014	W2KKZ	Robert	
+TRC#015	K9DXR	Russels	
+TRC#016	KB3SDD	Ragu	
+TRC#017	N9NTC	Mike	
+TRC#018	W8ARE	Larry	
+TRC#019	KA2MGI	Chris	
+TRC#020	K2MGR	Kurt	
+TRC#021	K2OEK	George	
+TRC#022	KD6XH	Clifford	
+TRC#023	WA5HDL	Steven	
+TRC#024	N7FF	Frank	
+TRC#025	W1ZS	Burt	
+TRC#026	N7RD	Ron	
+TRC#027	W6YQ	Michael	
+TRC#028	WA9AWJ	Art	
+TRC#029	W1PID	Jim	
+TRC#030	KM2L	Bruce	
+TRC#032	N3PPH	Bob	
+TRC#033	W1ATV	Walter	
+TRC#034	W3CC	Ed	
+TRC#036	KI4MNR	Paul	
+TRC#037	NS3Q	Clint	
+TRC#038	WE8R	Robert	
+TRC#039	K5TDD	Jeffrey	
+TRC#040	NE8J	Howard	
+TRC#041	NV9Z	Chris	
+TRC#042	KC9NEA	Ricky	
+TRC#043	CB	Larry	
+TRC#044	N4NDX	David	
+TRC#045	KB3WJC	Patti	
+TRC#046	K8ED	Mark	
+TRC#047	K5UTG	Warren	
+TRC#048	K1SM	Bill	
+TRC#049	WB7CAG	Gary	
+TRC#050	W1EBM	Gary	
+TRC#051	W5VGR	Don	
+TRC#052	WD8CW	David	
+TRC#053	KD4KIG	Larry	
+TRC#054	W5UY	Bill	
+TRC#055	WB2AQC	George - S.K.	
+TRC#056	N4THG	Tim	
+TRC#057	KA1HFL	Duarte	
+TRC#058	CB	Brian	
+TRC#059	NW7US	Tomas	
+TRC#060	WB8QZZ	Jim	
+TRC#061	AD8DE	Scot	
+TRC#062	KD8ENJ	Ron - S.K.	
+TRC#063	K1QS	Walter	
+TRC#064	KD8SAV	Gary	
+TRC#065	N4KM	Kevin	
+TRC#066	W5JBO	John	
+TRC#067	KK5NA	Joel	
+TRC#068	WA3LUS	Louis	
+TRC#069	AG6OR	Markku	
+TRC#070	K2TQC	Bill	
+TRC#072	KD2FJB	Eugene	
+TRC#073	K8EQ	Robert	
+TRC#074	KK3Q	Floyd	
+TRC#075	K8MEG	Richard	
+TRC#076	W9OV	Martin	
+TRC#077	K3YP	Ray	
+TRC#078	KD4EE	Scott	
+TRC#079	K2RET	Robert	
+TRC#080	NE2E	Fernando	
+TRC#081	AD3Y	Larry	
+TRC#082	W9YU	Roger	
+TRC#083	NX9G	Yanko	
+TRC#084	KO9V	Bob	
+TRC#085	W1DGL	Michel	
+TRC#086	N3SY	Boris	
+TRC#087	W4WCD	Walt	
+TRC#088	K2ECS	Ernest	
+TRC#089	W8/LZ4GU	Georgi	
+TRC#090	KC2FKM	Juan	
+TRC#091	W1JCW	John	
+TRC#092	N4UK	Kenneth	
+TRC#093	W1ARY	Marcel	
+TRC#094	K5VSD	Wayne	
+TRC#095	AA9L	Richard	
+TRC#096	KB0PGI	Doug	
+TRC#097	WA3TLT	Larry	
+TRC#098	AE8U	Michael	
+TRC#099	W3ZYF	Wayne	
+TRC#100	WY4Y	Kenneth	
+TRC#101	W1BLU	David	
+TRC#102	AC1EG	Keith	
+TRC#103	WF3P	Roger	
+TRC#104	KN4WOJ	Roy	
+TRC#105	KB3JHC	Allen	
+TRC#106	NC4MI	Luther	
+TRC#107	KN4RFK	Harold	
+TRC#108	N4LKB	Michael	
+TRC#109	AE2JL	Joel	
+TRC#110	N7WEJ	Steven	
+TRC#111	CB	Alvin	
+TRC#112	K9GB	Mel	
+TRC#113	KI2N	Mark	
+TRC#114	KE8IML	Michele	
+TRC#115	KE8GC	Gregory	
+TRC#116	KT4VK	Hilary	
+TRC#117	N4SO	Ken	
+TRC#118	AC8TO	Don	
+TRC#119	W9ILY	John	
+TRC#120	KW4HQ	Steven	
+TRC#121	K9CW	Drew	
+TRC#122	K4MM	Tom	
+TRC#123	NB0V	Remo	
+TRC#124	KK4CS	Scott	
+TRC#125	K9NUD	Steve	
+TRC#126	KC1RLS	Robert	
+TRC#127	N5LPT	Mark	
+TRC#128	N2HAY	Hayden	
+TRC#129	KA1EFO	Dole	
+TRC#130	W4NRG	Christopher	
+TRC#131	WU9D	Mike	
+TRC#132	KC9TZO	James	
+TRC#133	WJ8Y	Gregg	
+TRC#134	AB2E	Darrell	
+TRC#135	N0EUV	Milan	
+TRC#136	W1MEE	Forrest	
+TRC#137	W4QYV	Avery	
+TRC#138	N7YA	Adam	
+TRC#139	WA2HIP	John	
+TRC#140	CB	Phillip	
+TRC#141	N3HON	Michael	
+TRC#142	N0KWA	James	
+TRC#143	WN4V	Jon	
+TRC#144	W3DV	Scott	
+TRC#145	AJ4EN	Bobby	
+TRC#146	AI6O	Ed	
+TRC#147	AC5XK	Don	
+TRC#148	KI5QIO	Randy	
+TRC#157	CB	Eliu	
+TRC#228	CB	Mychelle	
+TRC#411	CB	Bernadette	
+TRC#555	CB	Brent	
+TRC#727	CB	Jim	
+			
+KH0 - Mariana Isl. - 133			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#102	CB	Joe	
+TRC#102	CB	Ray	
+TRC#126	CB	Joey	
+			
+KH2 - Guam  Isl. - 62			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Ely	
+			
+KH6 - Hawaii - 17			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	NH0S	Jim	
+TRC#777	CB	Ben	
+TRC#961	NH6OW	Hisashi	
+			
+KL - Alaska - 33			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Larry	
+TRC#102	CB	Eric	
+TRC#446	CB	Ernie	
+			
+KP2 - Virgin Isl. - 127			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Alfred	
+			
+KP4 - Puerto Rico - 11			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	NP3V	Luis	
+TRC#003	KP4EJ	Carlos	
+TRC#004	KP4CPC	Carlos	
+TRC#005	WP3S	Cheo	
+TRC#006	KP3BR	Jimmy	
+TRC#007	WP4IDK	Alvin	
+TRC#008	KP4BC	Angel	
+TRC#009	WP3GW	Angel	
+TRC#010	WP4MB	Pedro	
+TRC#011	KP4JED	Javier	
+TRC#012	KP4TN	Carlos	
+TRC#013	WP4PJK	Brian	
+TRC#014	KP4JFR	Jose	
+TRC#015	WP3NO	Alan	
+TRC#016	NP4LW	Nelson	
+TRC#017	KP3IV	Ivan	
+TRC#018	KP4EGY	Edgardo	
+TRC#019	WP4IDK	Alvin	
+TRC#020	KP4OMR	Felix	
+TRC#021	CB	Tito	
+TRC#022	KP4AF	Carlos	
+TRC#023	WP4J	Manuel	
+TRC#100	WP4OLC	Club - B.R.C.P.R.	
+TRC#101	WP3UI	Joel	
+TRC#102	WP3DZ	Edwin	
+TRC#103	CB	Lito	
+TRC#104	CB	Rene	
+TRC#106	CB	Ricardo	
+TRC#125	NP3ZY	Javi	
+TRC#200	KP3ER	Club - B.C..R.	
+TRC#300	NP4NN	Puerto Rico CW Club	
+			
+LA - Norway - 20			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	LA6LPA	Rune	
+TRC#003	LA4EU	Hans	
+TRC#004	LA2VRA	Arnt	
+TRC#005	LA5FJA	Paul	
+TRC#006	LA2HFA	Andy	
+TRC#007	LA4XX	Hjalmar	
+TRC#008	LA2IR	Einar	
+TRC#009	LB6GG	Hans	
+TRC#010	CB	Kare	
+TRC#011	CB	Paul	
+TRC#012	LA1EOA	Roar	
+TRC#013	LA6KOA	Torbj?rn	LC5C
+TRC#014	LA5RE	Rune	
+TRC#020	CB	Sverre	
+TRC#021	CB	Cammila	
+TRC#022	LA8ENA	Vidar	
+TRC#101	CB	Aage	
+TRC#117	CB	Raymond	
+TRC#118	CB	Martin	
+TRC#127	CB	Gilbert	
+TRC#269	CB	John	
+TRC#310	CB	Frode	
+TRC#369	CB	Rune	
+TRC#666	CB	Eli	
+			
+LU - Argentina - 4			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Jony	
+TRC#003	LU7DAF	Daniel	
+TRC#004	LU7FIA	Willy	
+TRC#005	CB	Antonio	
+TRC#006	LU4MHQ	Carlos	
+TRC#007	LU1QS	Oscar	
+TRC#008	LU1DZ	Alberto	
+TRC#009	LW1DXH	Oscar	
+TRC#010	LW5DFR	Daniel	
+TRC#011	LU3CM	Hector	
+TRC#012	CB	Daniel	
+TRC#013	LW3DG	Eduardo	
+TRC#014	LU4DPL	Pablo	
+TRC#015	LU5EHD	Jose	
+TRC#016	LU7DSY	Carlos	
+TRC#017	LU1EUU	Gerardo	
+TRC#018	LU5DEM	Eduardo	
+TRC#019	LU7DKO	Marcos	
+TRC#020	LU4DBT	Willy	
+TRC#021	LW2DCJ	Francisco	
+TRC#022	LU4EG	Daniel	
+TRC#023	LU5HA	Marcos	
+TRC#024	LU9OTA	Jorge	
+TRC#025	LU7FJO	Facundo	
+TRC#026	LU2JLS	Gullermo	
+TRC#027	LU4VI	Javier	
+TRC#028	LU8FDA	Eladio	
+TRC#029	LU3PI	Jose	
+TRC#030	LW4EAZ	Walter	
+TRC#031	LU1DLA	Alejandro	
+TRC#032	LW2EIY	Pedro	
+TRC#033	LW5DR	Jorge	
+TRC#034	LU6MAL	Aurelio	
+TRC#035	LW6EQG	Ruben	
+TRC#036	CB	Pablo	
+TRC#037	LW7EDH	Eduardo	
+TRC#038	LU3EAR	Roberto	
+TRC#050	CB	Dario	
+TRC#103	CB	Nany	
+TRC#106	CB	Silvio	
+TRC#108	CB	Nestor	
+TRC#111	LU3QDF	Diego	
+TRC#112	CB	Oscar	
+TRC#113	CB	Alejandro	
+TRC#114	CB	Juan Carlos	
+TRC#115	CB	Omar	
+TRC#117	LU3EP	Diego	
+TRC#118	CB	Rafael	
+TRC#119	CB	Gustavo	
+TRC#120	CB	Guillermo	
+TRC#124	CB	Simon	
+TRC#125	CB	Ricardo	
+TRC#126	CB	Amilcar	
+TRC#127	CB	Marcelo	
+TRC#130	CB	Ernesto	
+TRC#131	CB	Diego	
+TRC#132	CB	Raul	
+TRC#133	CB	Luis	
+TRC#140	CB	Javi	
+TRC#184	CB	Miguel	
+TRC#212	CB	Carlos	
+			
+LX - Luxembourg - 54			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#011	CB	Heinz	
+TRC#102	CB	Weber	
+TRC#103	CB	Josephine	
+TRC#112	LX1MAX	Fred	
+TRC#325	CB	Daniel	
+TRC#778	CB	Eric	
+			
+LY - Lithuania - 311			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	LY3BY	Vilmantas	
+TRC#003	LY5W	Saulius	
+TRC#004	LY3W	Rimas	
+TRC#005	LY2BIS	Michail	
+TRC#007	LY2XC	Zbignev	
+TRC#008	LY6A	Rimas	
+TRC#009	LY3X	Tomas	
+TRC#010	LY2BMX	Algirdas	LY4ZZ
+TRC#011	LY3BA	Dana	
+TRC#101	CB	Aleksander	
+			
+LZ - Bulgaria - 178			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#000	CB	Club	
+TRC#001	LZ1YE	Nasko	LZ5Y
+TRC#002	LZ1OJ - S.K.	Don	
+TRC#003	LZ1PQ	Misho	
+TRC#004	LZ1OP	Mike	
+TRC#005	LZ1TP	Tanyo	
+TRC#006	LZ1FX	George	
+TRC#007	LZ3NO	Venci	
+TRC#008	LZ3ZZ	Aleko	LZ5I
+TRC#009	LZ1ONN	Ofer	
+TRC#010	LZ3ND	Nick	
+TRC#011	LZ5DB	Milen	
+TRC#012	LZ1RW	Marin	
+TRC#013	LZ1DB	Kolyo	
+TRC#014	LZ1WL - S.K.	Walentin	
+TRC#015	LZ5SZ - S.K.	Stefan	
+TRC#016	LZ2AVA	Anatoli	
+TRC#017	LZ1DCD	Dimo	
+TRC#018	LZ2AES	Emil	
+TRC#019	LZ3GH	George	
+TRC#020	LZ3YP	Ana	
+TRC#021	LZ3YW	Petya	
+TRC#022	LZ1BJ	Boytcho	
+TRC#023	LZ1GL	Krasimir	
+TRC#024	CB	Plamen	
+TRC#025	LZ1ZF	George	
+TRC#026	LZ1JO	Ralie	
+TRC#027	LZ1ADF	Alexander	
+TRC#028	CB	Magdalena	
+TRC#029	LZ1VH	George	
+TRC#030	LZ3SD	Spas	
+TRC#031	LZ2DF	Mike	
+TRC#032	LZ1ONK	Ognian	LZ7O
+TRC#033	LZ1DLZ	Vesselin	
+TRC#034	LZ2UW	Krasi	
+TRC#035	LZ1VPS	Vasko	
+TRC#036	LZ1CLK	Dobri	LZ1T
+TRC#037	LZ7DX	Marian	
+TRC#038	LZ2VP	Georgi	
+TRC#039	LZ2CM	Plamen	
+TRC#040	LZ1NY	Victor	LZ3V
+TRC#041	LZ1OI - S.K.	Kosyo	
+TRC#042	LZ2ZG	Vladimir	
+TRC#043	LZ2WE	Dora	
+TRC#044	LZ1DM	Plamen	
+TRC#045	LZ2ZY	Radi	
+TRC#046	LZ1VVD	Vladimir	
+TRC#047	LZ1KP - S.K.	Konstantin	
+TRC#048	LZ1DQ	Vladimir	
+TRC#049	LZ4NM	Nikolai	
+TRC#050	LZ2JR	Boris	
+TRC#051	LZ1MP	Marko	
+TRC#052	LZ1EP - S.K.	Encho	
+TRC#053	LZ1IS - S.K.	spas	
+TRC#054	LZ2AN	Angel	
+TRC#055	LZ1MC	Slavi	
+TRC#056	LZ3QR	Ivan	
+TRC#057	LZ3GA	Ilian	
+TRC#058	LZ3KB	Vassil	
+TRC#059	CB	Denitza	
+TRC#060	LZ2HT	Ivan	LZ8Z
+TRC#061	LZ2AE	Angel	
+TRC#062	LZ1CN	Drago	
+TRC#063	LZ1KZ	Vlado	
+TRC#064	CB	Ludmil	
+TRC#065	LZ2MDI	Max	
+TRC#066	LZ2ILR	Edwin	
+TRC#067	LZ1YLE	Elena	
+TRC#068	LZ1MBU	Miro	
+TRC#069	LZ3NF	Nick	
+TRC#070	LZ1MG	Malen	
+TRC#071	LZ1DRM	Mitko	
+TRC#072	LZ3XX	Plamen	LZ5X
+TRC#073	LZ3BX	Atanas	
+TRC#074	LZ4TU	Stanislav	
+TRC#075	LZ1DKZ	Dido	LZ5E
+TRC#076	LZ1KU	Stamen	LZ6Y
+TRC#077	LZ1ASP	Sava	
+TRC#078	LZ1ILM	Iskren	
+TRC#079	LZ5ZX	Stefan	
+TRC#080	LZ1CF	Hristo	
+TRC#081	LZ3RN	Ivo	LZ7D
+TRC#082	LZ1SEC	Desislava	
+TRC#083	LZ4AE	Angel	
+TRC#084	LZ1NPN	Peter	
+TRC#085	LZ3DJ	Dinko	
+TRC#086	LZ2RM - S.K.	Valery	
+TRC#087	LZ2SC - S.K.	Stefan	
+TRC#088	LZ2KLR	Club	LZ6C
+TRC#089	LZ2MR	Miroslav	
+TRC#090	LZ2ITU - S.K.	Metin	LZ7H
+TRC#091	LZ1EV	Mitko	
+TRC#092	LZ3PZ	Lubo	
+TRC#093	LZ2PT - S.K.	Dimitar	
+TRC#094	LZ1IRQ	Ivaylo	`
+TRC#095	LZ3JY	Alexander	
+TRC#096	LZ1UBO	Georgi	
+TRC#097	LZ4OC	Sasho	
+TRC#098	LZ4TL	Margarit	LZ4T
+TRC#099	LZ2FL	Georgi	
+TRC#100	LZ2TRC	Ognyan	
+TRC#101	LZ5KP	Saleh	
+TRC#102	LZ5ZZ	Rositsa	
+TRC#103	LZ2TC	Rositsa	
+TRC#104	LZ1TSD	Teodor	
+TRC#105	LZ1XL - S.K.	Minko	
+TRC#106	LZ1CLM	Ivaylo	
+TRC#107	LZ1HCO	Venelin	
+TRC#108	LZ7DJ	Kiril	
+TRC#109	LZ2WNW	Weselin	
+TRC#110	LZ4GL	George	
+TRC#111	LZ2HN	Kolyo	
+TRC#112	LZ1YP	Ivan	
+TRC#113	LZ3BS	Nikolay	
+TRC#114	CB	Kiril	
+TRC#115	LZ1ML	Milcho	
+TRC#116	LZ4SU - S.K.	Krasimir	
+TRC#117	LZ1IA	Ivan	
+TRC#118	LZ2CH	Krasimir	
+TRC#119	LZ1VQ	Veko	
+TRC#120	LZ2VR	Krum	
+TRC#121	LZ1ZX	Dimitar	
+TRC#122	LZ2JU	Yovko	
+TRC#123	LZ1PPD	Petar	
+TRC#124	LZ1PRO	Yanko	
+TRC#125	LZ1DAF	Dafcho	
+TRC#126	LZ1ZAZ	Atanas	
+TRC#127	LZ1HW	Spas	
+TRC#128	LZ1WR	Todor	
+TRC#129	LZ1ZK	George	
+TRC#130	LZ1XE	Petko	
+TRC#131	LZ1SJ	Svetlin	
+TRC#132	LZ3DI	Dimitar	
+TRC#133	LZ5GB	Evgeny	
+TRC#134	LZ1NAG	Gergin	
+TRC#135	LZ1WF	Vasil	
+TRC#136	LZ3BB	Plamen	LZ8R
+TRC#137	LZ5CT	Sashko	
+TRC#138	LZ1ZIL	Dragomir	
+TRC#139	LZ1VKI	Valentin	
+TRC#140	LZ1DCR	Dimitar	
+TRC#141	LZ1SMF	Stefan	
+TRC#142	LZ2DB - S.K.	Stefan	
+TRC#143	LZ2HR - S.K.	Hristo	
+TRC#144	LZ1AKW	Anton	
+TRC#145	LZ2JA - S.K.	Kiril	
+TRC#146	LZ4NY	Miroslav	
+TRC#147	LZ2YO	Rumen	
+TRC#148	LZ5UF	Stefan	
+TRC#149	LZ1LT	Nedelko	
+TRC#150	LZ1DCN	Mitko	
+TRC#151	LZ2HAM	Martin	
+TRC#152	LZ1LZS	Svetlin	LZ7MM
+TRC#153	LZ6DJ	Ivaylo	LZ4W
+TRC#154	LZ5IL	Vladimir	
+TRC#155	LZ7DF	Ivan	
+TRC#156	LZ5SF	Misho	
+TRC#157	LZ1AAF	Stefan	
+TRC#158	LZ4VP		
+TRC#159	LZ4RV	Ivailo	
+TRC#160	LZ1JP	Asen	
+TRC#161	LZ1CRI	Christo	LZ1W
+TRC#162	LZ5ET	Gerasim	LZ5G
+TRC#163	LZ2CC	Wasil	
+TRC#165	LZ1WE	Todor	
+TRC#166	LZ1RAN	Rangel	
+TRC#167	LZ2SMX	Svilen	
+TRC#168	LZ1ZFG	Rolf	
+TRC#169	LZ5IY	Ivaylo	
+TRC#170	LZ5RD	Rumen	
+TRC#171	LZ1TLZ	Vulcho	
+TRC#172	LZ1GUE	Konstantin	
+TRC#173	LZ2MI	Minko	
+TRC#174	LZ5FD	Marius	
+TRC#175	LZ1GC	Stanislav	
+TRC#176	LZ3QE	Ilcho	
+TRC#177	LZ2DK	Dimcho	
+TRC#179	LZ2EC - S.K.	Encho	
+TRC#180	LZ2RS	Rumen	
+TRC#181	LZ7VM	Vasko	
+TRC#182	LZ1GE	Apostol	
+TRC#183	LZ2AF	Rumen	
+TRC#184	LZ2II	Donko	
+TRC#185	LZ1XN	Adam	
+TRC#186	LZ5PW	Vassil	
+TRC#187	LZ2DIM	Dimo	
+TRC#188	LZ2INP	Ivan	
+TRC#189	LZ7DP	Dimitar	LZ5B
+TRC#190	LZ2OG	Alexandar	
+TRC#191	LZ4SC	Stefan	
+TRC#192	LZ1ZB	Vladimir	
+TRC#193	LZ2VU	Juli	LZ6V
+TRC#194	LZ5EO	Emil	
+TRC#195	LZ1MTS	Martin	
+TRC#196	LZ2UR - SK	Alexander	
+TRC#197	LZ1SAD	Svetoslav	
+TRC#198	LZ4NM	Nick	
+TRC#199	CB	Ivo	
+TRC#200	LZ76ZZ		
+TRC#201	LZ5RO	Rosen	
+TRC#202	LZ1MIT	Dimitar	
+TRC#203	LZ7MT	Christo	LZ2V
+TRC#204	LZ1ZJ	Slav	LZ3R
+TRC#205	LZ1PRT	Stanimir	
+TRC#206	LZ1GBY	George	
+TRC#207	LZ30AM		
+TRC#208	LZ95MA		
+TRC#209	LZ4DJ	Keith	
+TRC#210	CB	Denis	
+TRC#211	LZ1STU	Ivan	
+TRC#212	LZ1VDR	Vlado	
+TRC#213	CB	Marian	
+TRC#214	LZ4GU	Georgi	
+TRC#215	LZ1MTS	Martin	
+TRC#216	LZ2LBB	Lachezar	
+TRC#217	LZ4AI	Adrean	
+TRC#300	LZ1KGB	Club	
+TRC#400	LZ1KAU	Club	LZ1D
+TRC#500	LZ1KTR	Club	LZ5W
+TRC#600	LZ1KPW	Club	LZ5M
+TRC#700	LZ2KRM	Radio Club Kubrat	
+TRC#555	LZ3HI	Emil	
+TRC#579	LZ1DAT	Stanimir	
+TRC#599	LZ1YG - S.K.	Ivan	
+TRC#666	LZ1VTR	Petko	
+TRC#777	LZ2UF	Encho	
+TRC#871	LZ1MDZ	Dimitar	
+TRC#888	LZ2HM	Andy	
+TRC#1000	LZ73TRC	TRC - HQ	
+			
+OA - Peru - 8			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Jaime	
+			
+OD - Lebanon - 112			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	OD5ZF	Omar	
+TRC#003	OD5SK	Samir	
+TRC#010	OD5RZ	Ahmad	
+TRC#011	OD5UU	Mohamad	
+TRC#015	OD5UR	Abdul	
+TRC#101	CB	Mouhamed	
+TRC#107	CB	Amer	
+TRC#117	CB	Mustafa	
+			
+OE - Austria - 35			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#000	CB	Club	
+TRC#002	CB	Chris	
+TRC#003	OE5WRO	Wolfgang	
+TRC#004	CB	Johnny	
+TRC#005	OE3SGU	Hannes	
+TRC#006	OE-7001	Michael	
+TRC#007	OE3TWB	Thomas	
+TRC#008	OE7LVI	Viktor	
+TRC#009	OE7TTT	Mike	
+TRC#010	CB	Diddi	
+TRC#011	OE7DXT	Geni	
+TRC#012	OE3DMA	Alex	
+TRC#013	OE9LWV	Wolfgang	
+TRC#014	OE2GXL	Gilbert	
+TRC#015	OE6GND	Gerhard	
+TRC#016	OE3UKW	Christian	
+TRC#017	CB	Alex	
+TRC#022	OE6MDF	Max	
+TRC#023	OE5CCN	Christian	
+TRC#024	OE3BKC	Herbert	
+TRC#025	OE6IWG	Walter	
+TRC#101	CB	Gery	
+TRC#149	CB - SK	Helene	
+TRC#178	CB	Joe	
+TRC#400	OE2CRP	Markus	
+TRC#999	OE4VIE	Joerg	
+			
+OH - Finland - 56			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	OH6MW	Ari	OG7A
+TRC#003	OH3MF	Rauno	
+TRC#004	OH1BOI	Jari	OH1B
+TRC#005	OH6FTR	Risto	
+TRC#006	OH8UV	Markku	
+TRC#007	OH3KJM	Jari	
+TRC#008	OH6GAZ	Juha	
+TRC#009	OH1TD	Tauno	
+TRC#010	OH2KW	Arto	
+TRC#011	CB	Mika	
+TRC#012	OH3CBN	James	
+TRC#013	OH2OT	Keijo	
+TRC#014	OH1RX	Jouko	
+TRC#101	CB	Mikko	
+TRC#116	CB	Jouko	
+TRC#199	CB	Maik	
+TRC#555	CB	Vlad	
+			
+OH0 - Aland Isl. - 212			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	OH0XX	Olli	
+			
+OK - Czech Rep. - 329			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	OK1RR	Martin	
+TRC#003	OK1FIM	Vlasta	
+TRC#004	OK1TPC	Josef	
+TRC#005	OK4AZ	Ivan	
+TRC#006	OK1MIQ	Jan	
+TRC#007	OK5MM	Vit	
+TRC#008	OK1ZHV	Vojtech	
+TRC#009	OK1MNI	Miroslav	
+TRC#010	CB	Simon	
+TRC#011	OK1RO	Jan	
+TRC#012	OK1AMF	Franti	
+TRC#013	OK1ND	Mirek	
+TRC#014	OK1LV	Ladislav	
+TRC#015	OK2BOB	Bob	
+TRC#016	OK1BA	Karel	
+TRC#017	OK1VKK	Frantisek	
+TRC#018	OK1DRY	Josef	
+TRC#019	OK2XY	Pavel	
+TRC#020	OK1DSA	Roman	
+TRC#021	OK1DOZ	Beda	
+TRC#022	OK1VK	Pavel	OK3X
+TRC#023	OK2ZK	Zbinek	
+TRC#024	OK1DWQ	Tom	OL6D
+TRC#025	OK5MM	Vit	
+TRC#026	OK1RP	Petr	
+TRC#027	OK1BPN	David	
+TRC#028	OK2BMI	Milan	
+TRC#029	OK3MO	Ota	
+TRC#101	CB	Vojta	
+TRC#102	CB	Tomas	
+			
+OM - Slovakia - 330			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	OM4JD	Juraj	OM4J
+TRC#003	OM6MS	Miki	
+TRC#004	OM8CD	Stefan	
+TRC#005	OM2AGN	Gabriele	
+TRC#006	OM3LO	Tibor	
+TRC#007	OM2CS	Ivan	
+TRC#008	OM7AT	Vincent	
+TRC#009	OM1AX	Vladimir	
+TRC#010	OM5MX	Pavel	
+TRC#012	OM0AFM	Mari n	
+TRC#013	OM3TNA	Jan	
+CB	Simon	Simon	
+CB	Martin	Martin	
+			
+ON - Belgium - 16			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ON3XX	Jozef	
+TRC#003	ON4LO	Francois	
+TRC#004	CB	Ivan	
+TRC#005	CB	Jurgen	
+TRC#006	CB	Ludwig	
+TRC#007	CB	Peter	
+TRC#008	ON5GQ	Ben	
+TRC#009	ON4CB	Kurt	
+TRC#010	CB	Robert	
+TRC#011	ON6DJ	Edwin	OT5T
+TRC#012	ON6MG	Alain	
+TRC#013	ON3ND	Jean-Jacques	
+TRC#014	ON3HLU	Hakim	
+TRC#015	ON7EC	Erik	
+TRC#016	ON3JMD	Jan	
+TRC#017	ON4ALY	Xavier	OR5T
+TRC#018	ON7JC	Antoaine	
+TRC#019	ON7DY	Marcel	
+TRC#020	ON4ON	Danny	
+TRC#021	OR4K	Mario	
+TRC#022	ON3DFD	Bert	
+TRC#023	ON3ZL	Claude	
+TRC#024	ON7VA	Eddy	
+TRC#025	ON7SU	Peter	
+TRC#026	ON2FT	Luc	
+TRC#028	ON4AEO	Filip	OS6A
+TRC#029	ON8RR	Roger	
+TRC#030	ON2WAB	Peter	
+TRC#031	ON6NA	Paul	
+TRC#032	ON6LY	Francis	OP4A
+TRC#033	ON7KM	Gaston	
+TRC#034	ON7LO	Louis	
+TRC#035	ON3FZT	Luc	
+TRC#036	ON6DP	Paul	
+TRC#037	CB	Kitty	
+TRC#038	ON2AD	Patrick	
+TRC#039	ON3EA	Eddy	
+TRC#040	ON5BWE	Erwin	
+TRC#041	CB	Peter	
+TRC#042	ON4VT	Danny	
+TRC#043	OP4L	Alex	
+TRC#044	ON5GF	Guy	
+TRC#045	ON7ULM	Fabien	
+TRC#046	ON6LR	Marc	
+TRC#047	ON5OO	Jacques	
+TRC#048	ON4AMP	Peter	
+TRC#049	ON3LX	Jean-Pierre	
+TRC#050	ON4SV	Gabriel	
+TRC#051	ON6SAT	Berto	
+TRC#052	ON7WM	Werner	
+TRC#054	ON6PJ	Jelle	
+TRC#055	ON6ZV	Eddy	
+TRC#056	ON6OM	Rene	
+TRC#057	ON7DC	Tom	
+TRC#058	ON7IR	Rudi	
+TRC#059	ON6FY	David	
+TRC#060	ON4MHO	Arnaud	
+TRC#061	ON3TBE	Tim	
+TRC#062	ON3GSU	Gerard	
+TRC#063	ON3RMD	Raymond	
+TRC#064	ON9TT	Marc	
+TRC#065	ON6WP	Paul	
+TRC#066	ON4YOU	Gerald	
+TRC#100	ON6UB	Club	
+TRC#101	CB	Luc	
+TRC#102	ON5ZYZ	Fred	
+TRC#104	CB	Marc	
+TRC#105	CB	Jean-Pierre	
+TRC#106	CB	Bill	
+TRC#110	CB	Bruno	
+TRC#111	CB	Ben	
+TRC#191	ON3HAT	Serge	
+TRC#200	ON4BF	Club BFA	
+TRC#201	ON4XA	Xavier	
+TRC#215	CB	Victor	
+TRC#241	CB	Patrick	
+TRC#281	CB	Jan	
+TRC#339	CB	Jean-Paul	
+TRC#378	CB	Ewald	
+TRC#444	CB	Gilbert	
+TRC#666	ON3NR	Pascal	
+			
+OY - Faroe - 52			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#234	CB	Olavur	
+			
+OZ - Denmark - 47			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	5P1W	Willy	
+TRC#003	OZ1HET	Finn	
+TRC#004	OZ1GCT	Niels	
+TRC#005	OZ3SA	Sven	
+TRC#006	OZ4FF	Karsten	
+TRC#007	OZ2BAC	Bo	
+TRC#008	5P2BA	Frank	
+TRC#009	OZ4CG	Carsten	
+TRC#010	OZ5AFM	Kurt	
+TRC#011	OZ1KJG	Flemming	
+TRC#012	OZ3ABU	Claus	
+TRC#013	OZ5NJ	Niels	
+TRC#014	OZ7EA	Elin	
+TRC#015	OU2I	Henning	
+TRC#016	5Q0T	Ferenc	
+TRC#017	OZ0B	Soren	
+TRC#018	OZ1AAR	Villy	
+TRC#101	CB	Ole	
+			
+P4 - Aruba - 232			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#003	CB	Hilario	
+TRC#101	CB	Adriaan	
+TRC#102	CB	Marvin	
+			
+PA - The Netherlands - 19			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	Leo	
+TRC#003	PA7RA	Rien	
+TRC#004	PD0ADR	Ed	
+TRC#005	PA3HIZ	Arie	
+TRC#006	PA3DBS	Peter	
+TRC#007	PA3CLQ	Jan	
+TRC#008	PD3GO	Gerrit	
+TRC#009	NL-12869	Jacques	
+TRC#010	CB	Michel	
+TRC#011	PD1TC	Flip	
+TRC#012	PD5CW	Jeroen	
+TRC#013	PC1EMR	Eric	
+TRC#014	PD6W	Eric	
+TRC#015	PA1TAS	Paul	
+TRC#016	PA2PCH	Ad	
+TRC#017	PA0FAW	Fred	
+TRC#018	CB	Geert	
+TRC#019	PD5JFK	Frank	
+TRC#020	CB	Tony	
+TRC#021	CB - S.K.	Mirian	
+TRC#022	PA0AWH	Ad	
+TRC#023	PC2F	Frans	
+TRC#024	PD5L	Edwin	
+TRC#025	PA3EEG	Ruud	
+TRC#026	PA3FJE	Theo	
+TRC#027	PD3JAG	Jan	
+TRC#028	PD0MLO	Marinus	
+TRC#029	PD0MV	Mark	
+TRC#030	PA3CVI	Cees	
+TRC#031	PA9RD	Ruud	
+TRC#032	PA3FOE	Cor	
+TRC#033	CB	Theo	
+TRC#034	PD5SS	Rudy	
+TRC#035	PA3CFB	Han	
+TRC#036	PD9ASO	Pino	
+TRC#037	PG7R	Ronald	
+TRC#038	PD0RS	Charles	
+TRC#039	PA4O	Peter	
+TRC#040	PD9W	Nico	
+TRC#041	PB7Z	Bernard	
+TRC#042	PD0FGQ	Peter	
+TRC#043	PA0O	Jaap	
+TRC#044	PD1RON	Ron	
+TRC#045	PD3MR	Marcel	
+TRC#046	PD3AL	Andre	
+TRC#047	PD1JFB	Friso	
+TRC#048	PD1AJT	Marco	
+TRC#049	PA1FJ	Fred	
+TRC#050	PA9IGB	Giuseppe	
+TRC#051	PA3JEM	Johan	
+TRC#052	PA7BAS	Bas	
+TRC#053	PA1KEK	Giovanni	
+TRC#054	PA3249	Harry	
+TRC#055	PD1CW	Patrick	
+TRC#056	PA5N	Jeroen	
+TRC#057	OP5K	Roland	
+TRC#058	PD0EBS	Wim	
+TRC#059	PA3BNT	Marten	
+TRC#060	PD0WR	Wicher	
+TRC#061	PA3EVY	Willy	PI4DX
+TRC#062	PE2K	Adriaan	
+TRC#063	PA2MDL	Rinus	
+TRC#064	PD2JPL	Jan	
+TRC#065	PD1SA	Bert	
+TRC#066	PD0FW	Fred	
+TRC#068	PD0ME	Mark	
+TRC#069	PD7WL	Willem-Jan	
+TRC#070	PE1NKV	Jacob	
+TRC#071	CB	John	
+TRC#072	PA3OES	Andre	
+TRC#073	PA0VLD	Jan	
+TRC#074	PD1BU	Henny	
+TRC#075	PA7DN	Dirk	
+TRC#076	PD0GIP	Gerard	
+TRC#077	PA3GEO	Robert	
+TRC#078	PA3HEN	Theo	
+TRC#079	PA4JJ	Jan	
+TRC#080	PD1RP	Peter	
+TRC#081	PE5TT	Marcel	
+TRC#082	PA0PIW	Gerard	
+TRC#083	PD0JMH	Jos	
+TRC#084	PD2MS	Mark	
+TRC#088	PB2Z	Barbara	
+TRC#089	PA1CW	Theo	
+TRC#090	PA0ADR	Ed	
+TRC#091	PG5FRL	Storm	PG6PEACE
+TRC#092	PE0CD	Chris	
+TRC#093	PD2TW	Tjip	
+TRC#094	PA0RDT	Roelof	
+TRC#102	CB	Henry	
+TRC#103	CB	Lucien	
+TRC#123	CB	Arthur	
+TRC#142	CB	Dervin	
+TRC#525	CB	Paul	
+TRC#552	CB	Henny	
+TRC#585	CB	Fred	
+TRC#614	CB	Frank	
+TRC#727	CB	Simon	
+			
+PY - Brasil - 3			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	PU8WWW	Renato	
+TRC#003	PT2IW	Flavio	
+TRC#004	PR7HR	Marte	
+TRC#005	PR7AB	Alcides	
+TRC#006	PP1CZ	Leo	
+TRC#007	PY2CX	Mauricio	
+TRC#008	PY2SRL	Paulo	
+TRC#009	CB	Fernando	
+TRC#010	CB	Leandro	
+TRC#011	CB	Vaz	
+TRC#012	PP5BI	Carlos	
+TRC#013	CB	Marcie	
+TRC#014	CB	Mateus	
+TRC#015	PU5AEC	Alexandre	
+TRC#016	PY1MK	Marcos	
+TRC#017	CB	Andre	
+TRC#018	PY4RR	Ricardo	
+TRC#019	PY4EK	Flavio	
+TRC#020	PY2BK	Fabio	
+TRC#021	PY1WX	Valdemar	
+TRC#022	PY1IBM	Marivaldo	
+TRC#023	PU2PZZ	Fabio	
+TRC#024	PY4ARS	Roberto	
+TRC#025	PU4MHO	Mauricio	
+TRC#026	PR8EP	Robertson	
+TRC#027	PY4CR	Claudio Roberto	
+TRC#028	CB	Kerne	
+TRC#029	PU1SKS	Julio	
+TRC#030	PP5XA	Xavier	
+TRC#031	CB	Fabio	
+TRC#032	PP5AM	Robertson	
+TRC#033	PY2EBD	Edivaldo	
+TRC#034	PT2DF	Joel	
+TRC#035	CB	Ricardo	
+TRC#036	PY1AX	Antoni	
+TRC#037	PY2OSD	Orlando	
+TRC#038	PY7BEL	Jolibel	
+TRC#039	PP7DX	Jose	
+TRC#040	PY7BC	Luiz	
+TRC#041	PY7KG	Moreira	
+TRC#042	PU1MCE	Carlos	
+TRC#043	PP5FMM	Mateus	
+TRC#044	PY2XL	Danilo	
+TRC#045	PY1FOG	Fernando	
+TRC#046	PP5AMP	Marcos	
+TRC#047	PU2NPK	Erivaldo	
+TRC#048	PU1VKG	Jose	
+TRC#049	PU2ARS	Claudio	
+TRC#050	PY1ME	Marcos	
+TRC#051	PY3JFS	Jose	
+TRC#052	PY2XC	Carlos	
+TRC#053	PY5EG	Atilano	
+TRC#054	PU2BOB	Roberto	
+TRC#055	PY3TP	Tiago	
+TRC#079	CB	Jose	
+TRC#100	PP5EI	Club - UBRO	
+TRC#102	CB	Marcelo	
+TRC#103	CB	Rodrigues	
+TRC#104	CB	Luciano	
+TRC#105	CB	Fernando	
+TRC#107	CB	Marco	
+TRC#108	CB	Marco	
+TRC#109	CB	Dinorah	
+TRC#110	CB	Loyal	
+TRC#111	CB	Sebastin	
+TRC#112	CB	Marcelo	
+TRC#133	CB	Marcio	
+TRC#137	CB	Antonio	
+TRC#138	PY2GX	Walter	
+TRC#139	CB	Mauricio	
+TRC#148	PY2MTV	Andre	
+TRC#177	CB	Marcio	
+TRC#228	CB	Mychelle	
+TRC#777	CB	Luis	
+			
+PZ - Surinam - 73			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	PZ5RA	Ramon	
+TRC#100	CB	Ron	
+TRC#101	CB	Manuel	
+TRC#315	CB	Reggie	
+			
+S5 - Slovenia - 327			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	S56B	Andreja	
+TRC#003	S57U	Pol	
+TRC#004	S51AP	Ivan	
+TRC#005	S51AY	Arpi	
+TRC#006	S51M	Bruno	
+TRC#007	S57YB	Joze	
+TRC#008	S53EO	Milos	
+TRC#009	CB	Borut	
+TRC#010	CB	Anton	
+TRC#011	S58MU	Milan	
+TRC#012	S57AJ	Janez	
+TRC#013	S52WW	Damjan	
+TRC#014	S58X	Borut	
+TRC#015	S53W	Bojan	
+TRC#016	S57YK	Bojan	
+TRC#017	S56WPF	Mitja	
+TRC#018	S50X	Silvo	
+TRC#019	S56IPS	Samo	
+TRC#020	S57PKT	Toma	
+TRC#021	S55M	Adi	
+TRC#022	S55RD	Renato	
+TRC#023	S51RU	Marjan	
+TRC#024	S51FP	Lojz	
+TRC#025	S57AX	Darko	
+TRC#026	S56FE	Franci	
+TRC#027	S57RV	Vojko	
+TRC#028	S56TOM	Jure	
+TRC#029	S58SA	Anton	
+TRC#030	S57JK	Janko	
+TRC#031	S56UVB	Bogomir	
+TRC#032	S53X	Milos	
+TRC#033	S54X	Rajko	
+TRC#101	S58F	Eric	
+TRC#102	CB	Peter	
+TRC#106	S57RPR	Rudi	
+TRC#737	CB	Aljosa	
+			
+S7 - Seychelles - 190			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	S79KW	Kamil	
+			
+SM - Sweden - 21			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	SM7WYS	Thomas	
+TRC#003	CB	Tony	
+TRC#004	SM7HZK	Bo	
+TRC#005	SM0AIG	Ingemar	SA0A
+TRC#006	SA0BGF	Johnny	
+TRC#007	SA6AXR	Bruno	SE6N
+TRC#008	SA7AIY	Bruno	
+TRC#009	SM7ZDC	Lars	
+TRC#010	CB	Hans	
+TRC#011	SM7YLS	Chris	
+TRC#012	SM4DQE	Lars	SE4E
+TRC#013	CB	Mariana	
+TRC#014	SA5CDO	Lars	
+TRC#015	SM0LPO	Mikael	SF0A
+TRC#016	SA7BXO	Anders	
+TRC#017	SM0KCR	Robert	
+TRC#018	SA7LAK	Anders	SB7A
+TRC#019	SM0YPT	Goran	
+TRC#021	SA7BSX	Andree	SB7T
+TRC#022	SA7TOR	Tord	
+TRC#023	SM5ALJ	Bengt	
+TRC#024	SM6FPC	Peter	
+TRC#025	SM6LRR	Mats	
+TRC#035	CB	Karl	
+TRC#101	CB	Karl	
+TRC#110	SM0UXX	Eric	
+TRC#122	CB	Yngve	
+TRC#154	CB	John	
+TRC#400	CB	Ronny	
+			
+SP - Poland - 161			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	SQ9S	Adam	
+TRC#003	SP5KP	Chris	SN5N
+TRC#004	SP2DNI	Andy	
+TRC#005	SQ8KEZ	Janusz	
+TRC#006	SP5XSL	Mariusz	
+TRC#007	SP1AEN	Wladyslaw	
+TRC#008	SP8LEP	Artur	
+TRC#009	SP9NWN	Mieczyslaw	
+TRC#010	SP2LNW	Slaw	
+TRC#011	SP1DMD	Romuald	
+TRC#012	SP9DTE	Lukasz	
+TRC#013	SP2FAP	Sylwerter	
+TRC#014	SP5CGN	Edward	
+TRC#015	SP8CGU	Kazimerz	
+TRC#016	SP9COO	Gregor	
+TRC#017	SP8EET	Bartolomiej	
+TRC#018	SP2EWQ	Aleksander	
+TRC#019	SP5MXW	Wojtek	
+TRC#020	SP9BRP	Jan	
+TRC#021	SP2WXZ	Andrzey	
+TRC#022	SQ8JCB	Michael	
+TRC#024	SP8MI	Wojtek	
+TRC#025	SP9MRP	Mariusz	
+TRC#026	SQ9MEP	Maciej	
+TRC#027	SP9MDY	Hubert	
+TRC#028	SO8FH	Frits	
+TRC#029	SQ3A	Zdzich	
+TRC#030	SP9MA	Jarek	
+TRC#031	HF1D	Jerzy	
+TRC#032	SP6OPZ	Henryk	
+TRC#033	SP1DPA	Waldemar	
+TRC#034	SP9DSD	Czeslaw	
+TRC#036	SP3CUG	Ryszard	
+TRC#037	SP1DOZ	Slawek	
+TRC#038	SP1TMN	Janusz	
+TRC#039	SO1YL	Agata	
+TRC#040	SP1EG	Wies	SN1A
+TRC#041	SP5JTW	Piotr	
+TRC#042	SQ7EQB	Gregory	
+TRC#043	SP3BLP	Dick	
+TRC#044	SP9HXE	Jan	
+TRC#045	SQ1PSA	Jan	
+TRC#046	SQ9FQY	Janusz	
+TRC#048	SQ8JLF	Mariusz	
+TRC#049	SP2PZ	Piotr	
+TRC#050	SQ9IWA	Tom	
+TRC#051	SP5DZE	Mieczyslaw	
+TRC#052	SN6P	Marek	
+TRC#053	SP5X	Andrzej	
+TRC#054	SP7SEW	Ryszard	
+TRC#055	SP2EG	Wieslaw	
+TRC#056	SP3VST	Radek	
+TRC#057	SP6IHE	Jan	
+TRC#058	SQ9LFQ	Jozef	
+TRC#059	SQ9OZA	Andy	
+TRC#060	SP4AWE	Kazamierz	
+TRC#061	SP9MRO	Witek	
+TRC#062	SP5DC	Seweryn	
+TRC#063	SP1TJ	Marek	
+TRC#064	SP6SOZ	Ryszard	
+TRC#065	SP5GEO	George	
+TRC#066	SP5BUJ	Jozef	
+TRC#067	SQ9FMU	Robert	
+TRC#068	SP6EIY	Stanislaw	
+TRC#069	CB	Peter	
+TRC#070	SN5L	Wieslaw	
+TRC#071	SQ3CUX	Jacek	
+TRC#072	SP2FOV	Henryk	
+TRC#073	SQ5CQ	Daniel	
+TRC#074	SP9DLY	Jan	
+TRC#075	SP1ZX	Tomek	
+TRC#076	SP7X	Jarek	
+TRC#077	SQ2IP	Slawek	
+TRC#078	SP9NGL	Angel	
+TRC#079	SQ3KO	Rafal	
+TRC#100	SP1PEA	Club PZK przy KSM	
+TRC#200	SP3PDO	Dobrzycki Klub Kr¢tkofalowc¢w	
+TRC#101	CB	Henryk	
+TRC#102	CB	Chris	
+TRC#104	CB	Marcin	
+TRC#105	CB	Maciek	
+TRC#106	SP5XOV	Piotr	
+TRC#110	CB	Roman	
+TRC#111	SQ9UM	Olek	
+TRC#123	SQ4HDK	Nick	
+TRC#124	CB	Janusz	
+TRC#125	CB	Emil	
+TRC#126	CB	Maciek	
+TRC#127	CB	Jacek	
+TRC#128	CB	Michal	
+TRC#171	CB	Daniele	
+TRC#200	SP5PDA	Club - ANODA	
+TRC#242	CB	Lukasz	
+TRC#275	CB	Mariusz	
+TRC#611	CB	Maciek	
+			
+SU - Egypt - 117			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	SU1ER - S.K.	Ezzat	
+			
+SV - Greece - 18			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	SV2HWR	Pantsios	
+TRC#003	SV4FFL	Costas	
+TRC#004	SV1HEM	Giorgos	
+TRC#005	CB	Spiros	
+TRC#006	CB	Panos	
+TRC#007	CB	Eya	
+TRC#008	SV7LWQ	Kwstas	
+TRC#009	SV4FFK	Sakis	
+TRC#010	SV2CLJ	Thomas	
+TRC#012	SV2HJQ	Michael	
+TRC#013	SV1MO	Michael	
+TRC#014	CB	Dino	
+TRC#015	SV1QED	Michael	
+TRC#016	SV8LMQ	Dimitrios	
+TRC#017	SV1AVT	Spiros	
+TRC#018	SV1JRF	George	
+TRC#019	SV2CXW	George	
+TRC#020	SV1CEI	Nikos	
+TRC#021	SV1QVW	Tasos	
+TRC#022	SV1ME	Emmanuel	
+TRC#023	SV2OEL	Atonio	
+TRC#024	SV1JFL	Stavros	
+TRC#025	SV2BFN	Vangelis	
+TRC#027	SV2HXV	Ioannis	
+TRC#028	SV7CUD	Panagiotis	
+TRC#029	SV8SXF	Konstantinos	
+TRC#030	SV1SWX	Stavros	
+			
+SV5 - Dodecanese Isl. - 59			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	SV0XCA/5 - S.K.	Walentin	
+			
+SV9 - Crete Isl. - 90			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	SV0XBN/9	Dick	
+TRC#003	SV9RNG	Paul	
+TRC#004	SV9KNN	Vassilis	
+			
+T30 - West Kiribati - 224			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#095	CB	Tam	
+TRC#101	CB	Tibou	
+TRC#120	CB	Tatonga	
+TRC#1000	T30GC	Stanislav - LZ1GC	DX-pedition - 2019
+			
+TA - Turkey - 116			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	TA2AHS	Sari	
+TRC#003	TA1CR	Can	
+TRC#004	TA2ASA	Halis	
+TRC#005	CB	Zeki	
+TRC#006	TA7R	Ahmet	
+TRC#007	TA1DX	Atila	
+TRC#008	TA2AD	Aziz	
+TRC#009	TA3CE	Huseyin	
+TRC#010	TA1FA	Iscan	
+TRC#011	TA1AGA	Yusuf	
+TRC#012	TA3SA	Ali	
+TRC#013	TA1EE	Arif	
+TRC#014	TA3EP	Mete	
+TRC#015	TA2TX	Mustafa	
+TRC#016	TA4RC	Ali	
+TRC#017	TA4OSK	Seyyid	
+TRC#018	TA1BZ	Metin	
+TRC#019	TA2LEK	Eray	
+TRC#020	TA7LDU	Ufuk	
+TRC#021	TA2SE	Rifat	
+TRC#022	TA/OH2KW	Arto	
+TRC#023	TA7OYG	Osman	
+TRC#024	TA3SS	Fuat	
+TRC#025	TA1SA	Yener	
+TRC#026	TA5AHO	Hamit	
+TRC#027	TA1ONG	Mehmet	
+TRC#028	TA8LMK	Muhammed	
+TRC#029	TA1SOR	Orkun San	
+TRC#030	TA2J	Ridvan	
+TRC#101	TA4ED	Atilla	
+			
+TF - Iceland - 27			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	TF2CT	Aegir	
+TRC#003	TF3AO	Seli	
+TRC#004	TF4WD	Kristjan	
+			
+TG - Guatemala - 72			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	TG9AHM	Emmanuel	
+TRC#003	TG9AEB	Marlon	
+TRC#101	CB	Cezar	
+			
+TI - Costa Rica - 69			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Lisandro	
+TRC#105	CB	Luis Fernando	
+TRC#111	CB	Octavio	
+			
+TK - Corsica - 104			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Sebastien	
+TRC#111	CB	Jean - Louis	
+			
+TU -Ivory Coast - 84			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	John	
+			
+TY - Benin - 183			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#018	CB	Maurice	
+TRC#019	CB	Julienne	
+			
+UA - Russia - 50			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	RA4PTA	Genady	
+TRC#003	UA1ADV	Valery	
+TRC#004	UA3TN	Vladimir	
+TRC#005	UA1ZOH	Sergei	
+TRC#006	RA3XCZ	Vladimir	
+TRC#007	RK6AX	Valentin	
+TRC#008	UA6UAQ	Valera	
+TRC#009	RU6UR	Yuri	
+TRC#010	UA6NN	Vladilen	
+TRC#011	RD6LK	Andy	
+TRC#012	RA4HHW	Yuri	
+TRC#013	RN6AJ	Igor	
+TRC#014	RU7A	Alex	
+TRC#015	RZ3XF	Slava	
+TRC#016	R3QX	Victor	
+TRC#017	RA3QH	Mike	
+TRC#018	RD3BD	Vladimir	
+TRC#019	RZ6AVP	Sasha	
+TRC#020	RU4AJ	Nick	
+TRC#021	UA3GX	Yuri	
+TRC#022	UA5QO	Valentin	
+TRC#023	R7BX	Andrey	
+TRC#024	RD3ZQ	Vladimir	
+TRC#025	UA1WM	Victor	
+TRC#026	RZ3BQ	Gennady	
+TRC#027	RV6ACC	Alex	
+TRC#028	RA3DNC	Oleg	
+TRC#029	RK3ZZ	Alexander	
+TRC#030	R3RR	Yuri	
+TRC#031	UA1CFE	Peter	
+TRC#032	UA6HFI	Nikolay	
+TRC#033	RA6FUZ	Oleg	
+TRC#034	RA1TV	Serge	RD1T
+TRC#035	RO5O	Alexander	
+TRC#036	UA3QR	Vladimir	
+TRC#037	R2LA	Igor	
+TRC#038	RV3QK - S.K.	Alexander	
+TRC#039	RX4HJ	Yuri	
+TRC#040	CB	Sergey	
+TRC#041	RN3ZIN	Gennady	
+TRC#043	UA4CNZ	Alex	
+TRC#044	UA1CEC	Tony	
+TRC#045	RW3DOX	Sergey	
+TRC#046	UA4FCO	Yuri	
+TRC#047	UA1CEX	Victor	
+TRC#048	RM4HZ	Alex	
+TRC#049	R7GW	Sergey	
+TRC#050	RK3IK	Vladimir	
+TRC#051	UA3XAF	Vlad	
+TRC#052	R3LZ	Valeri	
+TRC#053	RD3AEF	Michael	
+TRC#054	RG3T - ex RW3TT	Vasily	
+TRC#055	CB	Gulnaz	
+TRC#056	CB	Mavlida	
+TRC#057	RX3XP	Victor	
+TRC#058	RN3ZIC	Mikhail	
+TRC#059	R1NV	Vladimir	
+TRC#060	UA3ZBN	Yura	
+TRC#061	UA3CS	Serge	
+TRC#062	UA7G	Valentin	
+TRC#063	UA4HLU	Nikolay	
+TRC#064	UA1WCM	Hellen	
+TRC#065	UA3YDI	Anatoly	
+TRC#067	RU6BS	Sergey	
+TRC#068	UA3GBH	Alexander	
+TRC#069	R3LC	Sergey	
+TRC#070	RD3AJB	Mike	
+TRC#071	RT3T	Alexander	
+TRC#072	UA3RF	Alexander	
+TRC#073	RA3TD	Eugene	
+TRC#074	R6DA	Alex	
+TRC#075	R4ZZ	Nick	
+TRC#076	RX3F	Serge	
+TRC#077	CB	Allen	
+TRC#078	UA6AK	Valentin	
+TRC#079	R2GNP	Gennadiy	
+TRC#080	R3RAO	Ruslan	
+TRC#081	CB	Dary	
+TRC#082	RY2S	Stanislav	
+TRC#083	R3ZV	Yuri	
+TRC#084	R1C-7	Sergei	
+TRC#085	RN3Z	Mikhail	
+TRC#086	RW7W	Stanislaw	
+TRC#087	RW4HZ	Vlad	
+TRC#089	RW3RZ	Oleg	
+TRC#090	R6KEE	Yuti	
+TRC#091	R4FAA	Eremin	
+TRC#092	RU3WR	Vlad	
+TRC#093	RV4HZ	Igor	
+TRC#094	RK3DSW	Yuri	
+TRC#095	UA4HTT	Slava	RM4I
+TRC#096	R3XP	Victor	
+TRC#097	R7KKO	Alex	
+TRC#098	RZ4AZ	Dmitry	
+TRC#099	UA3195-SWL	Alexander	
+TRC#100	RZ4PXO	Club	
+TRC#101	RK4HZR	Igor	
+TRC#102	CB	Eugene	
+TRC#103	CB	Roman	
+TRC#104	CB	Ildar	
+TRC#105	CB	Sergey	
+TRC#106	CB	Sergey	
+TRC#107	CB	Valery	
+TRC#108	CB	Wasi	
+TRC#109	RA4PII	Ramil	
+TRC#110	UA4PIE	Rinat	
+TRC#111	CB	Alex	
+TRC#112	CB	Oleg	
+TRC#113	RA3ZW	Igor	
+TRC#114	CB	Konstantin	
+TRC#115	CB	Nikolay	
+TRC#116	CB	Andrey	
+TRC#117	CB	Ilyas	
+TRC#118	CB	Victor	
+TRC#119	CB	Ania	
+TRC#120	RW3DSR	Alex	UG5F
+TRC#121	RN4HW	Victor	
+TRC#122	RA4HVL	Mihail	
+TRC#123	R3IBT	Pavel	
+TRC#124	RA6LF	Yuri	
+TRC#125	UA3FQ	Andy	
+TRC#126	R1BBL	Ilya	
+TRC#127	R3DL	Amir	
+TRC#128	RK4FF	Vlad	
+TRC#129	RA3VMX	Alexandert	
+TRC#131	RA3Z	Gennady	
+TRC#132	UA3182SWL	GennadIy	
+TRC#133	RA6XT	Anatoly	
+TRC#134	R6AW	Anatoly	
+TRC#135	UA6CE	Vlad	
+TRC#136	UA3IBD	Alexej	
+TRC#137	R7BW	Anatoly	
+TRC#138	RT6DI	Valentin	
+TRC#139	RA3PDG	Vyacheslav	
+TRC#140	UA-3113 SWL	Nickolay	
+TRC#141	R4PCE	Alex	
+TRC#142	RC4YB	Valentin	
+TRC#143	R3GZ	Victor	
+TRC#144	RM6LD	Ivan	
+TRC#145	UB3DQR	Alexander	
+TRC#146	UC4I	Stanislav	
+TRC#147	RN3OG	Yuri	
+TRC#148	RZ6D	Sergey	
+TRC#149	UB1WBI	Aleksei	
+TRC#150	R3AQ	Sergey	
+TRC#151	RN4HAB	Sergey	
+TRC#152	UG4P	Nick	
+TRC#153	RX6N	Nikita	
+TRC#154	R9A-030	Pavel	
+TRC#155	RM2D	Mats	
+TRC#168	CB	Ilygyz	
+TRC#170	CB	Andy	
+TRC#199	CB	Igor	
+TRC#200	RY6Y	Shakhan Club	
+TRC#300	RA6X	"Center For Children's Creativity ""Scrabble"""	
+TRC#222	RA4YAV	Dmitry	
+TRC#301	RU4CK	Vladimir	
+TRC#325	CB	Oleg	
+TRC#375	CB	Oleg	
+TRC#376	CB	Sergey	
+TRC#377	CB	Evgeny	
+TRC#378	RW6MHM	Alex	
+TRC#379	RW4CIG	Sergey	
+TRC#525	RA1QEA	Sergej	
+TRC#555	CB	Vlad	
+TRC#606	CB	Pavel	
+TRC#777	CB	Victor	
+TRC#844	CB	Ramil	
+			
+UA2F - Kaliningrad - 307			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	UA2FCH	Boris	
+TRC#003	RA2FDX	Vyacheslav	
+TRC#004	RA2FT	Yuri	
+TRC#055	RA2FIN	Nick	
+TRC#101	CB	Igor	
+TRC#102	CB	Aleksey	
+TRC#103	CB	Vlad	
+			
+UA9 - As. Russia - 302			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	R9MN	Vasiliy	
+TRC#003	UA9TK	Alex	
+TRC#004	R7CA	Andy	
+TRC#005	R9LM	Alexander	
+TRC#006	RX9LW	Alexander	S.K.
+TRC#007	UA9OA	Alex	S.K.
+TRC#009	UA9AAG	Wladimir	
+TRC#010	RT8O	Alexander	
+TRC#011	CB	Igor	
+TRC#012	RK9A	Ruslan	
+TRC#013	UA9CGL	Vlad	S.K.
+TRC#014	UA0BA	Andy	
+TRC#015	CB	Victor	
+TRC#016	RA9FEL	Boris	
+TRC#017	R9OZ	Eugene	S.K.
+TRC#018	RW9OG	Gennady	
+TRC#019	R8WO	Vasily	
+TRC#020	R9UZ	Vladimir	
+TRC#021	RA0FBZ	Oleg	
+TRC#022	RV9YK	Sergey	
+TRC#023	RA9SUQ	Vlad	S.K.
+TRC#025	R9SQ	Pavel	
+TRC#026	RA0AY	Sergej	
+TRC#027	UA9CSR	Valery	
+TRC#028	R9UAK	Andrey	
+TRC#029	R8DW	Alex	
+TRC#030	R9AL	Evgeniy	
+TRC#031	UA9SMU	Alex	
+TRC#032	RW9MZ	Andrej	
+TRC#033	UA0L	Dmitry	
+TRC#034	R9UEJ	Alexander	
+TRC#035	UA9TI	Sergey	
+TRC#036	R0SK	Sergey	
+TRC#037	UA9OTW	Valery	
+TRC#038	R0CD	Victor	
+TRC#039	R9GM	Mike	
+TRC#040	R8FF	Andrey	
+TRC#041	CB	Andrey	
+TRC#042	RV9DC	Sergei	S.K.
+TRC#043	R0AI	Grigoriy	
+TRC#044	R9HBW	Eugene	
+TRC#045	RC8SJ	Oleg	
+TRC#047	CB	Sergey	
+TRC#049	CB	Konstantin	
+TRC#051	RA9UO	Pavel	
+TRC#052	RU9UB	Nickolay	
+TRC#053	UA9CBR	Grigory	
+TRC#054	RC8SJ	Oleg	
+TRC#057	R9UBS	Alexander	
+TRC#059	UC9UAC	Slava	
+TRC#073	RA9UCY	Herman	
+TRC#099	RU0ALK	Sergey	
+TRC#100	RK9SWY	Club	
+TRC#101	RA0SCA	Yura	
+TRC#102	CB	Vasilij	
+TRC#104	CB	Tagir	
+TRC#105	RA5AO	Alex	
+TRC#106	UA0QLB	Vladimir	
+TRC#107	CB	Aleksander	
+TRC#109	RX9AFQ	Aleksander	
+TRC#110	CB	Dmitriy	
+TRC#111	CB	Nikolay	
+TRC#114	RA9WVH	Nicolay	
+TRC#115	CB	Alex	
+TRC#117	CB	Yana	
+TRC#118	CB	Fredy	
+TRC#120	UA9AEA	Fuat	
+TRC#128	CB	Jenny	
+TRC#133	R9YBM	Eugenij	
+TRC#162	RA0FEC	Slava	
+TRC#200	RC9UB	DOSAAF - Myski	
+TRC#274	CB	Stanislav	
+TRC#300	RW9UZZ	RW9UZZ	
+TRC#400	RK8T	Radio Club	
+TRC#429	RA9YEN	S.K.	
+TRC#603	CB	Sergey	
+TRC#686	CB	Vitaly	
+TRC#888	CB	Aleksandr	
+			
+UK - Uzbekistan - 316			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	UK8LA	Karim	
+TRC#003	UK8APA	Vladimir	
+TRC#030	UK8AKG	Oleg	
+TRC#100	UK8IWT	Club	
+TRC#101	UK8IT	Valery	
+TRC#102	CB	YL Rozaly	
+TRC#103	CB	Sherzod	
+TRC#104	UK8ICP	Yuri	
+TRC#244	UK8AKK	Victor	
+TRC#304	CB	Nataly	
+TRC#702	UK8ICQ	Zera	
+			
+UN - Kazakhstan - 308			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	UN7TK	Nikolay	
+TRC#003	UN7IO	Yurij	
+TRC#004	UN7DA	Lev	
+TRC#005	CB	Anatoly	
+TRC#006	UN7TG	Nurlan	
+TRC#007	UN7BI	Vyacheslav	
+TRC#011	UN9LEL	Natali	
+TRC#021	UN9LFF	Yakow	
+TRC#022	UN2L	Vitaly	
+TRC#024	UN7JGR	Nick	
+TRC#026	CB	Marat	
+TRC#035	CB	Genadij	
+TRC#036	UN7GFC	Andrej	
+TRC#043	UN8GDS	Alexander	
+TRC#059	CB	Sergey	
+TRC#064	CB	Andy	
+TRC#073	UN7GF	Yuri Surov	
+TRC#098	UN9GC	Sergej	
+TRC#099	CB	Vsevolod	
+TRC#100	UN9LR	Sergey	
+TRC#101	UN9L	Pavel	
+TRC#102	UN7QBH	Vlad	
+TRC#156	UN7GCW	Aleksandr	
+TRC#193	CB	Aidar	
+TRC#401	UN7GDL	Yuri	
+TRC#563	CB	Stepan	
+			
+UR - Ukraine - 315			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	UR7UC	Serge	
+TRC#003	UR5WCA	Valery	
+TRC#004	UR5MM	Yuri	
+TRC#005	US7ITC	Vyacheslav	
+TRC#006	UX0UN	Nick	
+TRC#007	UR7MZ	Vladimir	
+TRC#008	UT5ULX	Anatoly	
+TRC#009	UT9LI	Sergio	
+TRC#010	US5MGJ	Valeriy	
+TRC#011	UX4FC	Victor	
+TRC#012	UT1PR	Ivan	
+TRC#013	UR2MZ	Vladimir	
+TRC#014	UT5MB	Alex	
+TRC#015	UT5EM	Yuri	
+TRC#016	US5VX	Eugene	
+TRC#017	UR7CT	Nick	
+TRC#018	UR5IHQ	Alexander	
+TRC#019	UX1LW	Andriy	
+TRC#020	UT1IM	Vladimir	
+TRC#021	UX8IR	Valery	
+TRC#022	UR5CC	Yakov	
+TRC#023	UY0CA	Pavel	
+TRC#025	UR5FCM	Igor	
+TRC#026	UX7LI	Vlad	
+TRC#027	US0UX	Vasili	
+TRC#028	UX3IT	Vladimir	
+TRC#029	UX1DC	Stanislav	
+TRC#030	UT5ERP	Roman	
+TRC#031	UX1CL	Vasily	
+TRC#032	US1RCH	Victor	
+TRC#033	US7IID	Anatoly	
+TRC#034	UR3AFS	Mihail	
+TRC#035	UR5DAW	Igor	
+TRC#036	UY2LA	Alexander	
+TRC#037	UR1YDD	Yuriy	
+TRC#038	UB5BIG	Volodymyr	
+TRC#039	US5WAF	Yaro	
+TRC#040	US5FET	Mykola	
+TRC#041	UR5FHD	Pavel	
+TRC#042	UT0VE	Alexander	
+TRC#043	US2MT	Toly	
+TRC#044	UT5LI	Ivan	
+TRC#045	UT8IBU	Vitaly	
+TRC#046	UX2MS	Alex	
+TRC#047	UT0HB	Slava	
+TRC#048	UY2LA	Alexander	
+TRC#049	US3EW	Vladimir	
+TRC#050	UR5QW	Voldemar	
+TRC#051	UT3UZ	Alex	
+TRC#052	UR4CU	Anatoly	
+TRC#053	US5WAC	Andrey	
+TRC#054	UT7FA	Pavlo	
+TRC#055	UZ1WW	Vladimir	
+TRC#056	UT2IV	Victor	
+TRC#057	UR4MP	Alexander	
+TRC#058	UT3NA	Volodymyr	
+TRC#059	UT3HD	Yuri	
+TRC#060	UR0IG	Ivan	
+TRC#061	UR4MS	Gennadiy	
+TRC#062	UR5LY	Victor	
+TRC#088	UR4HAA	YL Ania	
+TRC#100	UT2HZT	A.R.C. Satellite	
+TRC#101	UR6IHV	Roman	
+TRC#102	CB	Vitally	
+TRC#103	CB	Yura	
+TRC#104	CB	Tom	
+TRC#105	US6UCA	Vlad	
+TRC#112	CB	Vlad	
+TRC#123	UT3IW	Vitaly	
+TRC#200	UZ1HWW	Club - P.S.B.S.	
+TRC#300	UT7AXA	Club	
+TRC#387	CB	Anatoly	
+TRC#529	CB	Vitaly	
+TRC#681	US5ERU	Nick	
+TRC#777	US7IO	Vlad	
+			
+V2 - Antigua - 120			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Lyndon	
+			
+V5 - Namibia - 74			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Mervin	
+TRC#102	CB	Dirk	
+			
+V7 - Marshall   Isl. - 132			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#010	CB	Val	
+TRC#011	CB	Kinja	
+TRC#012	CB	Kintaro	
+			
+VE - Canada - 9			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	VA3MZB	Basil	
+TRC#003	VE9DX	Andy	
+TRC#004	VA2WT	Guy	
+TRC#005	VE3HMK	Mark	
+TRC#006	VE2FK	Claude	
+TRC#007	VE1OP	Scot	
+TRC#008	VE3FAL	Fred	
+TRC#009	VE2GT	Pierre	
+TRC#010	VE2KBS	Dominique	
+TRC#011	VE2UGO	Hugo	
+TRC#012	VE5RH	Richard	
+TRC#013	VA3RGS	Rudy	
+TRC#014	VE1RY	Stan	
+TRC#015	VE2SN	Earl	
+TRC#016	CB	Adrian	
+TRC#101	VE9EZ	John	
+TRC#102	CB	Michel	
+TRC#140	CB	Michel	
+TRC#141	CB	Allison	
+			
+VK - Australia - 43			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	VK7XX	John	
+TRC#003	VK4AFU	Daniel	
+TRC#004	VK2NRB	Bob	
+TRC#005	VK7KT	Doug	
+TRC#006	VK7LDK	Dick	
+TRC#007	VK3LX	Warren	
+TRC#008	VK5CM	Chris	
+TRC#009	VK7TZ	Dick	
+TRC#010	VK3XZ	Michael	
+TRC#027	CB	Jim	
+TRC#036	CB	John	
+TRC#038	CB	Mark	
+TRC#041	CB	Alan	
+TRC#043	CB	Noel	
+TRC#045	CB	Grant	
+TRC#050	CB	Bob	
+TRC#058	CB	Dave	
+TRC#059	CB	Steve	
+TRC#099	CB	Greg	
+TRC#101	CB	Jordan	
+TRC#152	CB	Victor	
+TRC#177	CB	Victor	
+TRC#181	CB	David	
+TRC#229	CB	Peter	
+			
+VU - India - 57			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	VU2UR - S.K.	Arasu	
+TRC#003	VU2LX	Laxman	
+TRC#004	VU2TS	Ganesh	
+TRC#005	VU2MUD	Madhukar	
+TRC#006	VU2PHD	Mathew	
+TRC#007	VU3JHC	Snehasish	
+TRC#008	VU2DSI	Datta	
+TRC#009	VU2CVS	Valluri	
+TRC#010	VU2PLG	Praveen	
+TRC#011	VU2IBI	Kash	
+TRC#012	VU2BGS	Gajendra	
+TRC#013	VU2ZDI	Durgadas	
+TRC#014	VU2MGS	Manorita	
+TRC#015	VU2FR	Frank	
+			
+XE - Mexico - 10			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	XE1AY	Ismael	
+TRC#003	XE2XCX	Joaquin	
+TRC#004	XE1RP	Marco	
+TRC#010	XE3VE	Ricardo	
+TRC#101	CB	Junior	
+TRC#103	XE2XXX	Carlos	
+TRC#104	XE2KBP	Edgar	
+TRC#205	CB	Luis	
+TRC#258	CB	Hugo	
+			
+YB - Indonesia - 91			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	YB3JBJ	Farid	
+TRC#003	YB3XM	Sugiyanto	
+TRC#004	YB0MWM	Hariyanto	
+TRC#005	YB0COU	Lie	
+TRC#006	YG9RGA	Eko	
+TRC#007	YB2EUZ	Dadang	
+TRC#008	YC9WZJ	Joni	
+TRC#009	YD9SOQ	Femmy	
+TRC#010	YF1AR	Budi	
+TRC#011	YD9RWY	Semuel	
+TRC#012	YB8ROP	Ronald	
+TRC#013	YB6DE	Eddy	
+TRC#014	YB1ALL	Agus	
+TRC#015	YB8QF	John	
+TRC#016	YD8MGN	Zulkarnain	
+TRC#017	YD7MHZ	Muhammad	
+TRC#018	YD9SCN	Edi	
+TRC#019	YC9SWW	Jumasman	
+TRC#020	YD6BFI		
+TRC#021	YC0KTS	Anto	
+TRC#022	YC6AM		
+TRC#023	YC6JRT	Ridha	
+TRC#024	YB3IZK	John	
+TRC#025	YC2VOC	Galih	
+TRC#026	YB1ACN	Sandy	
+TRC#027	YC9CT	Tony	
+TRC#028	YB1IM	Iman	
+TRC#029	YD2DSV	Wely	
+TRC#030	YC1BON	Nehroe	
+TRC#031	YB8OUN	Syafyuddin	
+TRC#032	YB2CTE	Ahmad	
+TRC#033	YB1KK	Moh	
+TRC#034	YB9AY	Made	
+TRC#035	YD2DOP	Ary	
+TRC#036	YD1KLX	Heri	
+TRC#037	YD1JXU	Andi	
+TRC#038	YD4RWH	Syahadi	
+TRC#039	YC5NBY	Adel	
+TRC#040	YB3BBF	Bambang	
+TRC#041	YD2AYA	Ibnu	
+TRC#042	YC1JNV	Cucun	
+TRC#044	YD2CKY	Arif	
+TRC#045	YB1COA	Ruddy	
+TRC#046	YD2CZF	Suharyanto	
+TRC#047	YD8AFG	Andi	
+TRC#048	YC1PZ	Phiar	
+TRC#049	YB1JQC	Sandraleka	
+TRC#050	YD1FPC	Handy	
+TRC#051	YD4SIO	Erwin	
+TRC#052	YD2COM	Purwanto	
+TRC#053	YC6SUT	Mas'udy	
+TRC#054	YC4DCE	Harnadi	
+TRC#055	YG3DZU	Rahmad	
+TRC#056	YB1LBW	Irwan	
+TRC#057	YD9KAN	Narain	
+TRC#058	YD3CER	Rudi	
+TRC#059	YD8MABS	Syamsu	
+TRC#060	YG7UAN	Achmad	
+TRC#061	YB1MBA	Anil	
+TRC#062	YD1ISM	Sutikno	
+TRC#063	YD8MUZ	Ismail	
+TRC#064	YF8CKM	Nurdin	
+TRC#065	YD8NEH	Syamsu	
+TRC#066	YD9MBM	Musa	
+TRC#067	YB3BAR	Djoko	
+TRC#068	YC2SPP	Setyawan	
+TRC#069	YC4SIZ	Setio	
+TRC#070	YE3FZR	Rianto	
+TRC#099	YC4VD	Edwin	
+TRC#111	CB	Isfan	
+TRC#191	CB	Bruno	
+TRC#555	CB	Johnny	
+			
+YI - Iraq - 151			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	YI1RZ	Razi	
+			
+YJ -Vanuatu - 197			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#1000	YJ0GC	Stanislav	DX-pedition - 2018
+			
+YL - Latvia - 310			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	YL3ID	Jurijs	
+TRC#003	YL-RS-01	Alex	
+TRC#004	YL2CA	Arnolds	
+TRC#005	YL2TD	Yevgeniy	
+TRC#006	YL2EC	Janis	
+TRC#007	YL3DQ	Normunds	YL5T
+TRC#008	YL2IU	Uldis	
+TRC#009	YL2GQK	Andris	
+TRC#010	YL2GW	Edy	
+TRC#011	YL2CW	Andy	
+TRC#012	YL3FW	Sergei	
+TRC#013	YL3GBC	Arnis	
+TRC#014	YL2HB	Karl	
+TRC#015	YL2AG	Alexandr	
+TRC#016	YL3JD	Hanz	
+TRC#102	CB	Aivars	
+TRC#105	YL3GBF	Janis	
+TRC#125	YL3DR	Aivars	
+			
+YN - Nicaragua - 126			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	YN3ZAV	Alex	
+			
+YO - Romania - 233			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	YO5OAG	Tomo	
+TRC#003	YO5OED	Feri	
+TRC#004	YO3AIS	Nicolae	
+TRC#005	YO6EX	Vasile	
+TRC#006	YO6UO	Denes	
+TRC#007	YO6PJX	Laszlo	
+TRC#008	YO2RR	Nelu	
+TRC#009	YO5PBF	Carol	YR5N
+TRC#010	YO4AAC	George	
+TRC#011	YO2LGV	Carol	
+TRC#012	YO2GL	Daroczi	
+TRC#013	YO5OBA	Adrian	
+TRC#014	YO6DBL	Ionel	
+TRC#015	YO6PZZ	Zoltan	YP6Z
+TRC#016	YO4ASG	Cornel-Emil	
+TRC#017	YO5OHY	Zoli	
+TRC#018	YO5CDF	Diaconu	
+TRC#019	YO7SG	Serge	
+TRC#020	YO9CNU	Florin	
+TRC#021	YO3CZW	Mariusz	
+TRC#022	YO9IAB	Vasile	
+TRC#023	YO2LMW	Dorel	
+TRC#024	YO2LEA	Nelu	
+TRC#025	YO6EZ	Dan	
+TRC#026	YO3IMD	Ilie	
+TRC#027	YO2LDS	Lucian	
+TRC#028	YO2DFA	Ovidiu	
+TRC#029	YO5EI	Horia	
+TRC#031	YO3GH	Dan	
+TRC#032	YO4LHR	Nick	
+TRC#033	YO8RCW	Stefan	
+TRC#034	YO6OGY	Szoke	
+TRC#035	YO2BPZ	Adrian	
+TRC#036	YO9BXE	Ion	
+TRC#037	YO7YO	Maxim	
+TRC#038	YO9RIJ	Petrica	
+TRC#039	YO4SIQ	Valesco	
+TRC#040	YO9GMI	Dorin	
+TRC#041	YO4PX	Francisc	
+TRC#042	YO7ARY	Marcel	
+TRC#043	YO5OAC	Muntean	
+TRC#044	YO3BIZ	Valentin	
+TRC#045	YO8DOH	Stefan	
+TRC#046	YO3FF	Dan	
+TRC#047	YO8SGZ	Ion	
+TRC#048	YO2ZQ	Dan	
+TRC#049	YO7MPI	Artaris	
+TRC#050	YO3FVS	Dan	
+TRC#051	YO9FQT	Marius	
+TRC#052	YO8BSE	Costi	
+TRC#053	YO9IOE	Manole	
+TRC#054	YO6FPW	Lucilius	
+TRC#056	YO3IWZ	Lucian	
+TRC#057	YO8BFB	Viorel	
+TRC#058	YO4BEW	Stefan	
+TRC#059	YO2ADQ	Petre	
+TRC#060	YO3HEX	Gabriel	
+TRC#061	YO7LLH	Viorel	
+TRC#062	YO4RDW	Romeo	
+TRC#063	YO2CEQ	Slobodan	
+TRC#101	CB	Dan	
+TRC#102	CB	Doru	
+TRC#103	CB	Marius	
+TRC#104	CB	Doru	
+			
+YS - El Salvador - 53			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Mauricio	
+TRC#102	CB	Walter	
+TRC#103	CB	Carlos	
+			
+YT - Serbia - 45			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	YT2SMS	Bojan	
+TRC#003	YU1KN	Sasa	
+TRC#004	YT1VPB	Perica	
+TRC#005	YT1MSX	Milos	
+TRC#006	YT3KTT	Branko	
+TRC#007	YT7MBX	Ilija	
+TRC#008	YT5M	Vasa	
+TRC#009	YU1TY	Jubisa	
+TRC#010	YT5FD	Slavko	YT3M
+TRC#011	CB	Zoran	
+TRC#012	YT2ISM	Ismail	
+TRC#013	YT2KID	Dragi	
+TRC#014	YT1E	Rodo	
+TRC#015	YT9A	Boban	
+TRC#016	YU5EQP	Petar	
+TRC#017	YU5T	Zoran	
+TRC#018	YT2AZD	Zika	
+TRC#019	YU1WAT	Vinko	
+TRC#020	YU1DX	Srecko	
+TRC#021	YU1USA	Milan	
+TRC#022	YU1AU	Miki	
+TRC#023	YU1OS	Dusan	
+TRC#024	YU4PEG	Milan	
+TRC#101	CB	Boban	
+TRC#102	4N1FNM	Marjan	
+TRC#305	CB	Niko	
+			
+YV - Venezuela - 5			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	YV8BXN	Ismael	
+TRC#003	YV3EDT	Nelson	
+TRC#004	YV8AD	Rei	
+TRC#005	YV6CA	Carlos	
+TRC#006	YV4MT	Miguel	
+TRC#007	YV5HV	Pedro	
+TRC#008	YV5AJE	Jesus	
+TRC#009	YV1GIY	Carlos	
+TRC#010	YY1ALE	Alejandro	
+TRC#011	YV6BXN		
+TRC#012	YY5AAH	Leonardo	
+TRC#013	YV5MBI	Andres	
+TRC#014	YV5AJI	Edgar	
+TRC#019	CB	Julio	
+TRC#101	CB	Carlos	
+TRC#102	YV1SW	Sixson	
+TRC#103	CB	Victor	
+TRC#106	CB	Ingrid	
+TRC#110	CB	Gabriel	
+TRC#125	CB	Jose	
+			
+Z2 - Zimbabwe - 85			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#101	CB	Dean	
+TRC#102	CB	Lewis	
+TRC#104	CB	Monty	
+			
+Z3 - Macedonia - 332			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	Z35T	Ozren	
+TRC#003	Z33F	Zoki	
+TRC#004	Z39A	Chris	
+TRC#005	Z32M	Mladen	
+TRC#006	Z35W	Zvonko	
+TRC#007	Z36W	Venco	
+			
+Z6 - Rep. of Kosovo - 352			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	Z61DX	Driton	
+TRC#003	Z61AS	Agim	
+			
+ZA - Albania - 251			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ZA1AK	Anila	
+			
+ZB - Gibraltar - 55			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	CB	John	
+TRC#003	CB	Joseph	
+TRC#111	CB	Tony	
+			
+ZL - New Zealand - 41			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ZL3PAH	Phil	ZL3P
+TRC#103	ZL1SW		
+TRC#747	ZL1TTW	Tony	
+			
+ZP - Paraguay - 67			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ZP5AJR	Alfonso	
+TRC#003	ZP5DNB	Angel	
+TRC#101	CB	Carlos	
+TRC#102	CB	Der	
+TRC#103	CB	Alfredo	
+TRC#105	CB	Fabio	
+			
+ZS - South Africa - 44			
+#	Callsign	Name	Contest/Sp. callsign
+TRC#002	ZS5GD	Glenham	
+TRC#003	ZS6PMT	Paul	
+TRC#004	ZS2EC	Theunis	
+TRC#005	ZS6ZA	Etienne	
+TRC#011	CB	Derek	
+TRC#101	CB	Ashley	
+TRC#102	CB	Derek	
+TRC#103	CB	Jean-Pierre	
+TRC#252	CB	Spike	
+			

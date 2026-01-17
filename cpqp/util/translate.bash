@@ -28,7 +28,7 @@ gawk 'BEGIN { FS = "," }
       case "STA": ex = "SPK"; break;
       case "STR": ex = "STS"; break;
       case "BRS": ex = "BRA"; break;
-      case "CHR": ex = "CHU"; break;     
+      case "CHR": ex = "CHU"; break;    
       default: ex = $3; break;
     }
     printf("%s,%s,%s,%s\n", $1, $2, ex, $4);

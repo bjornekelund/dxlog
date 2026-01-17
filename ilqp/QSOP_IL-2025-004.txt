@@ -50,7 +50,7 @@ K9NYO,,,(/P) KANE WILL
 K9NYO/P,,,(/P) KANE WILL
 K9PG,,DUPG,Du Page
 K9PW,,,KANE  2025
-K9RN,Jim,MCHE,McHenry  N7US 
+K9RN,Jim,MCHE,McHenry  N7US
 K9RVE,,,(/P)
 K9UIY,,STEP,Stephenson
 K9WX,,,Mobile

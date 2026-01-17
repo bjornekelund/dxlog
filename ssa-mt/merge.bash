@@ -30,6 +30,6 @@ END {
     grid = (gridlist[c] == "?") ? gridlist[callist[c]] : gridlist[c];
     if (grid != "" && grid != "?" &&
         substr(callist[c],1,1) == "S" && (substr(grid,1,1) == "J" || substr(grid,1,1) == "K"))
-      printf("%s=%s\n", c, grid); 
+      printf("%s=%s\n", c, grid);
   }
 }' MASTER3.txt SSA_special.txt | sort | uniq > _SSA_MT_db.txt

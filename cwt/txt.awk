@@ -14,7 +14,7 @@ BEGIN {
   ID = "";
   if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && (name != "" || OID != ""))
   {
-#    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr";   
+#    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr"; 
     if (1)
     {
       if (ID == "" && call ~ /^3B9/) ID = "3B9";
@@ -147,16 +147,16 @@ BEGIN {
         printf("Exchange is \"%s\" for %s but should probably be \"%s\"\n", OID, call, ID) > "/dev/stderr";
       }
     }
-   
+ 
     if (OID != "")
     {
-      ID = OID;   
+      ID = OID; 
     }
     else if (ID == "" && call != "N4DL")
     {
       printf("Empty member/location for %s\n", call) > "/dev/stderr";
     }
-   
+ 
     idvalid = ID ~ /^(|[1-9][0-9]{0,3}|CWA|[IGF]|3DA|9M[26]|VP2M|[0-9][A-Z]|[A-Z]{1,2}[0-9]?)$/;
     problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
 

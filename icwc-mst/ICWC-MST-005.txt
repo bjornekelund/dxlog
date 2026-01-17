@@ -252,7 +252,7 @@ AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
 AC3RA,RICH,,Pittsburgh PA
 AC3U,Bill,1699,St Marys City MD (W3UL Remote)
-AC4BT,Jerry,1148,Herndon VA 
+AC4BT,Jerry,1148,Herndon VA
 AC4CA,John,650,Fredericksburg TX
 AC4DP,Dave,2793,Newnan GA
 AC4PA,Pavel,GA,Alpharetta GA
@@ -269,7 +269,7 @@ AC6AC,Buz,1911,Topanga CA
 AC6SL,John,CA,Boulder Creek CA
 AC6T,Steve,CA,Santa Barbara CA
 AC6YY,Ned,1244,Santa Clara CA
-AC6ZM,Juan,2419,Loudon TN 
+AC6ZM,Juan,2419,Loudon TN
 AC6ZX,CHARLIE,
 AC7JW,Jason,627,Woods Cross UT
 AC7T,Doug,822,Redmond WA
@@ -2077,7 +2077,7 @@ K5GM,Pete,322,Austin TX
 K5GN,Dave,TX,Houston TX
 K5GO,Stan,272,Harrison AR
 K5GP,Gene,2104,Austin TX
-K5GQ,Mark,672,Houston TX 
+K5GQ,Mark,672,Houston TX
 K5HK,Carl,803,Reno NV
 K5HP,Monk,1717,Wimberley TX
 K5IRH,Tom,LA,Bossier City LA

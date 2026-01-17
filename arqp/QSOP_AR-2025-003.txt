@@ -2,9 +2,9 @@
 # Last Edit,2025-12-28
 # 0-This is helping file, LOG what you copy.
 # 1-Arkansas QSO Party
-# 2-Send new info/corrections DIRECT to ve2fk@arrl.net 			
-# 3-Some info from from ARQP site.			
-# QSOP_AR			
+# 2-Send new info/corrections DIRECT to ve2fk@arrl.net 		
+# 3-Some info from from ARQP site.		
+# QSOP_AR		
 # QSOPARTY AR
 
 # Counties fixed stations
@@ -84,7 +84,7 @@ N5HOG,,HEM,Hempstead,
 N5JE,,CLE,Cleburne,
 N5KW,,,MULTIPE
 N5QJ,,PUL,Pulaski,
-N5QS,,WHI,White N5QS 
+N5QS,,WHI,White N5QS
 N5TTI,,SAL,SALINE,
 N5SAN,,SCO,Scott,
 N5SU,,WAS,Washington,
@@ -114,7 +114,7 @@ WD5R,,CLE,Cleburne,
 WE5V,,WHI,White,
 WQ5T,,WAS,WASHINGTON
 WR5P,,BEN,Benton - BONUS - Noise Blankers Group
-			
+		
 # States out of AR and CDN Prov.
 AA0AC,DAVE,MN,
 AA0AI,STEVE,IA,

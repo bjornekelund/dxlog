@@ -13,18 +13,18 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    if ($3 ~ /Exch1/) exch = 2;
+    if ($4 ~ /Exch1/) exch = 3;
+    if ($5 ~ /Exch1/) exch = 4;
+    printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if ( \
-    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $col ~ /^(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO|QRP|YL|HQ|FRP)$/)
+    $call ~ /^(P[P-Y]|Z[V-Z])[1-9][0-9]{,2}[A-Z]{1,3}(\/(P[TUVY][1-9]|[0-9]))?$/ && \
+    $exch ~ /^(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO|QRP|YL|HQ|FRP)$/)
   {
-    if (lines[$call] != "")
+    if (line[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     else
     {
@@ -57,11 +57,12 @@ BEGIN {
       if ($call ~ /^PU2[K-Y]|^PY2/) guess = "SP";
       if ($call ~ /^PU2[G-J]|^PQ2/) guess = "TO";
 
-      # printf("%s: $col=\"%s\" guess=\"%s\"\n", $call, $col, guess) > "/dev/stderr"
+      # printf("%s: $exch=\"%s\" guess=\"%s\"\n", $call, $exch, guess) > "/dev/stderr"
 
-      if (guess != $col)
+      if (guess != $exch)
       {
-        printf("%s=%s\n", $call, $col);
+        printf("%s=%s\n", $call, $exch);
+        line[$1] = $0;
       }
     }
   }

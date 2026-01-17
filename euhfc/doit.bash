@@ -16,7 +16,7 @@ else
         echo "ERROR! $OUTFILE not present in  $ZIPFILE. Aborting."
         exit 1
     else
-        echo Created $OUTFILE
+        echo Extracted $OUTFILE containing `wc -l < $OUTFILE` lines
         if [ -s ../copytosourcetree.bash ]; then
             ../copytosourcetree.bash $OUTFILE
         fi

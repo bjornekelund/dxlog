@@ -1,6 +1,6 @@
 # HA DX Contest prefill database
 # Based on data maintained by HA2NA ha2na@ha2na.hu
-# Last updated 2026-01-11
+# Last updated 2026-01-17
 HA0AA=HE
 HA0ANA=HB
 HA0BA=HB

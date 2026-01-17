@@ -12,27 +12,23 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    if ($3 ~ /Exch1/) exch = 2;
+    if ($4 ~ /Exch1/) exch = 3;
+    if ($5 ~ /Exch1/) exch = 4;
+    printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if ( \
-    $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-    $col ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/)
+    $call ~ /^([78][J-N]|J[A-S])[0-9]{1,4}[A-Z]{1,5}(\/(QRP|[0-9]))?$/ && \
+    $exch ~ /^(AC|AM|AT|CB|EH|FI|FO|FS|GF|GM|HD|HG|HS|HY|IB|IK|IR|IS|IT|KA|KC|KG|KK|KM|KN|KR|KT|ME|MG|MT|MZ|NI|NM|NN|NR|NS|OG|OH|OM|ON|OS|OT|OY|RM|SB|SC|SG|SI|SN|SO|ST|SY|TC|TG|TK|TS|TT|TY|WK|YG|YM|YN)$/)
   {
-    if (calls[$call] != "")
+    if (line[$call] != "")
     {
-      if (exch[$call] != $col)
-      {
-        printf("Conflict for call %s: %s and %s\n", $call, $col, exch[$call]) > "/dev/stderr";
-      }    
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     else
     {
-      printf("%s=%s\n", toupper($1), toupper($col));
-      calls[$1] = $1;
-      exch[$1] = $col;
+      printf("%s=%s\n", toupper($1), toupper($exch));
+      line[$1] = $0;
     }
   }
   else if ($0 !~ /^(#|!|$)/)

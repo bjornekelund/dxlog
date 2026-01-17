@@ -15,12 +15,15 @@ BEGIN {
     if ($3 ~ /Sect/) sect = 2;
     if ($4 ~ /Sect/) sect = 3;
     if ($5 ~ /Sect/) sect = 4;
-    if ($3 ~ /Misc/) misc = 2;
-    if ($4 ~ /Misc/) misc = 3;
-    if ($5 ~ /Misc/) misc = 4;
-    printf("%s --> call=%d sect=%d, misc=%d\n", $0, call, sect, misc) > "/dev/stderr";
+    if ($3 ~ /Misc/) memb = 2;
+    if ($4 ~ /Misc/) memb = 3;
+    if ($5 ~ /Misc/) memb = 4;
+    printf("%s --> call=%d sect=%d, memb=%d\n", $0, call, sect, memb) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $sect ~ /^(AG|AL|AN|AO|AP|AQ|AR|AT|AV|BA|BG|BI|BL|BN|BO|BR|BS|BT|BZ|CA|CB|CE|CH|CL|CN|CO|CR|CS|CT|CZ|EN|FC|FE|FG|FI|FM|FR|GE|GO|GR|IM|IS|KR|LC|LE|LI|LO|LT|LU|MB|MC|ME|MI|MN|MO|MS|MT|NA|NO|NU|OR|PA|PC|PD|PE|PG|PI|PN|PO|PR|PT|PU|PV|PZ|RA|RC|RE|RG|RI|RM|RN|RO|SA|SI|SO|SP|SR|SS|SU|SV|TA|TE|TN|TO|TP|TR|TS|TV|UD|VA|VB|VC|VE|VI|VR|VT|VV)$/ && $misc ~ /^([0-9]+|)$/)
+  else if ( \
+    $call ~ /^(I[A-Z]?[0-9]\/)?I[A-Z]?[0-9]{1}[A-Z]{1,3}(\/(QRP|[P0-9]|I[A-Z]?[0-9]))?$/ && \
+    $sect ~ /^(FR|LT|PG|RI|RM|TR|VT|AL|AT|BI|CN|GE|IM|NO|SP|SV|TO|VB|VC|BG|BS|CO|CR|LC|LO|MB|MI|MN|PV|SO|VA|BL|PD|RO|TV|VE|VI|VR|BO|FC|FE|MO|PC|PR|RA|RE|RN|AR|FI|GR|LI|LU|MS|PI|PO|PT|SI|AN|AP|AQ|CH|FM|MC|PE|PU|TE|BA|BR|BT|FG|LE|MT|TA|AV|BN|CB|CE|CS|CZ|IS|KR|NA|PZ|RC|SA|VV|BZ|TN|CA|NU|OG|OR|OT|SS|SU|VS|AG|CL|CT|EN|ME|PA|RG|SR|TP|GO|PN|TS|UD|AO|GRI|RSM|SCV|SMM|TI)$/ && \
+    $memb ~ /^([1-9][0-9]{,3}|)$/)
   {
     if (lines[$call] != "")
     {
@@ -28,7 +31,7 @@ BEGIN {
     }
     else
     {
-      printf("%s=%s;%s\n", $call, $sect, $misc);
+      printf("%s=%s;%s\n", $call, $sect, $memb);
       lines[$call] = $0;
     }
   }

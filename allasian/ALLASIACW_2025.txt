@@ -3,7 +3,7 @@
 # ALLASIACW
 # ALLASIASSB
 # LastEdit,2024-10-22
-# 
+#
 # Send new info or corrections direct to ve2fk@arrl.net
 # Thanks to Bjorn SM7IUN for editing file for 2025
 # Updated from log of VE2FK 2024

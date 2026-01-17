@@ -1,2 +1,2 @@
-# 13 Canadian legal provinces and territories 
+# 13 Canadian legal provinces and territories
 ^(AB|BC|MB|NB|NL|NT|NS|NU|ON|PE|QC|SK|YT)$
