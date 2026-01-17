@@ -57,7 +57,7 @@ BEGIN {
       if ($call ~ /^PU2[K-Y]|^PY2/) guess = "SP";
       if ($call ~ /^PU2[G-J]|^PQ2/) guess = "TO";
 
-      # printf("%s: $exch=\"%s\" guess=\"%s\"\n", $call, $exch, guess) > "/dev/stderr"
+      # printf("%s: $exch=\"%s\" guess=\"%s\"\n", $call, $exch, guess) > "/dev/stderr";
 
       if (guess != $exch)
       {
@@ -68,6 +68,6 @@ BEGIN {
   }
   else if ($0 !~ /^(!|#|$)/ && $exch !~ /^(NA|EU|AS|AF|SA)$/)
   {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

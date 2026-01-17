@@ -13,7 +13,7 @@ gawk 'BEGIN { FS = "," }
 {
   if ($3 == "AB")
   {
-    # printf("$1=\"%s\", $2=\"%s\", $3=\"%s\"\n", $1, $2, $3) > "/dev/stderr"
+    # printf("$1=\"%s\", $2=\"%s\", $3=\"%s\"\n", $1, $2, $3) > "/dev/stderr";
     printf("%s=%s\n", $2, $1)
   }
 }' "$INFILE" > $ABFILE

@@ -2,7 +2,7 @@ BEGIN {
   printf("#00 AGCW members prefill database\n");
   printf("#01 Based on official member roster at www.agcw.de\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS = ";"
+  FS = ";";
   max = 0;
 }
 {
@@ -13,7 +13,7 @@ BEGIN {
   }
   else if ($0 !~ /#/ && $0 !~ /SWL/)
   {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

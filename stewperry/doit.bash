@@ -12,7 +12,4 @@ echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
-cd ../tesla
-./doit.bash
-
 exit

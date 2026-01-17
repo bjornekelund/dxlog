@@ -36,7 +36,7 @@ BEGIN {
               sn = (second - 65 + sd + 17) % 17 + 65;
               if (notfirst)
               {
-                gridregex = gridregex "|"
+                gridregex = gridregex "|";
               }
               gridregex  = gridregex sprintf("%c", fn) sprintf("%c", sn);
             }
@@ -71,7 +71,7 @@ BEGIN {
               sn = (second - 65 + sd + 17) % 17 + 65;
               if (notfirst)
               {
-                gridregex = gridregex "|"
+                gridregex = gridregex "|";
               }
               gridregex  = gridregex sprintf("%c", fn) sprintf("%c", sn);
             }

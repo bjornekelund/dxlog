@@ -1,7 +1,7 @@
 # Concurso Municipios Espanoles prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-11
+# Last updated 2026-01-17
 EA1AA=39016
 EA1AAA=27002
 EA1AAP=26036

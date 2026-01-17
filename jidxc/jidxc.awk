@@ -3,7 +3,7 @@ BEGIN {
   printf("#02 Based on data maintained by Claude VE2FK\n");
   printf("#03 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
-  FS = ","
+  FS = ",";
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -31,6 +31,6 @@ BEGIN {
   }
   else if ($0 !~ /^(#|!| *$)/ && $2 != "")
   {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

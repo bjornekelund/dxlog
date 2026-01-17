@@ -10,6 +10,4 @@ gawk -f tesla.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
-../copytosourcetree.bash $OUTFILE
-
 exit

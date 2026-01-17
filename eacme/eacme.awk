@@ -17,7 +17,9 @@ BEGIN {
     if ($5 ~ /Exch1/) exch = 4;
     printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^(HQ|[0-9]{4,5})$/)
+  else if ( \
+    $call ~ /^EA[1-9]\/|^E[ABC][1-9]{1}[A-Z]{1,3}(\/(QRP|[MP0-9]|EA[1-9]))?$/ && \
+    $exch ~ /^(HQ|[0-9]{4,5})$/)
   {
     if (lines[$call] != "")
     {

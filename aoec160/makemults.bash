@@ -19,7 +19,7 @@ BEGIN {
     printf("%s=%s\n", distcode, name);
   }
   else
-    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Skipped: \"%s\"\n", $0) > "/dev/stderr";
 }
 END {
 }' $INFILE > $OUTFILE

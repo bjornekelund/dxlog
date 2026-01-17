@@ -30,7 +30,7 @@ BEGIN {
   {
     if (calls[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr"
+      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     line[$call] = $0;
     calls[$call] = $call;
@@ -68,7 +68,7 @@ BEGIN {
   }
   else if ($0 !~ /^(!|#|$)/)
   {
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr"
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {
