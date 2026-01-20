@@ -8,6 +8,7 @@ BEGIN {
 }
 {
   bad = 0;
+  dupe = 0;
   if ($0 ~ /^(!|#|$)/)
   {
     if ($1 ~ /!!Order!!/)
@@ -32,7 +33,7 @@ BEGIN {
     if (calls[$1] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
-      bad = 1;
+      dupe = 1;
     }
     else if ($nm !~ /^([A-Z][A-Za-z]+)?$/)
     {
@@ -72,15 +73,15 @@ BEGIN {
         printf("Exchange should be: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
     }
-    if (!bad && ($nm != "" || $ex != ""))
+    if (!bad)
     {
       line[$1] = $0;
       calls[$1] = $call;
-      name[$1] = toupper($nm);
-      exchange[$1] = $ex;
+      if ($nm != "") name[$1] = toupper($nm);
+      if ($ex != "") exchange[$1] = $ex;
       longest = length($nm) > length(longest) ? $nm : longest;
     }
-    else
+    else if (!dupe)
     {
       printf("Problem line: \"%s\"\n", $0) > "/dev/stderr";
     }

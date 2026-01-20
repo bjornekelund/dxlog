@@ -31,6 +31,7 @@ DN1VN,Frank
 DC2YY,Markus
 DC8YZ,Michael
 DD1JN,Karsten
+DD1LD,Dzianis
 DD1MAT,Niko
 DD2ML,Ulli
 DD5FZ,Toby
@@ -508,6 +509,8 @@ N0XW,Helmut
 OE2GEN,Gerald
 OE2LCM,Günther
 OE2VEL,Wolfgang
+OE3FTA,Flo
+HB9EUT,Flo
 OE5KKP,Klaus
 DL9KX,Klaus
 OE5OHO,Oliver

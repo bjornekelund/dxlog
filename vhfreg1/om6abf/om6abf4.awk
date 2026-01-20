@@ -1,6 +1,6 @@
 BEGIN {
-  printf("#00 VHF/UHF 4-position grid data base\n");
-  printf("#01 Credits to OM6ABF\n");
+  printf("#00 VHF/UHF 4-position grid prefill data base\n");
+  printf("#01 Based on data maintained by OM6ABF\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = "=";
   ignored = 0;

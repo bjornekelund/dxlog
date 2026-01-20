@@ -1,7 +1,7 @@
 # Winter Field Day prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-11
+# Last updated 2026-01-20
 AA0AJ=1H;MN
 AA0AM=1M;IA
 AA0B=1M;MO
@@ -2479,6 +2479,7 @@ N6HI=1H;AZ
 N6IMY=;SCV
 N6IV=1H;SJV
 N6KM=1O;SDG
+N6N=;SCV
 N6OKU=1H;ORG
 N6OOA=1O;SJV
 N6OWF=;AZ

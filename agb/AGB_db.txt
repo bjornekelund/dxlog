@@ -1,7 +1,7 @@
 # AGB members prefill database
 # Based on data from http://ev5agb.com/club/agb-list.txt
 # Contains members up to #2638
-# Last updated 2026-01-17
+# Last updated 2026-01-20
 2E0DUZ=742
 2E0ERL=708
 2E0FNM=1697
