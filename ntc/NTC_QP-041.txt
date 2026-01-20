@@ -3,7 +3,7 @@
 # Last number listed 295 PA4N
 # NTC_QP
 # Original file from Club list via VE2FK
-# Send any info, corrections direct to pa3hen@gmail.com
+# Send any info, corrections direct to pa3hen@gmail.com	
 # This is helping file, LOG what is sent.
 # Use UDC file NTC_QP by G4OGB
 
@@ -16,7 +16,7 @@ AA2YK,Ernst,255,(NY)
 AE1N,Lane,171,(NH)
 AL3T,Veit,286,
 CT7AUP,David,118,
-CT7BTL,Sint,40,
+CT7BTL,Sint,40, 
 DC8ED,Karl,77,
 DF0VK,Bert,235,
 DF1XC,Doc,279,
@@ -75,7 +75,7 @@ EA7LCY,Javi,269,
 EI9KO,Bob,234,
 ES3KYR,Jos,280,
 F5IYJ,Phil,251,
-F5NLX,Jean,41,(Jean-Marie)
+F5NLX,Jean,41,(Jean-Marie) 
 F6DXE,Dick,219,
 F6JOE,Jean,44,
 F8DTU,Frank,49,
@@ -142,8 +142,8 @@ M0SDB,Danny,254,
 M3F,Mac,36,(G3WZD)
 M3O,Danny,254,(M0SDB)
 MI0TBL,Tim,282,
-N1GKE,Myrt,206,(RI)
-N2JJS,Gio,103,
+N1GKE,Myrt,206,(RI) 
+N2JJS,Gio,103, 
 N4WEN,Carl,135,
 OE3JRC,Hans,14,
 OE6FYG,Herbert,134,
@@ -186,8 +186,8 @@ OV5YL,Joana,278,
 OV1XC,Doc,279,
 PA05NTC,Theo,200, 5 year Anniversary call
 PA0AGF,Remy,131,
-PA0BAK,Ron,9,
-PA0CMU,Carel,76,
+PA0BAK,Ron,9, 
+PA0CMU,Carel,76, 
 PA0GJV,Gerrit,113,
 PA0GRU,Dick,97,
 PA0HRM,Hans,182,
@@ -203,7 +203,7 @@ PA0PJE,Peter,243,
 PA0Q,Hans,14,
 PA0QAW,Jac,177,
 PA0QRB,Harold,95,
-PA0RBA,Rienus,96,
+PA0RBA,Rienus,96, 
 PA0RDT,Roelof,208,
 PA0RRU,Ru,245,
 PA0SIM,Jan,59,
@@ -215,7 +215,7 @@ PA1AT,Ger,198,
 PA1BBO,Bert,92,
 PA1CW,Theo,18,
 PA1DI,Dick,168,
-PA1DMG,Marc,10,
+PA1DMG,Marc,10, 
 PA1MAR,Marcel,6,
 PA1REG,Reg,87,
 PA1SL,Ton,184,
@@ -223,11 +223,11 @@ PA2A,Steve,236,
 PA2DK,Dennis,161,
 PA2DW,Dick,240,
 PA2G,Gerard,30,
-PA2JJB,Jan,24,
+PA2JJB,Jan,24, 
 PA2PCH,Ad,170,
 PA2PWM,Paul,244,
 PA2REH,Eric,194,
-PA2RG,Roel,13,
+PA2RG,Roel,13, 
 PA2SQ,Simon,71,
 PA2WLE, Bert,239,
 PA2V,Peter,129,
@@ -243,7 +243,7 @@ PA3CNI,Willem,54,
 PA3CWG,Ron,192,
 PA3CWQ,Harry,20,
 PA3CXB,Jan,160,
-PA3DAZ,Edu,22,
+PA3DAZ,Edu,22, 
 PA3DBS,Peter,53,
 PA3DSB,Paul,162,
 PA3EEG,Ruud,5,
@@ -255,10 +255,10 @@ PA3FYE,Jacob,55,
 PA3GBK,Aeilko,130,
 PA3GEO,Robert,17,
 PA3GGX,Dick,283,
-PA3GNZ,Gosse,4,(Tjeerd)
+PA3GNZ,Gosse,4,(Tjeerd) 
 PA3GPX,Rene,260,
 PA3GSV,Jan,223,
-PA3GXB,Hans,276,
+PA3GXB,Hans,276, 
 PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
 PA3HK,Henry,126,
@@ -282,10 +282,10 @@ PA6F,Andre,78,
 PA6FBE,Peter,243,(PA0PJE)
 PA6FAP,Peter,243,(PA0PJE)
 PA7DN,Dirk,173,
-PA7F,Frank,181,
+PA7F,Frank,181, 
 PA7JWC,JW,65,(Jan)
 PA7RA,Rien,1,
-PA7RM,Rob,31,
+PA7RM,Rob,31, 
 PA7RW,Rob,277,
 PA8AD,Ad,121,
 PA8MM,Victor,250,
@@ -318,7 +318,7 @@ PE0CD,Chris,163,
 PE1CDA,Peter,167,
 PE1EEC,Martin,214,
 PE1LDS,Ferry,169,
-PE1PYZ,Henk,39,
+PE1PYZ,Henk,39, 
 PE1RCT,Andreas,122,
 PE2A,Frank,21,
 PE2V,Vincent,252,
@@ -327,7 +327,7 @@ PE4BAS,Bas,284,
 PE4KH,Koos,165,
 PE6Q,Ad,121,
 PF40N,Ferry,169,(PE1LDS)
-PF44F,Enno,40,
+PF44F,Enno,40, 
 PF5X,Enno,40,
 PF6NTC,Rien,150,NTC Special Event Call
 PF6SINT,Enno,40,Xmas special call
@@ -338,7 +338,7 @@ PG4I,JO,2,(QSO party manager)
 PG5V,Ger,212,
 PG6F,Dick,97,
 PG6NTC,JO,100,NTC Special Event Call
-PG7R,Ronald,61,
+PG7R,Ronald,61, 
 PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
 S51Z,Zoki,226,(Zoran)
@@ -349,7 +349,7 @@ SM6EWB,Geo,238,
 SM6OEF,Ben,274,(also SC6O)
 SO5CW,Fabian,99,
 SP7N,Piotr,111,
-SP7OGP,Piotr,111,
+SP7OGP,Piotr,111, 
 SP9BRP,Jan,202,
 SP9R,Jan,202,(SP9BRP)
 SQ3RLL,Greg,186,(DL3GJ)
