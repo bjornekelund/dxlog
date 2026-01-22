@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
 # Contains members up to #4462
-# Last updated 2026-01-20
+# Last updated 2026-01-22
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -396,7 +396,6 @@ DJ1AUS=4076
 DJ1BC=824
 DJ1CT=3326
 DJ1DD=3868
-DJ1DH=2188
 DJ1JD=1388
 DJ1KAI=3516
 DJ1KD=3083
