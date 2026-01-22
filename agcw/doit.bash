@@ -23,3 +23,5 @@ else
 fi
 
 exit
+
+https://www.agcw.de/wp-content/persist/Mitglieder.csv

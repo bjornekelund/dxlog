@@ -4,12 +4,23 @@ BEGIN {
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ";";
   max = 0;
+  mem = 1;
+  call = 2;
+  name = 3;
 }
 {
-  if ($2 ~ /^[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && $1 ~ /^[1-9][0-9]*$/)
+  if ($call ~ /^[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && $mem ~ /^[1-9][0-9]*$/)
   {
-    max = ($1 > max) ? $1 : max;
-    printf("%s=%s\n", $2, $1);
+    if (lines[$call] != "")
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else 
+    {
+      max = ($1 > max) ? $1 : max;
+      printf("%s=%s\n", $2, $1);
+      lines[$call] = $0;
+    }
   }
   else if ($0 !~ /#/ && $0 !~ /SWL/)
   {
