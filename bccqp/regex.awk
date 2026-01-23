@@ -7,10 +7,7 @@ BEGIN {
   call = toupper($1)
   if (call ~ /^[0-9,A-Z,\/]+$/)
   {
-    if (first)
-      string = call;
-    else
-      string = string "|" call;
+    string = first ? call : string "|" call;
     first = 0;
   }
 }
@@ -24,9 +21,7 @@ END {
   printf("MULT2_EXCEPTION=!DEST->CALL:^(%s)$;NONE\n\n", string);
 
   printf("# Points calculation. Members are 2 points. Non-members are 1 point.\n");
-  printf("# Member callsigns from https://www.bavarian-contest-club.de as of %s\n", strftime("%Y-%m-%d"));
   printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^DA0BCC$;ALL;ALL;ALL;5\n");
   printf("POINTS_FIELD_BAND_MODE=DEST->CALL:^(%s)$;ALL;ALL;ALL;2\n", string);
   printf("POINTS_FIELD_BAND_MODE=ALL;ALL;ALL;ALL;1\n\n");
-
 }
