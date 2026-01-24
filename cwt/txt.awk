@@ -102,6 +102,7 @@ BEGIN {
       if (ID == "" && call ~ /^UN/) ID = "UN";
       if (ID == "" && call ~ /^U[R-Z]/) ID = "UR";
       if (ID == "" && call ~ /^V3/) ID = "V3";
+      if (ID == "" && call ~ /^V3/) ID = "V3";
 
       if (ID == "" && call ~ /^((V[A-GX]|C[FG])1|CY[09])[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/1$|\/VE1$/) ID = "NS";
       if (ID == "" && call ~ /^(V[A-GX]|X[LM]|C[FG])2[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/2$|\/VE2$/) ID = "QC";
@@ -119,6 +120,7 @@ BEGIN {
 
       if (ID == "" && call ~ /^VK[1-8]/) ID = "VK";
       if (ID == "" && call ~ /^VP2M/) ID = "VP2M";
+      if (ID == "" && call ~ /^VP9|\/VP9$/) ID = "VP2M";
       if (ID == "" && call ~ /^VU/) ID = "VU";
       if (ID == "" && call ~ /^XE/) ID = "XE";
       if (ID == "" && call ~ /^YL/) ID = "YL";

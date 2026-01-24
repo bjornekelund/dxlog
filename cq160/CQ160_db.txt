@@ -1,7 +1,7 @@
 # CQ 160M Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-20
+# Last updated 2026-01-24
 4U1WB=DC
 AA0AI=IA
 AA0AW=MN
@@ -12321,7 +12321,7 @@ WC7Q=WA
 WC7S=WY
 WC7WB=CO
 WC8VOA=OH
-WC9C=IN
+WC9C=WI
 WC9D=VA
 WD0AAD=CO
 WD0ACD=TX
