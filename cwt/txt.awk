@@ -150,9 +150,14 @@ BEGIN {
       }
     }
  
+    # if (OID == ID || OID == "")
+    # {
+    #   ID = ""; # Rule based prefill will handle predictable exchanges
+    # }
+    # else 
     if (OID != "")
     {
-      ID = OID; 
+      ID = OID; # The source file had an exchange, use it
     }
     else if (ID == "" && call != "N4DL")
     {
@@ -160,7 +165,7 @@ BEGIN {
     }
  
     idvalid = ID ~ /^(|[1-9][0-9]{0,3}|CWA|[IGF]|3DA|9M[26]|VP2M|[0-9][A-Z]|[A-Z]{1,2}[0-9]?)$/;
-    problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W)/)
+    problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W|V[A-G])/)
 
     namevalid = name ~ /^[A-Za-z]{1,}$/;
 

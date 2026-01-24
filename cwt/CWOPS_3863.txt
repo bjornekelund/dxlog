@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-01-23
+# LastEdit,2026-01-24
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -4284,7 +4284,7 @@ NA6O,Gary,1345,Livermore CA
 NA6S,Chuck,3465,Oakdale CA
 NA6Z,Don,2727,Hawthorne CA
 NA7C,Ted,1289,Sandy UT
-NA7DO,Aldo,WA,Seattle WA
+NA7DO,Aldo,3863,Seattle WA
 NA8V,Greg,1214,Emmett MI
 NA9L,Vern,IN,Mooresville IN
 NB0Z,James,KS,Atchison KS
