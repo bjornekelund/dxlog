@@ -1,4 +1,4 @@
-# Updated 2026-Jan-17 to HSC 2030 by DJ5CW. Updates to fabian@fkurz.net.
+# Updated 2026-Jan-25 to HSC 2030 by DJ5CW. Updates to fabian@fkurz.net.
 # http://highspeedclub.org/ - This file is always up to date at: https://hsc.dj1yfk.de/db/HSC_db.txt
 4K0CW=1647
 4O4A=1701
@@ -116,7 +116,6 @@ DF5DW=1257
 DF5EN=912
 DF5GD=835
 DF5JT=887
-DF5KR=1148
 DF5LW=1124
 DF5OQ=1565
 DF5PZ=904
@@ -993,7 +992,6 @@ OE6GWG=2012
 OE6IMD=1526
 OE6RDD=1940
 OE6WTD=1865
-OE7PET=1148
 OE7RKH=1067
 OE7TIR=1630
 OE8CWG=1637
