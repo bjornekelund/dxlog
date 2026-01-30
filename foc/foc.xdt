@@ -11,7 +11,6 @@
 4F7OC        2097 Bob (DU7ET)
 4K0CW        2098 Axel (DL6KVA)
 4O3ZZ        1053 Dave (K1ZZ)
-4S7LRG       2114 Mats (RM2D)
 4S7WHG       1513 Phil (G3SWH)
 4U7FOC       1790 Robert (S53R)
 4U8FOC       1790 Robert (S53R)
@@ -74,7 +73,6 @@
 8P9OX        2014 Bob (GU4YOX)
 8P9PE        2179 Rudi (DK7PE)
 8P9XA        1500 Alan (G3XAQ)
-8Q7MS        2114 Mats (RM2D)
 8Q7RN        2000 John (G4IRN)
 8Q7WH        1513 Phil (G3SWH)
 9G5FD        1805 Don (G3XTT)
@@ -86,7 +84,6 @@
 9G5ZM        1670 Bob (5B4AGN)
 9G5ZZ        2070 Arno (DL1CW)
 9H3AB        1987 Andrzej (SP4R)
-9H3FX        2100 Kurt (DF4XX)
 9H3TF        1266 Nigel (OE5TXF)
 9H3YY        2192 Rene (DL2JRM)
 9H3ZV        1564 Andy (5Z4VJ)
@@ -112,7 +109,6 @@ AA1TR        1547 Petr (OK1CZ)
 AA3B         1921 Bud
 AB4I         2240 Steve
 AC4RO        1567 Holger (DK4LX)
-AC4TT        1767 Norm (W1MO)
 AC5K         1662 Wes
 AC6YM        1833 Gerd (DJ4KW)
 AD5A         2096 Mike
@@ -143,7 +139,6 @@ AX6GC        2040 Phil (VK6GX)
 AX6LW        1492 Kevin (VK6LW)
 AX6VZ        1693 Steve (VK6VZ)
 AY6EF        1762 Raul (LU6EF)
-BD7NN        2114 Mats (RM2D)
 BV7YA        2052 Motoaki (JA1GZV)
 BV7YA/8      2052 Motoaki (JA1GZV)
 BW/JA1GZV    2052 Motoaki (JA1GZV)
@@ -186,7 +181,6 @@ DF0HSC       1796 Fabian (DJ5CW)
 DF20006WM    1708 Baldur (DJ6SI)
 DF2IC        1624 Greg
 DF4BV        1904 Heinz
-DF4XX        2100 Kurt
 DJ1YFK       1796 Fabian (DJ5CW)
 DJ4KW        1833 Gerd
 DJ5CW        1796 Fabian
@@ -354,7 +348,6 @@ G4PCE        2236 Richard
 G4RCG        1899 John
 G4RMV        1649 Mike
 G4RWD        2129 Ken
-G4SPY        1587 Arnold
 G4WQI        2107 Dean
 G4ZVJ        1564 Andy (5Z4VJ)
 G5AZI        1159 Pete (W1RM)
@@ -472,7 +465,6 @@ GQ4PCE       2236 Richard (G4PCE)
 GQ4RCG       1899 John (G4RCG)
 GQ4RMV       1649 Mike (G4RMV)
 GQ4RWD       2129 Ken (G4RWD)
-GQ4SPY       1587 Arnold (G4SPY)
 GQ4WQI       2107 Dean (G4WQI)
 GQ4YOX       2014 Bob (GU4YOX)
 GQ4ZUK       2201 Allan (GM4ZUK)
@@ -499,7 +491,6 @@ GX4GA        2000 John (G4IRN)
 H40D         1994 Cezar (VE3LYC)
 H44MA        2169 Allan (VK2GR)
 HA3PI        2010 Pista (VE3USP)
-HA9RT        2033 Joska
 HB88YL       2026 Tina (DL5YL)
 HB9QO        1408 Bruno
 HK3CQ        2247 Juan
@@ -534,12 +525,10 @@ J88XF        1266 Nigel (OE5TXF)
 JA1GZV       2052 Motoaki
 JA1GZV/6     2052 Motoaki (JA1GZV)
 JA1KIH       2237 Takao
-JA5DQH       1541 Aki
 JE1TRV       1959 Atsu (JS2AHG)
 JH1GNU       2231 Shige
 JS2AHG       1959 Atsu
 JS6UKY       2052 Motoaki (JA1GZV)
-JT4RR        2114 Mats (RM2D)
 JW5HE         494 Rag (LA5HE)
 JW7GIA       2161 Kenneth (LA7GIA)
 JW9SN        2225 Harald (OZ8X)
@@ -548,7 +537,6 @@ JX9SN        2225 Harald (OZ8X)
 K0PFX        1916 Mel
 K0T          1177 Tom (K3TW)
 K0VBU        1979 Bill
-K0VXU        2047 Russ
 K0XX         2061 John (W4BR)
 K1AJ         1635 Bruce
 K1AR         1528 John
@@ -572,7 +560,6 @@ K2RSK        2011 Peter
 K2SG         1494 Tony
 K2SX         1599 Dennis
 K2TT          675 Bill
-K2UFT        1721 Dick
 K2UV         1915 Warren
 K2YWE        2076 Dan
 K2ZR         1694 Dick
@@ -582,9 +569,7 @@ K3K          1177 Tom (K3TW)
 K3LR         2139 Tim
 K3LU         2133 Ulis
 K3MD         2092 John
-K3NA         1842 Eric
 K3PA         2159 Drew
-K3TF         2030 Tom
 K3TW         1177 Tom
 K3UL         2197 Robert
 K3WW         2117 Chas
@@ -602,17 +587,14 @@ K5AX         1697 Tom
 K5DU         2152 Susan
 K5EX         1907 Ben
 K5FOC        1761 Art (KZ5D)
-K5FP         1990 Fred
 K5KG         2122 George
 K5KV         2043 Benny
 K5LY         2062 Lee
 K5OT         2059 Larry
-K5RUO        2105 Ken (K5WK)
 K5TF         2003 Dick
 K5UBL        1948 Curt (N5CW)
 K5VR         2077 Stan
 K5VWW        2082 Orville
-K5WK         2105 Ken
 K5XK         1641 Ron
 K6AR         1942 Jim
 K6BWP        1746 Fred (G4BWP)
@@ -646,9 +628,7 @@ KF3B         1776 Alan
 KF7E         1726 Jim
 KF7WX        2241 Chris
 KG4ZK        1700 Don (W4ZYT)
-KH6FOC       1541 Aki (JA5DQH)
 KH6LC        1985 Lloyd
-KH7A         1541 Aki (JA5DQH)
 KH7M         2196 Fred (NA2U)
 KJ9I         1920 Dave
 KM4FOC       2025 Robert (WA1FCN)
@@ -784,12 +764,10 @@ N5KD         1864 Pete
 N5RZ         2138 Gator
 N5TJ         2194 Jeff
 N5TOO        2212 Van
-N5TP         1234 Pete
 N5XE         2193 Carl
 N5XZ         1953 Allen
 N6FOC        1563 Bob (W6RGG)
 N6NT         1669 Bruce
-N6SW         2105 Ken (K5WK)
 N6TT         2004 Steven
 N6XI         1765 Rick
 N7XU         1268 Dick (K4XU)
@@ -800,11 +778,9 @@ N9RV         1830 Pat
 NA2U         2196 Fred
 NA5G         1970 Ed
 NA6M         2046 Mark
-ND4AA        1767 Norm (W1MO)
 ND9M         1872 Jim
 NE6LE        1268 Dick (K4XU)
 NF2RS        1694 Dick (K2ZR)
-NG4Z         1721 Dick (K2UFT)
 NI4E         2170 Eric
 NK1G         1805 Don (G3XTT)
 NM5M         2121 Eric
@@ -916,8 +892,6 @@ PZ4TT        1740 Yuri (VE3DZ)
 PZ5KV        2098 Axel (DL6KVA)
 PZ5T         1740 Yuri (VE3DZ)
 R7KZ         1621 Stan
-RM2D         2114 Mats
-RM2D/PP5WX   2114 Mats (RM2D)
 RX6CB        2051 Eduard (SV2TCY)
 S20A         1122 Tine (S50A)
 S21VJ        1564 Andy (5Z4VJ)
@@ -934,8 +908,6 @@ SC80FOC      2084 Jim (SM2EKM)
 SD1A         2021 Eric (SM1TDE)
 SE80TG       2021 Eric (SM1TDE)
 SG3TXF       1266 Nigel (OE5TXF)
-SJ6R         2114 Mats (RM2D)
-SK6X         2114 Mats (RM2D)
 SM1CEW       2145 Peter (SM2CEW)
 SM1TDE       2021 Eric
 SM2CEW       2145 Peter
@@ -948,9 +920,7 @@ SM5GLC       1418 Lasse
 SM6BGA       1484 Hans
 SM6CPY       1571 Carl
 SM6CUK        935 Lars
-SM6DHU       1610 Matt
 SM6F          935 Lars (SM6CUK)
-SM6LRR       2114 Mats (RM2D)
 SM7RME       2206 Thor
 SM7YIN       1860 Ingvar
 SO3RM        2192 Rene (DL2JRM)
@@ -969,7 +939,6 @@ T6A          1790 Robert (S53R)
 T6AA         1790 Robert (S53R)
 T88MZ        2179 Rudi (DK7PE)
 TF/LA9SN     2225 Harald (OZ8X)
-TF2WJQ       2105 Ken (K5WK)
 TF3DC        2009 Oskar
 TF3FOC       2009 Oskar (TF3DC)
 TI5/N3KS     1928 Kam (N3KS)
@@ -1091,7 +1060,6 @@ VQ5FOC       1104 Jim (W9VNE)
 VQ917JC      1872 Jim (ND9M)
 VQ9ET        2097 Bob (DU7ET)
 VQ9T         2097 Bob (DU7ET)
-VQ9TP        1234 Pete (N5TP)
 VU2PTT       1972 Prasad
 VU2TJW       1177 Tom (K3TW)
 VU3KIE       1557 Jorma (OH2KI)
@@ -1131,9 +1099,7 @@ W1EBM        1966 Gary
 W1FJ         1532 Al
 W1FOC        1635 Bruce (K1AJ)
 W1GF         2181 Greg
-W1HT          774 Ralph
 W1JR         1806 Joe
-W1MO         1767 Norm
 W1RAN         779 Ned
 W1RM         1159 Pete
 W1UU          806 Peter
@@ -1165,7 +1131,6 @@ W4NO         1494 Tony (K2SG)
 W4PID        2198 Dick
 W4PM         1687 Puck
 W4TJE        2118 Jack
-W4UHI        2105 Ken (K5WK)
 W4YE         1217 Buddy
 W4YZC        1217 Buddy (W4YE)
 W4ZYT        1700 Don
@@ -1185,12 +1150,9 @@ W8GD         2032 Den (W0JX)
 W8KJP        1665 Del
 W8KR         2134 Jack
 W8SR         2141 Dave (VE3KG)
-W8ZR         2056 Jim
 W9KNI        1262 Bob
-W9MYD        2105 Ken (K5WK)
 W9SN         2186 Steve
 W9VNE        1104 Jim
-W9YXX        2039 Bob
 WA1FCN       2025 Robert
 WA1FOC       1889 Bernie (K1SA)
 WA1G         1635 Bruce (K1AJ)
@@ -1228,14 +1190,11 @@ XT2WP        1746 Fred (G4BWP)
 XU7AAV       1564 Andy (5Z4VJ)
 XU7ABC       1500 Alan (G3XAQ)
 XV/JA1GZV    2052 Motoaki (JA1GZV)
-XV9D         2114 Mats (RM2D)
 XV9YM        2238 Andy (DL3YM)
 XW2A         1564 Andy (5Z4VJ)
 XX9MF        1634 Mike (KC7V)
 XX9TXF       1266 Nigel (OE5TXF)
 Y62QH        1582 Joe (DL4CF)
-YB0LRR       2114 Mats (RM2D)
-YB0LRR/1     2114 Mats (RM2D)
 YJ0MXJ        744 Den (F5VHY)
 YJ0TXF       1266 Nigel (OE5TXF)
 YN2GM        1430 Rob (GM3YTS)
@@ -1266,7 +1225,6 @@ ZF2LF        1741 Lee (KY7M)
 ZF2MF/4X     1634 Mike (KC7V)
 ZF2NT        1669 Bruce (N6NT)
 ZF2PE        2179 Rudi (DK7PE)
-ZF2SY        1721 Dick (K2UFT)
 ZF8BS        1669 Bruce (N6NT)
 ZK1GGR       2169 Allan (VK2GR)
 ZK2A         2225 Harald (OZ8X)

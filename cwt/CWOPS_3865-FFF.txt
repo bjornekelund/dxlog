@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-01-27
+# LastEdit,2026-01-29
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -524,6 +524,7 @@ CX7TT,Tom,518,Rocha Uruguay
 D4NA,Timo,2967,(OH1NOA)
 D4Z,Phil,1354,(HB9ARF)
 DA0BCC,Mario,,Bavarian Contest Club Germany
+DA1DX,Ben,3858,
 DA2KT,Kat,,KE8LQR at DA2KT
 DB7AL,Andy,,Dreieich Germany
 DC1YY,Reini,,Munich Germany
@@ -2480,7 +2481,7 @@ K9KSG,Junior,IL,Bourbonnais IL
 K9LA,Carl,920,Fort Wayne IN
 K9LPX,Jerome,WI,Washburn WI
 K9LZJ,Hank,IN,Indianapolis IN
-K9MA,ALEX,1385,(SCOTT) Madison WI
+K9MA,Scott,1385,Madison WI
 K9MM,John,120,Prospect Heights IL
 K9MMS,Gary,277,St-Charles IL
 K9MQ,Mark,IN,St John IN
@@ -2689,6 +2690,7 @@ KC1SA,Steve,CT,Wallingford CT
 KC1SDD,Devon,3768,(VE9ENT)  Amesbury MA
 KC1TNO,Luka,MA,Mendon MA
 KC1TQW,Nik,MA,Medway MA
+KC1UEK,Ben,ME,
 KC2EGL,Mike,PA,Brookville PA
 KC2H,Jim,CA
 KC2IGE,Matt,NY,Massapequa Park NY
@@ -4394,6 +4396,7 @@ NJ1F,Brian,2029,Saratoga Springs NY
 NJ1T,Doug,MA,Pittsfield MA
 NJ2OM,Mike,NJ, Hackettstown NJ
 NJ3K,Bruce,2431,Port Allegany PA
+N8W,BRUCE,2431,(NJ3K)
 NJ4P,Ace,TN,Savannah TN
 NJ4Q,Will,2374,Lynchburg VA
 NJ4V,Dan,2395,Evans GA
@@ -4488,6 +4491,7 @@ NR4A,Sam,3095,Spring Hill FL
 NR4M,Steve,993,Locust Grove VA
 NR4N,Angel,VA,Manassas VA
 NR5W,Doug,2722,Seattle WA
+NR7R,MARK,WA,
 NS0R,MO,1264,(Morgan) Topeka KS
 NS1DX,Gerry,191,(W1VE)
 NS3C,Dick,1807,Los Angeles CA 
@@ -5610,6 +5614,7 @@ W0BV,Bob,753,Buena Vista CO
 W0CAR,John,3153,Englewood CO
 W0CCA,Cap,CO,(1381) Dolores CO
 W0CD,Jim,KS,Ozawkie KS
+W0CKI,Gary,CO,Westminister
 W0CO,Brad,1452,Pitkin CO
 W0CP,Walt,1752,Englewood CO
 W0CWO,,,Dakota CWops Club (Chanhassen MN)
@@ -6275,6 +6280,7 @@ W8HW,Bruce,958,Port Saint Lucie FL
 W8IQ,Kurt,755,Toledo OH
 W8JGU,Bill,OH,Hudson OH
 W8JJ,Tim,2970,Grand Blanc MI
+W8JH,Joe,AZ
 W8JLT,Joh,MI,Harrison MI
 W8JPF,Joe,OH,Columbus OH
 W8JWN,Tom,MI,Iron Mountain MI
@@ -6487,6 +6493,7 @@ WA6SVX,Mike,2692,Long Beach CA
 WA6URY,Dan,1176,Bellflower CA
 WA6UYO,Wayne,TX,Round Rock TX
 WA7AN,DAN,2904,MESA AZ
+WA7BEN,BEN,WA,
 WA7BME,Ron,UT,Moab UT
 WA7BNM,Bruce,CA,Studio City CA
 WA7CPA,Robin,3004,Woodinville WA
@@ -6533,6 +6540,7 @@ WB0RUR,Gary,AZ,Fayetteville AZ
 WB0SND,Mike,1469,De Soto MO
 WB0TUA,Derek,MO,Creve Coeur MO
 WB0U,Len,MN,Rochester MN
+WB0ZJJ,ALAN,FL,
 WB1KE,Loren,UT,Orem UT
 WB1LLY,Billy,GA,(2851) Register GA
 WB2AA,Alex,NJ,Tenafly NJ
@@ -6826,6 +6834,7 @@ WW2I,Peter,3561,Pittstown NJ
 WW2Y,Peter,NJ,Belle Mead NJ
 WW3S,Jim,2775,(Jamie) Meadville PA
 WW4N,Tony,TN,Oak Ridge TN
+WW4B,Glenn,FL,Trenton FL
 WW4R,Don,TN,(N4ZZ)  Knob Hill Contest Group TN
 WW4SF,FOX,SC,Swamp Fox Contest Group SC
 WW4XX,Alex,GA,Emor Contest Club GA
