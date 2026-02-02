@@ -1,5 +1,5 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-01-14
+# Last edit,2026-01-31
 # Last number listed 295 PA4N
 # NTC_QP
 # Original file from Club list via VE2FK

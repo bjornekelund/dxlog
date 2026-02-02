@@ -1,11 +1,11 @@
 #!/bin/bash
-INFILE=`ls NTC-* | tail -1 2> /dev/null`
-OUTFILE=NTC_db.txt
+INFILE=`ls XERTTY* | tail -1 2> /dev/null`
+OUTFILE=XE_RTTY_db.txt
 
 echo Parsing $INFILE
 dos2unix -q $INFILE
 
-tr -d ' ' < $INFILE | gawk -f ntc.awk | sort | sed 's/^\#0. /\# /g' > $OUTFILE
+gawk -f xertty.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE

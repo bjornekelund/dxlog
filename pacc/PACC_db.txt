@@ -1,7 +1,7 @@
 # PACC prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-17
+# Last updated 2026-02-02
 PA0AA=UT
 PA0AAC=LB
 PA0AAH=NB
@@ -13359,7 +13359,7 @@ PI4VLI=ZL
 PI4VNW=ZH
 PI4VPO=ZH
 PI4VRI=NB
-PI4W=ZH
+PI4W=LB
 PI4WAL=ZL
 PI4WFL=NH
 PI4WLD=NH

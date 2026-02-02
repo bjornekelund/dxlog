@@ -1,0 +1,32 @@
+AGS,Aguascalientes
+BC,Baja California
+BCS,Baja California Sur
+CAM,Campeche
+CHS,Chiapas
+CHH,Chihuahua
+COA,Coahuila
+COL,Colima
+CDMX,Ciudad de México
+EMX,Estado de México
+DGO,Durango
+GTO,Guanajuato
+GRO,Guerrero
+HGO,Hidalgo
+JAL,Jalisco
+MIC,Michoacán
+MOR,Morelos
+NAY,Nayarit
+NL,Nuevo León
+OAX,Oaxaca
+PUE,Puebla
+QRO,Querétaro
+QTR,Quintana Roo
+SLP,San Luis Potosí
+SIN,Sinaloa
+SON,Sonora
+TAB,Tabasco
+TMS,Tamaulipas
+TLX,Tlaxcala
+VER,Veracruz
+YUC,Yucatán
+ZAC,Zacatecas
