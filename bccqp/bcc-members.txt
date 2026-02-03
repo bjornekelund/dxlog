@@ -230,7 +230,6 @@ DK8MM,Mark
 K1XAQ,Mark
 DN4MM,Mark
 DK8MZ,Wolfgang
-DK8NT,Gerd
 DK9BM,Mike
 DK9IP,Winfried
 DK9OV,Roland

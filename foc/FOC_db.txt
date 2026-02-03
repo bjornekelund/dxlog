@@ -1,4 +1,4 @@
-# Updated up to FOC #2257 - G0AYN. Updates to fabian@fkurz.net.
+# Updated up to FOC #2258 - EA5C. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -231,6 +231,7 @@ E51BUO=Dave;1486
 E51LYC=Cezar;1994
 EA2AJB=Andres;2153
 EA4BB=Nando;2054
+EA5C=Fer;2258
 EA6BF=Josep;2182
 EA6EJ=Ini;2209
 EA8BH=Martti;2226
@@ -733,7 +734,6 @@ N1TO=Ed;2164
 N2ATB=Tony;1951
 N2BB=Bob;1914
 N2FME=Michele;2217
-N2KW=Allen;2115
 N2NA=Ric;1894
 N2NL=David;2050
 N2NT=Andy;1706
@@ -1105,7 +1105,6 @@ W1RAN=Ned;779
 W1RM=Pete;1159
 W1UU=Peter;806
 W1ZT=George;1873
-W2FOC=Allen;2115
 W2GD=John;2130
 W2MV=Alan;2031
 W2PTT=Prasad;1972
@@ -1246,7 +1245,6 @@ ZS1C=Raoul;2012
 ZS1EL=Vidi;658
 ZS1RBN=Phil;1513
 ZS6FOC=Den;744
-xAA2A=Allen;2115
 xGB2NZ=Don;2006
 xGS8VL=Drew;1926
 xGU5LOW=Enzo;2213
