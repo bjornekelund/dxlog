@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls EU_DXC* | tail -1 2> /dev/null`
+INFILE=`ls EUDXC-* | tail -1 2> /dev/null`
 OUTFILE=EUDXC_db.txt
 
 echo Parsing $INFILE

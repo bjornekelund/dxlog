@@ -44,7 +44,7 @@ BEGIN {
       longest = length($name) > length(longest) ? $name : longest;
     }
   }
-  else if ($0 !~ /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/ && $call !~ /\/(AIT|ANO|BEC|BEL|BEN|BIG|BLU|BRO|CAS|CHP|CHS|CLA|CLE|COO|COT|CRL|CRO|CRV|DAK|DOD|DOU|FAI|FIL|FRE|GOO|GRA|HEN|HOU|HUB|ISA|ITA|JAC|KIT|KNB|KND|KOO|LAC|LAK|LES|LIN|LKW|LYO|MAH|MCL|MEE|MIL|MOR|MOW|MRS|MRT|MUR|NIC|NOB|NOR|OLM|OTT|PEN|PIN|PIP|POL|POP|RAM|RDL|RDW|REN|RIC|ROC|ROS|SCO|SHE|SIB|STE|STL|STR|STV|SWI|TOD|TRA|WAB|WAD|WAT|WIL|WIN|WRI|WSC|WSH|YEL)$/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

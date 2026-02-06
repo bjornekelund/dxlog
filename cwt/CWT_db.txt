@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3868
-# Last updated 2026-02-03
+# Contains members up to #3871
+# Last updated 2026-02-06
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -968,6 +968,7 @@ F6GPT=John;F
 F6HKA=Bert;1088
 F6ICA=Jean;F
 F6IRE=Charles;F
+F6IRF=Pat;F
 F6IRO=Chris;F
 F6JOE=Jean;1091
 F6KRK=Fran;F
@@ -1357,6 +1358,7 @@ IT9GSF=Fabio;3796
 IT9IML=Rosario;I
 IT9KCD=Gae;3653
 IT9MUO=Alf;1569
+IT9ORA=Gianni;3870
 IT9RZU=Joe;I
 IT9SSI=Dario;2137
 IT9VDQ=Giu;1538
@@ -1763,8 +1765,7 @@ K2PO=Bill;OR
 K2PS=Pete;FL
 K2QB=Jim;935
 K2QBN=Evan;FL
-K2QO=Mark;NY
-K2QO=Mark;NY
+K2QO=Mark;573
 K2RB=Rick;CT
 K2RD=Ira;63
 K2RP=Ron;CA
@@ -1957,7 +1958,7 @@ K4HQK=John;894
 K4HR=Davy;1494
 K4IA=Craig;2073
 K4IG=John;SC
-K4IN=Dennis;FL
+K4IN=Den;FL
 K4ITV=Chas;1312
 K4IU=Fred;507
 K4IWW=Will;NC
@@ -2527,7 +2528,7 @@ K9XV=Tom;FL
 K9XW=John;2807
 K9YC=Jim;CA
 K9YII=Fred;IL
-K9ZMU=Kent;WI
+K9ZMU=Kent;NY
 K9ZTV=Kent;676
 KA0AAM=Dwayne;1497
 KA0PQW=Matt;3377
@@ -4534,6 +4535,7 @@ NW3Y/1=CC;2185
 NW3Y=CC;2185
 NW4V=Ed;348
 NW6P=Tom;CA
+NW6V=Chris;3871
 NX1K=Mark;MA
 NX3T=Martin;PA
 NX3V=Fred;PA
@@ -6325,7 +6327,7 @@ W9CSX=Tom;IN
 W9CWO=Fred;1881
 W9DCA=Dave;IL
 W9EBE=Chip;1906
-W9EN=John;AZ
+W9EN=John;3869
 W9EO=Eric;1894
 W9FHA=John;IN
 W9FML=Carrie;WI
