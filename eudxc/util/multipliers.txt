@@ -27,7 +27,7 @@ BG03=Severoiztochen
 BG04=Yugoiztochen
 BG05=Yugozapaden
 BG06=Yuzhen tsentralen
-CZECH=REPUBLIC
+# CZECH REPUBLIC
 CZ01=Prague
 CZ02=South Bohemia
 CZ03=South Moravia
@@ -60,7 +60,6 @@ DK02=Region Midtjylland
 DK03=Region Nordjylland
 DK04=Region Sjælland
 DK05=Region Syddanmark
-DK06=Overseas Countries and Territories (1)
 # ESTONIA
 EE01=Northern Estonia (Harju County)
 EE02=Western Estonia (Hiiu County, Lääne County, Pärnu County, Saare County)
@@ -195,7 +194,7 @@ MT02=Gozo Region
 MT03=Northern Region
 MT04=South Eastern Region
 MT05=Southern Region
-THE=NETHERLANDS
+# THE NETHERLANDS
 NL01=Drenthe
 NL02=Flevoland
 NL03=Friesland

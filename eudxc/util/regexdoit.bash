@@ -13,7 +13,7 @@ BEGIN {
   notfirst = 0;
 }
 {
-  if ($2 != "")
+  if ($1 ~ /^[A-Z]{2}[0-9]{2}$/)
   {
     if (notfirst) printf("|");
     notfirst = 1;

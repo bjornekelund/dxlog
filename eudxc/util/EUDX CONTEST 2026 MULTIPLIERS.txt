@@ -60,7 +60,6 @@ DK02	Region Midtjylland
 DK03	Region Nordjylland
 DK04	Region Sjælland
 DK05	Region Syddanmark
-DK06	Overseas Countries and Territories (1)
 ESTONIA
 EE01	Northern Estonia (Harju County)
 EE02	Western Estonia (Hiiu County, Lääne County, Pärnu County, Saare County)
