@@ -163,6 +163,8 @@ DK1AX,Klaus
 DK1DSA,Ralf
 DK1FT,Eduard
 DK1FW,Wolf
+DK1HJG,Hans
+DA2R,Hans
 DK1IP,Wolf
 DK1KC,Michael
 DK1MFI,Ingo
@@ -230,6 +232,11 @@ DK8MM,Mark
 K1XAQ,Mark
 DN4MM,Mark
 DK8MZ,Wolfgang
+DK8RE,Hans
+DL0BRA,Hans
+DL0MUE,Hans
+SO1RE,Hans
+OK8RE,Hans
 DK9BM,Mike
 DK9IP,Winfried
 DK9OV,Roland

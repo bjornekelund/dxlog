@@ -9,6 +9,8 @@
 # 6-Thanks to SM7IUN for keeping an eye out for errors
 # 7-K1USN CW Slow Speed (ConTest) friday/sunday night 
 # K1USNSST
+
+XM2X,DUB,QC,
 2E0GKC,PAUL,DX,Osfordshie England
 2E0IIV,STEVE,DX,Chester England
 2E0PKK,PAUL,DX,Southampton England
