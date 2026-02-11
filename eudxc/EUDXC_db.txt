@@ -1,10 +1,9 @@
 # Call history file for EU_DXC Contest
 # From raw and final score of 2025 Contest by OK1FIK
-# LastEdit,2026-02-05
+# LastEdit,2026-02-10
 # Send new info or corrections DIRECT  to ok1fik@atlas.cz
 # Update sent also to ve2fk@arrl.net
 # Thanks SM7IUN for his help
-# EU_DXC
 # EUDXC 
 3Z9V=PL03
 4U13FEB=IT03
