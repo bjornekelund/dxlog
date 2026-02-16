@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3872
-# Last updated 2026-02-11
+# Contains members up to #3873
+# Last updated 2026-02-16
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -550,6 +550,7 @@ DF5EG=Joe;2687
 DF5RF=Gernot;DL
 DF5RI=Laft;DL
 DF6FQ=Juergen;DL
+DF6JCJORG=DL;DL
 DF6RI=Alfred;DL
 DF7C=Chris;3484
 DF7CB=Chris;3484
@@ -848,7 +849,7 @@ EA6UP=Migueel;EA6
 EA7/LZ1ZF=Gosho;EA
 EA7/VE3NZ=Ben;EA
 EA7AM=Pedro;EA
-EA7EGU=Manuel;2505
+EA7EGU=Manu;2505
 EA7JW=David;1933
 EA8/DH2MS=Manfred;EA8
 EA8/S53R=Rob;492
@@ -1975,6 +1976,7 @@ K4KO=Greg;2814
 K4KRW=Rich;SC
 K4KSR=Bill;VA
 K4KVC=Ken;FL
+K4KYN=Jeff;TN
 K4KZ=Lon;NC
 K4LFL=Mark;3491
 K4LW=Bob;2717
@@ -2685,6 +2687,7 @@ KC1KUG=Bray;NH
 KC1RL=Ric;MA
 KC1SA=Steve;CT
 KC1SDD=Devon;3768
+KC1SQ=Todd;MW
 KC1TNO=Luka;MA
 KC1TQW=Nik;MA
 KC1UEK=Ben;ME
@@ -2867,7 +2870,7 @@ KE6MT=Rex;CA
 KE6OIO=Ann;CA
 KE6PY=Steve;3179
 KE6YLH=Jeff;CA
-KE7IR=Patti;CWA
+KE7IR=Patti;3873
 KE7LOY=Brian;ID
 KE7MPO=Geo;3330
 KE7UAE=Paul;3515
@@ -3906,7 +3909,7 @@ N4TY=Ty;501
 N4UB=Don;GA
 N4UC=Art;858
 N4UCM=Doug;2920
-N4UL=Vernon;3866
+N4UL=Vern;3866
 N4UM=Tim;FL
 N4UP=Peter;1228
 N4UU=;FL
@@ -4434,7 +4437,7 @@ NN2DX=Bray;NY
 NN2L=Chuck;3231
 NN2NN=Steve;NY
 NN3E=Kevin;3822
-NN3Q=Russ;3593
+NN3Q=Russ;PA
 NN3W=Rich;VA
 NN4K=Mac;1227
 NN4NT=Rob;AL
@@ -5100,6 +5103,7 @@ SP9MUF=Piotr;3762
 SP9OGP=Piotr;3147
 SP9R=Jan;SP
 SP9RXP=Peter;SP
+SP9TKW=Marek;SP
 SP9WAA=Rysard;3818
 SQ1WO=Wojtek;SP
 SQ2HZ=Andy;3813
@@ -5677,6 +5681,7 @@ W1AL=Scott;FL
 W1AL=Scott;FL
 W1AO=Joe;125
 W1ARY=marcel;CT
+W1AW/4=Bob;2463
 W1AW/4=Bob;2463
 W1CTN=Dave;NC
 W1CZ=Pich;NY

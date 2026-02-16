@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,Misc,UserText,
 # 1010RTTY
 # Current contest: 1010RTTY SSB and CW
-# LastEdit,2026-02-10
+# LastEdit,2026-02-11
 # New DATA from 2026 logs of Allen/N5XZ,
 # Send new info/corr. DIRECT to ve2fk@arrl.net
 # Special thanks to Bjorn SM7IUN for his help 

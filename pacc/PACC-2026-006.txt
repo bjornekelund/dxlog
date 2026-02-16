@@ -3,7 +3,7 @@
 # Database for PACC Contest 
 # Based on preleminary works by DL5JQ
 # Created by RM1F software at 13.02.2021 11:16:58
-# Last Edit,2026-02-03
+# Last Edit,2026-02-13
 # Thanks update  PA4J  PG7R  PB7Z PA5OES
 # Send new info/corrections DIRECT ve2fk@arrl.net
 # PACC
@@ -868,7 +868,6 @@ PA0JKW,LB,
 PA0JLF,ZH,
 PA0JLH,LB,
 PA0JLM,LB,
-PA0JLS,NH,
 PA0JLW,DR,
 PA0JMB,OV,
 PA0JMC,NH,
@@ -4193,6 +4192,7 @@ PA3EOT,NH,
 PA3EOU,FL,
 PA3EOW,NB,
 PA3EOX,FR,
+PA3EOZ,FR,
 PA3EPA,ZH,
 PA3EPE,DR,
 PA3EPF,OV,
@@ -5892,6 +5892,7 @@ PC2J,UT,
 PC2S,ZL,
 PC2T,NB,
 PC3H,ZH,
+PC4E,ZH,
 PC4M,DR,
 PC4T,NH,
 PC4U,NB,

@@ -1,7 +1,7 @@
 # PACC prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-02-03
+# Last updated 2026-02-16
 PA0AA=UT
 PA0AAC=LB
 PA0AAH=NB
@@ -863,7 +863,6 @@ PA0JKW=LB
 PA0JLF=ZH
 PA0JLH=LB
 PA0JLM=LB
-PA0JLS=NH
 PA0JLW=DR
 PA0JMB=OV
 PA0JMC=NH
@@ -4188,6 +4187,7 @@ PA3EOT=NH
 PA3EOU=FL
 PA3EOW=NB
 PA3EOX=FR
+PA3EOZ=FR
 PA3EPA=ZH
 PA3EPE=DR
 PA3EPF=OV
@@ -5887,6 +5887,7 @@ PC2J=UT
 PC2S=ZL
 PC2T=NB
 PC3H=ZH
+PC4E=ZH
 PC4M=DR
 PC4T=NH
 PC4U=NB
