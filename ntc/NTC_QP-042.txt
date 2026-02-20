@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-01-31
-# Last number listed 295 PA4N
+# Last edit,2026-02-14
+# Last number listed 296 SM6DHF
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -184,7 +184,6 @@ OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,(ON6QS)
 OV5YL,Joana,278,
 OV1XC,Doc,279,
-PA05NTC,Theo,200, 5 year Anniversary call
 PA0AGF,Remy,131,
 PA0BAK,Ron,9, 
 PA0CMU,Carel,76, 
@@ -263,6 +262,7 @@ PA3HEB,Marcel,159,
 PA3HEN,Theo,3,
 PA3HK,Henry,126,
 PA3JD,Joop,112,
+PA3KL,Kees,NM
 PA3MM,Jan,293,
 PA3PKO,Peter,201,
 PA3Y,Nico,19,
@@ -344,7 +344,9 @@ PY2UDB,Dirk,70,
 S51Z,Zoki,226,(Zoran)
 S58MU,Milan,66,
 SC6O,Ben,274,(SM6OEF)
+SF6J,Goran,296,(SM6DHF)
 SF6W,Geo,238,(SM6EWB)
+SM6DHF,Goran,296,
 SM6EWB,Geo,238,
 SM6OEF,Ben,274,(also SC6O)
 SO5CW,Fabian,99,

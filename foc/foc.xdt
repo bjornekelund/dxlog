@@ -134,7 +134,6 @@ AX2GR        2169 Allan (VK2GR)
 AX2IA        1922 Bernd (VK2IA)
 AX3DBD       1884 David (VK3DBD)
 AX3XU        1768 Drew (VK3XU)
-AX4CT        1748 John (VK4CT)
 AX6GC        2040 Phil (VK6GX)
 AX6LW        1492 Kevin (VK6LW)
 AX6VZ        1693 Steve (VK6VZ)
@@ -383,7 +382,6 @@ GD3NKC       1991 David (G3NKC)
 GK0PNM       2095 Pete (G0PNM)
 GK3VMK       1332 Dale (G3VMK)
 GM0GAV       1998 Gavin (GM3GAV)
-GM0HKS       2176 Will
 GM0MFR       2204 Gareth (G0MFR)
 GM3GAV       1998 Gavin
 GM3POI        831 Clive
@@ -404,7 +402,6 @@ GM5A         1430 Rob (GM3YTS)
 GM5CX        1430 Rob (GM3YTS)
 GQ0BQV       1677 Mary (G0BQV)
 GQ0GKH       1939 Dave (G0GKH)
-GQ0HKS       2176 Will (GM0HKS)
 GQ0IBN       2048 Andy (G0IBN)
 GQ0KPE       2235 Carl (G0KPE)
 GQ0MFR       2204 Gareth (G0MFR)
@@ -896,7 +893,6 @@ PZ4TT        1740 Yuri (VE3DZ)
 PZ5KV        2098 Axel (DL6KVA)
 PZ5T         1740 Yuri (VE3DZ)
 R7KZ         1621 Stan
-RX6CB        2051 Eduard (SV2TCY)
 S20A         1122 Tine (S50A)
 S21VJ        1564 Andy (5Z4VJ)
 S21YD        1571 Carl (SM6CPY)
@@ -935,7 +931,6 @@ SP5EXA       1475 Chris
 ST2KSS       1790 Robert (S53R)
 SV1RUX       2113 David
 SV2BBK       2166 Theo
-SV2TCY       2051 Eduard
 SW9IL        1980 Karl (DJ5IL)
 SX200RUX     2113 David (SV1RUX)
 T33IC        1624 Greg (DF2IC)
@@ -1021,8 +1016,6 @@ VK2GR        2169 Allan
 VK2IA        1922 Bernd
 VK3DBD       1884 David
 VK3XU        1768 Drew
-VK4CT        1748 John
-VK4EMM       1748 John (VK4CT)
 VK5FOC       2230 Graeme (VK5GG)
 VK5GG        2230 Graeme
 VK6AA        1922 Bernd (VK2IA)
@@ -1041,7 +1034,6 @@ VK9NN        2225 Harald (OZ8X)
 VK9XAB       1564 Andy (5Z4VJ)
 VL2B         1628 Barry (VK2BJ)
 VL2G         2169 Allan (VK2GR)
-VL4M         1748 John (VK4CT)
 VL6M         2040 Phil (VK6GX)
 VL6T         1693 Steve (VK6VZ)
 VO1AAM       1740 Yuri (VE3DZ)

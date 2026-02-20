@@ -438,7 +438,6 @@ DM4AA,Marko
 DM4KA,Stephan
 DM5EE,Ulrich
 DM5JBN,Andreas
-DM5TI,Hartmut
 DM5XX,Mike
 DM6DX,Robby
 DM3W,Robby

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls NTC-* | tail -1 2> /dev/null`
+INFILE=`ls NTC_Q* | tail -1 2> /dev/null`
 OUTFILE=NTC_db.txt
 
 echo Parsing $INFILE

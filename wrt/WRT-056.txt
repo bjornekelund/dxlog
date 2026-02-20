@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-01-26
+# 1-LastEdit,2026-02-19
 # 2-Send any corrections direct to duberger.miousse81@telus.net
 # 3-Thanks WV4P/NJ4P for updated data.
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -1490,6 +1490,7 @@ N2HMM,JOHN,NJ,
 N2IC,STEVE,NM,
 N2JF,JEFF,TN,
 N2JS,JOE,NJ,
+N2KI,ANTONY,NY,
 N2LK,JOHN,DE,
 N2MA,AL,PA,
 N2MD,MARK,FL,
@@ -2920,6 +2921,7 @@ W4HG,WAYNE,NC,
 W4IDX,DAVID,AZ,
 W4ILC,BARRY,SC,
 W4IM,JOHN,VA,
+W4IPC,CONNOR,VA,
 W4JLP,JIM,SC,
 W4KFC,VIC,MD,
 W4LC,JIM,KY,

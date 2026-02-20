@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-<<<<<<<< HEAD:cwt/CWOPS_3872-AAA.txt
-# LastEdit,2026-02-10
-========
-# LastEdit,2026-02-13
->>>>>>>> 8e3f0594 (Update):cwt/CWOPS_3873.txt
+# LastEdit,2026-02-19
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -35,6 +31,7 @@
 5T5PA,Johannes,,Nouadhibou Mauritania
 5Z4A,Andy,3720,(5Z4VJ) Kenya
 5Z4VJ,Andy,3720,Nairobi Kenya
+6Y/AI5IN,Mart,3728,
 6Y/DK9PY,Armin,2062,
 6Y2T,Yuri,21,Jamaica (VE3DZ)
 6Y5WJ,Josh,,St-Elizabeth Jamaica
@@ -430,6 +427,7 @@ AI2U,Tom,NY,Hammondsport NY
 AI3A,Alan,3053,Georgetown CA
 AI3W,Rick,UT,Murray UT
 AI4FH,WES,VA,Groucester VA
+AI5BE,Tim,3874,
 AI5IN,Mart,3728,Waller TX
 AI6CU,Tom,CWA,Pittsburgh PA
 AI6DO,Ryan,CA,Torrance CA
@@ -918,6 +916,7 @@ EY8MM,Nodir,815,Dushanbe Tajikistan
 F/G7BED,Chris,,
 F2IL,JM,,(Jean-Marie) Ribeaucourt France
 F3OA,Mike,,Hyeres France
+F4GBY,Davy,3875,
 F4GFT,Andy,,Paris France
 F4GOP,Denis,,La Lande Patry France
 F4HYY,Serge,,Paris France
@@ -929,7 +928,8 @@ F4WAR,Jose,CWA,ND de Gravenchon France
 F5BQU,Seb,,Cappel France
 F5BWA,Dan,,France
 F5EQR,Regis,,Gizy France
-F5FRM,Nick,,Valence france
+F5FRM,Nick,,Valence France
+F5GBY,Davy,,France
 F5IJO,JJ,3680,La Penne sur Huveaune France
 F5IN,Mike,,Pithiviers France
 F5IUZ,Moise,,Aubagne France
@@ -1087,6 +1087,7 @@ G4DRS,John,1457,Dorchester England
 G4DYC,Mike,2116,Norfolk England
 G4E,Chris,1294,West Sussex England (G4BUE N4CJ)
 G4ERW,Dave,G,Kent England
+G4ETK,Chris,,
 G4FAD,Rich,547,Hereford England
 G4FJW,Chris,,Kent England
 G4FNL,Graham,3423,Brighton England
@@ -4265,6 +4266,7 @@ N9TTK,Justin,3150,Indianapolis IN
 N9TXA,Joel,2046,(ex: KA9SXV) Sturgeon Bay WI
 N9UA,Mike,1097,Omro WI
 N9UNX,Chad,3151,Indianapolis IN
+N9UUP,Jeff,WI,Oconomowoc
 N9VJ,Chuck,2799,Wauwatosa WI
 N9WF,Bryce,3834,
 N9WKE,Bruce,2512,Champaign IL
@@ -4783,6 +4785,7 @@ P40TA,Ken,,Martell CA USA
 P40W,John,204,W2GD
 P44L,John,P4,Aruba
 P44W,John,204,(W2GD) Aruba
+P49Y,Andy,38,AE6Y
 PA/DK5KK,Kolja,1965,
 PA0ABM,Wino,2890,Huijbergen Netherlands
 PA0GRU,Dick,3175,Heemstede Netherlands
@@ -4799,6 +4802,7 @@ PA0VLD,Jan,2307,Drachten Netherlands
 PA0ZAV,Jan,,Westbeemster Netherlands
 PA1AT,Gerrey,,DR Netherlands
 PA1BBO,Bert,3132,Hellendoorn Netherlands
+PA1DI,Dick,,
 PA1FOX,Alex,PA,Hengelo Netherlands
 PA1LEX,Lex,,Hardewijk Netherlands
 PA1LIO,Adriaan,,Eemnes Netherlands
@@ -5699,6 +5703,7 @@ W1AL,Scott,FL,Cape Coral FL
 W1AO,Joe,125,Manchester ME
 W1ARY,marcel,CT,Wilton CT
 W1AW/4,Bob,2463,(N4BP)
+W1AW/8,Steve,MI,
 W1CTN,Dave,NC,Gastonia NC
 W1CWT,,,New England CWops Club (Beverly MA)
 W1CZ,Pich,NY,College Point NY
