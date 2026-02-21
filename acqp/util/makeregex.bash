@@ -1,5 +1,8 @@
 #!/bin/bash
-dos2unix -q $1
+INFILE=multipliers.txt
+OUTFILE=acregex.txt
+
+dos2unix -q $INFILE
 gawk '
 BEGIN {
   FS = "=";
@@ -10,6 +13,7 @@ BEGIN {
     printf("%s|", $1);
 }
 END {
-  printf(")$\n");
-}' $1 | sed 's/|)/)/g'
+  printf(")$");
+}' $INFILE | sed 's/|)/)/g' > $OUTFILE
+
 exit
