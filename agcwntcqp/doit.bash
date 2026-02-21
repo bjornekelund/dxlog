@@ -1,6 +1,6 @@
 #!/bin/bash
 AGCWFILE=`ls ../agcw/Mitglieder.csv`
-NTCFILE=`ls ../ntc/NTC-* | tail -1 2> /dev/null`
+NTCFILE=`ls ../ntc/NTC_Q* | tail -1 2> /dev/null`
 QPFILE=`ls AGCW-NTC*[0-9].txt | tail -1 2> /dev/null`
 NAMESFILE=`ls ../names/Names_VE2FK* | tail -1 2> /dev/null`
 OUTFILE=AGCWNTCQP_db.txt
