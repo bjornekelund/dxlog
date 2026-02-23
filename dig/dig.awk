@@ -11,7 +11,14 @@ BEGIN {
   other = $5;
   if (memberid ~ /^[0-9]+$/ && basecall ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && basecall !~ /^DE/)
   { 
-    printf("%s=%s\n", basecall, memberid);
+    if (calls[basecall] != "") 
+    {
+      printf("Call %s is repeated: \"%s\"\n", basecall, $0) > "/dev/stderr";
+    }
+    else
+    {
+      printf("%s=%s\n", basecall, memberid);
+    }
     max = memberid > max ? memberid : max;
     if (other != "")
     {
@@ -20,7 +27,14 @@ BEGIN {
       {
         if (othercall[i] ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && othercall[i] !~ /^DE/)
         {
-          printf("%s=%s\n", othercall[i], memberid);
+          if (calls[othercall[i]] != "") 
+          {
+            printf("Call %s is repeated: \"%s\"\n", basecall, $0) > "/dev/stderr";
+          }
+          else
+          {
+            printf("%s=%s\n", othercall[i], memberid);
+          }
           # printf("$4=\"%s\" $5=\"%s\" => call[%d]=\"%s\"\n", $4, $5, i, call[i]) > "/dev/stderr";
         }
         else if (othercall[i] !~ /SWL|\-|^DE|[0-9]$/)
@@ -39,5 +53,3 @@ END {
   printf("#03 Contains members up to #%d\n", max);
   printf("Highest member number is %d\n", max) > "/dev/stderr";
 }
-
-#  else if (basecall !~ /SWL|\-|^DE|[0-9]$/)

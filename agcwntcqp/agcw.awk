@@ -7,9 +7,10 @@ BEGIN {
 {
   if ($mem ~ /^[1-9][0-9]*$/ && $call ~ /^[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/)
   {
-    if ($name ~ /^[A-Za-z]+$/ && $name !~ /[Cc][Ll][Uu][Bb]/)
+    if ($name ~ /^[A-Za-z]+$/)
     {
-      printf("%s,%s,AGCW%s\n", $call, toupper($name), $mem); # Call, name, agcw number
+      fname = ($name ~/[Cc][Ll][Uu][Bb]/) ? "" : toupper($name);
+      printf("%s,%s,AGCW%s\n", $call, fname, $mem); # Call, name, agcw number
     }
     else
     {
@@ -27,7 +28,7 @@ BEGIN {
       }
       else
       {
-        printf("AGCW: Problem name in: \"%s\"\n", $0) > "/dev/stderr";
+        printf("AGCW1: Problem name in: \"%s\"\n", $0) > "/dev/stderr";
       }
     }
   }

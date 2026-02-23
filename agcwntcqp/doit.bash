@@ -12,7 +12,7 @@ TEMP3=.temp3
 echo Parsing $AGCWFILE
 dos2unix -q $AGCWFILE
 
-cat $AGCWFILE | tr 'üéöØáàåä' 'ueo0aaaa' | sed 's/\s*$//' | sed 's/\s*;\s*/;/g' | gawk -f agcw.awk > $TEMP1
+cat $AGCWFILE | tr 'üéöáàåä' 'ueoaaaa' | tr 'Ø' '0' |sed 's/\s*$//' | sed 's/\s*;\s*/;/g' | gawk -f agcw.awk > $TEMP1
 
 echo Parsing $NTCFILE
 dos2unix -q $NTCFILE
