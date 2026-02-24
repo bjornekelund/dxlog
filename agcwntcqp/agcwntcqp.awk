@@ -24,7 +24,7 @@ BEGIN {
     }
     else
     {
-      # printf("QP: Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
+      # printf("AGCWNTCQP: Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
       rname = "";
     }
 
@@ -33,7 +33,7 @@ BEGIN {
 
     if ($agcw != "")
     {
-      # printf("QP: AGCW found: \"%s\"\n", $0) > "/dev/stderr";
+      # printf("AGCWNTCQP: AGCW found: \"%s\"\n", $0) > "/dev/stderr";
 
       nagcw = $agcw;
       gsub(/[^0-9]/, "", nagcw);
@@ -58,7 +58,7 @@ BEGIN {
         {
           if (firsts[$call] != $agcw)
           {
-            printf("QP: Conflict agcw: previous %s new %s \"%s\"\n", $0, firsts[$call], $agcw) > "/dev/stderr";
+            printf("AGCWNTCQP: Conflict agcw: previous %s new %s \"%s\"\n", $0, firsts[$call], $agcw) > "/dev/stderr";
           }
         }
       }
@@ -88,7 +88,7 @@ BEGIN {
         {
           if (seconds[$call] != "" && seconds[$call] != $ntc)
           {
-            printf("QP: Conflict ntc: \"%s\"\n", $0) > "/dev/stderr";
+            printf("AGCWNTCQP: Conflict ntc: \"%s\"\n", $0) > "/dev/stderr";
           }
           else
           {
@@ -107,10 +107,10 @@ BEGIN {
   else if ($0 !~ /^(!|#|$)/)
   {
     if (nameok)
-      printf("QP: Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+      printf("AGCWNTCQP: Problem entry: \"%s\"\n", $0) > "/dev/stderr";
       # printf("") > "/dev/stderr";
     else
-      printf("QP: Problem name:  \"%s\"\n", $0) > "/dev/stderr";
+      printf("AGCWNTCQP: Problem name:  \"%s\"\n", $0) > "/dev/stderr";
   }
 }
 END {

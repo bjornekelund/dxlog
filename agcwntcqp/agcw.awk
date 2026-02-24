@@ -18,13 +18,13 @@ BEGIN {
       {
         split($name, sname, "-");
         printf("%s,%s,AGCW%s\n", $call, sname[1], $mem); # Call, name, agcw number
-        printf("AGCW: Name cut: \"%s\" -> \"%s\"\n", $name, sname[1]) > "/dev/stderr";
+        # printf("AGCW: Name cut: \"%s\" -> \"%s\"\n", $name, sname[1]) > "/dev/stderr";
       }
       else if ($name ~ / /)
       {
         split($name, sname, " ");
         printf("%s,%s,AGCW%s\n", $call, sname[1], $mem); # Call, name, agcw number
-        printf("AGCW: Name cut: \"%s\" -> \"%s\"\n", $name, sname[1]) > "/dev/stderr";
+        # printf("AGCW: Name cut: \"%s\" -> \"%s\"\n", $name, sname[1]) > "/dev/stderr";
       }
       else
       {

@@ -28,7 +28,7 @@ BEGIN {
       }
       else
       {
-        printf("Problem name in: \"%s\"\n", $0) > "/dev/stderr";
+        printf("QP: Problem name in: \"%s\"\n", $0) > "/dev/stderr";
         rname = "";
       }
 
@@ -42,10 +42,10 @@ BEGIN {
     else if ($0 !~ /^(!|#|$)/)
     {
       if (nameok)
-        printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+        printf("QP: Problem entry: \"%s\"\n", $0) > "/dev/stderr";
         # printf("") > "/dev/stderr";
       else
-        printf("Problem name:  \"%s\"\n", $0) > "/dev/stderr";
+        printf("QP: Problem name:  \"%s\"\n", $0) > "/dev/stderr";
     }
   }
 }
