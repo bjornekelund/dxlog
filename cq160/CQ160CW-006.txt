@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2026-01-24 
+# 1-Last Edit,2026-02-25 
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-Thanks to:
 # 4-This file is used for the following contest(s):
@@ -7280,6 +7280,7 @@ N6ZO,,VA,
 N6ZS,,CA,
 N6ZZ,,NM,
 N6ZZO,KAI,CA,
+N7A,Lee,AZ,
 N7AAM,,OR,
 N7AKH,,MT,
 N7AM,DAVE,AZ,
