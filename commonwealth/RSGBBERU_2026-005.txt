@@ -1,6 +1,6 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2026-02-11
+# Last Edit,2026-02-27
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -21,12 +21,12 @@ GD6XX,,HQ,Isle of Man
 GU6XX,,HQ,
 GJ6XX,,HQ,Jersey
 
-# Canada HQ (2024)
-VA2RAC,DUB,HQ,()  RAC QC Canada
-VA3RAC,Dave,HQ,()  RAC ON Canada
+# Canada HQ 
+VA2RAC,DUB,HQ,(VE2FK)  RAC QC Canada
+VA3RAC,,HQ,( )  RAC ON Canada
 VA6RAC,,HQ,RAC AB Canada 
 VE1RAC,,HQ,RAC NS Canada
-VE3RHQ,Mike,HQ,() RAC ON Canada
+VE3RHQ,Mike,HQ,(VE3FFK) RAC ON Canada
 VE4RAC,,HQ,RAC MB Canada
 VE5RAC,,HQ,RAC SK Canada 
 VE6RAC,,HQ,RAC AB Canada
@@ -47,13 +47,13 @@ VK5WIA,Grant,HQ,(VK5GR)
 VK6WIA,Peter,HQ,(VK6RZ)
 VK7WIA,,HQ,
 
-# ZL HQ
+# ZL HQ (2026)
 ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
 
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
-# Expedition 2026
+# Expedition (2026)
 J38YI,Mike,G3VYI
 
 # Team Nootka Sounders

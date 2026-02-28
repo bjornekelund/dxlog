@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
 # Contains members up to #4463
-# Last updated 2026-02-27
+# Last updated 2026-02-28
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -704,7 +704,6 @@ DK8RE=2451
 DK8SR=183
 DK8VD=4088
 DK9AR=2450
-DK9CG=3455
 DK9FA=1345
 DK9FE=3947
 DK9HE=3052
@@ -2178,7 +2177,6 @@ SV9RNG=3044
 T94YT=2561
 TF8GX=2700
 TI4SU=1888
-UA0DM=1871
 UA0DM=1871
 UA1CEC=2935
 UA1CEX=3532
