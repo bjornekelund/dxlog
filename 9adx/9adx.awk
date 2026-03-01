@@ -17,7 +17,7 @@ BEGIN {
     if ($5 ~ /Exch1/) state = 4;
     printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~/^(BJ|BM|CK|DA|DE|DU|DJ|GS|IM|KA|KC|KR|KT|KZ|MA|NA|NG|OG|OS|PU|PZ|RI|SB|SK|SL|ST|SI|VK|VT|VU|VZ|ZD|ZG|ZU)$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~/^(BJ|BM|CK|DA|DE|DU|DJ|GS|IM|KA|KC|KR|KT|KZ|MA|NA|NG|OG|OS|PU|PZ|RI|SB|SK|SL|ST|SI|VK|VT|VU|VZ|ZD|ZG|ZU)$/)
   {
     if (lines[$call] != "")
     {
