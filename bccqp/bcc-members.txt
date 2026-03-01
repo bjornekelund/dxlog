@@ -217,7 +217,6 @@ DK5TT,Jörn
 DK5TX,Ulf
 DK6AH,Andreas
 DK6CQ,Otto
-DK6QX,Kurt
 DK6SP,Philipp
 DK6WL,Helmut
 DK6XZ,Suad
@@ -352,7 +351,6 @@ DL5NAM,Chris
 DL5NEN,Tom
 DR5M,Tom
 DN5EN,Tom
-DL5RCW,Diana
 DL5RDO,Dieter
 DL5RMH,Martin
 DL5RU,Rudi

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-02-26
+# LastEdit,2026-03-01
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -1991,7 +1991,7 @@ K4KIR,Matt,FL,Dunnellon FL
 K4KO,Greg,2814,Lebanon TN
 K4KRW,Rich,SC,Charlotte NC
 K4KSR,Bill,VA,Chesterfield VA (Full time QRP)
-K4KYN,Jeff,TN,Knoxville
+K4KYN,Jeff,3882,Knoxville
 K4KVC,Ken,FL,The Villages FL
 K4KZ,Lon,NC,Matthews NC
 K4LFL,Mark,3491,Charlotte NC
@@ -5985,6 +5985,7 @@ W4IPA,CJ,TX,Allen TX
 W4IPC,Con,VA,Greenfield VA
 W4IT,Steve,2492,Fort White FL
 W4IX,John,984,Wellford SC
+W4JF,Joe,3882,
 W4JM,Steve,3169,Florence SC
 W4JS,John,FL,Englewood FL
 W4JYK,Wes,3817,Annandale VA

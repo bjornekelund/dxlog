@@ -2,7 +2,7 @@
 # Based on online membership data
 # Contains members up to AGCW #4463 and NTC #296
 # DK9TV has the longest name: "FRIEDEMANN" with 10 characters
-# Last updated 2026-02-28
+# Last updated 2026-03-01
 3A2LF=CLAUDE;AGCW2048;
 3A2LV=LIONEC;AGCW2064;
 3A2LW=ALAIN;AGCW2065;
