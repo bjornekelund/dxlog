@@ -91,7 +91,7 @@ BEGIN {
 }
 END {
     printf("Added %d locations and updated %d of them\n", addlocs, uplocs) > "/dev/stderr";
-    printf("Updates %d names\n", upnames) > "/dev/stderr";
+    printf("Updated %d names\n", upnames) > "/dev/stderr";
     for (cl in callsign)
     {
       if (membernr[cl] != "")
