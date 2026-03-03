@@ -1,7 +1,7 @@
 # North Carolina QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-03-01
+# Last updated 2026-03-03
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -7622,7 +7622,6 @@ N4CNO=GA
 N4CSF=TN
 N4CT=TX
 N4CU=FL
-N4CW=WAK
 N4CWP=VA
 N4CWZ=STO
 N4CYG=NY

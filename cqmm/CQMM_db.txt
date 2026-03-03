@@ -1,6 +1,6 @@
 # CQMM DX Contest prefill database
 # Based on data maintained by VE2FK and from https://site.cwjf.com.br
-# Last updated 2026-03-01
+# Last updated 2026-03-03
 2E0FFT=EUQ
 3B8DB=AFM
 3B8HH=AFM
@@ -184,6 +184,7 @@ E24ZST=ASM
 E29TGW=ASM
 E41WT=ASM
 E70A=EUM
+E70T=EUM
 E70Y=EUM
 E73CV=EUQ
 E79D=EUM
@@ -211,6 +212,7 @@ EA8/OH0XX=AFM
 EA9ACE=AFM
 EA9PY=AFM
 EF8BBM=AFM
+EI2KA=EUM
 EI5DI=EUM
 EI6FR=EUM
 EI6LC=EUM
