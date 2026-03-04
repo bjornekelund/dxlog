@@ -5,8 +5,8 @@ OUTFILE=MCD_db.txt
 rm -f $WEBFILE
 curl -sS https://www.marconiclub.it/List_Members_MC.csv -o $WEBFILE
 
-if [ ! -s $WEBFILE ]; then
-    echo "ERROR! Download of $WEBFILE failed"
+if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
+    echo "ERROR! Download of $WEBFILE failed. Aborting."
     exit 1
 else
     echo Downloaded $WEBFILE, parsing...

@@ -5,8 +5,8 @@ OUTFILE=AGCW_db.txt
 rm -f $WEBFILE
 curl -sS https://www.agcw.de/wp-content/persist/$WEBFILE -O
 
-if [ ! -s $WEBFILE ]; then
-    echo "ERROR! Download of member roster failed. Aborting."
+if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
+    echo "ERROR! Download of member data failed. Aborting."
     exit 1
 else
     echo Downloaded $WEBFILE, parsing...

@@ -6,7 +6,7 @@ OUTFILE=CQMM_db.txt
 rm -f $WEBFILE
 wget -q https://site.cwjf.com.br/membros-exportcsv -O $WEBFILE
 
-if [ ! -s $WEBFILE ]; then
+if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of member roster failed. Aborting."
     exit 1
 else

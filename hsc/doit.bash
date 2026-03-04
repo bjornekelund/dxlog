@@ -6,7 +6,7 @@ rm -f $XDTFILE
 curl -s https://hsc.dj1yfk.de/db/$XDTFILE -O
 unix2dos -q $XDTFILE
 
-if [ ! -s $XDTFILE ]; then
+if [ ! -f $XDTFILE ] || [ $(stat -c%s $XDTFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of $XDTFILE failed. Aborting."
     exit 1
 else
@@ -17,7 +17,7 @@ fi
 rm -f $DBFILE
 curl -s https://hsc.dj1yfk.de/db/$DBFILE -O
 
-if [ ! -s $DBFILE ]; then
+if [ ! -f $DBFILE ] || [ $(stat -c%s $DBFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of $DBFILE failed. Aborting."
     exit 1
 else

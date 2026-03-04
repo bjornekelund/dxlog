@@ -17,8 +17,8 @@ MEMFILE=.members
 rm -f $WEBFILE
 curl -sS https://fists.co.uk/docs/$WEBFILE -O
 
-if [ ! -s $WEBFILE ]; then
-    echo "ERROR! Download of $WEBFILE failed"
+if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
+    echo "ERROR! Download of $WEBFILE failed. Aborting."
     exit 1
 else
     echo Downloaded $WEBFILE, creating $INFILE...

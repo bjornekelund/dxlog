@@ -5,7 +5,7 @@ OUTFILE=EUHFC_db.txt
 rm -f $ZIPFILE
 curl -sS https://euhf.s5cc.eu/history_files/DXLog.zip -O
 
-if [ ! -s $ZIPFILE ]; then
+if [ ! -f $ZIPFILE ] || [ $(stat -c%s $ZIPFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of $ZIPFILE failed. Aborting."
     exit 1
 else

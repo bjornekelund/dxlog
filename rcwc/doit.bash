@@ -5,8 +5,8 @@ OUTFILE=RCWC_db.txt
 rm -f $INFILE
 wget -q "https://rcwc.ru/?do=members&getlist=3" -O $INFILE
 
-if [ ! -s $INFILE ]; then
-    echo "ERROR! Download of $INFILE failed"
+if [ ! -f $INFILE ] || [ $(stat -c%s $INFILE 2>/dev/null) -lt 1000 ]; then
+    echo "ERROR! Download of $INFILE failed. Aborting."
     exit 1
 else
     echo Downloaded $INFILE, parsing...

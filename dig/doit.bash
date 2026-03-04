@@ -5,7 +5,7 @@ OUTFILE=DIG_db.txt
 rm -f $INFILE
 curl -sS https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $INFILE
 
-if [ ! -s $INFILE ]; then
+if [ ! -f $INFILE ] || [ $(stat -c%s $INFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of $INFILE failed"
     exit 1
 else
