@@ -1,7 +1,7 @@
 # FISTS Sprint prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-03-04
+# Last updated 2026-03-05
 2E0ADR=STEVEN;19278;
 2E0AGQ=BRIAN;12584;
 2E0ATS=JIM;7144;
@@ -1733,6 +1733,7 @@ G3MCK=GERALD;230;
 G3MD=DREW;22425;
 G3MRQ=DON;14058;
 G3NCN=JOHN;13228;
+G3NDS=RAY;17051;
 G3OJI=JIM;16949;
 G3OKD=ZYG;15960;
 G3OS=ANDY;22902;
