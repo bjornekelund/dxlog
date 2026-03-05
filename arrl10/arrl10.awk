@@ -25,7 +25,7 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if (notpredictableve13($call, $state))
+    else if (notpredictableve14($call, $state))
     {
       printf("%s=%s\n", $call, $state);
       lines[$call] = $0;

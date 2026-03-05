@@ -21,14 +21,11 @@ BEGIN {
     ($call ~ /^(A[A-L]|[KNW][A-Z]?|4U)[0-9]|\/W[0-9]$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
     ($call ~ /^(V[A-EOY]|C[FGJ]|X[LM])[0-9]|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
-#    if ($col == "YUK") exch = "YT";
-#    if ($col == "NWT") exch = "NT";
-#    if ($col == "PEI") exch = "PE";
     if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    if ($col !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/)
+    if (notpredictableve14($call, $col))
     {
       printf("%s=%s\n", $call, $col);
       lines[$call] = $0;
