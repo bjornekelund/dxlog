@@ -1,6 +1,6 @@
 function vecall(_call) 
 {
-    if (_call ~ /^((V[A-GOXY]|C[FG]|XO)[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/[0-9]$|\/V[OYE][0-9]$/)
+    if (_call ~ /^((V[A-GOXY]|C[FG]|X[LM])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/[0-9]$|\/V[OYE][0-9]$/)
     {
         if (_call ~ /\//)
         {

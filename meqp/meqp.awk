@@ -27,7 +27,7 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
-    else if ($state !~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/)
+    else if (notpredictableve14($call, $state))
     {
       printf("%s=%s\n", $call, $state);
       line[$call] = $0;
