@@ -1,7 +1,7 @@
 # ARRL 10m Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-11
+# Last updated 2026-03-04
 6D5C=JAL
 AA0A=MO
 AA0AA=NE
