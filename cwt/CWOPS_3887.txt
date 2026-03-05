@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-03-02
+# LastEdit,2026-03-05
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -1595,7 +1595,7 @@ K0WOI,Dan,IA,Minburn IA
 K0XF,Max,3408,Colorado Springs CO
 K0XP,Steve,CA,Mission Viejo CA
 K0XQ,Sean,1844,Andover MN
-K0XV,Jim,TN,
+K0XV,Jim,MA,
 K0XX,John,1273,Fernandina Beach FL
 K0YL,Nancy,1831,Thompson ND
 K0ZR,Jeff,1533,Purcellville VA
@@ -2393,7 +2393,7 @@ K8FC,Joe,581,Sebastian FL
 K8FP,Daryl,OH,Huber Heights OH
 K8FU,Mark,OK,Wister OK
 K8G,Rich,2123,(KB8GAE) Canfield OH
-K8GB,Dave,MI,Sterling Heights MI
+K8GB,Dave,3887,Sterling Heights MI
 K8GL,Greg,693,Saginaw MI
 K8GT,Gerry,2031,Farmington Hills MI
 K8GU,Ethan,2179,Woodbine MD
@@ -2705,7 +2705,7 @@ KC1KUG,Bray,NH,Farmington NH
 KC1RL,Ric,MA,Falmouth MA
 KC1SA,Steve,CT,Wallingford CT
 KC1SDD,Devon,3768,(VE9ENT)  Amesbury MA
-KC1SQ,Todd,MW,Standish
+KC1SQ,Todd,MA,Standish
 KC1TNO,Luka,MA,Mendon MA
 KC1TQW,Nik,MA,Medway MA
 KC1UEK,Ben,ME,
@@ -2868,6 +2868,7 @@ KE4EA,Dave,3293,Spartanburg SC
 KE4EB,Sid,VA,Newport News VA
 KE4I,Den,3439,Silver Creek GA
 KE4KY,Tom,1763,Fisherville KY
+KE4R,Mike,GA,Fayetteville GA
 KE4RG,Ken,1765,Gretna VA 
 KE4S,Dave,1508,Leesburg VA
 KE4SC,Paul,SC,Graniteville SC
@@ -5339,6 +5340,7 @@ VA3TAR,Ted,3504,Toronto ON
 VA3TMV,Tim,3345,Maryhill ON
 VA3TTB,Chuck,ON,Holland Landing ON
 VA3UKR,Maria,ON,
+VA3US,Tim,CWA,Sparta ON
 VA3WB,Dennis,ON,Oakville
 VA3WGX,Nic,ON,Ottawa OON
 VA3WHU,Carole,2773,Hamilton ON
@@ -5792,6 +5794,7 @@ W1WEF,Jack,48,
 W1XT,Bob,AZ,Sun City West AZ
 W1ZF,Skip,MA,Needham MA
 W1ZT,Geo,174,Beverly MA
+W2ACH,Bill,NY,
 W2AFE,Jay,PA,Phoenixville PA
 W2ANZ,Jon,3723,Ivyland PA
 W2APF,Thaire,1627,Eaton Center NH
@@ -6472,6 +6475,7 @@ WA2LMC,CLIFF,3824,NC,
 WA2MBP,Jim,773,Marietta GA
 WA2OAX,Ira,534,Liberty NY
 WA2OTC,Dave,MD,Hagerstown MD
+WA2PAY,Dave,3886,
 WA2SI,Bert,842,Port Jefferson NY
 WA2TAX,Paul,CWA,Rochester NY
 WA2TBQ,Ron,NC,Raleigh NC

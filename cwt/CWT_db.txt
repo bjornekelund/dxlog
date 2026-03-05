@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3885
-# Last updated 2026-03-03
+# Contains members up to #3887
+# Last updated 2026-03-05
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1591,7 +1591,7 @@ K0WOI=Dan;IA
 K0XF=Max;3408
 K0XP=Steve;CA
 K0XQ=Sean;1844
-K0XV=Jim;TN
+K0XV=Jim;MA
 K0XX=John;1273
 K0YL=Nancy;1831
 K0ZR=Jeff;1533
@@ -2389,7 +2389,7 @@ K8FC=Joe;581
 K8FP=Daryl;OH
 K8FU=Mark;OK
 K8G=Rich;2123
-K8GB=Dave;MI
+K8GB=Dave;3887
 K8GL=Greg;693
 K8GT=Gerry;2031
 K8GU=Ethan;2179
@@ -2701,7 +2701,7 @@ KC1KUG=Bray;NH
 KC1RL=Ric;MA
 KC1SA=Steve;CT
 KC1SDD=Devon;3768
-KC1SQ=Todd;MW
+KC1SQ=Todd;MA
 KC1TNO=Luka;MA
 KC1TQW=Nik;MA
 KC1UEK=Ben;ME
@@ -2864,6 +2864,7 @@ KE4EA=Dave;3293
 KE4EB=Sid;VA
 KE4I=Den;3439
 KE4KY=Tom;1763
+KE4R=Mike;GA
 KE4RG=Ken;1765
 KE4S=Dave;1508
 KE4SC=Paul;SC
@@ -5327,6 +5328,7 @@ VA3TAR=Ted;3504
 VA3TMV=Tim;3345
 VA3TTB=Chuck;ON
 VA3UKR=Maria;ON
+VA3US=Tim;CWA
 VA3WB=Dennis;ON
 VA3WGX=Nic;ON
 VA3WHU=Carole;2773
@@ -5778,6 +5780,7 @@ W1WEF=Jack;48
 W1XT=Bob;AZ
 W1ZF=Skip;MA
 W1ZT=Geo;174
+W2ACH=Bill;NY
 W2AFE=Jay;PA
 W2ANZ=Jon;3723
 W2APF=Thaire;1627
@@ -6457,6 +6460,7 @@ WA2LMC=CLIFF;3824
 WA2MBP=Jim;773
 WA2OAX=Ira;534
 WA2OTC=Dave;MD
+WA2PAY=Dave;3886
 WA2SI=Bert;842
 WA2TAX=Paul;CWA
 WA2TBQ=Ron;NC

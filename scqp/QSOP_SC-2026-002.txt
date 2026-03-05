@@ -4,6 +4,7 @@
 # QSOP_SC
 # Send corrections direct to ve2fk@arrl.net
 # Last Edit,2026-02-27
+# Thanks Bjorn SM7iun
 #
 # Counties and mobiles and Exp. follows -------
 AA4SD,,CHAR,CHARLESTON

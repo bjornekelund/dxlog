@@ -1,7 +1,7 @@
 !!Order!!,Call,State,
 #
 # ARRL10M
-# Last Edit,2025-12-16
+# Last Edit,2026-03-05
 # Send new info/Corr. DIRECT to ve2fk@arrl.net
 # Thanks Bjorn/SM7IUN for his help
 # Updated from log of Ron/WV4P/NJ4P VP2MAA and VE2FK 2025
