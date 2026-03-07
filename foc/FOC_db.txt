@@ -1,4 +1,4 @@
-# Updated up to FOC #2258 - EA5C. Updates to fabian@fkurz.net.
+# Updated up to FOC #2259 - K5ZD. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
@@ -598,6 +598,7 @@ K5UBL=Curt;1948
 K5VR=Stan;2077
 K5VWW=Orville;2082
 K5XK=Ron;1641
+K5ZD=Randy;2259
 K6AR=Jim;1942
 K6BWP=Fred;1746
 K6KI=Jorma;1557
