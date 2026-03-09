@@ -1,6 +1,6 @@
-# ARRL DX database
-# Data collected and maintained by AD5Q
-# Last updated 2026-01-07
+# ARRL DX Contest prefill database
+# Based on data maintained by AD5Q
+# Last updated 2026-03-09
 2E0CVN=50
 2E0EBM=100
 2E0EVM=100

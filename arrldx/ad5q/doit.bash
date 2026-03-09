@@ -11,6 +11,6 @@ cat $INFILE1 $INFILE2 | sort | gawk -f arrldx.awk | sort | sed 's/^\#0. /\# /g' 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
 
-#../../copytosourcetree.bash $OUTFILE
+../../copytosourcetree.bash $OUTFILE
 
 exit

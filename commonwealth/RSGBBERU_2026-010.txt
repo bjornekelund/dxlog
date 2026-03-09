@@ -1,6 +1,6 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2026-03-04
+# Last Edit,2026-03-08
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -11,12 +11,12 @@
 # HQ Follow 
 AT1HQ,,HQ,Bangalore India 
 AT3T,,HQ,Bangalore India
-GB5CC,,HQ,Bob GU4YOX (2026)
-GI6XX,,HQ,Richard GI4DOH (2026)
+GB5CC,Bob,HQ,(GU4YOX) (2026)
+GI6XX,Richard,HQ,(GI4DOH) (2026)
 GM6XX,,HQ,Chris GM3WOJ (2026)
-GW6XX,,HQ,
+GW6XX,Stew,HQ,(GW0ETF)  Welsh (2026)
 GB5CC,Bob,HQ,BONUS (GU4YOX) (2026)
-G6XX,,HQ,Graham G4FNL (2026)
+G6XX,Graham,HQ,(G4FNL) (2026)
 GD6XX,,HQ,Isle of Man
 GU6XX,,HQ,
 GJ6XX,,HQ,Jersey
@@ -39,10 +39,10 @@ VY1RAC,,HQ,RAC YT Yukon
 VY2RAC,,HQ,RAC PE Canada
 
 # VK HQ (2026)
-VK1WIA,,HQ,(VK2DA)
+VK1WIA,Adnrew,HQ,(VK2DA)
 VK2WIA,,HQ,(VK2PN+VK2WQ)
 VK3WIA,Lee,HQ,(VK3GK)
-VK4WIA,,HQ,(VK4SN)
+VK4WIA,Alan,HQ,(VK4SN)
 VK5WIA,Grant,HQ,(VK5GR)
 VK6WIA,Peter,HQ,(VK6RZ)
 VK7WIA,,HQ,
@@ -87,29 +87,28 @@ VP8CIW,Ian,(G3WVG) in Falklands
 VP9I,Allen,(N2KW) (2026)
 G0VDZ/G0,Nubsey,  Isle of Sheppey 
 
-# Team Quake Contesters (2025)
-ZL2RX,Roger,Team Quake Contesters - 
-ZL3P,Phil,Captain - Team Quake Contesters Upper Moutere New Zeland
-ZL3GA,Geoff,Team Quake Contesters - Kaiapoi New Zeland
-ZL4TT,Paul,Team Quake Contesters - Oamaru New Zeland
-ZL/G4GUO,Dave,Team Quake Contesters - 
+# Team Kiwi  (2026)
+ZL4TT,Paul,(Captain) - Team Kiwi -Oamaru
+ZL1T,Graeme,(ZL1ANH) - Team Kiwi - Kerikeri 
+ZL3CW,Jacky,(F2CW) - Team Kiwi - Tauranga
+ZM1A,Jacky,(F2CW) - Team Kiwi - Tauranga
+ZL2RX,Roger,Team Kiwi - Nelson
+ZL4YY,Yan,Team Kiwi - Porirua
 
 # Team UK (2025)
-G3BJ,,TEAM UK
-G4PIQ,,TEAM UK
-G3P,,TEAM UK
-G4PVM,,TEAM UK
+G3BJ,Hares,TEAM UK
+G4PIQ,Andy,TEAM UK
+G3P,Mike,TEAM UK
+G4PVM,Paul,TEAM UK
 G4FNL,GRAHAM,TEAM UK
 
 
 # Australia One (2026) 
 VK2GR,ALLAN,CAPTAIN - Australia One 
-VK2BJ,
+VK2BJ,Barry,Australia One 
 VJ3A,DP,(VK3JA) - Australia One 
 VK6T,KEV,(VK6LW) - Australia One 
-VL6T,Step,(VK6VZ)
-
-# Australia Two (2025)
+VL6T,Step,(VK6VZ) - Australia One 
 
 # Team GE (2024)
 G4PVM,Paul,Essex England - Team GE (2024)
