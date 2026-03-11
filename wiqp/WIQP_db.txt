@@ -1,7 +1,7 @@
 # Wisconsin QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-03-09
+# Last updated 2026-03-11
 AA0AW=MN
 AA0CL=IA
 AA0GP=SD
@@ -212,7 +212,7 @@ AI0M=DUN
 AI2IA=NJ
 AI4UH=OK
 AI5DQ=LA
-AI5G=TX
+AI5G=MO
 AI5OS=TX
 AI5QW=TX
 AI5SM=NC

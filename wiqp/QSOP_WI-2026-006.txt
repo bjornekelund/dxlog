@@ -1,7 +1,7 @@
 !!Order!!, Call, Exch1, UserText,
 #
 # Current contest: WI QSOPARTY
-# Last Edit,2026-03-09
+# Last Edit,2026-03-10
 # Thanks, original file from W9WLX, Thanks
 # Thanks SM7IUN for scrubbing the file.
 # QSOP_WI
@@ -952,7 +952,7 @@ AH6Y,CO
 AI2IA,NJ
 AI4UH,OK
 AI5DQ,LA
-AI5G,TX
+AI5G,MO
 AI5OS,TX
 AI5QW,TX
 AI5SM,NC

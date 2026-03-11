@@ -1,7 +1,7 @@
 # DIG members prefill database
 # Based on official member roster at https://diplom-interessen-gruppe.info 
 # Contains members up to #8888
-# Last updated 2026-03-09
+# Last updated 2026-03-11
 4K6GF=4838
 4K9W=4384
 4N2EU=6452
