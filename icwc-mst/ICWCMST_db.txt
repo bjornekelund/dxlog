@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "FRANCESCO" with 9 characters
-# Last updated 2026-03-11
+# Last updated 2026-03-12
 2E0DCW=GERALD
 2E0IIV=STEVE
 2E0OBO=BOB
@@ -5621,6 +5621,7 @@ VA7QCE=CAROLE
 VA7SGY=BRUCE
 VA7ST=BUD
 VB2CAP=TOM
+VC2CQ=DUB
 VE1AOE=DON
 VE1ASE=MIKE
 VE1BAB=WAYNE

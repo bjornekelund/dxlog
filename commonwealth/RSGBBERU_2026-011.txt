@@ -1,6 +1,6 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2026-03-08
+# Last Edit,2026-03-12
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -23,9 +23,9 @@ GJ6XX,,HQ,Jersey
 
 # Canada HQ 
 VA2RAC,DUB,HQ,(VE2FK)  RAC QC Canada
-VA3RAC,,HQ,( )  RAC ON Canada
+VA3RAC,Dave,HQ,(VE3KG )  RAC ON Canada
 VA6RAC,,HQ,RAC AB Canada 
-VE1RAC,,HQ,RAC NS Canada
+VE1RAC,Bob,HQ,(VE1RSM) RAC NS Canada
 VE3RHQ,Mike,HQ,(VE3FFK) RAC ON Canada
 VE4RAC,,HQ,RAC MB Canada
 VE5RAC,,HQ,RAC SK Canada 
@@ -49,7 +49,9 @@ VK7WIA,,HQ,
 
 # ZL HQ (2026)
 ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
+# VU HQ 92026)
 
+VU2ZH,,HQ,(VU25EE)
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
@@ -218,6 +220,7 @@ G1B,STEVE,(G1PPA) Lincolnshire England,
 G1C,JOHN,(GM1BSG) Stirling Scotland,
 G1J,JIM,(MM0BQI) Edinburgh Scotland,
 G1M,RC,(G0PZE) Poldhu ARC,
+G1Q,Alan,(G8OO)  Norfolk Enland
 G1RSC,RIK,Rottingdean England,
 G1T,RC,(M0SCG)  Sands ARCG,
 G1VDP,CHRIS,,

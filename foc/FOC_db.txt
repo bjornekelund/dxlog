@@ -2,6 +2,7 @@
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8XF=Nigel;1266
+3B9XF=Nigel;1266
 3C5XA=Alan;1500
 3D2KT=Vrata;1655
 3D2LYC=Cezar;1994
