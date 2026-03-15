@@ -1,7 +1,7 @@
 # Oklahoma QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-03-05
+# Last updated 2026-03-15
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -391,6 +391,7 @@ K5VR=AR
 K5WE=WAG
 K5XU=MS
 K5ZD=MA
+K5ZZR=OKM
 K6ACW=CA
 K6BIR=CA
 K6DGW=NV
@@ -1086,6 +1087,7 @@ N5OE=TX
 N5OHL=OKL
 N5OK=CAN
 N5PT=CAN
+N5QP=MUS
 N5REL=TX
 N5RZ=TX
 N5SMQ=VA
@@ -1809,6 +1811,7 @@ WQ6X=CA
 WR1E=ME
 WR2G=NJ
 WR3R=MD
+WR5X=CLE
 WS4AM=FL
 WS4K=FL
 WS6X=VA

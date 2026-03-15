@@ -1,6 +1,6 @@
 
 # Current contest: Commonwealth new name of RSGBBERU
-# Last Edit,2026-03-12
+# Last Edit,2026-03-14
 # Commonwealth
 # RSGBBERU
 # Send new info/corr. DIRECT to ve2fk@arrl.net
@@ -52,11 +52,52 @@ ZL6HQ,Mark,HQ,(ZL3AB)  NZART  HQ
 # VU HQ 92026)
 
 VU2ZH,,HQ,(VU25EE)
+
+
 # Teams and Expedition Follow 
 !!Order!!,Call,Name,Usertext
 
+# Team Balunmasters
+G3WRR,,Team Balunmasters
+G4WGE/p,,Team Balunmasters
+G4CZB,,Team Balunmasters
+G7LII,,Team Balunmasters
+
+# Team Nootka Sounders
+VE7ZO,,Team Nootka Sounders
+VE7WO,,Team Nootka Sounders
+VE7JKZ,,Team Nootka Sounders
+VE7JH,,Team Nootka Sounders
+
+# Team Canada Eh
+VE3AT,,Team Canada Eh
+VE3EJ,,Team Canada Eh
+VE3JM,,Team Canada Eh
+VE3ZI,,Team Canada Eh
+VO2AC,,Team Canada Eh
+
+# Team Canada B
+VE3BR,,Team Canada B
+VE3KI,,Team Canada B
+VE3MGY,,Team Canada B
+VE3UZ,,Team Canada B
+VE9DX,,Team Canada B
+
+# Team Canada C
+VE3TM,,Team Canada C
+VE5MX,,Team Canada C
+VE9EX,,(Ops: VE3EX VE9OA) Team Canada C
+VY2LI,,Team Canada C
+
 # Expedition (2026)
 J38YI,Mike,G3VYI
+
+# Team Afria  (2026)
+ZS1C,Raoul,Division 1 South Africa
+5Z4VJ,Andy,Kenya,
+AS2M,Rudi,Division 2 South Africa
+3B8XF,Nigel,Cawhome (G3TXF)
+V51YJ,Andrew,
 
 # Team Nootka Sounders
 VE7ZO,JIM,(CAPTAIN) - Team Nootka Sounders
@@ -352,7 +393,7 @@ G3WBB,Ted,Lancashire England
 G3WGN,DAVE,,
 G3WGV,JOHN,Cumbria England,
 G3WNQ,EDDIE,Mablethorpe England,
-G3WRR,Quin,Isle of Wight
+G3WRR,Quin,
 G3WPH,MIKE,Berkshire England,
 G3WVG,John,Cumbria England
 G3WW,DEZ,Bedfordshire England,
@@ -941,6 +982,7 @@ VA6FR,JOHN,,
 VA6MM,MALCOLM,,
 VA6OZ,BILL,,
 VA6RA,DAVE,,
+VA6RCN,KEVIN,STONY PLAIN AB
 VA6SG,HAROLD,,
 VA7ADI,ADI,,
 VA7AM,DAVE,,
@@ -1088,14 +1130,14 @@ VE3AJY,DAVID,,
 VE3AQ,EVGENY,VA3ATT,
 VE3AR,BILL,,
 VE3ASO,DENNIS,,
-VE3AT,Ron,Etobicoke ON
+VE3AT,Ron,
 VE3AX,PETER,,
 VE3AXJ,RAY,,
 VE3AYR,HUGH,Burlington ON,
 VE3BEE,GORDON,,
 VE3BLK,FRANK,,
 VE3BPM,HAROLD,,
-VE3BR,Darius,Brampton ON
+VE3BR,Darius,
 VE3BW,JOS,,
 VE3BXG,MARK,Nepean ON,
 VE3CBK,Chris,Kanata ON,
@@ -1127,7 +1169,7 @@ VE3DZD,PAUL,,
 VE3EBM,DAVID,,
 VE3EDX,MIKE,,
 VE3EEI,PAUL,,
-VE3EJ,John,Grassie ON
+VE3EJ,John,
 VE3EK,PETAR,,
 VE3ELF,EARL,,
 VE3EQF,CHRIS,,
@@ -1179,13 +1221,14 @@ VE3JAN,BOB,,
 VE3JAQ,DEN,,
 VE3JEV,RICHARD,,
 VE3JI,IAN,,
-VE3JM,Vlad,Nepean ON
+VE3JM,Vlad,
 VE3JPC,JOHN,,
 VE3JPW,CARLO,,
 VE3JR,JOHN,,
 VE3JWH,JOHN,,
 VE3KAO,IGOR,,
 VE3KF,ALEX,,
+VE3KI,RICH,
 VE3KG,Dave,Smiths Falls ON
 VE3KOY,MICHAEL,,
 VE3KP,KEN,Peterborough ON,
@@ -1199,7 +1242,7 @@ VE3LPE,KEVIN,,
 VE3LXJ,TOM,,
 VE3MA,ALEX,,
 VE3MCA,MARC,,
-VE3MGY,BRIAN,Sparta ON,
+VE3MGY,BRIAN,
 VE3MIS,RC,Mississauga ARC,
 VE3MJU,JIM,,
 VE3MKX,MIKE,,
@@ -1249,7 +1292,7 @@ VE3TDG,SYL,,
 VE3TES,MARC,,
 VE3TG,John,Kars ON
 VE3THR,TOM,,
-VE3TM,Vlad,Ottawa ON
+VE3TM,Vlad,
 VE3TNT,MAX,,
 VE3TVB,DAN,,
 VE3TW,STAN,Scarborough ON,
@@ -1314,7 +1357,7 @@ VE5FF,BILL,,
 VE5FN,BILL,,
 VE5GC,GRAY,,
 VE5KS,JOHN,,
-VE5MX,Todd,Weyburn SK
+VE5MX,Todd,
 VE5RC,IAN,,
 VE5RI,LEN,,
 VE5SKI,DAVE,,
@@ -1407,7 +1450,7 @@ VE7IN,EARL,,
 VE7IO,FRED,,
 VE7IRA,IAN,,
 VE7JH,GABOR,,
-VE7JKZ,BRIAN,,
+VE7JKZ,BRIAN,
 VE7JMN,JIM,,
 VE7KD,GERRY,,
 VE7KFM,KAROL,,
@@ -1427,6 +1470,7 @@ VE7RBL,BOB,,
 VE7RIF,MIKE,,
 VE7RK,LORNE,,
 VE7RKC,ROGER,,
+VE7SAR,,SURREY ARC  BC
 VE7SAY,NORM,,
 VE7SK,BOB,,
 VE7SZ,ALLAN,,
@@ -1434,6 +1478,7 @@ VE7TCP,JIM,,
 VE7TLK,LIZ,,
 VE7UF,DUANE,,
 VE7VT,FRED,,
+VE7WO,BRIAN,
 VE7WU,ALLAN,,
 VE7XF,RALPH,,
 VE7XN,JOHN,,
@@ -1451,7 +1496,7 @@ VE9BK,JEAN PAUL,Lutes Mountain NB,
 VE9BK,Jean-Paul,Ultes Mountain NB
 VE9BWK,PIETER,,
 VE9CQ,KEN,,
-VE9DX,ANDY,Rothesay NB,
+VE9DX,ANDY,
 VE9FX,LIN,,
 VE9GLF,LINDA,,
 VE9HF,Rick,Upper Kingsclear NB
@@ -1567,7 +1612,7 @@ VY1EI,ERIC,Whitehorse YT Canada,
 VY1JA,JAY,Whitehorse YT Canada,
 VY1MB,BOB,,
 VY2CC,WENDELL,,
-VY2LI,BILL,Corrnwall PE,
+VY2LI,BILL,
 VY2MCC,MCC,,
 VY2MGY,BRIAN,(VE3MGY),
 VY2MP,GREG,,

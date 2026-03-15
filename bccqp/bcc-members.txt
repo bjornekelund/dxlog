@@ -318,6 +318,9 @@ DL4DXF,Angela
 DL4FN,Peter
 DL4GBA,Wilfried
 DL4HG,Olaf
+DL4JLM,Lars
+DM4L,Lars
+KF6ZWZ,Lars
 DL4LAM,Peter
 DQ5T,Peter
 DL4MCF,Thomas

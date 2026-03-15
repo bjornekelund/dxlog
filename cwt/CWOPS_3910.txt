@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-03-12
+# LastEdit,2026-03-15
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
@@ -529,7 +529,7 @@ D4Z,Phil,1354,(HB9ARF)
 DA0BCC,Mario,,Bavarian Contest Club Germany
 DA1DX,Ben,3858,
 DA2KT,Kat,,KE8LQR at DA2KT
-DB7AL,Andy,,Dreieich Germany
+DB7AL,Andy,3903,Dreieich Germany
 DC1YY,Reini,,Munich Germany
 DD5CF,Colin,DL,Bonn Germany (QRP)
 DD5KG,Gabor,2471,Munich Germany
@@ -602,6 +602,7 @@ DJ9BM,Volker,3154,Sankt Augustin Germany
 DJ9IE,Uli,,Unna Germany
 DJ9RB,Nob,,Andechs Germany
 DK0LT,Hans,,RC Stadtlohn Germany
+DK1BZT,Coloman,3907,
 DK1OU,Fritz,,Geseke Germany
 DK1WI,Ed,1602,Katzwinkel Germany
 DK2FE,Leo,,Kassel Germany
@@ -683,6 +684,7 @@ DL3MXX,Olaf,,Nr. Munchen Germany
 DL3NAA,Peter,,Kehl Germany
 DL3NEY,Flo,,Burgebrach Germany
 DL3PB,Peter,,Krefeld Germany
+DL3PLG,Julian,3906,
 DL3RDM,Max,,Essesbach Germany
 DL3TM,Toby,2921,Fulda Germany
 DL3XH,Wim,,Mari Germany
@@ -746,7 +748,7 @@ DL8MX,Wil,,Hochstadt Germany
 DL8PG,Gerd,833,Weyerbusch near Bonn Germany
 DL8TG,Klaus,2524,Wolfsburg Germany 
 DL8UKW,Uli,,Zeuthen Germany
-DL8XA,Andy,CWA,
+DL8XAB,Andy,3899,
 DL9ABM,Stefan,1922,Bergen Germany
 DL9BU,Burger,,Voerde Germany
 DL9FCQ,Tom,,Greigericht Germany
@@ -1027,7 +1029,7 @@ G0RDO,John,,Newton Abbot Devon England
 G0TPH,Al,2956,Desford England 
 G0TZZ,Chris,3387,Sporle England
 G0UJK,Colin,,Nr London England
-G0UVX,Geoff,,Hitchin England
+G0UVX,Geoff,3908,Hitchin England
 G0UYG,Andy,2453,Port Sunlight Wirral England
 G0VQW,Sandy,,Swindon Wiltshire
 G0WCZ,Grae,1983,Brigaton England
@@ -1630,7 +1632,7 @@ K1ESE,John,792,Waterford ME
 K1FJG,Jay,3619,Shelton CT
 K1FQL,Martin,NH,Nashua NH
 K1FV,Sheila,MA,Medway MA
-K1GMS,Greg,NH,Weare NH
+K1GMS,Greg,3909,Weare NH
 K1GQ,Bill,NH,Wolfeboro NH
 K1GU,Ned,884,Friendsville TN
 K1GU/0,Ned,884,
@@ -2920,7 +2922,7 @@ KE9SA,Chuck,2972,Oshkosh WI
 KF0CCU,Mike,MN,Rochester MN
 KF0FFL,Dan,MN,Saint Paul MN
 KF0GVX,Ryan,NE,Plattsmouth NE
-KF0NWC,JD,CWA,Dodge City KS
+KF0NWC,JD,3900,Dodge City KS
 KF0PQR,Jeff,3710,Fort Collins CO
 KF1P,Bob,SC,Gaffney SC
 KF3B,Alan,2754,Alburtis PA
@@ -3492,6 +3494,7 @@ M0IBC,David,,West Midlands England
 M0IHT,Harry,560,(M3X) Exeter England
 M0ITM,Andy,3669,Cornwall England
 M0JWB,Jim,,Bistol England
+M0KNP,Clive,3898,
 M0KHX,Mart,3544,Ipswich England
 M0KHZ,Mart,,Ipswich England
 MM0KKB,Stephen,
@@ -3610,6 +3613,7 @@ N0QLT,Russ,MO,Webb City MO
 N0QM,Larry,644,Grandview MO
 N0QQ,Sandy,1581,West Middlesex PA
 N0RC,Reid,KS,Shawnee KS
+N0RNM,Anne,3902,
 N0RPM,Jason,3329,Inver Grove Heights MN
 N0RT,Ralph,MO,Marshfield
 N0SM,Steve,705,Ottumwa IA
@@ -3658,6 +3662,7 @@ N1HN,Dus,ME,Windsor ME
 N1IA,Scott,3611,North Fort Myers FL
 N1IBM,SKIP,VT,Cavendish VT
 N1KB,Doug,3679,Waller TX
+N1KJ,Peter,3905,
 N1KL,Kevin,MA,Wheelwright MA
 N1KM,Mark,RI,Bristol RI
 N1KW,Bob,1022,Homer Glen IL
@@ -3825,7 +3830,7 @@ N3WT,John,185,Jefferson MD
 N3XA,Jim,2975,Staunton VA
 N3XF,Dave,2962,Ligonier PA
 N3XL,Bill,3663,Bowie MD
-N3YYZ,Randy,CWA,Pelzer SC
+N3YYZ,Randy,3901,Pelzer SC
 N3ZL,Greg,1595,Asheville NC
 N3ZN,Tony,1690,Pittsburg PA
 N3ZP,Phil,PA,North Wales PA
@@ -4157,6 +4162,7 @@ N7QT,Rob,2637,Clyde Hill WA
 N7RC,Dick,CA,Marysville CA
 N7RCS,Jim,1580,Moscow ID
 N7RD,Ron,AZ,Sun City AZ
+N7REA,Rick,3904,
 N7RK,Dave,AZ,Phoenix AZ
 N7RR,Bruce,846,Blaine WA
 N7RT,Hardy,FL,Brooksville FL
@@ -4207,7 +4213,7 @@ N8JA,Jay,1234,Dryden MI
 N8JLM,Jay,OH,Ritman OH
 N8JTR,Jay,3666,Grayling MI
 N8KDC,Ken,3740,Allengan MI
-N8KH,Ken,FL,Melbourne FL
+N8KH,Ken,3910,Melbourne FL
 N8KLX,Jerry,MI,Utica MI
 N8KMY,Craig,MI,Kalkaska MI
 N8KOM,Steve,MI,Royal Oak MI
@@ -5662,6 +5668,7 @@ W0CO,Brad,1452,Pitkin CO
 W0CP,Walt,1752,Englewood CO
 W0CWO,,,Dakota CWops Club (Chanhassen MN)
 W0DAS,Dave,CO,Fort Collins CO
+W0DOS,Connor,3897,
 W0EA,Tom,953,Cedar Rapids IA
 W0EAR,Don,MN,Shoreview MN
 W0EAS,Eric,MA, (Remote MA+TX)
