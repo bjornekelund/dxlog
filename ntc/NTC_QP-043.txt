@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-02-14
-# Last number listed 296 SM6DHF
+# Last edit,2026-03-18
+# Last number listed 301 US3KX
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -145,6 +145,7 @@ MI0TBL,Tim,282,
 N1GKE,Myrt,206,(RI) 
 N2JJS,Gio,103, 
 N4WEN,Carl,135,
+NK2Y,Jay,299,
 OE3JRC,Hans,14,
 OE6FYG,Herbert,134,
 OE7TIR,Stefan,105,
@@ -238,6 +239,7 @@ PA3ARI,Mathieu,102,
 PA3ARM,Harry,176,
 PA3ATX,Jan,120,
 PA3BYW,Durk,32,
+PA3CFI,Jan,297,
 PA3CNI,Willem,54,
 PA3CWG,Ron,192,
 PA3CWQ,Harry,20,
@@ -349,6 +351,7 @@ SF6W,Geo,238,(SM6EWB)
 SM6DHF,Goran,296,
 SM6EWB,Geo,238,
 SM6OEF,Ben,274,(also SC6O)
+SM7GVF,Kjell,298,
 SO5CW,Fabian,99,
 SP7N,Piotr,111,
 SP7OGP,Piotr,111, 
@@ -362,6 +365,7 @@ SV9RPE,Dick,210,
 SV9RNG,Pol,42,
 UA6AX,Yuri,174,
 UR3AMP,Mike,204,(PD5MI)
+US3LX,Len,301,
 V31HE,Andreas,89,
 VE2FK,Dub,180,
 W4WEN,Carl,135,
@@ -373,4 +377,5 @@ YL3JD,Hanz,11,
 YO6EX,Sico,94,
 YO7TBA,Balint,NM,
 YO8DOH,Stefan,60,
+ZS1NN,Paul,300,
 

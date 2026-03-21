@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3910
-# Last updated 2026-03-15
+# Contains members up to #3916
+# Last updated 2026-03-21
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -229,6 +229,7 @@ AC2FA=Bob;1026
 AC2II=Robert;NY
 AC2IK=Frank;NY
 AC2KJ=Dima;1376
+AC2YD=Ben;3915
 AC3JX=Lisa;3559
 AC3K=Pat;DC
 AC3LZ=Fred;DE
@@ -1047,7 +1048,7 @@ G3KTZ=Ron;G
 G3LDI=Roger;1843
 G3LQC=Ray;G
 G3MPN=Dave;G
-G3NDS=Ray;G
+G3NDS=Ray;3911
 G3NKC=Dave;449
 G3OAC=Ken;G
 G3OKA=John;G
@@ -2650,6 +2651,7 @@ KB4KBS=Scott;GA
 KB4LA=Dave;AL
 KB4QQJ=Randy;NC
 KB4WLF=Wolf;1982
+KB5EBB=Phil;3912
 KB5EDR=Rich;TX
 KB5FLA=Rich;AR
 KB5GA=Ray;LA
@@ -3565,7 +3567,7 @@ N0AT=Ron;2399
 N0AV=Jim;359
 N0AX=Ward;1744
 N0BK=Bruce;2763
-N0BM=Mac;2772
+N0BM=Bri;2772
 N0BUI=Mike;MN
 N0CB=Royce;NE
 N0COT=Jim;3564
@@ -4276,6 +4278,7 @@ N9RD=Jurgen;582
 N9RV=Pat;MT
 N9SD=Scott;WI
 N9SE=Marty;1562
+N9SS=Dave;3913
 N9SZ=Steve;OH
 N9TK=Jim;1986
 N9TTK=Justin;3150
@@ -5765,6 +5768,7 @@ W1OO=;ME
 W1OPR=Dustin;ME
 W1PH=Kurt;NH
 W1PID=Jim;1507
+W1PL=Mike;3916
 W1PY=Matt;2444
 W1QH=Harlan;CT
 W1QI=Walt;CT
@@ -6002,7 +6006,7 @@ W4LEW=Lauren;VA
 W4LJ=Doug;2823
 W4LRB=Ben;2852
 W4LSV=Barry;1132
-W4LTE=Ed;CWA
+W4LTE=Ed;3914
 W4LWZ=Larry;FL
 W4LZW=AD;SC
 W4MA=Bill;3338

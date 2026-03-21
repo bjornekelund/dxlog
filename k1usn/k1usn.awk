@@ -70,7 +70,7 @@ BEGIN {
     }
     else if ($ex !~ /^DX$/)
     {
-        printf("Exchange should be: \"%s\"\n", $0) > "/dev/stderr";
+        printf("Exchange should be DX: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
     }
     if (!bad)

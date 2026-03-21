@@ -1,7 +1,7 @@
 # RDA Contest prefill database
 # Based on data maintained data by VE2FK and UR7QM
 # Includes updates by NA3M and RA3R
-# Last updated 2026-01-11
+# Last updated 2026-03-21
 R0AA=KK08
 R0AB=KK24
 R0ABD=KK33
@@ -740,6 +740,7 @@ RA7M=RO22
 RA7R=SE03
 RA7RC=SE02
 RA7T=ST25
+RA8AO=SV06
 RA9AAA=CB01
 RA9AC=CB06
 RA9AEA=CB51

@@ -1,8 +1,9 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-03-15
+# LastEdit,2026-03-20
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
+# DX
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
 2E0ISD,Ian,,Holmfirth England
@@ -229,6 +230,7 @@ AC2FA,Bob,1026,Getzville NY
 AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
 AC2KJ,Dima,1376,East Setauket NY
+AC2YD,Ben,3915,
 AC3JX,Lisa,3559,Prospect PA
 AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
@@ -1047,7 +1049,7 @@ G3KTZ,Ron,,Littlebourne Canterbury England
 G3LDI,Roger,1843,The Old Nursery Swardeston England
 G3LQC,Ray,,Oxford England
 G3MPN,Dave,,Wymondham England
-G3NDS,Ray,,Dorset England
+G3NDS,Ray,3911,Dorset England
 G3NKC,Dave,449,Wistaston Crewe England
 G3OAC,Ken,,Derby England
 G3OKA,John,,Meols Wirral UK
@@ -2654,6 +2656,7 @@ KB4KBS,Scott,GA,Roswell GA
 KB4LA,Dave,AL,Albertville AL
 KB4QQJ,Randy,NC,Burlington NC
 KB4WLF,Wolf,1982,(Dwight) Brookhaven GA
+KB5EBB,Phil,3912,
 KB5EDR,Rich,TX,Lufkin TX
 KB5FLA,Rich,AR,Russellville AR
 KB5GA,Ray,LA,Metairie LA
@@ -3574,7 +3577,7 @@ N0AT,Ron,2399,Plymouth MN
 N0AV,Jim,359,Goldfield IA
 N0AX,Ward,1744,St-Charles MO
 N0BK,Bruce,2763,South Saint Paul MN
-N0BM,Mac,2772,Woodbury MN
+N0BM,Bri,2772,Woodbury MN
 N0BUI,Mike,MN,Winona MN
 N0CB,Royce,NE,Omaha NE
 N0COT,Jim,3564,Strasburg CO
@@ -4285,6 +4288,7 @@ N9RD,Jurgen,582,Westville IN
 N9RV,Pat,MT,Bonner MT
 N9SD,Scott,WI,Sussex
 N9SE,Marty,1562,Sharpsville IN
+N9SS,Dave,3913,
 N9SZ,Steve,OH,Dayton OH
 N9TK,Jim,1986,Orland Park IL
 N9TTK,Justin,3150,Indianapolis IN
@@ -5779,6 +5783,7 @@ W1OO,,ME,Down East DX Association Scarborough ME
 W1OPR,Dustin,ME,Windsor ME
 W1PH,Kurt,NH,Amherst NH Pauer Family RC
 W1PID,Jim,1507,Sanbornton NH (Mosly QRP-Outdoor)
+W1PL,Mike,3916,
 W1PY,Matt,2444,Williamsburg MA
 W1QH,Harlan,CT,Danbury CT
 W1QI,Walt,CT,(Candlewood ARA - op: W1QK)
@@ -6016,7 +6021,7 @@ W4LEW,Lauren,VA,N. Chesterfield VA
 W4LJ,Doug,2823,Columbia SC
 W4LRB,Ben,2852,Florence MA
 W4LSV,Barry,1132,Cleveland TN
-W4LTE,Ed,CWA,High Springs FL
+W4LTE,Ed,3914,High Springs FL
 W4LWZ,Larry,FL,Cape Coral FL
 W4LZW,AD,SC,TAYLORS SC
 W4MA,Bill,3338,Ellijay GA
