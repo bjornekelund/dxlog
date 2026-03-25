@@ -1,7 +1,7 @@
 # Virginia QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-03-21
+# Last updated 2026-03-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -4308,6 +4308,7 @@ KB4QQJ=NC
 KB4QXI=GA
 KB4RSM=TN
 KB4TV=TN
+KB4VHB=PRW
 KB4WM=AL
 KB4XK=NC
 KB4YPN=HCO

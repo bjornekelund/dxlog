@@ -1,7 +1,7 @@
 # PODXS 070 members prefill database
 # Based on data from https://www.podxs070.com/member-files
-# Contains members up to #3063
-# Last updated 2026-03-21
+# Contains members up to #3065
+# Last updated 2026-03-25
 2E0DKH=2261
 2E0GBK=1870
 2E0HPI=2118
@@ -2015,6 +2015,7 @@ NU4C=824
 NU4N=1657
 NV0S=2949
 NV4C=1962
+NV4T=3065
 NV9S=2003
 NW7US=935
 NW8G=330
@@ -2550,6 +2551,7 @@ W4LSC=596
 W4MAA=675
 W4MEA=2941
 W4MPS=1060
+W4MPT=3064
 W4NBO=210
 W4NKL=2677
 W4NQP=2187
