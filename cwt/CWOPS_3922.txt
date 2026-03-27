@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-<<<<<<<< HEAD:cwt/CWOPS_3916.txt
-# LastEdit,2026-03-20
-========
-# LastEdit,2026-03-24
->>>>>>>> e9d21cf5 (Update):cwt/CWOPS_3920.txt
+# LastEdit,2026-03-26
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 # DX
 2E0DCW,Gerald,,London England
@@ -208,7 +204,7 @@ AB4PP,JP,2572,(John) Four Oaks NC
 AB4WL,Jim,AL,Fultondale AL
 AB5EB,Mike,2115,New Braunfels TX
 AB5M,Scott,2738,Grencoe OK
-AB5SE,Jerry,AR,Fort Smith AR
+AB5SE,Jerry,3922,Fort Smith AR
 AB5XM,Allan,TX,San Antonio TX
 AB6BR,Tony,3089,Castro Valley CA
 AB6CC,Charles,CA,Fairfield CA
@@ -1090,7 +1086,7 @@ G4AFU,Paul,,Bedale England
 G4AJY,Dave,,Benfleet Essex England
 G4AON,Dave,,East Yorkshire England
 G4AXX,Mark,1057,Saffron Walden England
-G4BFG,Cie,3429,(ex:G0TRT)  Warminster England
+G4BFG,Cie,3429,Warminster England
 G4BSW,Nigel,2083,Margate England
 G4BUE,Chris,1294,West Sussex England (G4E N4CJ)
 G4CMY,Tony,,Gloucestershire England
@@ -2051,6 +2047,7 @@ K4SUE,Dave,SC,Mt Pleasant SC
 K4SX,Ron,810,Wright City MO
 K4TD,Rick,1081,Harvest AL
 K4TNE,Jeff,3457,New Bern
+K4TWT,Dan,3921,
 K4TZ,Tom,1993,Bowling Green KY
 K4VBM,Bob,GA,Peachtree Corners GA
 K4VIZ,Tom,AR,Conway AR
@@ -3542,6 +3539,7 @@ M3F,Mac,1979,(G3WZD) (News & Notes) Somerset England
 M3WRD,Wemerson,,England
 M3X,Harry,560,(M0IHT) Exeter England
 M3ZFF,David,,Somerset England
+M4G,Cie,3429,(G4BFG) Warminster England
 M4N,Mike,2511,(G4IZZ) Cheltenham England
 M4T,Tim,2985,Shropshire England
 M4X,Keith,2784,(G3SZU)

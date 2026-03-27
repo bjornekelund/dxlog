@@ -572,6 +572,7 @@ PB7Z,Bernard
 PC0A,Dick
 PA4VHF,Dick
 PC5A,Aurelio
+ON/PC5A,Aurelio
 PD1RP,Peet
 SA7LAV,Kalle
 DK2ZZ,Kalle
