@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-03-26
+# LastEdit,2026-04-01
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 # DX
 2E0DCW,Gerald,,London England
@@ -590,6 +590,7 @@ DJ4CW,Simone,,Hamburg Germany
 DJ4DX,Andre,3529,Rhauderfehn Germany
 DJ4MX,Sven,2697,(9A5MX) Muenchen Germany
 DJ5CW,Fabian,1566,Munich Germany 
+DJ5YL,Joana,3923,Spreewald Germany
 DJ6PC,Fred,DL,Anroechte Germany
 DJ6QQ,Uwe,3803,Gummersbach Germany
 DJ6TK,Wilf,,Flensburg Germany
@@ -1730,7 +1731,8 @@ K1YY,Bob,1783,Corvallis OR
 K1ZJA,Bill,2645,Asheville NC
 K1ZR,Shane,NH,Sandown NH
 K1ZZ,Dave,2352,Coventry CT
-K1ZZI,Ralph,677,Woodstock GA
+K1ZZI,Ralph,677,Fort Mill SC
+K1ZZI,Ralph,677,Fort Mill SC
 K2AAW,Edib,NY,Northport NY
 K2ACX,Brian,DC,(2761) Washington DC
 K2AU,Mark,235,Plantation FL
@@ -2950,7 +2952,7 @@ KF5YNN,Frank,LA,Amite LA
 KF5YXA,Robert,TX,Frisco TX
 KF6C,Brian,2834,South New Berlin NY
 KF6COZ,Rik,2938,Burlingame CA
-KF6I,Bob,3919,
+KF6I,John,3919,
 KF6MK,Fred,CA,Sierra Madre CA
 KF6NCX,Larry,3183,Chico CA
 KF6T,Jack,CA,Auburn CA
@@ -3086,6 +3088,7 @@ KJ4J,Gene,NC,Reidsville NC
 KJ4M,Gene,2109,Birmingham AL
 KJ4R,Ed,3080,Sumter SC
 KJ4WKD,Jim,CT,Danbury CT
+KJ4LEN,Ray,FL,Tallahassee FL
 KJ4WNA,Max,TX,Houston TX
 KJ4YM,Mark,2317,Marietta GA 
 KJ5CMP,Isaiah,CWA,Enid OK (12 yrs old)
@@ -3890,7 +3893,6 @@ N4GU,Mike,737,Raleigh NC
 N4HAI,Tom,1099,Westerville OH
 N4HAY,Dick,3460,Morrisville NC
 N4HOE,Hal,3060,Ocala FL
-N4IIT,Charlie,GA,Stone Mountain
 N4IJ,Doug,1938,(W5FN) Forest City NC
 N4IN,Dave,3677,Bardstown KY
 N4IQ,Bill,1610,Simpsonville SC
@@ -4159,6 +4161,7 @@ N7LOX,Brian,WA,Tukwila WA
 N7LU,Pat,1290,Cortaro Contest Club San Diego CA
 N7MQ,Steve,2215,Powell WY
 N7MU,Jim,2243,Covington WA
+N7MZZ,Ben,UT,Cedar City UT
 N7NM,Doug,1944,Olalla WA
 N7NR,Dave,2927,Huntington Beach CA
 N7OC,Stan,WA,Custer WA
@@ -4280,6 +4283,7 @@ N9LB,LLoyd,WI,Oregon IL
 N9LGP,David,IL,Monee IL
 N9LJX,Scott,IN,Dayton IN
 N9LQ,Joel,1996,Barrington IL
+N9MKL,Rick,IL,Bloomington IL
 N9MM,Norm,TX,Ponder TX
 N9NA,John,1390,Sun City West AZ
 N9NB,Ted,VA,Riner VA
@@ -4538,6 +4542,7 @@ NR5W,Doug,2722,Seattle WA
 NR7R,MARK,WA,
 NS0R,MO,1264,(Morgan) Topeka KS
 NS1DX,Gerry,191,(W1VE)
+NS1S,Ed,677,(K1ZZI) Fort Mill SC
 NS3C,Dick,1807,Los Angeles CA 
 NS3L,Steve,3007,Nazareth PA
 NS3U,Tom,PA,Irwin PA
@@ -6308,7 +6313,7 @@ W7VQ,Rick,2441,N Salt Lake UT
 W7VSE,Vic,OR,Medford OR
 W7VZ,Kent,UT,Clearfield UT
 W7WHO,Dennis,3631,Crooked River Ranch OR
-W7WHY,Tom,OR,(407) Coos Bay OR
+W7WHY,Tom,407,Coos Bay OR
 W7XE,Larry,OR,Gresham OR
 W7XT,Dick,2004,Missoula MT
 W7Y,Bob,1406,(N7WY) Cheyenne WY
@@ -6837,6 +6842,7 @@ WQ5T,Sally,3554,Sprindale AR
 WQ7O,Dennis,WA,Colbert WA
 WR1TC,Marv,MA,Hanover MA
 WR4T,Ted,2879,Cincinnati OH
+WR4W,CT,GA,(ex N4IIT) Stone Mountain GA
 WR5J,Curt,1362,Seattle WA
 WR5U,Mike,89,New Iberia LA
 WR6D,Dick,2618,Lincoln CA

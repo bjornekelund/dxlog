@@ -3,6 +3,7 @@ BEGIN {
   printf("#01 Based on data maintained by Chris SP5KP\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
+  col = 2;
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -12,7 +13,7 @@ BEGIN {
     if ($5 ~ /Sect/) col = 4;
     printf("%s --> Column is %d\n", $0, col) > "/dev/stderr";
   }
-  else if ($1 ~ /^(SP\/[A-Z0-9]+|(3Z|HF|S[NOPQ]))[0-9]{1,4}[A-Z]{1,4}(\/[1-9PM])?$/ && $col ~/^[BCDFGJKLMOPRSUWZ]$/)
+  else if ($1 ~ /^(SP[0-9]?\/[A-Z0-9]+|(3Z|HF|S[NOPQ])[0-9]{1,4}[A-Z]{1,5}(\/[1-9PM])?)$/ && $col ~/^[BCDFGJKLMOPRSUWZ]$/)
   {
     if (lines[$1] != "")
     {

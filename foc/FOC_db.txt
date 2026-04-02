@@ -1,4 +1,4 @@
-# Updated up to FOC #2259 - K5ZD. Updates to fabian@fkurz.net.
+# Updated up to FOC #2260 - AA7FV. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -110,6 +110,7 @@ A65BD=Fred;1746
 A71CW=Chris;1475
 AA1TR=Petr;1547
 AA3B=Bud;1921
+AA7FV=Darrel;2260
 AB4I=Steve;2240
 AC4RO=Holger;1567
 AC5K=Wes;1662
