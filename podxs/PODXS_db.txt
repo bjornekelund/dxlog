@@ -1,7 +1,7 @@
 # PODXS 070 members prefill database
 # Based on data from https://www.podxs070.com/member-files
 # Contains members up to #3065
-# Last updated 2026-04-03
+# Last updated 2026-04-08
 2E0DKH=2261
 2E0GBK=1870
 2E0HPI=2118
@@ -712,6 +712,7 @@ K4YCF=961
 K5ABQ=1747
 K5AEB=2650
 K5AHL=1338
+K5ALX=3019
 K5ATG=2417
 K5ATN=1163
 K5CBS=2240
@@ -2517,7 +2518,6 @@ W3UAV=2235
 W3WMU=1673
 W3ZJ=5
 W4ABF=2932
-W4ALX=3019
 W4ASE=1018
 W4ATK=509
 W4ATX=823

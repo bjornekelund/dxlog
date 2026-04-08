@@ -1,7 +1,7 @@
 # Quebec QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-04-02
+# Last updated 2026-04-08
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1884,6 +1884,7 @@ VA2EW=MTL
 VA2GRU=MEE
 VA2GU=QUE
 VA2HET=MEE
+VA2IW=OTS
 VA2JMC=OTS
 VA2KD=MAU
 VA2LOJ=OTS
@@ -1904,6 +1905,7 @@ VA2WA=CDQ
 VA2WY=CAS
 VA2YZX=CDQ
 VA2ZIO=OTS
+VB2Q=OTS
 VE2BCW=OTS
 VE2BWL=ETE
 VE2CBW=MEE
