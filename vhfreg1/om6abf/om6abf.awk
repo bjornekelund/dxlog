@@ -16,11 +16,11 @@ BEGIN {
     {
       if (grids[call] == 1)
       {
-        printf("Second grid for %s\n", call) > "/dev/stderr";
+        # printf("Second grid for %s\n", call) > "/dev/stderr";
       }
       else if (grids[call] != 2)
       {
-        printf("Third grid for %s\n", call) > "/dev/stderr";
+        # printf("Third grid for %s\n", call) > "/dev/stderr";
       }
     }
     printf("%s=%s\n", call, grid1);
