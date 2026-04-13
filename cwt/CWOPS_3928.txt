@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-04-08
+# LastEdit,2026-04-12
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
 2E0DCW,Gerald,,London England
@@ -1551,7 +1551,7 @@ K0JVX,John,KS,Olathe KS
 K0JZ,Clarence,KS,Lawrence KS
 K0KG,Keith,1401,Rochert MN
 K0KT,Bill,IA,Ames IA
-K0LB,Larry,VA,
+K0LB,Larry,3928,VA,
 K0LRQ,Ron,CWA,Fenton MO
 K0LUZ,Red,956,(Gary) Longwood FL
 K0MD,Scott,305,Rochester MN

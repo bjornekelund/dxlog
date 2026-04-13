@@ -1,6 +1,6 @@
 # CQMM DX Contest prefill database
 # Based on data maintained by VE2FK and from https://site.cwjf.com.br
-# Last updated 2026-04-12
+# Last updated 2026-04-13
 3B8DB=AFM
 3B8HH=AFM
 3D2AG=OCM
@@ -512,6 +512,7 @@ OH1NA=EUM
 OH2BBM=EUM
 OH2BV=EUM
 OH2KW=EUM
+OH2YL=EUM
 OK1BB=EUM
 OK1DTP=EUM
 OK1DWQ=EUM
