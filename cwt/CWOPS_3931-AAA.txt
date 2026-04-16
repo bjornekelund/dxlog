@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-04-12
+# LastEdit,2026-04-16
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
 2E0DCW,Gerald,,London England
@@ -1649,6 +1649,7 @@ K1IR,Jim,73,Sudbury MA
 K1IU,Bob,IA,Iowa City IA
 K1JD,John,75,Santa FE NM
 K1JH,Jim,3830,Los Altos CA
+K1KIG,Kiki,AR,
 K1KK,David,NC,Washington NC
 K1KNJ,Reg,ME,Woolwich ME
 K1KS,Al,1561,Lyndonville VT
@@ -4634,6 +4635,7 @@ OE3KAB,Karl,,Muenichsthal Austria
 OE3KME,Martin,3557,Golling an der Erlauf Austria
 OE3MWS,Fred,,Krems an der Donau Austria
 OE3OPW,Peter,OE,Wien Austria
+OE3PWX,Jarek,3929,Laa an der Thaya Austria
 OE3THC,Heinz,,Gross Ewzersdorf Austria
 OE3XMA,Ian,,AMRS Austria
 OE4AAC,Eric,,Jennersdorf Austria
@@ -4731,7 +4733,7 @@ OK2OX,Jiri,,no info
 OK2PAY,Lada,816,Ostrov nad oslavou Czech Republic
 OK2PBA,Mirek,,No info
 OK2PTU,Zdeno,,Kunstat Czech Republic
-OK2PWX,Jarek,,Olomouc Czech Republic
+OK2PWX,Jarek,3929,Olomouc Czech Republic
 OK2QA,Ruda,2891,Hrainice Czech Republic
 OK2QX,Jiri,,Preron Czech Republic
 OK2RJC,Jiri,,(RC) Jistebnik Czech Republic
@@ -5081,6 +5083,7 @@ SM5COP,Rune,SM,Styckebruk Sweden
 SM5DJZ,Jan,SM,Knivsta Sweden
 SM5GLC,Lasse,1529,Linkoping Sweden
 SM5GRD,Kare,3467,(SE5T) Grillby Sweden
+SM5ILE,Totte,,Norberg Sweden
 SM5IMO,Dan,1854,Vingaker Sweden
 SM5LBR,Ray,SM,Heby Sweden
 SM5S,GI,2094,Torshalla Sweden (SM5SIC)
@@ -5657,7 +5660,7 @@ VU2CDP,Deepak,3481,Pnne India
 VU2CPL,Manoj,3337,Bangalore India
 VU2CWO,Clement,3563,Chennai
 VU2PTT,Prasad,615,Bangalore India
-VU2TUM,Puneit,,Nr New Delhi India
+VU2TUM,Puneit,3931,Nr New Delhi India
 VU3SPD,Speed,3499,Bangalore India
 VY1EI,Eric,YT,Whitehorse YT Canada
 VY1JA,J,1234,Whitehorse YT
@@ -5687,7 +5690,7 @@ W0DAS,Dave,CO,Fort Collins CO
 W0DOS,Connor,3897,
 W0EA,Tom,953,Cedar Rapids IA
 W0EAR,Don,MN,Shoreview MN
-W0EAS,Eric,MA, (Remote MA+TX)
+W0EAS,Eric,3930, (Remote MA+TX)
 W0ECS,Frank,GA,Dallas GA
 W0EJ,Bill,1269,Springfield SD
 W0EWD,Mike,IA,Des Moines IA

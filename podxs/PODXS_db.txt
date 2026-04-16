@@ -1,7 +1,7 @@
 # PODXS 070 members prefill database
 # Based on data from https://www.podxs070.com/member-files
-# Contains members up to #3065
-# Last updated 2026-04-13
+# Contains members up to #3066
+# Last updated 2026-04-16
 2E0DKH=2261
 2E0GBK=1870
 2E0HPI=2118
@@ -1100,6 +1100,7 @@ KD2HEK=2213
 KD2NL=1056
 KD2NL=433
 KD2QAK=2703
+KD2SGM=3066
 KD2UBH=2886
 KD2YJX=2908
 KD3PC=2172

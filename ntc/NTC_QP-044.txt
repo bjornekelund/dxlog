@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-03-18
-# Last number listed 301 US3KX
+# Last edit,2026-04-10
+# Last number listed 304 PA3AAV
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -22,10 +22,12 @@ DF0VK,Bert,235,
 DF1XC,Doc,279,
 DF7DJ,Bert,235,
 DF4WX,Micha,83,
+DF4XG,Wolf,302, (Also SA6DXG)
 DF7TV,Tom,64,
 DG5CW,Tom,247,
 DJ0SP,Hannes,124,
 DJ1PQ,Robert,NM,
+DJ2XY,Ingo,303,
 DJ3TU,Norbert,146,
 DJ5CW,Fabian,99,
 DJ5YL,Joane,278,
@@ -50,6 +52,7 @@ DL3HAE,Wolf,138,
 DL3HWO,Herbert,143,
 DL3JAB,Andy,157,
 DL4FDM,Fritz,74,
+DL4RLF,Ralf,NM,
 DL4YR,Ralf,125,(DP4E)
 DL5XL,Felix,80,
 DL7ET,Veit,286,
@@ -92,6 +95,7 @@ G4ETS,Julian,220,
 G4HLN,Larry,140,
 G4RMV,Mike,115,
 G4RTJ,Colin,132,
+G5C,Len,NM,
 G5VZ,Chris,213,
 GM0LIR,Phil,NM,
 GM3ZDH,Bob,234,
@@ -147,6 +151,7 @@ N2JJS,Gio,103,
 N4WEN,Carl,135,
 NK2Y,Jay,299,
 OE3JRC,Hans,14,
+OE5ESR,ERIK,NM,
 OE6FYG,Herbert,134,
 OE7TIR,Stefan,105,
 OE8ACT,Patrick,257,
@@ -233,6 +238,7 @@ PA2WLE, Bert,239,
 PA2V,Peter,129,
 PA2W,Martin,86,
 PA3AAA,Reinier,205,
+PA3AAV,Gert,304,
 PA3ADJ,Stefan,91,
 PA3AM,Gerrit,127,
 PA3ARI,Mathieu,102,
@@ -343,6 +349,7 @@ PG6NTC,JO,100,NTC Special Event Call
 PG7R,Ronald,61, 
 PI4NTC,,200,NTC Club Station
 PY2UDB,Dirk,70,
+SA6DXG, Wolf,302, (Also DF4XG)
 S51Z,Zoki,226,(Zoran)
 S58MU,Milan,66,
 SC6O,Ben,274,(SM6OEF)

@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3928
-# Last updated 2026-04-13
+# Contains members up to #3931
+# Last updated 2026-04-16
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1644,6 +1644,7 @@ K1IR=Jim;73
 K1IU=Bob;IA
 K1JD=John;75
 K1JH=Jim;3830
+K1KIG=Kiki;AR
 K1KK=David;NC
 K1KNJ=Reg;ME
 K1KS=Al;1561
@@ -4623,6 +4624,7 @@ OE3KAB=Karl;OE
 OE3KME=Martin;3557
 OE3MWS=Fred;OE
 OE3OPW=Peter;OE
+OE3PWX=Jarek;3929
 OE3THC=Heinz;OE
 OE3XMA=Ian;OE
 OE4AAC=Eric;OE
@@ -4720,7 +4722,7 @@ OK2OX=Jiri;OK
 OK2PAY=Lada;816
 OK2PBA=Mirek;OK
 OK2PTU=Zdeno;OK
-OK2PWX=Jarek;OK
+OK2PWX=Jarek;3929
 OK2QA=Ruda;2891
 OK2QX=Jiri;OK
 OK2RJC=Jiri;OK
@@ -5068,6 +5070,7 @@ SM5COP=Rune;SM
 SM5DJZ=Jan;SM
 SM5GLC=Lasse;1529
 SM5GRD=Kare;3467
+SM5ILE=Totte;SM
 SM5IMO=Dan;1854
 SM5LBR=Ray;SM
 SM5S=GI;2094
@@ -5644,7 +5647,7 @@ VU2CDP=Deepak;3481
 VU2CPL=Manoj;3337
 VU2CWO=Clement;3563
 VU2PTT=Prasad;615
-VU2TUM=Puneit;VU
+VU2TUM=Puneit;3931
 VU3SPD=Speed;3499
 VY1EI=Eric;YT
 VY1JA=J;1234
@@ -5673,7 +5676,7 @@ W0DAS=Dave;CO
 W0DOS=Connor;3897
 W0EA=Tom;953
 W0EAR=Don;MN
-W0EAS=Eric;MA
+W0EAS=Eric;3930
 W0ECS=Frank;GA
 W0EJ=Bill;1269
 W0EWD=Mike;IA
