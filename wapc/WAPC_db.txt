@@ -1,7 +1,6 @@
 # WAPC prefill database
 # Based on data from http://www.mulandxc.com/index/down_list
 # Last updated 2026-04-19
-B01AJ=BJ
 B1AJ=BJ
 B1C=BJ
 B1HQ=BJ
@@ -2047,7 +2046,6 @@ BV100ROC=TW
 BV1EJ=TW
 BV1EK=TW
 BV1EL=TW
-BV1TSU=BJ
 BV2A=TW
 BV2LA=TW
 BV3FG=TW

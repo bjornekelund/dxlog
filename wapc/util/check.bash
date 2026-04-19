@@ -1,10 +1,10 @@
 #!/bin/bash
 INFILE=../WAPC_db.txt
 
-echo Scrubbing $INFILE
+echo Checking $INFILE
 dos2unix -q $INFILE
 
-gawk -f scrub.awk $INFILE
+gawk -f check.awk $INFILE
 
 echo Done.
 
