@@ -218,3 +218,57 @@ function notpredictablerac(_call2, _state2)
         return 0;
     }
 }
+
+function notpredictablewapc(_call3, _state3)
+{
+    if (_call3 !~ /^(B[A-Y]?|XX|VR)[0-9]{1,3}[A-Z]{1,4}$/)
+    {
+        printf("Not relevant call %s with exchange %s\n", _call3, _state3) > "/dev/stderr";
+        return 1;
+    }
+    else if (\
+        (_call3 ~ /^B[A-IY]?0[A-F]/ && _state3 != "XJ") ||\
+        (_call3 ~ /^B[A-IY]?0[G-Z]/ && _state3 != "XZ") ||\
+        (_call3 ~ /^B[A-IY]?1/ && _state3 != "BJ") ||\
+        (_call3 ~ /^B[A-IY]?2[A-H]/ && _state3 != "HL") ||\
+        (_call3 ~ /^B[A-IY]?2[I-P]/ && _state3 != "JL") ||\
+        (_call3 ~ /^B[A-IY]?2[Q-Z]/ && _state3 != "LN") ||\
+        (_call3 ~ /^B[A-IY]?3[A-F]/ && _state3 != "TJ") ||\
+        (_call3 ~ /^B[A-IY]?3[G-J]/ && _state3 != "NM") ||\
+        (_call3 ~ /^B[A-IY]?3[K-R]/ && _state3 != "HE") ||\
+        (_call3 ~ /^B[A-IY]?3[S-Z]/ && _state3 != "SX") ||\
+        (_call3 ~ /^B[A-IY]?4[A-H]/ && _state3 != "SH") ||\
+        (_call3 ~ /^B[A-IY]?4[I-P]/ && _state3 != "SD") ||\
+        (_call3 ~ /^B[A-IY]?4[Q-Z]/ && _state3 != "JS") ||\
+        (_call3 ~ /^B[A-IY]?5[A-H]/ && _state3 != "ZJ") ||\
+        (_call3 ~ /^B[A-IY]?5[I-P]/ && _state3 != "JX") ||\
+        (_call3 ~ /^B[A-IY]?5[Q-Z]/ && _state3 != "FJ") ||\
+        (_call3 ~ /^B[A-IY]?6[A-H]/ && _state3 != "AH") ||\
+        (_call3 ~ /^B[A-IY]?6[A-H]/ && _state3 != "HN") ||\
+        (_call3 ~ /^B[A-IY]?6[I-P]/ && _state3 != "HA") ||\
+        (_call3 ~ /^B[A-IY]?6[Q-Z]/ && _state3 != "HB") ||\
+        (_call3 ~ /^B[A-IY]?7[A-P]/ && _state3 != "GD") ||\
+        (_call3 ~ /^B[A-IY]?7[Q-Z]/ && _state3 != "GX") ||\
+        (_call3 ~ /^B[A-IY]?7Y|^BS7H/ && _state3 != "HI") ||\
+        (_call3 ~ /^B[A-IY]?8[A-F]/ && _state3 != "SC") ||\
+        (_call3 ~ /^B[A-IY]?8[G-L]/ && _state3 != "CQ") ||\
+        (_call3 ~ /^B[A-IY]?8[M-R]/ && _state3 != "GZ") ||\
+        (_call3 ~ /^B[A-IY]?8[S-Z]/ && _state3 != "YN") ||\
+        (_call3 ~ /^B[A-IY]?9[A-F]/ && _state3 != "SN") ||\
+        (_call3 ~ /^B[A-IY]?9[G-L]/ && _state3 != "GS") ||\
+        (_call3 ~ /^B[A-IY]?9[M-R]/ && _state3 != "NX") ||\
+        (_call3 ~ /^B[A-IY]?9[S-Z]/ && _state3 != "QH") ||\
+        (_call3 ~ /^VR/ && _state3 != "HK") ||\
+        (_call3 ~ /^XX9/ && _state3 != "MO") ||\
+        (_call3 ~ /^B[M-X]/ && _state3 != "TW"))
+    {
+        printf("Irregular Chinese call %s with exchange %s\n", _call3, _state3) > "/dev/stderr";
+        return 1;
+    }
+    else
+    {
+        #printf("Predictable Chinese call %s with exchange %s\n", _call3, _state3) > "/dev/stderr";
+        return 0;
+    }   
+}
+

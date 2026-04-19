@@ -1,6 +1,7 @@
 BEGIN {
   printf("#00 WAPC prefill database\n");
   printf("#01 Based on data from http://www.mulandxc.com/index/down_list\n");
+  printf("#02 Contains only exceptions to rule-based prefill\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
   call = 1;
@@ -25,7 +26,7 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else 
+    else if (notpredictablewapc($call, $state))
     {
       printf("%s=%s\n", $call, $state);
       lines[$call] = $0;
