@@ -1,9 +1,0 @@
-Scrubbing QSOP_VA-2026-001.txt
-!!Order!!,Call,Name,Exch1,UserText --> call=1 state=3
-Invalid call: "KB4VHBB,,PRW"
-Invalid call: "KK4VA48,,ROX"
-Invalid call: "KO4IGH/R,,FFX"
-Invalid call: "KO4IJH/R,,FFX"
-Invalid call: "W4KLSM,,LDN"
-Invalid call: "KK7CED/AG,VIC,WA,"
-"W2RU,,HRY" reoccurs as "W2RU,BUD,NY,"
