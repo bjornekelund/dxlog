@@ -1,6 +1,6 @@
 !!Order!!,Call,Exch1,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-04-15
+# 1-LastEdit,2026-04-16
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -39,7 +39,6 @@ N4CW/M,,Mobile Mixed
 N4TO/M,,Mobile CCW
 NK4O/M,,Mobile Mixed
 NX4N/M,,Mobile CW
-W3AN/M,,Mobile Mixed
 
 # EXPEDITION
 AA4RO,,Expedition SSB MANTEE
@@ -47,8 +46,8 @@ K4KSC,,Expedition Mixed
 KI4SDC,,Expedition SSB
 KJ4LQX,,Expedition SSB
 N4DAB,,Expedition Mixed
-N4H,,Expedition Mixed
-NR4DL,,Expedition Mixed
+N4H,,(WA1S) Expedition Mixed
+NR4DL,,(K4NMR) Expedition Mixed
 W2FU,,Expedition CW
 WB0ZJJ,,Expedition CW
 
@@ -192,7 +191,7 @@ N8KH,BRE,BREVARD
 N8NN,MAO,MARION
 N9EEE,SUM,Sumter - CW
 N9NFT,POL,POLK
-N9OH,,COLLIER
+N9OH,COL,COLLIER
 NA4CW,BRE,Brevard
 NA4DA,MAO,MARION
 NA4DC,BRO,BROWARD - MIXED

@@ -1,5 +1,6 @@
 #!/bin/bash
-REFFILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
+#REFFILE=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
+REFFILE=CQMMDX-000.txt
 WEBFILE=CQMMWEB.txt
 OUTFILE=CQMM_db.txt
 

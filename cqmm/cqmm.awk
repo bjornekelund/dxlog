@@ -8,7 +8,7 @@ BEGIN {
 {
   if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQYM]?$/)
   {
-    if ($2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQY]$/)
+    if ($2 ~ /^(AF|EU|AS|SA|NA|OC)[MCQY]$/ && (calls[$1] == "" || $2 ~ /^..Y$/))
     {
       calls[$1] = $1;
       exchange[$1] = $2;
@@ -21,7 +21,7 @@ BEGIN {
   }
 }
 END {
-  printf("File contains %d members\n", count) > "/dev/stderr";
+  printf("File contains %d calls\n", count) > "/dev/stderr";
   for (call in calls)
   {
     printf("%s=%s\n", call, exchange[call]);
