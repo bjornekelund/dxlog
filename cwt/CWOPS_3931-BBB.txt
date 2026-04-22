@@ -81,7 +81,7 @@
 A61AD,Don,2,Dubai UAE
 AA0AI,Steve,IA,North Liberty IA
 AA0AW,Doug,MN,Duluth MN
-AA0BY,Larry,OR,
+AA0BY,Larry,OR,Hermiston OR
 AA0FO,Marsh,1532,Kansas City KS
 AA0IZ,Jack,2943,Newberg OR
 AA0O,Pat,2626,Saint Petersburg FL
@@ -230,7 +230,7 @@ AC2FA,Bob,1026,Getzville NY
 AC2II,Robert,NY,Germantown NY
 AC2IK,Frank,NY,Cheektowaga NY
 AC2KJ,Dima,1376,East Setauket NY
-AC2YD,Ben,3915,
+AC2YD,Ben,3915,Ringoes NJ
 AC3JX,Lisa,3559,Prospect PA
 AC3K,Pat,DC,Washington DC
 AC3LZ,Fred,DE,Magnolia DE
@@ -244,7 +244,7 @@ AC5EZ,Ken,TX,Oak Point TX
 AC5GG,Lee,TX,Kirbyville TX
 AC5JH,Tom,WI,Hillsboro WI
 AC5K,Wes,54,Billngs MO
-AC5M,SETH,OK,
+AC5M,SETH,OK,Tulsa OK
 AC5O,Jeff,LA,Raceland LA
 AC5RR,Ax,OK,Radio Roamers Club
 AC5XK,Don,2989,Washington DC
@@ -279,7 +279,7 @@ AD0WE,Kurt,2167,Manhattan KS
 AD1C,Jim,131,Brighton CO
 AD2BO,Russ,NY,Coram NY
 AD2EK,Jean,3878,Spotswood NJ
-AD2MM,Vince,3829,
+AD2MM,Vince,3829,Brooklyn NY
 AD3DX,Marilyn,AL,Bessemer AL
 AD4C,Hector,FL,Port St Lucie FL
 AD4DP,Dave,CWA,South Boston VA
@@ -321,7 +321,7 @@ AE0DX,Adam,IA,IA
 AE0EE,Bill,MN,Minneapolis MN
 AE0P,Brian,1051,Yankton SD
 AE0Q,Glenn,2878,Arvada CO
-AE0XR,Matt,3837,
+AE0XR,Matt,3837,Neosho MO
 AE1CW,Jim,ME,Newburgh ME
 AE1N,Lane,NH,Nashua NH
 AE1T,Peter,1404,Plymouth NH
@@ -391,9 +391,9 @@ AG3I,Marty,2579,Greensburg PA
 AG3R,Pete,467,Highland Park IL
 AG3Y,James,AL,Birmingham AL
 AG4EA,Bill,2373,Pelzer SC
-AG4GP,Amy,3843,
-AG4JT,Matt,VA,
-AG4TT,Dave,NC,
+AG4GP,Amy,3843,Ponca City OK
+AG4JT,Matt,VA,Virginia Beach VA
+AG4TT,Dave,NC,Raleigh NC
 AG5FX,Jamie,OK,Altus OK
 AG5M,Richard,1747,Richland WA
 AG5QX,Mike,2401,Houston TX
@@ -430,7 +430,7 @@ AI2U,Tom,NY,Hammondsport NY
 AI3A,Alan,3053,Georgetown CA
 AI3W,Rick,UT,Murray UT
 AI4FH,WES,VA,Groucester VA
-AI5BE,Tim,3874,
+AI5BE,Tim,3874,Waveland MS
 AI5IN,Mart,3728,Waller TX
 AI6CU,Tom,CWA,Pittsburgh PA
 AI6DO,Ryan,CA,Torrance CA
@@ -457,7 +457,7 @@ AJ6ET,Ed,2935,Moreno VAlley CA
 AJ6GI,Jaime,2465,Portola Valley CA
 AJ6MQ,Brent,CA,Stockton CA
 AJ6V,Ed,3614,Los Altos Hills CA
-AJ7CM,Andy,3826,
+AJ7CM,Andy,3826,Seattle WA
 AJ7DL,Gord,3552,San Tan Valley AZ
 AJ7F,Tim,WA,Granite Falls WA
 AJ8B,Bill,1567,Waynesville OH
@@ -529,7 +529,7 @@ CX7TT,Tom,518,Rocha Uruguay
 D4NA,Timo,2967,(OH1NOA)
 D4Z,Phil,1354,(HB9ARF)
 DA0BCC,Mario,,Bavarian Contest Club Germany
-DA1DX,Ben,3858,
+DA1DX,Ben,3858,Fulda Germany
 DA2KT,Kat,,KE8LQR at DA2KT
 DB7AL,Andy,3903,Dreieich Germany
 DC1YY,Reini,,Munich Germany
@@ -537,7 +537,7 @@ DD5CF,Colin,DL,Bonn Germany (QRP)
 DD5KG,Gabor,2471,Munich Germany
 DD5XX,Saki,2354,Esslingen (nr Stuttgart) Germany
 DD6CW,ART,1890,Schwabisch Gmund Germany
-DD7CW,Rocky,2587,
+DD7CW,Rocky,2587,Wilhelmshaven Germany
 DF0BA,Vlad,,(RC) Hannover Germany
 DF1J,Ugene,,no info
 DF1PY,Steve,2502,Grafschaft Germany
@@ -554,7 +554,7 @@ DF4ZL,Paul,2707,Moerfelden-Walldorf Germany
 DF5EG,Joe,2687,Weeze Germany
 DF5RF,Gernot,,Schwalbach Germany
 DF5RI,Laft,,no info
-DF6JC,Jorg,DL,
+DF6JC,Jorg,DL,Aachen Germany
 DF6FQ,Juergen,,Kahl a Main Germany
 DF6RI,Alfred,,Happurg Germany
 DF7C,Chris,3484,(DF7CB)
@@ -605,7 +605,7 @@ DJ9BM,Volker,3154,Sankt Augustin Germany
 DJ9IE,Uli,,Unna Germany
 DJ9RB,Nob,,Andechs Germany
 DK0LT,Hans,,RC Stadtlohn Germany
-DK1BZT,Coloman,3907,
+DK1BZT,Kalman,3907,Seukendorf Germany
 DK1OU,Fritz,,Geseke Germany
 DK1WI,Ed,1602,Katzwinkel Germany
 DK2FE,Leo,,Kassel Germany
@@ -663,14 +663,14 @@ DL1VDL,Hardy,2802,Dresden Germany
 DL1XX,Klaus,,Spechbach Germany
 DL2ANM,Heinz,,Altenburg Germany
 DL2CC,Frank,511,Dornstadt-Scharenstetten Germany
-DL2COM,Leo,3885,
+DL2COM,Leo,3885,Berlin Germany
 DL2DSL,Joerg,,Dresden Germany
 DL2DXA,Ben,,Dresden Germany
-DL2FDM,Rainer,DL,
+DL2FDM,Rainer,DL,Giessen Germany
 DL2FO,Oleg,2484,Loenigsbrunn Germany
 DL2GMI,Michael,,Ueberlinen Germany
 DL2GWZ,Alex,,Speyer Germany
-DL2HS,Helmut,DL,
+DL2HS,Helmut,DL,Gelsenkirchen Germany
 DL2JRM,Rene,,Lunzenau Germany
 DL2MKZ,Rainer,,Helmbrechts Germany
 DL2NEW,Sven,3126,Spardorf Germany
@@ -687,7 +687,7 @@ DL3MXX,Olaf,,Nr. Munchen Germany
 DL3NAA,Peter,,Kehl Germany
 DL3NEY,Flo,,Burgebrach Germany
 DL3PB,Peter,,Krefeld Germany
-DL3PLG,Julian,3906,
+DL3PLG,Julian,3906,Kiel Germany
 DL3RDM,Max,,Essesbach Germany
 DL3TM,Toby,2921,Fulda Germany
 DL3XH,Wim,,Mari Germany
@@ -707,7 +707,7 @@ DL5AXX,Ulf,1517,Staufengerg Germany
 DL5AZZ,Alex,,LLmenau Germany
 DL5CW,Paul,2677,Berlin Germany
 DL5DBY,Tom,1751,Lindlar Germany
-DL5DQZ,Frank,,Germany
+DL5DQZ,Frank,,Dresden Germany
 DL5JQ,Erhard,2376,Goch Germany
 DL5OAB,Ben,,Dormagen Germany
 DL5OE,Sven,DL,Essen Germany
@@ -736,7 +736,7 @@ DL7HU,Wolf,,Berlin Germany
 DL7JV,Jan,,Berlin Germany
 DL7LPH,Peter,,Glueckstadt Germany
 DL7PIA,Pia,3698,Herrenberg Germany
-DL7PV,Achim,,Berink
+DL7PV,Achim,,Berink Germany
 DL7SBV,Ben,,Schwaebisch Gmuend Germany
 DL7SX,Ruedi,,Berlin Germany
 DL7UC,Dirk,,Berlin Germany
@@ -751,7 +751,7 @@ DL8MX,Wil,,Hochstadt Germany
 DL8PG,Gerd,833,Weyerbusch near Bonn Germany
 DL8TG,Klaus,2524,Wolfsburg Germany 
 DL8UKW,Uli,,Zeuthen Germany
-DL8XAB,Andy,3899,
+DL8XAB,Andy,3899,Ellerbek Germany
 DL9ABM,Stefan,1922,Bergen Germany
 DL9BU,Burger,,Voerde Germany
 DL9FCQ,Tom,,Greigericht Germany
@@ -780,8 +780,8 @@ DO6AN,Nils,3141,Hamburg Germany
 DO7ATR,Kevin,,Baar-Ebenhausen Germany
 DP4X,Mario,2801,(DJ2MX) Muenchen Germany
 DP7D,Frank,,Essen Germany
-DR2C,Adam,DL,
-DR6T,Fons,DL,
+DR2C,Adam,DL,Hamburg Germany
+DR6T,Fons,DL,Bogen Germany
 DS1TUW,Ji,3600,Seoul South Korea
 DU3LA,Larry,644,Mabalacat Phillippines (N0QM)
 DU7ET,Bob,3523,Negros Oriental Philippines (EX0ET)
@@ -808,7 +808,7 @@ EA1DR,Oscar,,Cantabria Spain
 EA1WX,Juanjo,714,Aviles Spain
 EA1X,Juan,2562,La coruna Spain
 EA2AJB,Andres,1048,Alcaniz Turuel Spain
-EA2AZ,Agus,EA
+EA2AZ,Agus,EA,Navarra Spain
 EA2BD,Igna,,Pamplona Spain
 EA2CW,Mike,,Basque Country Spain
 EA2DDE,Jorge,,Navarra Spain
@@ -925,7 +925,7 @@ EY8MM,Nodir,815,Dushanbe Tajikistan
 F/G7BED,Chris,,
 F2IL,JM,,(Jean-Marie) Ribeaucourt France
 F3OA,Mike,,Hyeres France
-F4GBY,Davy,3875,
+F4GBY,Davy,3875,Les Mureaux France
 F4GFT,Andy,,Paris France
 F4GOP,Denis,,La Lande Patry France
 F4HYY,Serge,,Paris France
@@ -938,7 +938,6 @@ F5BQU,Seb,,Cappel France
 F5BWA,Dan,,France
 F5EQR,Regis,,Gizy France
 F5FRM,Nick,,Valence France
-F5GBY,Davy,,France
 F5IJO,JJ,3680,La Penne sur Huveaune France
 F5IN,Mike,,Pithiviers France
 F5IUZ,Moise,,Aubagne France
@@ -1040,7 +1039,7 @@ G1ZOS,Colin,G,Clacton-on-Sea England (DD5CF)
 G2CWO,Duncan,1979,(G3WZD) England
 G2E,Rog,G,Pinkneys Green England
 G2JL,Mort,G,Hampshire England
-G3BA,Bob,618,
+G3BA,Bob,618,Bath CW Club England
 G3ILO,Steve,,Glos England
 G3KDP,Tony,,St-Ives Cornwall England
 G3KML,Bob,,Northumberland England
@@ -1069,7 +1068,7 @@ G3VNH,Peter,,(3207) Chesterfield England
 G3WAB,Phile,,Norfolk England
 G3WCY,Brian,,Hampshire England
 G3WGN,Dave,482,Okehampton England
-G3WHO,Peter,3815,
+G3WHO,Peter,3815,Warwickshire England
 G3WPH,Mike,,Berkshire England
 G3WRJ,Dick,2209,Hitchin England
 G3WW,Dez,3307,Stafford England
@@ -1097,7 +1096,7 @@ G4DRS,John,1457,Dorchester England
 G4DYC,Mike,2116,Norfolk England
 G4E,Chris,1294,West Sussex England (G4BUE N4CJ)
 G4ERW,Dave,G,Kent England
-G4ETK,Chris,,
+G4ETK,Chris,,Milton Keynes - Bucks England
 G4FAD,Rich,547,Hereford England
 G4FJW,Chris,,Kent England
 G4FNL,Graham,3423,Brighton England
@@ -1136,7 +1135,7 @@ G4RQI,Dave,G,West Yorkshire England
 G4RTJ,Colin,2940,England
 G4RWD,Ken,2126,(CT7AGZ) Barton-under-Needwood England
 G4SMB,Mike,2700,Yorkshire England
-G4TFF,Peter,3816,
+G4TFF,Peter,3816,Dorchester England
 G4TSH,Justin,,Hounslow England
 G4TVH,Dave,3448,nr Wellingborough England
 G4USI,Daimon,,Wiveliscombe England
@@ -1160,7 +1159,7 @@ G7KFZ,Bob,3665,Winsford England
 G7KSE,Alex,3212,Cumbria England 
 G7VJR,Michael,968,via M0OXO England
 G8AJM,Chris,1572,Maidenhead England
-G8GD,JON,3814,
+G8GD,JON,3814,Near London  England
 G8RWG,Niels,,Coulsdon England
 G8VKQ,Clive,CWA,West Sussex England
 G8VPE,John,,Norfolk England
@@ -1201,14 +1200,14 @@ GW2CWO,,,(Various users) Bangor Wales
 GW3KGV,Ken,171,Welshpool Powys Wales
 GW3NJW,Clive,,Cardiff
 GM3YTS,Rob,3927,Scotland
-GW4GNY,Martin,,Wales
+GW4GNY,Martin,,Powys Wales
 GW4J,Stew,919,Wales (GW0ETF) (CWops President)
 GW4MM,Tim,2755,Goodwick Wales
 GW4MVA,Glen,2178,Flintshire Wales (Also EA8DNT)
 GW4OKT,Keith,1952,Near Chester Wales
 GW4PVM,Paul,2413,(G4PVM) Holy Island EU124 Wales
 GW4VXE,Tim,2755,St Nicholas Goodwick Wales
-GM7EST,Jane,CWA,
+GM7EST,Jane,CWA,Alford Scotland
 GW7APP,Ian,2896,Anglesey Wales
 GW7N,Glen,2178,(GW4MVA) Flintshire Wales
 H25A,Andy,5B,Contest call of 5B4AMX
@@ -1236,7 +1235,7 @@ HA5TI,Pista,,Budapest Hungary
 HA5UL,Feri,,Karpitos Hungary
 HA6NL,Laci,3400,Kaolyfalva Hngary
 HA6OA,Gabi,,Szandavaralja Hugary
-HA6PJ,Jani,,
+HA6PJ,Jani,,Salgotarjan Hungary
 HA7AP,Imre,,Budapest Hungary
 HA7I,Laci,,(HA7JTR) Bogacs Hungary
 HA7JQK,Alex,,Bekescsaba Hungary
@@ -1287,7 +1286,7 @@ HB9TMM,Markus,3810,Bern Switzerland
 HC2AO,Alex,,Guayaquil Ecuador
 HC2TDZ,Yuri,21,Ecuador (VE3DZ)
 HF1D,Jerzy,,Szczecin Poland
-HG1G,Gus,,Hungary
+HG1G,Gus,,Apatistvanfalva Hungary
 HG2DX,Joe,,Szechenyi Utca Hungary
 HG8C,Tami,,Sleged Hungary
 HH2AA,,,Radio Club d'Haiti (Remote)
@@ -1295,7 +1294,7 @@ HI3CC,Tino,HI,Dominican Repuplic
 HK1AR,Tony,,Columbia
 HK3CQ,Juan,888,Miami FL USA
 HK3CW,Roberto,HK,Miami FL USA
-HL5FUA,FUA,HL,
+HL5FUA,FUA,HL,Ulleung Island South Korea
 HP/VE1RM,Gerry,191,(W1VE)
 HP/W1VE,Gerry,191,(W1VE)
 HP1XT,Tom,518,Punta Paitilla Panama

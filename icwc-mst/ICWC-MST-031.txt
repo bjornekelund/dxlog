@@ -3,33 +3,22 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2026-04-07
+# Last Edit,2026-04-21
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
 
-F4BPO,GREG,
-K0XV,JIM,MA,
-K2NE,SAM,NY,
-K6DU,DENNIS,CA,
-KA4TMT,RAY,IN,
-KB9CC,BOB,IL,
-KF8CNK,CONOR,OH,
-KI6LDM,DARRYL,CA,
-KK2B,ED,NY,
-N4AKN,HOWARD,FL,
-N4BNO,ROD,NC,
-VE2PID/W4,PIERRE,FL,
-WD8CRT,NEIL,AL, 
-
-K3NRX,VINCE,
-KN6X,BOB,
-IK4WKUI,MARCO,
-AA8OY,JIM,
-K8FFF,PETE,
-K0LB,LARRY,
-WR4W,CT,
-
+AD2HB,BRENT,NY,
+IW3BKQ,PAOLO,DX,
+K4BAV,JIM,VA,
+KB1WCK,JOE,MA,
+KC6BLW,JOHN,ID,
+KD6SBN,ALAIN,TX,
+KI5CAW,DAVE,NM,
+KQ4J,JIM,TN,
+N0KGF,BILL,WI,
+N5INT,MA,TX,
+VE3TD,TED,ON, 
 
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
@@ -185,6 +174,7 @@ AA7WU,Mike,ID,Nammpa ID
 AA7XA,Jeff,,AZ,
 AA8CA,Vlad,OH,North Royalton OH
 AA8IA,Mike,966,Toronto OH
+AA8OY,JIM,
 AA8P,Ralph,OH,Springfield OH
 AA8R,Randy,2214,Punta Gorda FL
 AA8TA,Joe,1821,Columbus OH
@@ -931,6 +921,7 @@ EY8MM,Nodir,815,Dushanbe Tajikistan
 F/PA2PIM,PIM,,
 F2IL,Jean,,Ribeaucourt France
 F3OA,Mike,,Hyeres France
+F4BPO,GREG,
 F4GFT,Andy,,Paris France
 F4GOP,Denis,,La Lande Patry France
 F4IBT,Jose,,ND de Gravenchon France
@@ -1324,6 +1315,7 @@ IK4EWX,Ian,,Cento Italy
 IK4GBU,Val,,Casalecchio Di Reno Italy
 IK4POF,ALF,DX,Calderara Reno Bo Italy
 IK4VFD,Rudy,,Parma Italia
+IK4WKUI,MARCO,
 IK4ZIF,Lou,,Bettola Italy
 IK5DFE,Enroco,,Prato PO Italy
 IK5FKF,Larry,,Lucca Italia
@@ -1503,6 +1495,7 @@ K0JVX,John,KS,Olathe KS
 K0JZ,Clarence,KS,Lawrence KS
 K0KG,Keith,1401,Rochert MN
 K0KT,Bill,IA,Ames IA
+K0LB,LARRY,
 K0LRQ,RON,,Fenton MO
 K0LUZ,Red,956,(Gary)  Longwood FL
 K0MD,Scott,305,Rochester MN
@@ -1556,6 +1549,7 @@ K0WRY,KENT,
 K0XP,Steve,CA,Mission Viejo CA
 K0XQ,Sean,1844,Andover MN
 K0XV,JIM,
+K0XV,JIM,MA,
 K0XX,JOHN,
 K0YL,Nancy,1831,Thompson ND
 K0ZR,Jeff,1533,Purcellville VA
@@ -1764,6 +1758,7 @@ K2MR,RON,,Wallkill NY
 K2MRK,Mark,FL,Melbourne FL
 K2MYQ,Bill,NJ,Princeton NJ
 K2MYQ/1,Bill,ME,
+K2NE,SAM,NY,
 K2NEL,Sean,2232,Albany NY
 K2NEL/P,Sean,2232,(Occ. QRP)
 K2NV,Tony,1027,Grand Island NY
@@ -1877,6 +1872,7 @@ K3NG,Goody,PA,Lehighton PA
 K3NK,JIM,
 K3NL,Nick,PA,Drexel Hill PA
 K3NM,Joe,PA,Broadheadsville PA
+K3NRX,VINCE,
 K3OO,Rick,PA,Wind Gap PA
 K3OOL,Craig,PA,State College PA
 K3OS,GARY,,Hickory NC
@@ -1993,7 +1989,7 @@ K4IEY,JULES,
 K4IG,John,SC,Jenkinsville SC
 K4IHY,DOUG,VA,
 K4II,SAM,,Sopartanburg SC
-K4IN,DENNIS,
+K4IN,DEN,
 K4ITV,Chas,1312,Bristol VA
 K4IU,Fred,507,Rochester MN
 K4IWW,Will,NC,Cary NC
@@ -2231,6 +2227,7 @@ K6CTA,Ed,233,Mill Valley CA
 K6DDJ,Doyle,CA,Hesperia CA
 K6DGW,Skip,142,Sparks NV (Occ. remote via W7RN)
 K6DMT,Sid,CA,Mission Viejo CA
+K6DU,DENNIS,CA,
 K6ERI,Erin,CA,(KM6SJT) Santa Rosa CA
 K6EU,Tom,CA,Los Gatos CA
 K6GHA,Don,CA,Santa Cruz CA
@@ -2442,6 +2439,7 @@ K8EJ,Steve,528,Lenoir City TN
 K8EK,Ed,2475,Traverse City MI
 K8EO,EOOE,OH,
 K8FC,Joe,581,Sebastian FL
+K8FFF,PETE,
 K8FP,Daryl,OH,Huber Heights OH
 K8FU,Mark,OK,Wister OK
 K8G,Rich,2123,(KB8GAE) Canfield OH
@@ -2661,6 +2659,7 @@ KA4IE,WALT,
 KA4RRU,Mike,1388,Catlett VA
 KA4RUR,Fred,2678,Saint Louis MO
 KA4SCV,John,TN,Bristol TN
+KA4TMT,RAY,IN,
 KA5CAV,John,AR,Blytheville AR
 KA5CJJ,ALLEN,
 KA5DX,BILL,
@@ -2783,6 +2782,7 @@ KB8TT,Dave,OH,Eastlake OH
 KB8W,Dan,MI,Laurim MI
 KB8XG,Dave,MI,Muskegon MI
 KB9BVN,BRIAN,,New Whiteland IN
+KB9CC,BOB,IL,
 KB9DKR,Carl,2258,Franklin TN
 KB9GKG,Ken,IN,Kokomo IN
 KB9LLD,Tony,2840,St. Peters MO (Occ. QRP)
@@ -2862,6 +2862,7 @@ KC4IGO,LEE,
 KC4JEM,MIKE,
 KC4LE,Red,AL,Birmingham AL
 KC4M,AL,,West End NC
+KC4M,JACK,
 KC4T,Mark,2953,Atlanta GA
 KC4UCT,John,GA,Altanta GA
 KC4WQ,Bud,2440,Shepherdsville KY
@@ -3167,6 +3168,7 @@ KF7YHB,Wyatt,2564,Kingman AZ
 KF7Z,Danny,1468,Big Piney WY
 KF7ZZ,DAVE,,UT
 KF8CDO,DOUG,MI,
+KF8CNK,CONOR,OH,
 KF8O,Ron,2230,Greenwich OH
 KF9D,Roger,2068,Algonquin IL
 KF9FH,George,IL,Northbrooke IL
@@ -3278,6 +3280,7 @@ KI5VIR,JAY,,Holdenville OK
 KI5WLJ,SCOTT,,Katy TX
 KI5YGT,TOM,
 KI5ZND,LUKE,,AR,
+KI6LDM,DARRYL,CA,
 KI6M,Hans,2792,Cypress CA
 KI6NTB,Shin,CA,Huntington Beach CA (QRP)
 KI6OY,Lee,2013,Livermore CA
@@ -3334,6 +3337,7 @@ KK0U,Jim,3067,Rock Hill MO
 KK1CWO,Pete,91,(W1UU)  Cape Cop ARC
 KK1MM,Mike,1272,Arlington VA
 KK1W,Jim,2479,Brimfield MA
+KK2B,ED,NY,
 KK3F,Pat,MD,Frostburg MD
 KK4AC,CHARLES,
 KK4BNC,Randy,GA,Cataula GA
@@ -3464,6 +3468,7 @@ KN6RDC,CHRIS,
 KN6TAC,DON,,San Diego CA
 KN6TRY,RICH,,Santa Cruz CA
 KN6UDK,BILL,,Sacramento CA
+KN6X,BOB,
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
 KN7Y,JACK,,Mesa AZ
@@ -3546,6 +3551,7 @@ KQ4EFL,MIKE,
 KQ4FBF,TIM,
 KQ4FR,MIKE,,
 KQ4GHE,MIKE,
+KQ4J,JIM,
 KQ4JB,JOE,,Winston Salem NC
 KQ4JEZ,GREGG,
 KQ4LEE,TANNER,KY,
@@ -3971,6 +3977,7 @@ N2AML,Frank,NM,Albuquerque NM
 N2AN,Jeff,1715,Holliston MA (PCCC WC4E)
 N2ATB,Tony,213,Cherry Hill NJ
 N2AWE,Dave,
+N2AZS,LARRY,
 N2BA,Brooke,NJ,Glen Ridge NJ
 N2BA/M,Brooke,,
 N2BTH,STAN,NC,
@@ -4130,6 +4137,7 @@ N4AAJ,SCOTT,,Lexington KY
 N4ACW,Lisa,VA,Victoria VA (Robermont RC)
 N4AF,HOWIE,132,Blounts Creek NC
 N4AHO,DOUG,SC,Walhalla SC
+N4AKN,HOWARD,FL,
 N4AO,Jeff,1715,Plant City FL
 N4APR,Ray,NC,Charlotte NC
 N4ARY,Aaron,2759,Bonaire GA
@@ -4137,6 +4145,7 @@ N4ASF,Dave,VA,Melfa VA
 N4BA,Fred,2221,Great Falls VA
 N4BAA,Jose,1036,Warrington PA
 N4BCB,Bruce,AL,Roanoke AL
+N4BNO,ROD,NC,
 N4BP,Bob,2463,Plantation FL
 N4CD,Bob,1928,Plano TX
 N4CJ,Chris,1294,Sebring FL (G4BUE and G4E)
@@ -4485,7 +4494,7 @@ N7NR,Dave,2927,Huntington Beach CA
 N7NTQ,DAVE,,Renton WA
 N7OC,Stan,WA,Custer WA
 N7ON,John,628,Reno NV
-N7OR,BOB,OR,Sandy OR
+N7OR,CRAIG,OR,Sandy OR
 N7PHI,Derek,UT,Saint George UT
 N7QR,RUSS,
 N7QT,Rob,2637,Clyde Hill WA
@@ -4578,6 +4587,7 @@ N9BOR,Mike,312,Skokie IL
 N9BX,Bruce,MS,Ocean Springs MS
 N9CB,Larry,TN,Watertown TN
 N9CD,Larry,MN,Lacrescent MN
+N9CIQ,JAY,
 N9CJV,BRUCE,IL,
 N9CK,Steve,1287,Madison WI
 N9CO,Charlie,357,Sycamore IL
@@ -5257,6 +5267,7 @@ R3EV,Larry,,Oriovskaya Russia
 R3GG,ANDY,
 R3LB,Alex,,Smolensk Russia
 R4AZ,Yuri,,Volgograd Russia
+R4GM,ANDY,
 R5AF,Ilya,2474,Moscow Russia
 R5AK,Anatoly,,Moscow Russia
 R5BE,VAD,,nr. Moscow Russia
@@ -5738,6 +5749,7 @@ VE2OPB,PIRRE,,QC
 VE2OXP,Klaus,QC,Matane sur Mer QC
 VE2PGI,Paul,QC,Saint-Hubert QC
 VE2PID,Pierre,1278,Sherbrooke QC
+VE2PID/W4,PIERRE,FL,
 VE2PID/W8,PIERRE,
 VE2QA,Vlad,QC,Beaconsfield QC
 VE2QRT,FUNGUY,
@@ -7265,6 +7277,7 @@ WD5RS,Russ,TX,Milford TX
 WD6ERS,LES,
 WD6T,Dave,2079,Berkeley CA
 WD7CWO,,,Rocky Mountain CWops Club. (Cheyenne WY)
+WD8CRT,NEIL,AL, 
 WD8DIN,Sis,VA,Richmond VA
 WD8PKF,Alan,IA,Algona IA
 WD8R,BRIT,
@@ -7382,6 +7395,7 @@ WQ7O,Dennis,WA,Colbert WA
 WR1TC,Marv,MA,Hanover MA
 WR4I,DENNIS,
 WR4T,Ted,2879,Cincinnati OH
+WR4W,CT,
 WR5J,Curt,1362,Seattle WA
 WR5U,Mike,89,New Iberia LA
 WR6D,Dick,2618,Lincoln CA
