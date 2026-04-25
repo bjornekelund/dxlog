@@ -1,4 +1,4 @@
-# Updated up to FOC #2260 - AA7FV. Updates to fabian@fkurz.net.
+# Updated up to FOC #2260 - G3SYS. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -306,6 +306,7 @@ G3SCD=David;1884
 G3SED=Mike;1678
 G3SWH=Phil;1513
 G3SYM=Dave;1414
+G3SYS=Darrel;2260
 G3TBK=Dave;1936
 G3TOA=Brian;1322
 G3TXF=Nigel;1266
@@ -500,6 +501,7 @@ HB9QO=Bruno;1408
 HK3CQ=Juan;2247
 HL9DC=Del;1665
 HQ9A=Yuri;1740
+HS0ZRU=Axel;2098
 I0ALE=Sandro;1305
 I5EFO=Emil;2172
 I7ALE=Sandro;1305
@@ -1058,6 +1060,7 @@ VP5FOC=Jim;1104
 VP5K=John;1681
 VP8CIW=Ian;2233
 VP8DNB=Harald;2225
+VP8KVA=Axel;2098
 VP8TXF=Nigel;1266
 VQ5FOC=Jim;1104
 VQ917JC=Jim;1872
@@ -1065,6 +1068,7 @@ VQ9ET=Bob;2097
 VQ9T=Bob;2097
 VU2PTT=Prasad;1972
 VU2TJW=Tom;1177
+VU3KGZ=Axel;2098
 VU3KIE=Jorma;1557
 VU40TJW=Tom;1177
 VU4G=John;2000
@@ -1237,6 +1241,7 @@ ZL1MH=Mike;1608
 ZL25NZ=Jacky;2106
 ZL2AGY=Tony;1645
 ZL2AZ=Pete;1717
+ZL2F=Tony;1645
 ZL3CW=Jacky;2106
 ZM1A=Jacky;2106
 ZM1MH=Mike;1608

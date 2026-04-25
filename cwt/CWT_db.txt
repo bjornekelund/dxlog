@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3931
-# Last updated 2026-04-22
+# Contains members up to #3932
+# Last updated 2026-04-25
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -793,6 +793,7 @@ E70T=Vlado;3585
 E71A=Emil;484
 E72U=Vedo;E7
 E73ESP=RC;E7
+E73KV=Veka;E7
 E74A=Edin;E7
 E74D=Nermin;E7
 E74X=Veljko;E7
@@ -1146,6 +1147,7 @@ G4WQI=Dean;3078
 G4WWZ=Alan;3435
 G4XUM=Martin;569
 G4XWJ=Tim;3384
+G4YBU=Tim;G
 G4YTK=Steve;3449
 G4ZXY=Ian;G
 G5CL=Ryan;422
@@ -1996,7 +1998,7 @@ K4KO=Greg;2814
 K4KRW=Rich;SC
 K4KSR=Bill;VA
 K4KVC=Ken;FL
-K4KYN=Jeff;3883
+K4KYN=Jeff;TN
 K4KZ=Lon;NC
 K4LFL=Mark;3491
 K4LW=Bob;2717
@@ -2015,7 +2017,6 @@ K4NE=Phil;2220
 K4NMR=Tom;2298
 K4NNK=Gary;3165
 K4NP=Don;TN
-K4NYM=Scott;2488
 K4OAH=Garey;VA
 K4OAQ=Fritz;TN
 K4ODL=Randy;1464
@@ -2350,6 +2351,7 @@ K7SV=Lar;1004
 K7TAN=Don;ID
 K7TD=Terry;1948
 K7TK=John;ID
+K7TPD=Tom;AZ
 K7TQ=Randy;2885
 K7TRT=Dave;2909
 K7UA=Bryce;UT
@@ -3488,6 +3490,7 @@ M0DOV=Dov;175
 M0DSR=Dick;G
 M0DXR=Mark;3792
 M0GAA=Motoaki;1014
+M0GEJ=Chloe;3932
 M0GGK=Dave;G
 M0HDF=Angel;2862
 M0HWT=George;G
@@ -3761,6 +3764,7 @@ N2UT=Bob;NM
 N2UU=Bob;121
 N2VY=Saied;3547
 N2WCQ=Yuri;21
+N2WF=Scott;2488
 N2WG=Bill;NC
 N2WK=Wayne;1767
 N2WKS=Zev;NJ
@@ -4987,6 +4991,7 @@ RX6CB=Ed;UA
 RX6FJ=Igor;3527
 RX9TX=Art;UA9
 RY3PAE=Savin;UA
+RY7C=Gennadij;UA
 RY7KV=Mike;UA
 RZ3AM=Vlad;UA
 RZ3DN=Alex;UA
@@ -5714,6 +5719,7 @@ W0PI=Gene;2426
 W0PR=Larry;2825
 W0PWE=Jerry;IA
 W0QL=Mark;3119
+W0RLD=Jim;CWA
 W0RM=Ralph;IN
 W0RMX=Marty;VA
 W0RO=Ric;CO
