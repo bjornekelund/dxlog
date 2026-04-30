@@ -121,7 +121,6 @@ END {
       printf("%s=%s;%s;%s\n", calls[c], names[c], firsts[c], seconds[c]);
     }
   }
-  printf("---------------------\n") > "/dev/stderr";
   printf("Contains members up to AGCW #%d and NTC #%d\n", maxagcw, maxntc) > "/dev/stderr";
   printf("#02 Contains members up to AGCW #%d and NTC #%d\n", maxagcw, maxntc);
   printf("%s has the longest name: \"%s\" with %d characters\n", maxcall, maxname, length(maxname)) > "/dev/stderr";

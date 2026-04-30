@@ -125,8 +125,8 @@ BEGIN {
       if (ID == "" && call ~ /^XE/) ID = "XE";
       if (ID == "" && call ~ /^YL/) ID = "YL";
       if (ID == "" && call ~ /^Y[BCDE]/) ID = "YB";
-      if (ID == "" && call ~ /^YO/) ID = "YO";
-      if (ID == "" && call ~ /^Y[UTQ]/) ID = "YU";
+      if (ID == "" && call ~ /^Y[OPQ]/) ID = "YO";
+      if (ID == "" && call ~ /^Y[TU]/) ID = "YU";
       if (ID == "" && call ~ /^ZA/) ID = "ZA";
       if (ID == "" && call ~ /^ZB/) ID = "ZB";
       if (ID == "" && call ~ /^Z3/) ID = "Z3";

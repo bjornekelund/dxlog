@@ -31,7 +31,6 @@ echo Creating $OUTFILE
 cat $TEMP1 $TEMP2 $TEMP3 | gawk -f agcwntcqp.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
-echo Done
 
 ../copytosourcetree.bash $OUTFILE
 
