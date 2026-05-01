@@ -1,0 +1,232 @@
+Code,District,Administrative Unit
+D01,Abai District,Abai oblast
+D02,Aksuat District,Abai oblast
+D03,Ayagoz District,Abai oblast
+D04,Beskaragai District,Abai oblast
+D05,Borodulikha District,Abai oblast
+D06,Zhanasemey District,Abai oblast
+D07,Zharma District,Abai oblast
+D08,Kokpekti District,Abai oblast
+D09,Makanshy District,Abai oblast
+D10,Urzhar District,Abai oblast
+D11,Semey City Administration,Abai oblast
+D12,Kurchatov City Administration,Abai oblast
+B06,Akkol District,Akmolinskaya oblast
+B16,Arshaly District,Akmolinskaya oblast
+B11,Astrakhan District,Akmolinskaya oblast
+B10,Atbasar District,Akmolinskaya oblast
+B05,Bulandy District,Akmolinskaya oblast
+B02,Burabai District,Akmolinskaya oblast
+B03,Birzhan Sal District,Akmolinskaya oblast
+B14,Egindykol District,Akmolinskaya oblast
+B07,Ereymentau District,Akmolinskaya oblast
+B08,Esil District,Akmolinskaya oblast
+B09,Zhaksy District,Akmolinskaya oblast
+B13,Zharkain District,Akmolinskaya oblast
+B01,Zerendi District,Akmolinskaya oblast
+B17,Korgalzhyn District,Akmolinskaya oblast
+B04,Sandyktau District,Akmolinskaya oblast
+B15,Tselinograd District,Akmolinskaya oblast
+B12,Shortandy District,Akmolinskaya oblast
+B18,Kokshetau City Administration,Akmolinskaya oblast
+B20,Kosshy City Administration,Akmolinskaya oblast
+B19,Stepnogorsk City Administration,Akmolinskaya oblast
+I04,Alga District,Aktyubinskaya oblast
+I06,Aitekebi District,Aktyubinskaya oblast
+I11,Baiganin District,Aktyubinskaya oblast
+I02,Kargaly District,Aktyubinskaya oblast
+I03,Khobda District,Aktyubinskaya oblast
+I01,Martuk District,Aktyubinskaya oblast
+I09,Mugalzhar District,Aktyubinskaya oblast
+I07,Uil District,Aktyubinskaya oblast
+I08,Temir District,Aktyubinskaya oblast
+I05,Khromtau District,Aktyubinskaya oblast
+I12,Shalkar District,Aktyubinskaya oblast
+I10,Irgiz District,Aktyubinskaya oblast
+I13,Aktobe. Astana District,Aktobe
+I14,Aktobe. Almaty District,Aktobe
+Q01,Balkhash District,Almatinskaya oblast
+Q02,Enbekshikazakh District,Almatinskaya oblast
+Q03,Zhambyl District,Almatinskaya oblast
+Q04,Kegen District,Almatinskaya oblast
+Q05,Karasai District,Almatinskaya oblast
+Q06,Raimbek District,Almatinskaya oblast
+Q07,Talgar District,Almatinskaya oblast
+Q08,Uighur District,Almatinskaya oblast
+Q09,Ili District,Almatinskaya oblast
+Q10,Qonaev City Administration,Almatinskaya oblast
+Q11,Alatau City Administration,Almatinskaya oblast
+O07,Zhylyoi District,Atyrauskaya oblast
+O01,Inder District,Atyrauskaya oblast
+O04,Isatai District,Atyrauskaya oblast
+O03,Kurmangazy District,Atyrauskaya oblast
+O02,Kyzylkoga District,Atyrauskaya oblast
+O06,Makat District,Atyrauskaya oblast
+O05,Makhambet District,Atyrauskaya oblast
+O08,Atyrau City Administration,Atyrauskaya oblast
+M06,Akzhaiyk District,West-Kazakhstan oblast
+M01,Baiterek District,West-Kazakhstan oblast
+M11,Bokey Orda District,West-Kazakhstan oblast
+M03,Burlyn District,West-Kazakhstan oblast
+M12,Zhangala District,West-Kazakhstan oblast
+M08,Zhanibek District,West-Kazakhstan oblast
+M09,Kaztalov District,West-Kazakhstan oblast
+M10,Karatobe District,West-Kazakhstan oblast
+M07,Syrym District,West-Kazakhstan oblast
+M05,Taskala District,West-Kazakhstan oblast
+M02,Terekti District,West-Kazakhstan oblast
+M04,Shyngyrlau District,West-Kazakhstan oblast
+M13,Oral City Administration,West-Kazakhstan oblast
+T04,Baizak District,Zhambylskaya oblast
+T09,Zhambyl District,Zhambylskaya oblast
+T10,Zhualy District,Zhambylskaya oblast
+T08,Kordai District,Zhambylskaya oblast
+T06,Merke District,Zhambylskaya oblast
+T02,Moyynkum District,Zhambylskaya oblast
+T01,Sarysu District,Zhambylskaya oblast
+T03,Talas District,Zhambylskaya oblast
+T05,Turar Ryskulov District,Zhambylskaya oblast
+T07,Shu District,Zhambylskaya oblast
+T11,Taraz. Aulieata District,Taraz
+T12,Taraz. Zhibek Zholy District,Taraz
+V01,Aksu District,Zhetisu oblast
+V02,Alakol District,Zhetisu oblast
+V03,Eskeldi District,Zhetisu oblast
+V04,Kerbulak District,Zhetisu oblast
+V05,Koksu District,Zhetisu oblast
+V06,Karatal District,Zhetisu oblast
+V07,Panfilov District,Zhetisu oblast
+V08,Sarkan District,Zhetisu oblast
+V09,Taldykorgan City Administration,Zhetisu oblast
+V10,Tekeli City Administration,Zhetisu oblast
+P04,Abai District,Karagandinskaya oblast
+P09,Aktogay District,Karagandinskaya oblast
+P03,Bukhar-Zhyrau District,Karagandinskaya oblast
+P05,Karkaraly District,Karagandinskaya oblast
+P02,Nura District,Karagandinskaya oblast
+P01,Osakarov District,Karagandinskaya oblast
+P08,Shet District,Karagandinskaya oblast
+P06,Karaganda. Alikhan Bokeikhan District,Karagandinskaya oblast
+P07,Karaganda. Kazybek Bi District,Karagandinskaya oblast
+P11,Balkhash City Administration,Karagandinskaya oblast
+P10,Priozersk City Administration,Karagandinskaya oblast
+P12,Saran City Administration,Karagandinskaya oblast
+P13,Temirtau City Administration,Karagandinskaya oblast
+P14,Shakhtinsk City Administration,Karagandinskaya oblast
+L07,Altynsarin District,Kostanaiskaya oblast
+L16,Amangeldi District,Kostanaiskaya oblast
+L10,Auliekol District,Kostanaiskaya oblast
+L09,Beimbet Mailin District,Kostanaiskaya oblast
+L08,Denisov District,Kostanaiskaya oblast
+L15,Zhangeldi District,Kostanaiskaya oblast
+L12,Zhitikara District,Kostanaiskaya oblast
+L13,Kamysty District,Kostanaiskaya oblast
+L01,Karabalyk District,Kostanaiskaya oblast
+L11,Karasu District,Kostanaiskaya oblast
+L05,Kostanay District,Kostanaiskaya oblast
+L03,Mendykara District,Kostanaiskaya oblast
+L14,Naurzum District,Kostanaiskaya oblast
+L06,Sarykol District,Kostanaiskaya oblast
+L04,Uzynkol District,Kostanaiskaya oblast
+L02,Fyodorov District,Kostanaiskaya oblast
+L17,Kostanay City Administration,Kostanaiskaya oblast
+L18,Arkalyk City Administration,Kostanaiskaya oblast
+L19,Lisakovsk City Administration,Kostanaiskaya oblast
+L20,Rudny City Administration,Kostanaiskaya oblast
+K01,Aral District,Kzylordinskaya oblast
+K04,Zhalagash District,Kzylordinskaya oblast
+K07,Zhanakorgan District,Kzylordinskaya oblast
+K02,Kazaly District,Kzylordinskaya oblast
+K03,Karmakshy District,Kzylordinskaya oblast
+K05,Syrdarya District,Kzylordinskaya oblast
+K06,Shieli District,Kzylordinskaya oblast
+K08,Kyzylorda City Administration,Kzylordinskaya oblast
+S01,Baikonur City Administration,Kzylordinskaya oblast
+A01,Beineu District,Mangistauskaya oblast
+A04,Karakiya District,Mangistauskaya oblast
+A03,Mangystau District,Mangistauskaya oblast
+A07,Munaily District,Mangistauskaya oblast
+A02,Tupkaragan District,Mangistauskaya oblast
+A05,Aktau City Administration,Mangistauskaya oblast
+A06,Zhanaozen City Administration,Mangistauskaya oblast
+F10,Akkuly District,Pavlodarskaya oblast
+F04,Aktogay District,Pavlodarskaya oblast
+F08,Bayanaul District,Pavlodarskaya oblast
+F02,Irtysh District,Pavlodarskaya oblast
+F01,Zhelezin District,Pavlodarskaya oblast
+F09,Mai District,Pavlodarskaya oblast
+F06,Pavlodar District,Pavlodarskaya oblast
+F03,Terenkol District,Pavlodarskaya oblast
+F05,Uspen District,Pavlodarskaya oblast
+F07,Shcherbakty District,Pavlodarskaya oblast
+F11,Pavlodar City Administration,Pavlodarskaya oblast
+F12,Aksu City Administration,Pavlodarskaya oblast
+F13,Ekibastuz City Administration,Pavlodarskaya oblast
+C13,Aiyrtau District,North-Kazakhstan oblast
+C10,Akzhar District,North-Kazakhstan oblast
+C06,Akkaiyn District,North-Kazakhstan oblast
+C12,Gabit Musrepov District,North-Kazakhstan oblast
+C05,Esil District,North-Kazakhstan oblast
+C04,Zhambyl District,North-Kazakhstan oblast
+C02,Kyzylzhar District,North-Kazakhstan oblast
+C03,Magzhan Zhumabayev District,North-Kazakhstan oblast
+C01,Mamlyut District,North-Kazakhstan oblast
+C09,Taiynsha District,North-Kazakhstan oblast
+C07,Timiryazev District,North-Kazakhstan oblast
+C11,Ualikhanov District,North-Kazakhstan oblast
+C08,Shal Akyn District,North-Kazakhstan oblast
+C14,Petropavl City Administration,North-Kazakhstan oblast
+N02,Baidibek District,Turkestanskaya oblast
+N05,Zhetysai District,Turkestanskaya oblast
+N17,Keles District,Turkestanskaya oblast
+N11,Kazygurt District,Turkestanskaya oblast
+N12,Maktaaral District,Turkestanskaya oblast
+N04,Ordabasy District,Turkestanskaya oblast
+N03,Otyrar District,Turkestanskaya oblast
+N06,Sairam District,Turkestanskaya oblast
+N10,Saryagash District,Turkestanskaya oblast
+N13,Sauran District,Turkestanskaya oblast
+N01,Suzak District,Turkestanskaya oblast
+N08,Tolebi District,Turkestanskaya oblast
+N07,Tulkibas District,Turkestanskaya oblast
+N09,Shardara District,Turkestanskaya oblast
+N16,Turkistan City Administration,Turkestanskaya oblast
+N15,Arys City Administration,Turkestanskaya oblast
+N14,Kentau City Administration,Turkestanskaya oblast
+R01,Zhanaarka District,Ulytau oblast
+R02,Ulytau District,Ulytau oblast
+R03,Zhezkazgan City Administration,Ulytau oblast
+R04,Karazhal City Administration,Ulytau oblast
+R05,Satpayev City Administration,Ulytau oblast
+J05,Altai District,East-Kazakhstan oblast
+J04,Glubokoe District,East-Kazakhstan oblast
+J13,Zaisan District,East-Kazakhstan oblast
+J11,Kurchum District,East-Kazakhstan oblast
+J07,Katon-Karagai District,East-Kazakhstan oblast
+J09,Markakol District,East-Kazakhstan oblast
+J10,Samar District,East-Kazakhstan oblast
+J12,Tarbagatai District,East-Kazakhstan oblast
+J08,Ulken Naryn District,East-Kazakhstan oblast
+J06,Ulan District,East-Kazakhstan oblast
+J03,Shemonaikha District,East-Kazakhstan oblast
+J01,Oskemen City Administration,East-Kazakhstan oblast
+J02,Ridder City Administration,East-Kazakhstan oblast
+Z01,Astana. Almaty District,Astana
+Z04,Astana. Baikonur District,Astana
+Z02,Astana. Esil District,Astana
+Z05,Astana. Nura District,Astana
+Z06,Astana. Sarayshyk District,Astana
+Z03,Astana. Saryarka District,Astana
+G03,Almaty. Alatau District,Almaty
+G01,Almaty. Almaly District,Almaty
+G02,Almaty. Auezov District,Almaty
+G04,Almaty. Bostandyk District,Almaty
+G05,Almaty. Zhetysu District,Almaty
+G06,Almaty. Medeu District,Almaty
+G08,Almaty. Nauryzbai District,Almaty
+G07,Almaty. Turksib District,Almaty
+N18,Shymkent. Abai District,Shymkent
+N19,Shymkent. Al-Farabi District,Shymkent
+N20,Shymkent. Enbekshi District,Shymkent
+N21,Shymkent. Karatau District,Shymkent
+N22,Shymkent. Turan District,Shymkent
