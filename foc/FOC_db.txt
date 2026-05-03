@@ -1,4 +1,4 @@
-# Updated up to FOC #2260 - G3SYS. Updates to fabian@fkurz.net.
+# Updated up to FOC #2262 - IN3TWX. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -513,6 +513,7 @@ IK1WNO=Enrico;2255
 IK4EWX=Ian;2205
 IK5VLL=Andy;2156
 IN3FHE=Helga;2180
+IN3TWX=Wolf;2262
 IP0LOVE=Marco;2086
 IP0TRC=Marco;2086
 IR0FOC=Simone;1969
@@ -875,6 +876,7 @@ PA0INA=Frans;1366
 PA0JLS=Hans;1982
 PA160HZ=Bob;1865
 PA1918PAX=Bob;1865
+PA3AAV=Gert;2261
 PA3CVV=Miles;1900
 PA4N=Frank;2034
 PA5V=Bob;1865
