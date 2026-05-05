@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-05-02
+# LastEdit,2026-05-03
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -547,10 +547,11 @@ DF1TL,Klaus,,Murrhardt Germany
 DF2UD,Bernd,,Speyer Germany
 DF2UU,Hans,,Steinmauern Germany
 DF3CE,Wolf,,Buchen Germany
-DF3VM,Mike,,
+DF3VM,Mike,,Nonnweiler Germany
 DF3FS,Bert,,Geinhausen Germany
 DF3IAL,Andy,176,Nieder-Olm Germany (SM6CNN)
 DF3PN,Guenter,,Weiler Germany
+DF3VM,Mike,3935,
 DF4XX,Kurt,DL,Barsbuettel Germany
 DF4ZK,Gunter,,Wald-Michelbach Germany
 DF4ZL,Paul,2707,Moerfelden-Walldorf Germany
