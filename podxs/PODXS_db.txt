@@ -1,7 +1,7 @@
 # PODXS 070 members prefill database
 # Based on data from https://www.podxs070.com/member-files
-# Contains members up to #3066
-# Last updated 2026-05-03
+# Contains members up to #3067
+# Last updated 2026-05-07
 2E0DKH=2261
 2E0GBK=1870
 2E0HPI=2118
@@ -2815,6 +2815,7 @@ WA9BB=1160
 WA9KTT=1802
 WA9SLM=2998
 WB0BLV=332
+WB0OQV=3067
 WB0PTO=726
 WB0YAF=2880
 WB1W=626

@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2026-04-28
+# 1-Last Edit,2026-05-05
 # 2-Updated on Tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -344,6 +344,7 @@ AB7ZU,MIKE,AZ,
 AB8AV,JOE,OH,Norton OH
 AB8B,MIKE,OH,?
 AB8BT,ANDY,MI,
+AB8CC,CARL,OH,
 AB8CI,BRUCE,VA,Manassas VA
 AB8CK,DMITRY,NJ,
 AB8DF,,MI,
@@ -494,6 +495,7 @@ AC8VU,BOYD,OH,
 AC8W,STAN,MI,
 AC8Y,,VA,
 AC8ZU,BOB,OH,
+AC9AN,GEOFF,IL,
 AC9DN,ROY,IN,Warsaw IN
 AC9EZ,,IN,
 AC9GK,STEVE,IN,

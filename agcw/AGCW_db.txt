@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
 # Contains members up to #4474
-# Last updated 2026-05-03
+# Last updated 2026-05-07
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -31,6 +31,7 @@ A65CW=3758
 AA0RM=104
 AA1KD=4420
 AA3B=3961
+AB1PV=3655
 AI5CV=4246
 AI5HE=4233
 AJ6OZ=4329
