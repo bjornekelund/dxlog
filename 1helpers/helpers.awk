@@ -249,7 +249,7 @@ function notpredictablewapc(_call3, _state3)
         (_call3 ~ /^B[A-IY]?7[A-H]/ && _state3 != "HN") ||\
         (_call3 ~ /^B[A-IY]?7[I-P]/ && _state3 != "GD") ||\
         (_call3 ~ /^B[A-IY]?7[Q-XZ]/ && _state3 != "GX") ||\
-        (_call3 ~ /^B[A-IY]?7Y|^BS7H/ && _state3 != "HI") ||\
+        (_call3 ~ /^B[A-IY]?7Y|^BS7H$/ && _state3 != "HI") ||\
         (_call3 ~ /^B[A-IY]?8[A-F]/ && _state3 != "SC") ||\
         (_call3 ~ /^B[A-IY]?8[G-L]/ && _state3 != "CQ") ||\
         (_call3 ~ /^B[A-IY]?8[M-R]/ && _state3 != "GZ") ||\
