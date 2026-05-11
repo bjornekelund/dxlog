@@ -234,8 +234,8 @@ function notpredictablewapc(_call3, _state3)
         (_call3 ~ /^B[A-IY]?2[I-P]/ && _state3 != "JL") ||\
         (_call3 ~ /^B[A-IY]?2[Q-Z]/ && _state3 != "LN") ||\
         (_call3 ~ /^B[A-IY]?3[A-F]/ && _state3 != "TJ") ||\
-        (_call3 ~ /^B[A-IY]?3[G-J]/ && _state3 != "NM") ||\
-        (_call3 ~ /^B[A-IY]?3[K-R]/ && _state3 != "HE") ||\
+        (_call3 ~ /^B[A-IY]?3[G-L]/ && _state3 != "NM") ||\
+        (_call3 ~ /^B[A-IY]?3[M-R]/ && _state3 != "HE") ||\
         (_call3 ~ /^B[A-IY]?3[S-Z]/ && _state3 != "SX") ||\
         (_call3 ~ /^B[A-IY]?4[A-H]/ && _state3 != "SH") ||\
         (_call3 ~ /^B[A-IY]?4[I-P]/ && _state3 != "SD") ||\
@@ -248,7 +248,7 @@ function notpredictablewapc(_call3, _state3)
         (_call3 ~ /^B[A-IY]?6[Q-Z]/ && _state3 != "HB") ||\
         (_call3 ~ /^B[A-IY]?7[A-H]/ && _state3 != "HN") ||\
         (_call3 ~ /^B[A-IY]?7[I-P]/ && _state3 != "GD") ||\
-        (_call3 ~ /^B[A-IY]?7[Q-Z]/ && _state3 != "GX") ||\
+        (_call3 ~ /^B[A-IY]?7[Q-X]/ && _state3 != "GX") ||\
         (_call3 ~ /^B[A-IY]?7Y|^BS7H/ && _state3 != "HI") ||\
         (_call3 ~ /^B[A-IY]?8[A-F]/ && _state3 != "SC") ||\
         (_call3 ~ /^B[A-IY]?8[G-L]/ && _state3 != "CQ") ||\
