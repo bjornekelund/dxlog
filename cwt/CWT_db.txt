@@ -3,7 +3,7 @@
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Przemyslaw" with 10 characters
 # Contains members up to #3936
-# Last updated 2026-05-07
+# Last updated 2026-05-08
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -432,6 +432,7 @@ AI3W=Rick;UT
 AI4FH=WES;VA
 AI5BE=Tim;3874
 AI5IN=Mart;3728
+AI5ZI=TODD;TX
 AI6CU=Tom;CWA
 AI6DO=Ryan;CA
 AI6IE=Step;CA
@@ -549,7 +550,6 @@ DF3FS=Bert;DL
 DF3IAL=Andy;176
 DF3PN=Guenter;DL
 DF3VM=Mike;3935
-DF3VM=Mike;3935
 DF3VM=Mike;DL
 DF4XX=Kurt;DL
 DF4ZK=Gunter;DL
@@ -663,6 +663,7 @@ DL1QQ=Sandy;1581
 DL1REM=Frank;DL
 DL1RNN=Lutz;DL
 DL1ROT=Tom;DL
+DL1RTL=HEIKO;DL
 DL1VDL=Hardy;2802
 DL1XX=Klaus;DL
 DL2ANM=Heinz;DL
@@ -3779,6 +3780,7 @@ N2WG=Bill;NC
 N2WK=Wayne;1767
 N2WKS=Zev;NJ
 N2WY=Robert;NY
+N2YHQ=MARCELO;NY
 N2YO=Chip;405
 N2ZN/M=Ken;697
 N2ZN=Ken;697
@@ -6848,6 +6850,7 @@ WP4TZ=Manu;3512
 WQ2E=Jack;2054
 WQ3E=Josy;1135
 WQ5T=Sally;3554
+WQ5W=ALAN;TX
 WQ7O=Dennis;WA
 WR1TC=Marv;MA
 WR4T=Ted;2879

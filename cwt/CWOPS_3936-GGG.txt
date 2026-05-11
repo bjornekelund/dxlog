@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-<<<<<<<< HEAD:cwt/CWOPS_3935.txt
-# LastEdit,2026-05-03
-========
-# LastEdit,2026-05-06
->>>>>>>> 1684b46e (Update):cwt/CWOPS_3936-EEE.txt
+# LastEdit,2026-05-07
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -438,6 +434,7 @@ AI3W,Rick,UT,Murray UT
 AI4FH,WES,VA,Groucester VA
 AI5BE,Tim,3874,Waveland MS
 AI5IN,Mart,3728,Waller TX
+AI5ZI,TODD,TX,
 AI6CU,Tom,CWA,Pittsburgh PA
 AI6DO,Ryan,CA,Torrance CA
 AI6IE,Step,CA,Alta Loma CA
@@ -669,6 +666,7 @@ DL1QQ,Sandy,1581,Hoexter Germany
 DL1REM,Frank,DL,Schoeppingen Germany
 DL1RNN,Lutz,,Wolfsburg Germany
 DL1ROT,Tom,,Muencheberg Germany
+DL1RTL,HEIKO,,
 DL1VDL,Hardy,2802,Dresden Germany
 DL1XX,Klaus,,Spechbach Germany
 DL2ANM,Heinz,,Altenburg Germany
@@ -3794,6 +3792,7 @@ N2WG,Bill,NC,Wilmington NC (QRP)
 N2WK,Wayne,1767,Holley NY 
 N2WKS,Zev,NJ,Teaneck NJ
 N2WY,Robert,NY,Hilton NY
+N2YHQ,MARCELO,NY,
 N2YO,Chip,405,Chantilly VA
 N2ZN,Ken,697,Walworth NY
 N2ZN/M,Ken,697,
@@ -6869,6 +6868,7 @@ WP4TZ,Manu,3512,San Juan PR
 WQ2E,Jack,2054,Schenectady NY
 WQ3E,Josy,1135,Norristown PA
 WQ5T,Sally,3554,Sprindale AR
+WQ5W,ALAN,TX,
 WQ7O,Dennis,WA,Colbert WA
 WR1TC,Marv,MA,Hanover MA
 WR4T,Ted,2879,Cincinnati OH
