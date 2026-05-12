@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Przemyslaw" with 10 characters
-# Contains members up to #3936
-# Last updated 2026-05-08
+# Contains members up to #3937
+# Last updated 2026-05-12
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -433,6 +433,7 @@ AI4FH=WES;VA
 AI5BE=Tim;3874
 AI5IN=Mart;3728
 AI5ZI=TODD;TX
+AI5ZI=TODD;TX
 AI6CU=Tom;CWA
 AI6DO=Ryan;CA
 AI6IE=Step;CA
@@ -663,6 +664,7 @@ DL1QQ=Sandy;1581
 DL1REM=Frank;DL
 DL1RNN=Lutz;DL
 DL1ROT=Tom;DL
+DL1RTL=HEIKO;DL
 DL1RTL=HEIKO;DL
 DL1VDL=Hardy;2802
 DL1XX=Klaus;DL
@@ -3781,6 +3783,7 @@ N2WK=Wayne;1767
 N2WKS=Zev;NJ
 N2WY=Robert;NY
 N2YHQ=MARCELO;NY
+N2YHQ=MARCELO;NY
 N2YO=Chip;405
 N2ZN/M=Ken;697
 N2ZN=Ken;697
@@ -5850,7 +5853,7 @@ W2GD/KP2=John;204
 W2GD=John;204
 W2GEZ=MIke;NJ
 W2GN=Chas;1265
-W2GR=Mike;NY
+W2GR=Mike;3937
 W2GZ=Scott;3129
 W2HMU=Gary;3167
 W2HZ/7=Fred;CWA
@@ -6850,6 +6853,7 @@ WP4TZ=Manu;3512
 WQ2E=Jack;2054
 WQ3E=Josy;1135
 WQ5T=Sally;3554
+WQ5W=ALAN;TX
 WQ5W=ALAN;TX
 WQ7O=Dennis;WA
 WR1TC=Marv;MA
