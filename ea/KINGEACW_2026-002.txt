@@ -1,12 +1,12 @@
 
 !!Order!!,Call,Exch1,UserText
-#
+# 
 # EA/Spain prov.
 # EARTTY
 # KINGEACW
 # KINGEASSB
 # Updated from the log of VE2FK and Web site
-# Last Edit,2024-05-13
+# Last Edit,2026-05-12
 # Send info, correction direct to ve2fk@arrl.net
 # Thanks Nino EB7A for update
 
@@ -1182,7 +1182,7 @@ EA1WC,O
 EA1WD,S
 EA1WE,VA
 EA1WG,VA
-EA1WH,S
+EA1WH,C,
 EA1WI,PO
 EA1WJ,AV
 EA1WK,O
@@ -2348,7 +2348,6 @@ EA2DPS,BI
 EA2DPS/1,S
 EA2DPU,NA
 EA2DPV,NA
-EA2DPO,ZA
 EA2DQ,BI
 EA2DQS,TE
 EA2DR,VI
@@ -13367,6 +13366,7 @@ EA7LD,J
 EA7LE,SE
 EA7LF,AL
 EA7LG,CA
+EA7LGI,J,
 EA7LH,J
 EA7LI,MA
 EA7LJ,SE
@@ -15024,7 +15024,6 @@ EA9UR,CE
 EA9URM,ML
 EA9US,CE
 EA9UV,CE
-EAWU,CS
 EB1A,C
 EB1AA,LO
 EB1AAL,C

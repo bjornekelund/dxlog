@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4474
-# Last updated 2026-05-12
+# Contains members up to #4475
+# Last updated 2026-05-16
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -642,6 +642,7 @@ DK5KE=158
 DK5MIK=3715
 DK5NA=3097
 DK5OCE=3450
+DK5OE=2590
 DK5OZ=4415
 DK5PD=93
 DK5PZ=225
@@ -1868,6 +1869,7 @@ OE8TIR=1044
 OE9BBH=3585
 OE9WLJ=3084
 OH1BOI=3618
+OH1HAQ=4475
 OH2BN=155
 OH2OM=1905
 OH5JJL=4015

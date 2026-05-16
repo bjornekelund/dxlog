@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-<<<<<<<< HEAD:cwt/CWOPS_3936-GGG.txt
-# LastEdit,2026-05-07
-========
-# LastEdit,2026-05-09
->>>>>>>> 20bc6022 (Update):cwt/CWOPS_3937.txt
+# LastEdit,2026-05-13
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -869,6 +865,7 @@ EA6BF,Josep,3072,Balearic Island
 EA6EJ,Ini,3276,Palma de Mallorca Spain
 EA6TS,Pedro,,Balearic Isl. Spain
 EA6UP,Migueel,,Balearic Isl.
+EA7/HA3NZ,Ben,EA
 EA7/LZ1ZF,Gosho,,
 EA7/VE3NZ,Ben,,
 EA7AM,Pedro,,Jaen Spain
@@ -2655,6 +2652,7 @@ KB2GKC,John,CWA,Mohawk NY
 KB2PIZ,Mark,3219,Forest Hills NY
 KB3AAY,Ron,1866,Sykesville MD
 KB3CT,Matt,PA,Beaver Falls PA
+KB3FTE,Regan,PA,Wellsville PA
 KB3FW,Harv,2982,Bluffton SC
 KB3ILS,Keith,PA,Avondale
 KB3MDD,Pras,3630,Sgar Land TX
@@ -3142,6 +3140,7 @@ KK6M,Roy,2177,Arcadia CA
 KK6MF,Lawrence,CA,Tracy CA
 KK6MU,Mike,CA,El Dorado Hills CA
 KK6NON,Levi,CA,Vista CA
+KN6Y,Steve,CA,Rosamond CA
 KK6ZHK,Ken,2686,Sedona AZ
 KK7A,Jim,1975,Meridian ID (Occ. remote CT)
 KK7DEU,Guny,3336,Sandy OR
@@ -4805,6 +4804,7 @@ ON4TC,Jean,,Sombreffe Belgique
 ON4TTT,Lee,ON,Kampenhout Belgium
 ON4VT,Danny,2170,Hulshout Belgium
 ON4WW,Mark,,Sint-Denijs-Westrem
+ON5AI,Erik,,Kasterlee Belgium
 ON5AM,Albert,ON,Ans Belgium
 ON5JT,Jean,,Belgium (Mainly QRP)
 ON5LGS,Edy,,Mouscron Belgium
@@ -4914,6 +4914,7 @@ PA8MM,Victor,,Purmerend Netherlands
 PA9WOR,Bart,,Apeldoorn/Almelo Netherlands
 PC4H,Henk,3399,Hoofddorp Netherlands
 PC6R,Dick,3175,Heemstede Netherlands
+PD1RDY,Rudy,,Heerthugowaard Netherlands
 PD2DX,Johan,,Overijssel Netherlands
 PD2R,Maarten,,Netherlands
 PD5BS,Bill,3757,Vissingen Netherlands
@@ -5171,6 +5172,7 @@ SP3FSM,Stan,2961,Poznan Poland
 SP3GTR,Arek,3895,
 SP3JDZ,Wit,,
 SP3UQW,Zbig,3833,
+SP3WKW,Kamil,,
 SP4AWE,Kaz,,Bialystok Poland
 SP4JFR,Bolo,3227,11-400 Ketrzyn
 SP4Z,Wes,,Lapy Poland
@@ -5204,7 +5206,7 @@ SQ6GIT,Konrad,2045,Pisarzowice Poland
 SQ6JNX,Mike,3137,Wroclaw Poland
 SQ6MIH,Barteck,,Warta Boleslawiecka Poland
 SQ8LUV,Chris,SP,Near Lubun Poland
-SQ9AOI,Przemyslaw,,
+SQ9AOI,Przemek,,
 SQ9IWA,Tomasz,2240,Wodsislaw Slaski Poland
 SQ9S,Adam,2309,Pszow Poland
 ST2AR,Rob,492,(S53R)
@@ -6023,6 +6025,7 @@ W4DWS,Mayor,GA,Cave Spring GA
 W4DXX,Eric,1040,Bainbridge GA
 W4EDE,Lee,30,Miami Beach FL
 W4EE,Jim,FL,Palm Bay FL
+W4EMW,Ed,GA,Rome GA
 W4ER,John,1189,Mobile AL (KX2 5w to attic ant. or /p)
 W4FC,Paul,SC,Greenville SC
 W4FCG,OJ,FL,Florida Contest Group

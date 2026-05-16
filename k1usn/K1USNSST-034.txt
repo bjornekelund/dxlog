@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2026-05-05
+# 1-Last Edit,2026-05-12
 # 2-Updated on Tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -4943,6 +4943,7 @@ KD2I,,NJ,
 KD2JC,JOE,NJ,
 KD2JKV,PETER,NY,
 KD2KW,KEN,TX,
+KD2LIS,STEVE,OH,
 KD2MQE,DAVE,NY,New Paltz NY
 KD2MX,PAUL,NJ,
 KD2NE,,NY,
@@ -6379,7 +6380,7 @@ KP4TF,ED,DX,Aguadilla PR
 KQ0E,RON,MN,Bemidji MN
 KQ1O,SANTI,VA,Midlothian VA
 KQ1RP,SCOTT,FL,Cape Coral FL
-KQ1S,BILL,SC,
+KQ1S,BILL,VA,
 KQ3Q,LIDI,FL,Homestead FL
 KQ3S,JIM,PA,New Kensington PA
 KQ4AAR,IKE,NC,Cary NC
@@ -8006,6 +8007,7 @@ N5ID,,MS,
 N5IDQ,HANK,OK,?
 N5IE,MIKE,IL,
 N5II,BILL,LA,
+N5IIT,TIM,MD,
 N5IJE,,TX,
 N5IJU,,TX,
 N5ILQ,RANDY,OK,Edmond OK
@@ -13870,6 +13872,7 @@ WA2GBF,,PA,
 WA2GFP,,NY,
 WA2GO,,NY,
 WA2GSX,,NY,
+WA2GTJ,RICH,PA,
 WA2HFI,,MN,
 WA2HFI/0,,MN,
 WA2HIP,JOHN,ME,
@@ -14317,6 +14320,7 @@ WA9TGT,DON,IN,Muncie IN
 WA9TT,LARRY,WI,Appleton WI
 WA9TZE,JIM,WI,
 WA9VEE,WAYNE,WI,
+WB9YTG,TOM,MO,
 WA9YTQ,,IL,
 WA9Z,,IL,
 WA9ZPC,,WI,
