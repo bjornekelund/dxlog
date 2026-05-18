@@ -2,7 +2,7 @@
 # Also used for Makrothen, Maidenhead Mayhem, Russian 160m, Solar Eclipse QP, and CQ WW VHF contests
 # Based on data maintained by VE2FK
 # Send new info/corrections to ve2fk@arrl.net
-# Last updated 2026-02-06
+# Last updated 2026-05-18
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -9951,6 +9951,7 @@ RA7M=KN97
 RA7R=KN64
 RA7RA=KN64
 RA7T=LN05
+RA8AO=MO06
 RA8AWA=MO05
 RA8J=MP80
 RA9A=MO05
@@ -10586,6 +10587,7 @@ RT8O=NO15
 RT8U=NO35
 RT9A=MO04
 RT9AT=MO05
+RT9C=MO06
 RT9I=NO26
 RT9J=MP80
 RT9K=MP84
