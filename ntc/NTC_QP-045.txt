@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-04-10
-# Last number listed 304 PA3AAV
+# Last edit,2026-05-20
+# Last number listed 307 E79D
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -68,6 +68,7 @@ DP1POL,Felix,80,
 DP4E,Ralf,125,(DL4YR)
 DR3I,Micha,83,
 DU1/PG5V,Ger,212,
+E79D,Dal,307,
 EA1ARW,Luis,75,
 EA1IQ,Xesus,68,
 EA3NO,LLuis,69,
@@ -89,6 +90,7 @@ G0LLX,Andy,156,
 G3J,Mike,115,
 G3WZD,Mac,36,
 G3XTZ,Graham,166,
+G4BFG,Ciemon,306,
 G4BUE,Chris,NM,
 G4CPA,Geoff,123,
 G4ETS,Julian,220,
@@ -163,6 +165,7 @@ OK1DSA,Roman,207,
 OK1DZD,Zdenek,217,
 OK1DZ,Zdenek,217,
 OK1LO,Lad,215,
+OK1LZ,Zdenek,305,
 OK1RR,Martin,51,
 OK1WSL,Josef,262,
 OK2BCF,Milan,294,

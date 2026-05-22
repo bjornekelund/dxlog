@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-05-13
+# LastEdit,2026-05-20
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -650,6 +650,7 @@ DL/UX1HW/M,Art,1890,
 DL0AF,Fritz,,RC Erwitte Germany
 DL0DA,Hardy,2802,Dresden Germany (DL1VDL)
 DL1AXX,Seb,,Cologne Germany
+DL1BUG,Bug,3938,
 DL1DT,Ole,,Bleicherode Germany
 DL1EFW,Marek,,Moenchengladbach Germany
 DL1EJM,Christ,,Duisburg Germany
@@ -2778,6 +2779,7 @@ KC7ZO,Dan,MT,Stevensville MT
 KC8GTX,Mike,MI,Birmingham MI
 KC8J,Walt,2085,San Diego CA
 KC8UR,Tony,OH,Mount Vernon OH
+KD9C,Mark,3433,Fishers IN
 KC9EE,Gary,1240,Morton IL
 KC9FFV,Mark,TX,Forney TX
 KC9IL,Warren,3332,Buffalo Grove IL
@@ -3389,6 +3391,7 @@ KW6SEA,Justin,3586,Santa Rosa CA
 KW7A,John,UT,Nephi UT
 KW7D,Paul,NM,Deming NM
 KW7Q,Steve,1039,Ft Collins CO
+KW7WP,Jim,OR,Independence OR
 KW7XX,Dean,WA,Custer WA
 KW8N,Bob,1454,Ridgeville OH
 KW9A,Dave,123,Good Hope IL
@@ -3720,6 +3723,7 @@ N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
 N1UW,Frank,AZ,Tuscan
 N1VH,Marty,1927,Braintree MA
+N1WI,Larry,CT,Sherman CT
 N1XF,Glen,ME,South Berwick ME
 N1XI,Paul,NC,Lansing NC
 N1XS,Chris,1817,Dallas TX
@@ -4635,6 +4639,7 @@ NY4A,Gaea,132,Blounts Creek NC (Potomac Valley Radio Club)
 NY4G,Ariel,SC,Travelers Rest SC
 NY4ZZ,Neil,NC,Sneads Ferry NC
 NY6DX,John,NY,Jericho NY
+NY7H,Darin,CWA,Yuma AZ
 NZ2Z,Bob,GA,Kennesaw GA
 NZ3O,Byron,2026,West Chester PA
 NZ4CW,Craig,SC,Charleston SC
@@ -4757,6 +4762,7 @@ OK2PWX,Jarek,3929,Olomouc Czech Republic
 OK2QA,Ruda,2891,Hrainice Czech Republic
 OK2QX,Jiri,,Preron Czech Republic
 OK2RJC,Jiri,,(RC) Jistebnik Czech Republic
+OK2RN,Leo,,Ostrava Czech Republic
 OK2RRR,Jiri,,Czech Republic RC of Jara Da Cimrman
 OK2RZ,Jiri,,Trebovice Czech Republic
 OK2SG,Stan,,Rosice u Brna Czech Republic
@@ -4962,6 +4968,7 @@ PZ5KV,Axel,1678,(DL6KVA) Brazil
 PZ5RA,Ramon,,Suriname
 PZ5T,Yuri,21,(VE3DZ) Suriname
 PZ5TG,Klaus,2524,(DL8TG) Surinam
+R2SR,VAl,,Ryazan Russia
 R2ZM,Alex,,Belgorodskaya Russia
 R3EV,Larry,,Oriovskaya Russia
 R3LB,Alex,,Smolensk Russia
@@ -5882,7 +5889,7 @@ W2ITT,Rob,2948,Huntington NY
 W2IW,Mike,FL,Hudson FL
 W2IY,Mike,3031,Santa Fe NM
 W2JAZ,Rick,2239,Cherry Hill NJ
-W2JJW,Jim,NJ,
+W2JJW,Jim,CWA,Allentown NJ
 W2JK,Joe,NY,Floral Park NY
 W2JLK,Jim,NJ,Matawan NJ
 W2KA,Mike,3161,Fairport NY
@@ -6611,6 +6618,7 @@ WA7HJV,Jack,1239,Pendleton OR
 WA7KJ,Den,2863,Washougal WA
 WA7KVI,Wes,2729,Auburn WA
 WA7LNW,Jack,2454,Washington UT
+WA7SPY,Glenn,CWA,Chico CA
 WA7YAZ,Steve,UT,Salt Lake City UT
 WA8AXF,Dave,MI,Kalamazoo MI
 WA8CLT,John,OH,Columbus OH
@@ -7038,6 +7046,7 @@ Z31PM,Misop,3811,North Macedonia
 Z31RM,Ted,3868,
 Z32U,Zoki,Z3,North Macedonia
 Z33B,Kirk,,North Macedonia
+Z33C,Vele,,North Macedonia
 Z35M,Vlado,Z3,Skopje Republic of North Macedonia
 ZA/G4PVM,Paul,2413,Albania
 ZA1EM,Elvira,3076,Elbasan Albania
