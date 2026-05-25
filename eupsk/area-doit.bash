@@ -23,7 +23,7 @@ BEGIN {
 }
 END {
   printf("ZZZ[MULTIPLIERS END]\n");
-}' | sort | sed 's/ZZZ\[/\[/g' | sed 's/000\[/\[/g' > $OUTFILE
+}' | sort | sed 's/ZZZ\[/\[/g' | sed 's/000\[/\[/g' | sed 's/[[:space:]]*$//' > $OUTFILE
 
 unix2dos -q a-result.txt
 
