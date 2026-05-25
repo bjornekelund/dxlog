@@ -7,24 +7,7 @@
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
-
-IZ1AWE,FEDE,DX,
-K0NH,JAMES,IA,
-KN6X,BOB,IN,
-KR4BJN,RYAN,KY,
-N0BF,STEVE,OH,
-N1WI,LARRY,CT,
-N4EF,DAVE,FL,
-N4JX,MIKE,FL,
-SQ9OKG,X,X,
-VE3QC,GUY,ON,
-WA7PGE,DUANE,UT,
-WB1FJW,TOM,NH,
-
-
-WA3BKD,ART,
-WW1H,BILL,
-
+#
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -1372,6 +1355,7 @@ IX1IIU,Maurizzio,,St.Christophe Ilaty
 IZ0KBW,Luigi,2156,Roma Italy
 IZ0RQF,BOB,
 IZ0TZI,Gian,,Roma Italy
+IZ1AWE,FEDE,DX,
 IZ1ELP,ED,
 IZ1GCW,MAX,
 IZ1IFT,John,,Italy
@@ -1515,6 +1499,7 @@ K0MPH,Roger,MN,Maple Grove MN
 K0MVB,Bob,2649,Goodland KS
 K0MZN,Del,NV,Pahrump NV
 K0NEO,RON,
+K0NH,JAMES,IA,
 K0NIA,Mark,IA,Bettendorf IA
 K0NM,Niz,1430,Sugar Land TX
 K0NW,Ed,CA,Fullerton CA
@@ -1557,7 +1542,6 @@ K0WOI,Dan,IA,Minburn IA
 K0WRY,KENT,
 K0XP,Steve,CA,Mission Viejo CA
 K0XQ,Sean,1844,Andover MN
-K0XV,JIM,
 K0XV,JIM,MA,
 K0XX,JOHN,
 K0YL,Nancy,1831,Thompson ND
@@ -2877,8 +2861,7 @@ KC4HW,Jim,AL,Slocomb AL
 KC4IGO,LEE,
 KC4JEM,MIKE,
 KC4LE,Red,AL,Birmingham AL
-KC4M,AL,,West End NC
-KC4M,JACK,
+KC4M,AL,NC,West End NC
 KC4T,Mark,2953,Atlanta GA
 KC4UCT,John,GA,Altanta GA
 KC4WQ,Bud,2440,Shepherdsville KY
@@ -3488,7 +3471,7 @@ KN6RDC,CHRIS,
 KN6TAC,DON,,San Diego CA
 KN6TRY,RICH,,Santa Cruz CA
 KN6UDK,BILL,,Sacramento CA
-KN6X,BOB,
+KN6X,BOB,IN,
 KN7A,Terry,3063,Corvallis OR
 KN7T,Mark,2274,Snohomish WA
 KN7Y,JACK,,Mesa AZ
@@ -3571,7 +3554,6 @@ KQ4EFL,MIKE,
 KQ4FBF,TIM,
 KQ4FR,MIKE,,
 KQ4GHE,MIKE,
-KQ4J,JIM,
 KQ4J,JIM,TN,
 KQ4JB,JOE,,Winston Salem NC
 KQ4JEZ,GREGG,
@@ -3591,6 +3573,7 @@ KR2Q,Doug,438,Randolph NJ
 KR3E,Ed,ND,Derwood MD
 KR4AE,Alan,1460,Cleveland GA (Full Time QRP K3/10 @ 5w)
 KR4ANA,JIM,FL,
+KR4BJN,RYAN,KY,
 KR4BUA,ELLIOT,
 KR4CRJ,Brian,NC,Stoneville NC
 KR4GFN,BRETT,
@@ -3865,6 +3848,7 @@ N0ANE,MIKE,,Saint Peter MN
 N0AT,Ron,2399,Plymouth MN
 N0AV,Jim,359,Goldfield IA
 N0AX,Ward,1744,St-Charles MO
+N0BF,STEVE,OH,
 N0BK,Bruce,2763,South Saint Paul MN
 N0BM,Brian,2772,Woodbury MN
 N0CB,Royce,NE,Omaha NE
@@ -3988,7 +3972,7 @@ N1TWC,Jeff,OH,Dublin OH
 N1TX,Larry,912,Fairbanks AK
 N1UO,Chris,RI,Newport RI
 N1VH,Marty,1927,Braintree MA
-N1WI,LARRY,
+N1WI,LARRY,CT,
 N1XF,Glen,ME,South Berwick ME
 N1XI,PAUL,
 N1XS,Chris,1817,Dallas TX
@@ -4191,6 +4175,7 @@ N4DW,Dave,923,Kingsport TN
 N4EEB,John,2335,Astor FL
 N4EEL,WIGG,
 N4EEV,Mike,1600,Richmond Hills GA
+N4EF,DAVE,FL,
 N4EII,Al,2291,Cary NC
 N4EJF,JOE,,Selma AL
 N4EL,NAT,,Tipp City OH
@@ -4224,6 +4209,7 @@ N4IY,Terry,2250,Borden IN
 N4JEH,JENNA,
 N4JGD,David,NC,Kinston NC
 N4JRA,JAMES,
+N4JX,MIKE,FL,
 N4KD,David,GA,Duluth GA
 N4KGY,BART,
 N4KH,Jim,2409,Huntsville AL
@@ -5518,6 +5504,7 @@ SQ6GIT,Konrad,2045,Pisarzowice Poland
 SQ6JNX,Mike,3137,Wroclaw Poland
 SQ6MIH,Barteck,,
 SQ9IWA,Tomasz,SP,Wodsislaw Slaski Poland
+SQ9OKG,X,X,
 SQ9S,Adam,2309,Pszow Poland
 ST2AR,Rob,492,Khartoum Sudan
 SV0XCC/9,Paul,1009,Crete Greece
@@ -5871,6 +5858,7 @@ VE3PQ,Paul,ON,Georgian Bluffs ON
 VE3PVI,Tom,1735,Ingleside ON
 VE3PYH,ISAAC,,Toronto ON
 VE3PZ,PAT,
+VE3QC,GUY,ON,
 VE3QDA,XIN,
 VE3QN,Bryan,ON,Gloucester ON
 VE3RDE,Roger,2957,Ottawa ON
@@ -7002,6 +6990,7 @@ WA2VYA,Frank,FL,Tallahassee FL
 WA2VZQ,Ken,NY,Saint James NY
 WA3AAN,Grant,,Philadelphia PA
 WA3AER,Ted,1879,Baltimore MD
+WA3BKD,ART,
 WA3EOQ,HOWARD,
 WA3FAE,Forrest,MD,
 WA3FRF,JOE,
@@ -7087,6 +7076,7 @@ WA7HJV,Jack,1239,Pendleton OR
 WA7KJ,Den,2863,Washougal WA
 WA7KVI,Wes,2729,Auburn WA
 WA7LNW,Jack,2454,Washington UT
+WA7PGE,DUANE,UT,
 WA7RJ,MARK,WA,Tulalip WA
 WA7RLZ,KEN,,Emmett ID
 WA7SPY,GLENN,,Chico CA
@@ -7142,6 +7132,7 @@ WB0SND,Mike,1469,De Soto MO
 WB0TUA,Derek,MO,Creve Coeur MO
 WB0U,Len,MN,Rochester MN
 WB1ECP,GERRY,TN, 
+WB1FJW,TOM,NH,
 WB1KE,Loren,UT,Orem UT
 WB1LLY,Billy,GA,(2851) Register GA
 WB1S,DAVE,,Fishers Island NY
@@ -7499,6 +7490,7 @@ WV6Q,BILL,
 WW0K,Zac,IA,Ames IA
 WW0SS,Nick,MN,Shoreview MN
 WW0WWV,Gary,CO,(AF8A) Fort Collins WWV ARC
+WW1H,BILL,
 WW1ME,RICK,
 WW2I,PETER,
 WW2J,LARRY,

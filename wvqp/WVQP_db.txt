@@ -1,7 +1,7 @@
 # West Virginia QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-05-22
+# Last updated 2026-05-25
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1238,6 +1238,7 @@ KO4QZY=GA
 KO4VW=GA
 KO4YVV=TN
 KO4ZWD=GA
+KO6CKO=CO
 KO6CZV=CA
 KO6EUM=CA
 KO6GTK=CA

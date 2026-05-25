@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-05-20
+# LastEdit,2026-05-23
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -3157,7 +3157,7 @@ KK8O,Eric,2066,(ex: KK0ECT) Fort Collins CO
 KK9G,Dan,IN,Mishawaka IN
 KK9H,Don,480,Northfield IL
 KK9N,Ken,MO,Maryland Heights MO
-KK9T,Tim,MI,Lowell MI
+KK9T,Tim,3939,Lowell MI
 KK9TT,Joe,3261,Pensacola FL (Full Time RV)
 KK9U,SEAN,3114,Belleville IL
 KK9V,Mike,1647,Trafalgar IN
