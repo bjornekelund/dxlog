@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "FREDERICK" with 9 characters
-# Last updated 2026-05-22
+# Last updated 2026-05-25
 2E0GKC=PAUL;DX
 2E0IIV=STEVE;DX
 2E0PKK=PAUL;DX
@@ -8320,6 +8320,7 @@ VK2GR=ALLAN;DX
 VO1AW=BK;NF
 VO1HE=PAUL;NF
 VO1HP=FRANK;NF
+VO1KGZ=GORD;NF
 VO1MP=GUS;NF
 VO1MRC=MARCONI;NF
 VO1TTY=FRANK;NF
