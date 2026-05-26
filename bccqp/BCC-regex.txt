@@ -1,6 +1,6 @@
 
 # Silent multiplier to highlight members in bandmap.
-# Member callsigns from https://www.bavarian-contest-club.de as of 2026-05-22
+# Member callsigns from https://www.bavarian-contest-club.de as of 2026-05-26
 MULT2_TYPE=CALLSIGN
 MULT2_COUNT=PER_MODE
 MULT2_FIELD=CALLSIGN

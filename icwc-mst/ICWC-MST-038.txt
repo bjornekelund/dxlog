@@ -3315,6 +3315,7 @@ KJ4IOR,David,GA,Smyrna GA
 KJ4J,Gene,NC,Reidsville NC
 KJ4LEN,RAY,
 KJ4M,Gene,2109,Birmingham AL
+KJ4Q,TOM,
 KJ4R,Ed,3080,Sumter SC
 KJ4WKD,Jim,CT,Danbury CT
 KJ4WNA,Max,TX,Houston TX
@@ -5386,6 +5387,7 @@ SE6K,Mats,,Ugglarp Sweden
 SF0Z,Jens,2237,(SM0HEV) Upplands-Vasby Sweden
 SF1Z,Jens,2237,(SM0HEV) Sweden
 SF3A,Jan,,Sundsbruk Sweden (SM3CER)
+SF6J,GORAN,,
 SI5Y,Kurt,904,Ostervala Sweden (SM5BKK)
 SJ6W,Sten,,(SM6MIS)  Gothenburg Sweden
 SK2T,,,Umea Sweden (FURA Club Umea)
@@ -6779,6 +6781,7 @@ W8BG,Bill,1493,Strongsville OH
 W8BI,Rob,OH,Dayton ARC OH
 W8BMO,BRAD,,Lafayette CO
 W8BO,Phil,OH,Franklin OH
+W8BOY,CHRIS,
 W8BUB,Tom,OH,Hilliard OH
 W8BZY,Jim,2345,Fairborn OH
 W8C,Peter,2226,Milford OH ARC
