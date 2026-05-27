@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-05-23
+# LastEdit,2026-05-26
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -6056,7 +6056,7 @@ W4IF,Carl,2021,Nashville TN
 W4IFI,Randy,CWA,Hesperus CO
 W4II,John,AL,Fairhope AL
 W4IPA,CJ,TX,Allen TX
-W4IPC,Con,VA,Greenfield VA
+W4IPC,Con,3940,Greenfield VA
 W4IT,Steve,2492,Fort White FL
 W4IX,John,984,Wellford SC
 W4JF,Joe,3882,
