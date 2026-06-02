@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 
 # CWOPS
-# LastEdit,2026-05-27
+# LastEdit,2026-05-30
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 # 
@@ -3573,6 +3573,7 @@ M4X,Keith,2784,(G3SZU)
 M5KVK,Gaz,,(Gareth) St Neots England
 M5S,John,268,(G4IRN) Thames Ditton England
 M7BLX,David,,Norwich England
+M5LGM,Tom,3941,England
 M7GNO,Brad,,Southport England
 M7TAW,Antony,,Petersfield England
 M7YRU,Marie,3688,Norwich England
@@ -4812,7 +4813,7 @@ ON4TC,Jean,,Sombreffe Belgique
 ON4TTT,Lee,ON,Kampenhout Belgium
 ON4VT,Danny,2170,Hulshout Belgium
 ON4WW,Mark,,Sint-Denijs-Westrem
-ON5AI,Erik,,Kasterlee Belgium
+ON5AI,Erik,3942,Kasterlee Belgium
 ON5AM,Albert,ON,Ans Belgium
 ON5JT,Jean,,Belgium (Mainly QRP)
 ON5LGS,Edy,,Mouscron Belgium

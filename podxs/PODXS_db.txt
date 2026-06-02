@@ -1,7 +1,7 @@
 # PODXS 070 members prefill database
 # Based on data from https://www.podxs070.com/member-files
-# Contains members up to #3068
-# Last updated 2026-05-29
+# Contains members up to #3069
+# Last updated 2026-06-02
 2E0DKH=2261
 2E0GBK=1870
 2E0HPI=2118
@@ -441,6 +441,7 @@ HB9FVL=2429
 HB9OAE=383
 HB9TUO=444
 HC6EP=1212
+HG0MV=3069
 HI4T=497
 HI5MLE=1141
 HI8CJG=1121

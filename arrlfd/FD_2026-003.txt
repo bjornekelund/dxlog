@@ -1,9 +1,9 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # FDGOTA
-# LastEdit,2026-05-15
+# LastEdit,2026-06-01
 # DATA copied from 2025 FD results
-# Thanks to
+# Thanks to Bjorn SM7IUN for his help
 
 AA0RC,2A,MO
 AA0RW,2A,MN
@@ -3013,7 +3013,7 @@ W0CBL,2A,MO
 W0CET,4AC,KS
 W0CGM,2A,MN
 W0CLA,2A,CO
-W0CPH,5A,CO
+W0CPH,5A,WY
 W0CQC,2AB,CO
 W0CWP,3A,IA
 W0CY,3A,KS

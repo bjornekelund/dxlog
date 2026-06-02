@@ -8,7 +8,7 @@ BEGIN {
   iota = toupper($3);
   notignore = \
     (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/) && \
-    (iota ~ /^(EU|OC|AS|NA|SA|AF|AN)/) && \
+    (iota ~ /^(EU|OC|AS|NA|SA|AF|AN)[0-9]{3}$/) && \
     (call ~ /[A-Z]$/ || call ~/\/[0-9A-Z]+$/ || call ~ /[0-9]{2}$/) && \
     lengthcall > 2 && \
     !(lengthcall < 6 && call ~ /[0-9]\//) && \
