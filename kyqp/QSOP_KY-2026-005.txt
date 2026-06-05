@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-Last Edit,2026-05-26
+# 1-Last Edit,2026-06-04
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Thanks Bjorn SM7IUN for his help.
 # 4-Kentucky QSO Party
@@ -13,20 +13,21 @@ AA4WW,,BRE,Breathitt,
 AB1A,,CTR,Carter,
 AB4IQ,,MCC,McCracken,
 AB4WS,,BOO
-AD4EB,,,Mobile Teaming up with Ryan AC4NK
-AD4EB/M,,,Mobile Teaming up with Ryan AC4NK
+AC4ZM,,,MOBILE CW/SSB
+AD4EB,,,Mobile Teaming up with Ryan AC4NK (APRS) CW
+AD4EB/M,,,Mobile Teaming up with Ryan AC4NK (APRS) CW
 AD4TA,,MER,Mercer,
 AF4Y,,LET,
 AJ4A,,MAD,Madison,
 AK4U,,LET,
 K4AVX,,PER,Perry,
-K4FN,,LAR/TAY,Larue/Taylor,
+K4FN,,LAR,Larue CW
 K4FR,,FAY
 K4FT,,LIN,Lincoln,
 K4FXN,,SHE,Shelby,
 K4GYD,,LYO,Lyon,
 K4IDT,,DAV
-K4KCG,,,BONUS Station,
+K4KCG,,,BONUS Station (SSB=HRL)(CW=JEF)
 K4MNF,,CLA,
 K4MSU,,CAW,Calloway,
 K4NTS,,CLY
@@ -36,6 +37,7 @@ K4TG,,AND,Anderson,
 K4TZ,,WAR,Warren,
 K4UU,,WAR
 K4WW,,JEF,Jefferson (Louisville KY),
+K4Y,,,MOBILE (N0HJZ) SSB
 K4YUS,,CAL,Caldwell,
 K5ZQ,,MSL,Marshall,
 K7EK,,HAR,
@@ -44,10 +46,11 @@ K8IJ,,CAM,Campbell,
 KA3MTT,,BOO
 KB4DZN,,LAU,
 KB8UEY,,CRL,Caldwell,
+KC3SJ,,JAC,JACKSON CW/SSB
 KC4JNS,,GRE,
 KC4S,,JEF,Jefferson,
 KD4ULD,,BUL,
-KE4KY,,JEF,Jefferson,
+KE4KY,,JEF,Jefferson CW
 KF2HP,,SPE,Spencer,
 KF4LHN,,ROW,
 KF4WLS,,HOP,Hopkins,
@@ -57,20 +60,21 @@ KG8Y,,BOO,
 KJ4AOM,,MAD,Madison,
 KJ4EU,,GRV,Graves,
 KJ4ND,,LIN
-KJ4YLR,,MAD
+KJ4YLR,,ROC,ROCKCASTLE SSB
 KJ6SVE,,WOO,
 KK4JW,,EST,Estill,
 KK7YC,,EST,Estill,
-KM4CH,,,MOBILE
-KM4CH/M,,,MOBILE
-KM4FO,,,MOBILE
+KM4CH,,,MOBILE + Chandler KJ6SVE CW/SSB (APRS)
+KM4CH/M,,,MOBILE (APRS) CW/SSB
+KM4FO,,,MOBILE + Suxette KJ4SYZ CW
 KM4LDP,,BAL,Ballard,
-KM4RO,,LOG,Logan,
+KM4RO,,LOG,Logan
 KN4COE,,BRA
 KN6VTC,,GRT
 KO4BVP,,FLO,
 KO4BWJ,,HSN,Harrison,
 KO4DWB,,LOG,
+KO4M,,,CAR,CARLISLE EXPEDITION
 KO4OL,,MAD,Madison,
 KO4TFE,,JES,Jessamine,
 KO4UMQ,,HRL,
@@ -82,7 +86,7 @@ KR4BEL,,GAR
 KU4A,,FAY,
 KY0KSP,,ROW,
 KY4FF,,FAY,
-KY4KY,,BUL,Bullitt,
+KY4KY,,,EXPEDITIONS CW/SSB LIN-MER-WAS-NEL
 KY4L,,,MOBILE
 KY4WIN,,HRL,Harian,
 KY4X,,BAR,Barren,
@@ -92,16 +96,17 @@ KZ4CP,,RUS
 N4BPD,,CLA,Clark,
 N4GO,,MAD,
 N4JRG,,BUT,Butter CW-SSB,
-N4NP,,JAC
+N4NP,,,EXPEDITION JAC+WLM
 N4OG,,HRT,Hart,
 N4PF,,HSN,Harrison,
 N4QS,,MCC,
 N4SS,,ROC,Rockcastle,
-N4TY,,,MOBILE CW-SSB 
+N4TY,,,MOBILE + Debbie CW (APRS) 
 N4UL,,JEF,Jefferson,
 N7TJB,,WAR,Warren,
+N9PMI,,JEF,JEFFERSON SSB
 ND4X,,MSL,Marshall,
-ND4Y,,HRL,Harlan,
+ND4Y,,HRL,Harlan SSB
 NI8W,,JEF,
 NN4H,,RUS,Russell,
 NU4N,,MCC,McCracken,
@@ -115,7 +120,7 @@ W4NHO,,DAV,
 W4NJA,,MCC,McCreary,
 W4PF,,JEF,Jefferson,
 W4UWC,,JES,Jesamine,
-W4WKU,,BUT
+W4WKU,,TRI,TRIGG CDW/SSB
 W4ZXT,,MAD,
 W5MX,,ROC,Rockcastle,
 W9CYA,,JEF,

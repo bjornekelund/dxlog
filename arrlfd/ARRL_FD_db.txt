@@ -1,7 +1,7 @@
 # ARRL Field Day prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-06-02
+# Last updated 2026-06-05
 AA0RC=2A;MO
 AA0RW=2A;MN
 AA0VE=1E;MO
@@ -787,7 +787,7 @@ K6DPL=2E;GA
 K6DWD=1E;SCV
 K6DXN=3A;SV
 K6EEN=1D;NM
-K6EI=7A;SCV
+K6EI=6A;SCV
 K6ESS=1D;SV
 K6EV=1D;LAX
 K6FMI=1D;SV

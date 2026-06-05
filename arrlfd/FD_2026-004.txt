@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # FDGOTA
-# LastEdit,2026-06-01
+# LastEdit,2026-06-04
 # DATA copied from 2025 FD results
 # Thanks to Bjorn SM7IUN for his help
 
@@ -790,7 +790,7 @@ K6DPL,2E,GA
 K6DWD,1E,SCV
 K6DXN,3A,SV
 K6EEN,1D,NM
-K6EI,7A,SCV
+K6EI,6A,SCV
 K6ESS,1D,SV
 K6EV,1D,LAX
 K6FMI,1D,SV
