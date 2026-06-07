@@ -1,6 +1,6 @@
 #!/bin/bash
-FILE=`ls JARTSWW* | tail -1 2> /dev/null`
-OUTFILE=JARLWWR_NEXTYEAR.txt
+FILE=`ls ../JARTSWW* | tail -1 2> /dev/null`
+OUTFILE=../JARLWWRTTY_NEXTYEAR.txt
 
 echo Parsing $FILE
 dos2unix -q $FILE
