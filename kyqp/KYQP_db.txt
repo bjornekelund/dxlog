@@ -1,7 +1,7 @@
 # Kentucky QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-06-05
+# Last updated 2026-06-07
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -98,7 +98,6 @@ AC4G=TN
 AC4HI=IN
 AC5XK=MD
 AC6T=CA
-AC6ZM=TN
 AC7AF=WY
 AC7GL=ID
 AC7JW=UT

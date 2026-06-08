@@ -40,7 +40,7 @@ BEGIN {
       printf("Problem ARRL section: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
-  else if ($call ~ /^(V[A-GOXY]|C[F-KY]|X[J-M])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/)
+  else if ($call ~ /^(V[A-GOXY]|C[F-KY]|X[J-MO])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$|^VC1933$/)
   {
     if ($sect ~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/)
     {
