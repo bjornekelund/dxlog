@@ -30,20 +30,3 @@ unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
 exit
-
-
-BEGIN{
-  printf("WINDOWS_CML_LIST_FX=GetList_CustomArray(\"");
-  notfirst = 0;
-}
-{
-  if ($1 != "") 
-  {
-    if (notfirst) printf("|");
-    printf("%s", $1);
-    notfirst = 1;
-  } 
-}
-END {
-  printf("\",\"|\")\n");
-}
