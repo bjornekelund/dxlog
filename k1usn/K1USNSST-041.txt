@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2026-06-09
+# 1-Last Edit,2026-06-16
 # 2-Updated on Tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to ve2fk@arrl.net
@@ -8155,7 +8155,7 @@ N5TW,TOM,TX,
 N5TWY,RANDALL,OK,Shawnee OK
 N5TX,,TX,
 N5TY,KEN,TX,
-N5UI,GEO,TX,
+N5UI,GEOGE,TX,
 N5UL,CHAS,NM,
 N5UM,AL,OK,
 N5URL,Bob,NM,Santa Fe NM
@@ -9901,6 +9901,7 @@ PA3MVE,MAURICE,DX,Standdaarbuiten Netherlands
 PA4NIC,NICO,DX,Haarlem Netherlands
 PA4OES,ANDRE,DX,Emmen Netherlands
 PA8R,ROB,DX,Gouda Netherlands
+PB1DX,VICTOR,DX,
 PD5SS,RUDY,DX,Sluiskil Netherlands
 PE1RCT,ANDREAS,DX,Herten Netherlands
 PE2JB,JACO,DX,Katwijk ann zee Netherlands
@@ -15131,6 +15132,7 @@ WM6Y,PJ,CA,FAllbrook CA
 WM7A,,AZ,
 WM7DX,BOB,ID,
 WM8Z,,MI,
+WM9K,MARK,IN,
 WM9Q,RON,IL,
 WM9X,RICH,UT,Syracuse UT
 WN0G,JIM,IA,Central City IA
