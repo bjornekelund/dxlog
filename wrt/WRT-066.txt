@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-06-05
+# 1-LastEdit,2026-06-19
 # 2-Send any corrections direct to duberger.miousse81@telus.net
 # 3-Thanks WV4P/NJ4P for updated data.
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -647,6 +647,7 @@ K8BTU,BILL,OH,
 K8BZ,STEVE,MI,
 K8CX,TOM,OH,
 K8DP,DOUG,MI,
+K8DU,AL,MI,
 K8EN,KEN,AZ,
 K8FYI,SEAN,OH,
 K8GB,DAVE,MI,

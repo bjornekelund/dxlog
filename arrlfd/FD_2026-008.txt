@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # FDGOTA
-# LastEdit,2026-06-08
+# LastEdit,2026-06-18
 # Original file from Mike W1MI
 # Thanks SM7IUN for his help
 

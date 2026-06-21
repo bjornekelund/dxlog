@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-06-15
+# LastEdit,2026-06-20
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1365,7 +1365,8 @@ IK3VUT,Luca,3241,Oderzo-TV Italy
 IK3YBX,Ricky,2563,Venezia Italy
 IK4EWX,Ian,,Cento Italy
 IK4GBU,Val,,Casalecchio Di Reno Italy
-IK4VET,Andy,I
+IK4MTF,Pietro,I,Piacenza Italy
+IK4VET,Andy,I,
 IK4VFD,Rudy,,Parma Italia
 IK4ZIF,Lou,,Bettola Italy
 IK5DFE,Enroco,,Prato PO Italy
@@ -1761,6 +1762,7 @@ K2CUB,Scott,2030,Coldwater MI
 K2DB,Paul,686,Homosassa FL
 K2DIW,Seth,2051,Metairie LA
 K2DM,George,2652,The Villages FL
+K2DXO,Nat,3945,
 K2EJ,Steve,3180,Abingdon MD
 K2EJT,Evan,3643,Endicott NY
 K2EKM,Bill,VA,Sprinfgield VA 
@@ -6024,6 +6026,7 @@ W4ANT,Alan,SC,Saint George SC
 W4AQL,Bruce,2297,(KN8U) Georgia Tech ARC Atlanta GA
 W4ARB,Aaron,3777,Notasulga AL
 W4AU,John,224,Hamilton VA
+W4BD,Mark,3946,
 W4BGT,Jim,GA,Snellville GA
 W4BR,John,1273,Fernandina Beach FL
 W4BUW,George,1023,Taylors SC

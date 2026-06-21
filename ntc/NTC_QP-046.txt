@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-05-20
-# Last number listed 307 E79D
+# Last edit,2026-06-18
+# Last number listed 308 OH5ZA
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -159,7 +159,9 @@ OE7TIR,Stefan,105,
 OE8ACT,Patrick,257,
 OE8TIR,Stefan,105,
 OG2N,Jarmo,107,
+OH1ZAA,Zaba,308,
 OH2BN,Jarmo,107,
+OH5ZA,Zaba,308,
 OK1DLA,Ludek,249,
 OK1DSA,Roman,207,
 OK1DZD,Zdenek,217,
