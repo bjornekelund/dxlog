@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # FDGOTA
-# LastEdit,2026-06-18
+# LastEdit,2026-06-24
 # Original file from Mike W1MI
 # Thanks SM7IUN for his help
 
@@ -650,6 +650,7 @@ AF9FA,1E,WI
 AF9J,1E,WI
 AF9Z,1D,IL
 AG0H,1D,MN,Stillwater ARA
+AG1C,1D,WMA,
 AG1T,1B,UT
 AG1YK,1D,CT,The Heritage Village Radio and Electronics Club
 AG2J,1D,SNJ
@@ -828,7 +829,7 @@ AJ4BB,1D,NV
 AJ4D,2A,NFL,(K4TLH GOTA) Tallahassee ARS
 AJ4EE,1D,NFL
 AJ4EY,1E,VA
-AJ4F,1B,TN
+AJ4F,1E,STX,
 AJ4FJ,1D,GA
 AJ4GY,1B,TN
 AJ4HW,1D,TN,E. Tennessee DX Assoc.
@@ -1645,14 +1646,15 @@ K3QIA,1D,EPA,Columbia-Montour ARC
 K3QNT,3F,WPA,BCARS
 K3QP,1D,WPA,Nittany ARC
 K3QY,5A,WPA,Ft. Armstrong Wireless Assn.
-K3RA,1D,MDC,W3AO PVRC
+K3RA,9A,MDC,(GOTA for W3AO) PVRC
 K3RLW,1D,MDC,Potomac Valley RC
 K3RMB,1D,WPA,Skyview Radio Soc.
 K3RRP,1D,MDC,Queen Anne's ARC
 K3RSS,1D,MDC
 K3RTK,1B,EPA,South Mountain Radio Amateurs
 K3RTS,1E,EPA,Harrisburg Radio Amateurs Club
-K3RWN,2D,WPA
+K3RWN,2D,WPA,
+K3S,1D,MDC,NS Savannah ARC
 K3SCR,4A,EPA,South Central RC
 K3SLH,1E,EPA
 K3SMT,4A,WPA,Somerset Co. ARC
@@ -3355,6 +3357,7 @@ KB0SCE,2A,MN,(W0JH GOTA) Stillwater ARA
 KB0SMX,2A,NE,Plattsmouth ARC
 KB0SNI,1B,WWA
 KB0STN,3A,MO,(W0IN GOTA) Joplin ARC
+KB0TIF,1D,MO,Mid-MO ARC
 KB0TLL,5A,MO,Jefferson Co. (MO) ARC
 KB0TLM,7A,IA,(N0ISU GOTA) Boone and Hamilton Co. ARES
 KB0TUA,1D,MO
@@ -4087,6 +4090,7 @@ KC9EZP,1D,IN,Allen Co. AR Technical Soc.
 KC9FOC,1E,KY
 KC9FYL,2A,WI,(W9MQB GOTA) Tri Co. ARC (WI)
 KC9GIC,1D,IN
+KC9GLR,2B,AR,Soc. of Midwest Contesters
 KC9GMW,2D,WI
 KC9GRD,1D,WI
 KC9HDS,1D,WI,Riverland ARC
@@ -4654,7 +4658,7 @@ KE3GK,1D,MDC,Northeast MD Amateur Radio Contest Soc.
 KE3K,1D,MI
 KE3KD,1B,WPA
 KE3LA,1D,WPA
-KE3Q,10A,MDC,(W3AO GOTA) Potomac Valley RC
+KE3Q,9A,MDC,(W3AO GOTA) Potomac Valley RC
 KE3TK,1D,WPA
 KE3V,1B,WPA,Neighbor Kids
 KE3VR,1D,MDC
@@ -5140,6 +5144,7 @@ KG4TIH,2D,VA,Loudoun Amateur Radio Group
 KG4UHM,1E,SCV
 KG4ULP,1D,WI
 KG4UQL,2A,KY,(W4CDA GOTA) Wilderness Road ARC
+KG4W,1D,VA,
 KG4WNA,1D,KY
 KG4WZZ,1D,GA
 KG4YOL,2A,GA,(K4ACW GOTA) Jasper RC
@@ -6885,6 +6890,7 @@ N0TYE,1D,MN
 N0UB,1D,MO
 N0UD,1B,ND
 N0UEP,1B,MI
+N0UI,1D,MO,Mid-MO ARC
 N0UK,1B,MN
 N0UMP,3A,MO,Cass Co. Area Amateur Radio Operators
 N0UW,5A,MN,Owatonna Steele Co. Amateur Radio
@@ -7039,7 +7045,7 @@ N1VT,3A,VT,Green Mountain Wireless Soc.
 N1WEB,1B,GA
 N1WEN,1E,EMA,Wellesley ARS
 N1WL,1D,NH
-N1WM,4A,WMA,Northern Berkshire ARC
+N1WM,5A,WMA,Northern Berkshire ARC
 N1WW,2A,WMA,Mohawk ARC
 N1XAC,3A,NTX,(K5ECT GOTA) Ellis Co. ARC
 N1XJM,1D,ENY,Southern Berkshire ARC
@@ -8098,6 +8104,7 @@ N7TPT,1B,WWA
 N7TRC,4A,WWA,Trilogy ARC
 N7TWB,1E,AZ,Honeywell-Glendale ARC
 N7TWL,3A,AZ,(N7TAR GOTA) Tonto ARA
+N7TY,1D,AZ,
 N7TZW,1E,WWA,San Juan Co. ARS
 N7U,5A,UT,Rainbow Canyon ARC
 N7UFC,1D,WWA
@@ -9260,7 +9267,6 @@ VA7ZM,1D,BC
 VB2CAP,1D,QC,Ottawa Valley QRP Soc.
 VB3C,5A,ONS,Kitchener-Waterloo ARC
 VC1933,2F,NS,(VE1FO GOTA) Halifax ARC
-VE1AI,1D,NS,Halifax ARC
 VE1AOE,1E,NS,Truro ARC
 VE1ARC,2A,NS,Greenwood ARC
 VE1AWR,1A,NS
@@ -9281,7 +9287,6 @@ VE1HUL,1E,NS,Truro ARC
 VE1LD,4A,NS,Annapolis Valley ARC and Kings Co. ARC
 VE1LG,1D,NS,Kings Co. and Annapolis Valley ARCs
 VE1LZ,1B,NS
-VE1NB,1D,NS,Halifax ARC
 VE1NEL,1D,NS,Truro ARC
 VE1NM,3A,NS,Greenwood ARC
 VE1RSM,1D,NS,Kings Co. and Annapolis Valley ARCs
@@ -9328,7 +9333,7 @@ VE2ESX,1D,QC
 VE2EZD,1D,QC
 VE2FAB,1D,QC,Union Metropolitaine des Sans-filistes de Montreal
 VE2FCR,1D,QC,Montreal ARC/West Island ARC
-VE2FK,1D,QC
+VE2FK,1D,QC,
 VE2FTX,1B,QC,Club de Radio Amateur Outaouais
 VE2FU,1D,QC,Anonymous Contest Group
 VE2GHO,1D,QC,Club Radio Amateur de Quebec
@@ -9730,7 +9735,7 @@ VE6GRT,1E,AB
 VE6GTX,1D,AB
 VE6GTZ,1D,AB
 VE6HQ,2A,AB,(VE6QE GOTA) Central Alberta ARC
-VE6JF,1D,AB
+VE6JF,1B,AB
 VE6KK/7,1D,AB
 VE6KLE,1E,AB
 VE6KRF,1B,AB
@@ -9865,8 +9870,7 @@ VE9EMM,2D,NB,Moncton Area ARC
 VE9HX,1D,NB,St. Croix Valley ARC
 VE9KK,1D,NB,Maritime Contest Club
 VE9MSR,2A,NB,Moncton Area ARC
-VE9ND,1A,NB,Frederick ARC
-VE9QR,1E,NB,Maritime Contest Club
+VE9ND,1A,NB,Fredericton ARC
 VE9RAC,2A,NB,MAARC
 VE9WH,1D,NB
 VE9WRS,1D,NB
@@ -9952,7 +9956,7 @@ W0CGM,2A,MN,South East Metro ARC
 W0CLA,2A,CO,Chaffee Lake ARA
 W0CO,1B,CO,GBoSH Field Day Gang
 W0COE,1D,MN,Mining ARC/St. Paul RC
-W0CPH,5A,CO,Colorado Party Hams
+W0CPH,5A,WY,Colorado Party Hams
 W0CQC,2A,CO,Colorado QRP Club
 W0CRC,3A,MN,Crow River ARC
 W0CW,2A,MO,Kansas City DX Club
@@ -10338,7 +10342,7 @@ W1SFR,1E,VT
 W1SKU,1D,MI,Oakland Co. ARS
 W1SMH,2A,EMA,Sturdy Mem. Hospital ARC
 W1SMN,4A,NH,(N1FD GOTA) Nashua Area Radio Soc.
-W1SRG,2A,WMA,Southborough Rod & Gun ARC
+W1SRG,1D,EMA,
 W1SRH,1E,CT,Bloomington ARA
 W1STR,1A,EMA,Sci-Tech ARS
 W1SVM,2A,CT,(W1BPT GOTA) Greater Bridgeport ARC
@@ -10582,7 +10586,7 @@ W3AI,4A,EPA,RF Hill ARC
 W3AKD,1E,ME,Ellsworth Amateur Wireless Assn.
 W3AND,1D,EPA
 W3ANX,1D,WPA
-W3AO,10A,MDC,Potomac Valley RC
+W3AO,9A,MDC,Potomac Valley RC
 W3ARO,5A,EPA,Wayne Co. ARC
 W3ATB,1B,NH
 W3AVP,1B,EPA
@@ -10894,7 +10898,7 @@ W4EVV,1D,NFL
 W4EWN,5A,NC,New Bern ARC
 W4EXT,1D,NC,Healing Springs Mtn. VHF Soc.
 W4EXU,3F,NC,(N4UH GOTA) Rowan ARS
-W4EZ,6D,NC,Orange Co. Radio Amateurs and Durham FM Assn.
+W4EZ,6E,NC,Orange Co. Radio Amateurs and Durham FM Assn.
 W4F,4A,GA,West Georgia ARS
 W4FCV,3D,VA,Floyd ARS
 W4FD,2A,NC,(K4J GOTA) Ashe Co. ARC
@@ -11314,6 +11318,7 @@ W5KS,3A,OK,DFW Contest Grp.
 W5KV,1E,CO,Oak Hill ARC
 W5KY,1D,STX
 W5KZJ,1E,NTX
+W5LA,1B,LA,5W with POTA antenna
 W5LCR,2A,STX,Cross Roads Ham RC
 W5LIC,1D,STX
 W5LM,2F,NTX,Temple ARC
@@ -12338,7 +12343,7 @@ W9POG,3A,IL,(W9HHX GOTA) Milwaukee School of Engineering ARC
 W9PVR,4A,WI,Pine Valley Repeater Grp.
 W9QB,1D,IL,Bolingbrook ARS
 W9QL,3F,IL,(K9IQP GOTA) Lake Co. RACES/ARES
-W9RCA,4A,IN,(W9SU GOTA) Indy United ARC
+W9RCA,5A,IN,(W9SU GOTA) Indy United ARC
 W9RDA,1B,IL
 W9REG,3A,IN,Tippecanoe ARA
 W9RH,3A,WI,Milwaukee Radio Amateurs' Club
@@ -12355,7 +12360,7 @@ W9SIR,4F,IN,(W9OG GOTA) Tri State ARS
 W9SJB,2A,AZ,Senator Wash Desert Ratt Pack ARG
 W9SRC,5A,IL,Suburban Technical ARS
 W9SSN,1B,ORG
-W9SU,4A,IN,Indy United ARC
+W9SU,5A,IN,Indy United ARC
 W9SW,3A,IL,Chicago Suburban Radio Assn
 W9SZ,1B,IL
 W9TA,1D,WI,Sheboygan Co. ARC
@@ -13608,6 +13613,7 @@ WX4BCA,4A,GA,ARC of Butts Co.
 WX4BK,4A,GA,(W4FWD GOTA) West Georgia ARS
 WX4CAR,5A,GA,(K4R GOTA) Cherokee ARS
 WX4CC,2A,AL,(W4JNB GOTA) Muscle Shoals ARC
+WX4CW,1E,SFL,
 WX4D,1E,MDC
 WX4DC,1D,AL,Univ. of Alabama RC
 WX4DJ,5A,TN,(WX4TN GOTA) Northeast TN District 7 Skywarn

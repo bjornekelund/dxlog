@@ -1,8 +1,8 @@
 # AGCW-NTC Friendship QSO Party prefill database
 # Based on online membership data
-# Contains members up to AGCW #4482 and NTC #308
+# Contains members up to AGCW #4483 and NTC #308
 # DK9TV has the longest name: "FRIEDEMANN" with 10 characters
-# Last updated 2026-06-21
+# Last updated 2026-06-25
 3A2LF=CLAUDE;AGCW2048;
 3A2LV=LIONEC;AGCW2064;
 3A2LW=ALAIN;AGCW2065;
@@ -1377,6 +1377,7 @@ DL9OBN=DIRK;AGCW3054;
 DL9OBU=RICHARD;AGCW4273;
 DL9OCI=GUNTER;AGCW2601;
 DL9OW=OLIVER;AGCW4333;
+DL9PK=PHILLIP;AGCW4483;
 DL9SAQ=HANS;AGCW3095;
 DL9SCO=HANNES;AGCW3924;
 DL9SJ=PETER;AGCW814;

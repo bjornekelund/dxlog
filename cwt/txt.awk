@@ -12,7 +12,7 @@ BEGIN {
   name = $2;
   OID = toupper($3);
   ID = "";
-  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,4}(\/[A-Z0-9]+)?$/ && (name != "" || OID != ""))
+  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,4}(\/[A-Z0-9]+)?$/ && (name != "" || OID != "") && lines[call] == "")
   {
 #    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr"; 
     if (1)
@@ -137,6 +137,7 @@ BEGIN {
       if (ID == "" && call ~ /^ZP/) ID = "ZP";
       if (ID == "" && call ~ /^Z[R-S]/) ID = "ZS";
     }
+    
     if (ID != "" && OID != "" && ID != OID && OID !~ /^([1-9][0-9]{0,3}|CWA)$/)
     {
       if ( \
@@ -185,12 +186,20 @@ BEGIN {
       printf("%s=%s;%s\n", call, name, ID);
       max = (int(ID) > max) ? int(ID) : max;
       longest = length(name) > length(longest) ? name : longest;
+      lines[call] = $0;
 #      printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
     }
   }
   else if ($0 !~ /^(#|!|$)/ && !(name == "" && ID == ""))
   {
-    printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
+    if (lines[call] != "")
+    {
+      printf("Callsign reoccurrence: \"%s\"\n", $0) > "/dev/stderr";
+    }
+    else
+    {
+      printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
+    }
   }
 }
 END {
