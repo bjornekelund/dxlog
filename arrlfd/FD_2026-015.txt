@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,Sect,UserText
 # FD
 # FDGOTA
-# LastEdit,2026-06-24
+# LastEdit,2026-06-25
 # Original file from Mike W1MI
 # Thanks SM7IUN for his help
 
@@ -7324,7 +7324,7 @@ N3LT,1A,WPA,Indiana Co. ARC
 N3M,2A,MDC,(W3J GOTA) HacDC ARC
 N3MBH,1A,WV,Eastern Panhandle ARC
 N3MK,1D,VA,Potomac Valley RC
-N3MM,2A,VA,Moose Pirates
+N3MM,3A,VA,Moose Pirates
 N3MNT,1E,MDC
 N3MTB,1E,ENY
 N3MWQ,1E,DE
@@ -9314,7 +9314,7 @@ VE2CH,1D,QC
 VE2CJP,1D,QC,Club Radio Amateur de Quebec
 VE2CLM,1A,QC,Club Radioamateur Rive Sud de Montreal
 VE2CPY,1D,QC,Club Sation Répétitrice de Laval
-VE2CQ,2A,QC,Club Radio Amateur de Quebec
+VE2CQ,2A,QC,Club Radio Amateur de Quebec 100' ann.
 VE2CRD,3A,QC,Club Radioamateur de Drummondville 
 VE2CRL,2A,QC,Club Radio Amateur Laval-Laurentides
 VE2CRO,3A,QC,Club Radio Amateur de l'Outaouais
@@ -10609,7 +10609,7 @@ W3BTN,3A,EPA,North Penn ARC
 W3CB,1E,MI
 W3CDI,1D,MDC,Baltimore Polytechnic Alumni RC
 W3CF,1E,NFL
-W3CG,1E,WPA
+W3CG,1F,WPA
 W3CHB,1D,MDC,Columbia (MD) ARA
 W3CMA,4A,EPA,(W3TWA GOTA) Tamaqua Wireless Assn.
 W3CQ,3A,VA,(K4CQ GOTA) Lynchburg ARC
@@ -11642,6 +11642,7 @@ W6SPR,4A,LAX,(N6P GOTA) PRC/SPARC/JPLARC/CITARC
 W6SQ,1D,EWA,Panorama land ARC
 W6SW,1D,LAX,San Andreas Faultline Field Day Survivors
 W6SWT,1E,SJV
+W6SX,1D,SJV,
 W6T,4A,SV,W6T Special Event Tahoe Field Day
 W6TDC,1B,LAX,CITARC/JPLARC/PRC/SPARC
 W6TED,1B,ORG
