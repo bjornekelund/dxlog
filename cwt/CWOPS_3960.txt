@@ -1,11 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-<<<<<<<< HEAD:cwt/CWOPS_3956.txt
-# LastEdit,2026-06-25
-========
 # LastEdit,2026-06-26
->>>>>>>> 1bdd3661 (Update):cwt/CWOPS_3960.txt
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England

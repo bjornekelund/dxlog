@@ -2,17 +2,17 @@ How to Use the HQ Station Pre-fill Files in the IARU HF Contest
 
 Send HQ callsign updates/corrections to Joe, OZ0J, contest@oz0j.dk
 
-Latest addition (test call):   CE3AA RCCH
+Latest addition (test call):   3V8HQ ARAT
 
-Last updated:  12 July 2025 04:52 UTC
+Last updated:  28 June 2026 04:23 UTC
 
 Data files included in this Zip:
 
   iaru.txt - N1MM, SkookumLogger, UCXLog "Call History File" (text).
   iaru_n1mm_plus.txt - N1MM+ "Call History File" (text)
   iaruhq.txt - DXLog.net HQ pre-fill file
-  iaru2025.adi - Writelog ADIF file (text)
-  iaru2025.xdt - Win-Test "Extra Data" file (text)
+  iaru2026.adi - Writelog ADIF file (text)
+  iaru2026.xdt - Win-Test "Extra Data" file (text)
   INITIAL.EX - TR4W Initial Exchange file (text)
   itu.dtb - Win-Test HQ station prefill database (binary)
 
@@ -24,30 +24,30 @@ N1MM and N1MM+:
    N1MM:   Select iaru.txt
 4. Click Open
 5. From the menu, select Configure | Enable Call History Lookup
-6. Enter CE3AA and the logger should prefill RCCH as the exchange
+6. Enter 3V8HQ and the logger should prefill ARAT as the exchange
 
 Writelog (TNX W5XD):
 
-1. Extract iaru2025.adi from the ITU.zip file
+1. Extract iaru2026.adi from the ITU.zip file
 2. From the Writelog menu, select Tools | Preset Exchange from ADI file
-3. Select the iaru2025.adi file
-4. Enter CE3AA and Writelog should prefill RCCH as the exchange
+3. Select the iaru2026.adi file
+4. Enter 3V8HQ and Writelog should prefill ARAT as the exchange
 
 Win-Test:
 
-1. Extract iaru2025.xdt to C:\ProgramData\Win-Test\Extras\
+1. Extract iaru2026.xdt to C:\ProgramData\Win-Test\Extras\
    (On Windows XP, extract to C:\Documents and Settings\All Users\Application Data\Win-Test\Extras\)
 2. Extract itu.dtb to C:\ProgramData\Win-Test\Databases\
    (On Windows XP, extract to C:\Documents and Settings\All Users\Application Data\Win-Test\Databases\)
 3. From the Win-Test menu, select Tools | Data Entry | Exchange Guessing | Automatically
 4. Press Alt-X to view the "Extra information" window
    Right click on the window, select "Extra data files..."
-   Click [Add...], select iaru2025.xdt, click OK
-5. Enter CE3AA and Win-Test should prefill RCCH as the exchange
-   "RCCH" should also appear in the Extra Information window
+   Click [Add...], select iaru2026.xdt, click OK
+5. Enter 3V8HQ and Win-Test should prefill ARAT as the exchange
+   "ARAT" should also appear in the Extra Information window
 
    NOTE: For an explanation of why both files should be updated, please read this post:
-   http://lists.f5mzn.org/pipermail/support/2017-June/085580.html
+   https://lists.win-test.com/pipermail/support/2017-June/016506.html
 
 DXLog.net (TNX W9PA, SM7IUN):
 
@@ -55,29 +55,29 @@ DXLog.net (TNX W9PA, SM7IUN):
    -or-
    Extract iaruhq.txt to %appdata%\DXLog.net\Database\
 2. From the DXLog menu, select Tools | Data Entry | Exchange Guessing | Automatically
-3. Extract iaru2025.xdt to a location of your choice
+3. Extract iaru2026.xdt to a location of your choice
 4. In DXLog, select Windows | Extra information
     Right-click on the window and select "Extra data files"
-    Click the Add button, browse to the above selected location, select iaru2025.xdt, and click OK
-5. Enter CE3AA and DXLog should prefill RCCH as the exchange.
-   "RCCH" should also appear in the Extra information window
+    Click the Add button, browse to the above selected location, select iaru2026.xdt, and click OK
+5. Enter 3V8HQ and DXLog should prefill ARAT as the exchange.
+   "ARAT" should also appear in the Extra information window
 
 TR4W (TNX N4TZ):
 
 1. Extract INITIAL.EX to TR4W root directory (same location as CTY.DAT file and TRMASTER.DTA)
-2. Enter CE3AA and TR4W should prefill RCCH as the exchange
+2. Enter 3V8HQ and TR4W should prefill ARAT as the exchange
 
 SkookumLogger (TNX K1GQ):
 
 1. Choose File > Update IARU HQ Call History
 2. Select the IARU.TXT file in the file chooser
-3. Check that CE3AA prefills HQ code RCCH
+3. Check that 3V8HQ prefills HQ code ARAT
 
 UcxLog (TNX OZ1BII):
-
+ 
 1. Extract iaru.txt to C:\UcxLog\MEMBER\
 2. Remember to delete old IARU files in C:\UcxLog\MEMBER\
-3. Enter CE3AA and the logger should prefill RCCH as the exchange in the Membership window
+3. Enter 3V8HQ and the logger should prefill ARAT as the exchange in the Membership window
 
 73,
 Bob, N6TV
