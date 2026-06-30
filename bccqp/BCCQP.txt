@@ -11,7 +11,7 @@ MODES=CW;SSB;RTTY
 CATEGORY_MODES=Mixed
 OVERLAY=Member;Non-member
 CATEGORIES=Single operator
-STATION=Fixed
+STATION=---
 
 CFG_MULT=ON
 CFG_MULT_MANDATORY=YES
@@ -35,7 +35,7 @@ MULT1_DISPLAY=MULT
 # Start machine generated 
 
 # Silent multiplier to highlight members in bandmap.
-# Member callsigns from https://www.bavarian-contest-club.de as of 2026-06-28
+# Member callsigns from https://www.bavarian-contest-club.de as of 2026-06-30
 MULT2_TYPE=CALLSIGN
 MULT2_COUNT=PER_MODE
 MULT2_FIELD=CALLSIGN
@@ -54,7 +54,7 @@ LIVESCORE_MULT=PREFIX;NONE
 
 # Summary
 SCORE=BY_BAND_MODE
-SCORE_DISPLAY=MODE;QSO;DUP;MULT1(SIZES);MULT2(BCC);POINTS
+SCORE_DISPLAY=BAND;MODE;QSO;DUP;MULT1(SIZES);MULT2(BCC);POINTS
 SCORE_TOTAL_FX=$FIELDVALUE.Points*$FIELDVALUE.Mult1
 
 # Prefill file

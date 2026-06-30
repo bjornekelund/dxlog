@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-06-26
+# LastEdit,2026-06-29
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -3129,6 +3129,7 @@ KK1W,Jim,2479,Brimfield MA
 KK3F,Pat,MD,Frostburg MD
 KK4BNC,Randy,GA,Cataula GA
 KK4DF,WALT,NC,
+KK4DX,Lance,3961,
 KK4E,Don,3654,Atlanta GA
 KK4NZH,Gene,GA,Loganville GA
 KK4R,Rob,1953,Yorktown VA
@@ -3667,7 +3668,6 @@ N0UA,Vince,CO,Littleton CO
 N0UI,Tim,MO,Jefferson City MO
 N0UR,Jim,1445,Ellendale MN 
 N0VRP,Chris,3149,Georgetown TX
-N0W,Jim,MN,
 N0XC,Steve,WI,Osceola WI
 N0XE,Jim,IA,Sioux City IA
 N0YY,Rick,1434,Hillsville VA
@@ -3700,7 +3700,7 @@ N1GVV,Adam,CT,Endfield CT
 N1HN,Dus,ME,Windsor ME
 N1IA,Scott,3611,North Fort Myers FL
 N1IBM,SKIP,VT,Cavendish VT
-N1JD,John,ME,
+N1JD,John,3962,Lisbon Falls ME,
 N1KB,Doug,3679,Waller TX
 N1KJ,Peter,3905,
 N1KL,Kevin,MA,Wheelwright MA
