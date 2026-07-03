@@ -1,4 +1,4 @@
-# Updated up to FOC #2264 - LA1TV. Updates to fabian@fkurz.net.
+# Updated up to FOC #2265 - VX1EM. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -1007,6 +1007,7 @@ VA3SB=Serge;2228
 VA3UZ=Yuri;1740
 VA3VNE=Jim;1104
 VC3T=Yuri;1740
+VE1EM=Jesse;2265
 VE2IM=Yuri;1740
 VE3AAQ=Dave;2141
 VE3DZ=Yuri;1740
@@ -1080,6 +1081,7 @@ VU3KIE=Jorma;1557
 VU40TJW=Tom;1177
 VU4G=John;2000
 VU8FOC=Prasad;1972
+VX1EM=Jesse;2265
 VX3DZ=Yuri;1740
 VX3DZZ=Pat;1659
 VX3EJ=John;1947

@@ -1,7 +1,7 @@
 # Marconi Club ARI Loano members database
 # Based on data from http://www.ariloano.it/marconiclub
 # Contains members up to #999
-# Last updated 2026-06-30
+# Last updated 2026-07-03
 3B8CF=MC284
 3B8DB=MC539
 9A1AA=MC892
@@ -752,6 +752,7 @@ IU5DAH=MC936
 IU5QUO=MC848
 IU6AIG=MC1009
 IU6TPC=MC1006
+IU7TUV=MC1027
 IU7XWD=MC973
 IU8DPU=MC483
 IU8JKN=MC856

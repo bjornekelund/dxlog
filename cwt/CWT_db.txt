@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3962
-# Last updated 2026-06-30
+# Contains members up to #3965
+# Last updated 2026-07-03
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -263,6 +263,7 @@ AC8SI=Dave;MI
 AC8W=Stan;695
 AC9EM=Steve;IL
 AC9EZ=Jim;2342
+AC9M=Josh;3063
 AC9OH=Ron;IL
 AC9VC=Mark;IL
 AC9XK=Alex;3750
@@ -5446,6 +5447,7 @@ VE1EM=Jesse;3522
 VE1GVY=Gordon;NS
 VE1IJ=Glenn;457
 VE1KCO=Corey;NS
+VE1KM=Jim;3965
 VE1MU=Mike;NS
 VE1RSM=Bob;NS
 VE1RST=Bob;NS
@@ -5891,7 +5893,7 @@ W2JJW=Jim;CWA
 W2JK=Joe;NY
 W2JLK=Jim;NJ
 W2KA=Mike;3161
-W2KS=Ken;FL
+W2KS=Ken;3964
 W2KU=Vin;3124
 W2LCQ=Ed;701
 W2LE=Paul;NJ
