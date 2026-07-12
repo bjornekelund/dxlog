@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3965
-# Last updated 2026-07-03
+# Contains members up to #3969
+# Last updated 2026-07-10
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -499,8 +499,6 @@ C6AZM=Juan;2419
 CA3FJK=Fer;3629
 CE2LR=Matt;2281
 CE3CT=Roberto;2837
-CF2I=Lajos;128
-CK3A=Dennis;ON
 CN8YR=Med;1656
 CO2IR=Frank;1147
 CO2UE=Fred;CM
@@ -649,7 +647,7 @@ DL/UX1HW=Art;1890
 DL0AF=Fritz;DL
 DL0DA=Hardy;2802
 DL1AXX=Seb;DL
-DL1BUG=Bug;3938
+DL1BUG=RED;3938
 DL1DT=Ole;DL
 DL1EFW=Marek;DL
 DL1EJM=Christ;DL
@@ -1756,6 +1754,7 @@ K2CUB=Scott;2030
 K2DB=Paul;686
 K2DIW=Seth;2051
 K2DM=George;2652
+K2DP=dAVE;3968
 K2DXO=Nat;3945
 K2EJ=Steve;3180
 K2EJT=Evan;3643
@@ -2569,7 +2568,7 @@ K9XV=Tom;FL
 K9XW=John;2807
 K9YC=Jim;CA
 K9YII=Fred;IL
-K9ZMU=Kent;NY
+K9ZMU=Kent;CT
 K9ZTV=Kent;676
 KA0AAM=Dwayne;1497
 KA0PQW=Matt;3377
@@ -2989,6 +2988,7 @@ KF9HE=Andy;IL
 KF9LI=Nate;3608
 KF9SW=Victor;IN
 KF9VV=Jim;2452
+KG1A=Tom;3966
 KG1V=Geo;3262
 KG2GW=Greg;NJ
 KG3V=Tom;1034
@@ -3146,6 +3146,7 @@ KK6MU=Mike;CA
 KK6NON=Levi;CA
 KK6ZHK=Ken;2686
 KK7A=Jim;1975
+KK7D=Mike;3967
 KK7DEU=Guny;3336
 KK7FIM=Brad;ID
 KK7GRV=Vlad;WA
@@ -3173,7 +3174,7 @@ KL7QT=Ed;3190
 KL7SB=Steve;1268
 KL7W=Tom;1461
 KL9A=Chris;1576
-KM0O=Tony;1037
+KM0O=Tony;MN
 KM3A=Dave;2611
 KM3T=Dave;50
 KM4CAJ=Andrew;3827
@@ -6564,6 +6565,7 @@ WA3GPP=Rich;PA
 WA3IVV=Rich;PA
 WA3JJT=Steve;2914
 WA3MIX=Lou;NJ
+WA3N=Chris;3969
 WA3NZR=John;1028
 WA3QNT=Bob;PA
 WA3RWP=Walt;3142

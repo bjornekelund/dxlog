@@ -106,6 +106,8 @@ NJ0IP,Rick
 DJ0MDR,Michael
 DJ0ZY,Franta
 DD5M,Franta
+DJ1KW,Igor
+US0VA,Igor
 DJ1MM,Sergej
 DJ1OJ,Heijo
 EA8OM,Heijo
@@ -405,6 +407,7 @@ DL8LR,Frank
 DK8R,Frank
 DL8MAS,Bernd
 DM7W,Bernd
+DL8MBS,Christian
 DL8NY,Klaus
 DN3NY,Klaus
 DL8OH,Dieter
@@ -479,6 +482,9 @@ HB9BGV,Martin
 HB9BJL,Chris
 W9BJL,Chris
 HS0ZNI,Chris
+HB9CVQ,Andy
+DK2VQ,Andy
+AK4IG,Andy
 HB9DDO,Stephan
 WS9O,Stephan
 HB9DQL,Juerg

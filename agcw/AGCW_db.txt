@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4511
-# Last updated 2026-07-03
+# Contains members up to #4512
+# Last updated 2026-07-11
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -44,6 +44,7 @@ CT1ELZ=4166
 CU3AA=3255
 DA2DX=4131
 DA2PK=4445
+DA6AMR=4512
 DA6DS=4468
 DB1LI=3719
 DB1NS=1310
@@ -1510,7 +1511,7 @@ EA8OM=1571
 EA8UH=1570
 EI2KF=2797
 EI3DP=4503
-EI8IU=3658
+EI8IU=4495
 ER2DX=1830
 EU1AR=2089
 EU1EU=2659
