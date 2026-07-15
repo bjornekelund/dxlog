@@ -4,20 +4,11 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2026-07-13
+# Last Edit,2026-07-14
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
-
-KE2AIZ,MAGGIE,,LIVONIA NY
-SM7VWM,ANDY,,SKATEHOLM SWEDEN
-
-KD8WCK,RICK,OH,
-KQ1I,BILL,SC,
-WA9PWP,PAUL,WI,
-WB1DQT,BILL,CT,
-WP3GW,ANGEL,FL, 
-
+#
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -243,6 +234,7 @@ AB9YC,AJ,1249,Streamwood IL
 AC0E,Jim,2780,Garden City KS
 AC0VM,Debbie,3054,Arvada CO
 AC0W,Bill,1564,Austin MN
+AC1CB,BILL,MA,
 AC1FE,Rich,783,Hancock NH  (VE3KI)
 AC1GF,Bob,NH,Hudson NH
 AC1JR,JEFF,
@@ -1715,7 +1707,6 @@ K1ZHG,LOU,
 K1ZJA,Bill,2645,Asheville NC
 K1ZR,Shane,NH,Sandown NH
 K1ZZ,Dave,2352,Coventry CT
-K1ZZI,ED,
 K1ZZI,Ed,677,Woodstock GA
 K2AAW,Edib,NY,Northport NY
 K2ACX,Brian,2761,Washington DC
@@ -1814,6 +1805,7 @@ K2VV,John,2292,Moscow Mills MO
 K2WDE,Seth,LA,Metaire LA
 K2WK,Walt,444,Gordonsville VA
 K2WR,Rich,NY,New York NY
+K2WVU,JOHN,WV,
 K2XA,Saul,347,Slingerlands NY
 K2XR,Dave,PA,Albrightsville PA
 K2XX,Joe,339,Floyd VA
@@ -1891,6 +1883,7 @@ K3NRX,VINCE,
 K3OO,Rick,PA,Wind Gap PA
 K3OOL,Craig,PA,State College PA
 K3OS,GARY,,Hickory NC
+K3OVJ,JAY,PA,
 K3OX,Kevin,2024,Ewing NJ
 K3PA,Drew,1046,Tonganoxie KS
 K3PH,Bob,2195,Kresgeville PA
@@ -3024,6 +3017,7 @@ KD8RGW,Bud,3134,Westerville OH
 KD8RQE,Mike,1599,Coldwater MI
 KD8SAV,Gary,1089,Dayton OH
 KD8VSP,STEVEN,,Fairfield PA
+KD8WCK,RICK,OH,
 KD9AIE,ADAM,,Rock Island IL
 KD9C,MARK,IN,
 KD9KHA,Andy,IL,Vandalia IL
@@ -3068,6 +3062,7 @@ KE1L,SHIRL,,ME
 KE1TLG,TONY,
 KE1ZE,STAN,
 KE2AEQ,TODD,
+KE2AIZ,MAGGIE,,LIVONIA NY
 KE2BVB,JAY,
 KE2CWO,,NY,Hudson CWops Club (Bridgehampton NY)
 KE2D,Bob,1796,Ewing NJ
@@ -3136,6 +3131,7 @@ KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8GKO,JODY,,OH
 KE8LQR,ANDREW,
+KE8NI,BOB,OH,
 KE8ON,JAMES,
 KE8VC,DAVID,MI,Allegan MI
 KE8VKU,TAB,OH,
@@ -3218,6 +3214,7 @@ KG1V,Geo,NH,Merrimack NH
 KG3V,Tom,1034,White Stone VA
 KG4BIG,KEN,KY,Georgetown KY
 KG4CRJ,Brian,2378,Stoneville NC
+KG4CXW,ERIC,PA,
 KG4EXY,JOHN,
 KG4FXG,BILL,,GA,
 KG4IKQ,Jim,1458,Marion NC
@@ -3574,6 +3571,7 @@ KP4/N5TOO,Van,1557,
 KP4/W1VE,Gerry,191,(W1VE)
 KP4/W4XO,Lex,2217,Puerto Rico
 KP4AF,Carlos,2518,Ponce PR
+KP4AMU,HECTOR,PR,
 KP4AW,Danny,1526,Guyama PR
 KP4EJ,Carlos,1501,Salinas PR
 KP4JFR,Jose,PR,Trujillo Alto PR
@@ -3582,6 +3580,7 @@ KP4P,Tele,490,Ponce PR
 KP4Q,VIRGIL,,Orlando FL
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN
+KQ1I,BILL,SC,
 KQ1O,SANTI,,Midlothian VA
 KQ1RP,SCOTT,FL,Cape Coral FL
 KQ1S,BILL,SC,
@@ -3844,6 +3843,7 @@ M0ICL,JOZEF,DX,Orpington England
 M0IHT,Harry,560,(M3X) Exeter England
 M0JWB,Jim,,Bistol England
 M0KHX,MART,,Ipswich England
+M0LKA,ASH,DX,
 M0LRQ,PETER,DX,Northamptonshire England
 M0MHJ,INGY,
 M0MUI,Mui,2855,Norwich England
@@ -3902,6 +3902,7 @@ N0BM,Brian,2772,Woodbury MN
 N0CB,Royce,NE,Omaha NE
 N0CVW,Chas,2661,Fairway KS
 N0CWO,,,Midwest CWops Club (Andover KS)
+N0DEX,DAVID,NE,
 N0DIR,Nodir,815,Stafford VA
 N0DNF,Bill,ID,Pocatello ID
 N0EF,John,1299,Bozeman MT
@@ -4270,6 +4271,7 @@ N4KS,Ken,1274,
 N4KS/3,Ken,1274,Delaware
 N4KW,Pete,1638,Hurdle Mills NC
 N4LAG,Andy,NC,Asheville NC
+N4LCD,PAUL,GA,
 N4LSJ,Tom,3094,Cincinnati OH
 N4LW,Bob,FL,Rockledge FL
 N4NBM,Al,FL,Winter Springs FL
@@ -4528,6 +4530,7 @@ N7DH,Dennis,ME,Kittery Point ME
 N7DRW,Bud,2246,Bellevue WA
 N7DRW/4,HORACE,SC,Aiken SC
 N7DX,Tony,2764,Camano Island WA
+N7DXC,KEITH,CA,
 N7DXT,Gary,MT,Missoula MT
 N7DZ,BILL,
 N7EDK,Ed,FL,Bradenton FL
@@ -4579,6 +4582,7 @@ N7UM,AL,
 N7UN,Guy,NJ,Newfoundland NJ
 N7US,Jim,486,Woodstock IL
 N7VS,Steve,
+N7VT,STEVE,OR,
 N7WMN,DAVID,
 N7WY,Bob,1406,WY
 N7XE,JIM,NV,Bethleham PA
@@ -5510,6 +5514,7 @@ SM7GVF,KJELL,,SM7T
 SM7IUN,Bjorn,,Bjarred Sweden
 SM7RYR,Roger,1855,Malmo Sweden
 SM7T,KJELL,,SM7GVF
+SM7VWM,ANDY,,SKATEHOLM SWEDEN
 SM7WNM,Jocke,,Bjarnum Sweden
 SM7YIN,Ingvar,,Skillinge Sweden
 SM9A,Stef,1884,Ystad Sweden (DL1IAO also SA3CWW)
@@ -5874,7 +5879,6 @@ VE3GSS,GARY,
 VE3HEU,Vic,2536,Toronto ON
 VE3HQZ,PIERRE,ON,Toronto ON
 VE3HX,Alan,ON,Ottawa ON
-VE3HYK,ROSS,
 VE3HYK,ROSS,ON,
 VE3ICV,Paul,ON,
 VE3IID,DOUG,
@@ -6721,6 +6725,7 @@ W6OAT,Rusty,28,Indianola WA
 W6ONV,Steve,CA,Oakley CA
 W6OOM,Eric,2614,Campbell CA
 W6OWP,Carl,TX,Livington TX
+W6PAN,PETE,CA,
 W6PH,Kurt,CA,Inyo CA
 W6PHO,David,1903,Columbia CA
 W6QA,Tony,CA,Placerville CA
@@ -6983,6 +6988,7 @@ W9SAU,Dan,IL,Chicago IL
 W9SE,John,IL,Normal IL
 W9SN,Steve,642,Allardt TN
 W9SN/M,Steve,TN,mobile
+W9SS,CATHY,IN,
 W9SZ,Zack,731,Urbana IL
 W9TD,Gary,2998,Lake Villa IL
 W9UCR,Bob,1907,Cape Coral FL
@@ -7185,6 +7191,7 @@ WA9LKF,Robert,IL,Dekalb IL
 WA9LKZ,RALPH,
 WA9MNF,ED,2306,Lombard IL
 WA9MTY,KEVIN,
+WA9PWP,PAUL,WI,
 WA9SEO,Mike,1748,Shorewood IL
 WA9TT,LARRY,WI,
 WA9TZE,Jim,WI,South Milwaukee WI
@@ -7200,6 +7207,7 @@ WB0RUR,Gary,AZ,Fayetteville AZ
 WB0SND,Mike,1469,De Soto MO
 WB0TUA,Derek,MO,Creve Coeur MO
 WB0U,Len,MN,Rochester MN
+WB1DQT,BILL,CT,
 WB1ECP,GERRY,TN, 
 WB1FJW,TOM,NH,
 WB1KE,Loren,UT,Orem UT
@@ -7328,6 +7336,7 @@ WB9MII,GREG,
 WB9OQV,Jim,MO,
 WB9QDL,Ken,CO,Louisville CO
 WB9UXN,BRENT,
+WB9YOU,LINDA,WI,
 WB9Z,Jerry,707,Crescent City IL
 WC0W,John,3123,Saint Johns FL
 WC1D,RICK,
@@ -7477,6 +7486,7 @@ WO8L,RICK,,Pfafftown NC
 WO9B,Mike,2203,New Berlin WI
 WP3A,Jaime,PR,Coamo PR
 WP3C,Al,KP4,Utuado PR
+WP3GW,ANGEL,FL, 
 WP3ME,Joel,FL,Miami FL
 WP3Y,LEONEL,
 WP4CLS,MILLIE,,Orlando FL
