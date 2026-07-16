@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4512
-# Last updated 2026-07-14
+# Contains members up to #4513
+# Last updated 2026-07-16
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1211,6 +1211,7 @@ DL6KCR=1586
 DL6KDS=4302
 DL6MAA=1124
 DL6MDD=2950
+DL6MEE=4513
 DL6MEZ=1777
 DL6MHT=3174
 DL6NAF=752
