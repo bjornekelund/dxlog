@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-06-18
-# Last number listed 308 OH5ZA
+# Last edit,2026-07-16
+# Last number listed 310 KQ4MHE
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -136,6 +136,7 @@ K7KYR,Jos,280,
 KA1ULN,Niece,258,(MA)
 KD2ECB,Tilio,263,(IU3BRO)
 KF0CR,Luc,98,
+KQ4MHE, Mike,310,
 LA0HY,Memo,NM,
 LB2WD,Helge,265,
 LB8VA,Ivar,267,
@@ -245,6 +246,7 @@ PA2W,Martin,86,
 PA3AAA,Reinier,205,
 PA3AAV,Gert,304,
 PA3ADJ,Stefan,91,
+PA3ADU,Nico,309,
 PA3AM,Gerrit,127,
 PA3ARI,Mathieu,102,
 PA3ARM,Harry,176,

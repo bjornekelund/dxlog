@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send updates/corrections to ve2fk@arrl.net
 # Longest name is "MARIANNE" with 8 characters
-# Contains members up to #308
-# Last updated 2026-06-21
+# Contains members up to #310
+# Last updated 2026-07-16
 5X8C=ANTON;154
 9A1AA=IVO;37
 9A3SM=MATO;136
@@ -132,6 +132,7 @@ K7KYR=JOS;280
 KA1ULN=NIECE;258
 KD2ECB=TILIO;263
 KF0CR=LUC;98
+KQ4MHE=MIKE;310
 LA0HY=MEMO;NM
 LB2WD=HELGE;265
 LB8VA=IVAR;267
@@ -241,6 +242,7 @@ PA2WLE=BERT;239
 PA3AAA=REINIER;205
 PA3AAV=GERT;304
 PA3ADJ=STEFAN;91
+PA3ADU=NICO;309
 PA3AM=GERRIT;127
 PA3ARI=MATHIEU;102
 PA3ARM=HARRY;176
