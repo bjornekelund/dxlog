@@ -1,7 +1,7 @@
 # Operator names based on data collected and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "ALESSANDRO" with 10 characters
-# Last updated 2026-06-10
+# Last updated 2026-07-19
 2E0DCW=GERALD
 2E0FPW=JK
 2E0GKC=PAUL

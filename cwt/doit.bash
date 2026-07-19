@@ -19,4 +19,6 @@ cp $XDTFILE ../xdt
 
 ../copytosourcetree.bash $DBFILE
 
+cd ../fistsspr; ./doit.bash
+
 exit

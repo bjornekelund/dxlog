@@ -22,4 +22,7 @@ echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
+cd ../fistsspr; ./doit.bash
+cd ../arrlrr; ./doit.bash
+
 exit

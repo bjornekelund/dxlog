@@ -22,6 +22,6 @@ else
     fi
 fi
 
-exit
+cd ../agcwntcqp; ./doit.bash
 
-# https://www.agcw.de/wp-content/persist/Mitglieder.csv
+exit

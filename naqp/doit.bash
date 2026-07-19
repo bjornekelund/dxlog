@@ -13,4 +13,13 @@ echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
+LIST="mdqp mtqp fistsspr arrlrr"
+
+for contest in $LIST; do
+  cd ../$contest
+  echo "Doing" $contest "in" `pwd`
+  ./doit.bash
+  echo ---------------
+done
+
 exit

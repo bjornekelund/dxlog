@@ -23,4 +23,6 @@ if [ -e $INFILESSB ]; then
     ../copytosourcetree.bash $OUTFILESSB
 fi
 
+cd ../fistsspr; ./doit.bash
+
 exit

@@ -3,7 +3,7 @@
 # Send updates/corrections to ve2fk@arrl.net
 # Longest name is "MARIANNE" with 8 characters
 # Contains members up to #310
-# Last updated 2026-07-16
+# Last updated 2026-07-19
 5X8C=ANTON;154
 9A1AA=IVO;37
 9A3SM=MATO;136

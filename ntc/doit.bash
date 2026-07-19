@@ -12,4 +12,6 @@ echo Created $OUTFILE
 
 ../copytosourcetree.bash $OUTFILE
 
+cd ../agcwntcqp; ./doit.bash
+
 exit

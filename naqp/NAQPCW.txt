@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-07-16
+# 1-LastEdit,2026-07-18
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from CW log/VE2FK and SSB log/NP3Y
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -14,6 +14,23 @@
 # SPRINTNS 
 # SPRINTRTTY 
 # SPRINTSSB
+
+# Latest added
+NO2R,PETER,OH,
+KN6TZK,BILL,CA,
+WV6I,CHRIS,CA
+K7ABC,DAVE,AZ,K6LL
+KP4/NN6U,JOHN,KP4,
+V26AG,ANDY,V2,KG2GOW
+KR4HRC,CHAD,KY
+C6AKZ,NICK,C6,
+WZ4Z,FRED,VA,
+N9W,ED,IL,N9EP
+NN9Z,KYLE,IL,
+W2CG,MARTY,NJ,
+PY2PLL,MARCUS,PY,
+
+
 4U1WB,MASA,DC,
 7L3PXO,MASA,
 8P5A,TOM,8P,

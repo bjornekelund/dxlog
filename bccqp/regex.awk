@@ -17,6 +17,7 @@ END {
   printf("MULT2_TYPE=CALLSIGN\n");
   printf("MULT2_COUNT=PER_MODE\n");
   printf("MULT2_FIELD=CALLSIGN\n");
+  printf("MULT2_DISPLAY=\n");
   printf("MULT2_NO_ALERT=YES\n");
   printf("MULT2_EXCEPTION=!DEST->CALL:^(%s)$;NONE\n\n", string);
 

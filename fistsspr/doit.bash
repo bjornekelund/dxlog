@@ -5,7 +5,6 @@ NAMESFILE=`ls ../names/Names_VE2FK* | tail -1 2> /dev/null`
 CWTFILE=`ls ../cwt/CWOPS_* | tail -1 2> /dev/null`
 SSFILE=`ls ../arrlss/SSCW* | tail -1 2> /dev/null`
 NAQPFILE=`ls ../naqp/NAQP[^_]* | tail -1 2> /dev/null`
-echo $NAQPFILE
 
 WEBFILE=fistsmembers.csv
 
