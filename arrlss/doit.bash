@@ -24,5 +24,6 @@ if [ -e $INFILESSB ]; then
 fi
 
 cd ../fistsspr; ./doit.bash
+cd ../arrlrr; ./doit.bash
 
 exit
