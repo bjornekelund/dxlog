@@ -21,7 +21,8 @@ else
         ../copytosourcetree.bash $OUTFILE
     fi
 fi
-
-cd ../agcwntcqp; ./doit.bash
+if [ -s ../agcwntcqp ]; then
+    cd ../agcwntcqp && ./doit.bash
+fi
 
 exit
