@@ -36,7 +36,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~ /^(|8P|VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V3|TI|XE|KG4|CM|FS|V4|J8|VP5|VP2[EMV])$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~ /^(|8P|VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V[23]|TI|XE|KG4|CM|FS|V4|J8|VP5|VP2[EMV])$/)
   {
     printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
     longest = length($name) > length(longest) ? $name : longest;

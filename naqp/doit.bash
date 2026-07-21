@@ -16,10 +16,10 @@ echo Created $OUTFILE
 LIST="mdqp mtqp fistsspr arrlrr"
 
 for contest in $LIST; do
+  echo ---------------
   cd ../$contest
   echo "Doing" $contest "in" `pwd`
   ./doit.bash
-  echo ---------------
 done
 
 exit
