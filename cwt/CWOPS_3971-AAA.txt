@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-07-17
+# LastEdit,2026-07-22
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1390,6 +1390,7 @@ IT9CDU,Vince,,Palermo Italy
 IT9CKA,Serafino,2584,Trapani Italy
 IT9GSF,Fabio,3796,Palermo  Italy
 IT9IML,Rosario,,Nascalucia Italy
+IT9IVU,Daniele,3971,Belmonte Mezzagno Italy
 IT9KCD,Gae,3653,Serradifalco Italy
 IT9MUO,Alf,1569,Ribera Italy
 IT9ORA,Gianni,3870,
@@ -5472,6 +5473,7 @@ VE1VEI,Lloyd,NS,Aylesford NS
 VE1YVN,Sam,NS,Dartmouth NS
 VE2AEJ,Alan,336,Quebec
 VE2AEJ/3,Alan,336,
+VE2BK,Real,QC,La Sarre QC
 VE2BWL,Guy,859,Magog QC
 VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Pierre,QC,Sherbrooke QC
@@ -5480,7 +5482,6 @@ VE2ESX,Ron,3318,Greenfield Park QC
 VE2FD,Steve,2607,Deux-Montagnes QC
 VE2FK,Dub,QC,*** Linked to Real Time Contest Server ***
 VE2FU,Phil,QC,Quebec QC
-VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2GT,Pierre,QC,
 VE2HB,Dub,1181,Matane QC (also VE2FK) 
 VE2HEW,Tony,QC,Montreal QC

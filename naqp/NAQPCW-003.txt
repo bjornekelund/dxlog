@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-07-19
+# 1-LastEdit,2026-07-21
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from RY logs NJ4P/WV4P VE2FK, NP3Y/SSB
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -522,7 +522,7 @@ K3HW,BILL,PA,
 K3IE,HUNTER,TN,
 K3IGA,RAY,TX,
 K3JT,TERRY,WV,
-K3KU,ART,MD,
+K3KU,CARY,MD,
 K3LR,KATE,PA,
 K3LT,LARRY,DE,
 K3MD,JOHN,PA,
@@ -2785,7 +2785,7 @@ OM2VL,LACI,
 ON4CT,DIRK,
 PJ2ND,JEFF,,
 PY2NY,VITOR,
-PY2PLL,MARCUS,,
+PY2PLL,MARCUS,
 PY3TD,BARRY,,
 PY5XT,NANDO,
 TI5CDA,CHARLIE,,
