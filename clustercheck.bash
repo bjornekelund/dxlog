@@ -32,14 +32,16 @@ while IFS= read -r line || [ -n "$line" ]; do
         callsign="${line%%=*}"
         callsign="${callsign#\*}"
 
-        # echo "Testing $callsign ($server:$port)... "
+#        echo "Testing $callsign ($server:$port)... "
         
-        # Test connection with timeout of 5 seconds
-        # Using /dev/tcp for portability (no telnet command needed)
-        if timeout 5 bash -c "exec 3<>/dev/tcp/$server/$port" 2>/dev/null; then
-            printf "Node %-9s ✓ ALIVE\n" "$callsign"
-        else
-            printf "Node %-9s ✗ DEAD\n" "$callsign"
+        if [[ $callsign != "LOCALHOST" ]]; then
+            # Test connection with timeout of 5 seconds
+            # Using /dev/tcp for portability (no telnet command needed)
+            if timeout 5 bash -c "exec 3<>/dev/tcp/$server/$port" 2>/dev/null; then
+                printf "Node %-9s ✓ ALIVE\n" "$callsign"
+            else
+                printf "Node %-9s ✗ DEAD\n" "$callsign"
+            fi
         fi
     fi
 done < "$TEMPFILE"
