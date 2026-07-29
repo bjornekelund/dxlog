@@ -1,5 +1,5 @@
 # EUHFC Call History 2026 for DXLog (compiled by S57AW)
-# Last Edit=2025-07-18
+# Last Edit=2026-07-28
 # Send any correction direct to: s57aw@s5cc.eu
 2D0YLX=09
 2E0AMO=20
@@ -619,7 +619,7 @@ DA0HSR=65
 DA0HWI=93
 DA0RUD=03
 DA0T=97
-DA1DX=58
+DA1DX=81
 DA1EH=58
 DA1MS=24
 DA20XOTA=80
