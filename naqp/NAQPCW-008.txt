@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-07-28
+# 1-LastEdit,2026-07-30
 # 2-Send any corrections direct to ve2fk@arrl.net
 # 3-Updated from RY logs NJ4P/WV4P VE2FK, NP3Y/SSB
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -738,7 +738,7 @@ K6DAV,DAVID,CA,
 K6DGW,SKIP,NV,
 K6DLK,DAN,CA,
 K6DX,CHRIS,CA,
-K6EI,JIM,WA,
+K6EI,JIM,CA,
 K6ELE,ED,CA,
 K6FA,DAVID,CA,
 K6FEU,TOM,UT,
@@ -4524,7 +4524,7 @@ WW4LL,FRED,GA,
 WW4XX,ALEX,GA,
 WW5L,JIM,LA,
 WW6W,MARCUS,CA,
-WW9R,PAT,AZ,
+WW9R,PAT,WI,
 WX0B,ROY,TX,
 WX2JIM/VP5,JIM,VP5,
 WX2WX,DAVE,NJ,

@@ -1,7 +1,7 @@
 # Maryland-DC QSO Party prefill database
 # Based on NAQP data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-07-29
+# Last updated 2026-07-31
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -677,7 +677,7 @@ K6DAV=CA
 K6DGW=NV
 K6DLK=CA
 K6DX=CA
-K6EI=WA
+K6EI=CA
 K6ELE=CA
 K6FA=CA
 K6FEU=UT
@@ -3554,7 +3554,7 @@ WW4LL=GA
 WW4XX=GA
 WW5L=LA
 WW6W=CA
-WW9R=AZ
+WW9R=WI
 WX0B=TX
 WX2WX=NJ
 WX4SS=CA

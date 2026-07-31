@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-07-22
+# LastEdit,2026-07-30
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1746,7 +1746,7 @@ K1YY,Bob,1783,Corvallis OR
 K1ZJA,Bill,2645,Asheville NC
 K1ZR,Shane,NH,Sandown NH
 K1ZZ,Dave,2352,Coventry CT
-K1ZZI,Ralph,677,Fort Mill SC
+K1ZZI,Ed,677,Fort Mill SC
 K2AAW,Edib,NY,Northport NY
 K2ACX,Brian,DC,(2761) Washington DC
 K2AU,Mark,235,Plantation FL
@@ -2412,6 +2412,7 @@ K8CXM,Jim,OH,Cincinnati OH
 K8DK,Doug,MI,Berkley MI
 K8DO,Doc,MI,Heklock MI
 K8DSS,Ed,FL,Lakewood Ranch FL
+K8DU,AL,MI,
 K8DV,Dave,OH,Goshen OH
 K8EJ,Steve,528,Lenoir City TN
 K8EK,Ed,2475,Traverse City MI
