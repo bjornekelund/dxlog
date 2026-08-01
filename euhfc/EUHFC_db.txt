@@ -1,5 +1,5 @@
 # EUHFC Call History 2026 for DXLog (compiled by S57AW)
-# Last Edit=2026-07-28
+# Last Edit=2026-07-31
 # Send any correction direct to: s57aw@s5cc.eu
 2D0YLX=09
 2E0AMO=20
@@ -18556,7 +18556,7 @@ YP7A=06
 YP7P=91
 YP8A=77
 YP8S=03
-YP8T=21
+YP8T=06
 YP9J=90
 YP9W=87
 YQ6A=74
@@ -18740,6 +18740,7 @@ YU1EA=70
 YU1ED=63
 YU1EL=82
 YU1EQ=73
+YU1EW=73
 YU1FG=62
 YU1FJK=18
 YU1FW=81

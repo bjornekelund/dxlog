@@ -1,4 +1,4 @@
-# Updated up to FOC #2265 - VX1EM. Updates to fabian@fkurz.net.
+# Updated up to FOC #2266 - DF7TV. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -189,6 +189,7 @@ DF0HSC=Fabian;1796
 DF20006WM=Baldur;1708
 DF2IC=Greg;1624
 DF4BV=Heinz;1904
+DF7TV=Thomas;2266
 DJ1YFK=Fabian;1796
 DJ4KW=Gerd;1833
 DJ5CW=Fabian;1796
@@ -389,6 +390,7 @@ GB4RS=Bob;2014
 GB60ANT=Gavin;1998
 GB85FOC=Nick;2171
 GD3NKC=David;1991
+GD3VMK=Dale;1332
 GK0PNM=Pete;2095
 GK3VMK=Dale;1332
 GM0GAV=Gavin;1998
@@ -396,6 +398,7 @@ GM0MFR=Gareth;2204
 GM3GAV=Gavin;1998
 GM3POI=Clive;831
 GM3RWF=Nick;1902
+GM3VMK=Dale;1332
 GM3WUX=Terry;1189
 GM3X=Clive;831
 GM3YOR=Drew;1926
@@ -485,7 +488,7 @@ GQ8DX=Jack;2067
 GR150NIB=Terry;1189
 GR3KGV=Ken;1309
 GR4BWP=Fred;1746
-GS8VL=Terry;1189
+GS8VL=Iain;2246
 GU0MFR=Gareth;2204
 GU3TXF=Nigel;1266
 GU4CHY=Dick;1855

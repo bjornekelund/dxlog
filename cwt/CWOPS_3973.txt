@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-07-30
+# LastEdit,2026-07-31
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -3537,7 +3537,7 @@ M0ITM,Andy,3669,Cornwall England
 M0JWB,Jim,,Bistol England
 M0KHX,Mart,3544,Ipswich England
 M0KHZ,Mart,,Ipswich England
-M0KKB,Step,,Canterbury Kent England
+M0KKB,Step,3973,Canterbury Kent England
 M0KNP,Clive,3898,
 M0KTZ,Enzo,3206,London England
 M0LRQ,Peter,3380,Northamptonshire England
@@ -4936,7 +4936,7 @@ PA8MM,Victor,,Purmerend Netherlands
 PA9WOR,Bart,,Apeldoorn/Almelo Netherlands
 PC4H,Henk,3399,Hoofddorp Netherlands
 PC6R,Dick,3175,Heemstede Netherlands
-PD1RDY,Rudy,,Heerthugowaard Netherlands
+PD1RDY,Rudy,3972,Heerthugowaard Netherlands
 PD2DX,Johan,,Overijssel Netherlands
 PD2R,Maarten,,Netherlands
 PD5BS,Bill,3757,Vissingen Netherlands
@@ -6007,6 +6007,7 @@ W3SA,John,3074,NC
 W3SD,Steve,PA,Richboro PA
 W3SFG,Steve,MD,Boonsboro MD
 W3SI,Bill,FL,Edgewater FL
+W3SMK,STEVE,3973,
 W3TB,Ted,2477,Franklin TN
 W3TMZ,Jack,FL,Lecanto FL
 W3TW,Tom,1972,Huntington Station NY
