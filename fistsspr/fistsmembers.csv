@@ -1,4 +1,4 @@
-Member Number,Callsign,Name,2026/07/31 23:57:39
+Member Number,Callsign,Name,2026/08/04 23:22:00
 1,GX0IPX,FISTS CW Club
 2,GX3ZQS,FISTS CW Club
 8,G4XHZ,Frank
@@ -14,7 +14,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 106,G3YLA,Jim
 130,G4MLW,Ian
 135,G0EQC,Ian
-151,GW0EDC,Brian
 171,G0DIH,Paul
 187,G4DYC,Mike
 209,GM0EPO,John
@@ -80,8 +79,8 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 730,G0AZV,Chris
 743,VA6ERA,Olive
 753,GM3ZRT,William
-757,G0NYD,John
-757,GM0NYD,John
+757,G0NYD,Jonathan
+757,GM0NYD,Jonathan
 768,KC3QC,Geoff
 771,SV2AJX,Paschalis
 777,G4XUZ,Raymond
@@ -350,7 +349,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 1862,G0TMX,Terry
 1868,GW0UHJ,Bill
 1872,GW0VFF,Stephen
-1877,G3RSF,Alan
 1884,BX2AC,Tiny
 1890,GB2BP,Bletchley Park Museum
 1903,KS4OT,Jimmy
@@ -3908,7 +3906,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 7962,W2PBJ,Scott
 7963,KN6EM,Art
 7964,AA9XL,Bill
-7966,KC2FVN,Boris
 7967,KB0CEB,Jerry
 7968,KB0VXU,Richard
 7969,NC3S,Philip
@@ -7813,7 +7810,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 12960,N0UMP,Bill
 12961,NA9F,Ron
 12962,K7GLE,Glenn
-12963,KC0YCO,Jason
 12964,KC8VSZ,Brad
 12966,NE5EE,Dave
 12967,N0CWR,Kevin
@@ -7907,7 +7903,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 13060,WA3SCM,Dave
 13062,K6PFC,Paul
 13063,KL0SW,Frank
-13064,KD8DBO,Tim
 13065,KM5IT,Gary
 13066,K5MV,Jeff
 13067,K4CUA,Gregory
@@ -10033,7 +10028,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 15960,G3OKD,Zyg
 15971,MI0RPT,Richard
 15971,M6RPT,Richard
-15972,EI5KE,Harold
 15992,G8FDR,Michael
 15993,F5VHP,Wil
 15995,G3JRH,Peter
@@ -10724,6 +10718,7 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 17010,M0GZN,Fort Purbrook Amateur Radio Club (FPARC)
 17019,G0PFD,Ashley
 17023,GI0HHV,Stephen
+17023,EI8KS,Stephen
 17028,I5EFO,Emil
 17037,F5OGJ,Laurent
 17039,G4KJD,Ian
@@ -10737,7 +10732,7 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 17075,G4FZR,Kerry
 17077,G4NXG,Alan
 17080,GX3AH,Riviera Amateur Radio Club (RARC)
-17088,M0MEW,Thomas
+17088,M0MEW,Tom
 17097,G0BKC,Paul
 17099,M6BDO,Antony
 17099,2E0NTR,Antony
@@ -12867,7 +12862,6 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 19798,KE8ICG,Jeff
 19799,NS7X,Maryann
 19801,G4SDX,George
-19809,G3FYX,Roy
 19814,M0KNG,Keith
 19817,HB9FKF,Thomas
 19818,G3NKE,Nigel
@@ -15732,7 +15726,7 @@ Member Number,Callsign,Name,2026/07/31 23:57:39
 23108,M1RJG,Rob
 23109,M0TLJ,Rob
 23110,EI7HMB,John
-23111,I1GXV,Richard
+23111,I1GXV,Riccardo
 23112,M7GKE,Adam
 23113,M7RMQ,Ryan
 23114,G1AJH,Andy

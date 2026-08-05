@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "ALEXANDER" with 9 characters
-# Last updated 2026-08-01
+# Last updated 2026-08-05
 4U1WB=MASA;DC
 7L3PXO=MASA;
 8P5A=TOM;8P

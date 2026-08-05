@@ -41,7 +41,7 @@ BEGIN {
       bad = 1;
     }
     else if ( \
-      $call ~ /^(A[A-L]|[KNW][A-z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
+      $call ~ /^(A[A-L]|[KNW][A-z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6|AE)$/ && \
       $call !~ /\/V[EOY][0-9]$/ && \
       $call !~ /^KG4[A-Z]{2}$|^[KNW]P[234][A-Z]{1,3}$/)
     {
@@ -54,7 +54,7 @@ BEGIN {
     else if ( \
       $call ~ /^KG4[A-Z]{2}$|^[KNW]P[234][A-Z]{1,3}$/ && $call !~ /\/V[EOY][0-9]$/)
     {
-      if ($ex !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/)
+      if ($ex !~ /^(DX|AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|PR|VI|)$/)
       {
         printf("Problem KP[234] exchange: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
