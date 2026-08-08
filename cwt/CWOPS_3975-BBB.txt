@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-08-04
+# LastEdit,2026-08-05
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -41,6 +41,7 @@
 7L2VPL,Hide,3538,Chiba Japan
 7Q2T,Gerry,191,(W1VE)
 7Q6UJ,Urgent,3848,Mzimba Dist. Malawi
+7Q9JT,Jim,1,N3JT
 7S3A,Jan,,Sundbruk Sweden
 7X2TT,Abdel,2344,(M0NPT) Alger Algeria
 7X3DA,Hamid,1676,Laghouat Algeria
@@ -535,6 +536,7 @@ DA1DX,Ben,3858,Fulda Germany
 DA2KT,Kate,,KE8LQR at DA2KT
 DB7AL,Andy,3903,Dreieich Germany
 DC1YY,Reini,,Munich Germany
+DD2ML,Ulli,,Mettenheim Germany
 DD5CF,Colin,DL,Bonn Germany (QRP)
 DD5KG,Gabor,2471,Munich Germany
 DD5XX,Saki,2354,Esslingen (nr Stuttgart) Germany
@@ -1249,6 +1251,7 @@ HA7AP,Imre,,Budapest Hungary
 HA7I,Laci,,(HA7JTR) Bogacs Hungary
 HA7JQK,Alex,,Bekescsaba Hungary
 HA7MF,Gabor,,Mezotur Hungary
+HA7RJA,Rob,3975,Mikebuda Hungary
 HA8EV,Peter,HA,Budapest Hungary
 HA8JV,Paul,,(HG8R) Bekescsaba Hungary
 HA8LLK,Aty,,Szeghalum Hungary
@@ -4557,7 +4560,7 @@ NO5W,Chuck,311,New Orleans LA
 NO6T,Mark,1224,
 NO8C,Mike,OH,Miller City OH
 NP2J,Dan,,Christiansted Virgin Islands
-NP2X,Fred,524,Christiansted VI
+NP2X,Fubar,524,Christiansted VI
 NP2ZA,Zaba,1856,Jan 26 to Feb 5th
 NP3A,Eric,1112,San Juan PR
 NP3JD,Jose,PR,Guaynabo PR
@@ -4962,6 +4965,7 @@ PJ4AA,Scott,102,W4PA
 PJ4K,Dave,232,(N3RD)
 PJ4LS,Hans,849,Bonaire Netherland Antillies
 PJ4PA,Scott,102,W4PA
+PJ4WW,Fubar,524,
 PJ7PA,Tom,1092,(AA9A) Saint Maarten
 PJ7PL,Ed,,Cupecoy St Maarten
 PP5EG,Oms,549,Florianopolis Brazil
