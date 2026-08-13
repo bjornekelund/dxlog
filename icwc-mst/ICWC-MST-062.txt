@@ -3,10 +3,11 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2026-08-04
+# Last Edit,2026-08-13
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
+#
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England
@@ -164,6 +165,7 @@ AA7WU,Mike,ID,Nammpa ID
 AA7XA,Jeff,,AZ,
 AA8CA,Vlad,OH,North Royalton OH
 AA8CN,DERRY,OH,
+AA8EA,KYLE,MI,
 AA8IA,Mike,966,Toronto OH
 AA8OY,JIM,
 AA8P,Ralph,OH,Springfield OH
@@ -2681,6 +2683,7 @@ KA3VON,NEAL,
 KA4CDN,MIKE,
 KA4DXP,Allen,WA,Olalla WA
 KA4IE,WALT,
+KA4KOE,PHILIP,
 KA4RRU,Mike,1388,Catlett VA
 KA4RUR,Fred,2678,Saint Louis MO
 KA4SCV,John,TN,Bristol TN
@@ -2947,6 +2950,7 @@ KC9UJG,TRENT,
 KC9WID,ROBERT,
 KC9YI,SCOTT,
 KC9YL,Anne,3070,Francis Creek WI
+KC9ZO,GEORGE,
 KD0DK,DAVE,,IA
 KD0NPM,Rich,2295,Niskayuna NY
 KD0PQU,Romy,CO,Grand Junction CO
@@ -4016,6 +4020,7 @@ N1KM,Mark,RI,Bristol RI
 N1KW,Bob,1022,Homer Glen IL
 N1LN,Bruce,1141,Chapel Hill NC
 N1LU,Don,CT,Stamford CT
+N1MBT,DICK,ME,
 N1MM,Tom,CT,Vernon CT (N1MM Logger+)
 N1MT,MARK,FL,Land O Lakes FL
 N1OI,CORY,,Portsmouth RI
@@ -4698,6 +4703,7 @@ N9GB,Greg,KS,Stilwell KS
 N9GFU,Jim,IN,Schererville IN
 N9GG,Bob,2517,Wilmington DE
 N9GVP,Tom,IL,
+N9GXA,PAUL,IN,
 N9ID,MIKE,
 N9ITO,Jim,IL,Lake Barrington IL
 N9IXD,Marty,1393,Chicago IL
@@ -5901,6 +5907,7 @@ VE3GMZ,BRIAN,
 VE3GNA,Glenn,457,Roblin ON
 VE3GND,BRUCE,
 VE3GO,Ron,ON,Kingston ON
+VE3GOZ,Gord,
 VE3GSS,GARY,
 VE3HEU,Vic,2536,Toronto ON
 VE3HQZ,PIERRE,ON,Toronto ON
@@ -6218,7 +6225,9 @@ W1EQ,Bob,871,Putnam CT
 W1ETI,Chris,
 W1FCV,John,917,Andover CT
 W1FJ,Al,504,Topsfield MA
+W1FMR,JIM,NH,
 W1FOX,Brian,TX,Frisco TX
+W1FYL,JOE,MA,
 W1GD,Gerry,2500,Jefferson MA
 W1GF,Greg,2688,Falmouth ME
 W1HIJ,Bill,709,Upland CA
@@ -6457,6 +6466,7 @@ W3YY,Bob,517,Clifton VA
 W3ZF,DAN,CO,Highlands Ranch CO
 W4/LZ5KF,Claude,2326,(F5PBL)
 W4ALF,Chris,KY,Independence KY
+W4ALM,MIKE,FL,
 W4AMV,ALLAN,
 W4ANE,Jim,SC,Columbia SC
 W4ANT,ALAN,

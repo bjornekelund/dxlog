@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3975
-# Last updated 2026-08-08
+# Contains members up to #3976
+# Last updated 2026-08-13
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1374,6 +1374,7 @@ IK7MIY=Raffael;I
 IK7UKF=Sal;2762
 IK8BIZ=Bob;I
 IK8TEO=Francesco;I
+IK9CPO=Nate;I
 IN3EQD=Marco;I
 IN3FHE=Helga;1548
 IN3TWX=Wolf;I
@@ -2363,7 +2364,7 @@ K7RR=Peter;1575
 K7SF=Steve;1137
 K7SHR=Paul;3271
 K7SO=Doc;WA
-K7SS=BUGS;WA
+K7SS=DAN;2053
 K7SV=Lar;1004
 K7TAN=Don;ID
 K7TD=Terry;1948
@@ -2936,6 +2937,7 @@ KE8EON=James;3707
 KE8G/5=Jim;1616
 KE8G=Jim;1616
 KE8HXE=Brad;3264
+KE8LQR=Kate;3976
 KE8NJW=Jeff;3297
 KE8QFO=Dave;3840
 KE8TBM=Fred;3771
@@ -3261,6 +3263,7 @@ KO4TFK=Steve;3373
 KO4UHE=Rick;KY
 KO4VW=Steve;3096
 KO4ZSD=Eric;CWA
+KO5G=Jim;TX
 KO5USA=Tom;TX
 KO6U=Nathan;CA
 KO8SCA=AC;2408
@@ -3288,6 +3291,7 @@ KP4PI=Jose;3370
 KP4TF=Eddie;PR
 KQ0E=Ron;2859
 KQ1O=Santi;3778
+KQ1S=Bill;SC
 KQ2M=Bob;3789
 KQ3H=Tony;NC
 KQ4CCC=Eric;CWA
@@ -3933,7 +3937,7 @@ N4IW=David;VA
 N4IY=Terry;2250
 N4JEH=Jenna;3203
 N4JGD=David;NC
-N4JP=Eric;CWA
+N4JP=Eric;NC
 N4KD=David;GA
 N4KGY=Bart;UT
 N4KH=Jim;2409
@@ -4524,7 +4528,7 @@ NN2DX=Bray;NY
 NN2L=Chuck;3231
 NN2NN=Steve;NY
 NN3E=Kevin;3822
-NN3Q=Russ;PA
+NN3Q=Russ;3593
 NN3W=Rich;VA
 NN4K=Mac;1227
 NN4NT=Rob;AL
@@ -5385,7 +5389,7 @@ VA2NM=Simon;3249
 VA2OT=DAN;3624
 VA2RAC=DUB;QC
 VA2UR=Guy;QC
-VA2WA=Vic;2212
+VA2WA=Vic;QC
 VA2XZA=Jon;QC
 VA3AR=Stef;ON
 VA3CWT=Gabe;3537
@@ -5800,6 +5804,7 @@ W1AJT=Art;2647
 W1AL=Scott;FL
 W1AO=Joe;125
 W1ARY=Marcel;CT
+W1AW/8=TOM;1099
 W1CTN=Dave;NC
 W1CZ=Pich;NY
 W1EBI=George;9

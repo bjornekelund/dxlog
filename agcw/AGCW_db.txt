@@ -1,7 +1,7 @@
 # AGCW members prefill database
 # Based on official member roster at www.agcw.de
-# Contains members up to #4514
-# Last updated 2026-08-10
+# Contains members up to #4515
+# Last updated 2026-08-13
 3A2LF=2048
 3A2LV=2064
 3A2LW=2065
@@ -1333,6 +1333,7 @@ DL8QS=1068
 DL8RAM=2934
 DL8RB=2369
 DL8RBS=3500
+DL8RHP=4515
 DL8SAO=2443
 DL8SBX=3115
 DL8SCT=3716
@@ -2182,6 +2183,7 @@ SP7IFM=850
 SP7IIT=851
 SP7JYM=2792
 SP8LZC=2214
+SP8RHP=4515
 SP9ADU=846
 SP9BRP=919
 SP9DUX=2727

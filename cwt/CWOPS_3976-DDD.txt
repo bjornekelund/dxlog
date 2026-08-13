@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-08-05
+# LastEdit,2026-08-12
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1379,6 +1379,7 @@ IK7MIY,Raffael,,Corato Italy
 IK7UKF,Sal,2762,Bari Ba Italy
 IK8BIZ,Bob,,Cremano Italy
 IK8TEO,Francesco,,Mirabello Sannitico Italy
+IK9CPO,Nate,,
 IN3EQD,Marco,,Caldonazzo Italy
 IN3FHE,Helga,1548,Merano BZ Italy
 IN3TWX,Wolf,,Tipolo Italy
@@ -2368,7 +2369,7 @@ K7RR,Peter,1575,Silverdale WA
 K7SF,Steve,1137,West Linn OR
 K7SHR,Paul,3271,Sheridan WY
 K7SO,Doc,WA,Espanola NM
-K7SS,BUGS,WA,(2053) Seattle WA
+K7SS,DAN,2053, Seattle WA
 K7SV,Lar,1004,Spotsylvania VA
 K7TAN,Don,ID,Rigby ID
 K7TD,Terry,1948,Colorado Springs CO
@@ -2941,6 +2942,7 @@ KE8EON,James,3707,Ironton OH
 KE8G,Jim,1616,Parma OH
 KE8G/5,Jim,1616,Texas
 KE8HXE,Brad,3264,Columbus OH
+KE8LQR,Kate,3976,Columbiana OH
 KE8NJW,Jeff,3297,Delaware OH
 KE8QFO,Dave,3840,Martin OH
 KE8TBM,Fred,3771,Napoleon OH
@@ -3268,6 +3270,7 @@ KO4TFK,Steve,3373,Suwanee GA
 KO4UHE,Rick,KY,Danville KY
 KO4VW,Steve,3096,Roswell GA
 KO4ZSD,Eric,CWA,Gainesville FL
+KO5G,Jim,TX,
 KO5USA,Tom,TX,Woodlands TX
 KO6U,Nathan,CA,Corona CA
 KO8SCA,AC,2408,(Adrian) Bayside NY
@@ -3295,6 +3298,7 @@ KP4PI,Jose,3370,Juncos PR
 KP4TF,Eddie,PR,Aguadila PR
 KQ0E,Ron,2859,Bemidji MN 
 KQ1O,Santi,3778,Midlothian VA,
+KQ1S,Bill,SC,
 KQ2M,Bob,3789,Newtown CT
 KQ3H,Tony,NC,Greensboro NC
 KQ4CCC,Eric,CWA,Richlands NC
@@ -3944,7 +3948,7 @@ N4IW,David,VA,Lynchburg VA
 N4IY,Terry,2250,Borden IN
 N4JEH,Jenna,3203,Ringgold GA
 N4JGD,David,NC,Kinston NC
-N4JP,Eric,CWA,Richlands NC
+N4JP,Eric,NC,Richlands NC
 N4KD,David,GA,Duluth GA
 N4KGY,Bart,UT,Logan UT
 N4KH,Jim,2409,Huntsville AL
@@ -4535,7 +4539,7 @@ NN2DX,Bray,NY,RHRDXA Pawling NY
 NN2L,Chuck,3231,Penfield NY
 NN2NN,Steve,NY,Niagara Falls NY
 NN3E,Kevin,3822,
-NN3Q,Russ,PA,(3593) Wernersville PA
+NN3Q,Russ,3593,Wernersville PA
 NN3W,Rich,VA,Vienna VA
 NN4K,Mac,1227,Stone Mountain GA
 NN4NT,Rob,AL,Madison AL
@@ -5398,7 +5402,7 @@ VA2NM,Simon,3249,Verdun QC
 VA2OT,DAN,3624,(W5MOT) MONTREAL QC
 VA2RAC,DUB,QC,RAC HQ
 VA2UR,Guy,QC,(VE2BWL)
-VA2WA,Vic,2212,Boucherville QC (COSBoard)
+VA2WA,Vic,QC,(2212) Boucherville QC (COSBoard)
 VA2XZA,Jon,QC,(Jonathan) L'Ile Perrot QC
 VA3AR,Stef,ON,Caledon ON
 VA3CWT,Gabe,3537,Toronto ON
@@ -5814,6 +5818,7 @@ W1AJT,Art,2647,(VE3UTT) Terrell NC
 W1AL,Scott,FL,Cape Coral FL
 W1AO,Joe,125,Manchester ME
 W1ARY,Marcel,CT,Wilton CT
+W1AW/8,TOM,1099,(N4HAI) OHIO
 W1CTN,Dave,NC,Gastonia NC
 W1CWT,,,New England CWops Club (Beverly MA)
 W1CZ,Pich,NY,College Point NY
