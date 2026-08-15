@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-08-09
+# 1-LastEdit,2026-08-14
 # 2-Send any corrections direct to 
 # 3-Updated after CW session, logs K1VUT, NJ4P/WV4P, NJ4P/VE5MX, NP3Y, VE2FK
 # 4-Thanks Bjorn SM7IUN for his help. 
@@ -3900,6 +3900,7 @@ W2KGO,BRANDON,IA,
 W2KRT,KEN,NJ,
 W2KYM,JIM,NY,
 W2LC,SCOTT,NY,
+W2LCQ,ED,NY,
 W2MEB,MIKE,NY,
 W2MKM,ED,NJ,
 W2MSA,NOEL,NJ,
