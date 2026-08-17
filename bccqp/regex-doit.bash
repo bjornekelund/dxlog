@@ -1,9 +1,10 @@
 #!/bin/bash
+URL=https://www.bavarian-contest-club.de/data
 WEBFILE=bcc-members.txt
 OUTFILE=BCC-regex.txt
 
 rm -f $WEBFILE
-curl -sS https://www.bavarian-contest-club.de/data/$WEBFILE -O
+curl -sS $URL/$WEBFILE -O
 
 if [ ! -s $WEBFILE ]; then
   echo "ERROR! Download of $WEBFILE failed. Aborting."
