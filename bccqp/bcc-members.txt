@@ -295,6 +295,7 @@ DL2RMC,Thomas
 A65CW,Thomas
 DL2SKY,Stefan
 DL2VFR,Enrico
+DL2YA,Jannik
 DL2YL,Melanie
 DL2ZA,Hans
 DL2ZAV,Udo
@@ -302,6 +303,7 @@ DL3ABL,Andrea
 DL3BPC,Ron
 DL3DW,Daniel
 DL3DXX,Dietmar
+DL3KWF,Hardy
 DL3LAB,Wolfgang
 DL3LBA,Kai
 DK3A,Kai

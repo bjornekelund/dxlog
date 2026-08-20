@@ -1,9 +1,15 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-08-12
+# LastEdit,2026-08-19
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
+
+
+Z32MAL,ALEK,,SKOPJE North Macedonia
+JF3NDW,Tsu,,Japan
+SP5GB,Greg,,Latchorzew Poland
+
 2E0DCW,Gerald,,London England
 2E0IER,Brian,3702,Doncaster England
 2E0ISD,Ian,,Holmfirth England
@@ -4454,7 +4460,7 @@ NF3R,Joel,1971,Pottstown PA
 NF4A,Charlie,282,Lynn Haven FL
 NF5KF,Klod,2326,(F5PBL) (Claude) Plantation FL
 NF6N,Kyle,CA,Paso Robles CA
-NF6P,Dave,WI,WI RVing
+NF6P,Dave,FL,RVing
 NF6R,Bill,CA,Bakersfield CA
 NF7D,Bob,1279,Kingman AZ
 NF7X,Clayton,ID,Lewiston ID
@@ -4484,6 +4490,7 @@ NI0R,Roger,400,St. Joseph MO
 NI1L,Les,2713,Bridgewater MA
 NI2F,Tom,NY,Binghamton NY
 NI4E,Eric,1372,Charleston WV
+NI4TG,Sam,NC,
 NI4U,Mike,2820,Hampton VA
 NI4Y,Lin,AL,(Gregory) Atlanta GA
 NI6T,Garry,CA,Los Gatos CA
@@ -5320,7 +5327,6 @@ UR5AO,Vlad,,Sumy Ukraine
 UR5ECW,Alex,3230,Ukraine
 UR5FCM,Igor,,Odessa Ukraine 
 UR5LMB,Sergey,,Kharkovskaya Ukraine
-UR5MM,Rudy,UR,Privolie Ukraine
 UR5YKO,Artem,,Chernivtsi Ukraine
 UR5ZW,Victor,,Pervomaysk Ukraine
 UR7GO,Alex,UR,Kherson Ukraine
@@ -5402,7 +5408,7 @@ VA2NM,Simon,3249,Verdun QC
 VA2OT,DAN,3624,(W5MOT) MONTREAL QC
 VA2RAC,DUB,QC,RAC HQ
 VA2UR,Guy,QC,(VE2BWL)
-VA2WA,Vic,QC,(2212) Boucherville QC (COSBoard)
+VA2WA,Vic,2212,Boucherville QC (COSBoard)
 VA2XZA,Jon,QC,(Jonathan) L'Ile Perrot QC
 VA3AR,Stef,ON,Caledon ON
 VA3CWT,Gabe,3537,Toronto ON
@@ -6135,7 +6141,7 @@ W4QDV,Dave,GA,Powder Springs GA
 W4QED,Benny,FL,Fern Park FL
 W4QN,Norm,1937,Jupiter FL
 W4REM,Ron,NC,Hayesville NC
-W4RJF,RJ,3548,Raleigh NC
+W4RJF,Don,3548,Raleigh NC
 W4RK,Bill,459,Jefferson City MO
 W4RKU,Kevin,1978,Boston VA
 W4RM,Bill,2330,Nokesville VA
@@ -6845,6 +6851,7 @@ WF7T,Brad,729,Nashville TN
 WG0M,Mike,1612,Minnetonka MN
 WG0MEZ,Greg,CWA,Daphne AL
 WG3J,Eric,2473,Pittsville MD
+WG4L,Max,3977,Cambridge MA
 WG4V,Marius,3421,Suwanee GA
 WG5H,Curt,1931,Houston TX
 WG5J,Darin,TX,Red Oak TX

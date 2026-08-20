@@ -3,11 +3,26 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2026-08-13
+# Last Edit,2026-08-18
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
 #
+K2TNX,JUSTIN,NY,
+KB3SOM,TERRY,PA,
+KC3FXU,BILL,PA,
+KE3V,KEV,PA,
+N0SSM,JIM,MO,
+W0OIT,FRANK,NV,
+WA0KRL,VERN,MN, 
+
+NC1A,GEO,
+WE3J,GARRY,
+
+K8PT,CHUCK,
+K5QEA,SAM,
+KJ5NVF,MAV,
+
 2E0DCW,Gerald,,London England
 2E0IIV,STEVE,,Chester England
 2E0OBO,Bob,,Edingthorpe Norfolk England

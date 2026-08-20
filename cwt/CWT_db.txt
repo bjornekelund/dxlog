@@ -2,8 +2,8 @@
 # Based on data maintained by Claude VE2FK
 # Send new info/corrections to ve2fk@arrl.net
 # Longest name is "Christian" with 9 characters
-# Contains members up to #3976
-# Last updated 2026-08-13
+# Contains members up to #3977
+# Last updated 2026-08-20
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1470,6 +1470,7 @@ JF1UOW=Mit;3452
 JF1UOX=Misa;3011
 JF2FIU=Yoshifumi;JA
 JF3KNW=Nobu;394
+JF3NDW=Tsu;JA
 JF3SNJ=NAKA;JA
 JH0FOG=KAZU;JA
 JH1GNU=Shigeru;713
@@ -4443,7 +4444,7 @@ NF3R=Joel;1971
 NF4A=Charlie;282
 NF5KF=Klod;2326
 NF6N=Kyle;CA
-NF6P=Dave;WI
+NF6P=Dave;FL
 NF6R=Bill;CA
 NF7D=Bob;1279
 NF7X=Clayton;ID
@@ -4473,6 +4474,7 @@ NI0R=Roger;400
 NI1L=Les;2713
 NI2F=Tom;NY
 NI4E=Eric;1372
+NI4TG=Sam;NC
 NI4U=Mike;2820
 NI4Y=Lin;AL
 NI6T=Garry;CA
@@ -5198,6 +5200,7 @@ SP4AWE=Kaz;SP
 SP4JFR=Bolo;3227
 SP4Z=Wes;SP
 SP5ENA=Mirek;SP
+SP5GB=Greg;SP
 SP5GDX=Krzystof;3133
 SP5JXK=Jan;2887
 SP5LST=Kot;3539
@@ -5307,7 +5310,6 @@ UR5AO=Vlad;UR
 UR5ECW=Alex;3230
 UR5FCM=Igor;UR
 UR5LMB=Sergey;UR
-UR5MM=Rudy;UR
 UR5YKO=Artem;UR
 UR5ZW=Victor;UR
 UR7GO=Alex;UR
@@ -5389,7 +5391,7 @@ VA2NM=Simon;3249
 VA2OT=DAN;3624
 VA2RAC=DUB;QC
 VA2UR=Guy;QC
-VA2WA=Vic;QC
+VA2WA=Vic;2212
 VA2XZA=Jon;QC
 VA3AR=Stef;ON
 VA3CWT=Gabe;3537
@@ -6120,7 +6122,7 @@ W4QDV=Dave;GA
 W4QED=Benny;FL
 W4QN=Norm;1937
 W4REM=Ron;NC
-W4RJF=RJ;3548
+W4RJF=Don;3548
 W4RK=Bill;459
 W4RKU=Kevin;1978
 W4RM=Bill;2330
@@ -6828,6 +6830,7 @@ WF7T=Brad;729
 WG0M=Mike;1612
 WG0MEZ=Greg;CWA
 WG3J=Eric;2473
+WG4L=Max;3977
 WG4V=Marius;3421
 WG5H=Curt;1931
 WG5J=Darin;TX
@@ -7060,6 +7063,7 @@ YU7GM=Ivan;YU
 YU7TBA=Balint;YU
 Z31PM=Misop;3811
 Z31RM=Ted;3868
+Z32MAL=ALEK;Z3
 Z32U=Zoki;Z3
 Z33B=Kirk;Z3
 Z33C=Vele;Z3

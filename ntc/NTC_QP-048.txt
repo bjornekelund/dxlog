@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-07-16
-# Last number listed 310 KQ4MHE
+# Last edit,2026-05-20
+# Last number listed 311 PE1BBT
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -51,6 +51,7 @@ DL3GJ,Greg,186
 DL3HAE,Wolf,138,
 DL3HWO,Herbert,143,
 DL3JAB,Andy,157,
+DL3SBE,Wolf,NM,
 DL4FDM,Fritz,74,
 DL4RLF,Ralf,NM,
 DL4YR,Ralf,125,(DP4E)
@@ -66,7 +67,7 @@ DM5Z,Eddy,190,(DM5JBN)
 DM7TW,Paul,291,
 DP1POL,Felix,80,
 DP4E,Ralf,125,(DL4YR)
-DR3I,Micha,83,
+DA0CAT,Micha,83,
 DU1/PG5V,Ger,212,
 E79D,Dal,307,
 EA1ARW,Luis,75,
@@ -102,6 +103,7 @@ G5VZ,Chris,213,
 GM0LIR,Phil,NM,
 GM3ZDH,Bob,234,
 GW4D,Keith,106,
+GW4MON,Dave,NM,
 GW4OKT,Keith,106,
 G4WWZ,Alan,NM,
 G4YTK,Steve,NM,
@@ -188,14 +190,15 @@ ON6NL,Anton,154,
 ON6OL,Stef,287,
 ON6QS,Gil,151,
 ON7DQ,Luc,98,
+ON7XN,Hans,NM,
 ON8VA,Chris,26,
 ON8WR,Ward,152,
 ON9TT,Marc,196,
 OS4U,David,185,
 OT4V,Danny,144,(ON4VT)
 OT6E,Gil,151,(ON6QS)
-OV5YL,Joana,278,
 OV1XC,Doc,279,
+OV5YL,Joana,278,
 PA0AGF,Remy,131,
 PA0BAK,Ron,9, 
 PA0CMU,Carel,76, 
@@ -330,6 +333,7 @@ PD8GZ,Gerrit,246,
 PD8MD,Anthonie,268,
 PD9D,Hugo,273,
 PE0CD,Chris,163,
+PE1BBT,Robert,311,
 PE1CDA,Peter,167,
 PE1EEC,Martin,214,
 PE1LDS,Ferry,169,
@@ -365,12 +369,13 @@ SF6W,Geo,238,(SM6EWB)
 SM6DHF,Goran,296,
 SM6EWB,Geo,238,
 SM6OEF,Ben,274,(also SC6O)
-SM7GVF,Kjell,298,
+SM7GVF,Kjell,298,9Also SM7T)
+SM7T,Kjell,298,(also SM7GVF)
 SO5CW,Fabian,99,
 SP7N,Piotr,111,
 SP7OGP,Piotr,111, 
 SP9BRP,Jan,202,
-SP9R,Jan,202,(SP9BRP)
+SP9R,Jan,202,(also SP9BRP)
 SQ3RLL,Greg,186,(DL3GJ)
 SQ9S,Adam,38,
 SV2BBK,Theo,147,
