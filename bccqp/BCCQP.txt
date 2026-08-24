@@ -1,5 +1,5 @@
-﻿# 
-# DXLog.net contest definition file 
+﻿#
+# DXLog.net contest definition file
 # See below for update information
 #
 CONTESTNAME=BCC QSO Party
@@ -31,10 +31,10 @@ MULT1_COUNT=PER_MODE
 MULT1_FIELD=RCVD
 MULT1_DISPLAY=MULT
 
-# Start machine generated 
+# Start machine generated
 
 # Silent multiplier to highlight members in bandmap.
-# Member callsigns from https://www.bavarian-contest-club.de as of 2026-08-23
+# Member callsigns from https://www.bavarian-contest-club.de as of 2026-08-24
 MULT2_TYPE=CALLSIGN
 MULT2_COUNT=PER_MODE
 MULT2_FIELD=CALLSIGN
@@ -90,15 +90,15 @@ FIELD_RCVD_MAX_LENGTH=10
 FIELD_RCVD_NAME=Rcv Size
 
 # Standard messages
-CW_Message_1 = CQ BCC $MYCALL $MYCALL
-CW_Message_2 = $RST $EXCHANGE[DIGITAL] $EXCHANGE
-CW_Message_3 = $EXCHANGE
-CW_Message_4 = $MYCALL
-CW_Message_5 = $LOGGEDCALL
-CW_Message_6 = AGN?[DIGITAL] AGN?
-CW_Message_7 = [DIGITAL]QRZ[]?
-CW_Message_INS = $LOGGEDCALL $F2[DIGITAL] $MYCALL
-CW_Message_PLUS = [DIGITAL]$LOGGEDCALL[ELSE]$CORRECT[] TU $CR $MYCALL[DIGITAL] TEST
+CW_MESSAGE_1=CQ BCC $MYCALL $MYCALL
+CW_MESSAGE_2=$RST $EXCHANGE[DIGITAL] $EXCHANGE
+CW_MESSAGE_3=$EXCHANGE
+CW_MESSAGE_4=$MYCALL
+CW_MESSAGE_5=$LOGGEDCALL
+CW_MESSAGE_6=AGN?[DIGITAL] AGN?
+CW_MESSAGE_7=[DIGITAL]QRZ[]?
+CW_MESSAGE_INS=$LOGGEDCALL $F2[DIGITAL] $MYCALL
+CW_MESSAGE_PLUS=[DIGITAL]$LOGGEDCALL[ELSE]$CORRECT[] TU $CR $MYCALL[DIGITAL] TEST
 
 # Multiplier list
 [MULTIPLIERS START]

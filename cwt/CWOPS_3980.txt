@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-08-22
+# LastEdit,2026-08-23
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1791,6 +1791,7 @@ K2MAS,Matt,3852,Hemdon VA
 K2MEU,John,3635,Highlands NJ
 K2MF,Barry,1253,Lutz FL
 K2MGR,Kurt,915,Bainbridge NY
+K2MJP,Matt,3980
 K2MK,Mike,FL,Lakeland FL
 K2MMO,Mike,NY,Staten Island NY
 K2MN,Steve,NJ,West Berlin NJ
