@@ -3,11 +3,15 @@
 # EXCH = NAME + Ser. Num.
 # ICWC-MST
 # International CW Council
-# Last Edit,2026-08-18
+# Last Edit,2026-08-24
 # Medium speed practice contest 20-25 WPM
 # Thanks Bjorn/SM7IUN for his help.
 # Thanks N0TA, KA5M, N5OT for update.
 #
+
+WC2A,TED,
+K8GB,DAVE,
+
 K2TNX,JUSTIN,NY,
 KB3SOM,TERRY,PA,
 KC3FXU,BILL,PA,
@@ -2667,7 +2671,7 @@ KA1LM,DOUG,,Middlebury VT
 KA1LOR,Len,MA,Shrewsburg MA
 KA1NP,Walt,3043,Tampa FL
 KA1OXQ,KEN,,Wayland MA
-KA1ST.STEVE,
+KA1ST,STEVE,
 KA1UUM,MARK,
 KA1WPM,DANA,
 KA1WWD,BOB,
@@ -3940,7 +3944,7 @@ N0BM,Brian,2772,Woodbury MN
 N0CB,Royce,NE,Omaha NE
 N0CVW,Chas,2661,Fairway KS
 N0CWO,,,Midwest CWops Club (Andover KS)
-N0DEX,DAVID,NE,
+N0DEX,DAVE,NE,
 N0DIR,Nodir,815,Stafford VA
 N0DNF,Bill,ID,Pocatello ID
 N0EF,John,1299,Bozeman MT
@@ -5858,8 +5862,7 @@ VE2CSM,Sylvain,QC,Cap Sante QC
 VE2DZZ,Par,ON,Smiths Falls ON
 VE2EBK,Dany,QC,Quebec QC
 VE2FD,Steve,2607,Deux-Montagnes QC
-VE2FK,Dub,1181,*** LINKED to REAL TIME Contest SERVER ***
-VE2FK/M,Dub,1181,
+VE2FK,Dub,1181,QC
 VE2FU,Phil,QC,Quebec QC
 VE2FWW,Noel,QC,Quebec QC (also VE2RYY)
 VE2GT,Pierre,,QC
