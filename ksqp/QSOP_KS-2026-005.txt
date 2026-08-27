@@ -3,7 +3,7 @@
 # QSOPARTY KS
 # QSOP_KS
 # Send corrections direct to ve2fk@arrl.net
-# Last Edit,2026-08-25
+# Last Edit,2026-08-26
 # Thanks Bjorn/SM7IUN for his help
 
 # 1x1 LIST
