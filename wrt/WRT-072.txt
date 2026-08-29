@@ -1,12 +1,15 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what is sent.
-# 1-LastEdit,2026-08-14
+# 1-LastEdit,2026-08-28
 # 2-Send any corrections direct to duberger.miousse81@telus.net
 # 3-Thanks WV4P/NJ4P for updated data.
 # 4-Thanks Bjorn SM7IUN for his help. 
 # 5-
 # WRT
+
+AB1J,Ken,MA,
+YD4KEP,TULUS,DX,
 
 WZ4Z,FRED,VA,
 KB5WS,MARK,FL,
@@ -15,7 +18,7 @@ W4MPT,CHRIS,GA,
 KW4XJ,MARK,VA,
 NK6A,DON,CA,
 N8URE,STEVE,MD,
-KE4INI,JIM,GA,
+KE4IHI,JIM,GA,
 
 KE8UUO,TERRY,OH,
 N0RC,REID,KS,
