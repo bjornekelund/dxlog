@@ -39,5 +39,3 @@ BEGIN {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-
-#   else if ($call ~ /^(A[A-L]|K|N|W|C[F-K]|V[A-G]VX|VY9|X[LM]|C[F-Z]|V[A-Y]|X[J-O])/ && $state !~ /^$/)
