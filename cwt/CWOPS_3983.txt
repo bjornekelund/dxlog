@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-08-28
+# LastEdit,2026-08-29
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -4326,7 +4326,6 @@ N9EEE,Dick,3113,Pewaukee WI
 N9EP,Ed,991,Deer Park IL
 N9EXL,Lyndel,2999,Mount Pulaski IL
 N9FB,Rob,IN,Whitestown IN
-N9FZ,Cainan,3412,Perry GA
 N9GB,Greg,KS,Stilwell KS
 N9GFU,Jim,IN,Schererville IN
 N9GG,Bob,2517,Wilmington DE
@@ -4629,6 +4628,7 @@ NU1O,Chris,1670,Longmeadow MA
 NU2J,Marc,NJ,Bloomfield NJ
 NU3A,Ken,3462,Newark DE
 NU4C,Paul,FL,Ormond Beach FL
+NU4J,Cainan,3412,(ex:N9FZ)  Perry GA
 NU6N,Ark,2152,Sunnyvale CA
 NU6T,Rich,CWA,Fair Oaks CA
 NU7I,David,AZ,Peoria AZ
@@ -5436,7 +5436,7 @@ VA3QV,Bob,ON,Ottawa ON (QRP)
 VA3RJ,Dave,ON,Toronto ON
 VA3SAX,Steve,ON,Nepen ON
 VA3SB,Serge,1488,Missisauga ON 
-VA3SP,Mike,ON,Ancaster ON
+VA3SP,Mike,3982,Ancaster ON
 VA3SY,Syl,2433,Alfred ON
 VA3TAR,Ted,3504,Toronto ON
 VA3TMV,Tim,3345,Maryhill ON
@@ -5586,7 +5586,7 @@ VE3NR,Bob,ON,Scarborough ON
 VE3NRT,Chris,3170,Aurora ON
 VE3NUL,Rich,ON,North York ON
 VE3NWN,James,ON,Stirling ON
-VE3NZ,Ben,ON,North York ON
+VE3NZ,Ben,3983,North York ON
 VE3OI,Dave,ON,Guelph ON
 VE3OMV,Maria,3059,Oakville ON
 VE3OP,Craig,ON,Ottawa ON

@@ -4,14 +4,14 @@ BEGIN {
 }
 {
   call = toupper($1)
-  if (call ~ /^[0-9A-Z/]+$/ && $2 ~ /^[A-Za-z .\-0-9]+$/)
+  if (call ~ /^[0-9A-Z/]+$/ && $2 ~ /^[A-Za-z]+$/)
   {
     if ($3 != "" && $3 != " ")
       printf("%s %s, %s\n", call, $2, $3);
     else
       printf("%s %s\n", call, $2);
   }
-  else if ($0 !~ /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/ && $2 != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

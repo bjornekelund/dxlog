@@ -36,7 +36,7 @@ BEGIN {
         longest = length(uname) > length(longest) ? uname : longest;
       }
     }
-    else if ($0 !~ /^(!|#)/)
+    else if ($0 !~ /^(!|#)/ && $name != "")
     {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
