@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2026-08-25
+# 1-Last Edit,2026-09-01
 # 2-Updated on Tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to 
@@ -1242,6 +1242,7 @@ G1KOT,MIKE,DX,Basildon England
 G2CWO,MAC,DX
 G3KAF,JIM,DX,Cheshire England
 G3OND,JOHN,DX,Birchington England
+G3ORY,BOB,DX,
 G3RGD,RAY,DX,Birmingham England
 G3SQU,CHRIS,DX,Newcastle upon Tyne England
 G3TYB,JOHN,DX,no info
@@ -4550,7 +4551,7 @@ KB9ORH,KERRY,IN,Crown Point IN
 KB9OWD,RYAN,WI,
 KB9PCL,,IL,
 KB9PRC,,WI,
-KB9PT,DAVE,AL,
+KB9PT,DAVE,IN,
 KB9Q,,WI,
 KB9RPG,STEVE,IN,Indianapolis IN
 KB9RPS,STEVE,IN,
@@ -5951,6 +5952,7 @@ KJ4YM,MARK,GA,Marietta GA
 KJ4ZN,STEVE,AL,
 KJ4ZQD,STAN,VA,
 KJ5BWB,WILLY,TX,
+KJ5CBS,JIM,AR,
 KJ5CMP,ISAIAH,OK,
 KJ5ISB,MARIO,AR,
 KJ5JAR,PEDRO,TX,
@@ -6227,7 +6229,7 @@ KN1CBR,TED,CO,
 KN1CNR,TED,CO,
 KN1DX,,VA,
 KN1H,JOHN,NH,Charlestown NH
-KN1MT,TYLER,TN,
+KN1MT,TYLER,MA,
 KN1T,,MA,
 KN1W,,NH,
 KN1X,AL,MA,?
@@ -11074,6 +11076,7 @@ W0MA,,MO,
 W0MB,MIKE,MO,
 W0MBT,BRUCE,WA,
 W0MGR,MARK,MN,
+W0MHZ,FRANK,IA,
 W0MRZ,MIKE,IA,
 W0MSR,,NE,
 W0MU,MIKE,CO,
@@ -11475,6 +11478,7 @@ W1WEF,JACK,MA,
 W1WIU,,RI,
 W1WLW,JOE,MA,
 W1WQG,BRUCE,CT,
+W1WT,STEVE,OH,
 W1XAW,ED,ME,South Portland ME
 W1XH,AL,MA,Chelmsford MA
 W1XT,BOB,AZ,
@@ -13261,7 +13265,7 @@ W7STF,SAM,NY,King Ferry NY
 W7STV,STEVEN,WA,Ephrata WA
 W7SUB,CLUB,OR,
 W7SUR,SPENCER,UT,
-W7SW,,AZ,Sun City West AZ
+W7SW,Slick,AZ,Sun City West AZ
 W7SWB,WILL,WA,Trout Lake WA
 W7SWL,BOB,AZ,
 W7SZ,,WA,

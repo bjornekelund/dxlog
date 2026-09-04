@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-08-29
+# LastEdit,2026-09-02
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1398,6 +1398,7 @@ IT9IVU,Daniele,3971,Belmonte Mezzagno Italy
 IT9KCD,Gae,3653,Serradifalco Italy
 IT9MUO,Alf,1569,Ribera Italy
 IT9ORA,Gianni,3870,
+IT9PPG,Pippo,3984,
 IT9RZU,Joe,,Sicily Isl. Italy
 IT9SSI,Dario,2137,(W1SSI) Capo d'Orlando Messina Italy
 IT9VDQ,Giu,1538,Palermo Italy (IB9T Crew)
@@ -1861,6 +1862,7 @@ K3ATO,Hal,2552,Reading PA
 K3AXR,Dell,MD,
 K3BLN,Gil,PA,Hellertown PA
 K3BR,Brad,SC,Bluffton SC
+K3CI,Chris,MD,Frederick MD
 K3CT,John,466,Walnutport PA
 K3CWO,,PA,Atlantic CWops Club (Boyertown PA)
 K3DGR,Dave,694,Philipsburg PA
@@ -3337,6 +3339,7 @@ KS0MO,KC,KS,Kansas City RC
 KS3K,Steve,FL,Boynton Beach FL
 KS3N,Tom,CWA,New Kensington PA
 KS4BG,ED,TN,LaFollette TN
+KS4CR,Marty,3985,Easley SC
 KS4E,John,VA,Burke VA
 KS4L,Randy,AL,Huntsville AL
 KS4S,Wil,NC,Lumberton NC
@@ -4334,6 +4337,7 @@ N9HO,Justin,3828,
 N9ITO,Jim,IL,Lake Barrington IL
 N9IXD,Marty,1393,Chicago IL
 N9JF,Jim,IL,
+N9KT,Dave,IN,
 N9LB,LLoyd,WI,Oregon IL
 N9LGP,David,IL,Monee IL
 N9LJX,Scott,IN,Dayton IN
@@ -5586,7 +5590,7 @@ VE3NR,Bob,ON,Scarborough ON
 VE3NRT,Chris,3170,Aurora ON
 VE3NUL,Rich,ON,North York ON
 VE3NWN,James,ON,Stirling ON
-VE3NZ,Ben,3983,North York ON
+VE3NZ,Ben,ON,(3983) North York ON
 VE3OI,Dave,ON,Guelph ON
 VE3OMV,Maria,3059,Oakville ON
 VE3OP,Craig,ON,Ottawa ON

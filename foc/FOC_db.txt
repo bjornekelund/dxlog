@@ -1,4 +1,4 @@
-# Updated up to FOC #2266 - DF7TV. Updates to fabian@fkurz.net.
+# Updated up to FOC #2267 - WB4IT. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -356,7 +356,6 @@ G4IIY=Ian;2015
 G4ILW=James;2112
 G4IRN=John;2000
 G4IZZ=Mike;2210
-G4LFU=Tony;2091
 G4PCE=Richard;2236
 G4RCG=John;1899
 G4RMV=Mike;1649
@@ -475,7 +474,6 @@ GQ4ILW=James;2112
 GQ4IRN=John;2000
 GQ4IZZ=Mike;2210
 GQ4KGK=Norman;2208
-GQ4LFU=Tony;2091
 GQ4MM=Tim;2218
 GQ4PCE=Richard;2236
 GQ4RCG=John;1899
@@ -901,6 +899,7 @@ PA4N=Frank;2034
 PA5V=Bob;1865
 PA5XM=Kees;1537
 PA60VHSC=Bob;1865
+PA65VHSC=Bob;1865
 PA75DD=Bob;1865
 PA75JLS=Hans;1982
 PA75LIB=Bob;1865
@@ -1189,6 +1188,7 @@ WA9AQN=John;1887
 WB0SND=Mike;2146
 WB2JYM=Tom;1177
 WB4FSF=Bonnie;1929
+WB4IT=Brian;2267
 WB6BEE=Don;2041
 WB6LQR=Fabian;1796
 WD8AUB=Doug;1576
