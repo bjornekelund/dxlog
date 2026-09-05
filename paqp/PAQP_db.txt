@@ -1,6 +1,6 @@
 # Pennsylvania QSO Party database
 # Based on data collected and consolidated by AA3B and K3CT
-# Last updated 2026-03-05
+# Last updated 2026-09-05
 AA0A=MO
 AA0AJ=MN
 AA0AO=MN
