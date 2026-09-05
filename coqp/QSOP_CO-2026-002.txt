@@ -1,7 +1,7 @@
 !!Order!!, Call, Name, Exch1, UserText
 # QSOP_CO
 # QSOPARTY CO
-# Last Edit,2026-09-01
+# Last Edit,2026-09-04
 # Colorado Opr., Counties and Mobiles follows
 AF0S,,,ROVER or MOBILE (BONUS)
 K0AV,Alan,,MOBILE or ROVER Baca Prowers (2026)

@@ -1,7 +1,7 @@
 !!Order!!,Call,Exch1,UserText
 #
 # Exch = Years of your first lic.
-# LastEdit,2026-08-31
+# LastEdit,2026-09-04
 # SCRY
 # Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # Thanks SM7IUN for his help
