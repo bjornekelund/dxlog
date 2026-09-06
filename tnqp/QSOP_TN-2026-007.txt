@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 #
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2026-09-04
+# 1-Last Edit,2026-09-06
 # 2-Send new info/corr. DIRECT to ve2fk@arrl.net
 # 3-Thanks to Bjorn/SM7IUN for his help
 # 4-
@@ -181,9 +181,9 @@ W4QLC,,RUTH,RUTHERFORD
 W4SFD,,DEKA,DEKALB
 W4SIG,,,MOBILE (cw-ssb)
 W4SK,,WILS,Wilson
-W4SSF,,LOUD,Loudon
+W4SSF,,BLOU,
 W4TTM,,SULL,Sullivan
-W4UT,RON,BLED,Bledsoe
+W4UT,Ron,BLED,Bledsoe
 W4UX,,JOHN,Johson
 W4WYD,,HENR,Henry
 W4XK,,HAMI,Hamilton
