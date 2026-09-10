@@ -3,7 +3,7 @@
 # QSOP_TX
 # QSOPARTY TX
 # Send corrections direct to ve2fk@arrl.net
-# LastEdit,2026-09-03
+# LastEdit,2026-09-07
 # Thanks Bjorn SM7IUN
 # Original file NO5W + info from wed site
 #
@@ -97,7 +97,7 @@ K5BG,PARK,,
 K5CCW,DELT/HOPK,County Line Delta/Hopkins
 K5CM,,(Mobile),
 K5DX,,(Mobile),
-K5EC,,(Mobile),
+K5EC,SCHL,SCHLEICHER
 K5ENS,ARCH,,
 K5GQ,HARR,,
 K5GZR,HARR,,
@@ -119,6 +119,7 @@ K5OT,BLAN,,
 K5PFE,JASP,,
 K5RX,GRSN,,
 K5SBR,CALH,,
+K5T,,MOBILE or ROVER
 K5TIA,MIDL,,
 K5TU,COLO,,
 K5TY,COML,,
@@ -232,6 +233,7 @@ KN4JN,FL,,
 KN6BAZ,CA,,
 KN7Y,AZ,,
 KT3T,FL,,
+KT3X,,MOBILE or ROVER
 KU4A,KY,,
 KU8E,GA,,
 KV0I,NE,,
@@ -291,6 +293,7 @@ N5NR,HARR,,
 N5OT,OK,,
 N5RZ,GILL,,
 N5T,JACK,,
+N5TTT,,MOBILE or ROVER
 N5TJ,HAYS,,
 N5TM,,(Mobile),
 N5WCT,WASH,WASHINGTON

@@ -1,7 +1,7 @@
 # Texas QSO Party prefill database
 # Data collected by NO5W and maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-09-05
+# Last updated 2026-09-10
 AA0AW=MN
 AA0FO=KS
 AA2IL=CA
@@ -88,6 +88,7 @@ K4XU=OR
 K5BDL=SMIT
 K5BG=PARK
 K5CCW=DELT/HOPK
+K5EC=SCHL
 K5ENS=ARCH
 K5GQ=HARR
 K5GZR=HARR

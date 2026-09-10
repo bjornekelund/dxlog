@@ -303,6 +303,7 @@ DL3ABL,Andrea
 DL3BPC,Ron
 DL3DW,Daniel
 DL3DXX,Dietmar
+DL3JAN,Jan
 DL3KWF,Hardy
 DL3LAB,Wolfgang
 DL3LBA,Kai
@@ -589,6 +590,10 @@ V51WH,Gunter
 V55Y,Gunter
 DK2WH,Gunter
 W7VJ,Andrew
+ZL3CW,Jacky
+ZL1A,Jacky
+ZM1A,Jacky
+F2CW,Jacky
 ZL3IO,Holger
 A31IO,Holger
 ZM2Y,Holger
