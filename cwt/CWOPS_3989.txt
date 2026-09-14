@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-09-09
+# LastEdit,2026-09-13
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -162,6 +162,7 @@ AA7V,Steve,AZ,Scottsdale AZ
 AA7WU,Mike,ID,Nammpa ID
 AA7XA,Frank,OR,Otis OR
 AA8CA,Vlad,OH,North Royalton OH
+AA8EA,Kyle,3989,Gregory MI
 AA8IA,Mike,966,Toronto OH
 AA8OY,Jim,OH,Mentor OH
 AA8P,Ralph,OH,Springfield OH
@@ -1596,7 +1597,7 @@ K0PF,Chris,3507,Loveland CO
 K0PFX,Mel,271,Bridgeton MO
 K0PGE,Ron,1712,Laguna Niguel CA
 K0PK,Paul,2233,Eveleth MN
-K0QG,Bill,CWA,Las Vegas NV
+K0QG,Bill,3987,Las Vegas NV
 K0RAR,Rob,KS,Richmond KS
 K0RC,Bob,3290,Choisago City MN
 K0RF,Chuck,887,Longmont CO
@@ -1739,7 +1740,7 @@ K1TW,Tom,MA,Bedford MA
 K1TZQ,Howie,2822,Portsmouth RI
 K1USN,Watson,MA,K1USN RC Abington MA
 K1VLB,Mike,NH,Hollis NH
-K1VMT,Joe,1400,Jeffersonville VT
+K1VMT,Kevin,3988,Jeffersonville VT
 K1VP,Ed,NH,Belmont NH
 K1VR,Fred,57,Lincoln MA
 K1VSJ,Howie,2032,Providence RI
@@ -6474,6 +6475,7 @@ W8UE,Ted,MI,Ypsilanti MI
 W8UV,Phil,DE,Wilford DE
 W8UY,Terry,3626,Defiance OH
 W8VNZ,Mark,MI,Montrose MI
+W8WA,LEE,3986,Shelby Township MI
 W8WOJ,Don,MI,Midland MI
 W8WS,John,VA,Lovettsville VA
 W8WTS,Jim,1689,Chagrin Falls OH
