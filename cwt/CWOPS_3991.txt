@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-09-13
+# LastEdit,2026-09-15
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1290,6 +1290,7 @@ HB9DQJ,Marco,2747,Near Zurich Switzerland
 HB9DQL,Juerg,2582,Wald Switzerland
 HB9EBC,Mike,,Reinnach Switzerland
 HB9EGA,Marcin,2047,Zurich Switzerland
+HB9EMP,Mischa,3990,Eglisau Switzerland
 HB9FBP,Francesco,,Lugano Switzerland
 HB9FIR,Clay,598,Oriolo Romano Italy
 HB9GCE,Carl,,Schwarzsee Switzerland
@@ -3201,6 +3202,7 @@ KM0O,Tony,MN,(1037) St. Paul MN
 KM3A,Dave,2611,Mission Viejo CA
 KM3T,Dave,50,Amherst NH
 KM4CAJ,Andrew,3827,Macon GA
+KM4CFT,Jonathan,3991,Littleton CO
 KM4CH,John,2039,Lawrenceburg KY 
 KM4CUB,Ron,GA,Rockmart GA
 KM4DR,Gale,TX,Kerrville TX
