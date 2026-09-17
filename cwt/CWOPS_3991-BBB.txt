@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-09-15
+# LastEdit,2026-09-16
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -633,6 +633,7 @@ DK5CF,Chris,,Oldenburg Germany
 DK5CH,Chris,,Essen Germany
 DK5DQ,Nico,,Ennepetal Germany
 DK5KK,Kolja,1965,Essen Germany 
+DK5TA,Tom,,Oberbergkirchen Germany
 DK5TX,Ulf,,Detmold Germany
 DK6SP,Phil,2588,Erding Germany
 DK6XZ,Suad,,Pforzheim Germany
@@ -768,6 +769,7 @@ DL8XAB,Andy,3899,Ellerbek Germany
 DL9ABM,Stefan,1922,Bergen Germany
 DL9BU,Burger,,Voerde Germany
 DL9FCQ,Tom,,Greigericht Germany
+DL9HDA,Holger,,Ammersbek Germany
 DL9LBG,Mike,,Kiel Germany
 DL9LM,Yuri,,Schwerin Germany
 DL9MDW,Chris,,Bad Aibling Germany (Also AD0DO)
@@ -4550,6 +4552,7 @@ NM8RT,Steve,MI,West Branch MI (Northern Mich ARST)
 NN0G,Dana,2910,Littleton CO
 NN0TE,Trent,2908,Cape Coral FL
 NN1C,Marty,2276,Waban MA
+NN1RR,Mario,RI,Tiverton RI
 NN1SS,John,NH,Milford NH
 NN2DX,Bray,NY,RHRDXA Pawling NY
 NN2L,Chuck,3231,Penfield NY

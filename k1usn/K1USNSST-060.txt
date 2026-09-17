@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText
 #
 # 0-This is only a helping file, LOG what you copy.
-# 1-Last Edit,2026-09-16
+# 1-Last Edit,2026-09-15
 # 2-Updated on Tuesday.
 # 3-Thanks to all for update via WS1L.
 # 4-Send any corrections direct to 
