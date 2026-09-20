@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-09-16
+# LastEdit,2026-09-17
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -1444,6 +1444,7 @@ IZ4APU,Gabe,,(Gabrielle) Bologna Italy
 IZ4ORF,Joi,,Parma Italy
 IZ4VSZ,Mark,3503,nr Modena Italy
 IZ5BBS,Renato,,Barberino Di Mugello Italy
+IZ5JLW,Lele,3992,Pietrasanta - Versilia Italy
 IZ5CFN,Ale,3766,Pescia Italy
 IZ7DJR,Nigo,,Foggia Italy
 IZ7GEG,Luca,,S. Vito Dei Normanni Italy
@@ -3965,6 +3966,7 @@ N4IY,Terry,2250,Borden IN
 N4JEH,Jenna,3203,Ringgold GA
 N4JGD,David,NC,Kinston NC
 N4JP,Eric,NC,Richlands NC
+N4JX,Mike,CWA,Inverness FL
 N4KD,David,GA,Duluth GA
 N4KGY,Bart,UT,Logan UT
 N4KH,Jim,2409,Huntsville AL
