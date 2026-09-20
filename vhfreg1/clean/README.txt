@@ -1,4 +1,4 @@
-doit.bash combines several database files.
+doit.sh combines several database files.
 
 Start with oldest to let newer ones overwrite.
 
@@ -10,5 +10,5 @@ Don't touch VHF_UHF_DB.txt
 Download VHFREG1.txt from the N1MM web site
 Make edits in LOCAL.txt
 
-doit.bash creates the two database files
+doit.sh creates the two database files
 
