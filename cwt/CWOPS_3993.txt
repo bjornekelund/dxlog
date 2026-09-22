@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-09-17
+# LastEdit,2026-09-21
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -584,6 +584,7 @@ DJ0MCH,Relly,409,Stuttgart Germany
 DJ0MDR,Mike,,Muenchen Germany
 DJ0SP,Hans,,Vreden Germany
 DJ1KJ,Hans,,Kronberg Germany
+DJ1MV,Fritz,3993,Moosinning Germany
 DJ1OJ,Heijo,425,Muenchen Germany
 DJ1PQ,Rob,,Darmstadt Germany
 DJ1TF,Tom,3790,Bad Schonborn Germany
@@ -5775,7 +5776,7 @@ W0CO,Brad,1452,Pitkin CO
 W0CP,Walt,1752,Englewood CO
 W0CWO,,,Dakota CWops Club (Chanhassen MN)
 W0DAS,Dave,CO,Fort Collins CO
-W0DOS,Connor,3897,
+W0DOS,Mic,3897,Springfield MO
 W0EA,Tom,953,Cedar Rapids IA
 W0EAR,Don,MN,Shoreview MN
 W0EAS,Eric,3930, (Remote MA+TX)
