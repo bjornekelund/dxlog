@@ -1,6 +1,6 @@
 #!/bin/bash
-PROFILE=`wslpath "$(wslvar USERPROFILE)"`
-DXCFILE=$PROFILE/source/repos/k1xm/DXLog.net/DXLog.net/Database/dxclist.txt
+USER=`/mnt/c/Windows/System32/cmd.exe /c "echo %USERNAME%" | tr -d '\r'`
+DXCFILE=/mnt/c/Users/$USER/source/repos/k1xm/DXLog.net/DXLog.net/Database/dxclist.txt
 OUTFILE=dxclist.txt
 TEMPFILE=.tempdxclist
 
