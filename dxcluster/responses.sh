@@ -10,11 +10,11 @@ TIMEOUT=15
 PARALLEL=20
 CALLSIGN="SK7CE"
 
-# TMPDIR="$(mktemp -d)"
-# trap 'rm -rf "$TMPDIR"' EXIT
-rm -rf temp
-mkdir temp
-TMPDIR=temp
+TMPDIR="$(mktemp -d)"
+trap 'rm -rf "$TMPDIR"' EXIT
+# rm -rf temp
+# mkdir temp
+# TMPDIR=temp
 
 connect_node()
 {
@@ -32,7 +32,7 @@ connect_node()
     mkfifo "$fifo"
 
     {
-        echo "============================================================"
+        echo "=START======================================================"
         echo "HOST: $host"
         echo "PORT: $port"
         echo "============================================================"
@@ -58,6 +58,7 @@ connect_node()
 
         # Don't leave telnet processes behind.
         wait "$telnet_pid" 2>/dev/null || true
+        echo "=STOP======================================================="
     } > "$raw"
 
     rm -f "$fifo"
