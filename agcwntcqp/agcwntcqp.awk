@@ -13,7 +13,7 @@ BEGIN {
 }
 {
   callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
-  nameok = $name ~ /^([A-Za-z]{2,10}|)$/ && $name !~ /[Cc][Ll][Uu][Bb]/;
+  nameok = $name ~ /^([A-Za-z]{1,10}|)$/ && $name !~ /[Cc][Ll][Uu][Bb]/;
   memok = $agcw ~ /^AGCW[1-9][0-9]{0,3}$|^$/ && $ntc ~ /^NTC[1-9][0-9]{0,3}$|^$/;
 
   if (callok && memok)

@@ -18,7 +18,7 @@ BEGIN {
   else
   {
     callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
-    nameok = $name ~ /^([A-Za-z]{2,10}|)$/;
+    nameok = $name ~ /^([A-Za-z]{1,10}|)$/;
 
     if (callok)
     {
@@ -28,7 +28,7 @@ BEGIN {
       }
       else
       {
-        printf("Problem name in: \"%s\"\n", $0) > "/dev/stderr";
+        printf("NAMES: Problem name in: \"%s\"\n", $0) > "/dev/stderr";
         rname = "";
       }
 
@@ -42,13 +42,13 @@ BEGIN {
     else if ($0 !~ /^(!|#|$)/)
     {
       if (nameok)
-        printf("Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+        printf("NAMES: Problem entry: \"%s\"\n", $0) > "/dev/stderr";
         # printf("") > "/dev/stderr";
       else
-        printf("Problem name:  \"%s\"\n", $0) > "/dev/stderr";
+        printf("NAMES: Problem name:  \"%s\"\n", $0) > "/dev/stderr";
     }
   }
 }
 END {
-    printf("%s has the longest name: \"%s\" with %d characters\n", maxcall, maxname, length(maxname)) > "/dev/stderr";
+    # printf("NAMES: %s has the longest name: \"%s\" with %d characters\n", maxcall, maxname, length(maxname)) > "/dev/stderr";
 }
