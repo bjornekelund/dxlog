@@ -11,7 +11,6 @@ BEGIN {
     member = $1;
     gsub(/^MC/, "", member);
     max = member > max ? member : max;
-
     printf("%s=%s\n", $2, $1);
   }
   else if ($0 !~ /num/ && $0 != "")
