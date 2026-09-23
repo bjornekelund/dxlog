@@ -10,7 +10,7 @@ gawk -f hamspirit.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+#../copytosourcetree.sh $OUTFILE
 
 exit
 

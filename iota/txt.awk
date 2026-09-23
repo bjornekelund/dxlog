@@ -9,7 +9,7 @@ BEGIN {
   call = $1;
   lengthcall = length(call);
   iota = toupper($3);
-  notignore = \
+  valid = \
     (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/) && \
     (iota ~ /^(EU|OC|AS|NA|SA|AF|AN)[0-9]{3}$/) && \
     (call ~ /[A-Z]$/ || call ~ /\/[0-9A-Z]+$/ || call ~ /[0-9]{2}$/) && \
@@ -17,12 +17,12 @@ BEGIN {
     !(lengthcall < 6 && call ~ /[0-9]\//) && \
     !(lengthcall < 5 && call ~ /\//);
   isprefix = $1 ~ /[0-9]$|^[A-Z]{1,4}$|^[A-Z0-9]{1,3}\/|^[A-Z][0-9]+$|^[0-9][A-Z]$/
-  if (notignore)
+  if (valid)
     printf("%s=%s\n", call, iota);
   else if ($0 !~ /^(!|#|$)/ && !isprefix)
   {
 	  printf("TXT ignored: \"%s\" ", $0) > "/dev/stderr";
     printf("(isprefix = %s, ", isprefix ? "true" : "false") > "/dev/stderr";
-    printf("notignore = %s)\n", notignore ? "true" : "false") > "/dev/stderr";
+    printf("valid = %s)\n", valid ? "true" : "false") > "/dev/stderr";
   }
 }

@@ -1,7 +1,7 @@
 # IOTA Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-07-27
+# Last updated 2026-09-23
 2E0CVN=EU005
 2E0EVM=EU005
 2E0GKW=EU005
