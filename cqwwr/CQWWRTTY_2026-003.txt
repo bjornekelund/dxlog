@@ -1,9 +1,9 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2026-09-14
+# 1-Last Edit,2026-09-23
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-Updated from log of NJ4P
-# 4-Thanks to: Ron WV4P
+# 4-Thanks Ron/WV4P Bjorn/SM7IUN
 # 5-This file is used for the following contest(s):
 # CQ160CW
 # CQ160SSB
@@ -670,6 +670,7 @@ AE9B,,MO,
 AE9F,,CA,
 AE9LL,LEN,IN,
 AE9YL,,IN,
+AF0G,ADAM,KS,
 AF0S,,CO,
 AF0V,,MO,
 AF0Z,JIM,MN,

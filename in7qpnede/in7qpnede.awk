@@ -15,7 +15,7 @@ BEGIN {
     if ($3 ~ /Exch1|State/) state = 2;
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
-    printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+  # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else
   {
@@ -24,7 +24,7 @@ BEGIN {
     if (exch ~ /^[A-Z]{5}\/[A-Z]{3}$/)
     {
       exch = substr(exch, 0, 6) substr(exch, 0, 2) substr(exch, 7);
-      printf("%s --> %s\n", $0, exch) > "/dev/stderr";
+    # printf\("%s --> %s\n", $0, exch) > "/dev/stderr";
     }
 
     stateok = exch ~ /^(DX|CT|MA|ME|NH|RI|VT|NJ|NY|DE|PA|MD|DC|AL|FL|GA|KY|NC|SC|TN|VA|AR|LA|MS|NM|OK|TX|CA|HI|AK|AZ|ID|MT|NV|OR|UT|WA|WY|MI|OH|WV|IL|WI|CO|IA|KS|MN|MO|ND|NE|SD)$/;

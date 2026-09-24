@@ -20,7 +20,7 @@ BEGIN {
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
-#    printf("%s --> col=%d\n", $0, col) > "/dev/stderr";
+#  # printf\("%s --> col=%d\n", $0, col) > "/dev/stderr";
   }
   else
   {

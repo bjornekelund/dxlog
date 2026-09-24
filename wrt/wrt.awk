@@ -19,7 +19,7 @@ BEGIN {
     if ($3 ~ /Exch1/) exch = 2;
     if ($4 ~ /Exch1/) exch = 3;
     if ($5 ~ /Exch1/) exch = 4;
-    printf("%s --> call=%d name=%s exch=%s\n", $0, call, nm, exch) > "/dev/stderr";
+  # printf\("%s --> call=%d name=%s exch=%s\n", $0, call, nm, exch) > "/dev/stderr";
   }
   else
   {

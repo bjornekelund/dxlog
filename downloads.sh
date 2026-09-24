@@ -5,7 +5,7 @@ DOWNLOADS="agb agcw cqmm dig euhfc foc hsc mcdqp podxs rcwc fistsspr arrlrr agcw
 for contest in $DOWNLOADS; do
   echo -------- $contest
   cd $contest
-  pwd
+  # pwd
   ./doit.sh
   cd ..
 done

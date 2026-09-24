@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /Sect/) sect = 2;
     if ($4 ~ /Sect/) sect = 3;
     if ($5 ~ /Sect/) sect = 4;
-    printf("%s --> call=%d exch=%d sect=%d\n", $0, call, exch, sect) > "/dev/stderr";
+    # printf("%s --> call=%d exch=%d sect=%d\n", $0, call, exch, sect) > "/dev/stderr";
   }
   else if (line[$call] != "")
   {

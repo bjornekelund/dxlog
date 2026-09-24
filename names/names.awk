@@ -15,7 +15,7 @@ BEGIN {
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
-    printf("%s --> call=%d name=%d\n", $0, call, name) > "/dev/stderr";
+  # printf\("%s --> call=%d name=%d\n", $0, call, name) > "/dev/stderr";
   }
   else
   {

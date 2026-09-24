@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /UserText/) usr = 2;
     if ($4 ~ /UserText/) usr = 3;
     if ($5 ~ /UserText/) usr = 4;
-    printf("%s --> col=%d usr=%d\n", $0, col, usr) > "/dev/stderr";
+  # printf\("%s --> col=%d usr=%d\n", $0, col, usr) > "/dev/stderr";
     printf("%s\n", $0);
   }
   else

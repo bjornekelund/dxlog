@@ -24,7 +24,7 @@ BEGIN {
     if ($4 ~ /UserText/) empty = 3;
     if ($5 ~ /UserText/) empty = 4;
     if ($6 ~ /UserText/) empty = 5;
-    printf("%s --> call=%d name=%d first=%d second=%d empty=%d\n", $0, call, name, first, second, empty) > "/dev/stderr";
+    # printf("%s --> call=%d name=%d first=%d second=%d empty=%d\n", $0, call, name, first, second, empty) > "/dev/stderr";
   }
   else if ($0 ~ /^(#|!)/)
   {

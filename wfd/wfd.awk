@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /Exch1/) cls = 2;
     if ($4 ~ /Exch1/) cls = 3;
     if ($5 ~ /Exch1/) cls = 4;
-    printf("%s --> call=%d sect=%d class=%d\n", $0, call, sct, cls) > "/dev/stderr";
+  # printf\("%s --> call=%d sect=%d class=%d\n", $0, call, sct, cls) > "/dev/stderr";
   }
   else if ( \
     toupper($call) ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \

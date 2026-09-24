@@ -20,7 +20,7 @@ BEGIN {
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
-    printf("%s --> call=%d exch=%d, name=%d\n", $0, call, exch, name) > "/dev/stderr";
+    # printf("%s --> call=%d exch=%d, name=%d\n", $0, call, exch, name) > "/dev/stderr";
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $name ~ /^(|[a-zA-Z]+$)/ && $exch ~ /^([0-9]+|NM)$/)
   {

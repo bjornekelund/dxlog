@@ -17,7 +17,7 @@ cat $INFILE | sort | gawk 'BEGIN {
     if ($3 ~ /State/) scol = 2;
     if ($4 ~ /State/) scol = 3;
     if ($5 ~ /State/) scol = 4;
-    printf("%s --> pcol=%d scol=%d\n", $0, pcol, scol) > "/dev/stderr";
+  # printf\("%s --> pcol=%d scol=%d\n", $0, pcol, scol) > "/dev/stderr";
     printf("%s\n", $0);
   }
   else

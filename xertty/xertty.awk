@@ -16,7 +16,7 @@ BEGIN {
     if ($3 ~ /Exch1/) state = 2;
     if ($4 ~ /Exch1/) state = 3;
     if ($5 ~ /Exch1/) state = 4;
-    printf("%s --> call=%d state=%s\n", $0, call, state) > "/dev/stderr";
+  # printf\("%s --> call=%d state=%s\n", $0, call, state) > "/dev/stderr";
   }
   else if ($call ~ /^(4A|XE)[0-9][A-Z]+(\/(XE[0-9]|QRP))?$/)
   {

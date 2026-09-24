@@ -15,7 +15,7 @@ BEGIN {
     if ($3 ~ /Sect/) exch = 2;
     if ($4 ~ /Sect/) exch = 3;
     if ($5 ~ /Sect/) exch = 4;
-    printf("%s --> exch=%d\n", $0, exch) > "/dev/stderr";
+  # printf\("%s --> exch=%d\n", $0, exch) > "/dev/stderr";
   }
   else if ( \
     $call ~ /^P[A-I][0-9]{1,4}[A-Z]{1,5}(\/[AMP0-9])?$/ && \

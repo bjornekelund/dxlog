@@ -15,7 +15,7 @@ BEGIN {
     if ($3 ~ /Exch1/) cant = 2;
     if ($4 ~ /Exch1/) cant = 3;
     if ($5 ~ /Exch1/) cant = 4;
-    printf("%s --> call=%d cant=%d\n", $0, call, cant) > "/dev/stderr";
+  # printf\("%s --> call=%d cant=%d\n", $0, call, cant) > "/dev/stderr";
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $cant ~ /^(AG|AI|AR|BE|BL|BS|FR|GE|GL|GR|JU|LU|NE|NW|OW|SG|SH|SO|SZ|TG|TI|UR|VD|VS|ZG|ZH)$/)
   {

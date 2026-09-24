@@ -1,7 +1,7 @@
 !!Order!!,Call,Name,Exch1,UserText,
 # 
 # CWOPS
-# LastEdit,2026-09-21
+# LastEdit,2026-09-24
 # Thanks K3CT K7SV K9ZO/SK KA5M KG5U N0TA 
 # Thanks N3JT N5KD N7WY N7US SM7IUN W6TN
 2E0DCW,Gerald,,London England
@@ -92,7 +92,7 @@ AA0RS,Dave,2222,Platteville CO
 AA0YY,Mark,2809,Pacific MO
 AA0Z,Kyle,3392,Saint Louis MO
 AA1K,Jon,2055,Felton DE
-AA1LN,NICK,NH,
+AA1LN,NICK,CWA,Hampton Falls NH,
 AA1TJ,Mike,VT,Roxbury VT
 AA1V,Don,53,Scituate MA
 AA2AD,Pete,2162,Corry PA
@@ -1050,6 +1050,7 @@ G0TZZ,Chris,3387,Sporle England
 G0UJK,Colin,,Nr London England
 G0UVX,Geoff,3908,Hitchin England
 G0UYG,Andy,2453,Port Sunlight Wirral England
+G0VCW,Rich,3994,Suffolk England
 G0VQW,Sandy,,Swindon Wiltshire
 G0WCZ,Grae,1983,Brigaton England
 G1ZOS,Colin,G,Clacton-on-Sea England (DD5CF)
@@ -1614,7 +1615,7 @@ K0SN,Tom,1344,Missoula MT
 K0TB,Tom,MA,Gloucester
 K0TC,Ron,1421,Roseville MN
 K0TER,Mike,3533,Colorado Springs CO
-K0TG,John,1830,Vadnais MN
+K0TG,John,CO,(1830) Vadnais MN
 K0TI,Dan,2836,Wodbury MN
 K0TQ,Mike,2434,North Vernon IN
 K0TRL,Brad,KS,Leawood KS
@@ -2912,6 +2913,7 @@ KE2LW,Ron,NY,Rochester NY
 KE2WY,Bob,NY,Syracuse NY
 KE2YK,Gary,NY,East Yaphand NY
 KE3KK,Ron,MA,Boylson MA
+KE3LA,Jim,CWA,Adah PA
 KE3X,Ken,460,Washington DC
 KE4CR,Craig,3670,Chesterfield VA
 KE4D,John,FL,Lesburg FL
@@ -4820,7 +4822,7 @@ OK4RM,Jindra,2787,Miskovice Czech Republic
 OK4YL,Alena,,Ostrava-Trebovice Czech Republic
 OK5M,Vit,2499,Slavkova Czech Republic
 OK5MM,Vit,2499,Slavkova Czech Republic
-OK5O,Ruda,,
+OK5O,Ruda,2891,Hranice Czech Republic
 OK5OK,Jiri,,Czech Republic
 OK6DJ,David,,Holysov Czech Republic
 OK7AN,Petr,92,(OK2CQR) Neratovice Czech Republic
@@ -4838,6 +4840,7 @@ OL8R,Petr,2830,Ritka Czech Republic
 OM0CS,Kamil,1194,Bardejov Slovak Rep.
 OM0DX,Pedro,,Presov Slovak Republic
 OM0RM,Jindra,2787,Spisske Hanusovce
+OM1UM,Toli,,Bratislava Slovak Republic
 OM2DT,Dusan,,Senica Slovak Republic
 OM2VL,Laci,1542,Dunajska Streda Slovak Republic
 OM3CPF,Dus,,Slovak Republic
@@ -5485,6 +5488,7 @@ VA7NJI,Scott,2348,(N7JI) BC
 VA7OM,Les,2739,Mission BC
 VA7QCE,Carole,1913,BC Canada 
 VA7ST,Bud,1622,Lake Country BC
+VA7TTO,Paul,BC,(K6PO) Gabriola Isl.
 VA7XU,Dave,3428,Quesnel BC
 VA7YE,Denise,3880,Cranbrook BC
 VE1AOE,Don,1703,Truro NS

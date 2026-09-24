@@ -15,7 +15,7 @@ BEGIN {
     if ($3 ~ /Exch1/) exch = 2;
     if ($4 ~ /Exch1/) exch = 3;
     if ($5 ~ /Exch1/) exch = 4;
-    printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
+  # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if ( \
     $call ~ /^([78][J-N]|J[A-S])[0-9]{1,4}[A-Z]{1,5}(\/(QRP|[0-9]))?$/ && \

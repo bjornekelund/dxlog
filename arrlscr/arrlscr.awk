@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /State/) col2 = 2;
     if ($4 ~ /State/) col2 = 3;
     if ($5 ~ /State/) col2 = 4;
-    printf("%s --> call=%d col1=%d, col2=%d\n", $0, call, col1, col2) > "/dev/stderr";
+    # printf("%s --> call=%d col1=%d, col2=%d\n", $0, call, col1, col2) > "/dev/stderr";
   }
   else if ( \
       (($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$/ && $col2 ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \

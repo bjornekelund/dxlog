@@ -17,7 +17,7 @@ BEGIN {
     if ($3 ~ /Exch1|State/) state = 2;
     if ($4 ~ /Exch1|State/) state = 3;
     if ($5 ~ /Exch1|State/) state = 4;
-    printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+  # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if ($call ~ /^(B[A-Y]?[0-9]{1,3}|VR25?|XX9)[A-Z]{1,4}$/ && \
       $state ~ /^(AH|BJ|CQ|FJ|GD|GS|GX|GZ|HA|HB|HE|HI|HK|HL|HN|JL|JS|JX|LN|MO|NM|NX|QH|SC|SD|SH|SN|SX|TJ|TW|XJ|XZ|YN|ZJ)$/) \

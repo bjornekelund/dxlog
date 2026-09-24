@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /Misc/) memb = 2;
     if ($4 ~ /Misc/) memb = 3;
     if ($5 ~ /Misc/) memb = 4;
-    printf("%s --> call=%d sect=%d, memb=%d\n", $0, call, sect, memb) > "/dev/stderr";
+    # printf("%s --> call=%d sect=%d, memb=%d\n", $0, call, sect, memb) > "/dev/stderr";
   }
   else if ( \
     $call ~ /^(I[A-Z]?[0-9]\/)?I[A-Z]?[0-9]{1}[A-Z]{1,3}(\/(QRP|[P0-9]|I[A-Z]?[0-9]))?$/ && \

@@ -16,7 +16,7 @@ BEGIN {
     if ($3 ~ /Sect/) col = 2;
     if ($4 ~ /Sect/) col = 3;
     if ($5 ~ /Sect/) col = 4;
-    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+  # printf\("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   else if ($call ~ /[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && $col ~ /^[A-Z]{2}$/)
   {

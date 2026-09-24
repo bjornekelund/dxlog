@@ -13,7 +13,7 @@ BEGIN {
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
     if ($6 ~ /Name/) name = 5;
-    printf("%s --> call=%d name=%d first=%d second=%d empty=%d\n", $0, call, name, first, second, empty) > "/dev/stderr";
+    # printf("%s --> call=%d name=%d first=%d second=%d empty=%d\n", $0, call, name, first, second, empty) > "/dev/stderr";
   }
   else
   {

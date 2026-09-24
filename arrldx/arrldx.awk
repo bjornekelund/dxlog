@@ -18,7 +18,7 @@ BEGIN {
     if ($3 ~ /State/) scol = 2;
     if ($4 ~ /State/) scol = 3;
     if ($5 ~ /State/) scol = 4;
-    printf("%s --> call=%d pcol=%d scol=%d\n", $0, call, pcol, scol) > "/dev/stderr";
+    # printf("%s --> call=%d pcol=%d scol=%d\n", $0, call, pcol, scol) > "/dev/stderr";
   }
   else if (lines[$call] != "")
   {

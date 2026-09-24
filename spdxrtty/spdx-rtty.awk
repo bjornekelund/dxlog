@@ -14,7 +14,7 @@ BEGIN {
     if ($3 ~ /Exch1/) col = 2;
     if ($4 ~ /Exch1/) col = 3;
     if ($5 ~ /Exch1/) col = 4;
-    printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+  # printf\("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   else if ( \
     $call ~ /^(SP\/[A-Z0-9]+|(3Z|HF|S[NOPQ]))[0-9]{1,4}[A-Z]{1,5}(\/[1-9PM])?$/ && \

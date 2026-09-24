@@ -19,7 +19,7 @@ BEGIN {
     if ($3 ~ /Name/) namc = 2;
     if ($4 ~ /Name/) namc = 3;
     if ($5 ~ /Name/) namc = 4;
-    printf("%s --> call=%d namc=%d\n", $0, call, namc) > "/dev/stderr";
+    # printf("%s --> call=%d namc=%d\n", $0, call, namc) > "/dev/stderr";
   }
   else
   {

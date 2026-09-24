@@ -25,7 +25,7 @@ BEGIN {
       if ($3 ~ /Exch1/) ex = 2; else
       if ($4 ~ /Exch1/) ex = 3; else
       if ($5 ~ /Exch1/) ex = 4; else printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
-      printf("%s --> call=%d nm=%d ex=%d\n", $0, call, nm, ex) > "/dev/stderr";
+    # printf\("%s --> call=%d nm=%d ex=%d\n", $0, call, nm, ex) > "/dev/stderr";
     }
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/)

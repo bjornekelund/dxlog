@@ -10,7 +10,7 @@ BEGIN {
     if ($3 ~ /Exch1/) class = 2;
     if ($4 ~ /Exch1/) class = 3;
     if ($5 ~ /Exch1/) class = 4;
-    printf("%s --> Section is column %d,Class is column %d\n", $0, sect, class) > "/dev/stderr";
+  # printf\("%s --> Section is column %d,Class is column %d\n", $0, sect, class) > "/dev/stderr";
   }
   else
   {

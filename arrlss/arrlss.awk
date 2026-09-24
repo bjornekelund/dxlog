@@ -21,7 +21,7 @@ BEGIN {
     if ($4 ~ /Sect/) sect = 3;
     if ($5 ~ /Sect/) sect = 4;
     if ($6 ~ /Sect/) sect = 5;
-    printf("%s --> call=%d check=%d sect=%d\n", $0, call, check, sect) > "/dev/stderr";
+    # printf("%s --> call=%d check=%d sect=%d\n", $0, call, check, sect) > "/dev/stderr";
   }
   else if ( \
     (($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/[0-9MP])?$|\/)|\/(W[0-9]|KL7|KH6)$|^4U1WB$|\/W[0-9]$$/ && $sect ~ /^(^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NV|NNY|NTX|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$)$/) || \

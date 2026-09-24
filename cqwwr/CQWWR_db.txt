@@ -1,7 +1,7 @@
 # CQ WW RTTY Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-09-14
+# Last updated 2026-09-24
 4U1WB=DC
 AA0AI=IA
 AA0AW=MN
@@ -664,6 +664,7 @@ AE9B=MO
 AE9F=CA
 AE9LL=IN
 AE9YL=IN
+AF0G=KS
 AF0S=CO
 AF0V=MO
 AF0Z=MN

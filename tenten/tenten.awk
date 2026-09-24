@@ -22,7 +22,7 @@ BEGIN {
     if ($3 ~ /Misc/) mem = 2;
     if ($4 ~ /Misc/) mem = 3;
     if ($5 ~ /Misc/) mem = 4;
-    printf("%s --> call=%d name=%d loc=%d mem=%d\n", $0, call, name, loc, mem) > "/dev/stderr";
+  # printf\("%s --> call=%d name=%d loc=%d mem=%d\n", $0, call, name, loc, mem) > "/dev/stderr";
   }
   else if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
