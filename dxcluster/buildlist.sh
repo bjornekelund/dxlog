@@ -19,13 +19,13 @@ BAD="$TMPDIR/bad.txt"
 
 echo "Downloading N1MM Live Cluster List..."
 if ! curl -fsSL --connect-timeout 10 --max-time 30 "$URL" | sed 's/<br[[:space:]]*\/\{0,1\}>/\n/gI' > "$RAW"; then
-    echo "ERROR: Could not download $URL" >&2
+    echo "ERROR: Could not download $URL" 
     exit 1
 fi
 
 # Verify that this looks like the expected N1MM response.
 if ! grep -q '^STARTOFDATA$' "$RAW"; then
-    echo "ERROR: Unexpected response from N1MM endpoint." >&2
+    echo "ERROR: Unexpected response from N1MM endpoint." 
     exit 1
 fi
 

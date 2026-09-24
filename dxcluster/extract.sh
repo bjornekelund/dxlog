@@ -7,7 +7,7 @@ INPUT="${1:-n1mm_cluster_responses.txt}"
 OUTPUT="${2:-dxcluster_nodes.txt}"
 
 if [[ ! -f "$INPUT" ]]; then
-    echo "ERROR: input file not found: $INPUT" >&2
+    echo "ERROR: input file not found: $INPUT" 
     exit 1
 fi
 

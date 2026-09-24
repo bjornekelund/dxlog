@@ -5,10 +5,15 @@ WEBFILE=CQMMWEB.txt
 OUTFILE=CQMM_db.txt
 
 rm -f $WEBFILE
-wget -q https://site.cwjf.com.br/membros-exportcsv -O $WEBFILE
+curl -fsSL --connect-timeout 5 --max-time 20 https://site.cwjf.com.br/membros-exportcsv -o "$WEBFILE" || {\
+    echo "ERROR! Download of $WEBFILE failed. Aborting." 
+    rm -f $WEBFILE
+    exit 1
+}
 
 if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
-    echo "ERROR! Download of member roster failed. Aborting."
+    echo "ERROR! Download of member roster failed. Aborting." 
+    rm -f $WEBFILE
     exit 1
 else
     echo Downloaded $WEBFILE

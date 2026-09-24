@@ -10,7 +10,7 @@ TIMEOUT=10
 PARALLEL=20
 
 if [[ $# -lt 1 ]]; then
-    echo "Usage: $0 CALLSIGN" >&2
+    echo "Usage: $0 CALLSIGN" 
     exit 1
 fi
 
@@ -103,7 +103,7 @@ EOF
     if [[ -n "$ssid" ]]; then
         printf '%s,%s,%s\n' "$ssid" "$host" "$port" > "$RESULTS/$index"
     else
-        echo "No SSID found: $host:$port" >&2
+        echo "No SSID found: $host:$port" 
     fi
 }
 
