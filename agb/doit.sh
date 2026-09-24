@@ -4,13 +4,13 @@ OUTFILE=AGB_db.txt
 
 rm -f $WEBFILE
 curl -fsSL --connect-timeout 5 --max-time 20 http://ev5agb.com/club/$WEBFILE -O || {\
-    echo "ERROR! Download of member data failed. Aborting." >&2
+    echo "ERROR! Download of member data failed. Aborting."
     rm -f $WEBFILE
     exit 1
 }
 
 if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
-    echo "ERROR! Download of member data failed. Aborting." >&2
+    echo "ERROR! Download of member data failed. Aborting."
     rm -f $WEBFILE
     exit 1
 else
