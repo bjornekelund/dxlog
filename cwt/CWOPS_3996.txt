@@ -3968,7 +3968,7 @@ N4IW,David,VA,Lynchburg VA
 N4IY,Terry,2250,Borden IN
 N4JEH,Jenna,3203,Ringgold GA
 N4JGD,David,NC,Kinston NC
-N4JP,Eric,NC,Richlands NC
+N4JP,Eric,3996,Richlands NC
 N4JX,Mike,CWA,Inverness FL
 N4KD,David,GA,Duluth GA
 N4KGY,Bart,UT,Logan UT
@@ -6766,6 +6766,7 @@ WB4IT,Brian,3092,Alabaster AL
 WB4OWC,Jerry,AL,Springville AL
 WB4RFQ,Dan,1601,San Francisco CA
 WB4SON,Bob,2903,North Kingstown RI
+WB4WND,Steve,3996,
 WB5BKL,Nick,1371,Lake Buchanan TX
 WB5HOW,Victor,3361,Houston TX
 WB5K,Jay,1769,Allen TX
