@@ -1,6 +1,6 @@
 !!Order!!,Call,Name,State,UserText,
 # 0-This is helping file, LOG what you copy.
-# 1-Last Edit,2026-09-23
+# 1-Last Edit,2026-09-25
 # 2-Send new Info/Corr. DIRECT to ve2fk@arrl.net
 # 3-Updated from log of NJ4P
 # 4-Thanks Ron/WV4P Bjorn/SM7IUN
@@ -8,6 +8,22 @@
 # CQ160CW
 # CQ160SSB
 # CQWWRTTY
+
+NV4T,,SC,
+K0KYL,,MN,
+KT2R,,TX,
+NN9Z,,IL,
+W1GQ,,NH,
+WN6A,,CA,
+KA5USN,,FL,
+N0M,,KS,
+K0MIR,,IA,
+N3MBC,,MD,
+NQ5A,,AR,
+K7SYS,,ID,
+WN7M,,WA,
+N1PTM,,NH,
+
 4U1WB,MASA,DC,
 AA0U,ZACK,MN,,
 AA0AI,STEVE,IA,
