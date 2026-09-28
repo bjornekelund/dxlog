@@ -15,7 +15,7 @@ BEGIN {
     if ($3 ~ /State/) state = 2;
     if ($4 ~ /State/) state = 3;
     if ($5 ~ /State/) state = 4;
-    printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+  # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if ( \
       ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
