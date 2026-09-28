@@ -12,10 +12,10 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1|State/) state = 2;
-    if ($4 ~ /Exch1|State/) state = 3;
-    if ($5 ~ /Exch1|State/) state = 4;
-    # printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
+    if ($3 ~ /Exch1/) state = 2;
+    if ($4 ~ /Exch1/) state = 3;
+    if ($5 ~ /Exch1/) state = 4;
+    printf("%s --> state=%d\n", $0, state) > "/dev/stderr";
   }
   else if ( \
     ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$|^4U1WB$/ && \

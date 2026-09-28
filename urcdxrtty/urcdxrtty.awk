@@ -12,9 +12,9 @@ BEGIN {
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
     if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1|State/) col = 2;
-    if ($4 ~ /Exch1|State/) col = 3;
-    if ($5 ~ /Exch1|State/) col = 4;
+    if ($3 ~ /Exch1/) col = 2;
+    if ($4 ~ /Exch1/) col = 3;
+    if ($5 ~ /Exch1/) col = 4;
     printf("\"%s\" --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   else if ( \
