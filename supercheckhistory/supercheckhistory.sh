@@ -1,38 +1,57 @@
 #!/usr/bin/env bash
 CABNAME=$1
 FOLDER=$1
-WEBFILE=$FOLDER/$1.txt
-AWKFILE=$FOLDER/$1.awk
-OUTFILE=$FOLDER/`cat $FOLDER/$1.file`
-URL="https://supercheckhistory.com/downloads/N1MM/$CABNAME.txt"
+AWKFILE=$FOLDER/filter.awk
+OUTFILE=$FOLDER/$1.txt
+DBFILE="$FOLDER/`cat $FOLDER/dbfile.txt`"
+TMPFILE=$FOLDER/.rawoutfile
 HELPERS=../1helpers/helpers.awk
 #set -x
 
-#echo "AWKFILE=$AWKFILE OUTFILE=$OUTFILE WEBFILE=$WEBFILE URL=$URL"
+rm -f $OUTFILE
 
-rm -f $WEBFILE
+# echo "AWKFILE=$AWKFILE DBFILE=$DBFILE OUTFILE=$OUTFILE"
 
-curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$WEBFILE" || {\
-    echo "ERROR! Download of $WEBFILE failed. Aborting." 
-    rm -f $WEBFILE
-    exit 1
-}
+if [ -s "$FOLDER/webfiles.txt" ]; then
+    echo "$FOLDER/webfiles.txt exists and is not empty"
+    WEBFILES="`cat $FOLDER/webfiles.txt`"
+    # echo WEBFILES=\"$WEBFILES\"
+    for file in $WEBFILES; do
+        URL="https://supercheckhistory.com/downloads/N1MM/$file"
+        curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$FOLDER/$file" || {\
+            echo "ERROR! Download of $file failed. Aborting." 
+            rm -f $FOLDER/$file
+            exit 1
+        }
+        cat $FOLDER/$file >> $TMPFILE
+    done
+else
+    # echo "File is missing or empty"
+    URL="https://supercheckhistory.com/downloads/N1MM/$CABNAME.txt"
+    curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE" || {\
+        echo "ERROR! Download of $CABNAME.txt failed. Aborting." 
+        rm -f $WEBFILE
+        exit 1
+    }
+fi
 
-if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
-    echo "ERROR! Download of $WEBFILE failed. Aborting." 
+sort $TMPFILE | uniq > $OUTFILE
+
+if [ ! -f $OUTFILE ] || [ $(stat -c%s $OUTFILE 2>/dev/null) -lt 1000 ]; then
+    echo "ERROR! Download of $OUTFILE failed. Aborting." 
     exit 1
 else
-    echo Downloaded $WEBFILE, parsing...
+    echo Downloaded $OUTFILE, parsing...
 
-    dos2unix -q $WEBFILE
+    dos2unix -q $OUTFILE
 
-    gawk -f $HELPERS -f $AWKFILE $WEBFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk -f $HELPERS -f $AWKFILE $OUTFILE | sort | sed 's/^#0. /# /g' > $DBFILE
 
-    unix2dos -q $OUTFILE
-    echo Created $OUTFILE
+    unix2dos -q $DBFILE
+    echo Created $DBFILE
 
     if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $OUTFILE
+        ../copytosourcetree.sh $DBFILE
     fi
 fi
 exit
