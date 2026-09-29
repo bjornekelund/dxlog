@@ -8,7 +8,7 @@ URL="https://supercheckhistory.com/downloads/N1MM/$CABNAME.txt"
 HELPERS=../1helpers/helpers.awk
 #set -x
 
-echo "AWKFILE=$AWKFILE OUTFILE=$OUTFILE WEBFILE=$WEBFILE URL=$URL"
+#echo "AWKFILE=$AWKFILE OUTFILE=$OUTFILE WEBFILE=$WEBFILE URL=$URL"
 
 rm -f $WEBFILE
 
