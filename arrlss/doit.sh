@@ -25,7 +25,6 @@ if [ -e $INFILESSB ]; then
     ../copytosourcetree.sh $OUTFILESSB
 fi
 
-
 echo ---
 
 cd ../fistsspr; ./doit.sh
