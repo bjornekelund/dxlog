@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ../naqp/NAQP[^_]* | tail -1 2> /dev/null`
+INFILE=`ls ../naqp/NAQPC* | tail -1 2> /dev/null`
 OUTFILE=MDQP_db.txt
 HELPERS=../1helpers/helpers.awk
 
