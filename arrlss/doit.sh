@@ -2,7 +2,7 @@
 INFILECW=`ls SSCW* | tail -1 2> /dev/null`
 INFILESSB=`ls SSSSB* | tail -1 2> /dev/null`
 
-OUTFILECW=ARRL_SS_db.txt
+OUTFILECW=ARRL_SS_CW_db.txt
 OUTFILESSB=ARRL_SS_SSB_db.txt
 
 if [ -e $INFILECW ]; then
@@ -14,6 +14,8 @@ if [ -e $INFILECW ]; then
     ../copytosourcetree.sh $OUTFILECW
 fi
 
+echo ---
+
 if [ -e $INFILESSB ]; then
     echo Parsing $INFILESSB
     dos2unix -q $INFILESSB
@@ -22,6 +24,9 @@ if [ -e $INFILESSB ]; then
     unix2dos -q $OUTFILESSB
     ../copytosourcetree.sh $OUTFILESSB
 fi
+
+
+echo ---
 
 cd ../fistsspr; ./doit.sh
 cd ../arrlrr; ./doit.sh
