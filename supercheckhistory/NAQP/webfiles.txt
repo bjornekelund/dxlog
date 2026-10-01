@@ -1,1 +1,1 @@
-NAQP-CW.txt NAQP-SSB.txt NAQP-RTTY.txt
+NAQP-CW.txt
