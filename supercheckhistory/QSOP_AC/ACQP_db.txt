@@ -1,7 +1,6 @@
 # Atlantic Canada QSO Party prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-01
+# Based on data from https://supercheckhistory.com
+# Last updated 2026-10-02
 AA0AW=MN
 AA0FO=KS
 AA3R=NJ

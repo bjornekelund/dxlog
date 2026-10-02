@@ -1,6 +1,6 @@
 # ARRL 160m Contest prefill database
 # Based on data from https://supercheckhistory.com
-# Last updated 2026-10-01
+# Last updated 2026-10-02
 AA0A=MO
 AA0AI=IA
 AA0AO=MN
@@ -1812,7 +1812,6 @@ KB5GA=LA
 KB5MPJ=STX
 KB7AZ=AZ
 KB7CDA=OR
-KB7EEG=UT
 KB7H=KY
 KB7HDX=EWA
 KB7N=WWA

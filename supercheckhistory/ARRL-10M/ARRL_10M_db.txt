@@ -1,6 +1,6 @@
 # ARRL 10m Contest prefill database
 # Based on data from https://supercheckhistory.com
-# Last updated 2026-10-01
+# Last updated 2026-10-02
 AA0A=MO
 AA0AC=MN
 AA0AI=IA
@@ -3961,7 +3961,6 @@ KB7BIB=AZ
 KB7CDA=OR
 KB7DQH=WA
 KB7DT=WA
-KB7EEG=UT
 KB7FGN=WY
 KB7FMS=UT
 KB7GFL=WA

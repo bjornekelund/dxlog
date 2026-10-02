@@ -1,6 +1,6 @@
 # ARI DX prefill database
 # Based on data from https://supercheckhistory.com
-# Last updated 2026-10-01
+# Last updated 2026-10-02
 I0GIA=PG
 I0GOJ=RM
 I0GXK=TR

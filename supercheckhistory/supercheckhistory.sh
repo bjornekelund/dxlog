@@ -50,8 +50,8 @@ else
     unix2dos -q $DBFILE
     echo Created $DBFILE
 
-    if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $DBFILE
-    fi
+    # if [ -s ../copytosourcetree.sh ]; then
+    #     ../copytosourcetree.sh $DBFILE
+    # fi
 fi
 exit
