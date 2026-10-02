@@ -1,4 +1,4 @@
-function vecall(_call) 
+function IsVEcall(_call) 
 {
   if (_call ~ /^((V[A-GOXY]|C[FG]|X[LM])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/[0-9]$|\/V[OYE][0-9]$/)
   {
@@ -18,7 +18,7 @@ function vecall(_call)
   }
 }
 
-function uscall(_call4)
+function IsIsUScall(_call4)
 {
   if ($call ~ /^(A[A-L]|[KNW][A-z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6|AE)$/ && \
       $call !~ /\/V[EOY][0-9]$/ && \
@@ -32,10 +32,21 @@ function uscall(_call4)
   }
 }
 
-
-function notpredictableve13(_call1, _state1) 
+function IsIsNAcall(_call5)
 {
-  if (! vecall(_call1) || _state1 ~ /[A-Z]{3,5}/)
+  if (IsUScall(_call5) || IsVEcall(_call5))
+  {
+    return 1;
+  }
+  else
+  {
+    return 0;
+  }
+}
+
+function NotPredictableVE13(_call1, _state1) 
+{
+  if (! IsVEcall(_call1) || _state1 ~ /[A-Z]{3,5}/)
   {
       # printf("Non VE call %s with exchange %s\n", _call1, _state1) > "/dev/stderr";
     return 1;
@@ -66,9 +77,9 @@ function notpredictableve13(_call1, _state1)
   }
 }
 
-function notpredictableve11(_call1, _state1) 
+function NotPredictableVE11(_call1, _state1) 
 {
-  if (! vecall(_call1) || _state1 ~ /[A-Z]{3,5}/)
+  if (! IsVEcall(_call1) || _state1 ~ /[A-Z]{3,5}/)
   {
     # printf("Non VE call %s with exchange %s\n", _call1, _state1) > "/dev/stderr";
     return 1;
@@ -99,9 +110,9 @@ function notpredictableve11(_call1, _state1)
   }
 }
 
-function notpredictableve14(_call2, _state2)
+function NotPredictableVE14(_call2, _state2)
 {
-  if (! vecall(_call2) || _state2 ~ /[A-Z]{3,5}/)
+  if (! IsVEcall(_call2) || _state2 ~ /[A-Z]{3,5}/)
   {
     # printf("Non VE call %s with exchange %s\n", _call2, _state2) > "/dev/stderr";
     return 1;
@@ -133,9 +144,9 @@ function notpredictableve14(_call2, _state2)
   }
 }
 
-function notpredictableqcqp(_call2, _state2)
+function NotPredictableQCQP(_call2, _state2)
 {
-  if (! vecall(_call2) || (_state2 ~ /[A-Z]{3,5}/ && _state2 != "NWT"))
+  if (! IsVEcall(_call2) || (_state2 ~ /[A-Z]{3,5}/ && _state2 != "NWT"))
   {
     # printf("Non VE call %s with exchange %s\n", _call2, _state2) > "/dev/stderr";
     return 1;
@@ -167,9 +178,9 @@ function notpredictableqcqp(_call2, _state2)
   }
 }
 
-function notpredictablearrl10(_call2, _state2)
+function NotPredictableARRL10(_call2, _state2)
 {
-  if (! vecall(_call2) || _state2 ~ /[A-Z]{3,5}/)
+  if (! IsVEcall(_call2) || _state2 ~ /[A-Z]{3,5}/)
   {
     # printf("Non VE call %s with exchange %s\n", _call2, _state2) > "/dev/stderr";
     return 1;
@@ -201,7 +212,7 @@ function notpredictablearrl10(_call2, _state2)
   }
 }
 
-function notpredictablerac(_call2, _state2)
+function NotPredictableRAC(_call2, _state2)
 {
   if (_call2 !~ /^(V[A-GOY]|C[FG]|X[LMO])|^(V[A-GOXY]|X[LMO]|C[FG]).+\/[0-9]$|\/V[OYE][0-9]$/)
   {
@@ -234,7 +245,7 @@ function notpredictablerac(_call2, _state2)
   }
 }
 
-function notpredictablewapc(_call3, _state3)
+function NotPredictableWAPC(_call3, _state3)
 {
   if (_call3 !~ /^(B[A-Y]?|XX|VR)[0-9]{1,3}[A-Z]{1,4}$/)
   {

@@ -26,7 +26,7 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if (notpredictablewapc($call, $state))
+    else if (NotPredictableWAPC($call, $state))
     {
       printf("%s=%s\n", $call, $state);
       lines[$call] = $0;

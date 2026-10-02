@@ -43,7 +43,7 @@ BEGIN {
     {
       printf("Problem RAC section : \"%s\"\n", $0) > "/dev/stderr";
     }
-    else if (notpredictablerac($call, $col))
+    else if (NotPredictableRAC($call, $col))
     {
       printf("%s=%s\n", $call, $col);
       lines[$call] = $0;

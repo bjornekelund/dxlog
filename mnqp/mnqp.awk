@@ -37,7 +37,7 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if (notpredictableve13($call, $state) || $name !~ /^$/)
+    else if (NotPredictableVE13($call, $state) || $name !~ /^$/)
     {
       printf("%s=%s;%s\n", $call, toupper($name), $state);
       lines[$call] = $0;

@@ -18,22 +18,22 @@ BEGIN {
   # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
+    (IsUScall($call) && \
       ($state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|DC|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/ || \
       $state ~ /^(ALC|BAK|BAY|BRA|BRE|BRO|CAH|CHA|CIT|CLA|CLM|CLR|DAD|DES|DIX|DUV|ESC|FLG|FRA|GAD|GIL|GLA|GUL|HAM|HAR|HEN|HER|HIG|HIL|HOL|IDR|JAC|JEF|LAF|LAK|LEE|LEO|LEV|LIB|MAD|MTE|MAO|MRT|MON|NAS|OKA|OKE|ORA|OSC|PAL|PAS|PIN|POL|PUT|SAN|SAR|SEM|STJ|STL|SUM|SUW|TAY|UNI|VOL|WAK|WAL|WAG)(\/(ALC|BAK|BAY|BRA|BRE|BRO|CAH|CHA|CIT|CLA|CLM|CLR|DAD|DES|DIX|DUV|ESC|FLG|FRA|GAD|GIL|GLA|GUL|HAM|HAR|HEN|HER|HIG|HIL|HOL|IDR|JAC|JEF|LAF|LAK|LEE|LEO|LEV|LIB|MAD|MTE|MAO|MRT|MON|NAS|OKA|OKE|ORA|OSC|PAL|PAS|PIN|POL|PUT|SAN|SAR|SEM|STJ|STL|SUM|SUW|TAY|UNI|VOL|WAK|WAL|WAG))?$/)) || \
-    ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NT|NS|NU|ON|PE|QC|SK|YT)$/))
+    (IsVEcall($call) && $state ~ /^(AB|BC|MB|NB|NL|NT|NS|NU|ON|PE|QC|SK|YT)$/))
   {
     if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if (notpredictableve13($call, $state))
+    else if (NotPredictableVE13($call, $state))
     {
       printf("%s=%s\n", $call, $state);
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^#|^$/ && $state != "")
+  else if ($0 !~ /^#|^$/ && (IsVEcall($call) || IsUScall($call)) && $state != "")
   {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
