@@ -1,5 +1,6 @@
 # Arkansas QSO Party prefill database
-# Based on data from https://supercheckhistory.com
+# Based on data maintained by VE2FK ve2fk@arrl.net
+# Report updates and corrections directly to ve2fk@arrl.net
 # Last updated 2026-10-02
 AA0AO=MN
 AA0AW=MN

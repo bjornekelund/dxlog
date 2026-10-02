@@ -1,3 +1,15 @@
+cp ../9adx/9adx.awk 9A-DX/filter.awk
+cp ../aridx/aridx.awk ARI-DX/filter.awk
+cp ../arrl10/arrl10.awk ARRL-10M/filter.awk
+cp ../arrl160/arrl160.awk ARRL-160M/filter.awk
+cp ../arrldx/arrldx.awk ARRL-DX/filter.awk
+cp ../a1cwc/a1cwc.awk AWT/filter.awk
+cp ../naqp/naqp.awk NAQP/filter.awk
+cp ../rdac/rdac.awk RDAC/filter.awk
+cp ../stewperry/stewperry.awk STEW-PERRY/filter.awk
+cp ../naqp/naqp.awk NAQP/filter.awk
+
+
 cp ../acqp/acqp.awk QSOP_AC/filter.awk
 cp ../alqp/alqp.awk QSOP_AL/filter.awk
 cp ../arqp/arqp.awk QSOP_AR/filter.awk
@@ -22,7 +34,6 @@ cp ../mnqp/mnqp.awk QSOP_MN/filter.awk
 cp ../moqp/moqp.awk QSOP_MO/filter.awk
 cp ../msqp/msqp.awk QSOP_MS/filter.awk
 cp ../mtqp/mtqp.awk QSOP_MT/filter.awk
-cp ../naqp/naqp.awk QSOP_NA/filter.awk
 cp ../ncqp/ncqp.awk QSOP_NC/filter.awk
 cp ../ndqp/ndqp.awk QSOP_ND/filter.awk
 cp ../neqp/neqp.awk QSOP_NE/filter.awk

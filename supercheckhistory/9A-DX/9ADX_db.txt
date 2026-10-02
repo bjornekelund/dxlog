@@ -1,6 +1,7 @@
 # 9A DX Contest prefill database
-# Based on data from https://supercheckhistory.com
+# Based on data maintained by Claude VE2FK
 # Last updated 2026-10-02
+# Report updates and corrections directly to ve2fk@arrl.net
 9A0BR=ST
 9A0KG=ST
 9A1AA=OS

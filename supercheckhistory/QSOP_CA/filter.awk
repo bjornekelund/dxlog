@@ -1,10 +1,9 @@
 BEGIN {
   printf("#00 California QSO Party prefill database\n");
-  printf("#01 Based on data from https://supercheckhistory.com\n");
-  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#01 Based on data maintained by Claude VE2FK\n");
+  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
-  call = 1;
-  state = 2;
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -34,8 +33,8 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($state !~ /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/ && $state != "DX")
   {
-    printf("Ignored: \"%s\" should be DX\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\" invalid exchange\n", $0) > "/dev/stderr";
   }
 }

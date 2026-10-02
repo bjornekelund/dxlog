@@ -1,6 +1,7 @@
 # RDA Contest prefill database
-# Based on data from https://supercheckhistory.com
-# Last updated 2026-10-01
+# Based on data maintained data by VE2FK and UR7QM
+# Includes updates by NA3M and RA3R
+# Last updated 2026-10-02
 R0AA=KK08
 R0AAP=KK70
 R0ABR=KK33

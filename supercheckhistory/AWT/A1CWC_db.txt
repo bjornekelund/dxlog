@@ -1,7 +1,8 @@
 # A1 Club Weekly Contest prefill database
-# Based on data from https://supercheckhistory.com
-# Last updated 2026-10-02
+# Based on data maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "GEORGE" with 6 characters
+# Last updated 2026-10-02
 7K1JFM=KAKE
 7L2VPL=HIDE
 AC0E=JIM

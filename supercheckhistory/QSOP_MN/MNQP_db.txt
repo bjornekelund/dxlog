@@ -1,0 +1,5 @@
+# Minnesota QSO Party prefill database
+# Based on data maintained by Claude VE2FK
+# Report updates and corrections directly to ve2fk@arrl.net
+# Longest name is "" with 0 characters
+# Last updated 2026-10-02
