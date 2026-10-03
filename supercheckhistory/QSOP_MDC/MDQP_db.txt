@@ -1,6 +1,5 @@
 # Maryland-DC QSO Party prefill database
-# Based on NAQP data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
+# Based on data from https://supercheckhistory.com/
 # Last updated 2026-10-03
 AA0AW=MN
 AA0FO=KS
