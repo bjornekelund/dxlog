@@ -32,7 +32,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^#|^$/ && (IsVEcall($call) || IsUScall($call)) && $state != "")
+  else if ($0 !~ /^#|^$/ && IsNAcall($call))
   {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

@@ -4,6 +4,7 @@ BEGIN {
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
   longest = "";
+  name = 9;
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -18,7 +19,7 @@ BEGIN {
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
-  # printf\("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
+    # printf("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
   }
   else if ( \
     (IsUScall($call) && \
@@ -28,10 +29,10 @@ BEGIN {
   {
     stateok = 1;
   }
+  if (name = 9) $name = "";
   nameok = $name ~ /^([A-Z][A-Za-z]+|)$/;
-  #nameok = 1;
   notempty = $name != "" || $state != "";
-  if ((stateok && nameok && notempty))
+  if ((stateok && notempty))
   {
     if (lines[$call] != "")
     {

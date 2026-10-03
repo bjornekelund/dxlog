@@ -17,9 +17,9 @@ BEGIN {
   # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$|^4U1WB$/ && \
+    (IsUScall($call) && \
       $call !~ /\/V[EOY][0-9]$/ && $state ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-    ($call ~ /^(V[A-EOXY]|C[F-KY]|X[LM])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/ && \
+    (IsVEcall($call) && \
       ($state ~ /^(AB|BC|LB|MB|NB|NF|NWT|NS|NU|ON|PE|SK|YT)$/ || \
       $state ~ /^(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ)(\/(BSA|SLS|QUE|MAU|ETE|MTL|OTS|ATE|CND|NDQ|GIM|CAS|LVL|LDE|LNS|MEE|CDQ))?$/)) )
   {
@@ -33,7 +33,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $state != "")
+  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call))
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

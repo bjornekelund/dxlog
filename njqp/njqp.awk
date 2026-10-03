@@ -18,10 +18,10 @@ BEGIN {
   # printf\("%s --> call=%d state=%d\n", $0, call,state) > "/dev/stderr";
   }
   else if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
+    (IsUScall($call) && \
       ($state ~ /^(AL|AK|AZ|AR|CA|CT|CO|DC|DE|FL|GA|HI|ID|IL|IA|IN|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/ || \
       $state ~ /^(ATLA|BERG|BURL|CAPE|CMDN|CUMB|ESSE|GLOU|HUDS|HUNT|MERC|MIDD|MONM|MORR|OCEA|PASS|SALE|SOME|SUSS|UNIO|WRRN)$/)) || \
-    ($call ~ /^V[A-GOXY][0-9]([A-Z]+|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
+    (IsVEcall($call) && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$call] != "")
     {

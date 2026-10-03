@@ -18,10 +18,10 @@ BEGIN {
   # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|\/(W[0-9]|KL7|KH6)$/ && \
+    (IsUScall($call) && \
       ($state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/ || \
       $state ~ /^(ALB|ALL|BRM|BRX|CAT|CAY|CGO|CHA|CHE|CLI|COL|COR|DEL|DUT|ERI|ESS|FRA|FUL|GEN|GRE|HAM|HER|JEF|KIN|LEW|LIV|MAD|MON|MTG|NAS|NEW|NIA|ONE|ONO|ONT|ORA|ORL|OSW|OTS|PUT|QUE|REN|RIC|ROC|SAR|SCH|SCO|SCU|SEN|STE|STL|SUF|SUL|TIO|TOM|ULS|WAR|WAS|WAY|WES|WYO|YAT)(\/(ALB|ALL|BRM|BRX|CAT|CAY|CGO|CHA|CHE|CLI|COL|COR|DEL|DUT|ERI|ESS|FRA|FUL|GEN|GRE|HAM|HER|JEF|KIN|LEW|LIV|MAD|MON|MTG|NAS|NEW|NIA|ONE|ONO|ONT|ORA|ORL|OSW|OTS|PUT|QUE|REN|RIC|ROC|SAR|SCH|SCO|SCU|SEN|STE|STL|SUF|SUL|TIO|TOM|ULS|WAR|WAS|WAY|WES|WYO|YAT))?$/)) || \
-    ($call ~ /^V[A-GOXY][0-9]([A-Z]+(\/[MP0-9])?$|\/)|\/V[EOY][0-9]$/ && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
+    (IsVEcall($call) && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$call] != "")
     {
