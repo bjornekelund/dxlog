@@ -1,8 +1,7 @@
 BEGIN {
   printf("#00 RDA Contest prefill database\n");
-  printf("#01 Based on data maintained data by VE2FK and UR7QM\n");
-  printf("#02 Includes updates by NA3M and RA3R\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#01 Based on data from https://supercheckhistory.com/\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
 }
 {

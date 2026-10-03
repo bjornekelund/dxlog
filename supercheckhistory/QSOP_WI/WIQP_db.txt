@@ -1,7 +1,6 @@
 # Wisconsin QSO Party prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-02
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-03
 AA0AW=MN
 AA0CL=IA
 AA0FO=KS
@@ -1661,7 +1660,6 @@ NN7O=OR
 NO2D=CO
 NO5W=LA
 NO8C=OH
-NP3K=FL
 NQ1B=VT
 NQ2W=NY
 NQ9A=DAN

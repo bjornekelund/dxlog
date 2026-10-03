@@ -1,8 +1,7 @@
 # North American QSO Party prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-03
 # Longest name is "GIANFRANCO" with 10 characters
-# Last updated 2026-10-02
 4A2MAX=MAX;XE
 4U1WB=MASA;DC
 4X6GP=VIC;

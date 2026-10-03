@@ -1,8 +1,7 @@
 BEGIN {
   printf("#00 A1 Club Weekly Contest prefill database\n");
-  printf("#01 Based on data maintained by Claude VE2FK\n");
-  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#01 Based on data from https://supercheckhistory.com/\n");
+  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   limit = 10;
   printf("Name length limit set to %d\n", limit) > "/dev/stderr";
   FS = ",";

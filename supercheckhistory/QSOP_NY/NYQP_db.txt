@@ -1,7 +1,6 @@
 # New York QSO Party prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-02
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-03
 AA0AO=MN
 AA0AW=MN
 AA0BY=OR
@@ -2060,8 +2059,8 @@ KO6ST=CA
 KO7SS=AZ
 KO8SCA=ONO
 KO9V=CO
+KP2M=VA
 KP3U=SC
-KP4KE=FL
 KQ0J=FL
 KQ2R=PUT
 KQ3F=PA
@@ -2187,7 +2186,6 @@ KX1W=NJ
 KX2NY=ULS
 KX2P=CO
 KX4FX=VA
-KX4MT=SC
 KX4NM=FL
 KX4X=AL
 KX8X=MI
@@ -2224,7 +2222,6 @@ N0BM=MN
 N0BTN=KS
 N0DIM=SC
 N0EMU=CO
-N0GF=ND
 N0GJW=IA
 N0GN=NE
 N0HDR=MN
@@ -2300,7 +2297,6 @@ N1JTK=CT
 N1KW=IL
 N1LN=NC
 N1MGO=MA
-N1MHV=GA
 N1MRI=CT
 N1MUK=MA
 N1NN=MA

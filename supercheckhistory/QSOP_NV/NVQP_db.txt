@@ -1,7 +1,6 @@
 # Nevada QSO Party prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-02
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-03
 AA0AJ=MN
 AA0AW=MN
 AA0BY=OR
@@ -869,7 +868,6 @@ NN7BH=AZ
 NN7M=WWA
 NO2D=CO
 NO6M=SF
-NP2X=VI
 NQ2W=ENY
 NR0P=KS
 NR4A=WCF
@@ -1245,7 +1243,6 @@ WO1J=ME
 WO4O=NFL
 WO8L=NC
 WO9B=WI
-WP3R=PR
 WQ0A=KS
 WQ6X=SDG
 WQ7X=AZ
