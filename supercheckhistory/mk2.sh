@@ -1,0 +1,23 @@
+mkdir ARRL-FD
+mkdir QSOP_BCC
+mkdir CNCW
+mkdir CQ-WW-RTTY
+mkdir CVA-DX-CW
+mkdir CWOPS
+mkdir GC
+mkdir HA-DX
+mkdir HA3NS-SPRINT
+mkdir HELVETIA
+mkdir ICWC-MST
+mkdir JIDX-CW
+mkdir K1USNSST
+mkdir LABRE-DX
+mkdir LZ-DX
+mkdir NRAU-BALTIC-CW
+mkdir NTC-QP
+mkdir OK-OM-DX
+mkdir PABEKER-CW
+mkdir PORTUGAL-DAY
+mkdir RAEM
+mkdir RSGB-IOTA
+
