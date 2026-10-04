@@ -1,16 +1,19 @@
 #!/bin/bash
+#set -x
 
-INFILE=`ls 9ADX_2* | tail -1 2> /dev/null`
-OUTFILE=9ADX_db.txt
+if ../1helpers/download.sh 9ADX; then
+    INFILE=`ls 9ADX_2* | tail -1 2> /dev/null`
+    OUTFILE=9ADX_db.txt
 
-dos2unix -q $INFILE
-echo Parsing $INFILE
+    dos2unix -q $INFILE
+    echo Parsing $INFILE
 
-gawk -f 9adx.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
+    gawk -f 9adx.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE
-echo Created $OUTFILE
+    unix2dos -q $OUTFILE
+    echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+    ../copytosourcetree.sh $OUTFILE
+fi
 
 exit

@@ -1,4 +1,6 @@
 #!/bin/bash
+../1helpers/download.sh STEWPERRY
+
 INFILE=`ls STEWPERRY[!_]* | tail -1 2> /dev/null`
 OUTFILE=StewPerry_db.txt
 
