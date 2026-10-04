@@ -161,7 +161,7 @@ BEGIN {
     }
     else if (ID == "" && call != "N4DL")
     {
-      printf("Empty member/location for %s\n", call) > "/dev/stderr";
+      # printf("Empty member/location for %s\n", call) > "/dev/stderr";
     }
  
     idvalid = ID ~ /^(|[1-9][0-9]{0,3}|CWA|[IGF]|3DA|9M[26]|VP2M|[0-9][A-Z]|[A-Z]{1,2}[0-9]?)$/;

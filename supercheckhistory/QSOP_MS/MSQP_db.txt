@@ -1,6 +1,6 @@
 # Missouri QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-03
+# Last updated 2026-10-04
 AA0AJ=
 AA0AO=
 AA0AW=

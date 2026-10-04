@@ -34,7 +34,7 @@ BEGIN {
       printf("%s=%s;%s\n", $call, $exch, $sect);
       line[$call] = $0;
     }
-    else
+    else if ($sect != "")
     {
       printf("Problem ARRL section: \"%s\"\n", $0) > "/dev/stderr";
     }
@@ -46,7 +46,7 @@ BEGIN {
       printf("%s=%s;%s\n", $call, $exch, $sect);
       line[$call] = $0;
     }
-    else
+    else if ($sect != "")
     {
       printf("Problem RAC section: \"%s\"\n", $0) > "/dev/stderr";
     }
@@ -58,7 +58,7 @@ BEGIN {
       printf("%s=%s;%s\n", $call, $exch, $sect);
       line[$call] = $0;
     }
-    else
+    else if ($sect != "")
     {
       printf("Problem DX station  : \"%s\"\n", $0) > "/dev/stderr";
     }

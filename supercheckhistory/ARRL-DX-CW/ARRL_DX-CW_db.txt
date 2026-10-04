@@ -1,6 +1,6 @@
 # ARRL DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-03
+# Last updated 2026-10-04
 2E0BLN=100
 2E0CEA=50
 2E0CEY=100

@@ -19,7 +19,7 @@ if [ -s "$FOLDER/webfiles.txt" ]; then
     for file in $WEBFILES; do
         URL="https://supercheckhistory.com/downloads/N1MM/$file"
         curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$FOLDER/$file" || {\
-            echo "ERROR! Download of $file failed. Aborting." 
+            echo "ERROR! Download of `basename $file` failed. Aborting." 
             rm -f $FOLDER/$file
             exit 1
         }
@@ -29,7 +29,7 @@ else
     # echo "File is missing or empty"
     URL="https://supercheckhistory.com/downloads/N1MM/$CABNAME.txt"
     curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE" || {\
-        echo "ERROR! Download of $CABNAME.txt failed. Aborting." 
+        echo "ERROR! Download of `basename $CABNAME.txt` failed. Aborting." 
         rm -f $WEBFILE
         exit 1
     }
@@ -37,11 +37,11 @@ fi
 
 sort $TMPFILE | uniq > $OUTFILE
 
-if [ ! -f $OUTFILE ] || [ $(stat -c%s $OUTFILE 2>/dev/null) -lt 1000 ]; then
-    echo "ERROR! Download of $OUTFILE failed. Aborting." 
+if [ ! -f $OUTFILE ] || [ $(stat -c%s $OUTFILE 2>/dev/null) -lt 100 ]; then
+    echo "ERROR! Download of `basename $OUTFILE` failed. Aborting." 
     exit 1
 else
-    echo Downloaded $OUTFILE, parsing...
+    echo Downloaded `basename $OUTFILE`, parsing...
 
     dos2unix -q $OUTFILE
 

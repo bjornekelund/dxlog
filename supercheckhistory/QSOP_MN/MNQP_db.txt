@@ -1,6 +1,6 @@
 # Minnesota QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-03
+# Last updated 2026-10-04
 # Longest name is "" with 0 characters
 AA0AC=;CRL
 AA0AJ=;STL

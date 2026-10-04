@@ -1,6 +1,6 @@
 # Iowa QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-03
+# Last updated 2026-10-04
 AA0AW=MN
 AA0CL=DSM
 AA0FO=KS
