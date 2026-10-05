@@ -2,18 +2,26 @@
 FOLDER=zipfiles
 ZIPFILE=$FOLDER/itu.zip
 DBFILE=$FOLDER/iaruhq.txt
+DOWNLOAD=$FOLDER/.downloaded.zip
 
 XDTFILE=iaru*.xdt
 OUTFILE=iaruhq.txt
 
-rm -rf $FOLDER
-rm -f $XDTFILE $OUTFILE
+#rm -rf $FOLDER
+#rm -f $XDTFILE $OUTFILE
 mkdir -p $FOLDER
 
 echo Downloading $ZIPFILE
 
-wget -q https://bit.ly/itudtb -O $ZIPFILE
+wget -q https://bit.ly/itudtb -O $DOWNLOAD
 
+if cmp $ZIPFILE $DOWNLOAD; then 
+    echo "The latest zip file is already downloaded."
+    rm -f $DOWNLOAD
+    exit 0
+fi
+
+mv $DOWNLOAD $ZIPFILE
 echo Unzipping $ZIPFILE
 
 unzip -o $ZIPFILE -d $FOLDER

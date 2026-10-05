@@ -14,7 +14,7 @@ if ../1helpers/download.sh SSCW || [ -n "$1" ]; then
 fi
 
 if ../1helpers/download.sh SSSSB || [ -n "$1" ]; then
-    echo ---
+    # echo ---
     INFILESSB=`ls SSSSB* | tail -1 2> /dev/null`
     OUTFILESSB=ARRL_SS_SSB_db.txt
 

@@ -1,0 +1,578 @@
+-------- a1cwc
+Most recent file: A1AWT-021.txt
+A1AWT-021.txt is already downloaded
+-------- acqp
+Most recent file: QSOP_AC-2026-005.txt
+QSOP_AC-2026-005.txt is already downloaded
+-------- agb
+The latest file is already downloaded.
+-------- agcw
+The latest file is already downloaded.
+-------- agcwntcqp
+Most recent file: AGCW-NTCQP-010.txt
+AGCW-NTCQP-010.txt is already downloaded
+-------- allasian
+Most recent file: ALLASIACW_2026-002.txt
+ALLASIACW_2026-002.txt is already downloaded
+-------- alqp
+Most recent file: QSOP_AL-2026-002.txt
+QSOP_AL-2026-002.txt is already downloaded
+-------- aoec160
+-------- aridx
+Most recent file: ARIDX_2026-001.txt
+ARIDX_2026-001.txt is already downloaded
+-------- arqp
+Most recent file: QSOP_AR-2026-001.txt
+QSOP_AR-2026-001.txt is already downloaded
+-------- arrl10
+Most recent file: ARRL10M_2026-003.txt
+ARRL10M_2026-003.txt is already downloaded
+-------- arrl160
+Most recent file: ARRL160-2025-008.txt
+ARRL160-2025-008.txt is already downloaded
+-------- arrldx
+Most recent file: ARRLDXCW_USDX-2026-001.txt
+ARRLDXCW_USDX-2026-001.txt is already downloaded
+Most recent file: ARRLDXSSB_USDX-2026-009.txt
+ARRLDXSSB_USDX-2026-009.txt is already downloaded
+-------- arrlfd
+Most recent file: FD_2026-LAST.txt
+FD_2026-LAST.txt is already downloaded
+-------- arrlrr
+Most recent file: RRCW.txt
+RRCW.txt is already downloaded
+-------- arrlrtty
+Most recent file: ARRLRTTY_2027-002.txt
+ARRLRTTY_2027-002.txt is already downloaded
+-------- arrlscr
+Most recent file: ARRL-SCR-003.txt
+ARRL-SCR-003.txt is already downloaded
+-------- arrlss
+Most recent file: SSCW_new.txt
+SSCW_new.txt is already downloaded
+Most recent file: SSSSB_2025-009.txt
+SSSSB_2025-009.txt is already downloaded
+---
+-------- arrlvhf
+Most recent file: ARRLVHFSEP.txt
+ARRLVHFSEP.txt is already downloaded
+-------- aschamp
+-------- azqp
+Most recent file: QSOP_AZ-2026-001.txt
+QSOP_AZ-2026-001.txt is already downloaded
+-------- bandebasse
+Most recent file: BB_ITALIA-001.txt
+BB_ITALIA-001.txt is already downloaded
+-------- bccqp
+Downloaded bcc-members.txt, parsing...
+Created BCC-regex.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Contest/BCCQP.txt
+----
+Downloaded bcc-members.xdt
+Created bcc-members.xdt
+-------- bcqp
+Most recent file: QSOP_BC-NEW-002.txt
+QSOP_BC-NEW-002.txt is already downloaded
+-------- caqp
+Most recent file: QSOP_CA-2026-003.txt
+QSOP_CA-2026-003.txt is already downloaded
+-------- commonwealth
+Most recent file: RSGBBERU_2026-014.txt
+RSGBBERU_2026-014.txt is already downloaded
+-------- coqp
+Most recent file: QSOP_CO-2026-007.txt
+QSOP_CO-2026-007.txt is already downloaded
+-------- cpqp
+Most recent file: QSOP_CP-2026-001.txt
+QSOP_CP-2026-001.txt is already downloaded
+-------- cq160
+Most recent file: CQ160CW-005.txt
+CQ160CW-005.txt is already downloaded
+-------- cqmm
+The latest file is already downloaded.
+-------- cqvojvodina
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- cqww
+Parsing CQWWCW-2023.txt
+Ignored: "TO50FF,0,"
+Created CQWWCW2023_db.txt
+-------- cqwwr
+Most recent file: CQWWRTTY_2026-004.txt
+CQWWRTTY_2026-004.txt is already downloaded
+-------- croatiandx
+Most recent file: 9ADX_2025.txt
+9ADX_2025.txt is already downloaded
+-------- cvadx
+Most recent file: CVADXCW-001.txt
+CVADXCW-001.txt is already downloaded
+-------- cwt
+Most recent file: CWOPS_4000.txt
+CWOPS_4000.txt is already downloaded
+-------- dig
+Downloaded DIGLISTE.csv, parsing...
+Ignored: "6892,L,DIG_,CALL,SWL_EXCALL,VORNAME,NachNAME,DOK,T,C,U,SIL,G,0000-00-00,0000-00-00,0000-00-00"
+Ignored: "6893,L,DIG_,CALL,SWL_EXCALL,VORNAME,NachNAME,DOK,T,C,U,SIL,G,0000-00-00,0000-00-00,0000-00-00"
+Highest member number is 8888
+Created DIG_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/DIG_db.txt
+-------- dok
+Most recent file: WAG.txt
+WAG.txt is already downloaded
+-------- ea
+Most recent file: KINGEACW_2026-002.txt
+KINGEACW_2026-002.txt is already downloaded
+-------- eacme
+No file matching 'CME' found
+-------- eudxc
+Most recent file: EUDXC-004.txt
+EUDXC-004.txt is already downloaded
+-------- euhfc
+Downloaded DXLog.zip, unzipping...done
+Extracted EUHFC_db.txt containing 18949 lines
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/EUHFC_db.txt
+-------- eupsk
+-------- fistsspr
+Downloaded fistsmembers.csv, creating ...
+Parsing fistsmembers.csv FISTSSPR-OLD.txt ../names/Names_VE2FK-088.txt ../cwt/CWOPS_4000.txt ../arrlss/SSCW_new.txt ../naqp/NAQPCW.txt
+ignored: "9227,WAKL,David"
+ignored: "22170,30CW,30m CW Activity Group"
+ignored: "23153,EI2041,Bart"
+Added 16027 locations and updated 344 of them
+Updated 1110 names
+Created FISTSSPR_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FISTSSPR_db.txt
+-------- flqp
+Most recent file: QSOP_FL_2026-009.txt
+QSOP_FL_2026-009.txt is already downloaded
+-------- foc
+Downloaded foc.xdt
+Downloaded FOC_db.txt
+Highest member number is 2267
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FOC_db.txt
+-------- frphf
+Most recent file: FRPHF-001.txt
+FRPHF-001.txt is already downloaded
+-------- gagarin
+Most recent file: Gcup-2026.txt
+Gcup-2026.txt is already downloaded
+-------- gaqp
+Most recent file: QSOP_GA-2026-001.txt
+QSOP_GA-2026-001.txt is already downloaded
+-------- hacwg
+Most recent file: HA3NS-002.txt
+HA3NS-002.txt is already downloaded
+-------- hadx
+Most recent file: HADX.txt
+HADX.txt is already downloaded
+-------- hamspirit
+Most recent file: HamSpirit_2025-001.txt
+HamSpirit_2025-001.txt is already downloaded
+-------- helvetia
+Most recent file: Helvetia-004.txt
+Helvetia-004.txt is already downloaded
+-------- hiqp
+Most recent file: QSOP_HI-2026-001.txt
+QSOP_HI-2026-001.txt is already downloaded
+-------- hsc
+Downloaded hsc.xdt
+Downloaded HSC_db.txt
+Highest member number is 2075
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HSC_db.txt
+-------- iaqp
+Most recent file: QSOP_IA-2026-001.txt
+QSOP_IA-2026-001.txt is already downloaded
+-------- iaru
+Downloading zipfiles/itu.zip
+Unzipping zipfiles/itu.zip
+Archive:  zipfiles/itu.zip
+  inflating: zipfiles/itu.dtb        
+  inflating: zipfiles/IARU.TXT       
+  inflating: zipfiles/Readme.txt     
+  inflating: zipfiles/iaruhq.txt     
+  inflating: zipfiles/INITIAL.EX     
+  inflating: zipfiles/iaru_n1mm_plus.txt  
+  inflating: zipfiles/iaru2026.adi   
+  inflating: zipfiles/iaru2026.xdt   
+Created iaruhq.txt iaru2026.xdt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/iaruhq.txt
+-------- icwc-mst
+Most recent file: ICWC-MST-079.txt
+ICWC-MST-079.txt is already downloaded
+-------- idqp
+Most recent file: QSOP_ID-2025-002.txt
+QSOP_ID-2025-002.txt is already downloaded
+-------- ig-ry
+Most recent file: SCRY_NEW-004.txt
+SCRY_NEW-004.txt is already downloaded
+-------- ilqp
+Most recent file: QSOP_IL-2025-004.txt
+QSOP_IL-2025-004.txt is already downloaded
+-------- in7qpnede
+Most recent file: QSOP_IN7QPNE_DE-2026-006.txt
+QSOP_IN7QPNE_DE-2026-006.txt is already downloaded
+-------- iota
+Most recent file: IOTA_2026-017.txt
+IOTA_2026-017.txt is already downloaded
+-------- jarlwwrtty
+Most recent file: JARLWWRTTY_2026-001.txt
+JARLWWRTTY_2026-001.txt is already downloaded
+-------- jidxc
+Most recent file: JIDXCW_NEW5-001.txt
+JIDXCW_NEW5-001.txt is already downloaded
+-------- k1usn
+Most recent file: K1USNSST-063.txt
+K1USNSST-063.txt is already downloaded
+-------- kcj
+Most recent file: KCJ-2025-001.txt
+KCJ-2025-001.txt is already downloaded
+-------- kj
+-------- ksqp
+Most recent file: QSOP_KS-2026-005.txt
+QSOP_KS-2026-005.txt is already downloaded
+-------- kyqp
+Most recent file: QSOP_KY-2026-006.txt
+QSOP_KY-2026-006.txt is already downloaded
+-------- labredx
+Most recent file: LABRE_DX-009.txt
+LABRE_DX-009.txt is already downloaded
+-------- laqp
+Most recent file: QSOP_LA-2026-002.txt
+QSOP_LA-2026-002.txt is already downloaded
+-------- lzdx
+Most recent file: LZDX-2023-002.txt
+LZDX-2023-002.txt is already downloaded
+-------- maidmay
+-------- mcdqp
+Downloaded List_Members_MC.csv, parsing...
+Highest member number is 999
+Created MCD_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MCD_db.txt
+-------- mdqp
+Parsing ../naqp/NAQPCW.txt ...
+Created MDQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MDQP_db.txt
+-------- meqp
+Most recent file: QSOP_ME-2025-001.txt
+QSOP_ME-2025-001.txt is already downloaded
+-------- miqp
+Most recent file: QSOP_MI-2025-001.txt
+QSOP_MI-2025-001.txt is already downloaded
+-------- mnqp
+Most recent file: QSOP_MN-2026-004.txt
+QSOP_MN-2026-004.txt is already downloaded
+-------- moqp
+Most recent file: QSOP_MO-2026-001.txt
+QSOP_MO-2026-001.txt is already downloaded
+-------- msqp
+Most recent file: QSOP_MS-2026-002.txt
+QSOP_MS-2026-002.txt is already downloaded
+-------- mtqp
+Parsing ../naqp/NAQPCW.txt
+!!Order!!,Call,Name,State,UserText, --> call=1 state=3
+Created MTQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MTQP_db.txt
+-------- names
+Most recent file: Names_VE2FK-086.txt
+Names_VE2FK-086.txt is already downloaded
+-------- naqp
+Most recent file: NAQPCW.txt
+NAQPCW.txt is already downloaded
+-------- naval
+-------- ncqp
+Most recent file: QSOP_NC-2026-002.txt
+QSOP_NC-2026-002.txt is already downloaded
+-------- ndqp
+Most recent file: QSOP_ND-2026-001.txt
+QSOP_ND-2026-001.txt is already downloaded
+-------- neqp
+Most recent file: QSOP_NE-2026-002.txt
+QSOP_NE-2026-002.txt is already downloaded
+-------- nhqp
+Most recent file: QSOP_NH-2026-001.txt
+QSOP_NH-2026-001.txt is already downloaded
+-------- njqp
+Most recent file: QSOP_NJ-2024-002.txt
+Downloading QSOP_NJ-2024-002.txt
+Downloaded QSOP_NJ-2024-002.txt
+Parsing QSOP_NJ-2025-001.txt
+Ignored: "K2AA,,,Rover SJRA Association"
+Ignored: "KK7CED/AG,VIC,WA,"
+Ignored: "KO4KET/AG,JIM,VA,"
+Ignored: "NP3K,CHARLIE,FL,"
+Ignored: "NP4AC,AL,TN,"
+Created NJQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
+-------- nmqp
+Most recent file: QSOP_NM-2026-001.txt
+QSOP_NM-2026-001.txt is already downloaded
+-------- nrau
+Most recent file: NRAUCW-004.txt
+NRAUCW-004.txt is already downloaded
+-------- nrrl-telefoni
+-------- ntc
+Most recent file: NTC_QP-049.txt
+Downloading NTC_QP-049.txt
+Downloaded NTC_QP-049.txt
+Parsing NTC_QP-049.txt
+Longest name is "MARIANNE" with 8 characters
+Contains members up to #313
+Created NTC_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NTC_db.txt
+-------- nvqp
+No file matching 'QSOP_NV' found
+-------- nyqp
+Most recent file: QSOP_NY-2025-001.txt
+QSOP_NY-2025-001.txt is already downloaded
+-------- ohqp
+Most recent file: QSOP_OH-2026-003.txt
+QSOP_OH-2026-003.txt is already downloaded
+-------- ok-om
+-------- okqp
+Most recent file: QSOP_OK-2026-002.txt
+QSOP_OK-2026-002.txt is already downloaded
+-------- onqp
+Most recent file: QSOP_ON-2026-003.txt
+QSOP_ON-2026-003.txt is already downloaded
+-------- pabeker
+Most recent file: PABEKERCW.txt
+PABEKERCW.txt is already downloaded
+-------- pacc
+Most recent file: PACC-2026-006.txt
+PACC-2026-006.txt is already downloaded
+-------- paqp
+Most recent file: QSOP_PA-2025-003.txt
+Downloading QSOP_PA-2025-003.txt
+Downloaded QSOP_PA-2025-003.txt
+Parsing QSOP_PA-2025-004.txt
+Ignored: "K0BAK/BED,BED,14 county mobile"
+Ignored: "K0BAK/BER,BER,14 county mobile"
+Ignored: "K0BAK/BLA,BLA,14 county mobile"
+Ignored: "K0BAK/CMB,CMB,14 county mobile"
+Ignored: "K0BAK/DAU,DAU,14 county mobile"
+Ignored: "K0BAK/FRA,FRA,14 county mobile"
+Ignored: "K0BAK/FUL,FUL,14 county mobile"
+Ignored: "K0BAK/HUN,HUN,14 county mobile"
+Ignored: "K0BAK/JUN,JUN,14 county mobile"
+Ignored: "K0BAK/LAN,LAN,14 county mobile"
+Ignored: "K0BAK/LEB,LEB,14 county mobile"
+Ignored: "K0BAK/MIF,MIF,14 county mobile"
+Ignored: "K0BAK/PER,PER,14 county mobile"
+Ignored: "K0BAK/SOM,SOM,14 county mobile"
+Ignored: "K8RYU/ADA,ADA,9 county rover"
+Ignored: "K8RYU/BED,BED,9 county rover"
+Ignored: "K8RYU/CMB,CMB,9 county rover"
+Ignored: "K8RYU/FAY,FAY,9 county rover"
+Ignored: "K8RYU/FRA,FRA,9 county rover"
+Ignored: "K8RYU/FUL,FUL,9 county rover"
+Ignored: "K8RYU/GRE,GRE,9 county rover"
+Ignored: "K8RYU/HUN,HUN,9 county rover"
+Ignored: "K8RYU/JUN,JUN,9 county rover"
+Ignored: "KN3A/LAN,LAN,2 county mobile"
+Ignored: "KN3A/YOR,YOR,2 county mobile"
+Ignored: "KP2B,VI"
+Ignored: "KP2XX,WI"
+Ignored: "KP3H,PR"
+Ignored: "KP3N,PR"
+Ignored: "KP3U,SC"
+Ignored: "KP4CTO,IL"
+Ignored: "KP4DX,PR"
+Ignored: "KP4GSC,PR"
+Ignored: "KP4PUA,PR"
+Ignored: "KP4TF,PR"
+Ignored: "KP4VOR,PR"
+Ignored: "N2CU/CLA,CLA,11 county mobile"
+Ignored: "N2CU/CRA,CRA,11 county mobile"
+Ignored: "N2CU/CRN,CRN,11 county mobile"
+Ignored: "N2CU/ELK,ELK,11 county mobile"
+Ignored: "N2CU/ERI,ERI,11 county mobile"
+Ignored: "N2CU/FOR,FOR,11 county mobile"
+Ignored: "N2CU/JEF,JEF,11 county mobile"
+Ignored: "N2CU/MCK,MCK,11 county mobile"
+Ignored: "N2CU/POT,POT,11 county mobile"
+Ignored: "N2CU/VEN,VEN,11 county mobile"
+Ignored: "N2CU/WAR,WAR,11 county mobile"
+Ignored: "N3IDR/JUN,JUN,6 county rover"
+Ignored: "N3IDR/MTR,MTR,6 county rover"
+Ignored: "N3IDR/NUM,NUM,6 county rover"
+Ignored: "N3IDR/PER,PER,6 county rover"
+Ignored: "N3IDR/SNY,SNY,6 county rover"
+Ignored: "N3IDR/UNI,UNI,6 county rover"
+Ignored: "NP2D,NFL"
+Ignored: "NP2WJ,IL"
+Ignored: "NP2X,VI"
+Ignored: "NP3K,NFL"
+Ignored: "NP4ML,PR"
+Ignored: "NP4Z,PR"
+Ignored: "W3IZ/MOE,MOE,2 county rover"
+Ignored: "W3IZ/WYO,WYO,2 county rover"
+Ignored: "WP3C,PR"
+Ignored: "WP4TZ,PR"
+Created PAQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PAQP_db.txt
+-------- pcc
+Most recent file: PCC_NM-2025-002.txt
+PCC_NM-2025-002.txt is already downloaded
+-------- podxs
+Downloaded data.csv
+Highest member number is 3074
+Created PODXS_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PODXS_db.txt
+-------- polar-radioman
+No file matching 'AC-SPRING' found
+-------- qcqp
+Most recent file: QSOP_QC-2026-011.txt
+QSOP_QC-2026-011.txt is already downloaded
+-------- r4c-cup
+-------- r4w-champ
+-------- radioylom
+Most recent file: RUSYLOM-002.txt
+RUSYLOM-002.txt is already downloaded
+-------- raem
+Most recent file: RAEM_2026.txt
+RAEM_2026.txt is already downloaded
+-------- rcc
+-------- rcpw
+-------- rcwc
+Downloaded RCWC.txt, parsing...
+"9A5AHN 1521" reoccurs as "9A5AHN 1525"
+Highest member number is 1530
+Created RCWC_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RCWC_db.txt
+-------- rdac
+Most recent file: RDAC_2026-001.txt
+RDAC_2026-001.txt is already downloaded
+-------- rdxc
+Most recent file: RussianDX-2026.txt
+RussianDX-2026.txt is already downloaded
+-------- ref
+Most recent file: REFCW.txt
+REFCW.txt is already downloaded
+-------- rybnickie
+-------- sacw
+Most recent file: SACW-008.txt
+SACW-008.txt is already downloaded
+-------- scqp
+Most recent file: QSOP_SC-2026-002.txt
+QSOP_SC-2026-002.txt is already downloaded
+-------- scwc
+-------- sdqp
+Most recent file: QSOP_SD-2026-001.txt
+Downloading QSOP_SD-2026-001.txt
+Downloaded QSOP_SD-2026-001.txt
+Parsing QSOP_SD-2026-001.txt
+Ignored: "KK7CED/AG,VIC,WA,"
+Ignored: "KO4KET/AG,JIM,VA,"
+Ignored: "NP3K,CHARLIE,FL,"
+Ignored: "NP4AC,AL,TN,"
+Created SDQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SDQP_db.txt
+-------- spdx
+No file matching 'SPDX' found
+-------- spdxrtty
+-------- spotc
+-------- ssa-mt
+-------- stewperry
+Most recent file: STEWPERRY-008.txt
+STEWPERRY-008.txt is already downloaded
+-------- tenten
+Most recent file: 1010RTTY-021.txt
+1010RTTY-021.txt is already downloaded
+-------- thirteencolonies
+Most recent file: 13COLONIES-001.txt
+13COLONIES-001.txt is already downloaded
+-------- tnqp
+Most recent file: QSOP_TN-2026-007.txt
+QSOP_TN-2026-007.txt is already downloaded
+-------- tpqso
+-------- trc
+Most recent file: TRCDX_new.txt
+TRCDX_new.txt is already downloaded
+-------- txqp
+Most recent file: QSOP_TX-2026-005.txt
+QSOP_TX-2026-005.txt is already downloaded
+-------- ua1dz
+Most recent file: DZCUP_new.txt
+DZCUP_new.txt is already downloaded
+-------- ua2qp
+Most recent file: UA2QP_2026.txt
+UA2QP_2026.txt is already downloaded
+-------- uba-dx-on-spring
+-------- uft
+-------- ukeicc
+Most recent file: UKEI80_VHF-new.txt
+UKEI80_VHF-new.txt is already downloaded
+-------- ukeidx
+Most recent file: UKEIDXCW.txt
+UKEIDXCW.txt is already downloaded
+-------- undxc
+Most recent file: UNDXC_2026.txt
+UNDXC_2026.txt is already downloaded
+-------- uploadxdt.sh
+./all.sh: line 7: cd: uploadxdt.sh: Not a directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- uqrqc
+./all.sh: line 7: cd: uqrqc: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- urcdxrtty
+./all.sh: line 7: cd: urcdxrtty: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- urdxc
+./all.sh: line 7: cd: urdxc: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- vaqp
+./all.sh: line 7: cd: vaqp: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- vhfreg1
+./all.sh: line 7: cd: vhfreg1: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- vidovdan
+./all.sh: line 7: cd: vidovdan: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- vojvodina
+./all.sh: line 7: cd: vojvodina: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- vtqp
+./all.sh: line 7: cd: vtqp: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wapc
+./all.sh: line 7: cd: wapc: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- waqp
+./all.sh: line 7: cd: waqp: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wfd
+./all.sh: line 7: cd: wfd: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wiqp
+./all.sh: line 7: cd: wiqp: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wrt
+./all.sh: line 7: cd: wrt: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wtzc
+./all.sh: line 7: cd: wtzc: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wvqp
+./all.sh: line 7: cd: wvqp: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wwff
+./all.sh: line 7: cd: wwff: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- wwpmc
+./all.sh: line 7: cd: wwpmc: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- xertty
+./all.sh: line 7: cd: xertty: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- yodx
+./all.sh: line 7: cd: yodx: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- yota
+./all.sh: line 7: cd: yota: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- yu
+./all.sh: line 7: cd: yu: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory
+-------- yudxc
+./all.sh: line 7: cd: yudxc: No such file or directory
+./all.sh: line 9: ./doit.sh: No such file or directory

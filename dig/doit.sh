@@ -1,13 +1,24 @@
 #!/bin/bash
 WEBFILE=DIGLISTE.csv
 OUTFILE=DIG_db.txt
+DOWNLOAD=.downloaded
 
-rm -f $WEBFILE
-curl -fsSL --connect-timeout 5 --max-time 20 https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $WEBFILE || {\
+#rm -f $WEBFILE
+curl -fsSL --connect-timeout 5 --max-time 20 https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $DOWNLOAD || {\
     echo "ERROR! Download of $WEBFILE failed. Aborting." 
-    rm -f $WEBFILE
+    rm -f $DOWNLOAD
     exit 1
 }
+
+dos2unix -q $DOWNLOAD
+
+if cmp $WEBFILE $DOWNLOAD; then 
+    echo "The latest file is already downloaded."
+    rm $DOWNLOAD
+    exit 0
+fi
+
+mv $DOWNLOAD $WEBFILE
 
 if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of $WEBFILE failed" $>2

@@ -14,13 +14,11 @@ if ../1helpers/download.sh NAQPCW || [ -n "$1" ]; then
 
   ../copytosourcetree.sh $OUTFILE
 
-  LIST="mdqp mtqp"
-
-  for contest in $LIST; do
+  for contest in "mdqp mtqp"; do
     echo ---------------
     cd ../$contest
     echo "Doing" $contest "in" `pwd`
-    ./doit.sh
+    ./1doit.sh
   done
 fi
 exit

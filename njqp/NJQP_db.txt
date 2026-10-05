@@ -1,7 +1,7 @@
 # New Jersey QSO Party prefill database
 # Based data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-03-05
+# Last updated 2026-10-05
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -9371,8 +9371,6 @@ NO9E=GA
 NO9S=IA
 NO9X=WI
 NO9Z=IL
-NP3K=FL
-NP4AC=TN
 NQ1DX=ME
 NQ1K=CT
 NQ2B=TN

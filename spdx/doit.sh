@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh SPDX || [ -n "$1" ]; then
+if ../1helpers/download.sh SPDXcwssb || [ -n "$1" ]; then
     INFILE=`ls SPDX*[0-9]* | tail -1 2> /dev/null`
     OUTFILE=SPDX_db.txt
 

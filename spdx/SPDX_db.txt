@@ -1,6 +1,6 @@
 # SP DX Contest prefill database
 # Based on data maintained by Chris SP5KP
-# Last updated 2026-04-02
+# Last updated 2026-10-05
 3Z0A=Z
 3Z0R=K
 3Z0X=R
