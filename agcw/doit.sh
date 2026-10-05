@@ -1,15 +1,26 @@
 #!/bin/bash
 WEBFILE=Mitglieder.csv
 OUTFILE=AGCW_db.txt
+DOWNLOAD=.downloaded
 
-rm -f $WEBFILE
-curl -fsSL --connect-timeout 5 --max-time 20 https://www.agcw.de/wp-content/persist/$WEBFILE -O || {\
-    echo "ERROR! Download of $WEBFILE failed. Aborting." 
-    rm -f $WEBFILE
+rm -f $DOWNLOAD
+curl -fsSL --connect-timeout 5 --max-time 20 https://www.agcw.de/wp-content/persist/$WEBFILE -o $DOWNLOAD || {\
+    echo "ERROR! Download of member data failed. Aborting." 
+    rm -f $DOWNLOAD
     exit 1
 }
 
-if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
+dos2unix -q $DOWNLOAD
+
+if cmp $WEBFILE $DOWNLOAD; then 
+    echo "The latest file is already downloaded."
+    rm $DOWNLOAD
+    exit 0
+fi
+
+mv $DOWNLOAD $WEBFILE
+
+if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 100 ]; then
     echo "ERROR! Download of member data failed. Aborting." 
     rm -f $WEBFILE
     exit 1
@@ -24,8 +35,8 @@ else
     fi
 fi
 
-if [ -s ../agcwntcqp ]; then
-    cd ../agcwntcqp && ./doit.sh
-fi
+# if [ -s ../agcwntcqp ]; then
+#     cd ../agcwntcqp && ./doit.sh
+# fi
 
 exit

@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -x
 
-if ../1helpers/download.sh 9ADX; then
+if ../1helpers/download.sh 9ADX || [ -n "$1" ]; then
     INFILE=`ls 9ADX_2* | tail -1 2> /dev/null`
     OUTFILE=9ADX_db.txt
 

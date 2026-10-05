@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ../1helpers/download.sh A1AWT; then
+if ../1helpers/download.sh A1AWT || [ -n "$1" ]; then
     INFILE=`ls A1AWT* | tail -1 2> /dev/null`
     OUTFILE=A1CWC_db.txt
 

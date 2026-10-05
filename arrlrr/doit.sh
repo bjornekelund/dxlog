@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh RRCW; then
+if ../1helpers/download.sh RRCW || [ -n "$1" ]; then
     INFILESS=`ls ../arrlss/SSCW* | tail -1 2> /dev/null`
     INFILENAQP=`ls ../naqp/NAQPC* | tail -1 2> /dev/null`
     INFILEWRT=`ls ../wrt/WRT[^_]* | tail -1 2> /dev/null`

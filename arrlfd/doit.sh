@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh FD; then
+if ../1helpers/download.sh FD || [ -n "$1" ]; then
     INFILE=`ls FD* | tail -1 2> /dev/null`
     OUTFILE=ARRL_FD_db.txt
 

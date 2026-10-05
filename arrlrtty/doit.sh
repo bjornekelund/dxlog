@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh ARRLRTTY; then
+if ../1helpers/download.sh ARRLRTTY || [ -n "$1" ]; then
     INFILE=`ls ARRLR* | tail -1 2> /dev/null`
     OUTFILE=ARRL_RTTY_db.txt
 

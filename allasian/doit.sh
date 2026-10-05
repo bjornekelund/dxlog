@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh ALLASIACW; then
+if ../1helpers/download.sh ALLASIACW || [ -n "$1" ]; then
     INFILE=`ls ALLASIACW_* | tail -1 2> /dev/null`
     OUTFILE=ALLASIAN_db.txt
 

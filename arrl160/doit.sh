@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh ARRL160; then
+if ../1helpers/download.sh ARRL160 || [ -n "$1" ]; then
     INFILE=`ls ARRL160* | tail -1 2> /dev/null`
     OUTFILE=ARRL_160M_db.txt
     HELPERS=../1helpers/helpers.awk

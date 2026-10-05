@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh ARRLDXCW_USDX; then
+if ../1helpers/download.sh ARRLDXCW_USDX || [ -n "$1" ]; then
     INFILECW=`ls ARRLDXC* | tail -1 2> /dev/null`
     OUTFILECW=ARRL_DX-CW_db.txt
 
@@ -14,7 +14,7 @@ if ../1helpers/download.sh ARRLDXCW_USDX; then
     ../copytosourcetree.sh $OUTFILECW
 fi
 
-if ../1helpers/download.sh ARRLDXSSB_USDX; then
+if ../1helpers/download.sh ARRLDXSSB_USDX || [ -n "$1" ]; then
     echo ---
     INFILESSB=`ls ARRLDXS* | tail -1 2> /dev/null`
     OUTFILESSB=ARRL_DX-SSB_db.txt

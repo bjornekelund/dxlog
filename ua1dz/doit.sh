@@ -1,15 +1,16 @@
 #!/bin/bash
-INFILE=`ls DZ* | tail -1 2> /dev/null`
-OUTFILE=UA1DZ_db.txt
+if ../1helpers/download.sh DZCUP || [ -n "$1" ]; then
+    INFILE=`ls DZ* | tail -1 2> /dev/null`
+    OUTFILE=UA1DZ_db.txt
 
-echo Parsing $INFILE
-dos2unix -q $INFILE
+    echo Parsing $INFILE
+    dos2unix -q $INFILE
 
-gawk -f ua1dz.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk -f ua1dz.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE $INFILE
-echo Created $OUTFILE
+    unix2dos -q $OUTFILE $INFILE
+    echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
-
+    ../copytosourcetree.sh $OUTFILE
+fi
 exit

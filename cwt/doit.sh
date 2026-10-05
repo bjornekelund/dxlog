@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ../1helpers/download.sh CWOPS; then
+if ../1helpers/download.sh CWOPS || [ -n "$1" ]; then
     INFILE=`ls CWOPS_* | tail -1 2> /dev/null`
     DBFILE=CWT_db.txt
     XDTFILE=CWOps.xdt
@@ -21,7 +21,7 @@ if ../1helpers/download.sh CWOPS; then
 
     ../copytosourcetree.sh $DBFILE
 
-    cd ../fistsspr; ./doit.sh
+    # cd ../fistsspr; ./doit.sh
 fi
 
 exit

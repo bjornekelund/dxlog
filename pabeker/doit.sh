@@ -1,15 +1,16 @@
 #!/bin/bash
-INFILE=`ls PABEKER[^_]* | tail -1 2> /dev/null`
-OUTFILE=PABEKER_db.txt
+if ../1helpers/download.sh PABEKERCW || [ -n "$1" ]; then
+    INFILE=`ls PABEKER[^_]* | tail -1 2> /dev/null`
+    OUTFILE=PABEKER_db.txt
 
-echo Parsing $INFILE
-dos2unix -q $INFILE
+    echo Parsing $INFILE
+    dos2unix -q $INFILE
 
-gawk -f pabeker.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk -f pabeker.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE $INFILE
-echo Created $OUTFILE
+    unix2dos -q $OUTFILE $INFILE
+    echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
-
+    ../copytosourcetree.sh $OUTFILE
+fi
 exit

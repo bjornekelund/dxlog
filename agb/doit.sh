@@ -1,13 +1,25 @@
 #!/bin/bash
 WEBFILE=agb-list.txt
 OUTFILE=AGB_db.txt
+DOWNLOAD=.downloaded
+#set -x  
 
-rm -f $WEBFILE
-curl -fsSL --connect-timeout 5 --max-time 20 http://ev5agb.com/club/$WEBFILE -O || {\
+rm -f $DOWNLOAD
+curl -fsSL --connect-timeout 5 --max-time 20 http://ev5agb.com/club/$WEBFILE -o $DOWNLOAD || {\
     echo "ERROR! Download of member data failed. Aborting."
-    rm -f $WEBFILE
+    rm -f $DOWNLOAD
     exit 1
 }
+
+dos2unix -q $DOWNLOAD
+
+if cmp $WEBFILE $DOWNLOAD; then 
+    echo "The latest file is already downloaded."
+    rm $DOWNLOAD
+    exit 0
+fi
+
+mv $DOWNLOAD $WEBFILE
 
 if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of member data failed. Aborting."
@@ -23,4 +35,4 @@ else
         ../copytosourcetree.sh $OUTFILE
     fi
 fi
-exit
+exit 0

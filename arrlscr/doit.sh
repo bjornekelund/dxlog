@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh ARRL-SCR; then
+if ../1helpers/download.sh ARRL-SCR || [ -n "$1" ]; then
     INFILE=`ls ARRL-* | tail -1 2> /dev/null`
     OUTFILE=ARRL_SCR_db.txt
 

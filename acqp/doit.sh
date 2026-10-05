@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ../1helpers/download.sh QSOP_AC; then
+if ../1helpers/download.sh QSOP_AC || [ -n "$1" ]; then
     INFILE=`ls QSOP* | tail -1 2> /dev/null`
     OUTFILE=ACQP_db.txt
     HELPERS=../1helpers/helpers.awk

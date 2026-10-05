@@ -1,15 +1,16 @@
 #!/bin/bash
-INFILE=`ls HA3NS* | tail -1 2> /dev/null`
-OUTFILE=HACWG_db.txt
+if ../1helpers/download.sh HA3NS || [ -n "$1" ]; then
+    INFILE=`ls HA3NS* | tail -1 2> /dev/null`
+    OUTFILE=HACWG_db.txt
 
-echo Parsing $INFILE
-dos2unix -q $INFILE
+    echo Parsing $INFILE
+    dos2unix -q $INFILE
 
-gawk -f hacwg.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk -f hacwg.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-echo Created $OUTFILE
-unix2dos -q $OUTFILE $INFILE
+    echo Created $OUTFILE
+    unix2dos -q $OUTFILE $INFILE
 
-../copytosourcetree.sh $OUTFILE
-
+    ../copytosourcetree.sh $OUTFILE
+fi
 exit

@@ -1,15 +1,16 @@
 #!/bin/bash
-INFILE=`ls UKEIDXC* | tail -1 2> /dev/null`
-OUTFILE=UKEIDX_db.txt
+if ../1helpers/download.sh UKEIDXCW || [ -n "$1" ]; then
+    INFILE=`ls UKEIDXC* | tail -1 2> /dev/null`
+    OUTFILE=UKEIDX_db.txt
 
-echo Parsing $INFILE
-dos2unix -q $INFILE
+    echo Parsing $INFILE
+    dos2unix -q $INFILE
 
-gawk -f ukeidx.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk -f ukeidx.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-unix2dos -q $OUTFILE $INFILE
-echo Created $OUTFILE
+    unix2dos -q $OUTFILE $INFILE
+    echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
-
+    ../copytosourcetree.sh $OUTFILE
+fi
 exit

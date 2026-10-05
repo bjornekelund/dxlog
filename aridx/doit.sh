@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh ARIDX; then
+if ../1helpers/download.sh ARIDX || [ -n "$1" ]; then
     INFILE=`ls ARIDX* | tail -1 2> /dev/null`
     OUTFILE=ARI_DX_db.txt
     HELPERS=../1helpers/helpers.awk

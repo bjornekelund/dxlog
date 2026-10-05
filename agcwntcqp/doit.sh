@@ -1,5 +1,5 @@
 #!/bin/bash
-if ../1helpers/download.sh AGCW-NTCQP; then
+if ../1helpers/download.sh AGCW-NTCQP || [ -n "$1" ]; then
 
     AGCWFILE=`ls ../agcw/Mitglieder.csv`
     NTCFILE=`ls ../ntc/NTC_Q* | tail -1 2> /dev/null`
