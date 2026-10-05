@@ -1,7 +1,7 @@
 !!Order!!,Call,Misc,State,UserText,
 # ARRL-SCR
 # Current contest: ARRL School RoundUp.
-# Last Edit,2025-12-28
+# Last Edit,2025-02-18
 # Thanks Bjorn/SM7IUN for his help.
 # Send new info/corrections to ve2fk@arrl.net
 AA0A,I,MO,
@@ -255,6 +255,7 @@ AB4MT,I,AL,
 AB4SF,I,VA,
 AB4VT,I,GA,
 AB4Z,I,NC,
+AB50R,I,MS,
 AB5FS,I,OK,
 AB5GG,I,AR,
 AB5JR,I,NM,
@@ -7202,6 +7203,7 @@ NZ6Q,I,CA,
 NZ8O,I,MI,
 NZ8Y,I,OH,
 NZ9R,I,IN,
+ON7DQ,I,ON,
 VA1CHP,I,NS,
 VA1GE,I,NS,
 VA1MM,I,NS,
