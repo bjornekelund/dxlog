@@ -64,12 +64,7 @@ QSOP_AZ-2026-001.txt is already downloaded
 Most recent file: BB_ITALIA-001.txt
 BB_ITALIA-001.txt is already downloaded
 -------- bccqp
-Downloaded bcc-members.txt, parsing...
-Created BCC-regex.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Contest/BCCQP.txt
-----
-Downloaded bcc-members.xdt
-Created bcc-members.xdt
+The latest file is already downloaded.
 -------- bcqp
 Most recent file: QSOP_BC-NEW-002.txt
 QSOP_BC-NEW-002.txt is already downloaded
@@ -91,7 +86,6 @@ CQ160CW-005.txt is already downloaded
 -------- cqmm
 The latest file is already downloaded.
 -------- cqvojvodina
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- cqww
 Parsing CQWWCW-2023.txt
 Ignored: "TO50FF,0,"
@@ -109,12 +103,7 @@ CVADXCW-001.txt is already downloaded
 Most recent file: CWOPS_4000.txt
 CWOPS_4000.txt is already downloaded
 -------- dig
-Downloaded DIGLISTE.csv, parsing...
-Ignored: "6892,L,DIG_,CALL,SWL_EXCALL,VORNAME,NachNAME,DOK,T,C,U,SIL,G,0000-00-00,0000-00-00,0000-00-00"
-Ignored: "6893,L,DIG_,CALL,SWL_EXCALL,VORNAME,NachNAME,DOK,T,C,U,SIL,G,0000-00-00,0000-00-00,0000-00-00"
-Highest member number is 8888
-Created DIG_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/DIG_db.txt
+The latest file is already downloaded.
 -------- dok
 Most recent file: WAG.txt
 WAG.txt is already downloaded
@@ -127,9 +116,7 @@ No file matching 'CME' found
 Most recent file: EUDXC-004.txt
 EUDXC-004.txt is already downloaded
 -------- euhfc
-Downloaded DXLog.zip, unzipping...done
-Extracted EUHFC_db.txt containing 18949 lines
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/EUHFC_db.txt
+The latest file is already downloaded.
 -------- eupsk
 -------- fistsspr
 Downloaded fistsmembers.csv, creating ...
@@ -145,10 +132,8 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FIST
 Most recent file: QSOP_FL_2026-009.txt
 QSOP_FL_2026-009.txt is already downloaded
 -------- foc
-Downloaded foc.xdt
-Downloaded FOC_db.txt
-Highest member number is 2267
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FOC_db.txt
+The latest xdt file is already downloaded.
+The latest db file is already downloaded.
 -------- frphf
 Most recent file: FRPHF-001.txt
 FRPHF-001.txt is already downloaded
@@ -174,27 +159,14 @@ Helvetia-004.txt is already downloaded
 Most recent file: QSOP_HI-2026-001.txt
 QSOP_HI-2026-001.txt is already downloaded
 -------- hsc
-Downloaded hsc.xdt
-Downloaded HSC_db.txt
-Highest member number is 2075
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HSC_db.txt
+The latest xdt file is already downloaded.
+The latest db file is already downloaded.
 -------- iaqp
 Most recent file: QSOP_IA-2026-001.txt
 QSOP_IA-2026-001.txt is already downloaded
 -------- iaru
 Downloading zipfiles/itu.zip
-Unzipping zipfiles/itu.zip
-Archive:  zipfiles/itu.zip
-  inflating: zipfiles/itu.dtb        
-  inflating: zipfiles/IARU.TXT       
-  inflating: zipfiles/Readme.txt     
-  inflating: zipfiles/iaruhq.txt     
-  inflating: zipfiles/INITIAL.EX     
-  inflating: zipfiles/iaru_n1mm_plus.txt  
-  inflating: zipfiles/iaru2026.adi   
-  inflating: zipfiles/iaru2026.xdt   
-Created iaruhq.txt iaru2026.xdt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/iaruhq.txt
+The latest zip file is already downloaded.
 -------- icwc-mst
 Most recent file: ICWC-MST-079.txt
 ICWC-MST-079.txt is already downloaded
@@ -243,10 +215,7 @@ Most recent file: LZDX-2023-002.txt
 LZDX-2023-002.txt is already downloaded
 -------- maidmay
 -------- mcdqp
-Downloaded List_Members_MC.csv, parsing...
-Highest member number is 999
-Created MCD_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MCD_db.txt
+The latest member data file is already downloaded.
 -------- mdqp
 Parsing ../naqp/NAQPCW.txt ...
 Created MDQP_db.txt
@@ -267,10 +236,6 @@ QSOP_MO-2026-001.txt is already downloaded
 Most recent file: QSOP_MS-2026-002.txt
 QSOP_MS-2026-002.txt is already downloaded
 -------- mtqp
-Parsing ../naqp/NAQPCW.txt
-!!Order!!,Call,Name,State,UserText, --> call=1 state=3
-Created MTQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MTQP_db.txt
 -------- names
 Most recent file: Names_VE2FK-086.txt
 Names_VE2FK-086.txt is already downloaded
@@ -292,16 +257,7 @@ Most recent file: QSOP_NH-2026-001.txt
 QSOP_NH-2026-001.txt is already downloaded
 -------- njqp
 Most recent file: QSOP_NJ-2024-002.txt
-Downloading QSOP_NJ-2024-002.txt
-Downloaded QSOP_NJ-2024-002.txt
-Parsing QSOP_NJ-2025-001.txt
-Ignored: "K2AA,,,Rover SJRA Association"
-Ignored: "KK7CED/AG,VIC,WA,"
-Ignored: "KO4KET/AG,JIM,VA,"
-Ignored: "NP3K,CHARLIE,FL,"
-Ignored: "NP4AC,AL,TN,"
-Created NJQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
+QSOP_NJ-2024-002.txt is already downloaded
 -------- nmqp
 Most recent file: QSOP_NM-2026-001.txt
 QSOP_NM-2026-001.txt is already downloaded
@@ -311,13 +267,7 @@ NRAUCW-004.txt is already downloaded
 -------- nrrl-telefoni
 -------- ntc
 Most recent file: NTC_QP-049.txt
-Downloading NTC_QP-049.txt
-Downloaded NTC_QP-049.txt
-Parsing NTC_QP-049.txt
-Longest name is "MARIANNE" with 8 characters
-Contains members up to #313
-Created NTC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NTC_db.txt
+NTC_QP-049.txt is already downloaded
 -------- nvqp
 No file matching 'QSOP_NV' found
 -------- nyqp
@@ -341,74 +291,7 @@ Most recent file: PACC-2026-006.txt
 PACC-2026-006.txt is already downloaded
 -------- paqp
 Most recent file: QSOP_PA-2025-003.txt
-Downloading QSOP_PA-2025-003.txt
-Downloaded QSOP_PA-2025-003.txt
-Parsing QSOP_PA-2025-004.txt
-Ignored: "K0BAK/BED,BED,14 county mobile"
-Ignored: "K0BAK/BER,BER,14 county mobile"
-Ignored: "K0BAK/BLA,BLA,14 county mobile"
-Ignored: "K0BAK/CMB,CMB,14 county mobile"
-Ignored: "K0BAK/DAU,DAU,14 county mobile"
-Ignored: "K0BAK/FRA,FRA,14 county mobile"
-Ignored: "K0BAK/FUL,FUL,14 county mobile"
-Ignored: "K0BAK/HUN,HUN,14 county mobile"
-Ignored: "K0BAK/JUN,JUN,14 county mobile"
-Ignored: "K0BAK/LAN,LAN,14 county mobile"
-Ignored: "K0BAK/LEB,LEB,14 county mobile"
-Ignored: "K0BAK/MIF,MIF,14 county mobile"
-Ignored: "K0BAK/PER,PER,14 county mobile"
-Ignored: "K0BAK/SOM,SOM,14 county mobile"
-Ignored: "K8RYU/ADA,ADA,9 county rover"
-Ignored: "K8RYU/BED,BED,9 county rover"
-Ignored: "K8RYU/CMB,CMB,9 county rover"
-Ignored: "K8RYU/FAY,FAY,9 county rover"
-Ignored: "K8RYU/FRA,FRA,9 county rover"
-Ignored: "K8RYU/FUL,FUL,9 county rover"
-Ignored: "K8RYU/GRE,GRE,9 county rover"
-Ignored: "K8RYU/HUN,HUN,9 county rover"
-Ignored: "K8RYU/JUN,JUN,9 county rover"
-Ignored: "KN3A/LAN,LAN,2 county mobile"
-Ignored: "KN3A/YOR,YOR,2 county mobile"
-Ignored: "KP2B,VI"
-Ignored: "KP2XX,WI"
-Ignored: "KP3H,PR"
-Ignored: "KP3N,PR"
-Ignored: "KP3U,SC"
-Ignored: "KP4CTO,IL"
-Ignored: "KP4DX,PR"
-Ignored: "KP4GSC,PR"
-Ignored: "KP4PUA,PR"
-Ignored: "KP4TF,PR"
-Ignored: "KP4VOR,PR"
-Ignored: "N2CU/CLA,CLA,11 county mobile"
-Ignored: "N2CU/CRA,CRA,11 county mobile"
-Ignored: "N2CU/CRN,CRN,11 county mobile"
-Ignored: "N2CU/ELK,ELK,11 county mobile"
-Ignored: "N2CU/ERI,ERI,11 county mobile"
-Ignored: "N2CU/FOR,FOR,11 county mobile"
-Ignored: "N2CU/JEF,JEF,11 county mobile"
-Ignored: "N2CU/MCK,MCK,11 county mobile"
-Ignored: "N2CU/POT,POT,11 county mobile"
-Ignored: "N2CU/VEN,VEN,11 county mobile"
-Ignored: "N2CU/WAR,WAR,11 county mobile"
-Ignored: "N3IDR/JUN,JUN,6 county rover"
-Ignored: "N3IDR/MTR,MTR,6 county rover"
-Ignored: "N3IDR/NUM,NUM,6 county rover"
-Ignored: "N3IDR/PER,PER,6 county rover"
-Ignored: "N3IDR/SNY,SNY,6 county rover"
-Ignored: "N3IDR/UNI,UNI,6 county rover"
-Ignored: "NP2D,NFL"
-Ignored: "NP2WJ,IL"
-Ignored: "NP2X,VI"
-Ignored: "NP3K,NFL"
-Ignored: "NP4ML,PR"
-Ignored: "NP4Z,PR"
-Ignored: "W3IZ/MOE,MOE,2 county rover"
-Ignored: "W3IZ/WYO,WYO,2 county rover"
-Ignored: "WP3C,PR"
-Ignored: "WP4TZ,PR"
-Created PAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PAQP_db.txt
+QSOP_PA-2025-003.txt is already downloaded
 -------- pcc
 Most recent file: PCC_NM-2025-002.txt
 PCC_NM-2025-002.txt is already downloaded
@@ -457,17 +340,10 @@ QSOP_SC-2026-002.txt is already downloaded
 -------- scwc
 -------- sdqp
 Most recent file: QSOP_SD-2026-001.txt
-Downloading QSOP_SD-2026-001.txt
-Downloaded QSOP_SD-2026-001.txt
-Parsing QSOP_SD-2026-001.txt
-Ignored: "KK7CED/AG,VIC,WA,"
-Ignored: "KO4KET/AG,JIM,VA,"
-Ignored: "NP3K,CHARLIE,FL,"
-Ignored: "NP4AC,AL,TN,"
-Created SDQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SDQP_db.txt
+QSOP_SD-2026-001.txt is already downloaded
 -------- spdx
-No file matching 'SPDX' found
+Most recent file: SPDXcwssb_26_KP.txt
+SPDXcwssb_26_KP.txt is already downloaded
 -------- spdxrtty
 -------- spotc
 -------- ssa-mt
