@@ -383,72 +383,47 @@ UKEIDXCW.txt is already downloaded
 -------- undxc
 Most recent file: UNDXC_2026.txt
 UNDXC_2026.txt is already downloaded
--------- uploadxdt.sh
-./all.sh: line 7: cd: uploadxdt.sh: Not a directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- uqrqc
-./all.sh: line 7: cd: uqrqc: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- urcdxrtty
-./all.sh: line 7: cd: urcdxrtty: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: URC-DX-RY_2027.txt
+URC-DX-RY_2027.txt is already downloaded
 -------- urdxc
-./all.sh: line 7: cd: urdxc: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- vaqp
-./all.sh: line 7: cd: vaqp: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: QSOP_VA-2026-004.txt
+QSOP_VA-2026-004.txt is already downloaded
 -------- vhfreg1
-./all.sh: line 7: cd: vhfreg1: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- vidovdan
-./all.sh: line 7: cd: vidovdan: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- vojvodina
-./all.sh: line 7: cd: vojvodina: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- vtqp
-./all.sh: line 7: cd: vtqp: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+No file matching 'QSOP_VT' found
 -------- wapc
-./all.sh: line 7: cd: wapc: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+No file matching 'WAPC_HISTORY' found
 -------- waqp
-./all.sh: line 7: cd: waqp: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: QSOP_WA-2025-002.txt
+QSOP_WA-2025-002.txt is already downloaded
 -------- wfd
-./all.sh: line 7: cd: wfd: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: WFD_2026-005.txt
+WFD_2026-005.txt is already downloaded
 -------- wiqp
-./all.sh: line 7: cd: wiqp: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: QSOP_WI-2026-006.txt
+QSOP_WI-2026-006.txt is already downloaded
 -------- wrt
-./all.sh: line 7: cd: wrt: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: WRT-074.txt
+WRT-074.txt is already downloaded
 -------- wtzc
-./all.sh: line 7: cd: wtzc: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- wvqp
-./all.sh: line 7: cd: wvqp: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: QSOP_WV-2026-002.txt
+QSOP_WV-2026-002.txt is already downloaded
 -------- wwff
-./all.sh: line 7: cd: wwff: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- wwpmc
-./all.sh: line 7: cd: wwpmc: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: WWPMC_2024.txt
+WWPMC_2024.txt is already downloaded
 -------- xertty
-./all.sh: line 7: cd: xertty: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: XERTTY-001.txt
+XERTTY-001.txt is already downloaded
 -------- yodx
-./all.sh: line 7: cd: yodx: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
+Most recent file: YOHFDX_2026_KP.txt
+YOHFDX_2026_KP.txt is already downloaded
 -------- yota
-./all.sh: line 7: cd: yota: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- yu
-./all.sh: line 7: cd: yu: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
 -------- yudxc
-./all.sh: line 7: cd: yudxc: No such file or directory
-./all.sh: line 9: ./doit.sh: No such file or directory
