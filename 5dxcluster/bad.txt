@@ -1,0 +1,6 @@
+EU - cluster.qrzcq.com:80... (106 / 82%), cluster.qrzcq.com:8000/962601
+EU - db0sue.de:8000; (1011 / 83%), db0sue.de:8000;
+EU - dxmaps.com:7300/ (420 / 90%), dxmaps.com:7300/
+EU - ea4ure.com:23(112/193% (1076 / 88%), ea4ure.com:23(112/193%
+EU - www.db0erf.de:41113:... (54 / 98%), www.db0erf.de:41113:dk3ww2002
+NA - dxc.middlebrook.ca:8000/ (19 / 95%), dxc.middlebrook.ca:8000/
