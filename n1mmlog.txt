@@ -91,8 +91,12 @@ CWOPS_4000.txt is already downloaded
 Most recent file: WAG.txt
 WAG.txt is already downloaded
 -------- ea
+Most recent file: KINGEACW_2026-002.txt
+KINGEACW_2026-002.txt is already downloaded
 -------- eacme
+No file matching 'CME' found
 -------- eudxc
+curl: (3) URL rejected: Malformed input to a URL function
 -------- euhfc
 -------- eupsk
 -------- fistsspr
@@ -101,6 +105,8 @@ Most recent file: QSOP_FL_2026-009.txt
 QSOP_FL_2026-009.txt is already downloaded
 -------- foc
 -------- frphf
+Most recent file: FRPHF-001.txt
+FRPHF-001.txt is already downloaded
 -------- gagarin
 No file matching 'GC' found
 -------- gaqp
@@ -111,6 +117,8 @@ No file matching 'HA3NS-SPRINT' found
 -------- hadx
 No file matching 'HA-DX' found
 -------- hamspirit
+Most recent file: HamSpirit_2025-001.txt
+HamSpirit_2025-001.txt is already downloaded
 -------- helvetia
 Most recent file: Helvetia-004.txt
 Helvetia-004.txt is already downloaded
@@ -129,6 +137,8 @@ ICWC-MST-079.txt is already downloaded
 Most recent file: QSOP_ID-2025-002.txt
 QSOP_ID-2025-002.txt is already downloaded
 -------- ig-ry
+Most recent file: SCRY_NEW-004.txt
+SCRY_NEW-004.txt is already downloaded
 -------- ilqp
 Most recent file: QSOP_IL-2026-001.txt
 QSOP_IL-2026-001.txt is already downloaded
@@ -136,13 +146,19 @@ QSOP_IL-2026-001.txt is already downloaded
 Most recent file: QSOP_IN7QPNE_DE-2026-006.txt
 QSOP_IN7QPNE_DE-2026-006.txt is already downloaded
 -------- iota
+Most recent file: IOTA_2026-017.txt
+IOTA_2026-017.txt is already downloaded
 -------- jarlwwrtty
+Most recent file: JARLWWRTTY_2026-001.txt
+JARLWWRTTY_2026-001.txt is already downloaded
 -------- jidxc
 No file matching 'JIDX-CW' found
 -------- k1usn
 Most recent file: K1USNSST-063.txt
 K1USNSST-063.txt is already downloaded
 -------- kcj
+Most recent file: KCJ-2025-001.txt
+KCJ-2025-001.txt is already downloaded
 -------- kj
 -------- ksqp
 Most recent file: QSOP_KS-2026-005.txt
@@ -151,7 +167,6 @@ QSOP_KS-2026-005.txt is already downloaded
 Most recent file: QSOP_KY-2026-006.txt
 QSOP_KY-2026-006.txt is already downloaded
 -------- labredx
-cat: dbfile.txt: No such file or directory
 No file matching 'LABRE-DX' found
 -------- laqp
 Most recent file: QSOP_LA-2026-002.txt
@@ -180,6 +195,8 @@ QSOP_MS-2026-002.txt is already downloaded
 -------- mtqp
 No file matching 'QSOP_MT' found
 -------- names
+Most recent file: Names_VE2FK-086.txt
+Names_VE2FK-086.txt is already downloaded
 -------- naqp
 No file matching 'NAQP' found
 -------- naval
@@ -223,11 +240,17 @@ QSOP_OK-2026-002.txt is already downloaded
 Most recent file: QSOP_ON-2026-003.txt
 QSOP_ON-2026-003.txt is already downloaded
 -------- pabeker
+Most recent file: PABEKERCW.txt
+PABEKERCW.txt is already downloaded
 -------- pacc
+Most recent file: PACC-2026-006.txt
+PACC-2026-006.txt is already downloaded
 -------- paqp
 Most recent file: QSOP_PA-2025-003.txt
 QSOP_PA-2025-003.txt is already downloaded
 -------- pcc
+Most recent file: PCC_NM-2025-002.txt
+PCC_NM-2025-002.txt is already downloaded
 -------- podxs
 -------- polar-radioman
 -------- qcqp
@@ -236,17 +259,28 @@ QSOP_QC-2026-011.txt is already downloaded
 -------- r4c-cup
 -------- r4w-champ
 -------- radioylom
+Most recent file: RUSYLOM-002.txt
+RUSYLOM-002.txt is already downloaded
 -------- raem
+Most recent file: RAEM_2026.txt
+RAEM_2026.txt is already downloaded
 -------- rcc
 -------- rcpw
 -------- rcwc
+No file matching 'RCWC' found
 -------- rdac
 Most recent file: RDAC_2026-001.txt
 RDAC_2026-001.txt is already downloaded
 -------- rdxc
+Most recent file: RussianDX-2026.txt
+RussianDX-2026.txt is already downloaded
 -------- ref
+Most recent file: REFCW.txt
+REFCW.txt is already downloaded
 -------- rybnickie
 -------- sacw
+Most recent file: SACW-008.txt
+SACW-008.txt is already downloaded
 -------- scqp
 Most recent file: QSOP_SC-2026-002.txt
 QSOP_SC-2026-002.txt is already downloaded
@@ -255,30 +289,50 @@ QSOP_SC-2026-002.txt is already downloaded
 Most recent file: QSOP_SD-2026-001.txt
 QSOP_SD-2026-001.txt is already downloaded
 -------- spdx
+Most recent file: SPDXcwssb_26_KP.txt
+SPDXcwssb_26_KP.txt is already downloaded
 -------- spdxrtty
 -------- spotc
 -------- ssa-mt
 -------- stewperry
 No file matching 'STEW-PERRY' found
 -------- tenten
+Most recent file: 1010RTTY-021.txt
+1010RTTY-021.txt is already downloaded
 -------- thirteencolonies
+Most recent file: 13COLONIES-001.txt
+13COLONIES-001.txt is already downloaded
 -------- tnqp
 Most recent file: QSOP_TN-2026-007.txt
 QSOP_TN-2026-007.txt is already downloaded
 -------- tpqso
 -------- trc
+Most recent file: TRCDX_new.txt
+TRCDX_new.txt is already downloaded
 -------- txqp
 Most recent file: QSOP_TX-2026-005.txt
 QSOP_TX-2026-005.txt is already downloaded
 -------- ua1dz
+Most recent file: DZCUP_new.txt
+DZCUP_new.txt is already downloaded
 -------- ua2qp
+Most recent file: UA2QP_2026.txt
+UA2QP_2026.txt is already downloaded
 -------- uba-dx-on-spring
 -------- uft
 -------- ukeicc
+Most recent file: UKEI80_VHF-new.txt
+UKEI80_VHF-new.txt is already downloaded
 -------- ukeidx
+Most recent file: UKEIDXCW.txt
+UKEIDXCW.txt is already downloaded
 -------- undxc
+Most recent file: UNDXC_2026.txt
+UNDXC_2026.txt is already downloaded
 -------- uqrqc
 -------- urcdxrtty
+Most recent file: URC-DX-RY_2027.txt
+URC-DX-RY_2027.txt is already downloaded
 -------- urdxc
 -------- vaqp
 Most recent file: QSOP_VA-2026-004.txt
@@ -300,14 +354,25 @@ WFD_2026-005.txt is already downloaded
 Most recent file: QSOP_WI-2026-006.txt
 QSOP_WI-2026-006.txt is already downloaded
 -------- wrt
+Most recent file: WRT-074.txt
+WRT-074.txt is already downloaded
 -------- wtzc
 -------- wvqp
 Most recent file: QSOP_WV-2026-002.txt
 QSOP_WV-2026-002.txt is already downloaded
 -------- wwff
 -------- wwpmc
+Most recent file: WWPMC_2024.txt
+WWPMC_2024.txt is already downloaded
 -------- xertty
+curl: (3) URL rejected: Malformed input to a URL function
 -------- yodx
+Most recent file: YOHFDX_2026_KP.txt
+YOHFDX_2026_KP.txt is already downloaded
 -------- yota
+Most recent file: YOTA_2026-001.txt
+YOTA_2026-001.txt is already downloaded
 -------- yu
 -------- yudxc
+./alln1mm.sh: line 10: syntax error near unexpected token `done'
+./alln1mm.sh: line 10: `done'
