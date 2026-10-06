@@ -1,7 +1,7 @@
-# JIDX Contest prefill database
 # Based on data maintained by Claude VE2FK
+# JIDX Contest prefill database
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-04-12
+# Last updated 2026-10-06
 7J1ABD/1=11
 7J1ABD=10
 7J1ANH/1=10

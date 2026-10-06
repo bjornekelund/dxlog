@@ -1,7 +1,7 @@
 # NRAU Baltic Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-01-13
+# Last updated 2026-10-06
 5P2DX=NJ
 7S3A=VN
 7S5Q=SO

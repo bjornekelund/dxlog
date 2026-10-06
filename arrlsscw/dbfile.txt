@@ -1,1 +1,1 @@
-ARRL_SS_CW.txt
+ARRL_SS_CW_db.txt

@@ -1,9 +1,8 @@
 # North American QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
+# Last updated 2026-10-06
 # Longest name is "ALEXANDER" with 9 characters
-# Last updated 2026-10-01
-4U1WB=MASA;DC
 6Y5PW=PATRICK;
 7L3PXO=MASA;
 8P5A=TOM;8P
@@ -1910,7 +1909,6 @@ KP3W=JOSE;
 KP4/K7RB=DICK;
 KP4/NN6U=JOHN;
 KP4AA=KEN;
-KP4EOP=JAY;MO
 KP4JFR=JOSE;
 KP4JRS=JOSE;KP4
 KP4MCQ=MARIANO;
@@ -2828,7 +2826,6 @@ NO8RF=JAMES;MI
 NP2R/4=MIKE;
 NP3A=ERIC;KP4
 NP3F=RAFAEL;
-NP3K=ABE;FL
 NP3KW=MANNY;
 NP3Y=PAUL;
 NQ2U=MATT;NY
@@ -4641,7 +4638,6 @@ WO7U=JIM;MO
 WO9B=MIKE;WI
 WP3C=AL;
 WP3Z=MANU;
-WP4OUE=ELLIE;FL
 WP4TZ=MANU;KP4
 WP4Z=MANU;
 WQ0RVO=MAX;FL

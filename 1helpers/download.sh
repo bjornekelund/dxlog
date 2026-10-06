@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+NAMEFILE=n1mmlatest.txt
 
 set -euo pipefail
 
@@ -82,6 +83,7 @@ fi
 filename=${action##*/}
 
 echo "Most recent file: $filename"
+echo "$filename" > $NAMEFILE
 
 # Don't download if the most recent file already exists
 if [[ -f "$filename" ]]; then
