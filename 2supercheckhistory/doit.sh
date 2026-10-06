@@ -7,7 +7,8 @@ ALL="[A-Z0-9]*"
 
 for contest in $ALL; do
   echo ---
-  ./supercheckhistory.sh $contest
+  # ./supercheckhistory.sh $contest
+  ./makefile.sh $contest
 done
 
 exit

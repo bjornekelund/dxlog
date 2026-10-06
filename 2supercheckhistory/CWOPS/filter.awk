@@ -200,8 +200,8 @@ BEGIN {
   }
 }
 END {
-  printf("#04 Contains members up to #%d\n", max);
+  printf("#04 Longest name is \"%s\" with %d characters\n", longest, length(longest));
+  printf("#05 Contains members up to #%d\n", max);
   printf("Highest member number is %d\n", max) > "/dev/stderr";
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
-  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }
