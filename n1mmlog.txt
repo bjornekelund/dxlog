@@ -8,6 +8,8 @@ QSOP_AC-2026-005.txt is already downloaded
 -------- agcw
 -------- agcwntcqp
 -------- allasian
+Most recent file: ALLASIACW_2026-002.txt
+ALLASIACW_2026-002.txt is already downloaded
 -------- alqp
 Most recent file: QSOP_AL-2026-002.txt
 QSOP_AL-2026-002.txt is already downloaded
@@ -25,19 +27,31 @@ ARRL10M_2026-003.txt is already downloaded
 Most recent file: ARRL160-2025-008.txt
 ARRL160-2025-008.txt is already downloaded
 -------- arrldx
+./n1mm.sh: line 3: cd: arrldx: No such file or directory
 -------- arrlfd
 Most recent file: FD_2026-LAST.txt
 FD_2026-LAST.txt is already downloaded
 -------- arrlrr
+Most recent file: RRCW.txt
+RRCW.txt is already downloaded
 -------- arrlrtty
+Most recent file: ARRLRTTY_2027-002.txt
+ARRLRTTY_2027-002.txt is already downloaded
 -------- arrlscr
+Most recent file: ARRL-SCR-003.txt
+ARRL-SCR-003.txt is already downloaded
 -------- arrlss
+./n1mm.sh: line 3: cd: arrlss: No such file or directory
 -------- arrlvhf
+Most recent file: ARRLVHFSEP.txt
+ARRLVHFSEP.txt is already downloaded
 -------- aschamp
 -------- azqp
 Most recent file: QSOP_AZ-2026-001.txt
 QSOP_AZ-2026-001.txt is already downloaded
 -------- bandebasse
+Most recent file: BB_ITALIA-001.txt
+BB_ITALIA-001.txt is already downloaded
 -------- bccqp
 -------- bcqp
 Most recent file: QSOP_BC-NEW-002.txt
@@ -46,6 +60,8 @@ QSOP_BC-NEW-002.txt is already downloaded
 Most recent file: QSOP_CA-2026-003.txt
 QSOP_CA-2026-003.txt is already downloaded
 -------- commonwealth
+Most recent file: RSGBBERU_2026-014.txt
+RSGBBERU_2026-014.txt is already downloaded
 -------- coqp
 Most recent file: QSOP_CO-2026-007.txt
 QSOP_CO-2026-007.txt is already downloaded
@@ -53,6 +69,8 @@ QSOP_CO-2026-007.txt is already downloaded
 Most recent file: QSOP_CP-2026-001.txt
 QSOP_CP-2026-001.txt is already downloaded
 -------- cq160
+Most recent file: CQ160CW-005.txt
+CQ160CW-005.txt is already downloaded
 -------- cqmm
 -------- cqvojvodina
 -------- cqww
@@ -60,6 +78,8 @@ QSOP_CP-2026-001.txt is already downloaded
 Most recent file: CQWWRTTY_2026-004.txt
 CQWWRTTY_2026-004.txt is already downloaded
 -------- croatiandx
+Most recent file: 9ADX_2025.txt
+9ADX_2025.txt is already downloaded
 -------- cvadx
 Most recent file: CVADXCW-001.txt
 CVADXCW-001.txt is already downloaded
@@ -68,6 +88,8 @@ Most recent file: CWOPS_4000.txt
 CWOPS_4000.txt is already downloaded
 -------- dig
 -------- dok
+Most recent file: WAG.txt
+WAG.txt is already downloaded
 -------- ea
 -------- eacme
 -------- eudxc
@@ -109,16 +131,7 @@ QSOP_ID-2025-002.txt is already downloaded
 -------- ig-ry
 -------- ilqp
 Most recent file: QSOP_IL-2026-001.txt
-Downloading QSOP_IL-2026-001.txt
-Downloaded QSOP_IL-2026-001.txt
-Parsing QSOP_IL.txt
-"!!Order!!,Call,Exch1,UserText" --> call=1 state=2
-Irregular VE call VE1AFY with exchange NB
-Irregular VE call VE9EZ with exchange NS
-Ignored: "VO1AW,NF,"
-Ignored: "VO1GO,NF,"
-Ignored: "VO1NE,NF,"
-Created ILQP_db.txt
+QSOP_IL-2026-001.txt is already downloaded
 -------- in7qpnede
 Most recent file: QSOP_IN7QPNE_DE-2026-006.txt
 QSOP_IN7QPNE_DE-2026-006.txt is already downloaded
@@ -276,10 +289,13 @@ QSOP_VA-2026-004.txt is already downloaded
 -------- vtqp
 No file matching 'QSOP_VT' found
 -------- wapc
+No file matching 'WAPC_HISTORY' found
 -------- waqp
 Most recent file: QSOP_WA-2025-002.txt
 QSOP_WA-2025-002.txt is already downloaded
 -------- wfd
+Most recent file: WFD_2026-005.txt
+WFD_2026-005.txt is already downloaded
 -------- wiqp
 Most recent file: QSOP_WI-2026-006.txt
 QSOP_WI-2026-006.txt is already downloaded

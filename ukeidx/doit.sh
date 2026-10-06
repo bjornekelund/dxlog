@@ -6,7 +6,7 @@ if ../1helpers/download.sh UKEIDXCW || [ -n "$1" ]; then
     echo Parsing $INFILE
     dos2unix -q $INFILE
 
-    gawk -f ukeidx.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk -f filter.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE $INFILE
     echo Created $OUTFILE

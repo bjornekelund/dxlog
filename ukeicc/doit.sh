@@ -8,7 +8,7 @@ if ../1helpers/download.sh UKEI80_VHF || [ -n "$1" ]; then
     dos2unix -q $INFILE1 $INFILE2
 
     # Parse newer file first to have precedence
-    cat "$INFILE2" $INFILE1 | gawk -f ukeicc.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+    cat "$INFILE2" $INFILE1 | gawk -f filter.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo Created $OUTFILE
