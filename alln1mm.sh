@@ -6,3 +6,4 @@ for contest in $ALL; do
   echo -------- $contest
   ./n1mm.sh $contest
 done
+exit 0
