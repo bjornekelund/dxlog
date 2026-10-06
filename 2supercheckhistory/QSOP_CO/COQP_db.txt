@@ -1,6 +1,6 @@
 # Colorado QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AJ=MN
 AA0AO=MN
 AA0AW=MN
@@ -1225,6 +1225,7 @@ KR2Q=NJ
 KR4AE=GA
 KR4BDR=GA
 KR4CTF=SC
+KR4DSH=NC
 KR4FQG=AL
 KR4GVG=FL
 KR4HIE=AL

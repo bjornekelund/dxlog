@@ -1,8 +1,6 @@
 #!/bin/bash
 BEGIN {
   printf("#00 ICWS Medium Speed Test prefill database\n");
-  printf("#01 Based on data from https://supercheckhistory.com/\n");
-  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
   longest = "";
 }

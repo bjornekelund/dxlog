@@ -1,7 +1,5 @@
 BEGIN {
   printf("#01 JIDX Contest prefill database\n");
-  printf("#01 Based on data from https://supercheckhistory.com/\n");
-  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
 }
 {

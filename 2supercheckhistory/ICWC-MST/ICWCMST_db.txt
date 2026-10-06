@@ -1,6 +1,6 @@
 # ICWS Medium Speed Test prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 # Longest name is "DARRELL" with 7 characters
 4X6GP=VIC
 9A1AA=IVO
@@ -537,6 +537,7 @@ KM4FO=DWIGHT
 KM4JEG=BOB
 KM4ZZ=CHARLIE
 KM5G=CHUCK
+KM7AZ=MARC
 KN1MT=TYLER
 KN2D=KEN
 KN3A=SCOTT

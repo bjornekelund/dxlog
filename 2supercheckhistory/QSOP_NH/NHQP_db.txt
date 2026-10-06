@@ -1,7 +1,9 @@
 # New Hampshire QSO Party prefill database
 # Based data maintained by Claude VE2FK
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-06
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AW=MN
 AA0FO=KS
 AA0Y=AZ
@@ -600,6 +602,7 @@ KE2CRB=NY
 KE2CYV=NY
 KE2D=NJ
 KE2FDA=NY
+KE2NJ=NJ
 KE2R=NJ
 KE3FG=PA
 KE3LA=PA
@@ -664,6 +667,7 @@ KF3G=PA
 KF4TA=GA
 KF4TY=TN
 KF5MU=KY
+KF5O=TX
 KF5OMH=TX
 KF5RHI=TX
 KF5VDX=TX

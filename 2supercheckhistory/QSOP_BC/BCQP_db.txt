@@ -1,6 +1,6 @@
 # British Columbia QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AJ=MN
 AA0AO=MN
 AA0AW=MN
@@ -1455,6 +1455,7 @@ KF0RLZ=IA
 KF0SIG=MN
 KF0SKV=NE
 KF0UWE=NE
+KF0VSP=IA
 KF2YS=NY
 KF3AR=PA
 KF3C=PA
@@ -2881,6 +2882,7 @@ W1JQ=CT
 W1JZX=MA
 W1LJD=NH
 W1LQD=CA
+W1MPC=FL
 W1MRC=SC
 W1NN=OH
 W1NRG=CT

@@ -1,6 +1,6 @@
 # Vermont QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AO=
 AA0AW=
 AA0BY=
@@ -455,6 +455,7 @@ K5CCW=
 K5CM=
 K5DNL=
 K5EK=
+K5EW=
 K5GY=
 K5IS=
 K5IX=

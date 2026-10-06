@@ -1,7 +1,9 @@
 # Texas QSO Party prefill database
+# Based on data from https://supercheckhistory.com/
 # Data collected by NO5W and maintained by Claude VE2FK
+# Last updated 2026-10-06
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AJ=MN
 AA0AO=MN
 AA0AW=MN
@@ -353,6 +355,7 @@ K0TC=MN
 K0THN=KS
 K0TQ=IN
 K0TRL=KS
+K0TT=MN
 K0TV=NH
 K0UKZ=IA
 K0UM=AZ
@@ -468,6 +471,7 @@ K2BMI=ME
 K2CAF=FL
 K2CBI=NY
 K2CMT=FL
+K2CRV=NY
 K2CVY=NY
 K2DBK=NJ
 K2DD=NJ
@@ -847,6 +851,7 @@ K6PUD=CA
 K6QCB=CA
 K6RB=CA
 K6RC=CA
+K6RCW=DENT
 K6RM=NC
 K6RWM=CA
 K6TOR=CA
@@ -952,6 +957,7 @@ K8AO=MI
 K8AXX=OH
 K8BB=MI
 K8BF=OH
+K8BSR=OH
 K8BTU=OH
 K8BYP=TN
 K8BZ=MI
@@ -2107,6 +2113,7 @@ KQ4NXR=NC
 KQ4OSG=GA
 KQ4OXK=SC
 KQ4R=FL
+KQ4RKQ=VA
 KQ4SCT=VA
 KQ4SMI=TN
 KQ4SNE=FL
@@ -2935,6 +2942,7 @@ ND0TS=ND
 ND3D=MD
 ND3L=PA
 ND3R=PA
+ND4K=GA
 ND4Y=KY
 ND9M=FL
 NE1Y=FL

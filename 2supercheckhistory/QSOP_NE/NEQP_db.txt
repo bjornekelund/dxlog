@@ -1,6 +1,6 @@
 # Nevada QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AW=MN
 AA0CL=MO
 AA0FO=KS
@@ -299,6 +299,7 @@ K2UA=NY
 K2WPM=VA
 K2YG=NJ
 K2YY=NJ
+K3ATA=MD
 K3AXR=MD
 K3CAR=PA
 K3COV=DE
@@ -428,6 +429,7 @@ K5AX=TX
 K5CCW=TX
 K5CLB=TX
 K5CM=OK
+K5EW=LA
 K5FNE=TX
 K5GQ=TX
 K5IX=TX
@@ -1810,6 +1812,7 @@ W1KDA=RI
 W1KM=MA
 W1MA=MA
 W1MK=MA
+W1MPC=FL
 W1MX=MA
 W1ND=NH
 W1NG=CT

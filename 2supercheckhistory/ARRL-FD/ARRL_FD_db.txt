@@ -1,6 +1,6 @@
 # ARRL Field Day prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 2E0FHM=1D;DX
 4U1WB=;MDC
 4X6GP=1D;DX

@@ -1,7 +1,8 @@
 # Spanish provinces prefill database
 # Based on data from https://supercheckhistory.com/
 # Includes special exchange HQ
-# Last updated 2026-10-04
+# Last updated 2026-10-06
+# Last updated 2026-10-06
 EA1AAA=LU
 EA1AAP=LO
 EA1ACP=SO

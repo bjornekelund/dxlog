@@ -1,6 +1,6 @@
 # HA DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 HA0BR=HB
 HA0BY=PE
 HA0DR=HB

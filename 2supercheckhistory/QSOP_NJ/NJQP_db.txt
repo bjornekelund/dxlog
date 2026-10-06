@@ -1,7 +1,9 @@
 # New Jersey QSO Party prefill database
 # Based data maintained by Claude VE2FK
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-06
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-04
+# Last updated 2026-10-06
 AA0AJ=MN
 AA0AO=MN
 AA0AW=MN
@@ -537,6 +539,7 @@ K7RL=WA
 K7RLD=WA
 K7SEN=AZ
 K7SHR=WY
+K7SOX=ID
 K7SS=WA
 K7STO=WA
 K7TM=ID
