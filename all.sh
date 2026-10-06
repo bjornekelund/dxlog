@@ -4,8 +4,9 @@ ALL="a1cwc acqp agb agcw agcwntcqp allasian alqp aoec160 aridx arqp arrl10 arrl1
 DIR=`pwd`
 for contest in $ALL; do
   echo -------- $contest
-  cd $contest
-  # pwd
-  ./doit.sh
-  cd $DIR
+  ./remove_lines.sh $contest
+  # cd $contest
+  # # pwd
+  # ./doit.sh
+  # cd $DIR
 done

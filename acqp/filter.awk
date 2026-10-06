@@ -1,0 +1,38 @@
+BEGIN {
+  printf("#00 Atlantic Canada QSO Party prefill database\n");
+  FS = ",";
+}
+{
+  if ($1 ~ /!!Order!!/)
+  {
+    if ($2 ~ /Call/) call = 1;
+    if ($3 ~ /Call/) call = 2;
+    if ($4 ~ /Call/) call = 3;
+    if ($5 ~ /Call/) call = 4;
+    if ($3 ~ /Exch1/) state = 2;
+    if ($4 ~ /Exch1/) state = 3;
+    if ($5 ~ /Exch1/) state = 4;
+  # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+  }
+  else if (\
+    (IsUScall($call) && \
+      $state ~ /^(AL|AK|AR|AZ|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+    (IsVEcall($call) && \
+      ($state ~ /^(QC|ON|MB|SK|AB|BC|NT|NU|YT)$/) ||\
+      $state ~ /^(NLASJ|NLBMT|NLSCB|NLSGS|NLHCB|NLGFW|NLBTC|NLNDL|NLNSA|NLLGB|NLLNN|PEKGS|PEQNS|PEPRN|NBALB|NBCAR|NBCHA|NBGLO|NBKEN|NBKGS|NBMAD|NBNOR|NBQNS|NBRES|NBSJC|NBSUN|NBVIC|NBWES|NBYOR|NSANP|NSATG|NSCBR|NSCOL|NSCMB|NSDIG|NSGUY|NSHRM|NSHNT|NSINV|NSKGS|NSLUN|NSPIC|NSQNS|NSRIC|NSSHL|NSVIC|NSYAR)(\/(NLASJ|NLBMT|NLSCB|NLSGS|NLHCB|NLGFW|NLBTC|NLNDL|NLNSA|NLLGB|NLLNN|PEKGS|PEQNS|PEPRN|NBALB|NBCAR|NBCHA|NBGLO|NBKEN|NBKGS|NBMAD|NBNOR|NBQNS|NBRES|NBSJC|NBSUN|NBVIC|NBWES|NBYOR|NSANP|NSATG|NSCBR|NSCOL|NSCMB|NSDIG|NSGUY|NSHRM|NSHNT|NSINV|NSKGS|NSLUN|NSPIC|NSQNS|NSRIC|NSSHL|NSVIC|NSYAR))?$/) )
+  {
+    if (lines[$call] != "")
+    {
+      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else if (NotPredictableVE13($call, $state))
+    {
+      printf("%s=%s\n", $call, $state);
+      lines[$call] = $0;
+    }
+  }
+  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call))
+  {
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+  }
+}
