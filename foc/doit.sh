@@ -18,7 +18,7 @@ else
   else
     mv $DOWNLOAD $XDTFILE
     echo Downloaded $XDTFILE
-    cp $XDTFILE ../xdt
+    cp $XDTFILE ../3xdt
   fi
 fi
 

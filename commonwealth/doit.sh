@@ -17,7 +17,7 @@ if ../1helpers/download.sh RSGBBERU || [ -n "$1" ]; then
     gawk -f xdt.awk $INFILE | sed 's/  / /g' | sort > $XDTFILE
 
     unix2dos -q $XDTFILE $INFILE
-    cp $XDTFILE ../xdt
+    cp $XDTFILE ../3xdt
     echo Created $XDTFILE
 fi
 exit

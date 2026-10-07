@@ -20,6 +20,6 @@ if ../1helpers/download.sh IOTA || [ -n "$1" ]; then
     unix2dos -q $XDTFILE $INFILE
     echo Created $XDTFILE
 
-    cp $XDTFILE ../xdt
+    cp $XDTFILE ../3xdt
 fi
 exit

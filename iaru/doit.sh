@@ -40,8 +40,8 @@ BEGIN {
 
 unix2dos -q $OUTFILE
 cp $FOLDER/$XDTFILE .
-rm -f ../xdt/iaru*.xdt
-cp $FOLDER/$XDTFILE ../xdt
+rm -f ../3xdt/iaru*.xdt
+cp $FOLDER/$XDTFILE ../3xdt
 
 echo Created $OUTFILE $XDTFILE
 

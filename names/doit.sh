@@ -12,7 +12,7 @@ if ../1helpers/download.sh Names_VE2FK || [ -n "$1" ]; then
     unix2dos -q $OUTFILEXDT
     echo Created $OUTFILEXDT
 
-    cp $OUTFILEXDT ../xdt
+    cp $OUTFILEXDT ../3xdt
 
     echo Parsing $INFILE
 

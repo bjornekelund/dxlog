@@ -17,7 +17,7 @@ if ../1helpers/download.sh CWOPS || [ -n "$1" ]; then
     echo Created $XDTFILE
     unix2dos -q $XDTFILE $INFILE
 
-    cp $XDTFILE ../xdt
+    cp $XDTFILE ../3xdt
 
     ../copytosourcetree.sh $DBFILE
 

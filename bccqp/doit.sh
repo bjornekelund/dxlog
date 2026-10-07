@@ -58,7 +58,7 @@ else
     echo Downloaded $XDTFILE
     iconv -f ISO-8859-1 -t UTF-8 $XDTFILE -o $XDTFILE
     unix2dos -q $XDTFILE
-    cp $XDTFILE ../xdt
+    cp $XDTFILE ../3xdt
     echo Created $XDTFILE
 fi
 
