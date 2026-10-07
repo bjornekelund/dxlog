@@ -1,7 +1,7 @@
 # Montana QSO Party prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-06
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-10-07
+4U1WB=DC
 AA0AI=IA
 AA0AJ=MN
 AA0AO=MN
@@ -4912,6 +4912,7 @@ KE2I=NY
 KE2IFC=NY
 KE2L=NJ
 KE2MT=NJ
+KE2NJ=NJ
 KE2R=NJ
 KE2RA=NY
 KE2SD=NY
@@ -6483,6 +6484,8 @@ KO7X=WY
 KO8SCA=NY
 KO8V=VA
 KO9V=CO
+KP3U=SC
+KP4EOP=MO
 KQ0C=CO
 KQ0J=FL
 KQ1A=ME
@@ -9548,6 +9551,9 @@ NO8C=OH
 NO8J=OH
 NO9C=WI
 NO9E=GA
+NP2GG=CT
+NP3K=FL
+NP4IW=CA
 NQ0M=KS
 NQ1B=VT
 NQ1C=MA
@@ -10157,6 +10163,7 @@ W1MI=MA
 W1MJ=MA
 W1MJC=MI
 W1MK=MA
+W1MPC=FL
 W1MRC=SC
 W1MVY=CA
 W1MX=MA
@@ -13115,6 +13122,7 @@ WO9G=IN
 WO9I=IL
 WO9S=IL
 WO9Z=IN
+WP4OUE=FL
 WQ0A=KS
 WQ0RVO=FL
 WQ0X=IN

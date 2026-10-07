@@ -1,1 +1,0 @@
-NCQP_db.txt

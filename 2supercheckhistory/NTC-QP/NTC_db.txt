@@ -1,5 +1,0 @@
-# Netherlands Telegraphy Club QSO Party prefill database
-# Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-06
-# Longest name is "" with 0 characters
-# Contains members up to #0

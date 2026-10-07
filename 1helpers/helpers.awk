@@ -18,7 +18,7 @@ function IsVEcall(call)
   }
 }
 
-function IsCONUSPcall(call)
+function IsCONUScall(call)
 {
   if (call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|^4U1WB$|\/(W[0-9]|KL7|KH6)$/ && \
       call !~ /\/V[EOY][0-9]$/ && \

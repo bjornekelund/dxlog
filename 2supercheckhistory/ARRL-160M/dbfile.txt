@@ -1,1 +1,0 @@
-ARRL_160M_db.txt

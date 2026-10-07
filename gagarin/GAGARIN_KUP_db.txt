@@ -1,40 +1,35 @@
 # Yuri Gagarin International DX Contest prefill database
-# Based on data maintained by Claude VE2FK
-# Report updates and corrections directly to ve2fk@arrl.net
+# Based on data from https://supercheckhistory.com/
 # Last updated 2026-10-07
+R108M=RG
 R2VA=PC
-R3HP=CG
+R3LA=RG
 R5AG=AL
 R8IZ=PL
 R8TT=AU
-R9FL=PM
 R9MM=SP
 R9YU=AT
 RA9A=ZM
-RC3X=LA
+RC3XC=LA
 RD0A=RV
 RD1T=RA
 RD4A=TB
 RF9C=AM
 RG2X=RK
-RK3LWA=RG
-RK3PWA=BZ
+RJ1O=KP
 RK5K=HA
 RN0JT=KV
 RN4K=PG
-RO3M=YR
-RS0ISS=SS
 RT2C=CU
 RT3F=CP
 RT4D=MP
 RT4F=FI
 RW0A=SA
 RW1A=PR
-U4MIR=CV
+RW9A=SA
 UA1OLM=KP
-UA2FZ=FA
 UA4WW=VZ
 UA5L=YG
-UA6M=IR
 UA8A=MK
+UA9A=MK
 UA9W=SZ

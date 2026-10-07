@@ -37,7 +37,7 @@ BEGIN {
       printf("Problem name: \"%s\"\n", $0) > "/dev/stderr";
       bad = 1;
     }
-    else if (IsUScall($call))
+    else if (IsCONUScall($call))
     {
       if ($ex !~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|ND|NE|NV|NH|NJ|NM|NY|NC|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|)$/)
       {
@@ -62,9 +62,9 @@ BEGIN {
         bad = 1;
       }
     }
-    else if ($ex !~ /^DX$/)
+    else if ($ex !~ /^DX$/ && $ex != "")
     {
-        printf("Exchange should be DX: \"%s\"\n", $0) > "/dev/stderr";
+        # printf("Exchange should be DX: \"%s\"\n", $0) > "/dev/stderr";
         bad = 1;
     }
     if (!bad)
