@@ -14,7 +14,7 @@ BEGIN {
     if ($5 ~ /Exch1/) col = 4;
     # printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
-  else if ($call ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $call !~ /\/V[EOY][0-9]$/)
+  else if (IsUScall($call))
   {
     if (lines[$call] != "")
     {
@@ -30,7 +30,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($call ~ /^(V[A-EOXY]|C[F-KY])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$/)
+  else if (IsVEcall($call))
   {
     if (lines[$call] != "")
     {

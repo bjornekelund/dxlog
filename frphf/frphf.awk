@@ -1,5 +1,9 @@
 BEGIN {
   printf("#00 Farroupilha Contest prefill database\n");
+  printf("#01 Contains only calls not covered by rule-based prefill\n");
+  printf("#02 Based on data maintained by Claude VE2FK\n");
+  printf("#03 Report updates and corrections directly to ve2fk@arrl.net\n");
+  printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
   call = 1;
   exch = 2;

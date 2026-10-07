@@ -15,8 +15,8 @@ BEGIN {
   # printf\("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
   if ( \
-    ($call ~ /^(A[A-L]|[KNW][A-Z]?|4U)[0-9]|\/W[0-9]$/ && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-    ($call ~ /^(V[A-EOY]|C[FGJ]|X[LM])[0-9]|\/V[EOY][0-9]$/ && $col ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
+    (IsUScall($call) && $col ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+    (IsVEcall($call) && $col ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/) )
   {
     if (lines[$call] != "")
     {
@@ -28,7 +28,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/ && $col != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

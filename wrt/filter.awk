@@ -46,7 +46,7 @@ BEGIN {
       }
       else if ($call ~ /^V[A-GOXY]|\/V[EOY][0-9]$/)
       {
-        if ($call ~ /^V[A-GOXY][0-9]([A-Z]+(\/[MP])?$|\/)|\/V[EOY][0-9]$/ && $exch ~ /^(AB|BC|MB|NB|NL|NT|NS|NU|ON|PE|QC|SK|YT)$/)
+        if (IsVEcall($call) && $exch ~ /^(AB|BC|MB|NB|NL|NT|NS|NU|ON|PE|QC|SK|YT)$/)
         {
           printf("%s=%s;%s\n", $call, name, "");
           longest = length(name) > length(longest) ? name : longest;

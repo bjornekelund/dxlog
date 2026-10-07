@@ -31,7 +31,7 @@ BEGIN {
     }
   }
   # else if ($0 !~ /^(!|#|$)/ && IsUScall($call) && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|MA|ME|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/)
-  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call))
+  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

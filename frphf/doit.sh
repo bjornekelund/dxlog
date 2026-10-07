@@ -6,7 +6,7 @@ if ../1helpers/download.sh FRPHF || [ -n "$1" ]; then
     echo Parsing $INFILE
     dos2unix -q $INFILE
 
-    cat $INFILE | gawk -f filter.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
+    cat $INFILE | gawk -f frphf.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     echo Created $OUTFILE
     unix2dos -q $OUTFILE

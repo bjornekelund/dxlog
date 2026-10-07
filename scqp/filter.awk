@@ -26,11 +26,11 @@ BEGIN {
     }
     else if (NotPredictableVE13($call, $state))
     {
-      printf("%s=%s\n", $call, $3);
+      printf("%s=%s\n", $call, $state);
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $3 != "")
+  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
