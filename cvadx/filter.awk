@@ -1,6 +1,7 @@
 BEGIN {
   printf("#00 CVA DX Contest prefill database\n");
-  FS = ",";
+  printf("#04 Contains only calls not handled by rule-based prefill\n");
+FS = ",";
 }
 {
   if ($1 ~ /!!Order!!/)

@@ -20,7 +20,7 @@ BEGIN {
     else
     {
       if ($col ~ /^[1-9]$/) $col = "0" $col;
-      printf("%s,%d\n", $1, $col);
+      printf("%s=%d\n", $1, $col);
     }
   }
   else if ($0 !~ /^(!|#|$)/)

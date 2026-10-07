@@ -18,11 +18,24 @@ function IsVEcall(call)
   }
 }
 
-function IsUScall(call)
+function IsCONUSPcall(call)
 {
-  if (call ~ /^(A[A-L]|[KNW][A-z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|^4U1WB$|\/(W[0-9]|KL7|KH6)$/ && \
+  if (call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|^4U1WB$|\/(W[0-9]|KL7|KH6)$/ && \
       call !~ /\/V[EOY][0-9]$/ && \
       call !~ /^KG4[A-Z]{2}$|^[KNW]P[234][A-Z]{1,3}$/)
+  {
+    return 1;
+  }
+  else
+  {
+    return 0;
+  }
+}
+
+function IsUScall(call)
+{
+  if (call ~ /^(A[A-L]|[KNW][A-Z]?)[0-9](([A-Z]{1,3})(\/([0-9MP]|QRP))?$|\/)|^4U1WB$|\/(W[0-9]|KL7|KH6)$/ && \
+      call !~ /\/V[EOY][0-9]$/)
   {
     return 1;
   }
