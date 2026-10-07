@@ -30,7 +30,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call))
+  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state != "")
   {
     printf("Ignored: \"%s\" Invalid exchange\n", $0) > "/dev/stderr";
   }

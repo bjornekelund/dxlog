@@ -10,14 +10,15 @@ BEGIN {
     if ($2 ~ /Call/) call = 1;
     if ($3 ~ /Call/) call = 2;
     if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1/) state = 2;
-    if ($4 ~ /Exch1/) state = 3;
-    if ($5 ~ /Exch1/) state = 4;
     if ($3 ~ /Name/) name = 2;
     if ($4 ~ /Name/) name = 3;
     if ($5 ~ /Name/) name = 4;
-    # printf("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
+    if ($6 ~ /Name/) name = 5;
+    if ($3 ~ /Exch1/) state = 2;
+    if ($4 ~ /Exch1/) state = 3;
+    if ($5 ~ /Exch1/) state = 4;
+    if ($6 ~ /Exch1/) state = 5;
+    printf("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
   }
   else if ( \
     (IsUScall($call) && \
@@ -27,7 +28,7 @@ BEGIN {
   {
     stateok = 1;
   }
-  if (name = 9) $name = "";
+  if (name == 9) $name = "";
   nameok = $name ~ /^([A-Z][A-Za-z]+|)$/;
   notempty = $name != "" || $state != "";
   if ((stateok && notempty))

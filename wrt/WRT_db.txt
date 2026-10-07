@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "CHRISTOPHER" with 11 characters
-# Last updated 2026-09-20
+# Last updated 2026-10-07
 4M5A=TONY;
 4U1UN=YOSHI;
 4U1WB=MASA;

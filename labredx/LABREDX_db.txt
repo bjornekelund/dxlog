@@ -1,7 +1,7 @@
 # LABRE DX Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-06
+# Last updated 2026-10-07
 PQ4Q=MG
 PQ5A=SC
 PR1T=RJ

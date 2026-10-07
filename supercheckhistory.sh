@@ -40,7 +40,7 @@ sort $TMPFILE1 | uniq > $OUTFILE
 
 dos2unix -q $OUTFILE
 
-if cmp -s $LASTOUTFILE $OUTFILE; then 
+if cmp -s $LASTOUTFILE $OUTFILE && [ -z "$2" ]; then 
     echo "The latest file is already downloaded."
     rm -f $TMPFILE1 $OUTFILE
     exit 0
@@ -67,9 +67,9 @@ else
   mv $OUTFILE $LASTOUTFILE
   rm -f $TMPFILE1 $TMPFILE2
   
-  # if [ -s ../copytosourcetree.sh ]; then
-  #     ../copytosourcetree.sh $DBFILE
-  # fi
+  if [ -s ./copytosourcetree.sh ]; then
+      ./copytosourcetree.sh $DBFILE
+  fi
 fi
 
 exit
