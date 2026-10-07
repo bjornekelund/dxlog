@@ -1,7 +1,5 @@
 BEGIN {
   printf("#00 UK EI CC database with six-position grids\n");
-  printf("#01 Based on data maintained by Tim EI2KA\n");
-  printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
 }
 {

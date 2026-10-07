@@ -1,6 +1,5 @@
 BEGIN {
   printf("#00 Pennsylvania QSO Party database\n");
-  printf("#01 Based on data collected and consolidated by AA3B and K3CT\n");
   FS = ",";
 }
 {

@@ -90,7 +90,7 @@ BEGIN {
 }
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
-  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
+  printf("#04 Longest name is \"%s\" with %d characters\n", longest, length(longest));
   for (c in calls)
   {
     if (name[c] != "")

@@ -17,15 +17,15 @@ if ../../1helpers/download.sh $DLNAME || [ -n "$2" ]; then
 
   cat $INFILE | sed 's/ //g' | gawk -f $HELPERS -f filter.awk > $TMPFILE
 
-  echo "#01 Based on data collected and maintained by Claude VE2FK" >> $TMPFILE
-  echo "#02 Report updates and corrections directly to ve2fk@arrl.net" >> $TMPFILE
-  echo "#03 Last updated `date +%F`" >> $TMPFILE
+  echo "#07 Based on data collected and maintained by Claude VE2FK" >> $TMPFILE
+  echo "#08 Report updates and corrections directly to ve2fk@arrl.net" >> $TMPFILE
+  echo "#09 Last updated `date +%F`" >> $TMPFILE
 
   cat $TMPFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
   unix2dos -q $OUTFILE $INFILE
   echo Created $OUTFILE
-  rm -f $TMPFILE
+  # rm -f $TMPFILE
   # ../copytosourcetree.sh $OUTFILE
 fi
 

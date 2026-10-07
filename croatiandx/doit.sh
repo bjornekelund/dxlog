@@ -8,7 +8,7 @@ if ../1helpers/download.sh 9ADX || [ -n "$1" ]; then
     dos2unix -q $INFILE
     echo Parsing $INFILE
 
-    gawk -f 9adx.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
+    gawk -f filter.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo Created $OUTFILE

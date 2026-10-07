@@ -1,7 +1,7 @@
 # ARI DX prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-06
+# Last updated 2026-10-07
 I0GIA=PG
 I0GOJ=RM
 I0MQV=TR

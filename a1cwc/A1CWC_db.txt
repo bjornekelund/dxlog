@@ -1,8 +1,8 @@
 # A1 Club Weekly Contest prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-06
 # Longest name is "GIANFRANCO" with 10 characters
+# Last updated 2026-10-07
 2E0DCW=GERALD
 2E0FPW=JK
 2E0OBO=BOB

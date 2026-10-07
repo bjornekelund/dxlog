@@ -1,7 +1,7 @@
 # CWOps CWT prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-06
+# Last updated 2026-10-07
 # Longest name is "Christian" with 9 characters
 # Contains members up to #4000
 2E0DCW=Gerald;G

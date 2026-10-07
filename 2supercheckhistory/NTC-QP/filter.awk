@@ -42,7 +42,7 @@ BEGIN {
 }
 END {
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
-  printf("#03 Longest name is \"%s\" with %d characters\n", longest, length(longest));
+  printf("#04 Longest name is \"%s\" with %d characters\n", longest, length(longest));
   printf("Contains members up to #%d\n", highest) > "/dev/stderr";
-  printf("#04 Contains members up to #%d\n", highest);
+  printf("#05 Contains members up to #%d\n", highest);
 }

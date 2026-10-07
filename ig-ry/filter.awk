@@ -1,8 +1,5 @@
 BEGIN {
   printf("#00 Prefill database for IG-RY, SCC RTTY and RTTYops WW DX contests\n");
-  printf("#01 Based on data maintained by Claude VE2FK\n");
-  printf("#02 Report errors and updates to ve2fk@arrl.net\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
 }
 {

@@ -1,7 +1,6 @@
 BEGIN {
   printf("#00 Spanish provinces prefill database\n");
-  printf("#02 Includes special exchange HQ\n");
-  printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
+  printf("#04 Includes special exchange HQ\n");
   FS = ",";
 }
 {
