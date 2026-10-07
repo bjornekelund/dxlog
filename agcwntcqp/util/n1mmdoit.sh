@@ -1,122 +1,51 @@
 #!/bin/bash
-AGCWDIR=../agcw
-AGCWDB=Mitglieder.csv
-NTCDIR=../ntc
-SUMFILE=agcwntcqpcsv.txt
-HERE=`pwd`
-OUTFILE=AGCW-NTCQP-XXX.txt
+QPFILE=AGCWNTCQP_db.txt
+N1MMFILE=AGCW-NTCQP-NEW.txt
 
-cd $NTCDIR
-NTCDB=`ls NTC_QP* | tail -1 2> /dev/null`
+echo Parsing $QPFILE
+dos2unix -q $QPFILE
 
-#cd $AGCWDIR
-#./doit.sh
+echo !!Order!!,Call,Name,Exch1,Misc,UserText, > $N1MMFILE
+echo "# AGCW-NTCQP" >> $N1MMFILE
+echo "# If your (on the air) name is wrong, contact PA3HEN" >> $N1MMFILE
+echo "# Send any info, corrections direct to pa3hen@gmail.com" >> $N1MMFILE
+echo "# Use UDC file AGCW-NTCQP by G4OGB" >> $N1MMFILE
 
-cd $HERE
-
-cp $AGCWDIR/$AGCWDB $NTCDIR/$NTCDB .
-dos2unix -q $AGCWDB $NTCDB
-
-echo Parsing $AGCWDB
-
-cat $AGCWDB | gawk 'BEGIN {
-  FS = ";";
-}
+cat $QPFILE | sed 's/[=;]/,/g' | gawk '\
+BEGIN { FS=","; }
 {
-# Format is # AGCW#;VORNAME;RUFZ
-  if ($3 ~ /^[0-9,A-Z\/]+$/ && $1 ~/[0-9]+/)
-    printf("%s,%s,%s\n", $3, $2, "AGCW" $1, $2);
-  else if ($0 !~ /^(#|!|$)/)
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-}
-END {}' > $SUMFILE
-
-echo Done
-
-echo Parsing $NTCDB
-
-cat $NTCDB | gawk '
-BEGIN {
-  FS = ",";
-}
-{
-# Format is # Call,Name,Number
-  if ($1 ~ /^[0-9,A-Z\/]+$/ && $3 ~/^([0-9]+ ?|NM)$/)
-    printf("%s,%s,%s\n", $1, $2, "NTC" $3);
-  else if ($0 !~ /^(#|!|$)/)
-    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
-}
-END {}' >> $SUMFILE
-
-echo Done
-
-echo Merging data
-
-cat $SUMFILE | sed 's/ü/u/g' | sed 's/é/e/g' | sed 's/ö/o/g' | sed 's/á/a/g' | gawk '
-BEGIN {
-  FS = ",";
-  maxlen = 0;
-}
-{
-# Format call,name,memberno,name
-  name = $2;
-  callok = $1 ~ /^[0-9,A-Z,\/]+$/;
-  hyphenated = $2 ~ /^[A-Za-z]{2,10}[\- ][A-Za-z]{2,10}/;
-
-  if (hyphenated)
+  if ($0 ~ /^#/) 
   {
-    p = $2 ~ /\-/ ? index($2, "-") : index($2, " ");
-    name = substr($2, 1, p - 1);
-    printf("Multi-part name: \"%s\" --> \"%s\"\n", $2, name) > "/dev/stderr";
+    if ($0 ~ / AGCW /)
+    {
+        print $0;
+    }
   }
-
-  nameok = name ~ /^([A-Za-z]{2,15})$/;
-
-  if (name ~ /[Cc]lub/)
-    name = "";
-
-  if (callok)
+  else
   {
-    if (nameok)
-    {
-      if (calls[$1] == "")
-      {
-        # First membership
-        calls[$1] = $1;
-        names[$1] = name;
-        mem1[$1] = $3;
-      }
-      else
-      {
-        calls[$1] = $1;
-        if (names[$1] != name)
-        {
-          printf("Name overwrite for %s: \"%s\" --> \"%s\"\n", $1, names[$1], name) > "/dev/stderr";
-        }
-        names[$1] = name;
-        mem2[$1] = $3;   
-      }
-    }
-    else
-    {
-      printf("Problematic name \"%s\" for %s\n", $2, $1) > "/dev/stderr";
-    }
-
+    printf ("%s,%s,%s,%s,%s\n", $1, $2, $3, $4, $5);
   }
-}
-END {
-#  printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
-  printf("!!Order!!,Call,Name,Exch1,Misc,UserText\n")
-  printf("# AGCW-NTC Friendship QSO Party prefill database\n");
-#  printf("# Based on call history data maintained by VE2FK\n");
-#  printf("# Report updates and corrections directly to ve2fk@arrl.net\n");
-  printf("# Last updated %s\n", strftime("%Y-%m-%d"));
+}' >> $N1MMFILE
 
-  for (c in calls)
-    printf("%s,%s,%s,%s\n", calls[c], names[c], mem1[c], mem2[c]);
-}' | sort > $OUTFILE
+exit
 
-echo Created $OUTFILE
+echo Parsing $NTCFILE
+dos2unix -q $NTCFILE
+
+cat $NTCFILE | sed 's/[ \t]*$//' | sed 's/ ;/;/g' | gawk -f ntc.awk > $TEMP2
+
+echo Parsing $QPFILE
+dos2unix -q $QPFILE
+
+cat $QPFILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk -f qp.awk > $TEMP3
+
+echo Creating $OUTFILE
+
+cat $TEMP1 $TEMP2 $TEMP3 | gawk -f newagcwntcqp.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
+
 unix2dos -q $OUTFILE
+echo Done
+
+../copytosourcetree.sh $OUTFILE
 
 exit

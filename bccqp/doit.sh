@@ -9,8 +9,8 @@ curl -sS $URL/$WEBFILE -o $DOWNLOAD
 
 dos2unix -q $DOWNLOAD
 
-if cmp $WEBFILE $DOWNLOAD; then 
-    echo "The latest file is already downloaded."
+if cmp $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+    echo "The latest member file is already downloaded."
     rm $DOWNLOAD
     exit 0
 fi
@@ -46,20 +46,20 @@ if [[ -s $CMD ]]; then
   fi
 fi
 
-WEBFILE=bcc-members.xdt
+XDTFILE=bcc-members.xdt
 
-rm -f $WEBFILE
-curl -sS https://www.bavarian-contest-club.de/data/$WEBFILE -O
+rm -f $XDTFILE
+curl -sS https://www.bavarian-contest-club.de/data/$XDTFILE -O
 
-if [ ! -s $WEBFILE ]; then
+if [ ! -s $XDTFILE ]; then
     echo "ERROR! Download of member roster failed. Aborting."
     exit 1
 else
-    echo Downloaded $WEBFILE
-    iconv -f ISO-8859-1 -t UTF-8 $WEBFILE -o $WEBFILE
-    unix2dos -q $WEBFILE
-    cp $WEBFILE ../xdt
-    echo Created $WEBFILE
+    echo Downloaded $XDTFILE
+    iconv -f ISO-8859-1 -t UTF-8 $XDTFILE -o $XDTFILE
+    unix2dos -q $XDTFILE
+    cp $XDTFILE ../xdt
+    echo Created $XDTFILE
 fi
 
 exit

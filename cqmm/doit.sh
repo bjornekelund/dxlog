@@ -23,7 +23,7 @@ fi
 cp $DOWNLOAD $WEBFILE
 cp $DOWNLOAD $COMBINED
 
-if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
+if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 200 ]; then
     echo "ERROR! Download of member roster failed. Aborting." 
     rm -f $WEBFILE
     exit 1

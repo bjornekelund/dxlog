@@ -12,7 +12,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   unix2dos -q $DOWNLOAD
 
-  if cmp -s $XDTFILE $DOWNLOAD; then 
+  if cmp -s $XDTFILE $DOWNLOAD && [ -z "$1" ]; then 
       echo "The latest xdt file is already downloaded."
       rm -f $DOWNLOAD
   else
@@ -31,7 +31,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   unix2dos -q $DOWNLOAD
 
-  if cmp -s $DBFILE $DOWNLOAD; then 
+  if cmp -s $DBFILE $DOWNLOAD && [ -z "$1" ]; then 
       echo "The latest db file is already downloaded."
       rm $DOWNLOAD
       exit 0

@@ -12,7 +12,7 @@ curl -fsSL --connect-timeout 5 --max-time 20 https://diplom-interessen-gruppe.in
 
 dos2unix -q $DOWNLOAD
 
-if cmp $WEBFILE $DOWNLOAD; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
     echo "The latest file is already downloaded."
     rm $DOWNLOAD
     exit 0

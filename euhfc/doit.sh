@@ -20,7 +20,7 @@ else
     # echo done
     unix2dos -q $OUTFILE
 
-    if cmp -s $OUTFILE $OLDFILE; then 
+    if cmp -s $OUTFILE $OLDFILE && [ -z "$1" ]; then 
         echo "The latest file is already downloaded."
         rm $OUTFILE
         exit 0

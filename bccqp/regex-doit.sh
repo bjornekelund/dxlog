@@ -2,8 +2,9 @@
 URL=https://www.bavarian-contest-club.de/data
 WEBFILE=bcc-members.txt
 OUTFILE=BCC-regex.txt
+DOWNLOAD=.downloaded
 
-rm -f $WEBFILE
+rm -f $DOWNLOAD
 curl -sS $URL/$WEBFILE -O
 
 if [ ! -s $WEBFILE ]; then

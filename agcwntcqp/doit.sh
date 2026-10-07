@@ -37,4 +37,5 @@ if ../1helpers/download.sh AGCW-NTCQP || [ -n "$1" ]; then
     ../copytosourcetree.sh $OUTFILE
 fi
 
+rm -f $TEMP1 $TEMP2 $TEMP3
 exit
