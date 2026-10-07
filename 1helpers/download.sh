@@ -116,6 +116,9 @@ echo "Downloading $filename"
 
 # Download the file
 curl -fsSL \
+    --connect-timeout 10 \
+    --max-time 30 \
+    --retry 3 \
     -d "cmdm_nonce=$nonce" \
     -d "id=$id" \
     "$action" \
