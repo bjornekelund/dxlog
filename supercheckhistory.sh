@@ -13,9 +13,6 @@ if [ ! -s schfile.txt ]; then
 fi
 
 AWKFILE="filter.awk"
-SCHFILE="`cat schfile.txt`"
-LASTOUTFILE="SCH-$SCHFILE.txt"
-DBFILE="`cat dbfile.txt`"
 TMPFILE1=".downloaded"
 TMPFILE2=".tmpoutfile"
 HELPERS="../1helpers/helpers.awk"
@@ -25,39 +22,41 @@ rm -f $OUTFILE
 
 # echo "AWKFILE=$AWKFILE DBFILE=$DBFILE OUTFILE=$OUTFILE"
 
-if [ -s "schfile.txt" ]; then
+if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
+  SCHFILE="`cat schfile.txt`"
+  DBFILE="`cat dbfile.txt`"
   # echo "schfile.txt exists and is not empty"
   URL="https://supercheckhistory.com/downloads/N1MM/$SCHFILE"
   curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE1" || {\
     echo "ERROR! Download of $SCHFILE failed. Aborting." 
-    rm -f $SCHFILE
+    rm -f $TMPFILE1
     cd $DIR
     exit 1
   }
 else
-  echo "schfile.txt is missing or empty"
+  echo "schfile.txt or dbfile.txt is missing or empty"
   cd $DIR
   exit 1 
 fi
 
-sort $TMPFILE1 | uniq > $SCHFILE
+dos2unix -q $TMPFILE1
 
-dos2unix -q $SCHFILE
-
-if cmp -s $LASTOUTFILE $SCHFILE && [ -z "$2" ]; then 
+if cmp -s $SCHFILE $TMPFILE1 && [ -z "$2" ]; then 
     echo "The latest version of $SCHFILE is already downloaded."
-    rm -f $TMPFILE1 $SCHFILE
+    rm -f $TMPFILE1
     cd $DIR
     exit 0
 fi
 
-if [ ! -f $SCHFILE ] || [ $(stat -c%s $SCHFILE 2>/dev/null) -lt 100 ]; then
+if [ ! -f $TMPFILE ] || [ $(stat -c%s $TMPFILE1 2>/dev/null) -lt 100 ]; then
   echo "ERROR! Download of $SCHFILE failed. Aborting." 
+  rm -f $TMPFILE1
   cd $DIR
   exit 1
 else
   echo Downloaded $SCHFILE, parsing...
 
+  mv $TMPFILE1 $SCHFILE
   dos2unix -q $SCHFILE
 
   gawk -f $HELPERS -f $AWKFILE $SCHFILE > $TMPFILE2
@@ -70,7 +69,6 @@ else
   unix2dos -q $DBFILE
   echo Created $DBFILE
 
-  mv $SCHFILE $LASTOUTFILE
   rm -f $TMPFILE1 $TMPFILE2
   
   if [ -s ../copytosourcetree.sh ]; then
