@@ -1,7 +1,7 @@
 # URC DX RTTY prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 2E0BLN=YAH
 2E0CEY=ESE
 2E0OBO=ESE

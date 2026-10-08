@@ -3,7 +3,7 @@
 # Contains members up to AGCW #7295 and NTC #281
 # 9A3XV has the longest name: "ALEKSANDAR" with 10 characters
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 3A2LF=CLAUDE;AGCW2048;
 3A2LV=LIONEC;AGCW2064;
 3A2LW=ALAIN;AGCW2065;

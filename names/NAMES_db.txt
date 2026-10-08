@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Longest name is "ALESSANDRO" with 10 characters
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 2E0DCW=GERALD
 2E0FPW=JK
 2E0GKC=PAUL

@@ -1,4 +1,5 @@
 #!/bin/bash
+#set -x
 DIR=`pwd`
 
 if [ ! -d $1 ]; then
@@ -12,19 +13,22 @@ if [ ! -s n1mmfile.txt ]; then
   cd $DIR
 fi
 
-DLNAME=`cat n1mmfile.txt`
-OUTFILE=`cat dbfile.txt`
+DLNAME=$(cat n1mmfile.txt)
+OUTFILE=$(cat dbfile.txt)
 HELPERS=../1helpers/helpers.awk
 TMPFILE=.rawfile
 
-#set -x
+if [ -s "schfile.txt" ]; then
+  SCHFILE=$(cat schfile.txt)
+else
+  SCHFILE=$DLNAME
+fi
 
-# echo DLNAME=$DLNAME OUTFILE=$OUTFILE 
 if ../1helpers/download.sh $DLNAME || [ -n "$2" ]; then
   # INFILE=`ls $DLNAME* | tail -1 2> /dev/null`
   # echo INFILE=$INFILE
   if [ -s n1mmlatest.txt ]; then
-    INFILE=`cat n1mmlatest.txt`
+    INFILE=$(cat n1mmlatest.txt)
     echo Parsing `basename $INFILE`
     dos2unix -q $INFILE
 
@@ -44,6 +48,12 @@ if ../1helpers/download.sh $DLNAME || [ -n "$2" ]; then
     if [ -n ../copytosourcetree.sh ]; then
       ../copytosourcetree.sh $OUTFILE
     fi
+
+    # DELETE=$(find . -maxdepth 1 -type f -name "${DLNAME}*" ! -name "$SCHFILE" ! -name "$OUTFILE" ! -name "$INFILE")
+    # if [ -n "$DELETE" ]; then
+    #   echo Deleting $DELETE
+    #   rm -f $DELETE
+    # fi
   fi
 fi
 

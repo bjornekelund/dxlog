@@ -1,363 +1,1847 @@
 -------- a1cwc
 Most recent file: A1AWT-021.txt
 A1AWT-021.txt is already downloaded
+Parsing A1AWT-021.txt
+Name length limit set to 10
+Longest name is "GIANFRANCO" with 10 characters
+Created A1CWC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/A1CWC_db.txt
 -------- acqp
 Most recent file: QSOP_AC-2026-005.txt
 QSOP_AC-2026-005.txt is already downloaded
+Parsing QSOP_AC-2026-005.txt
+Created ACQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ACQP_db.txt
 -------- agb
 -------- agcw
 -------- agcwntcqp
+Most recent file: AGCW-NTCQP-010.txt
+AGCW-NTCQP-010.txt is already downloaded
+Parsing AGCW-NTCQP-010.txt
+AGCWNTCQP: Conflict agcw: previous DL1SBF,LOTHAR,NTC137, new AGCW1321 "NTC137"
+AGCWNTCQP: Conflict agcw: previous DM3ZM,Harlad,NTC158, new AGCW3712 "NTC158"
+AGCWNTCQP: Conflict agcw: previous PA3DSB,Paul,NTC162, new AGCW4324 "NTC162"
+AGCWNTCQP: Conflict agcw: previous PY1FOX,Jeferson,AGCW4365, new AGCW4362 "AGCW4365"
+Contains members up to AGCW #7295 and NTC #281
+9A3XV has the longest name: "ALEKSANDAR" with 10 characters
+Created AGCWNTCQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/AGCWNTCQP_db.txt
+Deleting ./AGCW-NTCQP-NEW.txt ./util/AGCW-NTCQP-CLEANED.txt
 -------- allasian
 Most recent file: ALLASIACW_2026-002.txt
 ALLASIACW_2026-002.txt is already downloaded
+Parsing ALLASIACW_2026-002.txt
+Created ALLASIAN_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ALLASIAN_db.txt
 -------- alqp
 Most recent file: QSOP_AL-2026-002.txt
 QSOP_AL-2026-002.txt is already downloaded
+Parsing QSOP_AL-2026-002.txt
+Created AQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/AQP_db.txt
 -------- aoec160
 -------- aridx
 Most recent file: ARIDX_2026-001.txt
 ARIDX_2026-001.txt is already downloaded
+Parsing ARIDX_2026-001.txt
+Created ARI_DX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARI_DX_db.txt
 -------- arqp
 Most recent file: QSOP_AR-2026-001.txt
 QSOP_AR-2026-001.txt is already downloaded
+Parsing QSOP_AR-2026-001.txt
+Created ARQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARQP_db.txt
 -------- arrl10
 Most recent file: ARRL10M_2026-003.txt
 ARRL10M_2026-003.txt is already downloaded
+Parsing ARRL10M_2026-003.txt
+Ignored: "KA3VQR/A,PA,"
+Created ARRL_10M_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_10M_db.txt
 -------- arrl160
 Most recent file: ARRL160-2025-008.txt
 ARRL160-2025-008.txt is already downloaded
+Parsing ARRL160-2025-008.txt
+DX station ignored  : "ABR,MS,"
+DX station ignored  : "KA3VQR/A,EPA,"
+Irregular VE call VE6EX with exchange QC
+Created ARRL_160M_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_160M_db.txt
 -------- arrldxcw
 Most recent file: ARRLDXCW_USDX-2026-001.txt
 ARRLDXCW_USDX-2026-001.txt is already downloaded
+Parsing ARRLDXCW_USDX-2026-001.txt
+Created ARRL_DX-CW_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-CW_db.txt
 -------- arrldxssb
 Most recent file: ARRLDXSSB_USDX-2026-009.txt
 ARRLDXSSB_USDX-2026-009.txt is already downloaded
+Parsing ARRLDXSSB_USDX-2026-009.txt
+Created ARRL_DX-SSB_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-SSB_db.txt
 -------- arrlfd
 Most recent file: FD_2026-LAST.txt
 FD_2026-LAST.txt is already downloaded
+Parsing FD_2026-LAST.txt
+Created ARRL_FD_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_FD_db.txt
 -------- arrlrr
 Most recent file: RRCW.txt
 RRCW.txt is already downloaded
+Parsing RRCW.txt
+Problem US state: "KP2B,SANDRA,75,KP2,"
+Problem US state: "KP2M,PHIL,71,KP2,"
+Problem US state: "KP3S,GIL,91,PR,"
+Problem US state: "KP4AA,KEN,77,KP4,"
+Problem US state: "KP4JRS,JOSE,90,PR,"
+Problem US state: "NP2X,FRED,72,KP2,"
+Problem US state: "NP3A,ERIC,92,KP4,"
+Problem US state: "NP3Y,PAUL,04,KP4,"
+Problem Canadian province: "VO1AW,BK,81,NL,"
+Problem Canadian province: "VO1BQ,JOE,86,NL,"
+Problem Canadian province: "VO1HE,PAUL,90,NL,"
+Problem Canadian province: "VO1HP,FRANK,64,NL,"
+Problem Canadian province: "VO1MP,GUS,77,NL,"
+Problem Canadian province: "VO2AC,CHRIS,85,NL,"
+Problem US state: "WP3TT,PAUL,04,PR,"
+Created ARRL_RR_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RR_db.txt
 -------- arrlrtty
 Most recent file: ARRLRTTY_2027-002.txt
 ARRLRTTY_2027-002.txt is already downloaded
+Parsing ARRLRTTY_2027-002.txt
+Ignored: "K6HGFR,,CA,"
+Created ARRL_RTTY_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RTTY_db.txt
 -------- arrlscr
 Most recent file: ARRL-SCR-003.txt
 ARRL-SCR-003.txt is already downloaded
+Parsing ARRL-SCR-003.txt
+Ignored: "AB50R,I,MS,"
+Ignored: "KA3VQR/A,I,PA,"
+Ignored: "ON7DQ,I,ON,"
+Created ARRL_SCR_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SCR_db.txt
 -------- arrlsscw
 Most recent file: SSCW_new.txt
 SSCW_new.txt is already downloaded
+Parsing SSCW_new.txt
+Problem entry: "KA3VQR/A,EPA,PA,90,"
+Problem entry: "KK6L,,CA,95,"
+Problem entry: "W1EZER,MO,MO,18,"
+Created ARRL_SS_CW_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_CW_db.txt
 -------- arrlssssb
 Most recent file: SSSSB_2025-009.txt
 SSSSB_2025-009.txt is already downloaded
+Parsing SSSSB_2025-009.txt
+Problem entry: "KA3VQR/A,EPA,PA,90,"
+Problem entry: "KK6L,,CA,95,"
+Problem entry: "W1EZER,MO,MO,18,"
+Created ARRL_SS_SSB_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_SSB_db.txt
 -------- arrlvhf
 Most recent file: ARRLVHFSEP.txt
 ARRLVHFSEP.txt is already downloaded
+Parsing ARRLVHFSEP.txt
+Ignored: "HGM3DXC,,JN96,"
+Ignored: "HGM3O,,JN96,"
+Created ARRL-VHF_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL-VHF_db.txt
 -------- aschamp
 -------- azqp
 Most recent file: QSOP_AZ-2026-001.txt
 QSOP_AZ-2026-001.txt is already downloaded
+Parsing QSOP_AZ-2026-001.txt
+"KD2FSH,,MCP,MARICOPA" reoccurs as "KD2FSH,GERRY,NJ,"
+"W7IJ,,APH,APACHE" reoccurs as "W7IJ,,WA,"
+"WW9R,,CNO,COCONINO" reoccurs as "WW9R,PAT,WI,"
+Created AZQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/AZQP_db.txt
+Deleting ./QSOP_AZ-2024-001.txt
 -------- bandebasse
 Most recent file: BB_ITALIA-001.txt
 BB_ITALIA-001.txt is already downloaded
+Parsing BB_ITALIA-001.txt
+Created BANDE_BASSE_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/BANDE_BASSE_db.txt
 -------- bccqp
 -------- bcqp
 Most recent file: QSOP_BC-NEW-002.txt
 QSOP_BC-NEW-002.txt is already downloaded
+Parsing QSOP_BC-NEW-002.txt
+Ignored: "KG4HF,AL,DX,"
+Ignored: "NP2X,ED,DX,"
+Ignored: "NP3Y,PAUL,DX,"
+Created BCQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/BCQP_db.txt
 -------- caqp
 Most recent file: QSOP_CA-2026-003.txt
 QSOP_CA-2026-003.txt is already downloaded
+Parsing QSOP_CA-2026-003.txt
+Ignored: "KK6JDC,ALAM,ALAMEDA," invalid exchange
+Ignored: "4U1WB,MASA,DC," invalid exchange
+"AI6O,,SDIE,SAN DIEGO," reoccurs as "AI6O,ED,MO,"
+Ignored: "K3EU,BRIAN,DC," invalid exchange
+"K6RO,,LANG,LOS ANGELES," reoccurs as "K6RO,LARRY,ME,"
+"K6WSC,,SDIE,SDIE," reoccurs as "K6WSC,BILL,AZ,"
+Ignored: "KA3JPE,LACONTE,DC," invalid exchange
+"KA6JLT,,SIER,SIERRA," reoccurs as "KA6JLT,ROB,WA,"
+Ignored: "KC3NVY,BILL,DC," invalid exchange
+"KD6AF,,VENT,VENTURA," reoccurs as "KD6AF,DUANE,TX,"
+"KI6QDH,,SACR,SACREMENTO," reoccurs as "KI6QDH,FRED,WY,"
+Ignored: "KJ5BIN,ZACH,DC," invalid exchange
+Ignored: "KP3N,OZ,KP4," invalid exchange
+Ignored: "KP4JRS,JOSE,KP4," invalid exchange
+"N6CHU,,ORAN,ORANGE," reoccurs as "N6CHU,BOB,WA,"
+"N6RC,,TRIN,TRINITY," reoccurs as "N6RC,DICK,AZ,"
+Ignored: "NN3RP,TONY,DC," invalid exchange
+Ignored: "NP3A,ERIC,KP4," invalid exchange
+"W6TK,,SLUI,SAN LUIS OBISPO," reoccurs as "W6TK,DICK,OR,"
+Ignored: "WP4TZ,MANU,KP4," invalid exchange
+Created CQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQP_db.txt
+Deleting ./QSOP_CA-2025-009.txt
 -------- cncw
 Most recent file: CNCW.txt
 CNCW.txt is already downloaded
+Parsing CNCW.txt
+Created EA_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/EA_db.txt
 -------- commonwealth
 Most recent file: RSGBBERU_2026-014.txt
 RSGBBERU_2026-014.txt is already downloaded
+Parsing RSGBBERU_2026-014.txt
+Created COMMONW_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/COMMONW_db.txt
 -------- coqp
 Most recent file: QSOP_CO-2026-007.txt
 QSOP_CO-2026-007.txt is already downloaded
+Parsing QSOP_CO-2026-007.txt
+Ignored: "KC0RPS,JIM,BOU/GIL/JEF,Three cty Boulder-Gilpin-Jefferson (2026)" Invalid exchange
+"K4JC,VINCE,MOF,MOFFAT POTA US-0921 " reoccurs as "K4JC,VINCE,FL,"
+Created COQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/COQP_db.txt
 -------- cpqp
 Most recent file: QSOP_CP-2026-001.txt
 QSOP_CP-2026-001.txt is already downloaded
+Parsing QSOP_CP-2026-001.txt
+Ignored: "VE5KS,John,CYP,"
+Ignored: "VE6LRR,Lindsay,CRR,"
+Created CPQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/CPQP_db.txt
 -------- cq160
 Most recent file: CQ160CW-005.txt
 CQ160CW-005.txt is already downloaded
+Parsing CQ160CW-005.txt
+Ignored: "KI30,,VA,"
+Irregular VE call VO2FF with exchange NF
+Created CQ160_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQ160_db.txt
 -------- cqmm
 -------- cqvojvodina
 -------- cqww
 -------- cqwwr
 Most recent file: CQWWRTTY_2026-004.txt
 CQWWRTTY_2026-004.txt is already downloaded
+Parsing CQWWRTTY_2026-004.txt
+Created CQWWR_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQWWR_db.txt
 -------- croatiandx
 Most recent file: 9ADX_2025.txt
 9ADX_2025.txt is already downloaded
+Parsing 9ADX_2025.txt
+Created 9ADX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/9ADX_db.txt
 -------- cvadx
 Most recent file: CVADXCW-001.txt
 CVADXCW-001.txt is already downloaded
+Parsing CVADXCW-001.txt
+Created CVADX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/CVADX_db.txt
 -------- cwt
 Most recent file: CWOPS_4000.txt
 CWOPS_4000.txt is already downloaded
+Parsing CWOPS_4000.txt
+Highest member number is 4000
+Longest name is "Christian" with 9 characters
+Created CWT_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/CWT_db.txt
 -------- dig
 -------- dok
 Most recent file: WAG.txt
 WAG.txt is already downloaded
+Parsing WAG.txt
+Longest DOK is "APOLLO" with 6 characters
+Created DOK_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/DOK_db.txt
 -------- ea
 Most recent file: KINGEACW_2026-002.txt
 KINGEACW_2026-002.txt is already downloaded
+Parsing KINGEACW_2026-002.txt
+Created EA_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/EA_db.txt
 -------- eacme
 No file matching 'CME' found
 -------- eudxc
 Most recent file: EUDXC-004.txt
 EUDXC-004.txt is already downloaded
+Parsing EUDXC-004.txt
+Ignored: "FG/F5HRY,FR15"
+Created EUDXC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/EUDXC_db.txt
 -------- euhfc
 -------- eupsk
 -------- fistsspr
 -------- flqp
 Most recent file: QSOP_FL_2026-009.txt
 QSOP_FL_2026-009.txt is already downloaded
+Parsing QSOP_FL_2026-009.txt
+Created FLQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/FLQP_db.txt
 -------- foc
 -------- frphf
 Most recent file: FRPHF-001.txt
 FRPHF-001.txt is already downloaded
+Parsing FRPHF-001.txt
+"PP5AA,,HQ," reoccurs as "PP5AA,,HQ,"
+"PP5CS,,QRP," reoccurs as "PP5CS,,SC,"
+"PP5LG,,QRP," reoccurs as "PP5LG,,SC,"
+"PP5ND,,QRP," reoccurs as "PP5ND,,SC,"
+"PP5OLG,,QRP," reoccurs as "PP5OLG,,SC,"
+"PP5XA,,QRP," reoccurs as "PP5XA,,SC,"
+"PP5XA,,QRP," reoccurs as "PP5XA,,SC,"
+"PQ4Q,,MG," reoccurs as "PQ4Q,,MG,"
+"PQ5A,,SC," reoccurs as "PQ5A,,SC,"
+"PR1T,,RJ," reoccurs as "PR1T,,RJ,"
+"PR1T,,RJ," reoccurs as "PR1T,,RJ,"
+"PR5T,,PR," reoccurs as "PR5T,,PR,"
+"PR5Y,,PR," reoccurs as "PR5Y,,SC"
+"PR7AA,,HQ," reoccurs as "PR7AA,,HQ,"
+"PR7SD/PT2,,DF," reoccurs as "PR7SD/PT2,,DF,"
+"PR9M,,MT," reoccurs as "PR9M,,MT,"
+"PS2T,,SP," reoccurs as "PS2T,,SP,"
+"PS5A,,PR," reoccurs as "PS5A,,PR,"
+"PS5HL,,PR," reoccurs as "PS5HL,,PR,"
+"PS7YL,,PE," reoccurs as "PS7YL,,YL,"
+"PS7YL,,PE," reoccurs as "PS7YL,,YL,"
+"PT2AA,,HQ," reoccurs as "PT2AA,,HQ,"
+"PT2TF,,YL," reoccurs as "PT2TF,,YL,"
+"PT5T,,SC," reoccurs as "PT5T,,SC,"
+"PT6B,,BA," reoccurs as "PT6B,,BA,"
+"PT9AA,,HQ," reoccurs as "PT9AA,,HQ,"
+"PW1E,,RJ," reoccurs as "PW1E,,RJ,"
+"PW7P,,PB," reoccurs as "PW7P,,PB,"
+"PX2D,,SP," reoccurs as "PX2D,,TO,"
+"PY1AA,,HQ," reoccurs as "PY1AA,,HQ,"
+"PY1CMT,,QRP," reoccurs as "PY1CMT,,RJ,"
+"PY1MX,,QRP," reoccurs as "PY1MX,,RJ,"
+"PY1MX,,QRP," reoccurs as "PY1MX,,RJ,"
+"PY1XR,,QRP," reoccurs as "PY1XR,,RJ,"
+"PY2AA,,HQ," reoccurs as "PY2AA,,HQ,"
+"PY2BN,,QRP, " reoccurs as "PY2BN,,SP,"
+"PY2BN,,QRP, " reoccurs as "PY2BN,,SP,"
+"PY2GTA,,QRP," reoccurs as "PY2GTA,,SP,"
+"PY2GTA,,QRP," reoccurs as "PY2GTA,,SP,"
+"PY2TEY,,YL," reoccurs as "PY2TEY,,YL,"
+"PY2VQ,,QRP," reoccurs as "PY2VQ,,SP,"
+"PY2VQ,,QRP," reoccurs as "PY2VQ,,SP,"
+"PY2ZQ,,QRP," reoccurs as "PY2ZQ,,SP,"
+"PY3AA,,HQ," reoccurs as "PY3AA,,HQ,"
+"PY3AA,,HQ," reoccurs as "PY3AA,,HQ,"
+"PY4AA,,HQ," reoccurs as "PY4AA,,HQ,"
+"PY5AA,,HQ," reoccurs as "PY5AA,,HQ,"
+"PY5AA,,HQ," reoccurs as "PY5AA,,PR,"
+"PY9AA,,HQ," reoccurs as "PY9AA,,MT,"
+"ZV2C,,SP," reoccurs as "ZV2C,,SP,"
+"ZV2F,,RJ," reoccurs as "ZV2F,,SP,"
+"ZV2K,,SP," reoccurs as "ZV2K,,SP,"
+"ZV2R,,QRP," reoccurs as "ZV2R,,SP,"
+"ZW5B,,PR," reoccurs as "ZW5B,,PR,"
+"ZW5B,,PR," reoccurs as "ZW5B,,PR,"
+"ZW8T,,PI," reoccurs as "ZW8T,,PI,"
+"ZY2A,,GO," reoccurs as "ZY2A,,GO,"
+"ZY5A,,SC," reoccurs as "ZY5A,,SC,"
+Created FRPHF_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/FRPHF_db.txt
+Deleting ./FRPHF-002.txt
 -------- gagarin
 Most recent file: Gcup-2026.txt
 Gcup-2026.txt is already downloaded
+Parsing Gcup-2026.txt
+Created GAGARIN_KUP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAGARIN_KUP_db.txt
 -------- gaqp
 Most recent file: QSOP_GA-2026-001.txt
 QSOP_GA-2026-001.txt is already downloaded
+Parsing QSOP_GA-2026-001.txt
+Created GAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAQP_db.txt
 -------- hacwg
 Most recent file: HA3NS-002.txt
 HA3NS-002.txt is already downloaded
+Parsing HA3NS-002.txt
+Created HACWG_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/HACWG_db.txt
 -------- hadx
 Most recent file: HADX.txt
 HADX.txt is already downloaded
+Parsing HADX.txt
+"HA4FF,FE" reoccurs as "HA4FF,FE"
+Created HADX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/HADX_db.txt
 -------- hamspirit
 -------- helvetia
 Most recent file: Helvetia-004.txt
 Helvetia-004.txt is already downloaded
+Parsing Helvetia-004.txt
+Ignored: "HB9A,"
+Ignored: "HB9AWE,-0"
+Ignored: "HB9AYX,-0"
+Ignored: "HB9BMB,-0"
+Ignored: "HB9HQ,"
+Ignored: "HB9RBH,"
+Ignored: "HB9XCA,"
+Created Helvetia_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/Helvetia_db.txt
 -------- hiqp
 Most recent file: QSOP_HI-2026-001.txt
 QSOP_HI-2026-001.txt is already downloaded
+Parsing QSOP_HI-2026-001.txt
+Ignored: "AH6KO,STAN,"
+Ignored: "KP2B,SANDRA,DX,"
+Ignored: "KP2M,PHIL,DX,"
+Ignored: "KP2RUM,RUM,DX,"
+Ignored: "KP3W,JOSE,DX,"
+Ignored: "KP4/K7RB,DICK,DX,"
+Ignored: "KP4AA,KEN,DX,"
+Ignored: "KP4JFR,JOSE,DX,"
+Ignored: "NP2X,ED,DX,"
+Ignored: "NP3A,ERIC,DX,"
+Ignored: "NP3KW,MANNY,DX,"
+Ignored: "NP3Y,PAUL,DX,"
+Ignored: "WH6R,ERAN,"
+Ignored: "WH7T,MARK,"
+Ignored: "WP3C,AL,DX,"
+Ignored: "WP3Z,MANU,DX,"
+Created HIQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/HIQP_db.txt
 -------- hsc
 -------- iaqp
 Most recent file: QSOP_IA-2026-001.txt
 QSOP_IA-2026-001.txt is already downloaded
+Parsing QSOP_IA-2026-001.txt
+"!!Order!!, Call, Name, Exch1, UserText" --> call=1 state=3
+"K0KDS,,WAS,WASHINGTON POTA US-2297" reoccurs as "K0KDS,,WAS,WASHINGTON"
+Created IAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/IAQP_db.txt
 -------- iaru
 -------- icwc-mst
 Most recent file: ICWC-MST-079.txt
 ICWC-MST-079.txt is already downloaded
+Parsing ICWC-MST-079.txt
+Longest name is "FRANCESCO" with 9 characters
+Created ICWCMST_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ICWCMST_db.txt
+Deleting ./ICWC-MST-078.txt
 -------- idqp
 Most recent file: QSOP_ID-2025-002.txt
 QSOP_ID-2025-002.txt is already downloaded
+Parsing QSOP_ID-2025-002.txt
+Ignored: "OK2IT,JIRI,OK,"
+Ignored: "OM2VL,LACI,OM,"
+Ignored: "P4/KE4TT,MARTIN,P4,"
+Ignored: "PA3DUU,ARIE,PA,"
+Ignored: "PU2TWZ,JOSE,PY,"
+Ignored: "PY2QT,PAULO,PY,"
+Ignored: "PY2XL,DAN,PY,"
+Ignored: "PY5AMF,MAR,PY,"
+Ignored: "TI2YO,MINOR,TI,"
+Ignored: "VP5M,SUNNY,VP5,"
+Ignored: "XE1CT,SERG,XE,"
+Ignored: "XE2EX,JAVIER,XE,"
+Ignored: "XE2N,JESUS,XE,"
+Ignored: "XE2T,FRE,XE,"
+Ignored: "ZF2PG,PETE,ZF,"
+Ignored: "ZF5T,STAN,ZF,"
+Ignored: "ZL4TT,PAUL,ZL,"
+Created IDQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/IDQP_db.txt
+Deleting ./QSOP_ID-2025-003.txt
 -------- ig-ry
 Most recent file: SCRY_NEW-004.txt
 SCRY_NEW-004.txt is already downloaded
+Parsing SCRY_NEW-004.txt
+"!!Order!!,Call,Exch1,UserText" --> call=1 col=2
+Created IG-RY_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/IG-RY_db.txt
 -------- ilqp
 Most recent file: QSOP_IL-2026-001.txt
 QSOP_IL-2026-001.txt is already downloaded
+Parsing QSOP_IL-2026-001.txt
+"!!Order!!,Call,Name,Exch1,UserText," --> call=1 state=3
+Created ILQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ILQP_db.txt
+Deleting ./QSOP_IL-2025-004.txt
 -------- in7qpnede
 Most recent file: QSOP_IN7QPNE_DE-2026-006.txt
 QSOP_IN7QPNE_DE-2026-006.txt is already downloaded
+Parsing QSOP_IN7QPNE_DE-2026-006.txt
+Ignored: "KI7IOC,,ORDES/JEF/WHE,"
+Ignored: "KJ7CWE,,MTROO/SHE/VAL,"
+Created IN7QPNEDE_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/IN7QPNEDE_db.txt
 -------- iota
 Most recent file: IOTA_2026-017.txt
 IOTA_2026-017.txt is already downloaded
+Parsing IOTA_2026-017.txt
+"!!Order!!,Call,Name,Sect,UserText," --> call=1 state=3
+Created IOTA_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/IOTA_db.txt
+Deleting ./IOTA.xdt
 -------- jarlwwrtty
 Most recent file: JARLWWRTTY_2026-001.txt
 JARLWWRTTY_2026-001.txt is already downloaded
+Parsing JARLWWRTTY_2026-001.txt
+Created JARLWWR_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/JARLWWR_db.txt
 -------- jidxc
 Most recent file: JIDXCW_NEW5-001.txt
 JIDXCW_NEW5-001.txt is already downloaded
+Parsing JIDXCW_NEW5-001.txt
+Ignored: "7L1UEF/JD1,48,"
+Ignored: "JA0RQV/6Y5,08,"
+Ignored: "JA6EVS/JA1,12,"
+Ignored: "JD1AEV/JA1,10,"
+Ignored: "JG2CAU/JA8,10,"
+Ignored: "JG8NQJ/JD1,50,"
+Ignored: "JL1RLE/JR6,47,"
+Ignored: "JR1CAD/MM,25,"
+Created JIDXC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/JIDXC_db.txt
 -------- k1usn
 Most recent file: K1USNSST-064.txt
 K1USNSST-064.txt is already downloaded
+Parsing K1USNSST-064.txt
+Problem line: "K3ESK/AE,GENE,PA,"
+Problem US exchange: "KE2ET,LARRY,CWA,"
+Problem line: "KE2ET,LARRY,CWA,"
+"KW1DX,,NH," reoccurs as "KW1DX,DAVE,NH,"
+Problem line: "SM4X,LARS,SM,"
+Problem Canadian exchange: "VO1AW,BRIAN,NL,"
+Problem line: "VO1AW,BRIAN,NL,"
+"WB0VGI,,MN," reoccurs as "WB0VGI,NOEL,MN,"
+"WN8P,,KS," reoccurs as "WN8P,LARRY,MI,"
+Longest name is "FREDERICK" with 9 characters
+Created K1USN_SST_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/K1USN_SST_db.txt
 -------- kcj
 Most recent file: KCJ-2025-001.txt
 KCJ-2025-001.txt is already downloaded
+Parsing KCJ-2025-001.txt
+"JA2WSP,SO" reoccurs as "JA2WSP,SO"
+Ignored: "JAQOS,KT"
+Ignored: "JAWFQ,HG"
+Ignored: "JGCQJ,WK"
+"JH4UYB,HS" reoccurs as "JH4UYB,HS"
+Ignored: "JJJJL,SI"
+Ignored: "JKHFN,HG"
+Created KCJ_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/KCJ_db.txt
+Deleting ./KCJ-2025-002.txt
 -------- kj
 -------- ksqp
 Most recent file: QSOP_KS-2026-005.txt
 QSOP_KS-2026-005.txt is already downloaded
+Parsing QSOP_KS-2026-005.txt
+Created KSQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/KSQP_db.txt
 -------- kyqp
 Most recent file: QSOP_KY-2026-006.txt
 QSOP_KY-2026-006.txt is already downloaded
+Parsing QSOP_KY-2026-006.txt
+Created KYQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/KYQP_db.txt
 -------- labredx
 Most recent file: LABRE_DX-009.txt
 LABRE_DX-009.txt is already downloaded
+Parsing LABRE_DX-009.txt
+Created LABREDX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/LABREDX_db.txt
 -------- laqp
 Most recent file: QSOP_LA-2026-002.txt
 QSOP_LA-2026-002.txt is already downloaded
+Parsing QSOP_LA-2026-002.txt
+Created LAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/LAQP_db.txt
 -------- lzdx
 Most recent file: LZDX-2023-002.txt
 LZDX-2023-002.txt is already downloaded
+Parsing LZDX-2023-002.txt
+Created LZDX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/LZDX_db.txt
 -------- maidmay
 -------- mcdqp
 -------- mdqp
 -------- meqp
 Most recent file: QSOP_ME-2025-001.txt
 QSOP_ME-2025-001.txt is already downloaded
+Parsing QSOP_ME-2025-001.txt
+Ignored: "N6VUY,,DX,"
+Ignored: "VO1AW,BRIAN,NL,"
+Ignored: "VO1AX,MIKE,NL,"
+Ignored: "VO1BQ,JOE,NL,"
+Ignored: "VO1HE,PAUL,NL,"
+Ignored: "VO1HP,FRANK,NL,"
+Ignored: "VO1MP,GUS,NL,"
+Ignored: "VO1TTY,FRANK,NL,"
+Ignored: "VO1XC,LAURENCE,NL,"
+Ignored: "VO2AC,CHRIS,NL,"
+Ignored: "VO2FF,DAN,NL,"
+Created MEQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/MEQP_db.txt
+Deleting ./QSOP_ME-2026-001.txt
 -------- miqp
 Most recent file: QSOP_MI-2025-001.txt
 QSOP_MI-2025-001.txt is already downloaded
+Parsing QSOP_MI-2025-001.txt
+Created MIQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/MIQP_db.txt
 -------- mnqp
 Most recent file: QSOP_MN-2026-004.txt
 QSOP_MN-2026-004.txt is already downloaded
+Parsing QSOP_MN-2026-004.txt
+!!Order!!,Call,Name,Exch1,UserText, --> call=1 state=3 name=2
+Longest name is "CHRISTOPHER" with 11 characters
+Created MNQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/MNQP_db.txt
 -------- moqp
 Most recent file: QSOP_MO-2026-001.txt
 QSOP_MO-2026-001.txt is already downloaded
+Parsing QSOP_MO-2026-001.txt
+Created MOQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/MOQP_db.txt
 -------- msqp
 Most recent file: QSOP_MS-2026-002.txt
 QSOP_MS-2026-002.txt is already downloaded
+Parsing QSOP_MS-2026-002.txt
+Created MSQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/MSQP_db.txt
 -------- mtqp
 No file matching 'QSOP_MT' found
 -------- names
 Most recent file: Names_VE2FK-086.txt
 Names_VE2FK-086.txt is already downloaded
+Parsing Names_VE2FK-086.txt
+Longest name is "ALESSANDRO" with 10 characters
+Created NAMES_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAMES_db.txt
+Deleting ./Names_VE2FK-088.txt
 -------- naqp
 Most recent file: NAQPCW.txt
 NAQPCW.txt is already downloaded
+Parsing NAQPCW.txt
+Longest name is "ALEXANDER" with 9 characters
+Created NAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_db.txt
 -------- naval
 -------- ncqp
 Most recent file: QSOP_NC-2026-002.txt
 QSOP_NC-2026-002.txt is already downloaded
+Parsing QSOP_NC-2026-002.txt
+Ignored: "N4CW,,MOBILE"
+"NC4DA,,GAS,GASTON" reoccurs as "NC4DA,,GAS,GASTON"
+Created NCQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NCQP_db.txt
 -------- ndqp
 Most recent file: QSOP_ND-2026-001.txt
 QSOP_ND-2026-001.txt is already downloaded
+Parsing QSOP_ND-2026-001.txt
+Created NDQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NDQP_db.txt
 -------- neqp
 Most recent file: QSOP_NE-2026-002.txt
 QSOP_NE-2026-002.txt is already downloaded
+Parsing QSOP_NE-2026-002.txt
+Created NEQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NEQP_db.txt
 -------- nhqp
 Most recent file: QSOP_NH-2026-001.txt
 QSOP_NH-2026-001.txt is already downloaded
+Parsing QSOP_NH-2026-001.txt
+"N1TM,,ROC,ROCKINGHAM" reoccurs as "N1TM,,CT,"
+Created NHQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NHQP_db.txt
 -------- njqp
 Most recent file: QSOP_NJ-2024-002.txt
 QSOP_NJ-2024-002.txt is already downloaded
+Parsing QSOP_NJ-2024-002.txt
+Ignored: "AA2AW,FRANK,NJ,"
+Ignored: "AA2BR,PERRY,NJ,"
+Ignored: "AA2D,ERIC,NJ,"
+Ignored: "AA2LF,VAL,NJ,"
+Ignored: "AA2NL,,NJ,"
+Ignored: "AA2WB,,NJ,"
+Ignored: "AB2BK,,NJ,"
+Ignored: "AB2DE,,NJ,"
+Ignored: "AB2DX,,NJ,"
+Ignored: "AB2E,DARRELL,NJ,"
+Ignored: "AB2FA,,NJ,"
+Ignored: "AB2IO,,NJ,"
+Ignored: "AB2RC,,NJ,"
+Ignored: "AB2RS,,NJ,"
+Ignored: "AB2TB,KEVIN,NJ,"
+Ignored: "AB8CK,DMITRY,NJ,"
+Ignored: "AC2F,,NJ,"
+Ignored: "AC2YD,BEN,NJ,"
+Ignored: "AD2CC,SID,NJ,"
+Ignored: "AD2CM,ART,NJ,"
+Ignored: "AD3Y,LARRY,NJ,"
+Ignored: "AE2JL,,NJ,"
+Ignored: "AE5X/2,JOHN,NJ,"
+Ignored: "AF2F,MATT,NJ,"
+Ignored: "AG2J,STEVE,NJ,"
+Ignored: "AG2S,,NJ,"
+Ignored: "AI2I,,NJ,"
+Ignored: "AK2S,DON,NJ,"
+Ignored: "K2ACU,,NJ,"
+Ignored: "K2AF,,NJ,"
+Ignored: "K2AH,,NJ,"
+Ignored: "K2AL,AL,NJ,"
+Ignored: "K2AMI,TONY,NJ,"
+Ignored: "K2AT,,NJ,"
+Ignored: "K2AX,STEVE,NJ,"
+Ignored: "K2BIB,,NJ,"
+Ignored: "K2BL,,NJ,"
+Ignored: "K2BM,,NJ,"
+Ignored: "K2BU,,NJ,"
+Ignored: "K2CJ,CARL,NJ,"
+Ignored: "K2DBK,,NJ,"
+Ignored: "K2DD,KARL,NJ,"
+Ignored: "K2DFC,FRED,NJ,"
+Ignored: "K2DSL,DAVID,NJ,"
+Ignored: "K2DX,,NJ,"
+Ignored: "K2ER,ROGER,NJ,"
+Ignored: "K2ESE,,NJ,"
+Ignored: "K2FL,,NJ,"
+Ignored: "K2GAL,,NJ,"
+Ignored: "K2GL,BOB,NJ,"
+Ignored: "K2GLS,BOB,NJ,"
+Ignored: "K2GN,,NJ,"
+Ignored: "K2ITT,,NJ,"
+Ignored: "K2JAY,,NJ,"
+Ignored: "K2JF,,NJ,"
+Ignored: "K2JT,,NJ,"
+Ignored: "K2KIB,JIM,NJ,"
+Ignored: "K2LF,DAVE,NJ,"
+Ignored: "K2MV,,NJ,"
+Ignored: "K2NG,,NJ,"
+Ignored: "K2NJ,,NJ,"
+Ignored: "K2NT,,NJ,"
+Ignored: "K2OWE,,NJ,"
+Ignored: "K2QM,,NJ,"
+Ignored: "K2QPN,,NJ,"
+Ignored: "K2QU,AL,NJ,"
+Ignored: "K2RET,BOB,NJ,"
+Ignored: "K2RRB,ROGER,NJ,"
+Ignored: "K2RW,,NJ,"
+Ignored: "K2RWF,,NJ,"
+Ignored: "K2SB,,NJ,"
+Ignored: "K2SCH,PAT,NJ,"
+Ignored: "K2SDS,SCOTT,NJ,"
+Ignored: "K2SE,,NJ,"
+Ignored: "K2SIX,,NJ,"
+Ignored: "K2SJ,BOB,NJ,"
+Ignored: "K2SMD,,NJ,"
+Ignored: "K2SMN,,NJ,"
+Ignored: "K2SQ,,NJ,"
+Ignored: "K2SQS,,NJ,"
+Ignored: "K2SWZ,,NJ,"
+Ignored: "K2SZ,,NJ,"
+Ignored: "K2TD,,NJ,"
+Ignored: "K2TFT,,NJ,"
+Ignored: "K2TOP,TOPPY,NJ,"
+Ignored: "K2TTT,JAY,NJ,"
+Ignored: "K2TWI,,NJ,"
+Ignored: "K2TWK,,NJ,"
+Ignored: "K2TXB,,NJ,"
+Ignored: "K2UFM,,NJ,"
+Ignored: "K2UO,,NJ,"
+Ignored: "K2UT,,NJ,"
+Ignored: "K2UYH,,NJ,"
+Ignored: "K2VK,,NJ,"
+Ignored: "K2VNS,,NJ,"
+Ignored: "K2VPX,,NJ,"
+Ignored: "K2VT,,NJ,"
+Ignored: "K2VU,,NJ,"
+Ignored: "K2WA,,NJ,"
+Ignored: "K2WB,,NJ,"
+Ignored: "K2WI,,NJ,"
+Ignored: "K2WJL,JOE,NJ,"
+Ignored: "K2WP,,NJ,"
+Ignored: "K2XE,JIM,NJ,"
+Ignored: "K2XT,,NJ,"
+Ignored: "K2YG,DAVE,NJ,"
+Ignored: "K2YLH,,NJ,"
+Ignored: "K2ZB,,NJ,"
+Ignored: "K2ZC,DAVE,NJ,"
+Ignored: "K2ZF,JIM,NJ,"
+Ignored: "K3BU,,NJ,"
+Ignored: "K3EL,KEN,NJ,"
+Ignored: "K3MR,MATT,NJ,"
+Ignored: "K3MWV,,NJ,"
+Ignored: "K3OX,,NJ,"
+Ignored: "KA2BXH,,NJ,"
+Ignored: "KA2BZS,RON,NJ,"
+Ignored: "KA2FIR,MIKE,NJ,"
+Ignored: "KA2GQQ,DAVE,NJ,"
+Ignored: "KA2HZO,,NJ,"
+Ignored: "KA2K,SCOTT,NJ,"
+Ignored: "KA2NDX,,NJ,"
+Ignored: "KA2PBT,ROB,NJ,"
+Ignored: "KA2YKN,,NJ,"
+Ignored: "KA2ZTC,,NJ,"
+Ignored: "KA3LWC,GEORGE,NJ,"
+Ignored: "KB2AH,,NJ,"
+Ignored: "KB2FM,,NJ,"
+Ignored: "KB2M,,NJ,"
+Ignored: "KB2NB,BILL,NJ,"
+Ignored: "KB2UTD,,NJ,"
+Ignored: "KB2YAN,JOE,NJ,"
+Ignored: "KB2YVY,OLLIE,NJ,"
+Ignored: "KC2CFO,,NJ,"
+Ignored: "KC2CNB,,NJ,"
+Ignored: "KC2FZG,TONY,NJ,"
+Ignored: "KC2GXT,,NJ,"
+Ignored: "KC2HL,,NJ,"
+Ignored: "KC2IEB,CHRIS,NJ,"
+Ignored: "KC2KEU,,NJ,"
+Ignored: "KC2KWK,,NJ,"
+Ignored: "KC2LSD,CODY,NJ,"
+Ignored: "KC2LST,TYLER,NJ,"
+Ignored: "KC2NB,,NJ,"
+Ignored: "KC2NGC,,NJ,"
+Ignored: "KC2NMZ,,NJ,"
+Ignored: "KC2OSR,SAM,NJ,"
+Ignored: "KC2QJB,JOHN,NJ,"
+Ignored: "KC2RG,,NJ,"
+Ignored: "KC2SZ,JIM,NJ,"
+Ignored: "KC2TEL,BOB,NJ,"
+Ignored: "KC2TN,,NJ,"
+Ignored: "KC2WQD,JOHN,NJ,"
+Ignored: "KC2WUF,DAVID,NJ,"
+Ignored: "KC2WYU,JOE,NJ,"
+Ignored: "KD2DVW,FRED,NJ,"
+Ignored: "KD2FSH,GERRY,NJ,"
+Ignored: "KD2HAM,JAKUB,NJ,"
+Ignored: "KD2I,,NJ,"
+Ignored: "KD2JC,JOE,NJ,"
+Ignored: "KD2MX,PAUL,NJ,"
+Ignored: "KD2P,,NJ,"
+Ignored: "KD2QOU,SCOTT,NJ,"
+Ignored: "KD2RKA,JOHN,NJ,"
+Ignored: "KD2S,CHRIS,NJ,"
+Ignored: "KD2SGM,DAVE,NJ,"
+Ignored: "KD2SRH,ROGER,NJ,"
+Ignored: "KD2ST,AL,NJ,"
+Ignored: "KD2UHN,VERONICA,NJ,"
+Ignored: "KD2VWT,ADAM,NJ,"
+Ignored: "KD3ANX,DEAN,NJ,"
+Ignored: "KE2D,BOB,NJ,"
+Ignored: "KE2U,,NJ,"
+Ignored: "KE3PL,,NJ,"
+Ignored: "KE3RR,,NJ,"
+Ignored: "KF2DT,,NJ,"
+Ignored: "KF2HC,,NJ,"
+Ignored: "KG2CM,SIG,NJ,"
+Ignored: "KG2GL,TONY,NJ,"
+Ignored: "KG2MV,,NJ,"
+Ignored: "KG4HF,AL,DX,"
+Ignored: "KI2P,KEN,NJ,"
+Ignored: "KN2T,,NJ,"
+Ignored: "KR2H,FRED,NJ,"
+Ignored: "KR2Q,DOUG,NJ,"
+Ignored: "KU2M,PETER,NJ,"
+Ignored: "KV2M,,NJ,"
+Ignored: "KV2R,,NJ,"
+Ignored: "KX1W,RON,NJ,"
+Ignored: "KZ2S,,NJ,"
+Ignored: "N1RK,,NJ,"
+Ignored: "N1SJ,NUNO,NJ,"
+Ignored: "N2AA,GENE,NJ,"
+Ignored: "N2AB,,NJ,"
+Ignored: "N2AK,MARIO,NJ,"
+Ignored: "N2ATB,TONY,NJ,"
+Ignored: "N2BA,BROOKE,NJ,"
+Ignored: "N2BIM,,NJ,"
+Ignored: "N2BX,,NJ,"
+Ignored: "N2BZD,PAT,NJ,"
+Ignored: "N2CEC,MIKE,NJ,"
+Ignored: "N2CEI,,NJ,"
+Ignored: "N2CG,GEORGE,NJ,"
+Ignored: "N2CI,JOE,NJ,"
+Ignored: "N2CJO,,NJ,"
+Ignored: "N2CQ,KEN,NJ,"
+Ignored: "N2CY,,NJ,"
+Ignored: "N2DRP,BRUCE,NJ,"
+Ignored: "N2ED,ED,NJ,"
+Ignored: "N2EE,,NJ,"
+Ignored: "N2EIM,BOB,NJ,"
+Ignored: "N2EOC,,NJ,"
+Ignored: "N2FSB,STEVE,NJ,"
+Ignored: "N2FYE,ANDY,NJ,"
+Ignored: "N2GM,GEO,NJ,"
+Ignored: "N2HMM,JOHN,NJ,"
+Ignored: "N2IF,,NJ,"
+Ignored: "N2JE,JULIO,NJ,"
+Ignored: "N2JJF,,NJ,"
+Ignored: "N2JT,JACK,NJ,"
+Ignored: "N2KJM,,NJ,"
+Ignored: "N2KPB,,NJ,"
+Ignored: "N2LEC,,NJ,"
+Ignored: "N2LK,JOHN,NJ,"
+Ignored: "N2LT,,NJ,"
+Ignored: "N2MH,,NJ,"
+Ignored: "N2MM,CAROL,NJ,"
+Ignored: "N2MR,,NJ,"
+Ignored: "N2NC,JOHN,NJ,"
+Ignored: "N2NF,ROBB,NJ,"
+Ignored: "N2NFL,GREG,NJ,"
+Ignored: "N2NHN,,NJ,"
+Ignored: "N2NO,,NJ,"
+Ignored: "N2NT,ANDY,NJ,"
+Ignored: "N2NU,,NJ,"
+Ignored: "N2OO,BOB,NJ,"
+Ignored: "N2OPJ,,NJ,"
+Ignored: "N2OV,,NJ,"
+Ignored: "N2PAQ,,NJ,"
+Ignored: "N2PKN,,NJ,"
+Ignored: "N2PKP,,NJ,"
+Ignored: "N2QOR,,NJ,"
+Ignored: "N2QVY,CARMEN,NJ,"
+Ignored: "N2RF,,NJ,"
+Ignored: "N2RJ,,NJ,"
+Ignored: "N2SB,,NJ,"
+Ignored: "N2SCJ,,NJ,"
+Ignored: "N2SR,TOM,NJ,"
+Ignored: "N2ST,,NJ,"
+Ignored: "N2TM,JOHN,NJ,"
+Ignored: "N2TN,,NJ,"
+Ignored: "N2UDS,PAUL,NJ,"
+Ignored: "N2UO,,NJ,"
+Ignored: "N2UU,BOB,NJ,"
+Ignored: "N2VGS,GERALD,NJ,"
+Ignored: "N2VM,,NJ,"
+Ignored: "N2VV,,NJ,"
+Ignored: "N2VW,,NJ,"
+Ignored: "N2WKS,,NJ,"
+Ignored: "N2WM,,NJ,"
+Ignored: "N2YNF,HECTOR,NJ,"
+Ignored: "N2ZL,DAVE,NJ,"
+Ignored: "N3AHF,,NJ,"
+Ignored: "N3MT,,NJ,"
+Ignored: "N3RB,,NJ,"
+Ignored: "N3RG,,NJ,"
+Ignored: "N3SS,,NJ,"
+Ignored: "N3XOF,,NJ,"
+Ignored: "N7UN,GUY,NJ,"
+Ignored: "NA2AA,DAVID,NJ,"
+Ignored: "NB2P,DAN,NJ,"
+Ignored: "NC1A,GEORGE,NJ,"
+Ignored: "ND2K,AL,NJ,"
+Ignored: "NE2V,JUSTIN,NJ,"
+Ignored: "NE7L,,NJ,"
+Ignored: "NG2O,,NJ,"
+Ignored: "NJ2BB,,NJ,"
+Ignored: "NJ2DX,,NJ,"
+Ignored: "NJ2OM,MIKE,NJ,"
+Ignored: "NJ2YL,,NJ,"
+Ignored: "NJ3C,,NJ,"
+Ignored: "NK1N,GLEN,NJ,"
+Ignored: "NO2EL,,NJ,"
+Ignored: "NO2R,,NJ,"
+Ignored: "NO2T,,NJ,"
+Ignored: "NQ3N,,NJ,"
+Ignored: "NR2H,,NJ,"
+Ignored: "NR2I,,NJ,"
+Ignored: "NU2J,MARC,NJ,"
+Ignored: "NU2W,,NJ,"
+Ignored: "W0MHK,,NJ,"
+Ignored: "W1GD,,NJ,"
+Ignored: "W2AAB,FRED,NJ,"
+Ignored: "W2ARP,,NJ,"
+Ignored: "W2AXU,,NJ,"
+Ignored: "W2BVH,,NJ,"
+Ignored: "W2CE,,NJ,"
+Ignored: "W2CG,MARTY,NJ,"
+Ignored: "W2CVW,,NJ,"
+Ignored: "W2DEN,,NJ,"
+Ignored: "W2EJR,ED,NJ,"
+Ignored: "W2EMC,BRIAN,NJ,"
+Ignored: "W2EN,,NJ,"
+Ignored: "W2ESX,,NJ,"
+Ignored: "W2ETI,,NJ,"
+Ignored: "W2FDJ,JOHN,NJ,"
+Ignored: "W2FMB,FRED,NJ,"
+Ignored: "W2GI,,NJ,"
+Ignored: "W2HTS,HOWARD,NJ,"
+Ignored: "W2ID,JOHN,NJ,"
+Ignored: "W2IMX,JOHN,NJ,"
+Ignored: "W2IOC,KEN,NJ,"
+Ignored: "W2IRT,,NJ,"
+Ignored: "W2IUC,GEORGE,NJ,"
+Ignored: "W2JC,JIM,NJ,"
+Ignored: "W2JEK,,NJ,"
+Ignored: "W2JLK,JIM,NJ,"
+Ignored: "W2JSF,,NJ,"
+Ignored: "W2KD,,NJ,"
+Ignored: "W2KP,,NJ,"
+Ignored: "W2KV,DAVE,NJ,"
+Ignored: "W2LE,PAUL,NJ,"
+Ignored: "W2LHL,JOE,NJ,"
+Ignored: "W2LJ,LARRY,NJ,"
+Ignored: "W2LRO,,NJ,"
+Ignored: "W2MC,,NJ,"
+Ignored: "W2MF,MANNY,NJ,"
+Ignored: "W2MKM,ED,NJ,"
+Ignored: "W2ML,,NJ,"
+Ignored: "W2MSA,NOEL,NJ,"
+Ignored: "W2MYA,,NJ,"
+Ignored: "W2NJ,FRANK,NJ,"
+Ignored: "W2NO,DAN,NJ,"
+Ignored: "W2NTN,CRAIG,NJ,"
+Ignored: "W2OAB,OSCAR,NJ,"
+Ignored: "W2OB,,NJ,"
+Ignored: "W2OF,,NJ,"
+Ignored: "W2OIB,AL,NJ,"
+Ignored: "W2OKM,,NJ,"
+Ignored: "W2ORA,,NJ,"
+Ignored: "W2PWE,,NJ,"
+Ignored: "W2QE,,NJ,"
+Ignored: "W2QO,JAMIE,NJ,"
+Ignored: "W2QOB,,NJ,"
+Ignored: "W2RDS,RICK,NJ,"
+Ignored: "W2REH,,NJ,"
+Ignored: "W2RF,,NJ,"
+Ignored: "W2RQ,BILL,NJ,"
+Ignored: "W2SA,STEVE,NJ,"
+Ignored: "W2SR,,NJ,"
+Ignored: "W2TET,TIM,NJ,"
+Ignored: "W2TIN,,NJ,"
+Ignored: "W2TO,,NJ,"
+Ignored: "W2TQS,,NJ,"
+Ignored: "W2TTM,,NJ,"
+Ignored: "W2TV,,NJ,"
+Ignored: "W2UDT,,NJ,"
+Ignored: "W2VQ,GARY,NJ,"
+Ignored: "W2VTV,JOHN,NJ,"
+Ignored: "W2VU,,NJ,"
+Ignored: "W2WD,,NJ,"
+Ignored: "W2WJO,,NJ,"
+Ignored: "W2XT,,NJ,"
+Ignored: "W2YC,DAVE,NJ,"
+Ignored: "W2YR,,NJ,"
+Ignored: "W2ZQ,,NJ,"
+Ignored: "W3TPC,,NJ,"
+Ignored: "WA1ALY,,NJ,"
+Ignored: "WA2ALY,,NJ,"
+Ignored: "WA2BKN,,NJ,"
+Ignored: "WA2BMH,LARRY,NJ,"
+Ignored: "WA2DE,WAYDE,NJ,"
+Ignored: "WA2DVU,,NJ,"
+Ignored: "WA2E,,NJ,"
+Ignored: "WA2FXB,,NJ,"
+Ignored: "WA2FZB,TONY,NJ,"
+Ignored: "WA2HYO,TONY,NJ,"
+Ignored: "WA2IAU,,NJ,"
+Ignored: "WA2LSE,,NJ,"
+Ignored: "WA2LTM,,NJ,"
+Ignored: "WA2LXE,PHIL,NJ,"
+Ignored: "WA2NPD,,NJ,"
+Ignored: "WA2NXK,,NJ,"
+Ignored: "WA2PNI,TOM,NJ,"
+Ignored: "WA2TML,,NJ,"
+Ignored: "WA2TWS,,NJ,"
+Ignored: "WA2UBK,SHEL,NJ,"
+Ignored: "WA2VQF,,NJ,"
+Ignored: "WA2VUN,,NJ,"
+Ignored: "WA2VUY,,NJ,"
+Ignored: "WA2WEB,,NJ,"
+Ignored: "WA3RHW,,NJ,"
+Ignored: "WA4ATJ,,NJ,"
+Ignored: "WB2AA,,NJ,"
+Ignored: "WB2AZE,,NJ,"
+Ignored: "WB2BHC,,NJ,"
+Ignored: "WB2IDV,,NJ,"
+Ignored: "WB2J,,NJ,"
+Ignored: "WB2NPY,,NJ,"
+Ignored: "WB2OYC,,NJ,"
+Ignored: "WB2P,,NJ,"
+Ignored: "WB2PJH,DAVE,NJ,"
+Ignored: "WB2PMC,RICK,NJ,"
+Ignored: "WB2QNU,LOU,NJ,"
+Ignored: "WB2YIP,CHUCK,NJ,"
+Ignored: "WC2K,,NJ,"
+Ignored: "WK2M,,NJ,"
+Ignored: "WK2W,,NJ,"
+Ignored: "WN2DX,,NJ,"
+Ignored: "WN2T,GREG,NJ,"
+Ignored: "WO2T,AL,NJ,"
+Ignored: "WO2X,DAVE,NJ,"
+Ignored: "WO2Y,RICH,NJ,"
+Ignored: "WO5D,,NJ,"
+Ignored: "WQ2M,,NJ,"
+Ignored: "WQ2N,GARY,NJ,"
+Ignored: "WR2G,CRAIG,NJ,"
+Ignored: "WS2L,,NJ,"
+Ignored: "WU2T,,NJ,"
+Ignored: "WV2X,BAR,NJ,"
+Ignored: "WV2ZOW,MIKE,NJ,"
+Ignored: "WX2R,,NJ,"
+Ignored: "WX2S,,NJ,"
+Created NJQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
+Deleting ./QSOP_NJ-2025-001.txt
 -------- nmqp
 Most recent file: QSOP_NM-2026-001.txt
 QSOP_NM-2026-001.txt is already downloaded
+Parsing QSOP_NM-2026-001.txt
+Ignored: "K7ZOO/5,,ZOO,EXPEDITION,"
+Created NMQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NMQP_db.txt
 -------- nrau
 Most recent file: NRAUCW-004.txt
 NRAUCW-004.txt is already downloaded
+Parsing NRAUCW-004.txt
+"OZ0B,SJ" reoccurs as "OZ0B,SJ"
+Created NRAU_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NRAU_db.txt
 -------- nrrl-telefoni
 -------- ntc
 Most recent file: NTC_QP-049.txt
 NTC_QP-049.txt is already downloaded
+Parsing NTC_QP-049.txt
+Longest name is "MARIANNE" with 8 characters
+Contains members up to #313
+Created NTC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NTC_db.txt
 -------- nvqp
 No file matching 'QSOP_NV' found
 -------- nyqp
 Most recent file: QSOP_NY-2025-001.txt
 QSOP_NY-2025-001.txt is already downloaded
+Parsing QSOP_NY-2025-001.txt
+Created NYQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/NYQP_db.txt
+Deleting ./QSOP_NY-2024-002.txt
 -------- ohqp
 Most recent file: QSOP_OH-2026-003.txt
 QSOP_OH-2026-003.txt is already downloaded
+Parsing QSOP_OH-2026-003.txt
+Ignored: "KP2B,SANDRA,DX,"
+Ignored: "KP2M,PHIL,DX,"
+Ignored: "KP2RUM,RUM,DX,"
+Ignored: "KP3W,JOSE,DX,"
+Ignored: "KP4/K7RB,DICK,DX,"
+Ignored: "KP4AA,KEN,DX,"
+Ignored: "KP4JFR,JOSE,DX,"
+Ignored: "NP2X,ED,DX,"
+Ignored: "NP3A,ERIC,DX,"
+Ignored: "NP3KW,MANNY,DX,"
+Ignored: "NP3Y,PAUL,DX,"
+Ignored: "WP3Z,MANU,DX,"
+Created OHQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/OHQP_db.txt
 -------- ok-om
 Most recent file: OKOMDX.txt
 OKOMDX.txt is already downloaded
+Parsing OKOMDX.txt
+!!Order!!,Call,Exch1, --> call=1 state=2
+Created OK-OM_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/OK-OM_db.txt
 -------- okqp
 Most recent file: QSOP_OK-2026-002.txt
 QSOP_OK-2026-002.txt is already downloaded
+Parsing QSOP_OK-2026-002.txt
+Ignored: "N5XTR,Crew,COT/TIL,Cotton/Tillman"
+Created OKQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/OKQP_db.txt
 -------- onqp
 Most recent file: QSOP_ON-2026-003.txt
 QSOP_ON-2026-003.txt is already downloaded
+Parsing QSOP_ON-2026-003.txt
+"VE3AQ,YRK," reoccurs as "VE3AQ,YRK,York Region "
+Created ONQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/ONQP_db.txt
 -------- pabeker
 Most recent file: PABEKERCW.txt
 PABEKERCW.txt is already downloaded
+Parsing PABEKERCW.txt
+Created PABEKER_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/PABEKER_db.txt
 -------- pacc
 Most recent file: PACC-2026-006.txt
 PACC-2026-006.txt is already downloaded
+Parsing PACC-2026-006.txt
+Created PACC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/PACC_db.txt
 -------- paqp
 Most recent file: QSOP_PA-2025-003.txt
 QSOP_PA-2025-003.txt is already downloaded
+Parsing QSOP_PA-2025-003.txt
+Ignored: "VE8NSD,NT"
+Created PAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/PAQP_db.txt
+Deleting ./QSOP_PA-2025-004.txt
 -------- pcc
 Most recent file: PCC_NM-2025-002.txt
 PCC_NM-2025-002.txt is already downloaded
+Parsing PCC_NM-2025-002.txt
+Ignored: "VE2FK,DUB,"
+Created PCC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/PCC_db.txt
 -------- podxs
 -------- polar-radioman
 -------- qcqp
 Most recent file: QSOP_QC-2026-011.txt
 QSOP_QC-2026-011.txt is already downloaded
+Parsing QSOP_QC-2026-011.txt
+"VE3AQ,,YRK," reoccurs as "VE3AQ,,YRK,York Region "
+Ignored: "VE8EV,JOHN,NT,"
+Ignored: "VE8MN,MATTHEW,NT,"
+Ignored: "VE8NC,DAVE,NT,"
+Ignored: "VO1AW,BRIAN,NL,"
+Ignored: "VO1AX,MIKE,NL,"
+Ignored: "VO1BQ,JOE,NL,"
+Ignored: "VO1GO,GREG,NL,"
+Ignored: "VO1GRC,GRC,NL,"
+Ignored: "VO1HE,PAUL,NL,"
+Ignored: "VO1HP,FRANK,NL,"
+Ignored: "VO1IV/M,AARON,NL,"
+Ignored: "VO1TTY,FRANK,NL,"
+Ignored: "VO1UK,DWAYNE,NL,"
+Ignored: "VO1XC,LAURENCE,NL,"
+Ignored: "VO2AC,CHRIS,NL,"
+Created QCQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/QCQP_db.txt
 -------- r4c-cup
 -------- r4w-champ
 -------- radioylom
 Most recent file: RUSYLOM-002.txt
 RUSYLOM-002.txt is already downloaded
+Parsing RUSYLOM-002.txt
+"UB3T,88," reoccurs as "UB3T,73,"
+"UA6U,88," reoccurs as "UA6U,73,"
+"RZ5Z,88," reoccurs as "RZ5Z,73,"
+"RU4LM,73," reoccurs as "RU4LM,73,"
+Created RADIOYLOM_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/RADIOYLOM_db.txt
 -------- raem
 Most recent file: RAEM_2026.txt
 RAEM_2026.txt is already downloaded
+Parsing RAEM_2026.txt
+Created RAEM_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/RAEM_db.txt
 -------- rcc
 Most recent file: RCCCUP_2025.txt
 RCCCUP_2025.txt is already downloaded
+Parsing RCCCUP_2025.txt
+Created RCC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/RCC_db.txt
 -------- rcpw
 -------- rcwc
 -------- rdac
 Most recent file: RDAC_2026-001.txt
 RDAC_2026-001.txt is already downloaded
+Parsing RDAC_2026-001.txt
+Ignored: "RI1ANC,020"
+Created RDAC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDAC_db.txt
+Deleting ./huge/RDAC_2020.txt ./huge/RDAC_huge_csv.txt ./huge/RDAC_huge_db.txt
 -------- rdxc
 Most recent file: RussianDX-2026.txt
 RussianDX-2026.txt is already downloaded
+Parsing RussianDX-2026.txt
+R0/KE5JA: file: SL
+R0/N6TCZ: file: PK
+R0AIB/3: file: VR rule: KK
+R0XAC/1: file: LO rule: KT
+R1941MB: file: MO
+R1943KB: file: KU
+R1943O: file: OR
+R1961G: file: SM
+R1AT/1: file: KL rule: SP
+R1AY: file: LO rule: SP
+R1BET: file: LO rule: SP
+R1BEV: file: PS rule: SP
+R1CF: file: SP rule: LO
+R1DX: file: SP rule: LO
+R1FW: file: LO rule: SP
+R1MA/1: file: LO rule: SP
+R1MJ: file: LO rule: SP
+R1NW/3: file: NN rule: KL
+R1OO/1: file: VO rule: AR
+R1ZZ/1: file: NV rule: MU
+R2AA: file: VR rule: MA
+R2AB: file: MO rule: MA
+R2AB/4: file: NN rule: MA
+R2ADF/A: file: MO rule: MA
+R2ADJ: file: MO rule: MA
+R2AF/3: file: MO rule: MA
+R2AHC: file: MO rule: MA
+R2AKS/1: file: NV rule: MA
+R2AP/6: file: RK rule: MA
+R2AWV: file: MO rule: MA
+R2DEQ/3: file: IV rule: MO
+R2DX/6: file: AO rule: MO
+R2ET/9: file: NS rule: OR
+R2MWO: file: KA rule: YR
+R2TT/3: file: VL rule: NN
+R3/SM6LRR: file: MO
+R3/UR5IRM: file: MA
+R3AAA/6: file: KR rule: MA
+R3AIR: file: RA rule: MA
+R3AP: file: MO rule: MA
+R3AQ/3: file: MO rule: MA
+R3AR/9: file: OM rule: MA
+R3BM: file: MO rule: MA
+R3CM: file: MO rule: MA
+R3HQ: file: MA rule: MO
+R3K: file: MO rule: VR
+R3OM/3: file: BO rule: VR
+R3WW/3: file: BO rule: KU
+R4FCJ/3: file: YR rule: PE
+R4FD/4: file: MD rule: PE
+R4PJ: file: CU rule: TA
+R5AJ: file: MO rule: MA
+R5AV: file: MO rule: MA
+R5BD: file: МО rule: MA
+R5QA/4: file: SA rule: VR
+R5QQ/1: file: KO rule: VR
+R5RQQ/3: file: MO rule: TB
+R6/UT4UT: file: KR
+R6LBC/3: file: MO rule: RO
+R6LC/7: file: ST rule: RO
+R6LDD/6: file: KR rule: RO
+R7BA/1: file: KO rule: KR
+R7BA/9: file: KO rule: KR
+R7RF/6: file: KR rule: SE
+R8MB/1: file: KO rule: OM
+R8XF/4: file: KI rule: KO
+R8XW/8: file: YN rule: KO
+R9CB/9: file: CB rule: SV
+R9CZA/9: file: HM rule: SV
+R9DX: file: KN rule: SV
+R9JBN/4: file: PE rule: HM
+R9JO/6: file: KR rule: HM
+R9KD/6: file: RK rule: YN
+R9LAR/3: file: LP rule: TN
+R9MA/1: file: NO rule: OM
+R9XT/1: file: NO rule: KO
+R9XZ/3: file: SM rule: KO
+RA/DK2AI: file: ZK
+RA0/KE5JA: file: SL
+RA0UF/8: file: TN rule: ZK
+RA0UF/9: file: BU rule: ZK
+RA1A: file: LO rule: SP
+RA1ABH: file: LO rule: SP
+RA1AFR: file: LO rule: SP
+RA1AIP: file: LO rule: SP
+RA1ALA/8: file: YN rule: SP
+RA1AP/1: file: VO rule: SP
+RA1AY: file: LO rule: SP
+RA1ZZ/7: file: CN rule: MU
+RA1ZZ/3: file: MA rule: MU
+RA22MX: file: OM
+RA22XA: file: KO
+RA22XU: file: KO
+RA27OA: file: NS
+RA3AFH: file: MO rule: MA
+RA3AKT: file: MO rule: MA
+RA3AL: file: MO rule: MA
+RA3ARS/4: file: SR rule: MA
+RA3AV: file: MO rule: MA
+RA3BE/3: file: RA rule: MA
+RA3BQ/3: file: KG rule: MA
+RA3CO: file: MO rule: MA
+RA3DAV: file: MA rule: MO
+RA3DI/3: file: TV rule: MO
+RA3DQP/3: file: MA rule: MO
+RA3ICK/3: file: MO rule: TV
+RA3LDX/4: file: TA rule: SM
+RA3VX/3: file: IV rule: VL
+RA3YDJ/3: file: MO rule: BR
+RA4DR/3: file: SM rule: SA
+RA4F/6: file: KR rule: PE
+RA4FCJ/9: file: HM rule: PE
+RA4FW/3: file: SM rule: PE
+RA4LFQ/4: file: NN rule: UL
+RA55GC: file: MO
+RA56GC: file: MO
+RA57GC: file: MO
+RA5BI: file: MO rule: MA
+RA6/RA6A: file: KR
+RA6FTH/6: file: VG rule: ST
+RA8AO: file: SV rule: CB
+RA9DZ/8: file: CB rule: SV
+RA9DZ/9: file: CB rule: SV
+RA9FW/9: file: SV rule: PM
+RA9I/9: file: NS rule: TO
+RA9JG/0: file: IR rule: HM
+RA9JP/8: file: TN rule: HM
+RA9JP/9: file: CB rule: HM
+RA9JR/9: file: CB rule: HM
+RA9LR: file: TM rule: TN
+RA9SB/3: file: MO rule: OB
+RA9UIV/9: file: NS rule: KE
+RA9WN/9: file: HM rule: BA
+RC1BQ: file: LO rule: SP
+RC2A: file: MO rule: MA
+RC2A/3: file: MO rule: MA
+RC4A/6: file: AO rule: VG
+RC55GC: file: KG
+RC57GC: file: KG
+RC5A/1: file: LO rule: MA
+RC7LI/3: file: MO rule: RO
+RC8X/9: file: YN rule: KO
+RD0CD/0: file: EA rule: HK
+RD0D/0: file: PK rule: EA
+RD1D: file: SP rule: LO
+RD22DD: file: SP
+RD22FU: file: KA
+RD3ADC/3: file: MO rule: MA
+RD3AW: file: MO rule: MA
+RD3BAP: file: MO rule: MA
+RD3BC: file: MO rule: MA
+RD3BW: file: MO rule: MA
+RD4AL/0: file: ZK rule: VG
+RD6LK/3: file: MO rule: RO
+RD9CX/6: file: KR rule: SV
+RD9FL/4: file: KI rule: PM
+RF9M: file: PM rule: OM
+RG22EM: file: KC
+RG2A: file: MO rule: MA
+RG61PP: file: SM
+RJ3AA: file: MO rule: MA
+RJ5DX: file: MA rule: MO
+RK1AD/1: file: LO rule: SP
+RK1G: file: SM rule: SP
+RK22AA: file: KR
+RK22KR: file: KR
+RK2T/6: file: KR rule: NN
+RK3AOW: file: MO rule: MA
+RK3AW/P: file: YR rule: MA
+RK3BX: file: VL rule: MA
+RK3DXS/3: file: TL rule: MO
+RK3TD/6: file: KR rule: NN
+RK4HZ/3: file: TB rule: SR
+RK4PA/9: file: HM rule: TA
+RL22GM: file: LP
+RL3A: file: SM rule: MA
+RL3A/4: file: NN rule: MA
+RL3BM: file: MO rule: MA
+RL4R/6: file: AD rule: TA
+RL4R/8: file: SV rule: TA
+RL6M/6: file: KM rule: RO
+RL8C/9: file: OM rule: SV
+RM16CW: file: SE
+RM4HW/6: file: KR rule: SR
+RM4W/4: file: TA rule: UD
+RM55GC: file: MA
+RM57GC: file: MA
+RM5A: file: MO rule: MA
+RM5C/3: file: VL rule: MA
+RM72DZ: file: SP
+RM8L/8: file: SV rule: TN
+RM8X/3: file: VR rule: KO
+RM9I/2: file: KA rule: TO
+RN0CF/9: file: YN rule: HK
+RN22OG: file: KO
+RN3AC/3: file: TV rule: MA
+RN3AHL: file: MO rule: MA
+RN3BO/3: file: VR rule: MA
+RN3D/3: file: RA rule: MO
+RN3DHB: file: MA rule: MO
+RN3FK: file: MA rule: MO
+RN3K/3: file: MA rule: VR
+RN3QO: file: MO rule: VR
+RN3RGM: file: MO rule: TB
+RN3RQ/3: file: MO rule: TB
+RN3TT/3: file: VR rule: NN
+RN4ACZ/1: file: SP rule: VG
+RN4HGJ/1: file: SP rule: SR
+RN5X/1: file: NV rule: KG
+RN9A/9: file: KK rule: CB
+RN9AA/9: file: SV rule: CB
+RN9N/4: file: PM rule: OM
+RN9N/8: file: SV rule: OM
+RN9O/8: file: CB rule: NS
+RO5D: file: MA rule: MO
+RP1AL: file: LO rule: SP
+RP1CDV: file: SP rule: LO
+RP1K: file: SP rule: KL
+RQ0C/4: file: MD rule: HK
+RQ4D/1: file: SP rule: SA
+RQ4D/8: file: CB rule: SA
+RQ4D/9: file: NS rule: SA
+RQ5D/6: file: RO rule: MO
+RT2C: file: MO rule: MA
+RT3B: file: MO rule: MA
+RT3C: file: MO rule: MA
+RT3R/3: file: TV rule: TB
+RT4C/8: file: SV rule: SA
+RT4M/6: file: KR rule: UL
+RT5C/3: file: VR rule: MA
+RT9T/3: file: LP rule: OB
+RT9UT/9: file: NS rule: KE
+RU1MQ: file: LO rule: SP
+RU3DNN: file: VL rule: MO
+RU3DUY: file: MA rule: MO
+RU3FB: file: MA rule: MO
+RU3NHY/3: file: BO rule: KS
+RU3NHY/4: file: SA rule: KS
+RU3OZ: file:  VR rule: VR
+RU3VV/3: file: TV rule: VL
+RU3XY/1: file: NV rule: KG
+RU4CS/6: file: KR rule: SA
+RU4W/3: file: MO rule: UD
+RU55GC: file: SA
+RU57GC: file: SA
+RU5A: file: MO rule: MA
+RU9CK/7: file: ST rule: SV
+RV0CS/0: file: EA rule: HK
+RV1AY: file: LO rule: SP
+RV1CC: file: SP rule: LO
+RV2FW/1: file: SP rule: KA
+RV3KS/3: file: MO rule: VR
+RV3WS/3: file: MO rule: KU
+RV3YG/6: file: KR rule: BR
+RV6ALI/1: file: KL rule: KR
+RV6ASU/6: file: AD rule: KR
+RV6FA/6: file: KC rule: ST
+RV6LMG/3: file: MO rule: RO
+RV9AZ/3: file: YR rule: CB
+RV9CQ/9: file: CB rule: SV
+RV9WMZ/4: file: TA rule: BA
+RV9XE/3: file: VR rule: KO
+RW0BG/9: file: SV rule: KK
+RW1A: file: LO rule: SP
+RW1AC: file: LO rule: SP
+RW1AI/9: file: KK rule: SP
+RW1QM/1: file: LO rule: VO
+RW22QA: file: KN
+RW2B/3: file: MO rule: MA
+RW3AJX: file: MO rule: MA
+RW3BO: file: MO rule: MA
+RW3CW: file: MO rule: MA
+RW3DA: file: MA rule: MO
+RW3DIA: file: MA rule: MO
+RW3DQC: file: MA rule: MO
+RW3F: file: TL rule: MO
+RW3FR: file: MA rule: MO
+RW3LG/0: file: PK rule: SM
+RW3O/4: file: PE rule: VR
+RW3YC/0: file: KK rule: BR
+RW4AA/9: file: YN rule: VG
+RW4LE/7: file: IN rule: UL
+RW4WR/3: file: TB rule: UD
+RW4YA/9: file: IR rule: CU
+RW57GC: file: AM
+RW5CW/3: file: MO rule: MA
+RW6BA/9: file: KO rule: KR
+RW6HJV/3: file: MO rule: ST
+RW6HJV/6: file: AD rule: ST
+RW9AV: file: YN rule: CB
+RW9QA/8: file: SV rule: KN
+RX1A: file: LO rule: SP
+RX1AG/7: file: ST rule: SP
+RX3AMG: file: MO rule: MA
+RX3APM: file: MO rule: MA
+RX3DPK: file: MA rule: MO
+RX4W/3: file: KS rule: UD
+RX57GC: file: MA
+RX9ABH/3: file: MO rule: CB
+RX9AI/8: file: SV rule: CB
+RX9AI/9: file: SV rule: CB
+RX9CHY/8: file: YN rule: SV
+RX9CHY/9: file: YN rule: SV
+RX9JM/9: file: TN rule: HM
+RX9SN/8: file: YN rule: OB
+RY22MC: file: OM
+RY3D/3: file: VL rule: MO
+RY7F/6: file: KR rule: ST
+RZ0CWA/0: file: EA rule: HK
+RZ16FQ: file: MA
+RZ16RU: file: TB
+RZ1AN: file: LO rule: SP
+RZ1AZ/1: file: LO rule: SP
+RZ3ABC: file: MO rule: MA
+RZ3AED: file: MO rule: MA
+RZ3AMW/3: file: VL rule: MA
+RZ3ARO/6: file: RO rule: MA
+RZ4LQ/3: file: MO rule: UL
+RZ9DX/9: file: KK rule: SV
+RZ9HX/9: file: KE rule: TO
+RZ9SZ/3: file: MO rule: OB
+RZ9WF/8: file: HM rule: BA
+RZ9Y: file: KR rule: AL
+UA0AD/3: file: YR rule: KK
+UA0AZA: file: CB rule: KK
+UA0FGM: file: SA rule: SL
+UA0IDZ/0: file: YA rule: MG
+UA0IT/6: file: KR rule: MG
+UA0KCX/3: file: MO rule: CK
+UA0SIK/0: file: PK rule: IR
+UA1ABJ/A: file: LO rule: SP
+UA1AFT/2: file: KA rule: SP
+UA1AFZ/1: file: LO rule: SP
+UA1AIK: file: NV rule: SP
+UA1AIK/1: file: NV rule: SP
+UA1ANA: file: LO rule: SP
+UA1ATD/1: file: LO rule: SP
+UA1CE: file: SP rule: LO
+UA1DZ: file: SP rule: LO
+UA1HY: file: LO rule: SP
+UA1NA: file: LO rule: KL
+UA1ZMX/4: file: SA rule: MU
+UA2AB: file: KA rule: MA
+UA2AN: file: KA rule: MA
+UA2CZ: file: KA rule: MA
+UA2DC: file: KA rule: MO
+UA2DF: file: KA rule: MO
+UA2FFX/1: file: SP rule: KA
+UA2FT/6: file: KR rule: KA
+UA3AGU: file: MO rule: MA
+UA3BAJ/3: file: RA rule: MA
+UA3BB: file: MO rule: MA
+UA3BL: file: MO rule: MA
+UA3BZ: file: MO rule: MA
+UA3CS: file: MO rule: MA
+UA3DJY: file: MA rule: MO
+UA3DLD/3: file: TV rule: MO
+UA3DSS/3: file: VL rule: MO
+UA3EGX/3: file: MO rule: OR
+UA3FQ: file: MA rule: MO
+UA3FX: file: MA rule: MO
+UA3FX/4: file: KI rule: MO
+UA3GX/3: file: KG rule: LP
+UA3HR: file: MA rule: MO
+UA3LDU/3: file: MA rule: SM
+UA3LMR/3: file: MA rule: SM
+UA3RU/3: file: RA rule: TB
+UA4ASE/6: file: KR rule: VG
+UA4SBZ/3: file: SM rule: MR
+UA5B: file: MO rule: MA
+UA6A/7: file: IN rule: KR
+UA6BBI/6: file: RO rule: KR
+UA6BH/4: file: KI rule: KR
+UA6RD: file: CN rule: SE
+UA6XDX/3: file: VR rule: KB
+UA7XA/3: file: TL rule: KB
+UA8AA/5: file: MO rule: CB
+UA9/RN0CF: file: YN
+UA9AU/8: file: SV rule: CB
+UA9CBB/9: file: CB rule: SV
+UA9CDC/6: file: KR rule: SV
+UA9JH: file: TN rule: HM
+UA9JIX: file: TN rule: HM
+UA9JO: file: YN rule: HM
+UA9JO/8: file: TN rule: HM
+UA9KAA/4: file: BA rule: YN
+UA9KAA/9: file: BA rule: YN
+UA9KGH/1: file: SP rule: YN
+UA9LAO/4: file: SR rule: TN
+UA9MLT/8: file: SV rule: OM
+UA9MRX/3: file: MA rule: OM
+UA9MRY/1: file: NO rule: OM
+UA9OOQ/0: file: PK rule: NS
+UA9QCP/3: file: MA rule: KN
+UA9QCQ: file: SV rule: KN
+UA9SUV/8: file: YN rule: OB
+UA9UAX/9: file: AL rule: KE
+UA9XCI/6: file: KR rule: KO
+UA9XHT/9: file: YN rule: KO
+UA9XK/1: file: AR rule: KO
+UA9XLE/3: file: VR rule: KO
+UA9ZZ: file: AL rule: GA
+UA9ZZ/9: file: AL rule: GA
+UB0AJJ/3: file: VR rule: KK
+UB1AHY/1: file: NV rule: SP
+UB3A: file: MO rule: MA
+UB3YAQ/3: file: MO rule: BR
+UB4UAE/UB4W: file: UD rule: MD
+UB5O/3: file: TB rule: VR
+UB9JBN/4: file: PE rule: HM
+UC7T/9: file: HM rule: ST
+UE0RFF: file: YA rule: IR
+UE25AFG: file: VR
+UE25R: file: TB
+UE60QA: file: YA
+UE70KD: file: KU
+UE70Y: file: TU
+UE90K: file: KO
+UI3A/7: file: DA rule: MA
+UI5R/3: file: RA rule: TB
+Created RDXC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDXC_db.txt
 -------- ref
 Most recent file: REFCW.txt
 REFCW.txt is already downloaded
+Parsing REFCW.txt
+Created REF_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/REF_db.txt
 -------- rybnickie
 -------- sacw
 Most recent file: SACW-008.txt
 SACW-008.txt is already downloaded
+Parsing SACW-008.txt
+Created SACW_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/SACW_db.txt
 -------- scqp
 Most recent file: QSOP_SC-2026-002.txt
 QSOP_SC-2026-002.txt is already downloaded
+Parsing QSOP_SC-2026-002.txt
+Created SCQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/SCQP_db.txt
 -------- scwc
 -------- sdqp
 Most recent file: QSOP_SD-2026-001.txt
 QSOP_SD-2026-001.txt is already downloaded
+Parsing QSOP_SD-2026-001.txt
+Created SDQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/SDQP_db.txt
 -------- spdx
 Most recent file: SPDXcwssb_26_KP.txt
 SPDXcwssb_26_KP.txt is already downloaded
+Parsing SPDXcwssb_26_KP.txt
+"SP8YB,K" reoccurs as "SP8YB,K"
+Created SPDX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/SPDX_db.txt
 -------- spdxrtty
 -------- spotc
 -------- ssa-mt
 -------- stewperry
 Most recent file: STEWPERRY-008.txt
 STEWPERRY-008.txt is already downloaded
+Parsing STEWPERRY-008.txt
+File contained 15741 calls
+Created StewPerry_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/StewPerry_db.txt
+-------- supercheckhistory
 -------- tenten
 Most recent file: 1010RTTY-021.txt
 1010RTTY-021.txt is already downloaded
+Parsing 1010RTTY-021.txt
+Name is "CLUB" for KL5DX/W5
+Ignored: "KR4DVN/P4,MANUEL,P4,"
+Name is "CLUB" for NK4MN
+Name is "CLUB" for SN9A
+Name is "CLUB" for W1NRG
+Name is "CLUB" for W5FMH
+Name is "CLUB" for W5LPX
+Name is "CLUB" for W7ORE
+Longest name is "TUBARONICOS" with 11 characters
+Created TENTEN_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/TENTEN_db.txt
 -------- thirteencolonies
 Most recent file: 13COLONIES-001.txt
 13COLONIES-001.txt is already downloaded
+Parsing 13COLONIES-001.txt
+"!!Order!!,Call,Name,Exch1,UserText," --> call=1 state=3
+Created 13COLONIES_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/13COLONIES_db.txt
 -------- tnqp
 Most recent file: QSOP_TN-2026-007.txt
 QSOP_TN-2026-007.txt is already downloaded
+Parsing QSOP_TN-2026-007.txt
+Created TNQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/TNQP_db.txt
 -------- tpqso
 -------- trc
 Most recent file: TRCDX_new.txt
 TRCDX_new.txt is already downloaded
+Parsing TRCDX_new.txt
+Ignored: "EX8004,TRC,"
+Ignored: "IUHMB,TRC,"
+Created TRC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/TRC_db.txt
 -------- txqp
 Most recent file: QSOP_TX-2026-005.txt
 QSOP_TX-2026-005.txt is already downloaded
+Parsing QSOP_TX-2026-005.txt
+Created TXQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/TXQP_db.txt
 -------- ua1dz
 Most recent file: DZCUP_new.txt
 DZCUP_new.txt is already downloaded
+Parsing DZCUP_new.txt
+Ignored2: "HGM3DXC,,JN96,"
+Ignored2: "HGM3O,,JN96,"
+Ignored1: "R1LK,,KO59,"
+Ignored1: "R1LN,,KP50,"
+Ignored1: "R1MA,,KO59,"
+Ignored1: "R1MJ,,KO59,"
+Ignored1: "R1MQ,,KO59,"
+Ignored1: "R1MVA,,KP40,"
+Ignored1: "RA1M,,KO59,"
+"RG1L,,SP04," reoccurs as "RG1L,,KP50,"
+Ignored1: "RW1M,,KO59,"
+Ignored1: "U1BA,,KO85,"
+Ignored1: "U1BD,,KO59,"
+Ignored1: "UF1M,,KO85,"
+Created UA1DZ_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/UA1DZ_db.txt
 -------- ua2qp
 Most recent file: UA2QP_2026.txt
 UA2QP_2026.txt is already downloaded
+Parsing UA2QP_2026.txt
+Created UA2_QP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/UA2_QP_db.txt
 -------- uba-dx-on-spring
 -------- uft
 -------- ukeicc
 Most recent file: UKEI80_VHF-new.txt
 UKEI80_VHF-new.txt is already downloaded
+Parsing UKEI80_VHF-new.txt
+"!!Order!!,Call,Name,Loc1,UserText," --> Exchange column is 3
+Created UKEI80_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/UKEI80_db.txt
+Deleting ./UKEI80_VHF.txt
 -------- ukeidx
 Most recent file: UKEIDXCW.txt
 UKEIDXCW.txt is already downloaded
+Parsing UKEIDXCW.txt
+Created UKEIDX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/UKEIDX_db.txt
 -------- undxc
 Most recent file: UNDXC_2026.txt
 UNDXC_2026.txt is already downloaded
+Parsing UNDXC_2026.txt
+"!!Order!!, Call, Sect," --> call=1 col=2
+Created UNDXC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/UNDXC_db.txt
 -------- uqrqc
 -------- urcdxrtty
 Most recent file: URC-DX-RY_2027.txt
 URC-DX-RY_2027.txt is already downloaded
+Parsing URC-DX-RY_2027.txt
+"!!Order!!,Call,Exch1,UserText," --> call=1 col=2
+Bad exchange: "CY0,SPL,"
+Bad exchange: "CY9,SBL,"
+Bad exchange: "IK1UGX,ITA,"
+Bad exchange: "KI30,VGN,"
+Bad exchange: "VYIJA,YKN,"
+Created URCDXRTTY_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/URCDXRTTY_db.txt
+Deleting ./URC-DX-RY-2026-001.txt ./URC-DX-RY_2026-002.txt
 -------- urdxc
 -------- vaqp
 Most recent file: QSOP_VA-2026-004.txt
 QSOP_VA-2026-004.txt is already downloaded
+Parsing QSOP_VA-2026-004.txt
+Created VAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/VAQP_db.txt
 -------- vhfreg1
 -------- vidovdan
 -------- vojvodina
@@ -368,29 +1852,58 @@ No file matching 'WAPC_HISTORY' found
 -------- waqp
 Most recent file: QSOP_WA-2025-002.txt
 QSOP_WA-2025-002.txt is already downloaded
+Parsing QSOP_WA-2025-002.txt
+Created WAQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/WAQP_db.txt
 -------- wfd
 -------- wiqp
 Most recent file: QSOP_WI-2026-006.txt
 QSOP_WI-2026-006.txt is already downloaded
+Parsing QSOP_WI-2026-006.txt
+Irregular VE call VE1AFY with exchange NB
+Irregular VE call VE1BQC with exchange NB
+Created WIQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/WIQP_db.txt
 -------- wrt
 Most recent file: WRT-074.txt
 WRT-074.txt is already downloaded
+Parsing WRT-074.txt
+Longest name is "CHRISTOPHER" with 11 characters
+Created WRT_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/WRT_db.txt
 -------- wtzc
 -------- wvqp
 Most recent file: QSOP_WV-2026-002.txt
 QSOP_WV-2026-002.txt is already downloaded
+Parsing QSOP_WV-2026-002.txt
+Created WVQP_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/WVQP_db.txt
 -------- wwff
 -------- wwpmc
 Most recent file: WWPMC_2024.txt
 WWPMC_2024.txt is already downloaded
+Parsing WWPMC_2024.txt
+Ignored: "R4ACY,OX,"
+Created WWPMC_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/WWPMC_db.txt
 -------- xertty
 Most recent file: XERTTY-001.txt
 XERTTY-001.txt is already downloaded
+Parsing XERTTY-001.txt
+Created XE_RTTY_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/XE_RTTY_db.txt
+Deleting ./XERTTY-000.txt
 -------- yodx
 Most recent file: YOHFDX_2026_KP.txt
 YOHFDX_2026_KP.txt is already downloaded
+Parsing YOHFDX_2026_KP.txt
+Created YODX_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/YODX_db.txt
 -------- yota
 Most recent file: YOTA_2026-001.txt
 YOTA_2026-001.txt is already downloaded
+Parsing YOTA_2026-001.txt
+Created YOTA_db.txt
+Updated /mnt/c/Users/SM7IUN/source/repos/k1xm/DXLog.net/DXLog.net/Database/YOTA_db.txt
 -------- yu
 -------- yudxc

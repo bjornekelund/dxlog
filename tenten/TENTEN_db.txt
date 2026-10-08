@@ -2,7 +2,7 @@
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
 # Longest name is "TUBARONICOS" with 11 characters)
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 2E0CPM=CARL;0;
 2E0FKB=MARK;0;
 2E0FVN=MARK;0;

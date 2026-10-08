@@ -2,7 +2,7 @@
 # YOTA prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 2E0AMO=71
 2E0BIF=43
 2E0BKU=58

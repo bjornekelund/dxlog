@@ -2,7 +2,7 @@
 # JARL WW RTTY Contest prefill database for 2026
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 2E0CVN=39
 2E0FHM=55
 3Z9W=78

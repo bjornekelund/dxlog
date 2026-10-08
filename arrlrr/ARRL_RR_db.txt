@@ -1,7 +1,7 @@
 # ARRL Rookie Roundup prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-07
+# Last updated 2026-10-08
 AA0A=DENNIS;60;MO
 AA0AC=DAVE;96;MN
 AA0AW=DOUG;86;MN
