@@ -1,7 +1,7 @@
 # Arizona QSO Party prefill database
 # Based on data maintained by Claude VE2FK
 # Report updates and corrections directly to ve2fk@arrl.net
-# Last updated 2026-10-08
+# Last updated 2026-10-10
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -8449,6 +8449,7 @@ N7NM=WA
 N7NR=CA
 N7NTN=NV
 N7NTQ=WA
+N7NWL=MCP
 N7OC=WA
 N7OG=UT
 N7OMS=WA
@@ -14165,7 +14166,7 @@ WW7Q=NV
 WW8L=CO
 WW8M=MI
 WW9L=IL
-WW9R=CNO
+WW9R=PMA
 WX0B=TX
 WX0EMT=TN
 WX0V=MN
