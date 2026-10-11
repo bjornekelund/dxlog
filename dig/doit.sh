@@ -28,7 +28,7 @@ else
     echo Downloaded $WEBFILE, parsing...
 
     dos2unix -q $WEBFILE
-    cat $WEBFILE | sed 's/\"//g' | sed 's/\\N//g' | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/^#0. /# /g' > $OUTFILE
+    cat $WEBFILE | csvsort -H -c 3,1 | sed 's/\"//g' | sed 's/\\N//g' | gawk -f dig.awk | sort | sed 's/=0*/=/g' | sed 's/^#0. /# /g' > $OUTFILE
     # cat $WEBFILE | sed 's/\"//g' | sed 's/\\N//g' | gawk -f dig.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE

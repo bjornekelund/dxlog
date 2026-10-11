@@ -1,6 +1,7 @@
 BEGIN {
   FS = ",";
   maxmem = 1;
+  PROCINFO["sorted_in"] = "@ind_num_desc";
 }
 {
   if ($3 ~ /^[0-9]{4}$/ && $2 ~ /J/)
@@ -14,82 +15,79 @@ BEGIN {
 END {
   for (memberid in _memid)
   {
-    basecall = _call[memberid];
+    primarycall = _call[memberid];
     other = _others[memberid];
     name = _name[memberid];
-    if (basecall ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && basecall !~ /^DE/)
+    if (primarycall ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && primarycall !~ /^DE/)
     { 
-      if (basecalls[basecall] != "") 
+      if (primarycalls[primarycall] != "") 
       {
-        printf("%s reappears\n", basecall) > "/dev/stderr";
+        printf("%s reappears\n", primarycall) > "/dev/stderr";
       }
-      basecalls[basecall] = basecall;
-      basemems[basecall] = memberid;
-      basenames[basecall] = name;
-      delete othercalls[basecall];
+      primarycalls[primarycall] = primarycall;
+      primarynumbers[primarycall] = memberid;
+      delete secondarycalls[primarycall];
       if (int(memberid) > int(maxmem)) maxmem = memberid;
-      # printf("memberid > maxmem = %s memberid=%s, maxmem=%s\n", (memberid > maxmem) ? "true" : "false", memberid, maxmem) > "/dev/stderr";
       if (other != "")
       {
-        count = split(toupper(other), othercall, " ")
+        count = split(toupper(other), seccalls, " ")
         for (i = 1; i <= count; i++)
         {
-          otc = othercall[i];
-          if (otc == "S560R") otc = "S56OR";
-          if (otc == "DL6ES(Y43)") otc = "DL6ES";
-          if (otc == "VIA_DF4UM") otc = "DF4UM";
-          if (otc ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,4}[A-Z]{1,3}$/ && otc !~ /^DE/)
+          secc = seccalls[i];
+          if (secc == "S560R") secc = "S56OR";
+          if (secc == "DL6ES(Y43)") secc = "DL6ES";
+          if (secc == "VIA_DF4UM") secc = "DF4UM";
+          if (secc ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,4}[A-Z]{1,3}$/ && secc !~ /^DE/)
           {
-            othercalls[basecall][othercall[i]] = otc;
-            othermems[basecall][othercall[i]] = memberid;
+            secondarycalls[primarycall][secc] = secc;
           }
-          else if (otc !~ /SWL|\-|^DE|[0-9]$|^[A-Z]$|CALL|/)
+          else if (secc !~ /SWL|\-|^DE|[0-9]$|^[A-Z]$|CALL|/)
           {
-            printf("Ignored other call: \"%s\" in \"%s\"\n", otc, $0) > "/dev/stderr";
+            printf("Ignored other call: \"%s\" in \"%s\"\n", secc, $0) > "/dev/stderr";
           }
         }
       }
     }
-    else if (basecall !~ /SWL|\-|^DE|[0-9]$|CALL/)
+    else if (primarycall !~ /SWL|\-|^DE|[0-9]$|CALL/)
     {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
-  ocount = 0;
-  for (bc in basecalls)
+  seccount = 0;
+  for (pc in primarycalls)
   {
-    printf("%s=%s\n", basecalls[bc], basemems[bc]);
-    # printf("primary=%s(%s)", basecalls[bc], basemems[bc]) > "/dev/stderr";
-    for (oc in othercalls[bc])
+    printf("%s=%s\n", primarycalls[pc], primarynumbers[pc]);
+    # printf("primary=%s(%s)", primarycalls[pc], primarynumbers[pc]) > "/dev/stderr";
+    for (sc in secondarycalls[pc])
     {
       foundb = "";
-      for (e in basecalls)
+      for (e in primarycalls)
       {
-        if (oc == e) foundb = e;
-        for (oe in othercalls[e])
+        if (sc == primarycalls[e]) foundb = e;
+        for (oe in secondarycalls[e])
         {
-          if (oc == oe) foundo = e;
+          if (sc == secondarycalls[e][oe]) foundo = e;
         }
       }
       if (foundb == "")
       {
-        printf("%s=%s\n", oc, basemems[bc]);
-        # printf(" other=%s ", oc) > "/dev/stderr";
-        ocount++
+        printf("%s=%s\n", sc, primarynumbers[pc]);
+        # printf(" other=%s ", sc) > "/dev/stderr";
+        seccount++
       }
       else if (foundb != "")
       {
-        printf("Secondary call %s for %s already member #%s's primary call\n", oc, bc, basemems[foundb]) > "/dev/stderr";
+        printf("Secondary call %s for %s already member #%s's primary call\n", sc, pc, primarynumbers[foundb]) > "/dev/stderr";
       }
       else if (foundo != "")
       {
-        printf("Secondary call %s for %s already member #%s's secondary call\n", oc, bc, basemems[foundo]) > "/dev/stderr";
+        printf("Secondary call %s for %s already member #%s's secondary call\n", sc, pc, primarynumbers[foundo]) > "/dev/stderr";
       }
     }
     # printf("\n") > "/dev/stderr";
   }
-  printf("%d primary calls\n", length(basecalls)) > "/dev/stderr";
-  printf("%d secondary calls\n", ocount) > "/dev/stderr";
+  printf("%d primary calls\n", length(primarycalls)) > "/dev/stderr";
+  printf("%d secondary calls\n", seccount) > "/dev/stderr";
 
   printf("#00 DIG members prefill database\n");
   printf("#01 Based on official member roster at https://diplom-interessen-gruppe.info \n");
