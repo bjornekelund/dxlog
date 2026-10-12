@@ -15,7 +15,7 @@ echo Downloading $ZIPFILE
 
 wget -q https://bit.ly/itudtb -O $DOWNLOAD
 
-if cmp $ZIPFILE $DOWNLOAD; then 
+if cmp -s $ZIPFILE $DOWNLOAD; then 
     echo "The latest zip file is already downloaded."
     rm -f $DOWNLOAD
     exit 0

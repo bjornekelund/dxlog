@@ -14,7 +14,7 @@ curl -fsSL --connect-timeout 5 --max-time 20 https://site.cwjf.com.br/membros-ex
 
 dos2unix -q $DOWNLOAD
 
-if cmp $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
     echo "The latest file is already downloaded."
     rm -f $DOWNLOAD
     exit 0

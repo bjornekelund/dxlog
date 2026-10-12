@@ -22,7 +22,7 @@ else
 
     if cmp -s $OUTFILE $OLDFILE && [ -z "$1" ]; then 
         echo "The latest file is already downloaded."
-        rm $OUTFILE
+        # rm $OUTFILE
         exit 0
     fi
 
@@ -34,7 +34,7 @@ else
         if [ -s ../copytosourcetree.sh ]; then
             ../copytosourcetree.sh $OUTFILE
         fi
-        mv $OUTFILE $OLDFILE
+        cp $OUTFILE $OLDFILE # Keep for CW club download use
     fi
 fi
 

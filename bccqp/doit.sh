@@ -9,7 +9,7 @@ curl -sS $URL/$WEBFILE -o $DOWNLOAD
 
 dos2unix -q $DOWNLOAD
 
-if cmp $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
     echo "The latest member file is already downloaded."
     rm $DOWNLOAD
     exit 0
