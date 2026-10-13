@@ -1,97 +1,125 @@
 BEGIN {
   FS = ",";
-  maxmem = 1;
+  max_member_number = 1;
   PROCINFO["sorted_in"] = "@ind_num_desc";
 }
+
+# Return true if call looks like a valid callsign.
+function valid_call(call)
 {
-  if ($3 ~ /^[0-9]{4}$/ && $2 ~ /J/)
-  {
-    _memid[$3] = $3;
-    _call[$3] = $4;
-    _others[$3] = $5;  
-    _name[$3] = $6;
-  }
+  return call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,4}[A-Z]{1,3}$/ && call !~ /^DE/;
 }
+
+# Return true for entries that should be silently ignored
+# rather than reported as unrecognized callsigns.
+function silly_call(call)
+{
+  return call ~ /SWL|-|_|^DE|[0-9]$|^[A-Z]$|CALL/;
+}
+
+# Correct known errors/special cases in the source data.
+function fix_bad_call(call)
+{
+  call = toupper(call);
+  if (call == "S560R") call = "S56OR";
+  if (call == "DL6ES(Y43)") call = "DL6ES";
+  if (call == "VIA_DF4UM") call = "DF4UM";
+  return call;
+}
+
+# Read relevant member records.
+$3 ~ /^[0-9]{4}$/ && $2 ~ /J/ {
+  member_calls[$3] = $4;
+  member_other_calls[$3] = $5;
+}
+
 END {
-  for (memberid in _memid)
+  # Build primary and secondary callsign tables.
+  for (member_number in member_calls)
   {
-    primarycall = _call[memberid];
-    other = _others[memberid];
-    name = _name[memberid];
-    if (primarycall ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,3}$/ && primarycall !~ /^DE/)
-    { 
-      if (primarycalls[primarycall] != "") 
-      {
-        printf("%s reappears\n", primarycall) > "/dev/stderr";
-      }
-      primarycalls[primarycall] = primarycall;
-      primarynumbers[primarycall] = memberid;
-      delete secondarycalls[primarycall];
-      if (int(memberid) > int(maxmem)) maxmem = memberid;
-      if (other != "")
-      {
-        count = split(toupper(other), seccalls, " ")
-        for (i = 1; i <= count; i++)
-        {
-          secc = seccalls[i];
-          if (secc == "S560R") secc = "S56OR";
-          if (secc == "DL6ES(Y43)") secc = "DL6ES";
-          if (secc == "VIA_DF4UM") secc = "DF4UM";
-          if (secc ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,4}[A-Z]{1,3}$/ && secc !~ /^DE/)
-          {
-            secondarycalls[primarycall][secc] = secc;
-          }
-          else if (secc !~ /SWL|\-|^DE|[0-9]$|^[A-Z]$|CALL|/)
-          {
-            printf("Ignored other call: \"%s\" in \"%s\"\n", secc, $0) > "/dev/stderr";
-          }
-        }
-      }
-    }
-    else if (primarycall !~ /SWL|\-|^DE|[0-9]$|CALL/)
+    primary_call = member_calls[member_number];
+
+    if (!valid_call(primary_call))
     {
-      printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+      if (!silly_call(primary_call))
+        printf("Ignored primary call: \"%s\"\n", primary_call) > "/dev/stderr";
+      continue;
+    }
+
+    if (primary_call in primary_member)
+      printf("%s reappears\n", primary_call) > "/dev/stderr";
+
+    primary_member[primary_call] = member_number;
+
+    if (int(member_number) > int(max_member_number))
+      max_member_number = member_number;
+
+    if (member_other_calls[member_number] == "")
+      continue;
+
+    call_count = split(toupper(member_other_calls[member_number]), call_list, " ");
+
+    for (i = 1; i <= call_count; i++)
+    {
+      secondary_call = fix_bad_call(call_list[i]);
+
+      if (valid_call(secondary_call))
+      {
+        secondary_calls[primary_call][secondary_call] = 1;
+
+        # Remember which primary call first claimed this secondary callsign.
+        if (!(secondary_call in secondary_owner))
+          secondary_owner[secondary_call] = primary_call;
+      }
+      else if (!silly_call(secondary_call))
+      {
+        printf("Ignored other call: \"%s\"\n", secondary_call) > "/dev/stderr";
+      }
     }
   }
-  seccount = 0;
-  for (pc in primarycalls)
+
+  # Output callsign database.
+
+  secondary_call_count = 0;
+
+  for (primary_call in primary_member)
   {
-    printf("%s=%s\n", primarycalls[pc], primarynumbers[pc]);
-    # printf("primary=%s(%s)", primarycalls[pc], primarynumbers[pc]) > "/dev/stderr";
-    for (sc in secondarycalls[pc])
+    member_number = primary_member[primary_call];
+
+    printf("%s=%s\n", primary_call, member_number);
+
+    for (secondary_call in secondary_calls[primary_call])
     {
-      foundb = "";
-      for (e in primarycalls)
+      # A secondary call must not also be another member's primary call.
+      if (secondary_call in primary_member)
       {
-        if (sc == primarycalls[e]) foundb = e;
-        for (oe in secondarycalls[e])
-        {
-          if (sc == secondarycalls[e][oe]) foundo = e;
-        }
+        printf("Secondary call %s for %s already member #%s's primary call\n",
+               secondary_call, primary_call, primary_member[secondary_call]) > "/dev/stderr";
       }
-      if (foundb == "")
+
+      # A secondary call must not belong to more than one member.
+      else if (secondary_owner[secondary_call] != primary_call)
       {
-        printf("%s=%s\n", sc, primarynumbers[pc]);
-        # printf(" other=%s ", sc) > "/dev/stderr";
-        seccount++
+        other_primary_call = secondary_owner[secondary_call];
+
+        printf("Secondary call %s for %s already member #%s's secondary call\n",
+               secondary_call, primary_call, primary_member[other_primary_call]) > "/dev/stderr";
       }
-      else if (foundb != "")
+      else
       {
-        printf("Secondary call %s for %s already member #%s's primary call\n", sc, pc, primarynumbers[foundb]) > "/dev/stderr";
-      }
-      else if (foundo != "")
-      {
-        printf("Secondary call %s for %s already member #%s's secondary call\n", sc, pc, primarynumbers[foundo]) > "/dev/stderr";
+      # The secondary call is unique, so output it.
+        printf("%s=%s\n", secondary_call, member_number);
+        secondary_call_count++;
       }
     }
-    # printf("\n") > "/dev/stderr";
   }
-  printf("%d primary calls\n", length(primarycalls)) > "/dev/stderr";
-  printf("%d secondary calls\n", seccount) > "/dev/stderr";
+
+  printf("%d primary calls\n", length(primary_member)) > "/dev/stderr";
+  printf("%d secondary calls\n", secondary_call_count) > "/dev/stderr";
+  printf("Highest member number is %d\n", max_member_number) > "/dev/stderr";
 
   printf("#00 DIG members prefill database\n");
   printf("#01 Based on official member roster at https://diplom-interessen-gruppe.info \n");
-  printf("#03 Contains members up to #%d\n", maxmem);
+  printf("#03 Contains members up to #%d\n", max_member_number);
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
-  printf("Highest member number is %d\n", maxmem) > "/dev/stderr";
 }

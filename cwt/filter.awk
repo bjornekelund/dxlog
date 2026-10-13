@@ -1,207 +1,238 @@
-BEGIN {
-  printf("#00 CWOps CWT prefill database\n");
-  FS = ",";
-  max = 0;
-  longest = "";
+function predicted_id(call,    i)
+{
+  for (i = 1; i <= rule_count; i++)
+    if (call ~ rule_regex[i])
+      return rule_id[i];
+
+  return "";
 }
+
+function add_rule(regex, id)
+{
+  rule_regex[++rule_count] = regex;
+  rule_id[rule_count] = id;
+}
+
+function known_exchange_exception(call, oid)
+{
+  return \
+    (call == "VE1ASE" && oid == "NB") ||
+    (call == "VE1EJ"  && oid == "ON") ||
+    (call == "ZF2DO"  && oid == "TX") ||
+    (call == "ZF2LZ"  && oid == "MA");
+}
+
+function valid_id(id)
+{
+  return id ~ /^(|[1-9][0-9]{0,3}|CWA|[IGF]|3DA|9M[26]|VP2M|[0-9][A-Z]|[A-Z]{1,2}[0-9]?)$/;
+}
+
+function valid_name(name)
+{
+  return name ~ /^[A-Za-z]+$/;
+}
+
+function valid_call(call)
+{
+  return call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,4}(\/[A-Z0-9]+)?$/;
+}
+
+BEGIN {
+  FS = ",";
+
+  max_member = 0;
+  longest_name = "";
+
+  add_rule("^3B9", "3B9");
+  add_rule("^3DA", "3DA");
+  add_rule("^4O", "4O");
+  add_rule("^4[X-Z]", "4Z");
+  add_rule("^5T", "5T");
+  add_rule("^6Y", "6Y");
+  add_rule("^8P", "8P");
+  add_rule("^9A", "9A");
+  add_rule("^9M6", "9M6");
+  add_rule("^(7[X-Z]|HZ)", "HZ");
+  add_rule("^9H", "9H");
+  add_rule("^B[ADY]", "BY");
+  add_rule("^(CE|X[QR])", "CE");
+  add_rule("^C6", "C6");
+  add_rule("^CO", "CM");
+  add_rule("^C[R-T]", "CT");
+  add_rule("^CU", "CU");
+  add_rule("^D[A-R]", "DL");
+  add_rule("^E2", "HS");
+  add_rule("^E7", "E7");
+  add_rule("^E[A-F]6", "EA6");
+  add_rule("^E[A-F]8", "EA8");
+  add_rule("^E[A-F]9", "EA9");
+  add_rule("^E[A-F][0123457]", "EA");
+  add_rule("^E[I-J]", "EI");
+  add_rule("^ER", "ER");
+  add_rule("^ES", "ES");
+  add_rule("^E[U-W]", "EU");
+  add_rule("^EX", "EX");
+  add_rule("^EY", "EY");
+  add_rule("^F[0-9]|^F\\/", "F");
+  add_rule("^([GM][0-9KR]|2E)", "G");
+  add_rule("^[GM]D", "GD");
+  add_rule("^[GM]M", "GM");
+  add_rule("^[GM]W", "GW");
+  add_rule("^[GM]U", "GU");
+  add_rule("^[GM]I", "GI");
+  add_rule("^[GM]J", "GJ");
+  add_rule("^H[AG]", "HA");
+  add_rule("^HB[1-9]", "HB");
+  add_rule("^HC", "HC");
+  add_rule("^HK", "HK");
+  add_rule("^(HL|DS)", "HL");
+  add_rule("^HR", "HR");
+  add_rule("^I[0-9,K-N,T-Z\\/]", "I");
+  add_rule("^IS0", "IS0");
+  add_rule("^(J[A-S]|7L)", "JA");
+  add_rule("^JT", "JT");
+  add_rule("^[KNW]P2", "VI");
+  add_rule("^[KNW]P4", "PR");
+  add_rule("^L[A-N]", "LA");
+  add_rule("^L[O-W]", "LU");
+  add_rule("^LX", "LX");
+  add_rule("^LY", "LY");
+  add_rule("^LZ", "LZ");
+  add_rule("^OD", "OD");
+  add_rule("^OE", "OE");
+  add_rule("^O[G-J]", "OH");
+  add_rule("^O[KL]", "OK");
+  add_rule("^OM", "OM");
+  add_rule("^O[N-T]", "ON");
+  add_rule("^O[U-Z]", "OZ");
+  add_rule("^P4", "P4");
+  add_rule("^P[A-I]", "PA");
+  add_rule("^PJ7", "PJ7");
+  add_rule("^P[P-Y]", "PY");
+  add_rule("^PZ", "PZ");
+  add_rule("^(R[089][A-Z]|R[A-Z][089]|UA[089])", "UA9");
+  add_rule("^(R[1-7][A-Z]|R[A-Z][1-9]|UA[1-7])", "UA");
+  add_rule("^S5", "S5");
+  add_rule("^(S[A-M]|[78]S)", "SM");
+  add_rule("^(S[N-R]|3Z|HF)", "SP");
+  add_rule("^ST", "ST");
+  add_rule("^S[V-Z][01234678]", "SV");
+  add_rule("^S[V-Z]5", "SV5");
+  add_rule("^S[V-Z]9", "SV9");
+  add_rule("^(T6|YA)", "YA");
+  add_rule("^T[ABC]", "TA");
+  add_rule("^TF", "TF");
+  add_rule("^TG", "TG");
+  add_rule("^TI", "TI");
+  add_rule("^TY", "TY");
+  add_rule("^UN", "UN");
+  add_rule("^U[R-Z]", "UR");
+  add_rule("^V3", "V3");
+  add_rule("^V3", "V3");
+
+  # Canada
+  add_rule("^((V[A-GX]|C[FG])1|CY[09])[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/1$|\\/VE1$", "NS");
+  add_rule("^(V[A-GX]|X[LM]|C[FG])2[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/2$|\\/VE2$", "QC");
+  add_rule("^(V[A-GX]|X[LM]|C[FG])3[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/3$|\\/VE3$", "ON");
+  add_rule("^(V[A-GX]|C[FG])4[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/4$|\\/VE4$", "MB");
+  add_rule("^(V[A-GX]|C[FG])5[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/5$|\\/VE5$", "SK");
+  add_rule("^(V[A-GX]|C[FG])6[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/6$|\\/VE6$", "AB");
+  add_rule("^(V[A-GX]|C[FG])7[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/7$|\\/VE7$", "BC");
+  add_rule("^(VE|C[FG])8[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/8$\\/VE8$", "NT");
+  add_rule("^(V[CE]|C[FG])9[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\\/9$|\\/VE9$", "NB");
+  add_rule("^VO[12][A-Z]{1,3}$|\\/VO[12]$", "NL");
+  add_rule("^VY0[A-Z]{1,3}$|\\/VY0$", "NU");
+  add_rule("^(VY|XO)1[A-Z]{1,3}$|\\/VY1$", "YT");
+  add_rule("^VY2[A-Z]{1,3}$|\\/VY2$", "PE");
+
+  # North America etc.
+  add_rule("^VK[1-8]", "VK");
+  add_rule("^VP2M", "VP2M");
+  add_rule("^VP9|\\/VP9$", "VP2M");
+  add_rule("^VU", "VU");
+  add_rule("^XE", "XE");
+  add_rule("^YL", "YL");
+  add_rule("^Y[BCDE]", "YB");
+  add_rule("^Y[OPQ]", "YO");
+  add_rule("^Y[TU]", "YU");
+  add_rule("^ZA", "ZA");
+  add_rule("^ZB", "ZB");
+  add_rule("^Z3", "Z3");
+  add_rule("^ZD7", "ZD7");
+  add_rule("^ZD8", "ZD8");
+  add_rule("^ZF", "ZF");
+  add_rule("^Z[KLM]", "ZL");
+  add_rule("^ZP", "ZP");
+  add_rule("^Z[R-S]", "ZS");
+}
+
 {
   call = toupper($1);
   name = $2;
-  OID = toupper($3);
-  ID = "";
-  if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,4}(\/[A-Z0-9]+)?$/ && (name != "" || OID != "") && lines[call] == "")
+  original_id = toupper($3);
+  id = "";
+
+  if (valid_call(call) && (name != "" || original_id != "") && lines[call] == "") 
   {
-#    printf("call=%s name=%s ID=%s\n", call, name, ID) > "/dev/stderr"; 
-    if (1)
-    {
-      if (ID == "" && call ~ /^3B9/) ID = "3B9";
-      if (ID == "" && call ~ /^3DA/) ID = "3DA";
-      if (ID == "" && call ~ /^4O/) ID = "4O";
-      if (ID == "" && call ~ /^4[X-Z]/) ID = "4Z";
-      if (ID == "" && call ~ /^5T/) ID = "5T";
-      if (ID == "" && call ~ /^6Y/) ID = "6Y";
-      if (ID == "" && call ~ /^8P/) ID = "8P";
-      if (ID == "" && call ~ /^9A/) ID = "9A";
-      if (ID == "" && call ~ /^9M6/) ID = "9M6";
-      if (ID == "" && call ~ /^(7[X-Z]|HZ)/) ID = "HZ";
-      if (ID == "" && call ~ /^9H/) ID = "9H";
-      if (ID == "" && call ~ /^B[ADY]/) ID = "BY";
-      if (ID == "" && call ~ /^(CE|X[QR])/) ID = "CE";
-      if (ID == "" && call ~ /^C6/) ID = "C6";
-      if (ID == "" && call ~ /^CO/) ID = "CM";
-      if (ID == "" && call ~ /^C[R-T]/) ID = "CT";
-      if (ID == "" && call ~ /^CU/) ID = "CU";
-      if (ID == "" && call ~ /^D[A-R]/) ID = "DL";
-      if (ID == "" && call ~ /^E2/) ID = "HS";
-      if (ID == "" && call ~ /^E7/) ID = "E7";
-      if (ID == "" && call ~ /^E[A-F]6/) ID = "EA6";
-      if (ID == "" && call ~ /^E[A-F]8/) ID = "EA8";
-      if (ID == "" && call ~ /^E[A-F]9/) ID = "EA9";
-      if (ID == "" && call ~ /^E[A-F][0123457]/) ID = "EA";
-      if (ID == "" && call ~ /^E[I-J]/) ID = "EI";
-      if (ID == "" && call ~ /^ER/) ID = "ER";
-      if (ID == "" && call ~ /^ES/) ID = "ES";
-      if (ID == "" && call ~ /^E[U-W]/) ID = "EU";
-      if (ID == "" && call ~ /^EX/) ID = "EX";
-      if (ID == "" && call ~ /^EY/) ID = "EY";
-      if (ID == "" && call ~ /^F[0-9]/ || call ~ /^F\//) ID = "F";
-      if (ID == "" && call ~ /^([GM][0-9KR]|2E)/) ID = "G";
-      if (ID == "" && call ~ /^[GM]D/) ID = "GD";
-      if (ID == "" && call ~ /^[GM]M/) ID = "GM";
-      if (ID == "" && call ~ /^[GM]W/) ID = "GW";
-      if (ID == "" && call ~ /^[GM]U/) ID = "GU";
-      if (ID == "" && call ~ /^[GM]I/) ID = "GI";
-      if (ID == "" && call ~ /^[GM]J/) ID = "GJ";
-      if (ID == "" && call ~ /^H[AG]/) ID = "HA";
-      if (ID == "" && call ~ /^HB[1-9]/) ID = "HB";
-      if (ID == "" && call ~ /^HC/) ID = "HC";
-      if (ID == "" && call ~ /^HK/) ID = "HK";
-      if (ID == "" && call ~ /^(HL|DS)/) ID = "HL";
-      if (ID == "" && call ~ /^HR/) ID = "HR";
-      if (ID == "" && call ~ /^I[0-9,K-N,T-Z\/]/) ID = "I";
-      if (ID == "" && call ~ /^IS0/) ID = "IS0";
-      if (ID == "" && call ~ /^(J[A-S]|7L)/) ID = "JA";
-      if (ID == "" && call ~ /^JT/) ID = "JT";
-      if (ID == "" && call ~ /^[KNW]P2/) ID = "VI";
-      if (ID == "" && call ~ /^[KNW]P4/) ID = "PR";
-      if (ID == "" && call ~ /^L[A-N]/) ID = "LA";
-      if (ID == "" && call ~ /^L[O-W]/) ID = "LU";
-      if (ID == "" && call ~ /^LX/) ID = "LX";
-      if (ID == "" && call ~ /^LY/) ID = "LY";
-      if (ID == "" && call ~ /^LZ/) ID = "LZ";
-      if (ID == "" && call ~ /^OD/) ID = "OD";
-      if (ID == "" && call ~ /^OE/) ID = "OE";
-      if (ID == "" && call ~ /^O[G-J]/) ID = "OH";
-      if (ID == "" && call ~ /^O[KL]/) ID = "OK";
-      if (ID == "" && call ~ /^OM/) ID = "OM";
-      if (ID == "" && call ~ /^O[N-T]/) ID = "ON";
-      if (ID == "" && call ~ /^O[U-Z]/) ID = "OZ";
-      if (ID == "" && call ~ /^P4/) ID = "P4";
-      if (ID == "" && call ~ /^P[A-I]/) ID = "PA";
-      if (ID == "" && call ~ /^PJ7/) ID = "PJ7";
-      if (ID == "" && call ~ /^P[P-Y]/) ID = "PY";
-      if (ID == "" && call ~ /^PZ/) ID = "PZ";
-      if (ID == "" && call ~ /^(R[089][A-Z]|R[A-Z][089]|UA[089])/) ID = "UA9";
-      if (ID == "" && call ~ /^(R[1-7][A-Z]|R[A-Z][1-9]|UA[1-7])/) ID = "UA";
-      if (ID == "" && call ~ /^S5/) ID = "S5";
-      if (ID == "" && call ~ /^(S[A-M]|[78]S)/) ID = "SM";
-      if (ID == "" && call ~ /^(S[N-R]|3Z|HF)/) ID = "SP";
-      if (ID == "" && call ~ /^ST/) ID = "ST";
-      if (ID == "" && call ~ /^S[V-Z][01234678]/) ID = "SV";
-      if (ID == "" && call ~ /^S[V-Z]5/) ID = "SV5";
-      if (ID == "" && call ~ /^S[V-Z]9/) ID = "SV9";
-      if (ID == "" && call ~ /^(T6|YA)/) ID = "YA";
-      if (ID == "" && call ~ /^T[ABC]/) ID = "TA";
-      if (ID == "" && call ~ /^TF/) ID = "TF";
-      if (ID == "" && call ~ /^TG/) ID = "TG";
-      if (ID == "" && call ~ /^TI/) ID = "TI";
-      if (ID == "" && call ~ /^TY/) ID = "TY";
-      if (ID == "" && call ~ /^UN/) ID = "UN";
-      if (ID == "" && call ~ /^U[R-Z]/) ID = "UR";
-      if (ID == "" && call ~ /^V3/) ID = "V3";
-      if (ID == "" && call ~ /^V3/) ID = "V3";
+    id = predicted_id(call);
 
-      if (ID == "" && call ~ /^((V[A-GX]|C[FG])1|CY[09])[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/1$|\/VE1$/) ID = "NS";
-      if (ID == "" && call ~ /^(V[A-GX]|X[LM]|C[FG])2[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/2$|\/VE2$/) ID = "QC";
-      if (ID == "" && call ~ /^(V[A-GX]|X[LM]|C[FG])3[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/3$|\/VE3$/) ID = "ON";
-      if (ID == "" && call ~ /^(V[A-GX]|C[FG])4[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/4$|\/VE4$/) ID = "MB";
-      if (ID == "" && call ~ /^(V[A-GX]|C[FG])5[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/5$|\/VE5$/) ID = "SK";
-      if (ID == "" && call ~ /^(V[A-GX]|C[FG])6[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/6$|\/VE6$/) ID = "AB";
-      if (ID == "" && call ~ /^(V[A-GX]|C[FG])7[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/7$|\/VE7$/) ID = "BC";
-      if (ID == "" && call ~ /^(VE|C[FG])8[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/8$\/VE8$/) ID = "NT";
-      if (ID == "" && call ~ /^(V[CE]|C[FG])9[A-Z]{1,3}$|(V[A-GX]|C[FG]).+\/9$|\/VE9$/) ID = "NB";
-      if (ID == "" && call ~ /^VO[12][A-Z]{1,3}$|\/VO[12]$/) ID = "NL";
-      if (ID == "" && call ~ /^VY0[A-Z]{1,3}$|\/VY0$/) ID = "NU";
-      if (ID == "" && call ~ /^(VY|XO)1[A-Z]{1,3}$|\/VY1$/) ID = "YT";
-      if (ID == "" && call ~ /^VY2[A-Z]{1,3}$|\/VY2$/) ID = "PE";
+    if (id != "" && original_id != "" && id != original_id && 
+        original_id !~ /^([1-9][0-9]{0,3}|CWA)$/ && 
+        !known_exchange_exception(call, original_id)) 
+    {
+      printf("Exchange is \"%s\" for %s but should probably be \"%s\"\n", original_id, call, id) > "/dev/stderr";
+    }
 
-      if (ID == "" && call ~ /^VK[1-8]/) ID = "VK";
-      if (ID == "" && call ~ /^VP2M/) ID = "VP2M";
-      if (ID == "" && call ~ /^VP9|\/VP9$/) ID = "VP2M";
-      if (ID == "" && call ~ /^VU/) ID = "VU";
-      if (ID == "" && call ~ /^XE/) ID = "XE";
-      if (ID == "" && call ~ /^YL/) ID = "YL";
-      if (ID == "" && call ~ /^Y[BCDE]/) ID = "YB";
-      if (ID == "" && call ~ /^Y[OPQ]/) ID = "YO";
-      if (ID == "" && call ~ /^Y[TU]/) ID = "YU";
-      if (ID == "" && call ~ /^ZA/) ID = "ZA";
-      if (ID == "" && call ~ /^ZB/) ID = "ZB";
-      if (ID == "" && call ~ /^Z3/) ID = "Z3";
-      if (ID == "" && call ~ /^ZD7/) ID = "ZD7";
-      if (ID == "" && call ~ /^ZD8/) ID = "ZD8";
-      if (ID == "" && call ~ /^ZF/) ID = "ZF";
-      if (ID == "" && call ~ /^Z[KLM]/) ID = "ZL";
-      if (ID == "" && call ~ /^ZP/) ID = "ZP";
-      if (ID == "" && call ~ /^Z[R-S]/) ID = "ZS";
-    }
-    
-    if (ID != "" && OID != "" && ID != OID && OID !~ /^([1-9][0-9]{0,3}|CWA)$/)
-    {
-      if ( \
-        !(call == "VE1ASE" && OID == "NB") && \
-        !(call == "VE1EJ" && OID == "ON") && \
-        !(call == "ZF2DO" && OID == "TX") && \
-        !(call == "ZF2LZ" && OID == "MA") \
-        )
-      {
-        printf("Exchange is \"%s\" for %s but should probably be \"%s\"\n", OID, call, ID) > "/dev/stderr";
-      }
-    }
- 
-    # if (OID == ID || OID == "")
-    # {
-    #   ID = ""; # Rule based prefill will handle predictable exchanges
-    # }
-    # else 
-    if (OID != "")
-    {
-      ID = OID; # The source file had an exchange, use it
-    }
-    else if (ID == "" && call != "N4DL")
+    # An exchange in the source file takes precedence over the predicted one.
+    if (original_id != "") id = original_id;
+    else if (id == "" && call != "N4DL") 
     {
       # printf("Empty member/location for %s\n", call) > "/dev/stderr";
     }
- 
-    idvalid = ID ~ /^(|[1-9][0-9]{0,3}|CWA|[IGF]|3DA|9M[26]|VP2M|[0-9][A-Z]|[A-Z]{1,2}[0-9]?)$/;
-    problemid = !idvalid && !(ID == "" && call ~ /^(N|K|W|V[A-G])/)
 
-    namevalid = name ~ /^[A-Za-z]{1,}$/;
+    id_is_valid = valid_id(id);
+    id_problem = !id_is_valid && !(id == "" && call ~ /^(N|K|W|V[A-G])/);
 
-    if (!namevalid && name != "")
+    name_is_valid = valid_name(name);
+
+    if (!name_is_valid && name != "") 
     {
       printf("Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
       name = "";
     }
 
-    if ((!namevalid && !idvalid) || problemid || (!namevalid && ID !~ /^([0-9]+|[A-Z]{2})$/))
+    if ((!name_is_valid && !id_is_valid) || id_problem || (!name_is_valid && id !~ /^([0-9]+|[A-Z]{2})$/)) 
     {
-      printf("namevalid=%d idvalid=%d ID=%s\n", namevalid, idvalid, ID) > "/dev/stderr";
+
+      printf("namevalid=%d idvalid=%d ID=%s\n", name_is_valid, id_is_valid, id) > "/dev/stderr";
       printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
-    else
+    else 
     {
-      printf("%s=%s;%s\n", call, name, ID);
-      max = (int(ID) > max) ? int(ID) : max;
-      longest = length(name) > length(longest) ? name : longest;
+      printf("%s=%s;%s\n", call, name, id);
+
+      if (int(id) > max_member)
+        max_member = int(id);
+
+      if (length(name) > length(longest_name))
+        longest_name = name;
+
       lines[call] = $0;
-#      printf("ID=%s, max=%d\n", ID, max) > "/dev/stderr";
     }
   }
-  else if ($0 !~ /^(#|!|$)/ && !(name == "" && ID == ""))
+  else if ($0 !~ /^(#|!|$)/ && !(name == "" && id == "")) 
   {
     if (lines[call] != "")
-    {
       printf("Callsign reoccurrence: \"%s\"\n", $0) > "/dev/stderr";
-    }
     else
-    {
       printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
-    }
   }
 }
+
 END {
-  printf("Highest member number is %d\n", max) > "/dev/stderr";
-  printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
-  printf("#04 Longest name is \"%s\" with %d characters\n", longest, length(longest));
-  printf("#05 Contains members up to #%d\n", max);
+  printf("#00 CWOps CWT prefill database\n");
+  printf("Highest member number is %d\n", max_member) > "/dev/stderr";
+  printf("Longest name is \"%s\" with %d characters\n", longest_name, length(longest_name)) > "/dev/stderr";
+  printf("#04 Longest name is \"%s\" with %d characters\n", longest_name, length(longest_name));
+  printf("#05 Contains members up to #%d\n", max_member);
 }
