@@ -32,6 +32,6 @@ BEGIN {
   }
   else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state != "")
   {
-    printf("Ignored: \"%s\" Invalid exchange\n", $0) > "/dev/stderr";
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

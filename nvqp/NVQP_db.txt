@@ -1,6 +1,6 @@
 # Nevada QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-07
+# Last updated 2026-10-13
 AA0AJ=MN
 AA0AW=MN
 AA0BY=OR
@@ -319,6 +319,7 @@ K9SG=IN
 K9TRX=IL
 K9UIY=IL
 K9UR=IN
+KA0NES=KS
 KA0PQW=MN
 KA0REN=MO
 KA0RTM=MN

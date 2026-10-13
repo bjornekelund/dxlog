@@ -204,7 +204,7 @@ BEGIN {
     if ((!name_is_valid && !id_is_valid) || id_problem || (!name_is_valid && id !~ /^([0-9]+|[A-Z]{2})$/)) 
     {
 
-      printf("namevalid=%d idvalid=%d ID=%s\n", name_is_valid, id_is_valid, id) > "/dev/stderr";
+      # printf("namevalid=%d idvalid=%d ID=%s\n", name_is_valid, id_is_valid, id) > "/dev/stderr";
       printf("Ignored1: \"%s\"\n", $0) > "/dev/stderr";
     }
     else 

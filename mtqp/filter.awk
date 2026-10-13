@@ -12,7 +12,7 @@ BEGIN {
     if ($3 ~ /State|Exch1/) state = 2;
     if ($4 ~ /State|Exch1/) state = 3;
     if ($5 ~ /State|Exch1/) state = 4;
-    printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+    # printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if ( \
     (IsUScall($call) && \

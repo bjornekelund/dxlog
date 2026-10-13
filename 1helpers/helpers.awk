@@ -1,6 +1,6 @@
 function IsVEcall(call) 
 {
-  if (call ~ /^((V[A-GOXY]|C[FG]|X[LM])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/[0-9]$|\/V[OYE][0-9]$/)
+  if (call ~ /^((V[A-GOXY]|C[F-J]|X[LM])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/[0-9]$|\/V[OYE][0-9]$/)
   {
     if (call ~ /\//)
     {
@@ -64,15 +64,15 @@ function NotPredictableVE13(call, state)
       # printf("Non VE call %s with exchange %s\n", call, state) > "/dev/stderr";
     return 1;
   }
-  else if ((call ~ /^((V[A-GX]|C[FG])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/1$|\/VE1$/ && state != "NS") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/2$|\/VE2$/ && state != "QC") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/3$|\/VE3$/ && state != "ON") ||\
-      (call ~ /^(V[A-GX]|C[FG])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/4$|\/VE4$/ && state != "MB") ||\
-      (call ~ /^(V[A-GX]|C[FG])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/5$|\/VE5$/ && state != "SK") ||\
-      (call ~ /^(V[A-GX]|C[FG])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/6$|\/VE6$/ && state != "AB") ||\
-      (call ~ /^(V[A-GX]|C[FG])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/7$|\/VE7$/ && state != "BC") ||\
-      (call ~ /^(VE|C[FG])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/8$|\/VE8$/ && state != "NT") ||\
-      (call ~ /^(V[CE]|C[FG])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/9$|\/VE9$/ && state != "NB") ||\
+  else if ((call ~ /^((V[A-GX]|C[C-J])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/1$|\/VE1$/ && state != "NS") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/2$|\/VE2$/ && state != "QC") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/3$|\/VE3$/ && state != "ON") ||\
+      (call ~ /^(V[A-GX]|C[C-J])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/4$|\/VE4$/ && state != "MB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/5$|\/VE5$/ && state != "SK") ||\
+      (call ~ /^(V[A-GX]|C[C-J])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/6$|\/VE6$/ && state != "AB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/7$|\/VE7$/ && state != "BC") ||\
+      (call ~ /^(VE|C[C-J])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/8$|\/VE8$/ && state != "NT") ||\
+      (call ~ /^(V[CE]|C[C-J])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/9$|\/VE9$/ && state != "NB") ||\
       (call ~ /^VO[12](\/|[^/]*$|.+\/[12MP]$)|\/VO[12]$/ && state != "NL") ||\
       (call ~ /^(VY|XO)0(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/0$|\/VY0$/ && state != "NU") ||\
       (call ~ /^(VY|XO)1(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/1$|\/VY1$/ && state != "YT") ||\
@@ -80,7 +80,7 @@ function NotPredictableVE13(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular VE call %s with exchange %s\n", call, state) > "/dev/stderr";
+      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -97,15 +97,15 @@ function NotPredictableVE11(call, state)
     # printf("Non VE call %s with exchange %s\n", call, state) > "/dev/stderr";
     return 1;
   }
-  else if ((call ~ /^((V[A-GX]|C[FG])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/1$|\/VE1$/ && state != "NS") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/2$|\/VE2$/ && state != "QC") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/3$|\/VE3$/ && state != "ON") ||\
-      (call ~ /^(V[A-GX]|C[FG])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/4$|\/VE4$/ && state != "MB") ||\
-      (call ~ /^(V[A-GX]|C[FG])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/5$|\/VE5$/ && state != "SK") ||\
-      (call ~ /^(V[A-GX]|C[FG])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/6$|\/VE6$/ && state != "AB") ||\
-      (call ~ /^(V[A-GX]|C[FG])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/7$|\/VE7$/ && state != "BC") ||\
-      (call ~ /^(VE|C[FG])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/8$|\/VE8$/ && state != "NT") ||\
-      (call ~ /^(V[CE]|C[FG])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/9$|\/VE9$/ && state != "NB") ||\
+  else if ((call ~ /^((V[A-GX]|C[C-J])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/1$|\/VE1$/ && state != "NS") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/2$|\/VE2$/ && state != "QC") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/3$|\/VE3$/ && state != "ON") ||\
+      (call ~ /^(V[A-GX]|C[C-J])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/4$|\/VE4$/ && state != "MB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/5$|\/VE5$/ && state != "SK") ||\
+      (call ~ /^(V[A-GX]|C[C-J])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/6$|\/VE6$/ && state != "AB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/7$|\/VE7$/ && state != "BC") ||\
+      (call ~ /^(VE|C[C-J])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/8$|\/VE8$/ && state != "NT") ||\
+      (call ~ /^(V[CE]|C[C-J])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/9$|\/VE9$/ && state != "NB") ||\
       (call ~ /^VO[12](\/|[^/]*$|.+\/[12MP]$)|\/VO[12]$/ && state != "NL") ||\
       (call ~ /^(VY|XO)0(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/0$|\/VY0$/ && state != "NT") ||\
       (call ~ /^(VY|XO)1(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/1$|\/VY1$/ && state != "NT") ||\
@@ -113,7 +113,7 @@ function NotPredictableVE11(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular VE call %s with exchange %s\n", call, state) > "/dev/stderr";
+      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -130,15 +130,15 @@ function NotPredictableVE14(call, state)
     # printf("Non VE call %s with exchange %s\n", call, state) > "/dev/stderr";
     return 1;
   }
-  else if ((call ~ /^((V[A-GX]|C[FG])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/1$|\/VE1$/ && state != "NS") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/2$|\/VE2$/ && state != "QC") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/3$|\/VE3$/ && state != "ON") ||\
-      (call ~ /^(V[A-GX]|C[FG])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/4$|\/VE4$/ && state != "MB") ||\
-      (call ~ /^(V[A-GX]|C[FG])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/5$|\/VE5$/ && state != "SK") ||\
-      (call ~ /^(V[A-GX]|C[FG])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/6$|\/VE6$/ && state != "AB") ||\
-      (call ~ /^(V[A-GX]|C[FG])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/7$|\/VE7$/ && state != "BC") ||\
-      (call ~ /^(VE|C[FG])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/8$|\/VE8$/ && state != "NT") ||\
-      (call ~ /^(V[CE]|C[FG])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/9$|\/VE9$/ && state != "NB") ||\
+  else if ((call ~ /^((V[A-GX]|C[C-J])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/1$|\/VE1$/ && state != "NS") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/2$|\/VE2$/ && state != "QC") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/3$|\/VE3$/ && state != "ON") ||\
+      (call ~ /^(V[A-GX]|C[C-J])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/4$|\/VE4$/ && state != "MB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/5$|\/VE5$/ && state != "SK") ||\
+      (call ~ /^(V[A-GX]|C[C-J])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/6$|\/VE6$/ && state != "AB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/7$|\/VE7$/ && state != "BC") ||\
+      (call ~ /^(VE|C[C-J])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/8$|\/VE8$/ && state != "NT") ||\
+      (call ~ /^(V[CE]|C[C-J])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/9$|\/VE9$/ && state != "NB") ||\
       (call ~ /^VO1(\/|[^/]*$|.+\/[1MP]$)|\/VO1$/ && state != "NF") ||\
       (call ~ /^VO2(\/|[^/]*$|.+\/[2MP]$)|\/VO2$/ && state != "LB") ||\
       (call ~ /^(VY|XO)0(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/0$|\/VY0$/ && state != "NU") ||\
@@ -147,7 +147,7 @@ function NotPredictableVE14(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular VE call %s with exchange %s\n", call, state) > "/dev/stderr";
+      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -164,15 +164,15 @@ function NotPredictableQCQP(call, state)
     # printf("Non VE call %s with exchange %s\n", call, state) > "/dev/stderr";
     return 1;
   }
-  else if ((call ~ /^((V[A-GX]|C[FG])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/1$|\/VE1$/ && state != "NS") ||\
-    (call ~ /^(V[A-GX]|X[LM]|C[FG])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/2$|\/VE2$/ && state != "QC") ||\
-    (call ~ /^(V[A-GX]|X[LM]|C[FG])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/3$|\/VE3$/ && state != "ON") ||\
-    (call ~ /^(V[A-GX]|C[FG])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/4$|\/VE4$/ && state != "MB") ||\
-    (call ~ /^(V[A-GX]|C[FG])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/5$|\/VE5$/ && state != "SK") ||\
-    (call ~ /^(V[A-GX]|C[FG])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/6$|\/VE6$/ && state != "AB") ||\
-    (call ~ /^(V[A-GX]|C[FG])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/7$|\/VE7$/ && state != "BC") ||\
-    (call ~ /^(VE|C[FG])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/8$|\/VE8$/ && state != "NWT") ||\
-    (call ~ /^(V[CE]|C[FG])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/9$|\/VE9$/ && state != "NB") ||\
+  else if ((call ~ /^((V[A-GX]|C[C-J])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/1$|\/VE1$/ && state != "NS") ||\
+    (call ~ /^(V[A-GX]|X[LM]|C[C-J])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/2$|\/VE2$/ && state != "QC") ||\
+    (call ~ /^(V[A-GX]|X[LM]|C[C-J])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/3$|\/VE3$/ && state != "ON") ||\
+    (call ~ /^(V[A-GX]|C[C-J])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/4$|\/VE4$/ && state != "MB") ||\
+    (call ~ /^(V[A-GX]|C[C-J])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/5$|\/VE5$/ && state != "SK") ||\
+    (call ~ /^(V[A-GX]|C[C-J])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/6$|\/VE6$/ && state != "AB") ||\
+    (call ~ /^(V[A-GX]|C[C-J])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/7$|\/VE7$/ && state != "BC") ||\
+    (call ~ /^(VE|C[C-J])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/8$|\/VE8$/ && state != "NWT") ||\
+    (call ~ /^(V[CE]|C[C-J])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/9$|\/VE9$/ && state != "NB") ||\
     (call ~ /^VO1(\/|[^/]*$|.+\/[1MP]$)|\/VO1$/ && state != "NF") ||\
     (call ~ /^VO2(\/|[^/]*$|.+\/[2MP]$)|\/VO2$/ && state != "LB") ||\
     (call ~ /^(VY|XO)0(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/0$|\/VY0$/ && state != "NU") ||\
@@ -181,7 +181,7 @@ function NotPredictableQCQP(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular VE call %s with exchange %s\n", call, state) > "/dev/stderr";
+      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -198,15 +198,15 @@ function NotPredictableARRL10(call, state)
     # printf("Non VE call %s with exchange %s\n", call, state) > "/dev/stderr";
     return 1;
   }
-  else if ((call ~ /^((V[A-GX]|C[FG])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/1$|\/VE1$/ && state != "NS") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/2$|\/VE2$/ && state != "QC") ||\
-      (call ~ /^(V[A-GX]|X[LM]|C[FG])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/3$|\/VE3$/ && state != "ON") ||\
-      (call ~ /^(V[A-GX]|C[FG])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/4$|\/VE4$/ && state != "MB") ||\
-      (call ~ /^(V[A-GX]|C[FG])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/5$|\/VE5$/ && state != "SK") ||\
-      (call ~ /^(V[A-GX]|C[FG])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/6$|\/VE6$/ && state != "AB") ||\
-      (call ~ /^(V[A-GX]|C[FG])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/7$|\/VE7$/ && state != "BC") ||\
-      (call ~ /^(VE|C[FG])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/8$|\/VE8$/ && state != "NT") ||\
-      (call ~ /^(V[CE]|C[FG])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/9$|\/VE9$/ && state != "NB") ||\
+  else if ((call ~ /^((V[A-GX]|C[C-J])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/1$|\/VE1$/ && state != "NS") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/2$|\/VE2$/ && state != "QC") ||\
+      (call ~ /^(V[A-GX]|X[LM]|C[C-J])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/3$|\/VE3$/ && state != "ON") ||\
+      (call ~ /^(V[A-GX]|C[C-J])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/4$|\/VE4$/ && state != "MB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/5$|\/VE5$/ && state != "SK") ||\
+      (call ~ /^(V[A-GX]|C[C-J])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/6$|\/VE6$/ && state != "AB") ||\
+      (call ~ /^(V[A-GX]|C[C-J])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/7$|\/VE7$/ && state != "BC") ||\
+      (call ~ /^(VE|C[C-J])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/8$|\/VE8$/ && state != "NT") ||\
+      (call ~ /^(V[CE]|C[C-J])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/9$|\/VE9$/ && state != "NB") ||\
       (call ~ /^VO1(\/|[^/]*$|.+\/[1MP]$)|\/VO1$/ && state != "NF") ||\
       (call ~ /^VO2(\/|[^/]*$|.+\/[2MP]$)|\/VO2$/ && state != "LB") ||\
       (call ~ /^(VY|XO)0(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/0$|\/VY0$/ && state != "NT") ||\
@@ -215,7 +215,7 @@ function NotPredictableARRL10(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular VE call %s with exchange %s\n", call, state) > "/dev/stderr";
+      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -227,19 +227,19 @@ function NotPredictableARRL10(call, state)
 
 function NotPredictableRAC(call, state)
 {
-  if (call !~ /^(V[A-GOY]|C[FG]|X[LMO])|^(V[A-GOXY]|X[LMO]|C[FG]).+\/[0-9]$|\/V[OYE][0-9]$/)
+  if (call !~ /^(V[A-GOY]|C[C-J]|X[LMO])|^(V[A-GOXY]|X[LMO]|C[C-J]).+\/[0-9]$|\/V[OYE][0-9]$/)
   {
     return 1;
   }
-  else if ((call ~ /^((V[A-GX]|C[FG])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/1$|\/VE1$/ && state != "NS") ||\
-    (call ~ /^(V[A-GX]|X[LM]|C[FG])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/2$|\/VE2$/ && state != "QC") ||\
-    (call ~ /^(V[A-GX]|X[LM]|C[FG])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/3$|\/VE3$/) ||\
-    (call ~ /^(V[A-GX]|C[FG])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/4$|\/VE4$/ && state != "MB") ||\
-    (call ~ /^(V[A-GX]|C[FG])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/5$|\/VE5$/ && state != "SK") ||\
-    (call ~ /^(V[A-GX]|C[FG])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/6$|\/VE6$/ && state != "AB") ||\
-    (call ~ /^(V[A-GX]|C[FG])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/7$|\/VE7$/ && state != "BC") ||\
-    (call ~ /^(VE|C[FG])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/8$|\/VE8$/ && state != "TER") ||\
-    (call ~ /^(V[CE]|C[FG])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[FG]).+\/9$|\/VE9$/ && state != "NB") ||\
+  else if ((call ~ /^((V[A-GX]|C[C-J])1)(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/1$|\/VE1$/ && state != "NS") ||\
+    (call ~ /^(V[A-GX]|X[LM]|C[C-J])2(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/2$|\/VE2$/ && state != "QC") ||\
+    (call ~ /^(V[A-GX]|X[LM]|C[C-J])3(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/3$|\/VE3$/) ||\
+    (call ~ /^(V[A-GX]|C[C-J])4(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/4$|\/VE4$/ && state != "MB") ||\
+    (call ~ /^(V[A-GX]|C[C-J])5(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/5$|\/VE5$/ && state != "SK") ||\
+    (call ~ /^(V[A-GX]|C[C-J])6(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/6$|\/VE6$/ && state != "AB") ||\
+    (call ~ /^(V[A-GX]|C[C-J])7(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/7$|\/VE7$/ && state != "BC") ||\
+    (call ~ /^(VE|C[C-J])8(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/8$|\/VE8$/ && state != "TER") ||\
+    (call ~ /^(V[CE]|C[C-J])9(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/9$|\/VE9$/ && state != "NB") ||\
     (call ~ /^VO1(\/|[^/]*$|.+\/[1MP]$)|\/VO1$/ && state != "NL") ||\
     (call ~ /^VO2(\/|[^/]*$|.+\/[2MP]$)|\/VO2$/ && state != "NL") ||\
     (call ~ /^(VY|XO)0(\/|[^/]*$|.+\/[MP]$)|^(VY|XO).+\/0$|\/VY0$/ && state != "TER") ||\
@@ -248,7 +248,7 @@ function NotPredictableRAC(call, state)
   {
     if (state ~ /^[A-Z]{2}/ && state !~ /^(GH|ON[ENS])$/)
     {
-      printf("Irregular VE call %s with exchange %s\n", call, state) > "/dev/stderr";
+      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -301,7 +301,7 @@ function NotPredictableWAPC(call, state)
     (call ~ /^XX9/ && state != "MO") ||\
     (call ~ /^B[M-X]/ && state != "TW"))
   {
-    printf("Irregular Chinese call %s with exchange %s\n", call, state) > "/dev/stderr";
+    printf("Irregular Chinese exchange %s for call %s\n", state, call) > "/dev/stderr";
     return 1;
   }
   else
