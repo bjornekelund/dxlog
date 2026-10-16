@@ -1,4 +1,15 @@
-function IsVEcall(call) 
+function FindColumn(field_name)
+{
+  for (i = 2; i < 7; i++)
+    if ($i ~ field_name)
+      return i - 1;
+
+  printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
+  return 99;
+}
+
+
+function IsVEcall(call)
 {
   if (call ~ /^((V[A-GOXY]|C[F-J]|X[LM])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/[0-9]$|\/V[OYE][0-9]$/)
   {

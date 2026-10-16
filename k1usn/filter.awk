@@ -1,4 +1,4 @@
-function find_column(field_name, i)
+function find_column(field_name)
 {
   for (i = 2; i <= 5; i++)
     if ($i ~ field_name)

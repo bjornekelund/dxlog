@@ -8,14 +8,8 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($2 ~ /Name/) namc = 1;
-    if ($3 ~ /Name/) namc = 2;
-    if ($4 ~ /Name/) namc = 3;
-    if ($5 ~ /Name/) namc = 4;
+    call = FindColumn("Call");
+    namc = FindColumn("Name");
     # printf("%s --> call=%d namc=%d\n", $0, call, namc) > "/dev/stderr";
   }
   else

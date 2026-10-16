@@ -7,14 +7,9 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Sect/) state = 2;
-    if ($4 ~ /Sect/) state = 3;
-    if ($5 ~ /Sect/) state = 4;
-    printf("\"%s\" --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+    call = FindColumn("Call");
+    state = FindColumn("Sect|Exch1");
+    # printf("\"%s\" --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else 
   {

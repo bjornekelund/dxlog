@@ -5,22 +5,10 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Name/) name = 2;
-    if ($4 ~ /Name/) name = 3;
-    if ($5 ~ /Name/) name = 4;
-    if ($6 ~ /Name/) name = 5;
-    if ($3 ~ /CK/) check = 2;
-    if ($4 ~ /CK/) check = 3;
-    if ($5 ~ /CK/) check = 4;
-    if ($6 ~ /CK/) check = 5;
-    if ($3 ~ /State/) state = 2;
-    if ($4 ~ /State/) state = 3;
-    if ($5 ~ /State/) state = 4;
-    if ($6 ~ /State/) state = 5;
+    call = FindColumn("Call");
+    name = FindColumn("Name");
+    check = FindColumn("CK");
+    state = FindColumn("State");
     # printf("%s --> call=%d name=%d check=%d state=%d\n", $0, call, name, check, state) > "/dev/stderr";
   }
   else if (line[$call] != "")

@@ -35,8 +35,7 @@ if ../1helpers/download.sh $DLNAME || [ -n "$2" ]; then
     # cat $INFILE | sed 's/ //g' | gawk -f $HELPERS -f filter.awk > $TMPFILE
     cat $INFILE | gawk -f $HELPERS -f filter.awk > $TMPFILE
 
-    echo "#02 Based on data maintained by Claude VE2FK" >> $TMPFILE
-    echo "#03 Report updates and corrections directly to ve2fk@arrl.net" >> $TMPFILE
+    echo "#02 Based on data collected by Claude VE2FK" >> $TMPFILE
     echo "#09 Last updated `date +%F`" >> $TMPFILE
 
     cat $TMPFILE | sort | sed 's/^#0[0-9]/#/g' > $OUTFILE

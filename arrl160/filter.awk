@@ -5,14 +5,9 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-    # printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    call = FindColumn("Call");
+    exch = FindColumn("State|Exch1");
+    # printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if (IsUScall($call))
   {
@@ -20,30 +15,30 @@ BEGIN {
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if ($col !~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY|R[123])$/)
+    else if ($exch !~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY|R[123])$/)
     {
       printf("Problem ARRL section: \"%s\"\n", $0) > "/dev/stderr";
     }
     else
     {
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $exch);
       lines[$call] = $0;
     }
   }
   else if (IsVEcall($call))
   {
-    if ($col == "GTA") $col = "GH";
+    if ($exch == "GTA") $exch = "GH";
     if (lines[$call] != "")
     {
       printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
-    else if ($col !~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER|R[123])$/)
+    else if ($exch !~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER|R[123])$/)
     {
       printf("Problem RAC section : \"%s\"\n", $0) > "/dev/stderr";
     }
-    else if (NotPredictableRAC($call, $col))
+    else if (NotPredictableRAC($call, $exch))
     {
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $exch);
       lines[$call] = $0;
     }
   }

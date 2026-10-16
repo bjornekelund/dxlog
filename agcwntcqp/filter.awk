@@ -10,106 +10,117 @@ BEGIN {
   ntc = 4;
 }
 {
-  callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
-  nameok = $name ~ /^([A-Za-z]{1,10}|)$/ && toupper($name) !~ /CLUB/;
-  memok = $agcw ~ /^(AGCW|NTC)[1-9][0-9]{0,3}$|^$/ && $ntc ~ /^(AGCW|NTC)[1-9][0-9]{0,3}$|^$/;
+ if ($1 ~ /!!Order!!/)
+ {
+    call = FindColumn("Call");
+    name = FindColumn("Name");
+    agcw = FindColumn("Exch1");
+    ntp = FindColumn("Misc");
+    # printf("%s --> call=%d name=%d agcw=%d ntp=%d\n", $0, call, name, agcw, ntp) > "/dev/stderr";
+ }
+ else
+ {
+    callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
+    nameok = $name ~ /^([A-Za-z]{1,10}|)$/ && toupper($name) !~ /CLUB/;
+    memok = $agcw ~ /^(AGCW|NTC)[1-9][0-9]{0,3}$|^$/ && $ntc ~ /^(AGCW|NTC)[1-9][0-9]{0,3}$|^$/;
 
-  if (callok && memok)
-  {
-    if (nameok)
+    if (callok && memok)
     {
-      rname = toupper($name);
-    }
-    else
-    {
-      # printf("AGCWNTCQP: Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
-      rname = "";
-    }
-
-    calls[$call] = $call;
-    names[$call] = rname;
-
-    if ($agcw != "")
-    {
-      # printf("AGCWNTCQP: AGCW found: \"%s\"\n", $0) > "/dev/stderr";
-
-      nagcw = $agcw;
-      gsub(/[^0-9]/, "", nagcw);
-      if (int(nagcw) > maxagcw)
-      {       
-        maxagcw = int(nagcw);
-      }
-
-      if (firsts[$call] == "")
+      if (nameok)
       {
-        firsts[$call] = $agcw;
-        seconds[$call] = $ntc;
+        rname = toupper($name);
       }
       else
       {
-        if (firsts[$call] ~ /^NTC/)
+        # printf("AGCWNTCQP: Problem name ignored: \"%s\"\n", $0) > "/dev/stderr";
+        rname = "";
+      }
+
+      calls[$call] = $call;
+      names[$call] = rname;
+
+      if ($agcw != "")
+      {
+        # printf("AGCWNTCQP: AGCW found: \"%s\"\n", $0) > "/dev/stderr";
+
+        nagcw = $agcw;
+        gsub(/[^0-9]/, "", nagcw);
+        if (int(nagcw) > maxagcw)
+        {       
+          maxagcw = int(nagcw);
+        }
+
+        if (firsts[$call] == "")
         {
-          seconds[$call] = firsts[$call];
           firsts[$call] = $agcw;
+          seconds[$call] = $ntc;
         }
         else
         {
-          if (firsts[$call] != $agcw)
+          if (firsts[$call] ~ /^NTC/)
           {
-            printf("AGCWNTCQP: Conflict agcw: previous %s new %s \"%s\"\n", $0, firsts[$call], $agcw) > "/dev/stderr";
-          }
-        }
-      }
-    }
-
-    if ($ntc != "")
-    {
-      # printf("QP: NTC found: \"%s\"\n", $0) > "/dev/stderr";
-
-      nntc = $ntc;
-      gsub(/[^0-9]/, "", nntc);
-      if (int(nntc) > maxntc)
-      {       
-        maxntc = int(nntc);
-      }
-
-      # printf("QP: \"%s\" -> nntc=%d\n", $0, nntc + 0) > "/dev/stderr";
-
-      if (firsts[$call] == "")
-      {
-        firsts[$call] = $ntc;
-        seconds[$call] = "";
-      }
-      else
-      {
-        if (firsts[$call] ~ /^AGCW/)
-        {
-          if (seconds[$call] != "" && seconds[$call] != $ntc)
-          {
-            printf("AGCWNTCQP: Conflict ntc: \"%s\"\n", $0) > "/dev/stderr";
+            seconds[$call] = firsts[$call];
+            firsts[$call] = $agcw;
           }
           else
           {
-            seconds[$call] = $ntc;
+            if (firsts[$call] != $agcw)
+            {
+              printf("AGCWNTCQP: Conflict agcw: previous %s new %s \"%s\"\n", $0, firsts[$call], $agcw) > "/dev/stderr";
+            }
           }
         }
       }
+
+      if ($ntc != "")
+      {
+        # printf("QP: NTC found: \"%s\"\n", $0) > "/dev/stderr";
+
+        nntc = $ntc;
+        gsub(/[^0-9]/, "", nntc);
+        if (int(nntc) > maxntc)
+        {       
+          maxntc = int(nntc);
+        }
+
+        # printf("QP: \"%s\" -> nntc=%d\n", $0, nntc + 0) > "/dev/stderr";
+
+        if (firsts[$call] == "")
+        {
+          firsts[$call] = $ntc;
+          seconds[$call] = "";
+        }
+        else
+        {
+          if (firsts[$call] ~ /^AGCW/)
+          {
+            if (seconds[$call] != "" && seconds[$call] != $ntc)
+            {
+              printf("AGCWNTCQP: Conflict ntc: \"%s\"\n", $0) > "/dev/stderr";
+            }
+            else
+            {
+              seconds[$call] = $ntc;
+            }
+          }
+        }
+      }
+      
+      if (length($name) > length(maxname) && nameok)
+      {
+        maxcall = $call;
+        maxname = rname;
+      }
     }
-    
-    if (length($name) > length(maxname) && nameok)
+    else if ($0 !~ /^(!|#|$)/)
     {
-      maxcall = $call;
-      maxname = rname;
+      if (nameok)
+        printf("AGCWNTCQP: Problem entry: \"%s\"\n", $0) > "/dev/stderr";
+        # printf("") > "/dev/stderr";
+      else
+        printf("AGCWNTCQP: Problem name:  \"%s\"\n", $0) > "/dev/stderr";
     }
-  }
-  else if ($0 !~ /^(!|#|$)/)
-  {
-    if (nameok)
-      printf("AGCWNTCQP: Problem entry: \"%s\"\n", $0) > "/dev/stderr";
-      # printf("") > "/dev/stderr";
-    else
-      printf("AGCWNTCQP: Problem name:  \"%s\"\n", $0) > "/dev/stderr";
-  }
+ }
 }
 END {
   for (c in calls)

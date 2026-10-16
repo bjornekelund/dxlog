@@ -1,6 +1,6 @@
 # Maryland-DC QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-13
+# Last updated 2026-10-15
 AA0AW=MN
 AA0FO=KS
 AA3R=DE
@@ -106,7 +106,6 @@ KC3CPT=PA
 KC3OQ=CLN
 KC3STZ=PA
 KC3SVR=HFD
-KC3UQU=BCT
 KC3VYE=PA
 KC4LNX=GA
 KC5LL=TX

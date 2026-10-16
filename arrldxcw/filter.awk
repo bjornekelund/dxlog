@@ -8,14 +8,9 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($3 ~ /State|Exch1/) col1 = 2;
-    if ($4 ~ /State|Exch1/) col1 = 3;
-    if ($5 ~ /State|Exch1/) col1 = 4;
-    if ($3 ~ /Power/) col2 = 2;
-    if ($4 ~ /Power/) col2 = 3;
-    if ($5 ~ /Power/) col2 = 4;
+    call = FindColumn("Call");
+    col1 = FindColumn("State|Exch1");
+    col2 = FindColumn("Power");
     # printf("%s --> call=%d col1=%d col2=%d\n", $0, call, col1, col2) > "/dev/stderr";
   }
   else 

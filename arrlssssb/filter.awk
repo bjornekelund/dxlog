@@ -6,18 +6,9 @@ BEGIN {
   # Call,Sect,State,CK,UserText,
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /CK/) check = 2;
-    if ($4 ~ /CK/) check = 3;
-    if ($5 ~ /CK/) check = 4;
-    if ($6 ~ /CK/) check = 5;
-    if ($3 ~ /Sect/) sect = 2;
-    if ($4 ~ /Sect/) sect = 3;
-    if ($5 ~ /Sect/) sect = 4;
-    if ($6 ~ /Sect/) sect = 5;
+    call = FindColumn("Call");
+    check = FindColumn("CK");
+    sect = FindColumn("Sect");
     # printf("%s --> call=%d check=%d sect=%d\n", $0, call, check, sect) > "/dev/stderr";
   }
   else 

@@ -5,13 +5,8 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /State/) state = 2;
-    if ($4 ~ /State/) state = 3;
-    if ($5 ~ /State/) state = 4;
+    call = FindColumn("Call");
+    state = FindColumn("State");
     # printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
 else if ( \

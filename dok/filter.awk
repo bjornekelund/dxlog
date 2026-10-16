@@ -6,21 +6,16 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-    # printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    call = FindColumn("Call");
+    exch = FindColumn("State|Exch1");
+    # printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Z0-9]+$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^[A-Z0-9]+$/)
   {
-    printf("%s=%s\n", $call, $col);
-    longest = length($col) > length(longest) ? $col : longest;
+    printf("%s=%s\n", $call, $exch);
+    longest = length($exch) > length(longest) ? $exch : longest;
   }
-  else if ($0 !~ /^(!|#|$)/ && $col != "")
+  else if ($0 !~ /^(!|#|$)/ && $exch != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

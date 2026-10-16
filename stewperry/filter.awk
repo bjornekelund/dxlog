@@ -7,13 +7,8 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1; else
-    if ($3 ~ /Call/) call = 2; else
-    if ($4 ~ /Call/) call = 3; else
-    if ($5 ~ /Call/) call = 4; else call = 0;
-    if ($3 ~ /Loc1/) loc = 2; else
-    if ($4 ~ /Loc1/) loc = 3; else
-    if ($5 ~ /Loc1/) loc = 4; else loc = 0;
+    call = FindColumn("Call");
+    loc = FindColumn("Loc1|Exch1");
   # printf\("%s --> call=%d loc=%d\n", $0, call, loc) > "/dev/stderr";
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $loc ~ /^[A-R]{2}[0-9]{2}$/)

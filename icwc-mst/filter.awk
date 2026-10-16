@@ -7,17 +7,11 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1; else
-    if ($3 ~ /Call/) call = 2; else
-    if ($4 ~ /Call/) call = 3; else
-    if ($5 ~ /Call/) call = 4; else call = 0;
-    if ($2 ~ /Name/) col = 1; else
-    if ($3 ~ /Name/) col = 2; else
-    if ($4 ~ /Name/) col = 3; else
-    if ($5 ~ /Name/) col = 4; else col = 0;
-  # printf\("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    call = FindColumn("Call");
+    exch = FindColumn("Name");
+  # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-Za-z]+$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^[A-Za-z]+$/)
   {
     if (line[$call] != "")
     {
@@ -25,12 +19,12 @@ BEGIN {
     }
     else
     {
-      printf("%s=%s\n", $call, toupper($col));
-      longest = length($col) > length(longest) ? toupper($col) : longest;
+      printf("%s=%s\n", $call, toupper($exch));
+      longest = length($exch) > length(longest) ? toupper($exch) : longest;
       line[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && $col != "")
+  else if ($0 !~ /^(!|#|$)/ && $exch != "")
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

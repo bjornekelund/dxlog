@@ -1,6 +1,6 @@
 # Spanish provinces prefill database
-# Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-13
+# Based on data collected by Claude VE2FK
+# Last updated 2026-10-16
 EA1AAA=LU
 EA1AAP=LO
 EA1ACP=SO
@@ -312,7 +312,6 @@ EA5IVR=AB
 EA5J=MU
 EA5JA=MU
 EA5JAB=A
-EA5JC=V
 EA5JDN=MU
 EA5JOT=A
 EA5JVM=V
