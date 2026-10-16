@@ -32,6 +32,8 @@ BEGIN {
   }
   else if ($call ~ /^(V[A-GOXY]|C[F-KY]|X[J-MO])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$|^VC1933$/)
   {
+    if ($sect == "GTA") $sect = "GH";
+    if ($sect == "NT") $sect = "TER";
     if ($sect ~ /^(AB|BC|GH|MB|NB|NL|NS|ONE|ONN|ONS|PE|QC|SK|TER)$/)
     {
       printf("%s=%s;%s\n", $call, $exch, $sect);

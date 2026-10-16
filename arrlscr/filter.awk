@@ -6,14 +6,14 @@ BEGIN {
   if ($1 ~ /!!Order!!/)
   {
     call = FindColumn("Call");
-    col1 = FindColumn("Misc");
-    col2 = FindColumn("State");
-    # printf("%s --> call=%d col1=%d, col2=%d\n", $0, call, col1, col2) > "/dev/stderr";
+    category = FindColumn("Misc");
+    state = FindColumn("State");
+    # printf("%s --> call=%d category=%d, state=%d\n", $0, call, category, state) > "/dev/stderr";
   }
   else if ( \
-      ((IsUScall($call) && $col2 ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
-      (IsVEcall($call) && $col2 ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)) && \
-      $col1 ~ /^[ISC]$/ )
+      ((IsUScall($call) && $state ~ /^(AL|AK|AR|AZ|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY)$/) || \
+      (IsVEcall($call) && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)) && \
+      $category ~ /^[ISC]$/ )
   {
     if (lines[$call] != "")
     {
@@ -21,15 +21,15 @@ BEGIN {
     }
     else
     {
-      printf("%s=%s;%s\n", $call, $col1 == "" ? "I" : $col1, $col2);
+      printf("%s=%s;%s\n", $call, $category == "" ? "I" : $category, $state);
       lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/)
   {
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col2 == "DX")
+    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state == "DX")
     {
-        printf("%s=%s;%s\n", $call, $col1 == "" ? "I" : $col1, $col2);
+        printf("%s=%s;%s\n", $call, $category == "" ? "I" : $category, $state);
     }
     else
     {

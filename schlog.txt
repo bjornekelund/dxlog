@@ -1,16 +1,35 @@
 -------- a1cwc
-The latest version of AWT.txt is already downloaded.
+Downloaded AWT.txt, parsing...
+Name length limit set to 10
+Longest name is "GEORGE" with 6 characters
+Created A1CWC_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/A1CWC_db.txt
 -------- acqp
-The latest version of QSOP_AC.txt is already downloaded.
+Downloaded QSOP_AC.txt, parsing...
+Created ACQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ACQP_db.txt
 -------- agb
 -------- agcw
 -------- agcwntcqp
 -------- allasian
 -------- alqp
-The latest version of QSOP_AL.txt is already downloaded.
+Downloaded QSOP_AL.txt, parsing...
+Ignored: "DL3DXX,DL,"
+Ignored: "F8PDR,F,"
+Ignored: "HA8IB,HA,"
+Ignored: "LA8OM,LA,"
+Ignored: "OM2VL,OM,"
+Ignored: "SP5SA,SP,"
+Ignored: "UA3AGW,UA,"
+Ignored: "W3ZJ,DC,"
+Created AQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/AQP_db.txt
 -------- aoec160
 -------- aridx
-The latest version of ARI-DX.txt is already downloaded.
+Downloaded ARI-DX.txt, parsing...
+Ignored: "4U9A,BR,"
+Created ARI_DX_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARI_DX_db.txt
 -------- arqp
 Downloaded QSOP_AR.txt, parsing...
 Ignored: "K5UR,PULA,"
@@ -55,10 +74,12 @@ Created ARRL_160M_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_160M_db.txt
 -------- arrldxcw
 Downloaded ARRL-DX-CW.txt, parsing...
+Problem !!Order!! line: "!!Order!!,Call,Exch1,UserText"
 Created ARRL_DX-CW_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-CW_db.txt
 -------- arrldxssb
 Downloaded ARRL-DX-SSB.txt, parsing...
+Problem !!Order!! line: "!!Order!!,Call,Exch1,UserText"
 Created ARRL_DX-SSB_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-SSB_db.txt
 -------- arrlfd
@@ -330,7 +351,9 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FLQP
 -------- foc
 -------- frphf
 -------- gagarin
-The latest version of GC.txt is already downloaded.
+Downloaded GC.txt, parsing...
+Created GAGARIN_KUP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAGARIN_KUP_db.txt
 -------- gaqp
 Downloaded QSOP_GA.txt, parsing...
 Irregular exchange NB for VE call VE1AFY
@@ -340,7 +363,9 @@ Ignored: "VO2MS,LB,"
 Created GAQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAQP_db.txt
 -------- hacwg
-The latest version of HA3NS-SPRINT.txt is already downloaded.
+Downloaded HA3NS-SPRINT.txt, parsing...
+Created HACWG_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HACWG_db.txt
 -------- hadx
 Downloaded HA-DX.txt, parsing...
 Ignored: "HA1ZH,154,"
@@ -373,7 +398,10 @@ Created HIQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HIQP_db.txt
 -------- hsc
 -------- iaqp
-The latest version of QSOP_IA.txt is already downloaded.
+Downloaded QSOP_IA.txt, parsing...
+"!!Order!!,Call,Exch1,UserText" --> call=1 state=2
+Created IAQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/IAQP_db.txt
 -------- iaru
 -------- icwc-mst
 Downloaded ICWC-MST.txt, parsing...
@@ -806,6 +834,7 @@ Created MIQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MIQP_db.txt
 -------- mnqp
 Downloaded QSOP_MN.txt, parsing...
+Problem !!Order!! line: "!!Order!!,Call,Exch1,UserText"
 Irregular exchange NB for VE call VE1AFY
 Irregular exchange NF for VE call VO1TX
 Longest name is "" with 0 characters
@@ -846,14 +875,8 @@ Created NAQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_db.txt
 -------- naval
 -------- ncqp
-Downloaded QSOP_NC.txt, parsing...
-Ignored: "VA3HES,ONS,"
-Irregular exchange NB for VE call VE1AFY
-Ignored: "VE1RPX,MAR,"
-Ignored: "VE3JSO,ONS,"
-Ignored: "VO1TH,NF,"
-Created NCQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NCQP_db.txt
+curl: (28) Resolving timed out after 5000 milliseconds
+ERROR! Download of QSOP_NC.txt failed. Aborting.
 -------- ndqp
 Downloaded QSOP_ND.txt, parsing...
 Ignored: "K3EU,DC,"
@@ -873,8 +896,9 @@ Ignored: "VO1SW,NF,"
 Created NHQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NHQP_db.txt
 -------- njqp
-curl: (28) Resolving timed out after 5000 milliseconds
-ERROR! Download of QSOP_NJ.txt failed. Aborting.
+Downloaded QSOP_NJ.txt, parsing...
+Created NJQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
 -------- nmqp
 Downloaded QSOP_NM.txt, parsing...
 Ignored: "AC5XK,DC,"
@@ -882,10 +906,16 @@ Ignored: "W3ZJ,DC,"
 Created NMQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NMQP_db.txt
 -------- nrau
-The latest version of NRAU-BALTIC-CW.txt is already downloaded.
+Downloaded NRAU-BALTIC-CW.txt, parsing...
+Created NRAU_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NRAU_db.txt
 -------- nrrl-telefoni
 -------- ntc
-The latest version of NTC-QP.txt is already downloaded.
+Downloaded NTC-QP.txt, parsing...
+Longest name is "NORBERT" with 7 characters
+Contains members up to #308
+Created NTC_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NTC_db.txt
 -------- nvqp
 Downloaded QSOP_NV.txt, parsing...
 Ignored: "VA3ONO,GTA,"
@@ -906,7 +936,9 @@ Irregular exchange YT for VE call VY1CO
 Created OHQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/OHQP_db.txt
 -------- ok-om
-The latest version of OK-OM-DX.txt is already downloaded.
+Downloaded OK-OM-DX.txt, parsing...
+Created OK-OM_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/OK-OM_db.txt
 -------- okqp
 Downloaded QSOP_OK.txt, parsing...
 Created OKQP_db.txt
