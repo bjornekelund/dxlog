@@ -8,6 +8,16 @@ function FindColumn(field_name)
   return 99;
 }
 
+function IsValidCall(call)
+{
+  return call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
+}
+
+function Trim(s) {
+    sub(/^[[:space:]]+/, "", s)
+    sub(/[[:space:]]+$/, "", s)
+    return s
+}
 
 function IsVEcall(call)
 {
@@ -321,4 +331,3 @@ function NotPredictableWAPC(call, state)
     return 0;
   }   
 }
-
