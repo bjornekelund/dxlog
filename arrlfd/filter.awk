@@ -18,7 +18,7 @@ BEGIN {
   {
     printf("Problem category: \"%s\"\n", $0) > "/dev/stderr";
   }
-  else if ($call ~ /^((A[A-L]|[KNW][A-Z]?)[0-9][A-Z]{1,3})|^(KL7|KH6|W[0-9])\/|\/W[0-9]$|^4U1WB$/ && $call !~ /\/V[EYO][0-9]$/)
+  else if (IsUScall($call) && $call !~ /\/V[EYO][0-9]$/)
   {
     if ($sect ~ /^(AK|AL|AR|AZ|CO|CT|DE|EB|EMA|ENY|EPA|EWA|GA|IA|ID|IL|IN|KS|KY|LA|LAX|MDC|ME|MI|MN|MO|MS|MT|NC|ND|NE|NFL|NH|NLI|NM|NNJ|NNY|NTX|NV|OH|OK|OR|ORG|PAC|PR|RI|SB|SC|SCV|SD|SDG|SF|SFL|SJV|SNJ|STX|SV|TN|UT|VA|VI|VT|WCF|WI|WMA|WNY|WPA|WTX|WV|WWA|WY)$/)
     {
@@ -30,7 +30,7 @@ BEGIN {
       printf("Problem ARRL section: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
-  else if ($call ~ /^(V[A-GOXY]|C[F-KY]|X[J-MO])[0-9](([A-Z]{1,3})(\/[1-9PM])?$|\/)|\/V[EOY][0-9]$|^VC1933$/)
+  else if (IsVEcall($call))
   {
     if ($sect == "GTA") $sect = "GH";
     if ($sect == "NT") $sect = "TER";

@@ -23,7 +23,7 @@ BEGIN {
       name = "";
     }
 
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && namevalid)
+    if (IsValidCall($call) && namevalid)
     {
       # printf("$call=%s name=%s ID=%s\n", $call, name, ID) > "/dev/stderr";
       if ($call ~ /^(A[A-L]|[KNW][A-Z]?)|\/(KL|KH|W)[0-9]$/ && $call !~ /V[EOY][0-9]$/)

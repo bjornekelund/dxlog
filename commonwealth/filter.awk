@@ -9,8 +9,8 @@ BEGIN {
     state = FindColumn("State|Exch1");
     # printf("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state == "HQ")
+  else if (IsValidCall($call) && $state == "HQ")
   {
-    printf("%s=%s\n", $1, $3);
+    printf("%s=%s\n", $call, $state);
   }
 }

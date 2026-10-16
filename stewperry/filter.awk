@@ -11,7 +11,7 @@ BEGIN {
     loc = FindColumn("Loc1|Exch1");
   # printf\("%s --> call=%d loc=%d\n", $0, call, loc) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $loc ~ /^[A-R]{2}[0-9]{2}$/)
+  else if (IsValidCall($call) && $loc ~ /^[A-R]{2}[0-9]{2}$/)
   {
     if (lines[$call] != "")
     {

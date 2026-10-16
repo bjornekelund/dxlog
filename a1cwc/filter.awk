@@ -16,9 +16,7 @@ BEGIN {
   {
     name = toupper($namc);
     if ( \
-      $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && \
-      name ~ /^[A-Z]+$/ && \
-      length(name) <= limit)
+      IsValidCall($call) && name ~ /^[A-Z]+$/ && length(name) <= limit)
     {
       if (calls[$call] != "")
       {

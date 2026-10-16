@@ -9,7 +9,7 @@ BEGIN {
     exch = FindColumn("Exch1");
   # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^(73|88)$/)
+  else if (IsValidCall($call) && $exch ~ /^(73|88)$/)
   {
     if (lines[$call] != "")
     {

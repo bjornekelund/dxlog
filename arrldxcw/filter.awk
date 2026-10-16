@@ -28,7 +28,7 @@ BEGIN {
       exchanges[$call] = exch;
       lines[$call] = $0;
     }
-    else if ($call ~/^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col2 ~ /^([0-9T]{0,4}|1?KW?)$/)
+    else if (IsValidCall($call) && $col2 ~ /^([0-9T]{0,4}|1?KW?)$/)
     {
       gsub(/T/, "0", exch); // convert T to 0
       sub(/^0+/, "", exch); // Remove leading zeroes

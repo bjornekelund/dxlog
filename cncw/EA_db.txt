@@ -1,5 +1,5 @@
 # Spanish provinces prefill database
-# Based on data from https://supercheckhistory.com/
+# Based on data collected by Claude VE2FK
 # Last updated 2026-10-16
 EA1AAA=LU
 EA1AAP=LO

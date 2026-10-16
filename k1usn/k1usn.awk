@@ -86,7 +86,7 @@ BEGIN {
       printf("Problem line: \"%s\"\n", $0) > "/dev/stderr";
     }
   }
-  else if ($0 != /^(!|#|$)/)
+  else if ($0 !~ /^(!|#|$)/)
   {
     printf("Problem call: \"%s\"\n", $0) > "/dev/stderr";
   }

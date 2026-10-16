@@ -12,7 +12,7 @@ BEGIN {
   else if ( \
     (IsUScall($call) && $state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) || \
     (IsVEcall($call) && $state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/) || \
-    ($call ~ /^(GB|TM)[0-9]+[A-Z]+$/ && $state ~ /^(F|G)$/) )
+    ($call ~ /^(GB|TM)[0-9]+[A-Z]+$/ && $state ~ /^(F|G)$/))
   {
     if (lines[$call] != "")
     {
@@ -29,4 +29,3 @@ BEGIN {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }
-#   $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state ~ /^(DX|F|G|AL|AK|AR|AZ|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MO|MS|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VA|VT|WA|WV|WI|WY|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)

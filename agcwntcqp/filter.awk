@@ -20,7 +20,7 @@ BEGIN {
  }
  else
  {
-    callok = $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/;
+    callok = IsValidCall($call);
     nameok = $name ~ /^([A-Za-z]{1,10}|)$/ && toupper($name) !~ /CLUB/;
     memok = $agcw ~ /^(AGCW|NTC)[1-9][0-9]{0,3}$|^$/ && $ntc ~ /^(AGCW|NTC)[1-9][0-9]{0,3}$|^$/;
 

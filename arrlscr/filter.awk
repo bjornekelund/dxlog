@@ -27,7 +27,7 @@ BEGIN {
   }
   else if ($0 !~ /^(!|#|$)/)
   {
-    if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $state == "DX")
+    if (IsValidCall($call) && $state == "DX")
     {
         printf("%s=%s;%s\n", $call, $category == "" ? "I" : $category, $state);
     }

@@ -4,8 +4,40 @@ function FindColumn(field_name)
     if ($i ~ field_name)
       return i - 1;
 
-  printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
+  # printf("Problem !!Order!! line: \"%s\"\n", $0) > "/dev/stderr";
   return 99;
+}
+
+function GuessBrazil(call)
+{
+  if (call ~ /^PU8[J-L]|^PT8/) return "AC"
+  if (call ~ /^PU7[A-D]|^PP7/) return "AL"
+  if (call ~ /^PU8[A-C]|^PP8/) return "AM"
+  if (call ~ /^PU8[G-I]|^PQ8/) return "AP"
+  if (call ~ /^PU6[J-Z]|^PY6/) return "BA"
+  if (call ~ /^PU7[M-P]|^PT7/) return "CE"
+  if (call ~ /^PU2[A-E]|^PT2/) return "DF"
+  if (call ~ /^PU1[A-I]|^PP1/) return "ES"
+  if (call ~ /^PU2[F-H]|^PP2/) return "GO"
+  if (call ~ /^PU4[A-Z]|^PY4/) return "MG"
+  if (call ~ /^PU9[A-N]|^PT9/) return "MS"
+  if (call ~ /^PU8[M-O]|^PR8/) return "MA"
+  if (call ~ /^PU9[O-Z]|^PY9/) return "MT"
+  if (call ~ /^PU8[W-Z]|^PY8/) return "PA"
+  if (call ~ /^PU7[E-H]|^PR7/) return "PB"
+  if (call ~ /^PU7[R-Z]|^PY7/) return "PE"
+  if (call ~ /^PU8[P-S]|^PS8/) return "PI"
+  if (call ~ /^PU5[M-Z]|^PY5/) return "PR"
+  if (call ~ /^PU1[J-Z]|^PY1/) return "RJ"
+  if (call ~ /^PU7[I-L]|^PS7/) return "RN"
+  if (call ~ /^PU8[D-F]|^PW8/) return "RO"
+  if (call ~ /^PU8[T-V]|^PV8/) return "RR"
+  if (call ~ /^PU3[A-Z]|^PY3/) return "RS"
+  if (call ~ /^PU5[A-L]|^PP5/) return "SC"
+  if (call ~ /^PU6[A-I]|^PP6/) return "SE"
+  if (call ~ /^PU2[K-Z]|^P[VYR]2/) return "SP"
+  if (call ~ /^PU2[I-J]|^PQ2/) return "TO"
+  return ""
 }
 
 function IsValidCall(call)
@@ -21,7 +53,7 @@ function Trim(s) {
 
 function IsVEcall(call)
 {
-  if (call ~ /^((V[A-GOXY]|C[F-J]|X[LM])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/[0-9]$|\/V[OYE][0-9]$/)
+  if (call ~ /^((V[A-GOXY]|C[F-KY]|X[J-O])[0-9])(\/|[^/]*$|.+\/[MP]$)|^(V[A-GX]|X[LM]|C[C-J]).+\/[0-9]$|\/V[OYE][0-9]$/)
   {
     if (call ~ /\//)
     {

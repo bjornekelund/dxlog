@@ -11,7 +11,7 @@ BEGIN {
     # printf("%s --> call=%d sect=%d, memb=%d\n", $0, call, sect, memb) > "/dev/stderr";
   }
   else if ( \
-    $call ~ /^(I[A-Z]?[0-9]\/)?I[A-Z]?[0-9]{1}[A-Z]{1,3}(\/(QRP|[P0-9]|I[A-Z]?[0-9]))?$/ && \
+    IsValidCall($call) && \
     $sect ~ /^(FR|LT|PG|RI|RM|TR|VT|AL|AT|BI|CN|GE|IM|NO|SP|SV|TO|VB|VC|BG|BS|CO|CR|LC|LO|MB|MI|MN|PV|SO|VA|BL|PD|RO|TV|VE|VI|VR|BO|FC|FE|MO|PC|PR|RA|RE|RN|AR|FI|GR|LI|LU|MS|PI|PO|PT|SI|AN|AP|AQ|CH|FM|MC|PE|PU|TE|BA|BR|BT|FG|LE|MT|TA|AV|BN|CB|CE|CS|CZ|IS|KR|NA|PZ|RC|SA|VV|BZ|TN|CA|NU|OG|OR|OT|SS|SU|VS|AG|CL|CT|EN|ME|PA|RG|SR|TP|GO|PN|TS|UD|AO|GRI|RSM|SCV|SMM|TI)$/ && \
     $memb ~ /^([1-9][0-9]{,3}|)$/)
   {

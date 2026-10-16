@@ -7,9 +7,9 @@ BEGIN {
   {
     call = FindColumn("Call");
     exch = FindColumn("State|Exch1");
-    printf("\"%s\" --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    # printf("\"%s\" --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^(19|20)[0-9]{2}$/)
+  else if (IsValidCall($call) && $exch ~ /^(19|20)[0-9]{2}$/)
   {
     if (year[$call] != "")
       printf("Replaced %s with %s for %s\n", year[$call], $2, $call) > "/dev/stderr";

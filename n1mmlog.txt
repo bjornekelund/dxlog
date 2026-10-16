@@ -5,13 +5,13 @@ Parsing A1AWT-021.txt
 Name length limit set to 10
 Longest name is "GIANFRANCO" with 10 characters
 Created A1CWC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/A1CWC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/A1CWC_db.txt
 -------- acqp
 Most recent file: QSOP_AC-2026-005.txt
 QSOP_AC-2026-005.txt is already downloaded
 Parsing QSOP_AC-2026-005.txt
 Created ACQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ACQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ACQP_db.txt
 -------- agb
 -------- agcw
 -------- agcwntcqp
@@ -25,38 +25,38 @@ AGCWNTCQP: Conflict agcw: previous PY1FOX,Jeferson,AGCW4365, new AGCW4362 "AGCW4
 Contains members up to AGCW #7295 and NTC #281
 9A3XV has the longest name: "ALEKSANDAR" with 10 characters
 Created AGCWNTCQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/AGCWNTCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AGCWNTCQP_db.txt
 -------- allasian
 No file matching 'ALLASIACW' found
 Parsing ALLASIACW_2026-002.txt
 Created ALLASIAN_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ALLASIAN_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ALLASIAN_db.txt
 -------- alqp
 Most recent file: QSOP_AL-2026-002.txt
 QSOP_AL-2026-002.txt is already downloaded
 Parsing QSOP_AL-2026-002.txt
 Created AQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/AQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AQP_db.txt
 -------- aoec160
 -------- aridx
 Most recent file: ARIDX_2026-001.txt
 ARIDX_2026-001.txt is already downloaded
 Parsing ARIDX_2026-001.txt
 Created ARI_DX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARI_DX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARI_DX_db.txt
 -------- arqp
 Most recent file: QSOP_AR-2026-001.txt
 QSOP_AR-2026-001.txt is already downloaded
 Parsing QSOP_AR-2026-001.txt
 Created ARQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARQP_db.txt
 -------- arrl10
 Most recent file: ARRL10M_2026-003.txt
 ARRL10M_2026-003.txt is already downloaded
 Parsing ARRL10M_2026-003.txt
 Ignored: "KA3VQR/A,PA,"
 Created ARRL_10M_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_10M_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_10M_db.txt
 -------- arrl160
 Most recent file: ARRL160-2025-008.txt
 ARRL160-2025-008.txt is already downloaded
@@ -65,27 +65,34 @@ DX station ignored  : "ABR,MS,"
 DX station ignored  : "KA3VQR/A,EPA,"
 Irregular exchange QC for VE call VE6EX
 Created ARRL_160M_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_160M_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_160M_db.txt
 -------- arrldxcw
 Most recent file: ARRLDXCW_USDX-2026-001.txt
 ARRLDXCW_USDX-2026-001.txt is already downloaded
 Parsing ARRLDXCW_USDX-2026-001.txt
-Problem !!Order!! line: "!!Order!!,Call,Name,State,"
 Created ARRL_DX-CW_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-CW_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-CW_db.txt
 -------- arrldxssb
 Most recent file: ARRLDXSSB_USDX-2026-009.txt
 ARRLDXSSB_USDX-2026-009.txt is already downloaded
 Parsing ARRLDXSSB_USDX-2026-009.txt
-Problem !!Order!! line: "!!Order!!,Call,Name,State,"
 Created ARRL_DX-SSB_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-SSB_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-SSB_db.txt
 -------- arrlfd
 Most recent file: FD_2026-LAST.txt
 FD_2026-LAST.txt is already downloaded
 Parsing FD_2026-LAST.txt
+Problem DX station  : "K2DFSI,3A,NNJ,(NJ2SP GOTA) South Plainfield ARC"
+Problem DX station  : "K3ORST,1D,TN"
+Problem DX station  : "KB6VME/MM,2C,SDG"
+Problem DX station  : "KT5LA/MM,1C,LAX"
+Problem DX station  : "N3OBY/MM,1C,EPA"
+Problem DX station  : "W0ZRTR,1A,ND,Central Dakota ARC"
+Problem DX station  : "W3BILX,3F,GA,(W4RSC GOTA) Silver Comet ARS"
+Problem DX station  : "W3ZGDE,2D,EPA,Hilltop Transmitter Assn."
+Problem DX station  : "W5JJJP,1D,STX"
 Created ARRL_FD_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_FD_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_FD_db.txt
 -------- arrlrr
 Most recent file: RRCW.txt
 RRCW.txt is already downloaded
@@ -106,14 +113,14 @@ Problem Canadian province: "VO1MP,GUS,77,NL,"
 Problem Canadian province: "VO2AC,CHRIS,85,NL,"
 Problem US state: "WP3TT,PAUL,04,PR,"
 Created ARRL_RR_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RR_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RR_db.txt
 -------- arrlrtty
 Most recent file: ARRLRTTY_2027-002.txt
 ARRLRTTY_2027-002.txt is already downloaded
 Parsing ARRLRTTY_2027-002.txt
 Ignored: "K6HGFR,,CA,"
 Created ARRL_RTTY_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RTTY_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_RTTY_db.txt
 -------- arrlscr
 Most recent file: ARRL-SCR-003.txt
 ARRL-SCR-003.txt is already downloaded
@@ -122,7 +129,7 @@ Ignored: "AB50R,I,MS,"
 Ignored: "KA3VQR/A,I,PA,"
 Ignored: "ON7DQ,I,ON,"
 Created ARRL_SCR_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SCR_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SCR_db.txt
 -------- arrlsscw
 Most recent file: SSCW_new.txt
 SSCW_new.txt is already downloaded
@@ -131,7 +138,7 @@ Problem entry: "KA3VQR/A,EPA,PA,90,"
 Problem entry: "KK6L,,CA,95,"
 Problem entry: "W1EZER,MO,MO,18,"
 Created ARRL_SS_CW_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_CW_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_CW_db.txt
 -------- arrlssssb
 Most recent file: SSSSB_2025-009.txt
 SSSSB_2025-009.txt is already downloaded
@@ -140,7 +147,7 @@ Problem entry: "KA3VQR/A,EPA,PA,90,"
 Problem entry: "KK6L,,CA,95,"
 Problem entry: "W1EZER,MO,MO,18,"
 Created ARRL_SS_SSB_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_SSB_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_SS_SSB_db.txt
 -------- arrlvhf
 Most recent file: ARRLVHFSEP.txt
 ARRLVHFSEP.txt is already downloaded
@@ -148,7 +155,7 @@ Parsing ARRLVHFSEP.txt
 Ignored: "HGM3DXC,,JN96,"
 Ignored: "HGM3O,,JN96,"
 Created ARRL-VHF_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL-VHF_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL-VHF_db.txt
 -------- aschamp
 -------- azqp
 Most recent file: QSOP_AZ-2026-002.txt
@@ -158,13 +165,13 @@ Parsing QSOP_AZ-2026-002.txt
 "W7IJ,,APH,APACHE" reoccurs as "W7IJ,,WA,"
 "WW9R,,PMA,PIMA" reoccurs as "WW9R,PAT,WI,"
 Created AZQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/AZQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/AZQP_db.txt
 -------- bandebasse
 Most recent file: BB_ITALIA-001.txt
 BB_ITALIA-001.txt is already downloaded
 Parsing BB_ITALIA-001.txt
 Created BANDE_BASSE_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/BANDE_BASSE_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/BANDE_BASSE_db.txt
 -------- bccqp
 -------- bcqp
 Most recent file: QSOP_BC-NEW-002.txt
@@ -174,7 +181,7 @@ Ignored: "KG4HF,AL,DX,"
 Ignored: "NP2X,ED,DX,"
 Ignored: "NP3Y,PAUL,DX,"
 Created BCQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/BCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/BCQP_db.txt
 -------- caqp
 Most recent file: QSOP_CA-2026-003.txt
 QSOP_CA-2026-003.txt is already downloaded
@@ -200,20 +207,14 @@ Ignored: "NP3A,ERIC,KP4,"
 "W6TK,,SLUI,SAN LUIS OBISPO," reoccurs as "W6TK,DICK,OR,"
 Ignored: "WP4TZ,MANU,KP4,"
 Created CQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQP_db.txt
 -------- cncw
-Most recent file: CNCW.txt
-CNCW.txt is already downloaded
-Parsing CNCW.txt
-Created EA_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/EA_db.txt
 -------- commonwealth
 Most recent file: RSGBBERU_2026-014.txt
 RSGBBERU_2026-014.txt is already downloaded
 Parsing RSGBBERU_2026-014.txt
-Problem !!Order!! line: "!!Order!!,Call,Name,Usertext"
 Created COMMONW_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/COMMONW_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/COMMONW_db.txt
 -------- coqp
 Most recent file: QSOP_CO-2026-007.txt
 QSOP_CO-2026-007.txt is already downloaded
@@ -221,7 +222,7 @@ Parsing QSOP_CO-2026-007.txt
 Ignored: "KC0RPS,JIM,BOU/GIL/JEF,Three cty Boulder-Gilpin-Jefferson (2026)"
 "K4JC,VINCE,MOF,MOFFAT POTA US-0921 " reoccurs as "K4JC,VINCE,FL,"
 Created COQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/COQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/COQP_db.txt
 -------- cpqp
 Most recent file: QSOP_CP-2026-001.txt
 QSOP_CP-2026-001.txt is already downloaded
@@ -229,7 +230,7 @@ Parsing QSOP_CP-2026-001.txt
 Ignored: "VE5KS,John,CYP,"
 Ignored: "VE6LRR,Lindsay,CRR,"
 Created CPQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CPQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CPQP_db.txt
 -------- cq160
 Most recent file: CQ160CW-005.txt
 CQ160CW-005.txt is already downloaded
@@ -237,7 +238,7 @@ Parsing CQ160CW-005.txt
 Ignored: "KI30,,VA,"
 Irregular exchange NF for VE call VO2FF
 Created CQ160_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQ160_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQ160_db.txt
 -------- cqmm
 -------- cqvojvodina
 -------- cqww
@@ -246,18 +247,18 @@ Most recent file: CQWWRTTY_2026-004.txt
 CQWWRTTY_2026-004.txt is already downloaded
 Parsing CQWWRTTY_2026-004.txt
 Created CQWWR_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQWWR_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQWWR_db.txt
 -------- croatiandx
 Most recent file: 9ADX_2025.txt
 9ADX_2025.txt is already downloaded
 Parsing 9ADX_2025.txt
 Created 9ADX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/9ADX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/9ADX_db.txt
 -------- cvadx
 No file matching 'CVADXCW' found
 Parsing CVADXCW-001.txt
 Created CVADX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CVADX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CVADX_db.txt
 -------- cwt
 Most recent file: CWOPS_4000-CCC.txt
 CWOPS_4000-CCC.txt is already downloaded
@@ -266,7 +267,7 @@ Callsign reoccurrence: "N4LCD,Paul,CWA,Cartersville GA"
 Highest member number is 4000
 Longest name is "Christian" with 9 characters
 Created CWT_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CWT_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/CWT_db.txt
 -------- dig
 -------- dok
 Most recent file: WAG.txt
@@ -274,22 +275,21 @@ WAG.txt is already downloaded
 Parsing WAG.txt
 Longest DOK is "APOLLO" with 6 characters
 Created DOK_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/DOK_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/DOK_db.txt
 -------- ea
 Most recent file: KINGEACW_2026-002.txt
 KINGEACW_2026-002.txt is already downloaded
 Parsing KINGEACW_2026-002.txt
 Created EA_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/EA_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/EA_db.txt
 -------- eacme
 No file matching 'CME' found
 -------- eudxc
 Most recent file: EUDXC-004.txt
 EUDXC-004.txt is already downloaded
 Parsing EUDXC-004.txt
-Ignored: "FG/F5HRY,FR15"
 Created EUDXC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/EUDXC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/EUDXC_db.txt
 -------- euhfc
 -------- eupsk
 -------- fistsspr
@@ -298,7 +298,7 @@ Most recent file: QSOP_FL_2026-009.txt
 QSOP_FL_2026-009.txt is already downloaded
 Parsing QSOP_FL_2026-009.txt
 Created FLQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FLQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/FLQP_db.txt
 -------- foc
 -------- frphf
 Most recent file: FRPHF-001.txt
@@ -363,31 +363,31 @@ Parsing FRPHF-001.txt
 "ZY2A,,GO," reoccurs as "ZY2A,,GO,"
 "ZY5A,,SC," reoccurs as "ZY5A,,SC,"
 Created FRPHF_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FRPHF_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/FRPHF_db.txt
 -------- gagarin
 Most recent file: Gcup-2026.txt
 Gcup-2026.txt is already downloaded
 Parsing Gcup-2026.txt
 Created GAGARIN_KUP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAGARIN_KUP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAGARIN_KUP_db.txt
 -------- gaqp
 Most recent file: QSOP_GA-2026-001.txt
 QSOP_GA-2026-001.txt is already downloaded
 Parsing QSOP_GA-2026-001.txt
 Created GAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/GAQP_db.txt
 -------- hacwg
 No file matching 'HA3NS' found
 Parsing HA3NS-002.txt
 Created HACWG_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HACWG_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/HACWG_db.txt
 -------- hadx
 Most recent file: HADX.txt
 HADX.txt is already downloaded
 Parsing HADX.txt
 "HA4FF,FE" reoccurs as "HA4FF,FE"
 Created HADX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HADX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/HADX_db.txt
 -------- hamspirit
 -------- helvetia
 Most recent file: Helvetia-004.txt
@@ -401,7 +401,7 @@ Ignored: "HB9HQ,"
 Ignored: "HB9RBH,"
 Ignored: "HB9XCA,"
 Created Helvetia_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/Helvetia_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/Helvetia_db.txt
 -------- hiqp
 Most recent file: QSOP_HI-2026-001.txt
 QSOP_HI-2026-001.txt is already downloaded
@@ -423,7 +423,7 @@ Ignored: "WH7T,MARK,"
 Ignored: "WP3C,AL,DX,"
 Ignored: "WP3Z,MANU,DX,"
 Created HIQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/HIQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/HIQP_db.txt
 -------- hsc
 -------- iaqp
 Most recent file: QSOP_IA-2026-001.txt
@@ -432,7 +432,7 @@ Parsing QSOP_IA-2026-001.txt
 "!!Order!!, Call, Name, Exch1, UserText" --> call=1 state=3
 "K0KDS,,WAS,WASHINGTON POTA US-2297" reoccurs as "K0KDS,,WAS,WASHINGTON"
 Created IAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/IAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/IAQP_db.txt
 -------- iaru
 -------- icwc-mst
 Most recent file: ICWC-MST-080.txt
@@ -440,7 +440,7 @@ ICWC-MST-080.txt is already downloaded
 Parsing ICWC-MST-080.txt
 Longest name is "FRANCESCO" with 9 characters
 Created ICWCMST_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ICWCMST_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ICWCMST_db.txt
 -------- idqp
 Most recent file: QSOP_ID-2025-002.txt
 QSOP_ID-2025-002.txt is already downloaded
@@ -463,21 +463,20 @@ Ignored: "ZF2PG,PETE,ZF,"
 Ignored: "ZF5T,STAN,ZF,"
 Ignored: "ZL4TT,PAUL,ZL,"
 Created IDQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/IDQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/IDQP_db.txt
 -------- ig-ry
 Most recent file: SCRY_NEW-004.txt
 SCRY_NEW-004.txt is already downloaded
 Parsing SCRY_NEW-004.txt
-"!!Order!!,Call,Exch1,UserText" --> call=1 col=0
 Created IG-RY_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/IG-RY_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/IG-RY_db.txt
 -------- ilqp
 Most recent file: QSOP_IL-2026-001.txt
 QSOP_IL-2026-001.txt is already downloaded
 Parsing QSOP_IL-2026-001.txt
 "!!Order!!,Call,Name,Exch1,UserText," --> call=1 state=3
 Created ILQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ILQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ILQP_db.txt
 -------- in7qpnede
 Most recent file: QSOP_IN7QPNE_DE-2026-006.txt
 QSOP_IN7QPNE_DE-2026-006.txt is already downloaded
@@ -485,19 +484,19 @@ Parsing QSOP_IN7QPNE_DE-2026-006.txt
 Ignored: "KI7IOC,,ORDES/JEF/WHE,"
 Ignored: "KJ7CWE,,MTROO/SHE/VAL,"
 Created IN7QPNEDE_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/IN7QPNEDE_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/IN7QPNEDE_db.txt
 -------- iota
 Most recent file: IOTA_2026-017.txt
 IOTA_2026-017.txt is already downloaded
 Parsing IOTA_2026-017.txt
 Created IOTA_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/IOTA_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/IOTA_db.txt
 -------- jarlwwrtty
 Most recent file: JARLWWRTTY_2026-001.txt
 JARLWWRTTY_2026-001.txt is already downloaded
 Parsing JARLWWRTTY_2026-001.txt
 Created JARLWWR_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/JARLWWR_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/JARLWWR_db.txt
 -------- jidxc
 Most recent file: JIDXCW_NEW5-001.txt
 JIDXCW_NEW5-001.txt is already downloaded
@@ -511,7 +510,7 @@ Ignored: "JG8NQJ/JD1,50,"
 Ignored: "JL1RLE/JR6,47,"
 Ignored: "JR1CAD/MM,25,"
 Created JIDXC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/JIDXC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/JIDXC_db.txt
 -------- k1usn
 Most recent file: K1USNSST-065.txt
 K1USNSST-065.txt is already downloaded
@@ -525,7 +524,7 @@ Problem line: "VO1AW,BRIAN,NL,"
 "WN8P,,KS," reoccurs as "WN8P,LARRY,MI,"
 Longest name is "FREDERICK" with 9 characters
 Created K1USN_SST_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/K1USN_SST_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/K1USN_SST_db.txt
 -------- kcj
 Most recent file: KCJ-2025-001.txt
 KCJ-2025-001.txt is already downloaded
@@ -538,38 +537,38 @@ Ignored: "JGCQJ,WK"
 Ignored: "JJJJL,SI"
 Ignored: "JKHFN,HG"
 Created KCJ_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/KCJ_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/KCJ_db.txt
 -------- kj
 -------- ksqp
 Most recent file: QSOP_KS-2026-005.txt
 QSOP_KS-2026-005.txt is already downloaded
 Parsing QSOP_KS-2026-005.txt
 Created KSQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/KSQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/KSQP_db.txt
 -------- kyqp
 Most recent file: QSOP_KY-2026-006.txt
 QSOP_KY-2026-006.txt is already downloaded
 Parsing QSOP_KY-2026-006.txt
 Created KYQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/KYQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/KYQP_db.txt
 -------- labredx
 Most recent file: LABRE_DX-009.txt
 LABRE_DX-009.txt is already downloaded
 Parsing LABRE_DX-009.txt
 Created LABREDX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/LABREDX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/LABREDX_db.txt
 -------- laqp
 Most recent file: QSOP_LA-2026-002.txt
 QSOP_LA-2026-002.txt is already downloaded
 Parsing QSOP_LA-2026-002.txt
 Created LAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/LAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/LAQP_db.txt
 -------- lzdx
 Most recent file: LZDX-2023-002.txt
 LZDX-2023-002.txt is already downloaded
 Parsing LZDX-2023-002.txt
 Created LZDX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/LZDX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/LZDX_db.txt
 -------- maidmay
 -------- mcdqp
 -------- mdqp
@@ -589,32 +588,32 @@ Ignored: "VO1XC,LAURENCE,NL,"
 Ignored: "VO2AC,CHRIS,NL,"
 Ignored: "VO2FF,DAN,NL,"
 Created MEQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MEQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/MEQP_db.txt
 -------- miqp
 Most recent file: QSOP_MI-2025-001.txt
 QSOP_MI-2025-001.txt is already downloaded
 Parsing QSOP_MI-2025-001.txt
 Created MIQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MIQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/MIQP_db.txt
 -------- mnqp
 Most recent file: QSOP_MN-2026-004.txt
 QSOP_MN-2026-004.txt is already downloaded
 Parsing QSOP_MN-2026-004.txt
 Longest name is "CHRISTOPHER" with 11 characters
 Created MNQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MNQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/MNQP_db.txt
 -------- moqp
 Most recent file: QSOP_MO-2026-001.txt
 QSOP_MO-2026-001.txt is already downloaded
 Parsing QSOP_MO-2026-001.txt
 Created MOQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MOQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/MOQP_db.txt
 -------- msqp
 Most recent file: QSOP_MS-2026-002.txt
 QSOP_MS-2026-002.txt is already downloaded
 Parsing QSOP_MS-2026-002.txt
 Created MSQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MSQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/MSQP_db.txt
 -------- mtqp
 No file matching 'QSOP_MT' found
 -------- names
@@ -623,14 +622,14 @@ Names_VE2FK-086.txt is already downloaded
 Parsing Names_VE2FK-086.txt
 Longest name is "ALESSANDRO" with 10 characters
 Created NAMES_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAMES_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAMES_db.txt
 -------- naqp
 Most recent file: NAQPCW.txt
 NAQPCW.txt is already downloaded
 Parsing NAQPCW.txt
 Longest name is "ALEXANDER" with 9 characters
 Created NAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_db.txt
 -------- naval
 -------- ncqp
 Most recent file: QSOP_NC-2026-002.txt
@@ -639,26 +638,26 @@ Parsing QSOP_NC-2026-002.txt
 Ignored: "N4CW,,MOBILE"
 "NC4DA,,GAS,GASTON" reoccurs as "NC4DA,,GAS,GASTON"
 Created NCQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NCQP_db.txt
 -------- ndqp
 Most recent file: QSOP_ND-2026-001.txt
 QSOP_ND-2026-001.txt is already downloaded
 Parsing QSOP_ND-2026-001.txt
 Created NDQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NDQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NDQP_db.txt
 -------- neqp
 Most recent file: QSOP_NE-2026-002.txt
 QSOP_NE-2026-002.txt is already downloaded
 Parsing QSOP_NE-2026-002.txt
 Created NEQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NEQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NEQP_db.txt
 -------- nhqp
 Most recent file: QSOP_NH-2026-001.txt
 QSOP_NH-2026-001.txt is already downloaded
 Parsing QSOP_NH-2026-001.txt
 "N1TM,,ROC,ROCKINGHAM" reoccurs as "N1TM,,CT,"
 Created NHQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NHQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NHQP_db.txt
 -------- njqp
 Most recent file: QSOP_NJ-2024-002.txt
 QSOP_NJ-2024-002.txt is already downloaded
@@ -1087,21 +1086,21 @@ Ignored: "WV2ZOW,MIKE,NJ,"
 Ignored: "WX2R,,NJ,"
 Ignored: "WX2S,,NJ,"
 Created NJQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
 -------- nmqp
 Most recent file: QSOP_NM-2026-001.txt
 QSOP_NM-2026-001.txt is already downloaded
 Parsing QSOP_NM-2026-001.txt
 Ignored: "K7ZOO/5,,ZOO,EXPEDITION,"
 Created NMQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NMQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NMQP_db.txt
 -------- nrau
 Most recent file: NRAUCW-004.txt
 NRAUCW-004.txt is already downloaded
 Parsing NRAUCW-004.txt
 "OZ0B,SJ" reoccurs as "OZ0B,SJ"
 Created NRAU_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NRAU_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NRAU_db.txt
 -------- nrrl-telefoni
 -------- ntc
 Most recent file: NTC_QP-050.txt
@@ -1110,7 +1109,7 @@ Parsing NTC_QP-050.txt
 Longest name is "MARIANNE" with 8 characters
 Contains members up to #318
 Created NTC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NTC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NTC_db.txt
 -------- nvqp
 No file matching 'QSOP_NV' found
 -------- nyqp
@@ -1118,7 +1117,7 @@ Most recent file: QSOP_NY-2026-002.txt
 QSOP_NY-2026-002.txt is already downloaded
 Parsing QSOP_NY-2026-002.txt
 Created NYQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NYQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/NYQP_db.txt
 -------- ohqp
 Most recent file: QSOP_OH-2026-003.txt
 QSOP_OH-2026-003.txt is already downloaded
@@ -1136,39 +1135,39 @@ Ignored: "NP3KW,MANNY,DX,"
 Ignored: "NP3Y,PAUL,DX,"
 Ignored: "WP3Z,MANU,DX,"
 Created OHQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/OHQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/OHQP_db.txt
 -------- ok-om
 Most recent file: OKOMDX.txt
 OKOMDX.txt is already downloaded
 Parsing OKOMDX.txt
 Created OK-OM_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/OK-OM_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/OK-OM_db.txt
 -------- okqp
 Most recent file: QSOP_OK-2026-002.txt
 QSOP_OK-2026-002.txt is already downloaded
 Parsing QSOP_OK-2026-002.txt
 Ignored: "N5XTR,Crew,COT/TIL,Cotton/Tillman"
 Created OKQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/OKQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/OKQP_db.txt
 -------- onqp
 Most recent file: QSOP_ON-2026-003.txt
 QSOP_ON-2026-003.txt is already downloaded
 Parsing QSOP_ON-2026-003.txt
 "VE3AQ,YRK," reoccurs as "VE3AQ,YRK,York Region "
 Created ONQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ONQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/ONQP_db.txt
 -------- pabeker
 Most recent file: PABEKERCW.txt
 PABEKERCW.txt is already downloaded
 Parsing PABEKERCW.txt
 Created PABEKER_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PABEKER_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/PABEKER_db.txt
 -------- pacc
 Most recent file: PACC-2026-006.txt
 PACC-2026-006.txt is already downloaded
 Parsing PACC-2026-006.txt
 Created PACC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PACC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/PACC_db.txt
 -------- paqp
 Most recent file: QSOP_PA-2026-002.txt
 QSOP_PA-2026-002.txt is already downloaded
@@ -1180,14 +1179,14 @@ Ignored: "VA1XT,LA,"
 Ignored: "VE3NGW,SFL,"
 Ignored: "WB3JIS,DAI,"
 Created PAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/PAQP_db.txt
 -------- pcc
 Most recent file: PCC_NM-2025-002.txt
 PCC_NM-2025-002.txt is already downloaded
 Parsing PCC_NM-2025-002.txt
 Ignored: "VE2FK,DUB,"
 Created PCC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PCC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/PCC_db.txt
 -------- podxs
 -------- polar-radioman
 -------- qcqp
@@ -1211,7 +1210,7 @@ Ignored: "VO1UK,DWAYNE,NL,"
 Ignored: "VO1XC,LAURENCE,NL,"
 Ignored: "VO2AC,CHRIS,NL,"
 Created QCQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/QCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/QCQP_db.txt
 -------- r4c-cup
 -------- r4w-champ
 -------- radioylom
@@ -1223,635 +1222,19 @@ Parsing RUSYLOM-002.txt
 "RZ5Z,88," reoccurs as "RZ5Z,73,"
 "RU4LM,73," reoccurs as "RU4LM,73,"
 Created RADIOYLOM_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RADIOYLOM_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/RADIOYLOM_db.txt
 -------- raem
 Most recent file: RAEM_2026.txt
 RAEM_2026.txt is already downloaded
 Parsing RAEM_2026.txt
 Created RAEM_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RAEM_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/RAEM_db.txt
 -------- rcc
 Most recent file: RCCCUP_2025.txt
 RCCCUP_2025.txt is already downloaded
 Parsing RCCCUP_2025.txt
-Problem !!Order!! line: "!!Order!!,Call,Sect,"
-Ignored: "4X6HX,RCC650"
-Ignored: "4Z1MS,RCC650"
-Ignored: "5B/RN3QO,RCC5"
-Ignored: "5B4AOW,RCC700"
-Ignored: "9A2EU,RCC293"
-Ignored: "9A5X,RCC775"
-Ignored: "A41CK,RCC575"
-Ignored: "A42K,RCC575"
-Ignored: "A65BP,RCC27"
-Ignored: "A71/RN1B,RCC56"
-Ignored: "A75GC,RCC56"
-Ignored: "AC1ZF,RCC888"
-Ignored: "D0IA,RCC276"
-Ignored: "DL2OM,RCC284"
-Ignored: "E73RT,RCC93"
-Ignored: "EA4HKF,RCC50"
-Ignored: "EA5/RV2A,RCC218"
-Ignored: "ED4J,RCC50"
-Ignored: "ER3PM,RCC678"
-Ignored: "IB3N,RCC316"
-Ignored: "IB9T,RCC920"
-Ignored: "IG9/OU2I,RCC677"
-Ignored: "IT9RZU,RCC920"
-Ignored: "IV3SKB,RCC316"
-Ignored: "IW0RLC,RCC980"
-Ignored: "K4EA,RCC349"
-Ignored: "KC1TEK,RCC730"
-Ignored: "LC7M,RCC292"
-Ignored: "LZ/RX6N,RCC361"
-Ignored: "LZ1YE,RCC556"
-Ignored: "LZ1ZF,RCC888"
-Ignored: "LZ5DB,RCC730"
-Ignored: "LZ5Y,RCC556"
-Ignored: "LZ9Z,RCC888"
-Ignored: "M0MSV,RCC364"
-Ignored: "MM3AWD,RCC330"
-Ignored: "MU0MXF,RCC198"
-Ignored: "N1SNB,RCC287"
-Ignored: "NT2A,RCC739"
-Ignored: "NT2X,RCC11"
-Ignored: "NT6X,RCC296"
-Ignored: "OG7F,RCC37"
-Ignored: "OH5DA,RCC37"
-Ignored: "OH7BG,RCC588"
-Ignored: "OH9FTW,RCC469"
-Ignored: "OK1VK,RCC343"
-Ignored: "OK1WWJ,RCC343"
-Ignored: "OK2FD,RCC577"
-Ignored: "OK3X,RCC343"
-Ignored: "OM7AT,RCC261"
-Ignored: "OU2I,RCC677"
-Ignored: "OZ1BII,RCC677"
-Ignored: "OZ2I,RCC677"
-Ignored: "P3AA,RCC700"
-Ignored: "P3N,RCC3"
-Ignored: "PV2P,RCC413"
-Ignored: "PY2DY,RCC413"
-Ignored: "PY4WAS,RCC901"
-Ignored: "R0AS,RCC252"
-Ignored: "R0BI,RCC929"
-Ignored: "R0NN,RCC454"
-Ignored: "R0WY,RCC442"
-Ignored: "R1BAC,RCC386"
-Ignored: "R1BDW,RCC121"
-Ignored: "R1BIG,RCC588"
-Ignored: "R1CAA,RCC388"
-Ignored: "R1CAM,RCC312"
-Ignored: "R1DX,RCC291"
-Ignored: "R1FZ,RCC399"
-Ignored: "R1II,RCC58"
-Ignored: "R1MJ,RCC394"
-Ignored: "R1QE,RCC304"
-Ignored: "R1TE,RCC540"
-Ignored: "R1TE/1,RCC540"
-Ignored: "R2AA,RCC3"
-Ignored: "R2AA/7,RCC3"
-Ignored: "R2AL,RCC262"
-Ignored: "R2BEA,RCC502"
-Ignored: "R2BFL,RCC419"
-Ignored: "R2BW,RCC565"
-Ignored: "R2DA,RCC777"
-Ignored: "R2DO,RCC163"
-Ignored: "R2DYG,RCC611"
-Ignored: "R2EL,RCC98"
-Ignored: "R2FC,RCC9"
-Ignored: "R2FK,RCC579"
-Ignored: "R2HF,RCC302"
-Ignored: "R2HM,RCC321"
-Ignored: "R2HM/6,RCC321"
-Ignored: "R2HT,RCC308"
-Ignored: "R2OA,RCC13"
-Ignored: "R2QA,RCC33"
-Ignored: "R2RC,RCC427"
-Ignored: "R2RF,RCC87"
-Ignored: "R2WW,RCC313"
-Ignored: "R2ZA,RCC331"
-Ignored: "R3AAA,RCC277"
-Ignored: "R3AAA/6,RCC277"
-Ignored: "R3AP,RCC26"
-Ignored: "R3AP/6,RCC26"
-Ignored: "R3AQ,RCC323"
-Ignored: "R3BM,RCC14"
-Ignored: "R3BX,RCC368"
-Ignored: "R3DCB,RCC426"
-Ignored: "R3DCX,RCC32"
-Ignored: "R3EG,RCC414"
-Ignored: "R3FX,RCC315"
-Ignored: "R3GZ,RCC164"
-Ignored: "R3IBT,RCC91"
-Ignored: "R3KQ,RCC390"
-Ignored: "R3LA,RCC109"
-Ignored: "R3LC,RCC128"
-Ignored: "R3MAI,RCC401"
-Ignored: "R3NN,RCC152"
-Ignored: "R3OM,RCC175"
-Ignored: "R3OR,RCC363"
-Ignored: "R3PA,RCC222"
-Ignored: "R3QA,RCC636"
-Ignored: "R3QW,RCC54"
-Ignored: "R3RT,RCC253"
-Ignored: "R3TJL,RCC418"
-Ignored: "R3VA,RCC158"
-Ignored: "R3VI,RCC156"
-Ignored: "R3VL,RCC317"
-Ignored: "R3VO,RCC99"
-Ignored: "R3WW,RCC446"
-Ignored: "R3YC,RCC255"
-Ignored: "R3ZJ,RCC990"
-Ignored: "R3ZZ,RCC40"
-Ignored: "R4CI,RCC310"
-Ignored: "R4CR,RCC350"
-Ignored: "R4CU,RCC477"
-Ignored: "R4FCJ,RCC153"
-Ignored: "R4FD,RCC713"
-Ignored: "R4KO,RCC269"
-Ignored: "R4RE,RCC404"
-Ignored: "R4RL,RCC431"
-Ignored: "R4RN,RCC433"
-Ignored: "R4RT,RCC183"
-Ignored: "R5AJ,RCC150"
-Ignored: "R5AQ,RCC360"
-Ignored: "R5EM,RCC870"
-Ignored: "R5FQ,RCC737"
-Ignored: "R5FQ/3,RCC737"
-Ignored: "R5QA,RCC371"
-Ignored: "R5RC,RCC567"
-Ignored: "R5WW,RCC246"
-Ignored: "R6CS,RCC340"
-Ignored: "R6CW,RCC212"
-Ignored: "R6DBT,RCC405"
-Ignored: "R6DM,RCC511"
-Ignored: "R6NC,RCC488"
-Ignored: "R6OF,RCC208"
-Ignored: "R6UAJ,RCC415"
-Ignored: "R6YA,RCC51"
-Ignored: "R6ZJ,RCC324"
-Ignored: "R7AT,RCC247"
-Ignored: "R7CA,RCC96"
-Ignored: "R7CF,RCC450"
-Ignored: "R7FO,RCC559"
-Ignored: "R7GU,RCC256"
-Ignored: "R7KA,RCC48"
-Ignored: "R7KFW,RCC36"
-Ignored: "R7KW,RCC566"
-Ignored: "R7LP,RCC60"
-Ignored: "R7LV,RCC599"
-Ignored: "R7MC,RCC19"
-Ignored: "R7NK,RCC440"
-Ignored: "R7NT,RCC59"
-Ignored: "R7TJ,RCC62"
-Ignored: "R8AB,RCC360"
-Ignored: "R8CA,RCC173"
-Ignored: "R8DV,RCC226"
-Ignored: "R8KAY,RCC201"
-Ignored: "R8MC,RCC373"
-Ignored: "R8TO,RCC29"
-Ignored: "R8TT,RCC31"
-Ignored: "R8UT,RCC717"
-Ignored: "R8WB,RCC772"
-Ignored: "R8WM,RCC103"
-Ignored: "R8WO,RCC305"
-Ignored: "R8XF,RCC42"
-Ignored: "R8XF/1,RCC42"
-Ignored: "R9AB,RCC900"
-Ignored: "R9AE,RCC2"
-Ignored: "R9BB,RCC377"
-Ignored: "R9CX,RCC265"
-Ignored: "R9FT,RCC301"
-Ignored: "R9GM,RCC248"
-Ignored: "R9GM/1,RCC248"
-Ignored: "R9GM/6,RCC248"
-Ignored: "R9HW,RCC338"
-Ignored: "R9IR,RCC95"
-Ignored: "R9JR,RCC259"
-Ignored: "R9LM,RCC64"
-Ignored: "R9MA,RCC933"
-Ignored: "R9RA,RCC877"
-Ignored: "R9TV,RCC189"
-Ignored: "R9WR,RCC422"
-Ignored: "R9YBW,RCC408"
-Ignored: "R9YC,RCC282"
-Ignored: "R9YU,RCC80"
-Ignored: "RA0AM,RCC666"
-Ignored: "RA0BM,RCC374"
-Ignored: "RA0LQ,RCC270"
-Ignored: "RA0LQ/MM,RCC270"
-Ignored: "RA0R,RCC432"
-Ignored: "RA1AGN,RCC367"
-Ignored: "RA1ZZ,RCC673"
-Ignored: "RA1ZZ/3,RCC673"
-Ignored: "RA2FB,RCC280"
-Ignored: "RA3ATX,RCC82"
-Ignored: "RA3DEJ,RCC385"
-Ignored: "RA3DNC,RCC400"
-Ignored: "RA3FD,RCC216"
-Ignored: "RA3III,RCC381"
-Ignored: "RA3NC,RCC232"
-Ignored: "RA3OA,RCC300"
-Ignored: "RA3OU,RCC55"
-Ignored: "RA3QH,RCC348"
-Ignored: "RA3R,RCC68"
-Ignored: "RA3RA,RCC427"
-Ignored: "RA3RGQ,RCC420"
-Ignored: "RA3TT,RCC143"
-Ignored: "RA3TYL,RCC389"
-Ignored: "RA3VE,RCC326"
-Ignored: "RA3Y,RCC412"
-Ignored: "RA4AFZ,RCC34"
-Ignored: "RA4AR,RCC24"
-Ignored: "RA4DX,RCC213"
-Ignored: "RA4FUT,RCC376"
-Ignored: "RA4I,RCC188"
-Ignored: "RA4LW,RCC254"
-Ignored: "RA4WO,RCC410"
-Ignored: "RA4Y,RCC441"
-Ignored: "RA5AD,RCC329"
-Ignored: "RA5BA,RCC37"
-Ignored: "RA5G,RCC283"
-Ignored: "RA5W,RCC202"
-Ignored: "RA6ABC,RCC416"
-Ignored: "RA6HMS,RCC206"
-Ignored: "RA6LIS,RCC225"
-Ignored: "RA6M,RCC239"
-Ignored: "RA6MQ,RCC184"
-Ignored: "RA6SD,RCC428"
-Ignored: "RA7C,RCC505"
-Ignored: "RA7E,RCC430"
-Ignored: "RA7KW,RCC319"
-Ignored: "RA7KY,RCC324"
-Ignored: "RA7M,RCC194"
-Ignored: "RA9AAA,RCC186"
-Ignored: "RA9AC,RCC86"
-Ignored: "RA9AP,RCC169"
-Ignored: "RA9J,RCC873"
-Ignored: "RA9J/1,RCC873"
-Ignored: "RA9JM,RCC306"
-Ignored: "RA9MX,RCC242"
-Ignored: "RA9P,RCC320"
-Ignored: "RA9SF,RCC332"
-Ignored: "RA9USU,RCC406"
-Ignored: "RA9V,RCC342"
-Ignored: "RA9YON,RCC973"
-Ignored: "RC0L,RCC434"
-Ignored: "RC1C,RCC585"
-Ignored: "RC2N,RCC995"
-Ignored: "RC3KZ,RCC89"
-Ignored: "RC3M,RCC767"
-Ignored: "RC5A,RCC88"
-Ignored: "RC5D,RCC439"
-Ignored: "RC5Z,RCC732"
-Ignored: "RC6U,RCC170"
-Ignored: "RC8SC,RCC375"
-Ignored: "RC9A,RCC986"
-Ignored: "RC9F,RCC274"
-Ignored: "RC9O,RCC85"
-Ignored: "RC9T,RCC124"
-Ignored: "RC9YK,RCC992"
-Ignored: "RC9YY,RCC80"
-Ignored: "RD0A,RCC195"
-Ignored: "RD1A,RCC43"
-Ignored: "RD1A/MM,RCC43"
-Ignored: "RD1T,RCC65"
-Ignored: "RD3M,RCC770"
-Ignored: "RD4F,RCC507"
-Ignored: "RD6OK,RCC235"
-Ignored: "RD8X,RCC20"
-Ignored: "RG2A,RCC251"
-Ignored: "RG5G,RCC445"
-Ignored: "RG6G,RCC49"
-Ignored: "RG8U,RCC203"
-Ignored: "RG9A,RCC74"
-Ignored: "RJ2T,RCC111"
-Ignored: "RJ4F,RCC474"
-Ignored: "RJ4P,RCC404"
-Ignored: "RK1F,RCC260"
-Ignored: "RK1M,RCC771"
-Ignored: "RK2M,RCC722"
-Ignored: "RK3E,RCC353"
-Ignored: "RK3QS,RCC273"
-Ignored: "RK3T,RCC499"
-Ignored: "RK3TD,RCC233"
-Ignored: "RK3TD/6,RCC233"
-Ignored: "RK3TT,RCC383"
-Ignored: "RK4FB,RCC473"
-Ignored: "RK4FF,RCC115"
-Ignored: "RK4FM,RCC359"
-Ignored: "RK4W,RCC909"
-Ignored: "RK5A,RCC406"
-Ignored: "RK5K,RCC429"
-Ignored: "RK6AQP,RCC366"
-Ignored: "RK6O,RCC403"
-Ignored: "RK8A,RCC288"
-Ignored: "RK8A/4,RCC288"
-Ignored: "RK9AX,RCC179"
-Ignored: "RK9UE,RCC358"
-Ignored: "RK9ULD,RCC345"
-Ignored: "RL3F,RCC573"
-Ignored: "RL3Q,RCC187"
-Ignored: "RL3T,RCC393"
-Ignored: "RL4A,RCC712"
-Ignored: "RL4F,RCC669"
-Ignored: "RL5D,RCC198"
-Ignored: "RL9A,RCC774"
-Ignored: "RL9L,RCC263"
-Ignored: "RM0A,RCC606"
-Ignored: "RM1Z,RCC555"
-Ignored: "RM2D,RCC966"
-Ignored: "RM2M,RCC996"
-Ignored: "RM2P,RCC129"
-Ignored: "RM3D,RCC387"
-Ignored: "RM3F,RCC53"
-Ignored: "RM3G,RCC550"
-Ignored: "RM3Z,RCC178"
-Ignored: "RM4HZ,RCC977"
-Ignored: "RM4N,RCC151"
-Ignored: "RM5C,RCC160"
-Ignored: "RM5D,RCC154"
-Ignored: "RM5F,RCC791"
-Ignored: "RM6F,RCC192"
-Ignored: "RM7M,RCC199"
-Ignored: "RM8A,RCC325"
-Ignored: "RM8K,RCC245"
-Ignored: "RM8W,RCC92"
-Ignored: "RM8W/3,RCC92"
-Ignored: "RM9RZ,RCC444"
-Ignored: "RM9X,RCC314"
-Ignored: "RN0CT,RCC81"
-Ignored: "RN1F,RCC696"
-Ignored: "RN2B,RCC171"
-Ignored: "RN3BL,RCC382"
-Ignored: "RN3BL/3,RCC382"
-Ignored: "RN3N,RCC127"
-Ignored: "RN3OG,RCC41"
-Ignored: "RN3QO,RCC5"
-Ignored: "RN3RQ,RCC108"
-Ignored: "RN3RQ/3,RCC108"
-Ignored: "RN3TT,RCC808"
-Ignored: "RN3Z,RCC369"
-Ignored: "RN4AO,RCC90"
-Ignored: "RN4HAB,RCC174"
-Ignored: "RN6A,RCC351"
-Ignored: "RN6AT,RCC297"
-Ignored: "RN6L,RCC166"
-Ignored: "RO1A,RCC97"
-Ignored: "RO1M,RCC70"
-Ignored: "RO2E,RCC789"
-Ignored: "RO5K,RCC436"
-Ignored: "RO5O,RCC136"
-Ignored: "RO9L,RCC526"
-Ignored: "RO9L/4,RCC526"
-Ignored: "RO9L/8,RCC526"
-Ignored: "RO9O,RCC234"
-Ignored: "RQ6A,RCC354"
-Ignored: "RQ9O,RCC271"
-Ignored: "RT0R,RCC18"
-Ignored: "RT1B,RCC755"
-Ignored: "RT1M,RCC112"
-Ignored: "RT2F,RCC155"
-Ignored: "RT2O,RCC181"
-Ignored: "RT3F,RCC307"
-Ignored: "RT3G,RCC336"
-Ignored: "RT3N,RCC69"
-Ignored: "RT4F,RCC1"
-Ignored: "RT5T,RCC355"
-Ignored: "RT9I,RCC214"
-Ignored: "RU0A,RCC210"
-Ignored: "RU0LM,RCC398"
-Ignored: "RU3AN,RCC501"
-Ignored: "RU3WR,RCC231"
-Ignored: "RU4CK,RCC328"
-Ignored: "RU4SS,RCC71"
-Ignored: "RU4SU,RCC165"
-Ignored: "RU6AX,RCC356"
-Ignored: "RU6K,RCC23"
-Ignored: "RU7A,RCC456"
-Ignored: "RU7M,RCC799"
-Ignored: "RU8T,RCC339"
-Ignored: "RU9AC,RCC257"
-Ignored: "RV0AR,RCC120"
-Ignored: "RV1CB,RCC286"
-Ignored: "RV1CC,RCC126"
-Ignored: "RV1CC/0,RCC126"
-Ignored: "RV3FF,RCC10"
-Ignored: "RV3YR,RCC205"
-Ignored: "RV3ZN,RCC266"
-Ignored: "RV4F,RCC703"
-Ignored: "RV7M,RCC197"
-Ignored: "RV9UP,RCC140"
-Ignored: "RV9WB,RCC228"
-Ignored: "RV9WB/3,RCC228"
-Ignored: "RW0A,RCC490"
-Ignored: "RW0AJ,RCC147"
-Ignored: "RW0AR,RCC347"
-Ignored: "RW0LDF,RCC119"
-Ignored: "RW0SR,RCC423"
-Ignored: "RW0UM,RCC76"
-Ignored: "RW0UM/4,RCC76"
-Ignored: "RW1A,RCC800"
-Ignored: "RW1A/3,RCC800"
-Ignored: "RW1C,RCC425"
-Ignored: "RW1CW,RCC177"
-Ignored: "RW1F,RCC207"
-Ignored: "RW3DU,RCC105"
-Ignored: "RW3DY,RCC106"
-Ignored: "RW3QJ,RCC370"
-Ignored: "RW3RN,RCC392"
-Ignored: "RW3RN/1,RCC392"
-Ignored: "RW3VA,RCC421"
-Ignored: "RW3VZ,RCC46"
-Ignored: "RW3WX,RCC424"
-Ignored: "RW4C,RCC756"
-Ignored: "RW4NW,RCC167"
-Ignored: "RW4S,RCC71"
-Ignored: "RW4WR,RCC45"
-Ignored: "RW4YD,RCC417"
-Ignored: "RW7F,RCC773"
-Ignored: "RW7K,RCC36"
-Ignored: "RW7M,RCC142"
-Ignored: "RW9AV,RCC275"
-Ignored: "RW9C,RCC969"
-Ignored: "RW9LL,RCC818"
-Ignored: "RW9MZ,RCC236"
-Ignored: "RW9OW,RCC94"
-Ignored: "RW9QA,RCC72"
-Ignored: "RW9QC,RCC272"
-Ignored: "RW9TA,RCC114"
-Ignored: "RW9TP,RCC268"
-Ignored: "RW9WW,RCC211"
-Ignored: "RX3F,RCC787"
-Ignored: "RX3N,RCC57"
-Ignored: "RX3Q,RCC522"
-Ignored: "RX3Q/6,RCC522"
-Ignored: "RX3Q/8,RCC522"
-Ignored: "RX3RZ,RCC63"
-Ignored: "RX3VF,RCC322"
-Ignored: "RX4HJ,RCC543"
-Ignored: "RX4W/3,RCC57"
-Ignored: "RX6CM,RCC365"
-Ignored: "RX6LOL,RCC118"
-Ignored: "RX6N,RCC361"
-Ignored: "RX6N/6,RCC361"
-Ignored: "RX7K,RCC39"
-Ignored: "RX9CM,RCC138"
-Ignored: "RX9SN,RCC180"
-Ignored: "RX9SN/6,RCC180"
-Ignored: "RX9UL,RCC73"
-Ignored: "RY0LAB,RCC434"
-Ignored: "RY2MAF,RCC767"
-Ignored: "RY2MAI,RCC770"
-Ignored: "RY3DAG,RCC745"
-Ignored: "RY3EAG,RCC407"
-Ignored: "RY3TAC,RCC355"
-Ignored: "RY7C,RCC797"
-Ignored: "RY7Y,RCC229"
-Ignored: "RY8T,RCC139"
-Ignored: "RY9LAE,RCC526"
-Ignored: "RY9UAG,RCC345"
-Ignored: "RZ0AI,RCC858"
-Ignored: "RZ0AT,RCC240"
-Ignored: "RZ2D,RCC443"
-Ignored: "RZ3EC,RCC30"
-Ignored: "RZ3GE,RCC378"
-Ignored: "RZ3K,RCC4"
-Ignored: "RZ3R,RCC295"
-Ignored: "RZ3Z,RCC707"
-Ignored: "RZ4AA,RCC125"
-Ignored: "RZ4AG,RCC137"
-Ignored: "RZ5D,RCC745"
-Ignored: "RZ5D/6,RCC745"
-Ignored: "RZ6FA,RCC117"
-Ignored: "RZ9A,RCC437"
-Ignored: "RZ9OW,RCC148"
-Ignored: "SJ6R,RCC966"
-Ignored: "SM6LRR,RCC966"
-Ignored: "UA0C,RCC159"
-Ignored: "UA0CA,RCC141"
-Ignored: "UA0SJ,RCC61"
-Ignored: "UA0UV,RCC285"
-Ignored: "UA1ANA,RCC919"
-Ignored: "UA1AOS,RCC357"
-Ignored: "UA1F,RCC238"
-Ignored: "UA2FZ,RCC135"
-Ignored: "UA3A,RCC391"
-Ignored: "UA3AGW,RCC227"
-Ignored: "UA3AKO,RCC397"
-Ignored: "UA3AP,RCC402"
-Ignored: "UA3BZ,RCC443"
-Ignored: "UA3DPX,RCC53"
-Ignored: "UA3EDQ,RCC362"
-Ignored: "UA3OQ,RCC249"
-Ignored: "UA3PI,RCC341"
-Ignored: "UA3RBR,RCC379"
-Ignored: "UA3RC,RCC200"
-Ignored: "UA3RF,RCC87"
-Ignored: "UA3RU,RCC110"
-Ignored: "UA3RW,RCC409"
-Ignored: "UA3WHS,RCC182"
-Ignored: "UA4CC,RCC146"
-Ignored: "UA4FCO,RCC449"
-Ignored: "UA4FDK,RCC298"
-Ignored: "UA4HBW,RCC279"
-Ignored: "UA4HGL,RCC290"
-Ignored: "UA4HTT,RCC12"
-Ignored: "UA4K,RCC977"
-Ignored: "UA4LL,RCC701"
-Ignored: "UA4NAL,RCC396"
-Ignored: "UA4NDX,RCC998"
-Ignored: "UA4Q,RCC435"
-Ignored: "UA4SKW,RCC335"
-Ignored: "UA5B,RCC157"
-Ignored: "UA5B/4,RCC157"
-Ignored: "UA5C,RCC79"
-Ignored: "UA5D,RCC47"
-Ignored: "UA5R,RCC372"
-Ignored: "UA6AA,RCC67"
-Ignored: "UA6ADC,RCC185"
-Ignored: "UA6DX,RCC123"
-Ignored: "UA6HFI,RCC281"
-Ignored: "UA6LCN,RCC950"
-Ignored: "UA6YW,RCC104"
-Ignored: "UA7C,RCC395"
-Ignored: "UA7G,RCC500"
-Ignored: "UA7KA,RCC309"
-Ignored: "UA8L,RCC64"
-Ignored: "UA9ACJ,RCC7"
-Ignored: "UA9APA,RCC134"
-Ignored: "UA9AT,RCC352"
-Ignored: "UA9AX,RCC83"
-Ignored: "UA9FGJ,RCC176"
-Ignored: "UA9LAO,RCC311"
-Ignored: "UA9MA,RCC761"
-Ignored: "UA9PM,RCC84"
-Ignored: "UA9QCP,RCC220"
-Ignored: "UA9QCP/3,RCC220"
-Ignored: "UA9QCQ,RCC250"
-Ignored: "UA9QFF,RCC172"
-Ignored: "UA9R,RCC168"
-Ignored: "UA9UX,RCC333"
-Ignored: "UB1Q,RCC38"
-Ignored: "UB7A,RCC233"
-Ignored: "UB7K,RCC28"
-Ignored: "UC0A,RCC600"
-Ignored: "UC0B,RCC490"
-Ignored: "UC4L,RCC731"
-Ignored: "UC7M,RCC750"
-Ignored: "UC9A,RCC779"
-Ignored: "UD1A,RCC221"
-Ignored: "UD2F,RCC318"
-Ignored: "UD3D,RCC191"
-Ignored: "UD8C,RCC248"
-Ignored: "UD8V,RCC380"
-Ignored: "UF1M,RCC294"
-Ignored: "UF2F,RCC149"
-Ignored: "UF5A,RCC244"
-Ignored: "UF6V/UA5D,RCC47"
-Ignored: "UG3G,RCC267"
-Ignored: "UG4I,RCC258"
-Ignored: "UG4P,RCC533"
-Ignored: "UI4F,RCC515"
-Ignored: "UI6D,RCC411"
-Ignored: "UI7D,RCC411"
-Ignored: "UN1O,RCC224"
-Ignored: "UN7FW,RCC377"
-Ignored: "UN7LAP,RCC219"
-Ignored: "UR3MP,RCC324"
-Ignored: "UR4EI,RCC162"
-Ignored: "UR4MS,RCC346"
-Ignored: "UR5EDX,RCC77"
-Ignored: "UR5FEO,RCC144"
-Ignored: "UR6QS,RCC215"
-Ignored: "UR7MZ,RCC667"
-Ignored: "US5VX,RCC926"
-Ignored: "US7IA,RCC276"
-Ignored: "UT2II,RCC595"
-Ignored: "UT4FJ,RCC145"
-Ignored: "UT4UQ,RCC264"
-Ignored: "UW2Q,RCC215"
-Ignored: "UW7M,RCC324"
-Ignored: "UX0LL,RCC527"
-Ignored: "UZ2I,RCC595"
-Ignored: "UZ3U,RCC527"
-Ignored: "VE2GT,RCC243"
-Ignored: "VE2PIJ,RCC243"
-Ignored: "W3UA,RCC223"
-Ignored: "XP2I,RCC677"
-Ignored: "YB0LRR,RCC966"
-Ignored: "YB0LRR/1,RCC966"
-Ignored: "YC1JXU,RCC344"
-Ignored: "YL1CAT,RCC327"
-Ignored: "YL2TD,RCC327"
-Ignored: "YL3FW,RCC237"
-Ignored: "YL3ID,RCC113"
-Ignored: "YU1LG,RCC486"
-Ignored: "ZS1OIN,RCC193"
-Ignored: "ZS9Z,RCC193"
 Created RCC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RCC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/RCC_db.txt
 -------- rcpw
 -------- rcwc
 -------- rdac
@@ -1860,7 +1243,7 @@ RDAC_2026-001.txt is already downloaded
 Parsing RDAC_2026-001.txt
 Ignored: "RI1ANC,020"
 Created RDAC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDAC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDAC_db.txt
 -------- rdxc
 Most recent file: RussianDX-2026.txt
 RussianDX-2026.txt is already downloaded
@@ -2286,40 +1669,40 @@ UE90K: file: KO
 UI3A/7: file: DA rule: MA
 UI5R/3: file: RA rule: TB
 Created RDXC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDXC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDXC_db.txt
 -------- ref
 Most recent file: REFCW.txt
 REFCW.txt is already downloaded
 Parsing REFCW.txt
 Created REF_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/REF_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/REF_db.txt
 -------- rybnickie
 -------- sacw
 Most recent file: SACW-008.txt
 SACW-008.txt is already downloaded
 Parsing SACW-008.txt
 Created SACW_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SACW_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/SACW_db.txt
 -------- scqp
 Most recent file: QSOP_SC-2026-002.txt
 QSOP_SC-2026-002.txt is already downloaded
 Parsing QSOP_SC-2026-002.txt
 Created SCQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SCQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/SCQP_db.txt
 -------- scwc
 -------- sdqp
 Most recent file: QSOP_SD-2026-001.txt
 QSOP_SD-2026-001.txt is already downloaded
 Parsing QSOP_SD-2026-001.txt
 Created SDQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SDQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/SDQP_db.txt
 -------- spdx
 Most recent file: SPDXcwssb_26_KP.txt
 SPDXcwssb_26_KP.txt is already downloaded
 Parsing SPDXcwssb_26_KP.txt
 "SP8YB,K" reoccurs as "SP8YB,K"
 Created SPDX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SPDX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/SPDX_db.txt
 -------- spdxrtty
 -------- spotc
 -------- ssa-mt
@@ -2329,7 +1712,7 @@ STEWPERRY-008.txt is already downloaded
 Parsing STEWPERRY-008.txt
 File contained 15741 calls
 Created StewPerry_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/StewPerry_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/StewPerry_db.txt
 -------- tenten
 Most recent file: 1010RTTY-021.txt
 1010RTTY-021.txt is already downloaded
@@ -2344,20 +1727,20 @@ Name is "CLUB" for W5LPX
 Name is "CLUB" for W7ORE
 Longest name is "TUBARONICOS" with 11 characters
 Created TENTEN_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/TENTEN_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/TENTEN_db.txt
 -------- thirteencolonies
 Most recent file: 13COLONIES-001.txt
 13COLONIES-001.txt is already downloaded
 Parsing 13COLONIES-001.txt
 "!!Order!!,Call,Name,Exch1,UserText," --> call=1 state=3
 Created 13COLONIES_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/13COLONIES_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/13COLONIES_db.txt
 -------- tnqp
 Most recent file: QSOP_TN-2026-007.txt
 QSOP_TN-2026-007.txt is already downloaded
 Parsing QSOP_TN-2026-007.txt
 Created TNQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/TNQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/TNQP_db.txt
 -------- tpqso
 -------- trc
 Most recent file: TRCDX_new.txt
@@ -2366,13 +1749,13 @@ Parsing TRCDX_new.txt
 Ignored: "EX8004,TRC,"
 Ignored: "IUHMB,TRC,"
 Created TRC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/TRC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/TRC_db.txt
 -------- txqp
 Most recent file: QSOP_TX-2026-005.txt
 QSOP_TX-2026-005.txt is already downloaded
 Parsing QSOP_TX-2026-005.txt
 Created TXQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/TXQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/TXQP_db.txt
 -------- ua1dz
 Most recent file: DZCUP_new.txt
 DZCUP_new.txt is already downloaded
@@ -2392,13 +1775,13 @@ Ignored1: "U1BA,,KO85,"
 Ignored1: "U1BD,,KO59,"
 Ignored1: "UF1M,,KO85,"
 Created UA1DZ_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/UA1DZ_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/UA1DZ_db.txt
 -------- ua2qp
 Most recent file: UA2QP_2026.txt
 UA2QP_2026.txt is already downloaded
 Parsing UA2QP_2026.txt
 Created UA2_QP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/UA2_QP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/UA2_QP_db.txt
 -------- uba-dx-on-spring
 -------- uft
 -------- ukeicc
@@ -2406,20 +1789,20 @@ Most recent file: UKEI80_VHF-new.txt
 UKEI80_VHF-new.txt is already downloaded
 Parsing UKEI80_VHF-new.txt
 Created UKEI80_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/UKEI80_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/UKEI80_db.txt
 -------- ukeidx
 Most recent file: UKEIDXCW.txt
 UKEIDXCW.txt is already downloaded
 Parsing UKEIDXCW.txt
 Created UKEIDX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/UKEIDX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/UKEIDX_db.txt
 -------- undxc
 Most recent file: UNDXC_2026.txt
 UNDXC_2026.txt is already downloaded
 Parsing UNDXC_2026.txt
 "!!Order!!, Call, Sect," --> call=1 exch=2
 Created UNDXC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/UNDXC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/UNDXC_db.txt
 -------- uqrqc
 -------- urcdxrtty
 Most recent file: URC-DX-RY_2027.txt
@@ -2432,14 +1815,14 @@ Bad exchange: "IK1UGX,ITA,"
 Bad exchange: "KI30,VGN,"
 Bad exchange: "VYIJA,YKN,"
 Created URCDXRTTY_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/URCDXRTTY_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/URCDXRTTY_db.txt
 -------- urdxc
 -------- vaqp
 Most recent file: QSOP_VA-2026-004.txt
 QSOP_VA-2026-004.txt is already downloaded
 Parsing QSOP_VA-2026-004.txt
 Created VAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/VAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/VAQP_db.txt
 -------- vhfreg1
 -------- vidovdan
 -------- vojvodina
@@ -2452,7 +1835,7 @@ Most recent file: QSOP_WA-2025-002.txt
 QSOP_WA-2025-002.txt is already downloaded
 Parsing QSOP_WA-2025-002.txt
 Created WAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WAQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/WAQP_db.txt
 -------- wfd
 -------- wiqp
 Most recent file: QSOP_WI-2026-006.txt
@@ -2461,21 +1844,21 @@ Parsing QSOP_WI-2026-006.txt
 Irregular exchange NB for VE call VE1AFY
 Irregular exchange NB for VE call VE1BQC
 Created WIQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WIQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/WIQP_db.txt
 -------- wrt
 Most recent file: WRT-074.txt
 WRT-074.txt is already downloaded
 Parsing WRT-074.txt
 Longest name is "CHRISTOPHER" with 11 characters
 Created WRT_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WRT_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/WRT_db.txt
 -------- wtzc
 -------- wvqp
 Most recent file: QSOP_WV-2026-002.txt
 QSOP_WV-2026-002.txt is already downloaded
 Parsing QSOP_WV-2026-002.txt
 Created WVQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WVQP_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/WVQP_db.txt
 -------- wwff
 -------- wwpmc
 Most recent file: WWPMC_2024.txt
@@ -2483,24 +1866,24 @@ WWPMC_2024.txt is already downloaded
 Parsing WWPMC_2024.txt
 Ignored: "R4ACY,OX,"
 Created WWPMC_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WWPMC_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/WWPMC_db.txt
 -------- xertty
 Most recent file: XERTTY-001.txt
 XERTTY-001.txt is already downloaded
 Parsing XERTTY-001.txt
 Created XE_RTTY_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/XE_RTTY_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/XE_RTTY_db.txt
 -------- yodx
 Most recent file: YOHFDX_2026_KP.txt
 YOHFDX_2026_KP.txt is already downloaded
 Parsing YOHFDX_2026_KP.txt
 Created YODX_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/YODX_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/YODX_db.txt
 -------- yota
 Most recent file: YOTA_2026-001.txt
 YOTA_2026-001.txt is already downloaded
 Parsing YOTA_2026-001.txt
 Created YOTA_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/YOTA_db.txt
+Updated /mnt/c/Users/bjorn/source/repos/k1xm/DXLog.net/DXLog.net/Database/YOTA_db.txt
 -------- yu
 -------- yudxc
