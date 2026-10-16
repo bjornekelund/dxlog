@@ -6,12 +6,12 @@ BEGIN {
   if ($1 ~ /!!Order!!/)
   {
     call = FindColumn("Call");
-    col = FindColumn("Exch1");
-    # printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    exch = FindColumn("Exch1");
+    # printf("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if ( \
     $call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?|EF6$/ && \
-    $col ~ /^(A|AB|AL|AV|B|BA|BI|BU|C|CA|CC|CE|CO|CR|CS|CU|GC|GI|GR|GU|H|HQ|HU|IB|J|L|LE|LO|LU|M|MA|ML|MU|NA|O|OU|P|PO|S|SA|SE|SG|SO|SS|T|TE|TF|TO|V|VA|VI|Z|ZA)$/)
+    $exch ~ /^(A|AB|AL|AV|B|BA|BI|BU|C|CA|CC|CE|CO|CR|CS|CU|GC|GI|GR|GU|H|HQ|HU|IB|J|L|LE|LO|LU|M|MA|ML|MU|NA|O|OU|P|PO|S|SA|SE|SG|SO|SS|T|TE|TF|TO|V|VA|VI|Z|ZA)$/)
   {
     if (lines[$call] != "")
     {
@@ -19,7 +19,7 @@ BEGIN {
     }
     else
     {
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $exch);
       lines[$call] = $0;
     }
   }

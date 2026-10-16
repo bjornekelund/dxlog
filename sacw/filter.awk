@@ -5,14 +5,13 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-  # printf\("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+    call = FindColumn("Call");
+    exch = FindColumn("Exch1");
+  # printf\("%s --> column is %d\n", $0, exch) > "/dev/stderr";
   }
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^([1-9][0-9]?|M|QRP|YL)$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^([1-9][0-9]?|M|QRP|YL)$/)
   {
-    printf("%s=%s\n", $1, $col);
+    printf("%s=%s\n", $1, $exch);
   }
   else if ($0 !~ /^(!|#|$)/)
   {

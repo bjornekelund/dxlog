@@ -6,21 +6,20 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($3 ~ /Exch1/) col = 2;
-    if ($4 ~ /Exch1/) col = 3;
-    if ($5 ~ /Exch1/) col = 4;
-  # printf\("%s --> col=%s\n", $0, col) > "/dev/stderr";
+    call = FindColumn("Call");
+    exch = FindColumn("Exch1");
+  # printf\("%s --> call=%d exch=%s\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[1-9][0-9]?$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^[1-9][0-9]?$/)
   {
-    if (lines[$1] != "")
+    if (lines[$call] != "")
     {
-      printf("Repeated: \"%s\" and \"%s\"\n", lines[$1], $0) > "/dev/stderr";
+      printf("Repeated: \"%s\" and \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
-      if ($col ~ /^[1-9]$/) $col = "0" $col;
-      printf("%s=%d\n", $1, $col);
+      if ($exch ~ /^[1-9]$/) $exch = "0" $exch;
+      printf("%s=%d\n", $call, $exch);
     }
   }
   else if ($0 !~ /^(!|#|$)/)

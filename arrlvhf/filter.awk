@@ -6,10 +6,10 @@ BEGIN {
   if ($1 ~ /!!Order!!/)
   {
     call = FindColumn("Call");
-    col = FindColumn("Exch1|Loc1");
-    # printf("%s --> call=%d col=%d\n", $0, call, col) > "/dev/stderr";
+    loc = FindColumn("Exch1|Loc1");
+    # printf("%s --> call=%d loc=%d\n", $0, call, loc) > "/dev/stderr";
   }
-  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $col ~ /^[A-R]{2}[0-9]{2}$/)
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $loc ~ /^[A-R]{2}[0-9]{2}$/)
   {
     if (lines[$call] != "")
     {
@@ -17,7 +17,7 @@ BEGIN {
     }
     else
     {
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $loc);
       lines[$call] = $0;
     }
   }

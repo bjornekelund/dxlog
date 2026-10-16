@@ -5,16 +5,9 @@ BEGIN {
 {
   if ($1 ~ /!!Order!!/)
   {
-    if ($2 ~ /Call/) call = 1;
-    if ($3 ~ /Call/) call = 2;
-    if ($4 ~ /Call/) call = 3;
-    if ($5 ~ /Call/) call = 4;
-    if ($3 ~ /Sect/) sct = 2;
-    if ($4 ~ /Sect/) sct = 3;
-    if ($5 ~ /Sect/) sct = 4;
-    if ($3 ~ /Exch1/) cls = 2;
-    if ($4 ~ /Exch1/) cls = 3;
-    if ($5 ~ /Exch1/) cls = 4;
+    call = FindColumn("Call");
+    cls = FindColumn("Exch1");
+    sct = FindColumn("Sect");
     # printf("%s --> call=%d sect=%d class=%d\n", $0, call, sct, cls) > "/dev/stderr";
   }
   else if ( \

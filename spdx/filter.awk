@@ -1,18 +1,17 @@
 BEGIN {
   printf("#00 SP DX Contest prefill database\n");
   FS = ",";
-  col = 2;
+  exch = 2;
   call = 1;
 }
 {
   if ($call ~ /!!Order!!/)
   {
-    if ($3 ~ /Sect/) col = 2;
-    if ($4 ~ /Sect/) col = 3;
-    if ($5 ~ /Sect/) col = 4;
-  # printf\("%s --> Column is %d\n", $0, col) > "/dev/stderr";
+    call = FindColumn("Call");
+    exch = FindColumn("Sect|Exch1");
+  # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ($call ~ /^(SP[0-9]?\/[A-Z0-9]+|(3Z|HF|S[NOPQ])[0-9]{1,4}[A-Z]{1,5}(\/[1-9PM])?)$/ && $col ~/^[BCDFGJKLMOPRSUWZ]$/)
+  else if ($call ~ /^(SP[0-9]?\/[A-Z0-9]+|(3Z|HF|S[NOPQ])[0-9]{1,4}[A-Z]{1,5}(\/[1-9PM])?)$/ && $exch ~/^[BCDFGJKLMOPRSUWZ]$/)
   {
     if (lines[$call] != "")
     {
@@ -21,7 +20,7 @@ BEGIN {
     else
     {
       lines[$call] = $0;
-      printf("%s=%s\n", $call, $col);
+      printf("%s=%s\n", $call, $exch);
     }
   }
   else if ($0 !~ /^(!|#|$)/)
