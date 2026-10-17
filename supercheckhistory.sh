@@ -62,7 +62,7 @@ else
   gawk -f $HELPERS -f $AWKFILE $SCHFILE > $TMPFILE2
   
   echo "#01 Based on data from https://supercheckhistory.com/" >> $TMPFILE2
-  echo "#02 Last updated `date +%F`" >> $TMPFILE2
+  echo "#09 Last updated `date +%F`" >> $TMPFILE2
 
   sort $TMPFILE2 | sed 's/^#0. /# /g' > $DBFILE
 

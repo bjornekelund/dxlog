@@ -7,7 +7,7 @@ BEGIN {
   {
     call = FindColumn("Call");
     category = FindColumn("Misc");
-    state = FindColumn("State");
+    state = FindColumn("State|Exch1");
     # printf("%s --> call=%d category=%d, state=%d\n", $0, call, category, state) > "/dev/stderr";
   }
   else if ( \

@@ -6,7 +6,7 @@ BEGIN {
   if ($1 ~ /!!Order!!/)
   {
     call = FindColumn("Call");
-    exch = FindColumn("Sect");
+    exch = FindColumn("Sect|Exch1");
   # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if ($call ~ /[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+$/ && $exch ~ /^[A-Z]{2}$/)
