@@ -8,11 +8,11 @@ BEGIN {
   {
     call = FindColumn("Call");
     name = FindColumn("Name");
-    mem = FindColumn("Misc");
     loc = FindColumn("Exch1");
-  # printf\("%s --> call=%d name=%d loc=%d mem=%d\n", $0, call, name, loc, mem) > "/dev/stderr";
+    memnumber = FindColumn("Misc");
+  # printf\("%s --> call=%d name=%d loc=%d memnumber=%d\n", $0, call, name, loc, memnumber) > "/dev/stderr";
   }
-  else if (IsValidCall($call) && $name ~ /^([a-zA-Z]*|)$/ && $loc ~ /^[A-Z]+|$/ && $mem ~ /^([0-9]*|)$/)
+  else if (IsValidCall($call) && $name ~ /^([a-zA-Z]*|)$/ && $loc ~ /^[A-Z]+|$/ && $memnumber ~ /^([0-9]*|)$/)
   {
     if (calls[$call] != "")
     {
@@ -31,7 +31,7 @@ BEGIN {
       printf("Name is \"%s\" for %s\n", $name, $call) > "/dev/stderr";
     }
  
-    num[$call] = $mem ~ /^[0-9]+$/ ? $mem : "0";
+    num[$call] = $memnumber ~ /^[0-9]+$/ ? $memnumber : "0";
 
     if ( \
       (IsUScall($call) && $loc ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|KH[02]|GU)$/) || \
