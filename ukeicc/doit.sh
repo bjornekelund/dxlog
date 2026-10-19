@@ -1,18 +1,17 @@
 #!/bin/bash
-if ../1helpers/download.sh UKEI80_VHF || [ -n "$1" ]; then
-    INFILE1=`ls UKEI80_V* | tail -1 2> /dev/null`
-    INFILE2="20240823 UKEI80_db.txt"
-    OUTFILE=UKEI80_db.txt
+INFILE1=`ls UKEI80_V* | tail -1 2> /dev/null`
+INFILE2="20240823 UKEI80_db.txt"
+OUTFILE=UKEI80_db.txt
 
-    echo Parsing $INFILE1 $INFILE2
-    dos2unix -q $INFILE1 $INFILE2
+echo Parsing $INFILE1 $INFILE2
+dos2unix -q $INFILE1 $INFILE2
 
-    # Parse newer file first to have precedence
-    cat "$INFILE2" $INFILE1 | gawk -f filter.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+# Parse newer file first to have precedence
+cat "$INFILE2" $INFILE1 | gawk -f filter.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-    unix2dos -q $OUTFILE
-    echo Created $OUTFILE
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
 
-    ../copytosourcetree.sh $OUTFILE
-fi
+../copytosourcetree.sh $OUTFILE
+
 exit

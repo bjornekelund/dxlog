@@ -24,7 +24,8 @@ BEGIN {
     }
     else if (IsUScall($call) && !IsVEcall($call))
     {
-      if ($state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/)
+      if ($state ~ /^(AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/ ||\
+      $state ~ /^(KP[24]|PR|VI)$/)
       {
         printf("%s=%s;%s;%s\n", $call, $name, $check, $state);
         line[$call] = $0;
@@ -36,7 +37,7 @@ BEGIN {
     }
     else if (IsVEcall($call))
     {
-      if ($state ~ /^(AB|BC|LB|MB|NB|NF|NS|NT|NU|ON|PE|QC|SK|YT)$/)
+      if ($state ~ /^(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/)
       {
         printf("%s=%s;%s;%s\n", $call, $name, $check, $state);
         line[$call] = $0;

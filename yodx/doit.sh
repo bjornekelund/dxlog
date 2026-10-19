@@ -1,16 +1,15 @@
 #!/bin/bash
-if ../1helpers/download.sh YOHFDX || [ -n "$1" ]; then
-    INFILE=`ls YOHF* | tail -1 2> /dev/null`
-    OUTFILE=YODX_db.txt
+INFILE=`ls YOHF* | tail -1 2> /dev/null`
+OUTFILE=YODX_db.txt
 
-    echo Parsing $INFILE
-    dos2unix -q $INFILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-    gawk -f yodx.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
+gawk -f yodx.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
-    unix2dos -q $OUTFILE $INFILE
-    echo Created $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
-    ../copytosourcetree.sh $OUTFILE
-fi
+../copytosourcetree.sh $OUTFILE
+
 exit

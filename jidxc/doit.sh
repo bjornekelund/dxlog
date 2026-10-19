@@ -1,16 +1,15 @@
 #!/bin/bash
-if ../1helpers/download.sh JIDXCW || [ -n "$1" ]; then
-    INFILE=JIDXCW*.txt
-    OUTFILE=JIDXC_db.txt
+INFILE=JIDXCW*.txt
+OUTFILE=JIDXC_db.txt
 
-    echo Parsing $INFILE ...
-    dos2unix -q $INFILE
+echo Parsing $INFILE ...
+dos2unix -q $INFILE
 
-    gawk -f jidxc.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+gawk -f jidxc.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-    unix2dos -q $OUTFILE
-    echo Created $OUTFILE
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
 
-    ../copytosourcetree.sh $OUTFILE
-fi
+../copytosourcetree.sh $OUTFILE
+
 exit

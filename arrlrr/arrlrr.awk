@@ -14,7 +14,7 @@ BEGIN {
     line[$1] = $0;
     call[$1] = $1;
     if ($2 != "") name[$1] = toupper($2);
-    if ($3 != "") check[$1] = $3;
+    if ($3 ~ /^[0-9]{2}$/) check[$1] = $3;
     if ($4 != "") mult[$1] = $4;
   }
   else
@@ -24,9 +24,9 @@ BEGIN {
 }
 END {
   for (cs in call)
-    if (check[cs] != "" && name[cs] != "" && mult[cs] != "")
+    if (name[cs] != "" && mult[cs] != "")
     {
       nm = name[cs] != "CLUB" ? name[cs] : "";   
-      printf("%s=%s;%02d;%s\n", cs, nm, check[cs], mult[cs]);
+      printf("%s=%s;%s;%s\n", cs, nm, check[cs], mult[cs]);
     }
 }

@@ -1,8 +1,6 @@
-cp cty.dat .ctytemp
+dos2unix -q cty.dat
 
-dos2unix -q .ctytemp
-
-sed 's/ //g' < .ctytemp > .cty2temp
+sed 's/ //g' < cty.dat > .ctytemp
 gawk '
 BEGIN {
   FS = ":";
@@ -15,8 +13,10 @@ BEGIN {
 }
 END {
   printf("\n");
-}' < .cty2temp > c-result.txt
+}' < .ctytemp > c-result.txt
 
 unix2dos -q c-result.txt
+
+rm -rf .ctytemp 
 
 exit

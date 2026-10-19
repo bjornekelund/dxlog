@@ -1,16 +1,15 @@
 #!/bin/bash
-if ../1helpers/download.sh QSOP_VA || [ -n "$1" ]; then
-    INFILE=`ls QSOP_* | tail -1 2> /dev/null`
-    OUTFILE=VAQP_db.txt
-    HELPERS=../1helpers/helpers.awk
-    echo Parsing $INFILE
-    dos2unix -q $INFILE
+INFILE=`ls QSOP_* | tail -1 2> /dev/null`
+OUTFILE=VAQP_db.txt
+HELPERS=../1helpers/helpers.awk
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-    gawk -f $HELPERS -f vaqp.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+gawk -f $HELPERS -f vaqp.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-    unix2dos -q $OUTFILE $INFILE
-    echo Created $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
-    ../copytosourcetree.sh $OUTFILE
-fi
+../copytosourcetree.sh $OUTFILE
+
 exit

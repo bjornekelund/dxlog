@@ -1,16 +1,15 @@
 #!/bin/bash
-if ../1helpers/download.sh QSOP_IN7QPNE_DE || [ -n "$1" ]; then
-    INFILE=`ls QSOP* | tail -1 2> /dev/null`
-    OUTFILE=IN7QPNEDE_db.txt
+INFILE=`ls QSOP* | tail -1 2> /dev/null`
+OUTFILE=IN7QPNEDE_db.txt
 
-    echo Parsing $INFILE
-    dos2unix -q $INFILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-    gawk -f in7qpnede.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+gawk -f in7qpnede.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-    unix2dos -q $OUTFILE $INFILE
-    echo Created $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
-    ../copytosourcetree.sh $OUTFILE
-fi
+../copytosourcetree.sh $OUTFILE
+
 exit

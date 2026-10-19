@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 ARRL CW Sweepstakes prefill database\n");
+  printf("#00 ARRL SSB Sweepstakes prefill database\n");
   FS = ",";
 }
 {

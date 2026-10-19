@@ -1,14 +1,19 @@
 #!/bin/bash
-INFILE=`ls JARLWWRTTY* | tail -1 2> /dev/null`
+INFILE=`ls JARTSWW* | tail -1 2> /dev/null`
 OUTFILE=JARLWWR_db.txt
 
 echo Parsing $INFILE
 dos2unix -q $INFILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-gawk -f filter.awk -f ../1helpers/helpers.awk $INFILE | sort | sed 's/^#0[0-9]/#/g' > $OUTFILE
+gawk -f jarlwwr.awk $INFILE | sort | sed 's/^#0[1-9]/#/g' > $OUTFILE
 
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
 ../copytosourcetree.sh $OUTFILE
+
 exit

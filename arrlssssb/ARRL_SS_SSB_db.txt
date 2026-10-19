@@ -1,6 +1,6 @@
-# ARRL CW Sweepstakes prefill database
+# ARRL SSB Sweepstakes prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-10-19
 4U1WB=;89;MDC
 AA0A=;60;MO
 AA0AA=;86;NE

@@ -1,16 +1,15 @@
 #!/bin/bash
-if ../1helpers/download.sh AC-SPRING || [ -n "$1" ]; then
-    INFILE=`ls AC* 2> /dev/null`
-    OUTFILE=POLAR-radioman.txt
+INFILE=`ls AC* 2> /dev/null`
+OUTFILE=POLAR-radioman.txt
 
-    echo Parsing $INFILE
-    dos2unix -q $INFILE
+echo Parsing $INFILE
+dos2unix -q $INFILE
 
-    gawk -f polar-radioman.awk $INFILE  | sort | sed 's/^#0. /# /g' > $OUTFILE
+gawk -f polar-radioman.awk $INFILE  | sort | sed 's/^#0. /# /g' > $OUTFILE
 
-    unix2dos -q $OUTFILE $INFILE
-    echo Created $OUTFILE
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
 
-    ../copytosourcetree.sh $OUTFILE
-fi
+../copytosourcetree.sh $OUTFILE
+
 exit
