@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls ../JARTSWW* | tail -1 2> /dev/null`
+FILE=`ls ../JARLWWRTTY* | tail -1 2> /dev/null`
 OUTFILE=../JARLWWRTTY_NEXTYEAR.txt
 
 echo Parsing $FILE
