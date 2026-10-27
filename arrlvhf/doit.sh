@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRLVHF[^_]* | tail -1 2> /dev/null`
+INFILE=$(ls ARRLVHF[^_]* | tail -1 2> /dev/null)
 OUTFILE=ARRL-VHF_db.txt
 
 echo Parsing $INFILE

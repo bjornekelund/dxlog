@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls UKEIDXC* | tail -1 2> /dev/null`
+INFILE=$(ls UKEIDXC* | tail -1 2> /dev/null)
 OUTFILE=UKEIDX_db.txt
 
 echo Parsing $INFILE

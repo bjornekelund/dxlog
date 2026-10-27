@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls YOHF* | tail -1 2> /dev/null`
+INFILE=$(ls YOHF* | tail -1 2> /dev/null)
 OUTFILE=YODX_db.txt
 
 echo Parsing $INFILE

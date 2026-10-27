@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls AC* 2> /dev/null`
+INFILE=$(ls AC* 2> /dev/null)
 OUTFILE=POLAR-radioman.txt
 
 echo Parsing $INFILE

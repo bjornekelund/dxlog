@@ -1,6 +1,6 @@
 #!/bin/bash
-INFILE1=`ls ../../cwt/CWOPS_* | tail -1 2> /dev/null`
-INFILE2=`ls ../Names_VE2FK* | tail -1 2> /dev/null`
+INFILE1=$(ls ../../cwt/CWOPS_* | tail -1 2> /dev/null)
+INFILE2=$(ls ../Names_VE2FK* | tail -1 2> /dev/null)
 OUTFILE=CWOPEN.txt
 
 echo Parsing $INFILE1 $INFILE2

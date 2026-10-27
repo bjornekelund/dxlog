@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls A1AWT* | tail -1 2> /dev/null`
+INFILE=$(ls A1AWT* | tail -1 2> /dev/null)
 OUTFILE=A1CWC_db.txt
 
 echo Parsing $INFILE

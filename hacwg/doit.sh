@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls HA3NS* | tail -1 2> /dev/null`
+INFILE=$(ls HA3NS* | tail -1 2> /dev/null)
 OUTFILE=HACWG_db.txt
 
 echo Parsing $INFILE

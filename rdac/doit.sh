@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls RDAC_2* | tail -1 2> /dev/null`
+INFILE=$(ls RDAC_2* | tail -1 2> /dev/null)
 OUTFILE=RDAC_db.txt
 
 echo Parsing $INFILE

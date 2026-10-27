@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE1=`ls UKEI80_V* | tail -1 2> /dev/null`
+INFILE1=$(ls UKEI80_V* | tail -1 2> /dev/null)
 INFILE2="20240823 UKEI80_db.txt"
 OUTFILE=UKEI80_db.txt
 

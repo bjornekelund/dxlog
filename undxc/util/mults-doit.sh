@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls UN_DX_C* | tail -1 2> /dev/null`
+INFILE=$(ls UN_DX_C* | tail -1 2> /dev/null)
 OUTFILE=multipliers.txt
 
 echo Parsing $INFILE

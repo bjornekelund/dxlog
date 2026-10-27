@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls NAVAL.* | tail -1 2> /dev/null`
+INFILE=$(ls NAVAL.* | tail -1 2> /dev/null)
 OUTFILE=NAVAL_db.txt
 
 echo Parsing $INFILE

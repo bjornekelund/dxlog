@@ -59,7 +59,7 @@ END {
   }
 }' > $OUTFILE
 
-echo Created $OUTFILE with `cat $OUTFILE | wc -l` calls
+echo Created $OUTFILE with$(cat $OUTFILE | wc -l) calls
 
 echo ----
 # Derive 4-position grid file
@@ -115,6 +115,6 @@ END {
 
 unix2dos -q $OUTFILE $OUTFILE4
 
-echo Created $OUTFILE4 with `cat $OUTFILE4 | wc -l` calls
+echo Created $OUTFILE4 with$(cat $OUTFILE4 | wc -l) calls
 
 exit

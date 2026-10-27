@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARIDX* | tail -1 2> /dev/null`
+INFILE=$(ls ARIDX* | tail -1 2> /dev/null)
 OUTFILE=ARI_DX_db.txt
 HELPERS=../1helpers/helpers.awk
 

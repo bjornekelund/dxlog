@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls PCC_[MN]* | tail -1 2> /dev/null`
+INFILE=$(ls PCC_[MN]* | tail -1 2> /dev/null)
 OUTFILE=PCC_db.txt
 
 echo Parsing $INFILE

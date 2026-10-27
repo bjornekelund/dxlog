@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CQ160C* | tail -1 2> /dev/null`
+INFILE=$(ls CQ160C* | tail -1 2> /dev/null)
 OUTFILE=CQ160_db.txt
 HELPERS=../1helpers/helpers.awk
 

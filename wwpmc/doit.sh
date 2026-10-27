@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls WWPMC_2* | tail -1 2> /dev/null`
+INFILE=$(ls WWPMC_2* | tail -1 2> /dev/null)
 OUTFILE=WWPMC_db.txt
 
 dos2unix -q $INFILE

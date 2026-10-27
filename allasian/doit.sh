@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ALLASIACW_* | tail -1 2> /dev/null`
+INFILE=$(ls ALLASIACW_* | tail -1 2> /dev/null)
 OUTFILE=ALLASIAN_db.txt
 
 echo Parsing $INFILE

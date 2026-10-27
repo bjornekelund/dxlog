@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls RSGBBERU* | tail -1`
+INFILE=$(ls RSGBBERU* | tail -1)
 DBFILE=COMMONW_db.txt
 XDTFILE=COMMONW.xdt
 

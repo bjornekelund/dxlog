@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls Gc* | tail -1 2> /dev/null`
+INFILE=$(ls Gc* | tail -1 2> /dev/null)
 OUTFILE=GAGARIN_KUP_db.txt
 
 echo Parsing $INFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls QSOP_CP-[^F]* | tail -1 2> /dev/null`
+INFILE=$(ls QSOP_CP-[^F]* | tail -1 2> /dev/null)
 OUTFILE=QSOP_CP-FIXED.txt
 
 echo Parsing $INFILE

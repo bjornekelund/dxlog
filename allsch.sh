@@ -1,5 +1,5 @@
 #!/bin/bash
-ALL=`ls | grep '^[a-z]'`
+ALL=$(ls | grep '^[a-z]') 
 
 for contest in $ALL; do
   if [ -d $contest ]; then

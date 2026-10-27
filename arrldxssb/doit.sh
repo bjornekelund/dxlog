@@ -1,6 +1,6 @@
 #!/bin/bash
 echo ---
-INFILESSB=`ls ARRLDXS* | tail -1 2> /dev/null`
+INFILESSB=$(ls ARRLDXS* | tail -1 2> /dev/null)
 OUTFILESSB=ARRL_DX-SSB_db.txt
 
 echo Parsing $INFILESSB

@@ -1,6 +1,5 @@
 BEGIN {
   printf("#01 Operator names based on data collected and maintained by Claude VE2FK\n");
-  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#04 Last updated %s\n", strftime("%Y-%m-%d"));
   longest = "";
   FS = ",";

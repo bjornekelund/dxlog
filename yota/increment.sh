@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls YOTA_2* | tail -1 2> /dev/null`
+FILE=$(ls YOTA_2* | tail -1 2> /dev/null)
 OUTFILE=YOTA_NEXT.txt
 
 echo Parsing $FILE

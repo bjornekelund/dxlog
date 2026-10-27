@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INFILECW=`ls SSCW* | tail -1 2> /dev/null`
+INFILECW=$(ls SSCW* | tail -1 2> /dev/null)
 OUTFILECW=ARRL_SS_CW_db.txt
 
 echo Parsing $INFILECW

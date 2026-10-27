@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE1=`ls CQMMDX[^_]* | tail -1 2> /dev/null`
+FILE1=$(ls CQMMDX[^_]* | tail -1 2> /dev/null)
 FILE2=CQMMWEB.txt
 
 echo Scrubbing $FILE1 $FILE2

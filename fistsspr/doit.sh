@@ -1,10 +1,10 @@
 #!/bin/bash
-#INFILE=`ls FISTSSPR[^_]* | tail -1 2> /dev/null`
+#INFILE=$(ls FISTSSPR[^_]* | tail -1 2> /dev/null)
 OLDFILE=FISTSSPR-OLD.txt
-# NAMESFILE=`ls ../names/Names_VE2FK* | tail -1 2> /dev/null`
-# CWTFILE=`ls ../cwt/CWOPS_* | tail -1 2> /dev/null`
-# SSFILE=`ls ../arrlss/SSCW* | tail -1 2> /dev/null`
-# NAQPFILE=`ls ../naqp/NAQPC* | tail -1 2> /dev/null`
+# NAMESFILE=$(ls ../names/Names_VE2FK* | tail -1 2> /dev/null)
+# CWTFILE=$(ls ../cwt/CWOPS_* | tail -1 2> /dev/null)
+# SSFILE=$(ls ../arrlss/SSCW* | tail -1 2> /dev/null)
+# NAQPFILE=$(ls ../naqp/NAQPC* | tail -1 2> /dev/null)
 
 WEBFILE=fistsmembers.csv
 

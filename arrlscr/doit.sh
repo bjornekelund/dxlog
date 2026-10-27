@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRL-* | tail -1 2> /dev/null`
+INFILE=$(ls ARRL-* | tail -1 2> /dev/null)
 OUTFILE=ARRL_SCR_db.txt
 
 echo Parsing $INFILE

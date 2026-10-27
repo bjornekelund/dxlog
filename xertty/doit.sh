@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls XERTTY* | tail -1 2> /dev/null`
+INFILE=$(ls XERTTY* | tail -1 2> /dev/null)
 OUTFILE=XE_RTTY_db.txt
 
 echo Parsing $INFILE

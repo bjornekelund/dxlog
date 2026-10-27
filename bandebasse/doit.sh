@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls BB_* | tail -1 2> /dev/null`
+INFILE=$(ls BB_* | tail -1 2> /dev/null)
 OUTFILE=BANDE_BASSE_db.txt
 
 echo Parsing $INFILE

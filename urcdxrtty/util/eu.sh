@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls ../eudxc/EU_DXC* | tail -1 2> /dev/null`
+FILE=$(ls ../eudxc/EU_DXC* | tail -1 2> /dev/null)
 OUTFILE=URC_EU.txt
 
 echo Parsing $FILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CVADXCW*.txt | tail -1 2> /dev/null`
+INFILE=$(ls CVADXCW*.txt | tail -1 2> /dev/null)
 OUTFILE=CVADX_db.txt
 
 echo Parsing $INFILE

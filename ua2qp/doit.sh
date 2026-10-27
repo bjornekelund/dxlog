@@ -1,6 +1,6 @@
 #!/bin/bash
-INFILE1=`ls ../rdac/RDAC_2* | tail -1 2> /dev/null`
-INFILE2=`ls UA2QP* | tail -1 2> /dev/null`
+INFILE1=$(ls ../rdac/RDAC_2* | tail -1 2> /dev/null)
+INFILE2=$(ls UA2QP* | tail -1 2> /dev/null)
 OUTFILE=UA2_QP_db.txt
 
 echo Parsing $INFILE1 $INFILE2

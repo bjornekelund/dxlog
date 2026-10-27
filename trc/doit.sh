@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls TRCDX* | tail -1 2> /dev/null`
+INFILE=$(ls TRCDX* | tail -1 2> /dev/null)
 OUTFILE=TRC_db.txt
 
 echo Parsing $INFILE

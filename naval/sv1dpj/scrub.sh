@@ -1,5 +1,5 @@
 #!/bin/bash
-#FILE=`ls INORC.* | tail -1 2> /dev/null`
+#FILE=$(ls INORC.* | tail -1 2> /dev/null)
 FILE=NAVAL_db.txt
 
 echo Parsing $FILE

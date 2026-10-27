@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls RCCC* | tail -1 2> /dev/null`
+INFILE=$(ls RCCC* | tail -1 2> /dev/null)
 OUTFILE=RCC_db.txt
 
 dos2unix -q $INFILE

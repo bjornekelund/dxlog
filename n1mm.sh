@@ -1,6 +1,6 @@
 #!/bin/bash
 #set -x
-DIR=`pwd`
+DIR=$(pwd)
 
 if [ ! -d $1 ]; then
   exit 1
@@ -25,18 +25,18 @@ else
 fi
 
 if ../1helpers/download.sh $DLNAME || [ -n "$2" ]; then
-  # INFILE=`ls $DLNAME* | tail -1 2> /dev/null`
+  # INFILE=$(ls $DLNAME* | tail -1 2> /dev/null$(
   # echo INFILE=$INFILE
   if [ -s n1mmlatest.txt ]; then
     INFILE=$(cat n1mmlatest.txt)
-    echo Parsing `basename $INFILE`
+    echo Parsing $(basename $INFILE)
     dos2unix -q $INFILE
 
     # cat $INFILE | sed 's/ //g' | gawk -f $HELPERS -f filter.awk > $TMPFILE
     cat $INFILE | gawk -f $HELPERS -f filter.awk > $TMPFILE
 
     echo "#02 Based on data collected by Claude VE2FK" >> $TMPFILE
-    echo "#09 Last updated `date +%F`" >> $TMPFILE
+    echo "#09 Last updated $(date +%F)" >> $TMPFILE
 
     cat $TMPFILE | sort | sed 's/^#0[0-9]/#/g' > $OUTFILE
 

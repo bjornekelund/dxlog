@@ -34,7 +34,7 @@ else
   gawk -f filter.awk -f $HELPERS $WEBFILE > $TEMPFILE
   echo "#01 Based on data from http://www.mulandxc.com/index/down_list" >> $TEMPFILE;
   echo "#04 Contains only exceptions to rule-based prefill" >> $TEMPFILE;
-  echo "#09 Last updated `date +%F`" >> $TEMPFILE
+  echo "#09 Last updated$(date +%F)" >> $TEMPFILE
   sort $TEMPFILE | sed 's/^#0. /# /g' > $OUTFILE
   echo Created $OUTFILE
   unix2dos -q $OUTFILE

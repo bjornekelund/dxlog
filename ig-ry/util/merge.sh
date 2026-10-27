@@ -1,7 +1,7 @@
 #!/bin/bash
-#INFILE=`ls IG_WW* | tail -1 2> /dev/null`
+#INFILE=$(ls IG_WW* | tail -1 2> /dev/null)
 INFILE1=IG_WW_RTTY-004.txt
-INFILE2=`ls SCR* | tail -1 2> /dev/null`
+INFILE2=$(ls SCR* | tail -1 2> /dev/null)
 OUTFILE=SCRY-NEW.txt
 
 echo Parsing $INFILE1 $INFILE2 ...

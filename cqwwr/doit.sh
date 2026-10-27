@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CQWWRTTY* | tail -1 2> /dev/null`
+INFILE=$(ls CQWWRTTY* | tail -1 2> /dev/null)
 OUTFILE=CQWWR_db.txt
 HELPERS=../1helpers/helpers.awk
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE2=`ls KING* | tail -1 2> /dev/null`
+INFILE2=$(ls KING* | tail -1 2> /dev/null)
 OUTFILE=EA_db.txt
 
 echo Parsing $INFILE2

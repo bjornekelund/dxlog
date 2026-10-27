@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls URC-DX* | tail -1 2> /dev/null`
+INFILE=$(ls URC-DX* | tail -1 2> /dev/null)
 OUTFILE=URCDXRTTY_db.txt
 
 echo Parsing $INFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls QSOP_CP* | tail -1 2> /dev/null`
+INFILE=$(ls QSOP_CP* | tail -1 2> /dev/null)
 OUTFILE=CPQP_db.txt
 HELPERS=../1helpers/helpers.awk
 

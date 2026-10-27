@@ -1,7 +1,7 @@
 #!/bin/bash
 # Run n1mmdoit first, then this one
 #
-FILE=`ls AGCW-NTCQP-XXX.txt | tail -1 2> /dev/null`
+FILE=$(ls AGCW-NTCQP-XXX.txt | tail -1 2> /dev/null)
 OUTFILE=AGCWNTPQP_db.txt
 
 echo Parsing $FILE
@@ -11,7 +11,6 @@ cat $FILE | gawk '
 BEGIN {
   printf("#00 AGCW-NTC Friendship QSO Party prefill database\n");
   printf("#01 Based on data maintained by VE2FK\n");
-  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#02 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
   maxlen = 0;

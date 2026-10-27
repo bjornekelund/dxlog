@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CME* | tail -1 2> /dev/null`
+INFILE=$(ls CME* | tail -1 2> /dev/null)
 OUTFILE=EACME_db.txt
 
 echo Parsing $INFILE

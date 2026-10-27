@@ -3,11 +3,11 @@ AGCWDIR=../agcw
 AGCWDB=Mitglieder.csv
 NTCDIR=../ntc
 SUMFILE=agcwntc.txt
-HERE=`pwd`
+HERE=$(pwd)
 OUTFILE=AGCW-NTCQP-NEW.txt
 
 cd $NTCDIR
-NTCDB=`ls NTC_QP* | tail -1 2> /dev/null`
+NTCDB=$(ls NTC_QP* | tail -1 2> /dev/null)
 cd $HERE
 
 cp $AGCWDIR/$AGCWDB $NTCDIR/$NTCDB .
@@ -81,8 +81,6 @@ BEGIN {
 END {
 #  printf("Not counting hyphenated names, %s has the longest: \"%s\" (%d)\n", maxcall, maxname, maxlen) > "/dev/stderr";
   printf("# AGCW-NTC Friendship QSO Party prefill database\n");
-#  printf("# Based on call history data maintained by VE2FK\n");
-#  printf("# Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("# Last updated %s\n", strftime("%Y-%m-%d"));
 
   for (c in calls)

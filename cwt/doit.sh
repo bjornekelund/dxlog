@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CWOPS_* | tail -1 2> /dev/null`
+INFILE=$(ls CWOPS_* | tail -1 2> /dev/null)
 DBFILE=CWT_db.txt
 XDTFILE=CWOps.xdt
 

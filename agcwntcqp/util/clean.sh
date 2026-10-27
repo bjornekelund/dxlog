@@ -1,7 +1,7 @@
 #!/bin/bash
 export LC_ALL=C
 
-FILE=`ls AGCW-NTC*[0-9].txt | tail -1 2> /dev/null`
+FILE=$(ls AGCW-NTC*[0-9].txt | tail -1 2> /dev/null)
 OUTFILE=AGCW-NTCQP-CLEANED.txt
 
 echo Cleaning $FILE

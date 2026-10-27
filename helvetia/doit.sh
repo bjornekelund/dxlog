@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls Helvetia-* | tail -1 2> /dev/null`
+INFILE=$(ls Helvetia-* | tail -1 2> /dev/null)
 OUTFILE=Helvetia_db.txt
 
 echo Parsing $INFILE

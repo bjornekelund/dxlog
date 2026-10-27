@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls WWFF_t* | tail -1 2> /dev/null`
+INFILE=$(ls WWFF_t* | tail -1 2> /dev/null)
 OUTFILE=WWFF_db.txt
 
 echo Parsing $INFILE

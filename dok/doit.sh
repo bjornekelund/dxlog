@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls WA* | tail -1 2> /dev/null`
+INFILE=$(ls WA* | tail -1 2> /dev/null)
 OUTFILE=DOK_db.txt
 
 echo Parsing $INFILE

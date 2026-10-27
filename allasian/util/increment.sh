@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls ../ALLASIACW_[^N]* | tail -1 2> /dev/null`
+FILE=$(ls ../ALLASIACW_[^N]* | tail -1 2> /dev/null)
 OUTFILE=../ALLASIACW_NEXTYEAR.txt
 
 echo Parsing $FILE

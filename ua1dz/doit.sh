@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls DZ* | tail -1 2> /dev/null`
+INFILE=$(ls DZ* | tail -1 2> /dev/null)
 OUTFILE=UA1DZ_db.txt
 
 echo Parsing $INFILE

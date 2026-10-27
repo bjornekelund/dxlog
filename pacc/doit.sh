@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls PACC-* | tail -1 2> /dev/null`
+INFILE=$(ls PACC-* | tail -1 2> /dev/null)
 OUTFILE=PACC_db.txt
 
 echo Parsing $INFILE

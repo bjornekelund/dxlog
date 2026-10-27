@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls CQWWCW-* | tail -1 2> /dev/null`
+INFILE=$(ls CQWWCW-* | tail -1 2> /dev/null)
 OUTFILE=CQWWCW2023_db.txt
 
 echo Parsing $INFILE
@@ -9,7 +9,6 @@ gawk '
 BEGIN {
   printf("#00 CQ WW CW Contest prefill database\n");
   printf("#01 Based on data maintained by VE2FK ve2fk@arrl.net\n");
-  printf("#02 Report updates and corrections directly to ve2fk@arrl.net\n");
   printf("#03 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = ",";
 }

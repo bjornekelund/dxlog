@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls WRT[^_]* | tail -1 2> /dev/null`
+INFILE=$(ls WRT[^_]* | tail -1 2> /dev/null)
 OUTFILE=WRT_db.txt
 
 echo Parsing $INFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls JARLWWRT* | tail -1 2> /dev/null`
+INFILE=$(ls JARLWWRT* | tail -1 2> /dev/null)
 OUTFILE=JARLWWR_db.txt
 
 echo Parsing $INFILE

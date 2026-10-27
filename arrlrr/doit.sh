@@ -1,9 +1,9 @@
 #!/bin/bash
-INFILESS=`ls ../arrlssCW/SSCW* | tail -1 2> /dev/null`
-INFILENAQP=`ls ../naqp/NAQPC* | tail -1 2> /dev/null`
-INFILEWRT=`ls ../wrt/WRT[^_]* | tail -1 2> /dev/null`
-INFILENAMES=`ls ../names/Names_VE2FK* | tail -1 2> /dev/null`
-INFILEFISTS=`ls ../fistsspr/FISTSSPR[^_]* | tail -1 2> /dev/null`
+INFILESS=$(ls ../arrlssCW/SSCW* | tail -1 2> /dev/null)
+INFILENAQP=$(ls ../naqp/NAQPC* | tail -1 2> /dev/null)
+INFILEWRT=$(ls ../wrt/WRT[^_]* | tail -1 2> /dev/null)
+INFILENAMES=$(ls ../names/Names_VE2FK* | tail -1 2> /dev/null)
+INFILEFISTS=$(ls ../fistsspr/FISTSSPR[^_]* | tail -1 2> /dev/null)
 
 OUTFILE=ARRL_RR_db.txt
 

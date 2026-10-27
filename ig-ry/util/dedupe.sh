@@ -1,7 +1,7 @@
 #!/bin/bash
 
 OUTFILE=SCRY_2024-900.txt
-NEW=`ls SCRY_2024-0* | tail -1 2> /dev/null`
+NEW=$(ls SCRY_2024-0* | tail -1 2> /dev/null)
 FILE="BIG-IG_WW_RTTY.txt $NEW"
 
 echo Parsing $FILE

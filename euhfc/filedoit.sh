@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls EUHFC[^_]* | tail -1 2> /dev/null`
+INFILE=$(ls EUHFC[^_]* | tail -1 2> /dev/null)
 OUTFILE=EUHFC_db.txt
 
 echo Parsing $INFILE

@@ -30,7 +30,7 @@ else
         echo "ERROR! $OUTFILE not present in $ZIPFILE. Aborting." 
         exit 1
     else
-        echo Extracted $OUTFILE containing `wc -l < $OUTFILE` lines       
+        echo Extracted $OUTFILE containing$(wc -l < $OUTFILE) lines       
         if [ -s ../copytosourcetree.sh ]; then
             ../copytosourcetree.sh $OUTFILE
         fi

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls SPDX*[0-9]* | tail -1 2> /dev/null`
+INFILE=$(ls SPDX*[0-9]* | tail -1 2> /dev/null)
 OUTFILE=SPDX_db.txt
 
 dos2unix -q $INFILE

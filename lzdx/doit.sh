@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls LZDX-2* | tail -1 2> /dev/null`
+INFILE=$(ls LZDX-2* | tail -1 2> /dev/null)
 OUTFILE=LZDX_db.txt
 
 dos2unix -q $INFILE

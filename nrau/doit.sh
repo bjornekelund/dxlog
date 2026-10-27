@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls NRAUCW* | tail -1 2> /dev/null`
+INFILE=$(ls NRAUCW* | tail -1 2> /dev/null)
 OUTFILE=NRAU_db.txt
 
 echo Parsing $INFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls 1010* | tail -1 2> /dev/null`
+INFILE=$(ls 1010* | tail -1 2> /dev/null)
 OUTFILE=TENTEN_db.txt
 
 echo Parsing $INFILE

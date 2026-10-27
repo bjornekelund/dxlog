@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls QSOP_OH* | tail -1 2> /dev/null`
+INFILE=$(ls QSOP_OH* | tail -1 2> /dev/null)
 OUTFILE=OHQP_db.txt
 HELPERS=../1helpers/helpers.awk
 

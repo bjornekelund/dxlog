@@ -32,7 +32,7 @@ fi
 
 CMD="/mnt/c/Windows/System32/cmd.exe"
 if [[ -s $CMD ]]; then
-  USER=`$CMD /c "echo %USERNAME%" | tr -d '\r'`
+  USER=$($CMD /c "echo %USERNAME%" | tr -d '\r')
   TARGET=/mnt/c/Users/$USER/source/repos/k1xm/DXLog.net/DXLog.net/Contest
   if [[ -s $TARGET ]]; then
     CONTESTFILE=BCCQP.txt

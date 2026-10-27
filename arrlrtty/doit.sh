@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ARRLR* | tail -1 2> /dev/null`
+INFILE=$(ls ARRLR* | tail -1 2> /dev/null)
 OUTFILE=ARRL_RTTY_db.txt
 
 echo Parsing $INFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-QPFILE=`ls AGCW-NTC*[0-9].txt | tail -1 2> /dev/null`
+QPFILE=$(ls AGCW-NTC*[0-9].txt | tail -1 2> /dev/null)
 OUTFILE=AGCWNTCQP_db.txt
 
 echo Parsing $QPFILE

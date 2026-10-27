@@ -1,6 +1,6 @@
 #!/bin/bash
-INFILE1=`ls 2024* | tail -1 2> /dev/null`
-INFILE2=`ls WFD_2* | tail -1 2> /dev/null`
+INFILE1=$(ls 2024* | tail -1 2> /dev/null)
+INFILE2=$(ls WFD_2* | tail -1 2> /dev/null)
 OUTFILE=WFD_db.txt
 
 echo Parsing $INFILE1 and $INFILE2 to create $OUTFILE

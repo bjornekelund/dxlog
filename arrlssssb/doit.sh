@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILESSB=`ls SSSSB* | tail -1 2> /dev/null`
+INFILESSB=$(ls SSSSB* | tail -1 2> /dev/null)
 OUTFILESSB=ARRL_SS_SSB_db.txt
 
 echo Parsing $INFILESSB

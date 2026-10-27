@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls RUSYLOM* | tail -1 2> /dev/null`
+INFILE=$(ls RUSYLOM* | tail -1 2> /dev/null)
 OUTFILE=RADIOYLOM_db.txt
 
 echo Parsing $INFILE

@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls RAEM_[0-9]* | tail -1 2> /dev/null`
+INFILE=$(ls RAEM_[0-9]* | tail -1 2> /dev/null)
 OUTFILE=RAEM_db.txt
 
 echo Parsing $INFILE

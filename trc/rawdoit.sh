@@ -1,5 +1,5 @@
 #!/bin/bash
-#FILE=`ls TRCDX* | tail -1 2> /dev/null`
+#FILE=$(ls TRCDX* | tail -1 2> /dev/null)
 #echo Using file $FILE
 #dos2unix -q $FILE
 DBFILE=TRC_db.txt

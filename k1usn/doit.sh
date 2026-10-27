@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls K1USNSST-* | tail -1 2> /dev/null`
+INFILE=$(ls K1USNSST-* | tail -1 2> /dev/null)
 OUTFILE=K1USN_SST_db.txt
 
 echo Parsing $INFILE

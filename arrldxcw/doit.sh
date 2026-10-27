@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILECW=`ls ARRLDXC* | tail -1 2> /dev/null`
+INFILECW=$(ls ARRLDXC* | tail -1 2> /dev/null)
 OUTFILECW=ARRL_DX-CW_db.txt
 
 echo Parsing $INFILECW

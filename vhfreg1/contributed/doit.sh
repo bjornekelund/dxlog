@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=`ls es7gm* | tail -1 2> /dev/null`
+FILE=$(ls es7gm* | tail -1 2> /dev/null)
 
 OUTFILE=vhf_uhf_r1_db.txt
 OUTFILE4=vhf_uhf_r1_4_db.txt
@@ -69,7 +69,7 @@ END {
   printf("Ignored %d lines\n", ignored) > "/dev/stderr";
 }'  $OUTFILEN | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 
-echo $OUTFILE "created with" `cat $OUTFILE | wc -l` "calls"
+echo $OUTFILE "created with"$(cat $OUTFILE | wc -l) "calls"
 
 
 echo ---------------
@@ -112,7 +112,7 @@ END {
   printf("Ignored %d lines\n", ignored) > "/dev/stderr";
 }'  $OUTFILEN | sort | sed 's/^\#0. /\# /g' > $OUTFILE4
 
-echo $OUTFILE4 created with `cat $OUTFILE4 | wc -l` calls
+echo $OUTFILE4 created with$(cat $OUTFILE4 | wc -l) calls
 
 unix2dos -q $OUTFILE $OUTFILE4
 

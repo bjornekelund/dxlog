@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls UNDX_[^d]* | tail -1 2> /dev/null`
+INFILE=$(ls UNDX_[^d]* | tail -1 2> /dev/null)
 OUTFILE=UNDXC_db.txt
 
 echo Parsing $INFILE

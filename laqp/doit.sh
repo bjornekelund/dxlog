@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls QSOP_LA* | tail -1 2> /dev/null`
+INFILE=$(ls QSOP_LA* | tail -1 2> /dev/null)
 OUTFILE=LAQP_db.txt
 HELPERS=../1helpers/helpers.awk
 

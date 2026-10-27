@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls Names_VE2FK* | tail -1 2> /dev/null`
+INFILE=$(ls Names_VE2FK* | tail -1 2> /dev/null)
 OUTFILEXDT=Opnames.xdt
 OUTFILE=NAMES_db.txt
 

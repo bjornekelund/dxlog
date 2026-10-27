@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-DIR=`pwd`
+DIR=$(pwd)
 
 if [ ! -d $1 ]; then
   exit 0
@@ -23,8 +23,8 @@ rm -f $OUTFILE
 # echo "AWKFILE=$AWKFILE DBFILE=$DBFILE OUTFILE=$OUTFILE"
 
 if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
-  SCHFILE="`cat schfile.txt`"
-  DBFILE="`cat dbfile.txt`"
+  SCHFILE="$(cat schfile.txt)"
+  DBFILE="$(cat dbfile.txt)"
   # echo "schfile.txt exists and is not empty"
   URL="https://supercheckhistory.com/downloads/N1MM/$SCHFILE"
   curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE1" || {\
@@ -62,7 +62,7 @@ else
   gawk -f $HELPERS -f $AWKFILE $SCHFILE > $TMPFILE2
   
   echo "#01 Based on data from https://supercheckhistory.com/" >> $TMPFILE2
-  echo "#09 Last updated `date +%F`" >> $TMPFILE2
+  echo "#09 Last updated $(date +%F)" >> $TMPFILE2
 
   sort $TMPFILE2 | sed 's/^#0. /# /g' > $DBFILE
 

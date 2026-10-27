@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls NAQPC* | tail -1 2> /dev/null`
+INFILE=$(ls NAQPC* | tail -1 2> /dev/null)
 OUTFILE=NAQP_db.txt
 HELPERS=../1helpers/helpers.awk
 
@@ -16,7 +16,7 @@ echo Created $OUTFILE
 for contest in "mdqp mtqp"; do
   echo ---------------
   cd ../$contest
-  echo "Doing" $contest "in" `pwd`
+  echo "Doing" $contest "in"$(pwd)
   ./1doit.sh
 done
 

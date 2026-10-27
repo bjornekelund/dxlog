@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls WFD_2* | tail -1 2> /dev/null`
+INFILE=$(ls WFD_2* | tail -1 2> /dev/null)
 
 echo Parsing $INFILE
 dos2unix -q $INFILE

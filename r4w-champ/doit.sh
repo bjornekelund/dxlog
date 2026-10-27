@@ -1,6 +1,6 @@
 #!/bin/bash
 OUTFILE=R4W-CHAMP_db.txt
-#RDAFILE=`ls ../rdac/RDAC_2* | tail -1 2> /dev/null`
+#RDAFILE=$(ls ../rdac/RDAC_2* | tail -1 2> /dev/null)
 RDAFILE=RDAC_huge_csv.txt
 GRIDFILE=Russian_cup_db.txt
 

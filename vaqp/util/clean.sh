@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=`ls QSOP_VA-2* | tail -1 2> /dev/null`
+FILE=$(ls QSOP_VA-2* | tail -1 2> /dev/null)
 OUTFILE=QSOP_VA.fixed.txt
 
 echo Parsing $FILE

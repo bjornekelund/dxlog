@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls ICWC-* | tail -1 2> /dev/null`
+INFILE=$(ls ICWC-* | tail -1 2> /dev/null)
 OUTFILE=ICWCMST_db.txt
 
 echo Parsing $INFILE

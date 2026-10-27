@@ -1,5 +1,5 @@
 #!/bin/bash
-INFILE=`ls 9ADX_2* | tail -1 2> /dev/null`
+INFILE=$(ls 9ADX_2* | tail -1 2> /dev/null)
 OUTFILE=9ADX_db.txt
 
 dos2unix -q $INFILE
