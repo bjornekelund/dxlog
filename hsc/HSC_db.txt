@@ -1,4 +1,4 @@
-# Updated 2026-Oct-23 to HSC 2075 by DJ5CW. Updates to fabian@fkurz.net.
+# Updated 2026-Oct-26 to HSC 2075 by DJ5CW. Updates to fabian@fkurz.net.
 # http://highspeedclub.org/ - This file is always up to date at: https://hsc.dj1yfk.de/db/HSC_db.txt
 3Z75HSC=1481
 4K0CW=1647
@@ -525,7 +525,6 @@ DL8CO=1813
 DL8CWA=1297
 DL8FD=618
 DL8HAR=1238
-DL8IH=522
 DL8JJ=1891
 DL8KAC=1773
 DL8KAZ=1102
