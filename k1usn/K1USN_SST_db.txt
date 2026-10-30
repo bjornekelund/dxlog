@@ -1,7 +1,7 @@
 # K1USN Slow Speed Test prefill database
 # Based on data collected by Claude VE2FK
 # Longest name is "FREDERICK" with 9 characters
-# Last updated 2026-10-21
+# Last updated 2026-10-30
 2E0GKC=PAUL;DX
 2E0IIV=STEVE;DX
 2E0PKK=PAUL;DX
@@ -6269,6 +6269,7 @@ N4ZY=DAN;KY
 N4ZYM=PAUL;SC
 N4ZZ=DON;TN
 N5AAS=LANE;MS
+N5ADX=BRANDON;OK
 N5AN=BUD;LA
 N5ARS=SEAN;MD
 N5AU=GORDON;TX
