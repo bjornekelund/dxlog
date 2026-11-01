@@ -1,8 +1,8 @@
 # CWOps CWT prefill database
 # Based on data collected by Claude VE2FK
 # Longest name is "Christian" with 9 characters
-# Contains members up to #4019
-# Last updated 2026-10-30
+# Contains members up to #4027
+# Last updated 2026-11-01
 2E0DCW=Gerald;G
 2E0IER=Brian;3702
 2E0ISD=Ian;G
@@ -1089,6 +1089,7 @@ G3WAB=Phile;G
 G3WCY=Brian;G
 G3WGN=Dave;482
 G3WHO=Peter;3815
+G3WKL=JOHN;4026
 G3WPH=Mike;G
 G3WRJ=Dick;2209
 G3WW=Dez;3307
@@ -3237,6 +3238,7 @@ KM9R=Mike;1502
 KN1MT=Tyler;3851
 KN2D=Ken;3566
 KN2X=John;NY
+KN3A=SCOTT;4021
 KN4A=Stan;3182
 KN4CW=Bear;3879
 KN4DEB=Arnie;2658
@@ -4194,6 +4196,7 @@ N7AKG=Alan;OR
 N7AUE=Muley;3237
 N7AWE=Jim;ID
 N7BAS=Bobbie;3479
+N7BBQ=RON;4020
 N7BV=Chuck;WA
 N7BVY=Steve;WA
 N7CLP=Cody;AZ
@@ -4607,6 +4610,7 @@ NR1X=Allen;CT
 NR3N=Angel;1792
 NR3Z=Marty;2322
 NR4A=Sam;3095
+NR4K=BRUCE;4025
 NR4M=Steve;993
 NR4N=Angel;VA
 NR5W=Doug;2722
@@ -5242,6 +5246,7 @@ SP5NZF=Kuba;3315
 SP5ULV=Krisz;SP
 SP5XOC=Marek;SP
 SP6A=Zbig;SP
+SP6OS=MAREK;4024
 SP7AJ=Arek;3496
 SP7BCA=Tom;SP
 SP7OGP=Piotr;3147
@@ -5304,6 +5309,7 @@ TA1UT=Bora;2768
 TA2BD=Halil;TA
 TA2SE=Rifat;TA
 TA7I=Ozkan;2646
+TA8TAX=AISE;4027
 TF/WT8P=Jim;2456
 TF3DC=Oskar;285
 TF3JB=Jonas;2803
@@ -6675,6 +6681,7 @@ WA7HJV=Jack;1239
 WA7KJ=Den;2863
 WA7KVI=Wes;2729
 WA7LNW=Jack;2454
+WA7NB=ART;4023
 WA7SPY=Glenn;3957
 WA7YAZ=Steve;UT
 WA8AXF=Dave;MI
@@ -7009,6 +7016,7 @@ WW0WWV=Eric;CO
 WW1H=Bill;3676
 WW1T=Scott;FL
 WW2I=Peter;3561
+WW2MI=DEL;4022
 WW2Y=Peter;NJ
 WW3S=Jim;2775
 WW4B=Glenn;FL
