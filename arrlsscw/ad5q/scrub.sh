@@ -1,6 +1,6 @@
 #!/bin/bash
-FILE1=ss_cw.xdt
-FILE2=ss_ssb.xdt
+FILE1=SS_CW.xdt
+FILE2=SS_SSB.xdt
 
 echo Scrubbing $FILE1
 ./check.sh $FILE1

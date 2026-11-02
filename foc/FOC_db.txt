@@ -1,4 +1,4 @@
-# Updated up to FOC #2267 - WB4IT. Updates to fabian@fkurz.net.
+# Updated up to FOC #2270 - VX7ZO. Updates to fabian@fkurz.net.
 # This file is always up to date at: https://foc.telegraphy.de/db/FOC_db.txt
 2E0HTZ=Enzo;2213
 3B8VV=Ian;2233
@@ -13,6 +13,7 @@
 4F7OC=Bob;2097
 4K0CW=Axel;2098
 4O3ZZ=Dave;1053
+4O4A=Dragan;2268
 4S7WHG=Phil;1513
 4U7FOC=Robert;1790
 4U8FOC=Robert;1790
@@ -1013,6 +1014,7 @@ VE3TM=Vlad;2174
 VE3USP=Pista;2010
 VE3VA=Jeff;1753
 VE7SV=Dale;2103
+VE7ZO=Jim;2270
 VE9CB=Dave;2141
 VG2EBI=George;1886
 VG3IED=Scott;2253
@@ -1079,6 +1081,7 @@ VX3LYC=Cezar;1994
 VX3TM=Vlad;2174
 VX3USP=Pista;2010
 VX3VA=Jeff;1753
+VX7ZO=Jim;2270
 VY1CO=Scott;2253
 VY1JT=Jim;1067
 VY2LF=Steve;1693
@@ -1203,6 +1206,7 @@ YO3FRI=Tina;1958
 YO3LR=Cristi;1810
 YR80FOC=Cristi;1810
 YU0HST=Dave;1053
+YU4YY=Dragan;2268
 Z66BCC=Rene;2192
 Z68BH=Martti;2226
 Z68XX=Rene;2192

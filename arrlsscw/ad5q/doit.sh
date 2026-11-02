@@ -1,7 +1,7 @@
 #!/bin/bash
-FILECW=ss_cw.xdt
-OUTFILECW=ARRL_SS_db.txt
-FILESSB=ss_ssb.xdt
+FILECW=SS_CW.xdt
+OUTFILECW=ARRL_SS_CW_db.txt
+FILESSB=SS_SSB.xdt
 OUTFILESSB=ARRL_SS_SSB_db.txt
 
 echo Parsing $FILECW
