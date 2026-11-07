@@ -29,7 +29,7 @@ function valid_id(id)
 
 function valid_name(name)
 {
-  return name ~ /^[A-Za-z]+$/;
+  return name ~ /^[A-Z]+$/;
 }
 
 function valid_call(call)
@@ -168,7 +168,7 @@ BEGIN {
 
 {
   call = toupper($1);
-  name = $2;
+  name = toupper($2);
   original_id = toupper($3);
   id = "";
 
