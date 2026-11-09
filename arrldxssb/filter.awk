@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 ARRL DX Contest prefill database\n");
+  printf("#00 ARRL DX SSB Contest prefill database\n");
   FS = ",";
   call = 1;
   col1 = 2;

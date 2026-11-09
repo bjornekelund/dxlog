@@ -12,7 +12,7 @@ BEGIN {
   }
   else if ( \
     $call ~ /^(P[P-Y]|Z[VWXY])[1-9]{1}[A-Z]{1,3}(\/(P[TUVY][1-9]|[0-9]))?$/ && \
-    $exch ~ /^(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)$/)
+    $exch ~ /^(HQ|AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)$/)
   {
     if (line[$call] != "")
     {

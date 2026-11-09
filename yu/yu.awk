@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 YU car registration code database file\n");
+  printf("#00 Serbian car registration code database file\n");
   printf("#01 Last updated %s\n", strftime("%Y-%m-%d"));
   FS = "=";
 }

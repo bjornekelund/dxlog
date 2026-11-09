@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 XE RTTY Contest prefill database\n");
+  printf("#00 Mexican RTTY Contest prefill database\n");
   FS = ",";
   longest = "";
 }

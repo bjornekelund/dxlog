@@ -1,4 +1,5 @@
 BEGIN {
+  printf("#00 OK-OM DX prefill database\n");
   FS = ",";
 }
 {

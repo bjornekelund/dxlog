@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 YO HF DX Contest prefill database\n");
+  printf("#00 Romanian HF DX Contest prefill database\n");
   FS = ",";
 }
 {
