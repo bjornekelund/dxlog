@@ -1,7 +1,7 @@
-# CVA DX Contest prefill database
+# Riachuelo Contest prefill database
 # Based on data from https://supercheckhistory.com/
 # Contains only exhanges that differ from by DXLog's rule based prefill
-# Last updated 2026-10-17
+# Last updated 2026-11-09
 PP1JE=MIL
 PP2RON=MIL
 PP5BM=MIL

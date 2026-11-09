@@ -1,6 +1,6 @@
 # Portugal Day Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-17
+# Last updated 2026-11-09
 CR6K=AV
 CS5CC=ST
 CS7AWL=LX

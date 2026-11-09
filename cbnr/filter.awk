@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 CVA DX Contest prefill database\n");
+  printf("#00 Riachuelo Contest prefill database\n");
   printf("#04 Contains only exhanges that differ from by DXLog's rule based prefill\n");
   FS = ","
 }

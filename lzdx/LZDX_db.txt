@@ -1,6 +1,6 @@
 # LZ DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-18
+# Last updated 2026-11-09
 LZ0M=VN
 LZ1A=SO
 LZ1AEW=SO
@@ -147,6 +147,7 @@ LZ2ZY=MN
 LZ3A=SF
 LZ3AN=HA
 LZ3AW=BU
+LZ3BF=SL
 LZ3CB=BU
 LZ3CC=SF
 LZ3DJ=SF
@@ -166,7 +167,6 @@ LZ3RN=SZ
 LZ3SD=PD
 LZ3SM=KD
 LZ3TL=SF
-LZ3TV=SF
 LZ3TY=SO
 LZ3V=SF
 LZ3ZQ=KA
@@ -247,6 +247,7 @@ LZ8E=RZ
 LZ8R=VD
 LZ8T=LV
 LZ9A=PK
+LZ9E=RZ
 LZ9R=BU
 LZ9S=PK
 LZ9V=YA

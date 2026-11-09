@@ -1,6 +1,6 @@
 # XE RTTY Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-10-17
+# Last updated 2026-11-09
 4A7L=JAL
 4A7S=SON
 XE1AY=COL
