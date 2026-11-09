@@ -1,6 +1,6 @@
-# YO HF DX Contest prefill database
+# Romanian HF DX Contest prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-09
 YO2ABO=AR
 YO2ADQ=TM
 YO2AMU=AR

@@ -2,7 +2,6 @@ BEGIN {
   printf("#00 Minnesota QSO Party prefill database\n");
   FS = ",";
   longest = "";
-  name = 9;
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -20,7 +19,8 @@ BEGIN {
   {
     stateok = 1;
   }
-  if (name == 9) $name = "";
+  # if (name == 99) $name = "";
+  if (!IsUScall($call) && !IsVEcall($call)) $state = "";
   nameok = $name ~ /^([A-Z][A-Za-z]+|)$/;
   notempty = $name != "" || $state != "";
   if ((stateok && notempty))
