@@ -7,7 +7,7 @@ dos2unix -q $QPFILE
 
 echo Creating $OUTFILE
 
-gawk -f agcwntcqp.awk -f ../1helpers/helpers.awk $QPFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+gawk -f agcwntcqp.awk -f ../_helpers/helpers.awk $QPFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 
 unix2dos -q $OUTFILE
 

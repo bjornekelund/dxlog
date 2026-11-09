@@ -1,7 +1,7 @@
 #!/bin/bash
 INFILE=$(ls QSOP_* | tail -1 2> /dev/null)
 OUTFILE=MNQP_db.txt
-HELPERS=../1helpers/helpers.awk
+HELPERS=../_helpers/helpers.awk
 
 echo Parsing $INFILE
 dos2unix -q $INFILE

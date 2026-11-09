@@ -2,7 +2,7 @@
 WEBFILE=$(ls WAPC_H* | tail -1 2> /dev/null)
 OUTFILE=WAPC_db.txt
 DOWNLOAD=.downloaded
-HELPERS=../1helpers/helpers.awk
+HELPERS=../_helpers/helpers.awk
 TEMPFILE=.tmpoutfile
 URL=http://www.mulandxc.com/index/download?id=33
 # set -x

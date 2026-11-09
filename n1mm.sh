@@ -15,7 +15,7 @@ fi
 
 DLNAME=$(cat n1mmfile.txt)
 OUTFILE=$(cat dbfile.txt)
-HELPERS=../1helpers/helpers.awk
+HELPERS=../_helpers/helpers.awk
 TMPFILE=.rawfile
 
 if [ -s "schfile.txt" ]; then
@@ -24,7 +24,7 @@ else
   SCHFILE=$DLNAME
 fi
 
-if ../1helpers/download.sh $DLNAME || [ -n "$2" ]; then
+if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
   # INFILE=$(ls $DLNAME* | tail -1 2> /dev/null$(
   # echo INFILE=$INFILE
   if [ -s n1mmlatest.txt ]; then

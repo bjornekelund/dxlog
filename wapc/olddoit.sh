@@ -1,10 +1,10 @@
 #!/bin/bash
-if ../1helpers/download.sh WAPC_HISTORY || [ -n "$1" ]; then
+if ../_helpers/download.sh WAPC_HISTORY || [ -n "$1" ]; then
     
 
     INFILE=$(ls WAPC_H* | tail -1 2> /dev/null)
     OUTFILE=WAPC_db.txt
-    HELPERS=../1helpers/helpers.awk
+    HELPERS=../_helpers/helpers.awk
 
     echo Parsing $INFILE
     dos2unix -q $INFILE

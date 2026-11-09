@@ -15,7 +15,7 @@ fi
 AWKFILE="filter.awk"
 TMPFILE1=".downloaded"
 TMPFILE2=".tmpoutfile"
-HELPERS="../1helpers/helpers.awk"
+HELPERS="../_helpers/helpers.awk"
 #set -x
 
 rm -f $OUTFILE
