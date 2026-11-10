@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 North American QSO Party prefill database\n");
+  printf("#00 North American QSO Party RTTY prefill database\n");
   FS = ",";
   longest = "";
 }

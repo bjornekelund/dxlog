@@ -1,0 +1,23 @@
+#!/bin/bash
+INFILE=$(ls NAQPC* | tail -1 2> /dev/null)
+OUTFILE=NAQP_db.txt
+HELPERS=../_helpers/helpers.awk
+
+echo Parsing $INFILE
+dos2unix -q $INFILE
+
+sed 's/ //g' $INFILE | gawk -f $HELPERS -f naqpssb.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
+
+unix2dos -q $OUTFILE $INFILE
+echo Created $OUTFILE
+
+../copytosourcetree.sh $OUTFILE
+
+for contest in "mdqp mtqp"; do
+  echo ---------------
+  cd ../$contest
+  echo "Doing" $contest "in"$(pwd)
+  ./1doit.sh
+done
+
+exit
