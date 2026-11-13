@@ -2,7 +2,7 @@
 # Based on data from https://supercheckhistory.com/
 # Longest name is "NORBERT" with 7 characters
 # Contains members up to #308
-# Last updated 2026-11-09
+# Last updated 2026-11-13
 2E0OBO=BOB;
 2E0YEM=ALAN;NM
 CT7AUP=DAVID;
@@ -94,7 +94,6 @@ OM3TBG=MILAN;NM
 ON4CAS=EGBERT;57
 ON6NL=ANTON;154
 ON6OL=STEF;287
-ON7DQ=LUC;98
 ON9TT=MARC;196
 PA0CMU=CAREL;76
 PA0GJV=GERRIT;113

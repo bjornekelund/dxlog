@@ -1,6 +1,6 @@
 # Yuri Gagarin International DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-09
+# Last updated 2026-11-13
 R108M=RG
 R2VA=PC
 R3LA=RG

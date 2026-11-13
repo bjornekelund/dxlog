@@ -27,7 +27,6 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/AQP_
 -------- aoec160
 -------- aridx
 Downloaded ARI-DX.txt, parsing...
-Ignored: "4U9A,BR,"
 Created ARI_DX_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARI_DX_db.txt
 -------- arqp
@@ -43,7 +42,6 @@ Ignored: "AA7JV,R2,"
 Irregular exchange NS for VE call VA2MM
 Irregular exchange QC for VE call VA3WA
 Irregular exchange NB for VE call VE1AFY
-Irregular exchange NB for VE call VE1GN
 Irregular exchange NB for VE call VE1RF
 Irregular exchange ON for VE call VE2JM
 Irregular exchange QC for VE call VE3FK
@@ -58,7 +56,6 @@ Irregular exchange QC for VE call VA3WA
 Problem RAC section : "VE1ANU,MAR,"
 Problem RAC section : "VE1DX,MAR,"
 Problem RAC section : "VE1OP,MAR,"
-Problem RAC section : "VE1RGB,MAR,"
 Problem RAC section : "VE1ZJ,MAR,"
 Problem RAC section : "VE1ZZ,MAR,"
 Problem RAC section : "VE8EV,NT,"
@@ -74,14 +71,12 @@ Created ARRL_160M_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_160M_db.txt
 -------- arrldxcw
 Downloaded ARRL-DX-CW.txt, parsing...
-Problem !!Order!! line: "!!Order!!,Call,Exch1,UserText"
-Created ARRL_DX-CW_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-CW_db.txt
+Created ARRL_DX_CW_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX_CW_db.txt
 -------- arrldxssb
 Downloaded ARRL-DX-SSB.txt, parsing...
-Problem !!Order!! line: "!!Order!!,Call,Exch1,UserText"
-Created ARRL_DX-SSB_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX-SSB_db.txt
+Created ARRL_DX_SSB_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_DX_SSB_db.txt
 -------- arrlfd
 Downloaded ARRL-FD.txt, parsing...
 Problem DX station  : "9Y4D,599,2A,"
@@ -92,37 +87,17 @@ Problem ARRL section: "KC1VSQ,1A,MA,"
 Problem ARRL section: "KF0LJM,1D,DX,"
 Problem DX station  : "OK2TS,3A,GA,"
 Problem RAC section: "VA1PYE,1D,MAR,"
-Problem RAC section: "VA1RST,1D,MAR,"
-Problem RAC section: "VA3CBU,1D,GTA,"
-Problem RAC section: "VA3CWT,1D,GTA,"
-Problem RAC section: "VA3HDL,1D,GTA,"
-Problem RAC section: "VA3TNM,1D,GTA,"
 Problem RAC section: "VE1ANU,1D,MAR,"
 Problem RAC section: "VE1AOE,1E,MAR,"
 Problem RAC section: "VE1BAB,1D,MAR,"
 Problem RAC section: "VE1CHL,1D,MAR,"
 Problem RAC section: "VE1DTR,1D,MAR,"
 Problem RAC section: "VE1GVY,1B,MAR,"
-Problem RAC section: "VE1NB,1D,MAR,"
 Problem RAC section: "VE1RPX,,MAR,"
 Problem RAC section: "VE1RSM,1D,MAR,"
 Problem RAC section: "VE1ZU,,MAR,"
-Problem RAC section: "VE3EWW,1E,GTA,"
-Problem RAC section: "VE3GFN,1D,GTA,"
-Problem RAC section: "VE3HEU,1D,GTA,"
-Problem RAC section: "VE3IBW,,GTA,"
-Problem RAC section: "VE3MDX,1D,GTA,"
-Problem RAC section: "VE3NRT,1D,GTA,"
-Problem RAC section: "VE3NZ,1D,GTA,"
-Problem RAC section: "VE3RYI,1D,GTA,"
-Problem RAC section: "VE3RZ,1D,GTA,"
-Problem RAC section: "VE3SB,1D,GTA,"
-Problem RAC section: "VE3WZ,1E,GTA,"
-Problem RAC section: "VE8NSD,,NT,"
 Problem RAC section: "VE9DCD,1D,MAR,"
 Problem RAC section: "VE9HF,,MAR,"
-Problem RAC section: "VY1AAA,1D,NT,"
-Problem RAC section: "VY1JA,1D,NT,"
 Created ARRL_FD_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ARRL_FD_db.txt
 -------- arrlrr
@@ -143,6 +118,8 @@ Ignored: "WA6FWN,SV,"
 Created AZQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/AZQP_db.txt
 -------- bandebasse
+-------- batavia
+schfile.txt or dbfile.txt is missing or empty
 -------- bccqp
 -------- bcqp
 Downloaded QSOP_BC.txt, parsing...
@@ -166,11 +143,12 @@ Ignored: "VO2AC,LB,"
 Ignored: "VO2NS,LB,"
 Created BCQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/BCQP_db.txt
+-------- bekasimerdeka
+schfile.txt or dbfile.txt is missing or empty
 -------- caqp
 Downloaded QSOP_CA.txt, parsing...
 Ignored: "KA3JPE,DC,"
 Ignored: "VE1OP,MR,"
-Ignored: "VE1RGB,MR,"
 Ignored: "VE9CB,MR,"
 Ignored: "VE9VIC,MR,"
 Ignored: "VO1COD,NF,"
@@ -181,6 +159,14 @@ Ignored: "W3HAC,DC,"
 Ignored: "W5EIM,DC,"
 Created CQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQP_db.txt
+-------- cbcbcontest
+schfile.txt or dbfile.txt is missing or empty
+-------- cbnr
+Downloaded CBNR.txt, parsing...
+Created CBNR_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CBNR_db.txt
+-------- cisadane
+schfile.txt or dbfile.txt is missing or empty
 -------- cncw
 Downloaded CNCW.txt, parsing...
 Created EA_db.txt
@@ -194,7 +180,6 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/COQP
 -------- cpqp
 Downloaded QSOP_CP.txt, parsing...
 Ignored: "VA6CNC,EWE,"
-Ignored: "VA6HEM,CFL,"
 Ignored: "VA6WLT,CFL,"
 Ignored: "VE4MG,DAU,"
 Ignored: "VE4MR,BRS,"
@@ -211,7 +196,6 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CPQP
 -------- cqww
 -------- cqwwr
 Downloaded CQ-WW-RTTY.txt, parsing...
-Ignored: "CK3AT,ON,"
 Ignored: "HI3K,HI,"
 Ignored: "HI3MM,HI,"
 Ignored: "HI3R,HI,"
@@ -231,6 +215,7 @@ Ignored: "PP5BC,SC,"
 Ignored: "PP5BK,SC,"
 Ignored: "PP5BP,SC,"
 Ignored: "PP5BZ,SC,"
+Ignored: "PP5CG,SC,"
 Ignored: "PP5CIT,SC,"
 Ignored: "PP5DKM,SC,"
 Ignored: "PP5DZ,SC,"
@@ -244,8 +229,10 @@ Ignored: "PP5KP,SC,"
 Ignored: "PP5KR,SC,"
 Ignored: "PP5NY,SC,"
 Ignored: "PP5RG,SC,"
+Ignored: "PP5RP,SC,"
 Ignored: "PP5TG,SC,"
 Ignored: "PP5TI,SC,"
+Ignored: "PP5VX,SC,"
 Ignored: "PP5WX,SC,"
 Ignored: "PP5XA,SC,"
 Ignored: "PP5ZB,SC,"
@@ -256,6 +243,7 @@ Ignored: "PP5ZW,SC,"
 Ignored: "PP7DX,AL,"
 Ignored: "PP7LP,AL,"
 Ignored: "PR8KW,MA,"
+Ignored: "PT5J,SC,"
 Ignored: "PT9TI,MS,"
 Ignored: "PU7ASP,AL,"
 Ignored: "PY7BC,PE,"
@@ -269,6 +257,7 @@ Ignored: "PY8WW,PA,"
 Ignored: "VE8DAV,NT,"
 Ignored: "VE8NSD,NT,"
 Ignored: "VO1OP,NL,"
+Ignored: "XE1UYS,IL,"
 Ignored: "XE2N,NL,"
 Ignored: "XE2OK,NL,"
 Ignored: "XE2W,NL,"
@@ -276,6 +265,8 @@ Ignored: "YO7ARY,CT,"
 Ignored: "ZY5A,SC,"
 Created CQWWR_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CQWWR_db.txt
+-------- cqwwvhf
+schfile.txt or dbfile.txt is missing or empty
 -------- croatiandx
 -------- cvadx
 Downloaded CVA-DX-CW.txt, parsing...
@@ -301,33 +292,35 @@ Created CVADX_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/CVADX_db.txt
 -------- cwt
 Downloaded CWOPS.txt, parsing...
-Ignored1: "9A5Y,,9A,"
+Ignored1: "4O3RB,,4O,"
+Ignored1: "9A2UI,,9A,"
 Problem name ignored: "CO8ZZ,RAúL,1682,"
+Ignored1: "D4DX,,D4,"
+Ignored2: "DM100FK,GERD,DL,"
 Ignored1: "F8BCU,,F,"
 Exchange is "EXCH" for G0LLX but should probably be "G"
 Ignored1: "G0LLX,NAME,EXCH,"
-Ignored1: "G3VIP,,G,"
+Ignored1: "G3RTU,,G,"
+Ignored1: "G3WPF,,G,"
 Ignored1: "G4AAV,,G,"
+Ignored1: "G4ENZ,,G,"
 Exchange is "EXCH" for G4YTK but should probably be "G"
 Ignored1: "G4YTK,NAME,EXCH,"
+Ignored1: "G4ZYU,,G,"
 Exchange is "20003" for GW2CWO but should probably be "GW"
 Ignored1: "GW2CWO,WALES,20003,"
-Ignored1: "IK2HMU,,I,"
-Ignored1: "IK3CHK,,I,"
-Ignored1: "IK3OII,,I,"
+Ignored1: "IK1PMR,,I,"
 Ignored1: "IK3QAR,,I,"
 Ignored1: "IN3MNS,,I,"
 Problem name ignored: "K4AEN,TOM/TOMMY,1861,"
-Ignored1: "K5TA,SCOTT,4N6,"
 Ignored1: "KE2CWO,HUDSON,20006,"
 Problem name ignored: "KS4CR,MARTY PRICE,3985,"
-Ignored1: "M0TJU,,G,"
 Problem name ignored: "N4IN,DAVE/DES,3677,"
-Problem name ignored: "NU7Y,Q OR QUINT,1261,"
 Exchange is "R9" for R9AE but should probably be "UA9"
 Problem name ignored: "TA7I,ÖZKAN,2646,"
 Problem name ignored: "VU3SPD,SPEED OR SREE,3499,"
 Problem name ignored: "W1AW,W1AW,CT,"
+Ignored1: "W4LOO,NONAME,NONO,"
 Highest member number is 3997
 Longest name is "CHRISTINE" with 9 characters
 Created CWT_db.txt
@@ -345,6 +338,7 @@ Downloaded QSOP_FL.txt, parsing...
 Irregular exchange NB for VE call VE1AFY
 Irregular exchange NS for VE call VE9EZ
 Ignored: "VO1TH,NF,"
+Ignored: "VO1VOC,NF,"
 Ignored: "VO2NS,LB,"
 Created FLQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/FLQP_db.txt
@@ -376,6 +370,7 @@ Ignored: "HA3MY,104,"
 Ignored: "HA4XH,020,"
 Ignored: "HA5MY,007,"
 Ignored: "HA5NB,175,"
+Ignored: "HA6NY,169,"
 Ignored: "HA6VV,039,"
 Ignored: "HA7JQK,182,"
 Ignored: "HA8MT,078,"
@@ -430,9 +425,9 @@ Downloaded QSOP_IL.txt, parsing...
 "!!Order!!,Call,Exch1,UserText" --> call=1 state=2
 Irregular exchange NB for VE call VE1AFY
 Irregular exchange NS for VE call VE9EZ
-Ignored: "VO1AW,NF,"
-Ignored: "VO1GO,NF,"
+Ignored: "VO1GU,NF,"
 Ignored: "VO1NE,NF,"
+Ignored: "VO1VOC,NF,"
 Created ILQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ILQP_db.txt
 -------- in7qpnede
@@ -450,6 +445,7 @@ Ignored: "AC1J,HILNH,"
 Ignored: "AC1K,HARCT,"
 Ignored: "AC3SS,MDC,"
 Ignored: "AC9XN,IN,"
+Ignored: "AC9XS,IN,"
 Ignored: "AF1R,ORLVT,"
 Ignored: "AG1YK,LITCT,"
 Ignored: "AG2K,FAICT,"
@@ -491,7 +487,6 @@ Ignored: "K1TNX,KENRI,"
 Ignored: "K1UR,MIDMA,"
 Ignored: "K1WHS,YORME,"
 Ignored: "K1ZK,CHIVT,"
-Ignored: "K2BMI,CUMME,"
 Ignored: "K2RB,FAICT,"
 Ignored: "K3IU,NEWRI,"
 Ignored: "K6DTT,WASME,"
@@ -515,8 +510,6 @@ Ignored: "KA0WAS,IN,"
 Ignored: "KA1AL,LITCT,"
 Ignored: "KA1O,HILNH,"
 Ignored: "KA1R,AROME,"
-Ignored: "KA1SNP,SAGME,"
-Ignored: "KA1YQC,NORMA,"
 Ignored: "KB1H,HANME,"
 Ignored: "KB1OIQ,MIDMA,"
 Ignored: "KB1RVU,TOLCT,"
@@ -526,7 +519,6 @@ Ignored: "KB9NHZ,IN,"
 Ignored: "KB9ORH,IN,"
 Ignored: "KB9RDS,IN,"
 Ignored: "KB9YYM,IN,"
-Ignored: "KC1CRS,FRAMA,"
 Ignored: "KC1DVT,CUMME,"
 Ignored: "KC1HXX,ANDME,"
 Ignored: "KC1NBI,MIDMA,"
@@ -536,15 +528,14 @@ Ignored: "KC1OT,HARCT,"
 Ignored: "KC1OXG,MIDMA,"
 Ignored: "KC1QIA,LITCT,"
 Ignored: "KC1QKU,ESSMA,"
-Ignored: "KC1RET,ESSMA,"
 Ignored: "KC1SFJ,CHIVT,"
 Ignored: "KC1XX,HILNH,"
 Ignored: "KC2TV,HILNH,"
 Ignored: "KC4YDJ,IN,"
-Ignored: "KC9DJU,IN,"
 Ignored: "KC9NKI,IN,"
 Ignored: "KC9QQ,IN,"
 Ignored: "KC9RRN,IN,"
+Ignored: "KC9WOM,IN,"
 Ignored: "KD1OW,ANDME,"
 Ignored: "KD1XH,HARCT,"
 Ignored: "KD9ADR,IN,"
@@ -553,12 +544,9 @@ Ignored: "KD9MAK,IN,"
 Ignored: "KD9MGZ,IN,"
 Ignored: "KD9NUB,IN,"
 Ignored: "KD9PA,IN,"
-Ignored: "KD9QFU,IN,"
-Ignored: "KD9TGU,IN,"
 Ignored: "KD9TQH,IN,"
 Ignored: "KD9VV,IN,"
 Ignored: "KD9WES,IN,"
-Ignored: "KD9YTF,IN,"
 Ignored: "KD9ZGA,IN,"
 Ignored: "KE1AB,KENRI,"
 Ignored: "KE1GV,MIDCT,"
@@ -592,7 +580,6 @@ Ignored: "N1GKE,KENRI,"
 Ignored: "N1GN,CARNH,"
 Ignored: "N1GSA,FAICT,"
 Ignored: "N1IBQ,FAICT,"
-Ignored: "N1IIM,ROCNH,"
 Ignored: "N1IX,ROCNH,"
 Ignored: "N1IXF,HARCT,"
 Ignored: "N1JEZ,CALVT,"
@@ -626,7 +613,6 @@ Ignored: "N9GXA,IN,"
 Ignored: "N9ITB,IN,"
 Ignored: "N9KR,IN,"
 Ignored: "N9NC,STRNH,"
-Ignored: "N9PKL,IN,"
 Ignored: "N9PWM,IN,"
 Ignored: "N9RBC,IN,"
 Ignored: "N9RMH,IN,"
@@ -687,6 +673,7 @@ Ignored: "W1TED,HILNH,"
 Ignored: "W1TJL,HARCT,"
 Ignored: "W1TR,WINCT,"
 Ignored: "W1TW,BRIMA,"
+Ignored: "W1UAA,NANMA,"
 Ignored: "W1UU,BARMA,"
 Ignored: "W1WRA,HILNH,"
 Ignored: "W2BUD,HARCT,"
@@ -711,7 +698,6 @@ Ignored: "W9MRH,IN,"
 Ignored: "W9NAA,IN,"
 Ignored: "W9NY,IN,"
 Ignored: "W9RE,IN,"
-Ignored: "W9RGB,IN,"
 Ignored: "W9RWG,IN,"
 Ignored: "W9SU,IN,"
 Ignored: "W9SUN,IN,"
@@ -733,12 +719,10 @@ Ignored: "WB9ONU,IN,"
 Ignored: "WB9YIG,IN,"
 Ignored: "WD8DSB,IN,"
 Ignored: "WI2E,WASME,"
-Ignored: "WJ1B,NHVCT,"
 Ignored: "WJ9E,IN,"
 Ignored: "WM9E,IN,"
 Ignored: "WN1E,HMDMA,"
 Ignored: "WT1A,ANDME,"
-Ignored: "WT1R,NHVCT,"
 Ignored: "WU3A,HILNH,"
 Ignored: "WV1H,PRORI,"
 Ignored: "WX1C,ROCNH,"
@@ -760,14 +744,8 @@ Problem line: "OK4YL,ALENA,OK,"
 Problem line: "PP5VX,,SC,"
 Problem line: "PP5WX,,SC,"
 Problem line: "SM4IVE,LARS,SM,"
-Problem line: "SM4X,LARS,SM,"
 Problem Canadian exchange: "VO1AW,BRIAN,NL,"
 Problem line: "VO1AW,BRIAN,NL,"
-Problem Canadian exchange: "VO1KGZ,GORD,NL,"
-Problem line: "VO1KGZ,GORD,NL,"
-Problem US exchange: "W2XB,DON,WNY,"
-Problem line: "W2XB,DON,WNY,"
-Problem line: "XQ3SK,WILLY,CL,"
 Longest name is "MICHELLE" with 8 characters
 Created K1USN_SST_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/K1USN_SST_db.txt
@@ -788,19 +766,6 @@ Created KYQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/KYQP_db.txt
 -------- labredx
 Downloaded LABRE-DX.txt, parsing...
-Ignored: "PP5AA,HQ,"
-Ignored: "PR7AA,HQ,"
-Ignored: "PT2AA,HQ,"
-Ignored: "PT2AAA,HQ,"
-Ignored: "PT7AA,HQ,"
-Ignored: "PT9AA,HQ,"
-Ignored: "PV8AA,HQ,"
-Ignored: "PW8AA,HQ,"
-Ignored: "PY1AA,HQ,"
-Ignored: "PY2AA,HQ,"
-Ignored: "PY3AA,HQ,"
-Ignored: "PY5AA,HQ,"
-Ignored: "PY9AA,HQ,"
 Ignored: "ZZ5D,SC,"
 Ignored: "ZZ5F,PR,"
 Created LABREDX_db.txt
@@ -834,7 +799,6 @@ Created MIQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MIQP_db.txt
 -------- mnqp
 Downloaded QSOP_MN.txt, parsing...
-Problem !!Order!! line: "!!Order!!,Call,Exch1,UserText"
 Irregular exchange NB for VE call VE1AFY
 Irregular exchange NF for VE call VO1TX
 Longest name is "" with 0 characters
@@ -860,7 +824,7 @@ Irregular exchange NB for VE call VE1AFY
 Created MTQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/MTQP_db.txt
 -------- names
--------- naqp
+-------- naqpcw
 Downloaded NAQP-CW.txt, parsing...
 Ignored: "KH0W,TOM,DX,"
 Irregular exchange NB for VE call VE1AFY
@@ -868,18 +832,51 @@ Ignored: "VO1CH,,NF,"
 Ignored: "VO1GO,GREG,NF,"
 Ignored: "VO1KVT,KEN,NF,"
 Ignored: "VO1TX,CHRIS,NF,"
+Ignored: "VO1VOC,,NF,"
 Ignored: "VO2VC,,LB,"
 Ignored: "WP3X,MAX,DX,"
 Longest name is "GIANFRANCO" with 10 characters
-Created NAQP_db.txt
-Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_db.txt
+Created NAQP_CW_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_CW_db.txt
+-------- naqprtty
+Downloaded NAQP-RTTY.txt, parsing...
+Ignored: "KH0W,TOM,DX,"
+Irregular exchange NB for VE call VE1AFY
+Ignored: "VO1CH,CHRIS,NF,"
+Ignored: "VO1GO,GREG,NF,"
+Ignored: "VO1KVT,KEN,NF,"
+Ignored: "VO1TX,CHRIS,NF,"
+Ignored: "VO1VOC,,NF,"
+Ignored: "VO2VC,,LB,"
+Ignored: "WP3X,MAX,DX,"
+Longest name is "GIANFRANCO" with 10 characters
+Created NAQP_RTTY_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_RTTY_db.txt
+-------- naqpssb
+Downloaded NAQP-SSB.txt, parsing...
+Ignored: "KH0W,TOM,DX,"
+Irregular exchange NB for VE call VE1AFY
+Irregular exchange NB for VE call VE1RF
+Ignored: "VO1CH,,NF,"
+Ignored: "VO1KVT,KEN,NF,"
+Ignored: "VO1TX,CHRIS,NF,"
+Ignored: "VO1VOC,,NF,"
+Ignored: "VO2VC,,LB,"
+Longest name is "CHRISTIAN" with 9 characters
+Created NAQP_SSB_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NAQP_SSB_db.txt
 -------- naval
 -------- ncqp
-curl: (28) Resolving timed out after 5000 milliseconds
-ERROR! Download of QSOP_NC.txt failed. Aborting.
+Downloaded QSOP_NC.txt, parsing...
+Ignored: "VA3HES,ONS,"
+Irregular exchange NB for VE call VE1AFY
+Ignored: "VE1RPX,MAR,"
+Ignored: "VE3JSO,ONS,"
+Ignored: "VO1TH,NF,"
+Created NCQP_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NCQP_db.txt
 -------- ndqp
 Downloaded QSOP_ND.txt, parsing...
-Ignored: "K3EU,DC,"
 Ignored: "VO1TH,NF,"
 Created NDQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NDQP_db.txt
@@ -901,7 +898,6 @@ Created NJQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NJQP_db.txt
 -------- nmqp
 Downloaded QSOP_NM.txt, parsing...
-Ignored: "AC5XK,DC,"
 Ignored: "W3ZJ,DC,"
 Created NMQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NMQP_db.txt
@@ -926,13 +922,14 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NVQP
 Downloaded QSOP_NY.txt, parsing...
 Irregular exchange NB for VE call VE1AFY
 Irregular exchange NS for VE call VE9EZ
+Ignored: "VO1AW,NF,"
 Ignored: "VO1COD,NF,"
 Ignored: "VO1TX,NF,"
+Ignored: "VO2AC,LB,"
 Created NYQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/NYQP_db.txt
 -------- ohqp
 Downloaded QSOP_OH.txt, parsing...
-Irregular exchange YT for VE call VY1CO
 Created OHQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/OHQP_db.txt
 -------- ok-om
@@ -953,6 +950,7 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/ONQP
 -------- paqp
 Downloaded QSOP_PA.txt, parsing...
 Ignored: "AB3JF,WPA,"
+Ignored: "AB3LF,WPA,"
 Ignored: "AI3KS,EPA,"
 Ignored: "K3CR,WPA,"
 Ignored: "K3DEP,EPA,"
@@ -960,7 +958,6 @@ Ignored: "K3DN,EPA,"
 Ignored: "K3JZD,WPA,"
 Ignored: "K3LA,WPA,"
 Ignored: "K3SAE,EPA,"
-Ignored: "K3SU,EPA,"
 Ignored: "K3WM,WPA,"
 Ignored: "KA3D,EPA,"
 Ignored: "KB3MMM,EPA,"
@@ -969,7 +966,6 @@ Ignored: "KB3RN,EPA,"
 Ignored: "KC3PIB,WPA,"
 Ignored: "KO3T,EPA,"
 Ignored: "KR3L,WPA,"
-Ignored: "KT3RR,EPA,"
 Ignored: "N3BAS,WPA,"
 Ignored: "N3GSD,EPA,"
 Ignored: "N3RF,WPA,"
@@ -992,6 +988,9 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/PAQP
 -------- pcc
 -------- podxs
 -------- polar-radioman
+-------- portugalday
+curl: (28) Resolving timed out after 5001 milliseconds
+ERROR! Download of PORTUGAL-DAY.txt failed. Aborting.
 -------- qcqp
 Downloaded QSOP_QC.txt, parsing...
 Irregular exchange NS for VE call VE9EZ
@@ -1006,24 +1005,20 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/QCQP
 -------- rcwc
 -------- rdac
 Downloaded RDAC.txt, parsing...
-Ignored: "4U1A,0302,"
 Ignored: "D0AG,0000,"
-Ignored: "DM3PKK,0237,"
-Ignored: "EU1DC,0290,"
 Ignored: "HA8TP,0187,"
-Ignored: "LA8HGA,112,"
 Ignored: "LZ1HM,0028,"
-Ignored: "OK1VK,105,"
 Ignored: "OY1CT,0023,"
-Ignored: "RG6G,ST,"
 Ignored: "RM9A,CB,"
 Ignored: "RU1A,LO,"
 Ignored: "UR7MZ,0000,"
-Ignored: "YO4AAC,0107,"
 Created RDAC_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/RDAC_db.txt
 -------- rdxc
 -------- ref
+Downloaded REF-CW.txt, parsing...
+Created REF_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/REF_db.txt
 -------- rybnickie
 -------- sacw
 -------- scqp
@@ -1045,7 +1040,7 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/SDQP
 -------- ssa-mt
 -------- stewperry
 Downloaded STEW-PERRY.txt, parsing...
-File contained 4012 calls
+File contained 4028 calls
 Created StewPerry_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/StewPerry_db.txt
 -------- tenten
@@ -1093,7 +1088,6 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/VTQP
 -------- wapc
 -------- waqp
 Downloaded QSOP_WA.txt, parsing...
-Ignored: "VA1RST,MAR,"
 Ignored: "VE1BB,MAR,"
 Irregular exchange MB for VE call VE5RJK
 Irregular exchange NS for VE call VE9EZ
@@ -1106,15 +1100,7 @@ Created WAQP_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WAQP_db.txt
 -------- wfd
 Downloaded WFD.txt, parsing...
-Ignored: "KE5DXX,1H,TX,"
-Ignored: "N5VI,1H,TX,"
-Ignored: "VA1RST,,MAR,"
-Ignored: "VA1XH,,MAR,"
-Ignored: "VA3HDL,,GTA,"
-Ignored: "VE1BSD,,MAR,"
-Ignored: "VE1RSM,,MAR,"
-Ignored: "VE3NRT,,GTA,"
-Ignored: "VY1KX,,NT,"
+!!Order!!,Call,Exch1,Sect,UserText --> call=1 sect=3 class=2
 Created WFD_db.txt
 Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WFD_db.txt
 -------- wiqp
@@ -1134,6 +1120,12 @@ Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/WVQP
 -------- wwff
 -------- wwpmc
 -------- xertty
+Downloaded XE-RTTY.txt, parsing...
+Ignored: "4A5E,0149,"
+Ignored: "6D5C,JAL,"
+Ignored: "XE2N,NLE,"
+Created XE_RTTY_db.txt
+Updated /mnt/c/Users/eekebjo/source/repos/k1xm/DXLog.net/DXLog.net/Database/XE_RTTY_db.txt
 -------- yodx
 -------- yota
 -------- yu

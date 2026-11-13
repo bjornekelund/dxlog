@@ -1,6 +1,6 @@
 # Atlantic Canada QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-09
+# Last updated 2026-11-13
 AA0AW=MN
 AA0FO=KS
 AA3R=NJ
@@ -8,6 +8,7 @@ AA5JF=GA
 AA9WS=WI
 AB1XQ=VT
 AB2FN=NY
+AC3MR=DE
 AE0MO=KS
 AF5J=TX
 AI5G=MO
