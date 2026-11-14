@@ -3,9 +3,15 @@ BEGIN {
   FS = ",";
 }
 {
-  if ($1 ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $2 ~ /^[A-Z]{2}[0-9]{2}$/)
+if ($1 ~ /!!Order!!/)
   {
-    printf("%s=%s\n", $1, $2);
+    call = FindColumn("Call");
+    exch = FindColumn("Exch1");
+  # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
+  }
+  else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^[A-Z]{2}[0-9]{2}$/)
+  {
+    printf("%s=%s\n", $call, $exch);
   }
   else if ($0 !~ /^(!|#|$)/)
   {

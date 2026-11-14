@@ -17,11 +17,11 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else if (NotPredictableVE13($call, $state))
     {
-      printf("%s=%s\n", $call, $3);
+      printf("%s=%s\n", $call, $state);
       lines[$call] = $0;
     }
   }

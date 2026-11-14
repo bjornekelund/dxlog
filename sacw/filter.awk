@@ -11,7 +11,7 @@ BEGIN {
   }
   else if (IsValidCall($call) && $exch ~ /^([1-9][0-9]?|M|QRP|YL)$/)
   {
-    printf("%s=%s\n", $1, $exch);
+    printf("%s=%s\n", $call, $exch);
   }
   else if ($0 !~ /^(!|#|$)/)
   {
