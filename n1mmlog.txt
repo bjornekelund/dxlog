@@ -20,8 +20,6 @@ No file matching 'ALLASIACW' found
 Most recent file: RRCW.txt
 RRCW.txt is already downloaded
 -------- arrlrtty
-Most recent file: ARRLRTTY_2027-002.txt
-ARRLRTTY_2027-002.txt is already downloaded
 -------- arrlscr
 Most recent file: ARRL-SCR-003.txt
 ARRL-SCR-003.txt is already downloaded
@@ -32,8 +30,6 @@ SSCW.txt is already downloaded
 Most recent file: SSSSB_new.txt
 SSSSB_new.txt is already downloaded
 -------- arrlvhf
-Most recent file: ARRLVHFSEP.txt
-ARRLVHFSEP.txt is already downloaded
 -------- aschamp
 -------- azqp
 -------- bandebasse
@@ -43,8 +39,6 @@ No file matching 'BB_ITALIA' found
 -------- bcqp
 -------- bekasimerdeka
 -------- caqp
-Most recent file: QSOP_CA-2026-003.txt
-QSOP_CA-2026-003.txt is already downloaded
 -------- cbcbcontest
 -------- cbnr
 -------- cisadane
@@ -55,36 +49,24 @@ RSGBBERU_2026-014.txt is already downloaded
 -------- coqp
 -------- cpqp
 -------- cq160
-Most recent file: CQ160CW-005.txt
-CQ160CW-005.txt is already downloaded
 -------- cqmm
 -------- cqvojvodina
 -------- cqww
 -------- cqwwr
 -------- cqwwvhf
 -------- croatiandx
-Most recent file: 9ADX_2025.txt
-9ADX_2025.txt is already downloaded
 -------- cvadx
 -------- cwt
 -------- dig
 -------- dok
-Most recent file: WAG.txt
-WAG.txt is already downloaded
 -------- ea
-Most recent file: KINGEACW_2026-002.txt
-KINGEACW_2026-002.txt is already downloaded
 -------- eacme
 No file matching 'CME' found
 -------- eudxc
-Most recent file: EUDXC-004.txt
-EUDXC-004.txt is already downloaded
 -------- euhfc
 -------- eupsk
 -------- fistsspr
 -------- flqp
-Most recent file: QSOP_FL_2026-009.txt
-QSOP_FL_2026-009.txt is already downloaded
 -------- foc
 -------- frphf
 No file matching 'FRPHF' found
@@ -154,10 +136,7 @@ Names_VE2FK-086.txt is already downloaded
 -------- okqp
 -------- onqp
 -------- pabeker
-No file matching 'PABEKERCW' found
 -------- pacc
-Most recent file: PACC-2026-006.txt
-PACC-2026-006.txt is already downloaded
 -------- paqp
 -------- pcc
 No file matching 'PCC_NM' found
@@ -180,8 +159,6 @@ RCCCUP_2025.txt is already downloaded
 -------- rcwc
 -------- rdac
 -------- rdxc
-Most recent file: RussianDX-2026.txt
-RussianDX-2026.txt is already downloaded
 -------- ref
 -------- rybnickie
 -------- sacw
@@ -209,8 +186,6 @@ Most recent file: TRCDX_new.txt
 TRCDX_new.txt is already downloaded
 -------- txqp
 -------- ua1dz
-Most recent file: DZCUP_new.txt
-DZCUP_new.txt is already downloaded
 -------- ua2qp
 Most recent file: UA2QP_2026.txt
 UA2QP_2026.txt is already downloaded
@@ -225,8 +200,6 @@ Most recent file: UNDXC_2026.txt
 UNDXC_2026.txt is already downloaded
 -------- uqrqc
 -------- urcdxrtty
-Most recent file: URC-DX-RY_2027.txt
-URC-DX-RY_2027.txt is already downloaded
 -------- urdxc
 -------- vaqp
 -------- vhfreg1
