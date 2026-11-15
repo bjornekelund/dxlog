@@ -11,7 +11,15 @@ if ($1 ~ /!!Order!!/)
   }
   else if ($call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && $exch ~ /^[A-Z]{2}[0-9]{2}$/)
   {
-    printf("%s=%s\n", $call, $exch);
+    if (lines[$call] != "")
+    {
+    #  printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else
+    {
+      lines[$call] = $0;
+      printf("%s=%s\n", $call, $exch);
+    }
   }
   else if ($0 !~ /^(!|#|$)/)
   {

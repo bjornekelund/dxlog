@@ -1,6 +1,6 @@
 # IOTA Contest prefill database
-# Based on data collected by Claude VE2FK
-# Last updated 2026-10-19
+# Based on data from https://supercheckhistory.com/
+# Last updated 2026-11-15
 2E0CVN=EU005
 2E0EVM=EU005
 2E0GKW=EU005

@@ -10,7 +10,7 @@ if ($1 ~ /!!Order!!/)
     exch = FindColumn("Exch1");
   # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else
+  else if (IsValidCall($call) && $exch ~ /^(AD|AL|AM|AN|AO|AR|BA|BO|BR|BU|CB|CK|CN|CU|DA|DO|EA|FJ|GA|HA|HE|HK|HM|IN|IR|IV|KA|KB|KC|KE|KG|KI|KK|KL|KM|KN|KO|KR|KS|KT|KU|LO|LP|LU|MA|MD|MG|MO|MR|MU|NN|NO|NS|NV|OB|OM|OR|PE|PK|PM|PS|RA|RK|RO|SA|SE|SL|SM|SO|SP|SR|ST|SV|TA|TB|TL|TN|TO|TU|TV|UD|UL|VG|VL|VO|VR|YA|YN|YR|ZK|ZP)$/)
   {
     oblast ="";
     if ($call ~ /^RI1AN/) oblast="AN";
@@ -122,5 +122,9 @@ if ($1 ~ /!!Order!!/)
       #   printf("%s: file: %s rule: %s\n", $call, $exch, oblast) > "/dev/stderr";
       printf("%s=%s\n", $call, $exch);
     }
+  }
+  else if ($0 !~ /^(!|#|$)/)
+  {
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
 }

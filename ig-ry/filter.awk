@@ -11,9 +11,15 @@ BEGIN {
   }
   else if (IsValidCall($call) && $exch ~ /^(19|20)[0-9]{2}$/)
   {
-    if (year[$call] != "")
-      printf("Replaced %s with %s for %s\n", year[$call], $2, $call) > "/dev/stderr";
-    year[$call] = $exch;
+    if (years[$call] != "" && years[$call] != $exch)
+    {
+      # printf("%s reoccurred with %s instead of %s\n", $call, $exch, years[$call]) > "/dev/stderr";
+    }
+    else
+    {
+      calls[$call] = $call;
+      years[$call] = $exch;
+    }
   }
   else if ($0 !~ /^(!|#|$)/)
   {
@@ -21,8 +27,8 @@ BEGIN {
   }
 }
 END {
-  for (call in year)
+  for (c in calls)
   {
-    printf("%s=%s\n", call, year[call]);
+    printf("%s=%s\n", c, years[c]);
   }
 }

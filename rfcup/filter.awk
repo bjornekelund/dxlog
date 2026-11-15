@@ -1,0 +1,28 @@
+BEGIN {
+  printf("#00 Russian Federation Cup prefill database\n");
+  FS = ",";
+}
+{
+if ($1 ~ /!!Order!!/)
+  {
+    call = FindColumn("Call");
+    exch = FindColumn("Exch1|Loc1");
+  # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
+  }
+  else if (IsValidCall($call) && $exch ~ /[A-R]{2}[0-9]{2}$/)
+  {
+    if (lines[$call] != "")
+    {
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else
+    {
+      lines[$call] = $0;
+      printf("%s=%s\n", $call, $exch);
+    }
+  }
+  else if ($0 !~ /^(!|#|$)/)
+  {
+    printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
+  }
+}
