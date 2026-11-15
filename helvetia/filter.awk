@@ -11,7 +11,15 @@ BEGIN {
   }
   else if (IsValidCall($call) && $canton ~ /^(AG|AI|AR|BE|BL|BS|FR|GE|GL|GR|JU|LU|NE|NW|OW|SG|SH|SO|SZ|TG|TI|UR|VD|VS|ZG|ZH)$/)
   {
-    printf("%s=%s\n", $call, $canton);
+    if (lines[$call] != "")
+    {
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else
+    {
+      printf("%s=%s\n", $call, $canton);
+      lines[$call] = $0;
+    }
   }
   else if ($0 !~ /^(!|#|$)/)
   {

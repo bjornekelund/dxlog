@@ -1,5 +1,6 @@
 BEGIN {
   printf("#00 Farroupilha Contest prefill database\n");
+  printf("#04 Contains only exhanges that differ from by DXLog's rule based prefill\n");
   FS = ",";
   call = 1;
   exch = 2;
@@ -17,7 +18,7 @@ BEGIN {
   {
     if (line[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     else
     {

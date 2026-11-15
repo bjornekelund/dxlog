@@ -15,12 +15,11 @@ BEGIN {
   else
   {
     name = toupper($namc);
-    if ( \
-      IsValidCall($call) && name ~ /^[A-Z]+$/ && length(name) <= limit)
+    if (IsValidCall($call) && name ~ /^[A-Z]+$/ && length(name) <= limit)
     {
-      if (calls[$call] != "")
+      if (line[$call] != "")
       {
-        printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+        # printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
       }
       else
       {

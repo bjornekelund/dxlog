@@ -223,9 +223,13 @@ BEGIN {
   else if ($0 !~ /^(#|!|$)/ && !(name == "" && id == "")) 
   {
     if (lines[call] != "")
-      printf("Callsign reoccurrence: \"%s\"\n", $0) > "/dev/stderr";
+    {
+      # printf("Callsign reoccurrence: \"%s\"\n", $0) > "/dev/stderr";
+    }
     else
+    {
       printf("Ignored2: \"%s\"\n", $0) > "/dev/stderr";
+    }
   }
 }
 

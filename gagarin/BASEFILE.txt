@@ -1,0 +1,45 @@
+!!Order!!,Call,Sect,UserText
+#
+# GCUP
+# Info file, log what you copy.
+# Last Edit,2026-04-02
+# info from UG3G
+# Send info or corrrection direct to ve2fk@arrl.net
+#
+
+UA1OLM,KP,Plesetsk Cosmodrome
+RT2C,CU,Mission Control Center
+RT3F,CP,Cosmonaut Training Center
+R5AG,AL,Aerospace R&D Center ROSTO
+RK3LWA,RG,Yuri Gagarin's place of birth
+UA5L,YG,Yuri Gagarin's place of birth
+RT4D,MP,Landing Site of Yuri Gagarin
+RG2X,RK,Motherland of Russian cosmonautics
+RC3X,LA,Aerospace laboratory
+RW0A,SA,Aerospace Academy
+RN0JT,KV,Cosmodrome Vostochny
+R2VA,PC,Research Institute of Parachute Engineering
+U4MIR,CV,Cosmonaut Alexander Volkov
+R8TT,AU,Orenburg Flight School
+RS0ISS,SS,International Space Station
+R3HP,CG,Cosmonaut Alexander Grebenkin
+UA4WW,VZ,Votkinskiy zavod
+RD4A,TB,FNPC Titan-Barrikady
+R9YU,AT,FNPC Altai
+RD0A,RV,AO Reshetnev
+R8IZ,PL,AO Polyus
+R9MM,SP,AO "SPS"
+UA8A,MK,AO NPP "Medicon"
+RT4F,FI,"NIIFI"
+RO3M,YR,PAO "Yaroslavskiy radiozavod"
+RA9A,ZM,AO "ZlatMash"
+UA6M,IR,AO PKP "IRIS"
+RK3PWA,BZ,AO "Bazalt"
+RD1T,RA,AO NIIPT "Rasr"
+RN4K,PG,AO RKC "Progress"
+RF9C,AM,AO NPO Avtomatiki
+RK5K,HA,AO "KB Khimavtomatiki"
+UA2FZ,FA,AO OKB "Fakel"
+R9FL,PM,AO "Proton-Permskiye Motory"
+UA9W,SZ,AO "Salavatskiy khimzavod"
+RW1A,PR,NII "Komandnyh Priborov"
