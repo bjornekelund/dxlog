@@ -1,6 +1,6 @@
 !!Order!!, Call, Name, Exch1, UserText,
-# Last edit,2026-05-20
-# Last number listed 313 YT2FW
+# Last edit,2026-10-13
+# Last number listed 318 PA0KVA
 # NTC_QP
 # Original file from Club list via VE2FK
 # Send any info, corrections direct to pa3hen@gmail.com	
@@ -17,7 +17,7 @@ AA2YK,Ernst,255,(NY)
 AE1N,Lane,171,(NH)
 AL3T,Veit,286,
 CT7AUP,David,118,
-CT7BTL,Sint,40, 
+CT7BTL,Enno,40, 
 DC8ED,Karl,77,
 DF0VK,Bert,235,
 DF1XC,Doc,279,
@@ -194,6 +194,7 @@ ON7DQ,Luc,98,
 ON7XN,Hans,NM,
 ON8VA,Chris,26,
 ON8WR,Ward,152,
+ON9LM,Maarten,313,
 ON9TT,Marc,196,
 OS4U,David,185,
 OT4V,Danny,144,(ON4VT)
@@ -211,6 +212,7 @@ PA0INA,Frans,183,
 PA0JSY,Jan,203,
 PA0KBN,Klaas,221,
 PA0KGB,Martin,141,
+PA0KVA,Koen,318,
 PA0LCE,Louis,139,
 PA0M,Thieu,110,
 PA0O,Jaap,270,
@@ -259,6 +261,7 @@ PA3ATX,Jan,120,
 PA3BYW,Durk,32,
 PA3CFI,Jan,297,
 PA3CNI,Willem,54,
+PA3CW,Dick,316,
 PA3CWG,Ron,192,
 PA3CWQ,Harry,20,
 PA3CXB,Jan,160,
@@ -296,7 +299,9 @@ PA5ABW,AB,52,(Albert)
 PA5FN,Hans,195,
 PA5JW,Jan,142,
 PA5KT,Henk,56,
+PA5MI,Mike,204,
 PA5OES,Andre,78,
+PA5PEX,Pim,315,
 PA5Z,Kees,93,
 PA6F,Andre,78,
 PA6FBE,Peter,243,(PA0PJE)
@@ -327,7 +332,6 @@ PD0WLM,William,25,
 PD1RDY,Ruud,224,
 PD4EMI,Emiel,285,
 PD4LR,Lub,290,
-PD5MI,Mike,204,
 PD5N,Eric,179,
 PD7FCC,Frans,218,
 PD7Q,Jacob,178,
@@ -347,6 +351,7 @@ PE2JB,Jaco,188,
 PE4BAS,Bas,284,
 PE4KH,Koos,165,
 PE6Q,Ad,121,
+PF2X,Ani,317,
 PF40N,Ferry,169,(PE1LDS)
 PF44F,Enno,40, 
 PF5X,Enno,40,
@@ -395,7 +400,7 @@ WG5ZV,Chris,213,(G5ZV)
 WZ4M,Tom,149,
 W6WYN,Reinier,205,(PA3AAA)
 YL3JD,Hanz,11,
-UT2FW,Dule,313,
+YT2FW,Dule,313,
 YO6EX,Sico,94,
 YO7TBA,Balint,NM,
 YO8DOH,Stefan,60,

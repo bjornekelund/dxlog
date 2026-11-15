@@ -133,7 +133,7 @@ function NotPredictableVE13(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
+      printf("Irregular exchange %s for Canadian call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -166,7 +166,7 @@ function NotPredictableVE11(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
+      printf("Irregular exchange %s for Canadian call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -200,7 +200,7 @@ function NotPredictableVE14(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
+      printf("Irregular exchange %s for Canadian call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -234,7 +234,7 @@ function NotPredictableQCQP(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
+      printf("Irregular exchange %s for Canadian call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -268,7 +268,7 @@ function NotPredictableARRL10(call, state)
   {
     if (state ~ /^[A-Z]{2}/)
     {
-      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
+      printf("Irregular exchange %s for Canadian call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -301,7 +301,7 @@ function NotPredictableRAC(call, state)
   {
     if (state ~ /^[A-Z]{2}/ && state !~ /^(GH|ON[ENS])$/)
     {
-      printf("Irregular exchange %s for VE call %s\n", state, call) > "/dev/stderr";
+      printf("Irregular exchange %s for Canadian call %s\n", state, call) > "/dev/stderr";
     }
     return 1;
   }
@@ -354,7 +354,7 @@ function NotPredictableWAPC(call, state)
     (call ~ /^XX9/ && state != "MO") ||\
     (call ~ /^B[M-X]/ && state != "TW"))
   {
-    printf("Irregular Chinese exchange %s for call %s\n", state, call) > "/dev/stderr";
+    printf("Irregular exchange %s for Chinese for call %s\n", state, call) > "/dev/stderr";
     return 1;
   }
   else

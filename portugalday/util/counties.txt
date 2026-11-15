@@ -1,0 +1,48 @@
+AH Angra do Heroismo
+AV Aveiro
+BG Bragança
+BJ Beja
+BR Braga
+CA Calheta
+CAL Calheta
+CB Castelo Branco
+CMB Camara de Lobos
+CO Coimbra
+CV Corvo
+EV Évora
+FC Vila France do Campo
+FR Faro
+FU Funchal
+GD Guarda
+HT Horta
+LG Lagoa
+LR Leiria
+LX Lisboa
+LJF Lajes das Flores
+LJP Lajes do Pico
+MC Machico
+MD Madalena
+ND Nordeste
+PD Ponta Delgada
+PG Portalegre
+PM Porto Moniz
+PO Povoação
+PS Ponta do Sol
+PT Porto
+PTS Porto Santo
+PV Vila Praia da Vitória
+RB Ribeira Brava
+RG Ribeira Grande
+SCF Sta. Cruz Das Flores
+SCG Sta. Cruz da Graciosa
+SCM Santa Cruz
+SR Santarem
+SRP São Roque do Pico
+ST Setubal
+STM Santana
+SV  São Vicente
+VC Viana do Castelo
+VL Velas
+VP Vila do Porto
+VR Vila Real
+VS Viseu

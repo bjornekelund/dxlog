@@ -21,7 +21,7 @@ BEGIN {
     {
       if (lines[$call] != "")
       {
-        printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+        # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
       }
       else
       {
@@ -29,7 +29,7 @@ BEGIN {
         lines[$call] = $0;
       }
     }
-    else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state != "")
+    else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state !~ /^(EPA|WPA|)$/)
     {
       printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
     }

@@ -64,7 +64,7 @@ BEGIN {
 
     if (line[$1] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", line[$call_column], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", line[$call_column], $0) > "/dev/stderr";
       duplicate = 1;
     }
     else if (!valid_name(operator_name))

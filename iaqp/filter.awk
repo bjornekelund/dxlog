@@ -7,7 +7,7 @@ BEGIN {
   {
     call = FindColumn("Call");
     state = FindColumn("State|Exch1");
-	  printf("\"%s\" --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
+	  # printf("\"%s\" --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
   else if (\
     (IsUScall($call) && \
@@ -17,7 +17,7 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else if (NotPredictableVE13($call, $state))
     {

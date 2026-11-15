@@ -12,22 +12,15 @@ BEGIN {
     name = FindColumn("Name");
     # printf("%s --> call=%d exch=%d, name=%d\n", $0, call, exch, name) > "/dev/stderr";
   }
-  else if (IsValidCall($call) && $name ~ /^(|[a-zA-Z]+$)/ && $exch ~ /^([0-9]+|NM|)$/)
+  else if (IsValidCall($call) && $name ~ /^(|[a-zA-Z]+$)/ && $exch ~ /^([0-9]+|NM|)$/ && !($name == "" && $exch ~ /^(NM|)$/))
   {
-    if (lines[$call] != "")
-    {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
-    }
-    else
-    {
-      number = $exch;
-      if ($exch == "") $exch = "NM";
-      sub(/^0+/, "", number);
-      printf("%s=%s;%s\n", $call, toupper($name), number);
-      lines[$call] = $0;
-      longest = length($name) > length(longest) ? toupper($name) : longest;
-      highest = int(number) > highest ? int(number) : highest;
-    }
+    calls[$call] = $call;
+    if (names[$call] == "") names[$call] = toupper($name);
+    number = $exch;
+    sub(/^0+/, "", number);
+    if (exchs[$call] == "") exchs[$call] = number;
+    longest = length($name) > length(longest) ? toupper($name) : longest;
+    highest = int(number) > highest ? int(number) : highest;
   }
   else if ($0 !~ /^(!|#|$)/ && exch != "")
   {
@@ -35,6 +28,10 @@ BEGIN {
   }
 }
 END {
+  for (c in calls)
+  {
+      printf("%s=%s;%s\n", c, names[c], exchs[c] == "" ? "NM" : exchs[c]);
+  }
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
   printf("#04 Longest name is \"%s\" with %d characters\n", longest, length(longest));
   printf("Contains members up to #%d\n", highest) > "/dev/stderr";

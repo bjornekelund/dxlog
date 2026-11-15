@@ -1,8 +1,6 @@
 BEGIN {
   printf("#00 SP DX Contest prefill database\n");
   FS = ",";
-  exch = 2;
-  call = 1;
 }
 {
   if ($call ~ /!!Order!!/)
@@ -15,7 +13,7 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {

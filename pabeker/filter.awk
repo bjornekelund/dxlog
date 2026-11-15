@@ -11,7 +11,15 @@ BEGIN {
   }
   else if (IsValidCall($call) && $exch ~ /^[0-5][0-9]$/)
   {
-    printf("%s=%s\n", $call, $exch);
+    if (lines[$call] != "")
+    {
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+    }
+    else
+    {
+      printf("%s=%s\n", $call, $exch);
+      lines[$call] = $0;
+    }
   }
   else if ($0 !~ /^(!|#|$)/)
   {

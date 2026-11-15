@@ -11,9 +11,9 @@ BEGIN {
   }
   else if ($0 !~ /^(#|!|$)/) 
   {
-    if (line[$call] != "")
+    if (lines[$call] != "")
     {
-      printf("Duplicate entry: \"%s\"\n", $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
@@ -36,7 +36,7 @@ BEGIN {
       {
         printf("Problem: \"%s\"\n", $0) > "/dev/stderr";
       }
-      line[$call] = $call;
+      lines[$call] = $0;
     }
   }
 }

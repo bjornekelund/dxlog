@@ -17,7 +17,7 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else if (NotPredictableVE13($call, $state))
     {
@@ -25,7 +25,7 @@ BEGIN {
       lines[$call] = $0;
     }
   }
-  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state != "")
+  else if ($0 !~ /^(!|#|$)/ && IsNAcall($call) && $state !~ /^(NJ|)$/)
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }

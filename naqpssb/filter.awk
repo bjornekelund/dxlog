@@ -11,24 +11,26 @@ BEGIN {
     name = FindColumn("Name");
   # printf\("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
   }
-  else if (lines[$call] != "")
-  {
-    # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
-  }
   else if ( \
     (IsUScall($call) && $state ~ /^(|AL|AK|AZ|AR|CA|CO|CT|DC|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)$/) || \
     (IsVEcall($call) && $state ~ /^(|AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)$/))
   {
-    if (NotPredictableVE13($call, $state) || $name !~ /^$/)
+    if (NotPredictableVE13($call, $state))
     {
-      printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
+      calls[$call] = $call;
+      if (names[$call] == "") names[$call] = toupper($name);
+      if (states[$call] == "") states[$call] = $state;
+      # printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
       longest = length($name) > length(longest) ? $name : longest;
       lines[$call] = $0;
     }
   }
   else if (IsValidCall($call) && $state ~ /^(|8P|VI|PR|C6|KP[24]|HI|HP|HH|HR|ZF|V[23]|TI|XE|KG4|CM|FS|V4|J8|VP5|VP2[EMV])$/)
   {
-    printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
+    calls[$call] = $call;
+    if (names[$call] == "") names[$call] = toupper($name);
+    if (states[$call] == "") states[$call] = $state;
+    # printf("%s=%s;%s\n", toupper($call), toupper($name), toupper($state));
     longest = length($name) > length(longest) ? $name : longest;
     lines[$call] = $0;
   }
@@ -38,6 +40,10 @@ BEGIN {
   }
 }
 END {
+  for (c in calls)
+  {
+      printf("%s=%s;%s\n", c, names[c], states[c]);
+  }
   printf("Longest name is \"%s\" with %d characters\n", longest, length(longest)) > "/dev/stderr";
   printf("#04 Longest name is \"%s\" with %d characters\n", longest, length(longest));
 }

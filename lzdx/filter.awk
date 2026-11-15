@@ -15,7 +15,7 @@ BEGIN {
   {
     if (line[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     else
     {

@@ -64,12 +64,10 @@ else
   if [ -s $BASEFILE ]; then
     dos2unix -q $BASEFILE
     echo "Appended base file to $SCHFILE"
-    cat $BASEFILE $SCHFILE | gawk -f $HELPERS -f $AWKFILE > $TMPFILE2
+    cat $SCHFILE $BASEFILE | gawk -f $HELPERS -f $AWKFILE > $TMPFILE2
   else
     gawk -f $HELPERS -f $AWKFILE $SCHFILE > $TMPFILE2
   fi
-
-
   
   echo "#01 Based on data from https://supercheckhistory.com/" >> $TMPFILE2
   echo "#09 Last updated $(date +%F)" >> $TMPFILE2

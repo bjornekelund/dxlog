@@ -15,12 +15,12 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
-        printf("%s=%s\n", $call, $exch);
-        lines[$call] = $0;
+      printf("%s=%s\n", $call, $exch);
+      lines[$call] = $0;
     }
   }
   else if ($0 !~ /^(!|#|$)/)

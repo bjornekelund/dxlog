@@ -10,11 +10,11 @@ BEGIN {
   # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
   else if (IsValidCall($call) && \
-    $exch ~ /^(AH|AV|BG|BJ|BR|CA|CA|CB|CM|CO|CV|EV|FC|FR|FU|GD|HT|LG|LR|LX|LJ|LJ|MC|MD|ND|PD|PG|PM|PO|PS|PT|PT|PV|RB|RG|SC|SC|SC|SR|SR|ST|ST|SV|VC|VL|VP|VR|VS)$/)
+    $exch ~ /^(AH|AV|BG|BJ|BR|CA|CAL|CB|CMB|CO|CV|EV|FC|FR|FU|GD|HT|LG|LR|LX|LJF|LJP|MC|MD|ND|PD|PG|PM|PO|PS|PT|PTS|PV|RB|RG|SCF|SCG|SCM|SR|SRP|ST|STM|SV|VC|VL|VP|VR|VS)$/)
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else
     {
