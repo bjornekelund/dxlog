@@ -11,23 +11,22 @@ BEGIN {
   }
   else
   {
-    call = $1;
     grid = toupper($exch);
-    if (call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]+[A-Z]+(\/[A-Z0-9]+)?$/ && grid ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/)
+    if (IsValidCall($call) && grid ~ /^[A-R]{2}[0-9]{2}[A-X]{2}$/)
     {
-      if (calls[$1] != "")
+      if (calls[$call] != "")
       {
-        if (grids[$1] != grid)
+        if (grids[$call] != grid)
         {
-          printf("\"%s\" appears in older file as \"%s\" and is discarded\n", lines[$1], $0) > "/dev/stderr";
+          # printf("\"%s\" appears in older file as \"%s\" and is discarded\n", lines[$call], $0) > "/dev/stderr";
         }
       }
       else
       {
-        printf("%s=%s\n", $1, $exch);
-        calls[$1] = $1;
-        grids[$1] = $exch;
-        lines[$1] = $0;
+        printf("%s=%s\n", $call, $exch);
+        calls[$call] = $call;
+        grids[$call] = $exch;
+        lines[$call] = $0;
       }
     }
     else if ($0 !~ /^(!|#|$)/)

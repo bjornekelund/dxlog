@@ -1,4 +1,9 @@
+
 !!Order!!,Call,Name,Loc1,UserText,
+# 1-Send info, correction direct to ve2fk@arrl.net
+# 2-Last Edit,2024-08-24
+# 3-Thanks to Bjorn/SM7IUN
+# UKEI80_VHF 
 2E0CZE,,IO80HV
 2E0DSQ,,IO92JP
 2E0DYH,,JO01HT

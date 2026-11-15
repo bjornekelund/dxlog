@@ -1,13 +1,12 @@
 BEGIN {
   printf("#00 WAPC prefill database\n");
+  printf("#01 Contains only exceptions to rule based prefill\n");
   FS = ",";
-  call = 1;
-  state = 5;
 }
 {
   if ($1 ~ /!!Order!!/)
   {
-    call = FindCallColumn("Call");
+    call = FindColumn("Call");
     state = FindColumn("Exch1|State");
   # printf\("%s --> call=%d state=%d\n", $0, call, state) > "/dev/stderr";
   }
@@ -16,7 +15,7 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     else if (NotPredictableWAPC($call, $state))
     {

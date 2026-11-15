@@ -1,6 +1,6 @@
 BEGIN {
   printf("#00 Russian WW Digi Contest irregular exchanges prefill database\n");
-  printf("#01 Contains only prefill that differs from DXLog's rule based Oblast prefill\n");
+  printf("#01 Contains only exceptions to rule based prefill\n");
   FS = ",";
 }
 {

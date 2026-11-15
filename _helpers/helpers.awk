@@ -354,12 +354,12 @@ function NotPredictableWAPC(call, state)
     (call ~ /^XX9/ && state != "MO") ||\
     (call ~ /^B[M-X]/ && state != "TW"))
   {
-    printf("Irregular exchange %s for Chinese for call %s\n", state, call) > "/dev/stderr";
+    # printf("Irregular exchange %s for Chinese for call %s\n", state, call) > "/dev/stderr";
     return 1;
   }
   else
   {
-    #printf("Predictable Chinese call %s with exchange %s\n", call, state) > "/dev/stderr";
+    # printf("Predictable Chinese call %s with exchange %s\n", call, state) > "/dev/stderr";
     return 0;
   }   
 }

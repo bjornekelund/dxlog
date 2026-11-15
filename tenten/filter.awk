@@ -16,7 +16,7 @@ BEGIN {
   {
     if (calls[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", line[$call], $0) > "/dev/stderr";
     }
     line[$call] = $0;
     calls[$call] = $call;
@@ -62,6 +62,9 @@ END {
   printf("#04 Longest name is \"%s\" with %d characters)\n", longest, length(longest));
   for (c in calls)
   {
-    printf("%s=%s;%s;%s\n", calls[c], names[c], num[c], location[c]);
+    if (names[c] != "" || num[c] != "0" || location[c] != "")
+    {
+      printf("%s=%s;%s;%s\n", calls[c], names[c], num[c], location[c]);
+    }
   }
 }
