@@ -21,13 +21,12 @@ $exch !~ /^(MIL|AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RS|RO|R
 }
 
 lines[$call] != "" {
-  printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr"
+  # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr"
   next
 }
 
 {
-  guess = GuessBrazil($call)
-
-  if (guess != $exch)
+  if (GuessBrazil($call) != $exch)
     printf("%s=%s\n", $call, $exch)
+  lines[$call] = $0;
 }

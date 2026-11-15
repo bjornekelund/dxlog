@@ -1,5 +1,5 @@
 BEGIN {
-  printf("#00 Russian WW Digi Contest irregular exchanges prefill database\n");
+  printf("#00 Russian WW Digi Contest exchanges prefill database\n");
   printf("#01 Contains only exceptions to rule based prefill\n");
   FS = ",";
 }

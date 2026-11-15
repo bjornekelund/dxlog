@@ -1,6 +1,6 @@
 # Russian DX Contest irregular exchanges prefill database
 # Based on data from https://supercheckhistory.com/
-# Contains only prefill that differs from DXLog's rule based Oblast prefill
+# Contains only exceptions to rule based prefill
 # Last updated 2026-11-15
 R0/KE5JA=SL
 R0/N6TCZ=PK

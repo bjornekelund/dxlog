@@ -1,5 +1,5 @@
 #!/bin/bash
-REFFILE=REF-CQMMDX.txt
+REFFILE=BASEFILE.txt
 WEBFILE=CQMMWEB.txt
 OUTFILE=CQMM_db.txt
 DOWNLOAD=.downloaded

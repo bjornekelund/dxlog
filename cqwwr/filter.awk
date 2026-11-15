@@ -15,7 +15,7 @@ BEGIN {
   {
     if (lines[$call] != "")
     {
-      printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
+      # printf("\"%s\" reoccurs as \"%s\"\n", lines[$call], $0) > "/dev/stderr";
     }
     if ($state !~ /^(AB|BC|LB|MB|NB|NF|NS|NWT|NU|ON|PE|QC|SK|YT)$/)
     {
