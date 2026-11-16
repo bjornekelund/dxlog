@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOWNLOADS="agb agcw cqmm dig euhfc foc hsc mcdqp podxs rcwc fistsspr bccqp"
+DOWNLOADS="agb agcw agcwntcqp cqmm dig euhfc foc hsc mcdqp podxs rcwc fistsspr bccqp"
 
 for contest in $DOWNLOADS; do
   echo -------- $contest
