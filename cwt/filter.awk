@@ -16,10 +16,8 @@ function add_rule(regex, id)
 function known_exchange_exception(call, oid)
 {
   return \
-    (call == "VE1ASE" && oid == "NB") ||
-    (call == "VE1EJ"  && oid == "ON") ||
-    (call == "ZF2DO"  && oid == "TX") ||
-    (call == "ZF2LZ"  && oid == "MA");
+    (call ~ /^(VE1RF|VE1AFY|VE1BQC|VE1ASE|VE1EV|VE1TAY|VE1VON)$/ && oid == "NB") ||
+    (call == "VE1EJ"  && oid == "ON");
 }
 
 function valid_id(id)

@@ -7146,11 +7146,11 @@ ZB2FK,Ernie,3244,Gibraltar
 ZB2X,Jorma,144,Gibraltar
 ZD8W,Oli,,Ascension Island (W6NV)
 ZF2AA,Mike,1347,VE9AA
-ZF2DO,Dave,TX,Alpine TX
+ZF2DO,Dave,,
 ZF2DX,Kevin,1293,Cayman Isl. (N5DX)
 ZF2ET,Stan,272,(K5GO)
 ZF2IN,Tim,1942,(N6WIN)
-ZF2LZ,Martin,MA,Waban MA
+ZF2LZ,Martin,,
 ZF2MJ,Dan,2164,N6MJ
 ZF2NE,Joe,,Cayman Isl.
 ZF2RX,Bray,,(3158) (KC1KUG)
