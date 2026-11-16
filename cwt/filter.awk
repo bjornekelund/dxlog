@@ -32,11 +32,6 @@ function valid_name(name)
   return name ~ /^[A-Z]+$/;
 }
 
-function valid_call(call)
-{
-  return call ~ /^([A-Z1-9]+0?\/)?[1-9]?[A-Z]{1,2}[0-9]{1,2}[A-Z]{1,4}(\/[A-Z0-9]+)?$/;
-}
-
 BEGIN {
   FS = ",";
 
@@ -172,7 +167,7 @@ BEGIN {
   original_id = toupper($3);
   id = "";
 
-  if (valid_call(call) && (name != "" || original_id != "") && lines[call] == "") 
+  if (IsValidCall(call) && (name != "" || original_id != "") && lines[call] == "") 
   {
     id = predicted_id(call);
 
