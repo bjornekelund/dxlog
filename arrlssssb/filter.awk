@@ -9,6 +9,7 @@ BEGIN {
     call = FindColumn("Call");
     check = FindColumn("CK");
     sect = FindColumn("Sect");
+    prec = FindColumn("Exch1");
     # printf("%s --> call=%d check=%d sect=%d\n", $0, call, check, sect) > "/dev/stderr";
   }
   else 
@@ -26,7 +27,7 @@ BEGIN {
       else
       {
         calls[$call] = $call;
-        precs[$call] = "";
+        precs[$call] = $prec;
         checks[$call] = $check;
         sects[$call] = $sect;
       }
