@@ -1,6 +1,6 @@
 # Georgia QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1152,6 +1152,7 @@ K5ZG=CO
 K5ZZR=OK
 K6AA=CA
 K6ACW=CA
+K6AGW=CA
 K6AKO=CA
 K6BBQ=CA
 K6BEW=CA

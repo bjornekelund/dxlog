@@ -1,6 +1,6 @@
 # UA1DZ Memorial Cup prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -10569,7 +10569,7 @@ RN8A=MO05
 RN8BS=MO02
 RN8N=MO75
 RN9A=MO05
-RN9C=MO16
+RN9C=MO06
 RN9CM=MO06
 RN9N=MO64
 RN9RF=MO16

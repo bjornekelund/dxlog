@@ -1,6 +1,6 @@
 # Oklahoma QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -2676,6 +2676,7 @@ W2HDI=VT
 W2HZ=AZ
 W2IKN=NC
 W2JJ=NJ
+W2JJW=NJ
 W2JLD=NY
 W2JV=NY
 W2KV=NJ

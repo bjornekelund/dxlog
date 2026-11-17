@@ -1,6 +1,6 @@
 # OK-OM DX prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 OK1A=DPM
 OK1AAI=FHK
 OK1ABA=FHK

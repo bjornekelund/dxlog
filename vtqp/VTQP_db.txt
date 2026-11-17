@@ -1,6 +1,6 @@
 # Vermont QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -7237,6 +7237,7 @@ KQ4OXK=SC
 KQ4R=FL
 KQ4RH=VA
 KQ4RWN=AL
+KQ4TJB=AL
 KQ4Y=FL
 KQ4YC=OH
 KQ4YY=FL

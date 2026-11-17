@@ -10,8 +10,7 @@ BEGIN {
     exch = FindColumn("Exch1");
   # printf\("%s --> call=%d exch=%d\n", $0, call, exch) > "/dev/stderr";
   }
-  else if ( \
-    $call ~ /^(P[P-Y]|Z[VWXYZ])[1-9]{1}[A-Z]{1,3}(\/(P[TUVY][1-9]|[0-9]))?$/ && \
+  else if (IsValidCall($call) && \
     $exch ~ /^(HQ|AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)$/)
   {
     if (lines[$call] != "")
@@ -20,11 +19,7 @@ BEGIN {
     }
     else
     {
-      guess = GuessBrazil($call);
-
-      # printf("%s: $exch=\"%s\" guess=\"%s\"\n", $call, $exch, guess) > "/dev/stderr";
-
-      if (guess != $exch)
+      if (GuessBrazil($call) != $exch)
       {
         printf("%s=%s\n", $call, $exch);
       }

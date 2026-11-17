@@ -1,6 +1,6 @@
 # ARRL RTTY Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 4U1WB=DC
 AA0A=MN
 AA0AC=MN
@@ -1986,7 +1986,6 @@ K3AX=PA
 K3AYV=MD
 K3BFA=PA
 K3BHX=PA
-K3BLN=PA
 K3BQ=MD
 K3BU=NJ
 K3BZ=PA
@@ -12958,7 +12957,7 @@ W9KEY=WI
 W9KFB=IN
 W9KG=IN
 W9KHH=WI
-W9KKN=CA
+W9KKN=IL
 W9KM=IL
 W9KTP=IN
 W9KXQ=IL

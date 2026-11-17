@@ -1,7 +1,7 @@
 # Stew Perry TBDC data base
 # Based on data from https://supercheckhistory.com/
 # Also used for Makrothen, Maidenhead Mayhem, Russian 160m, Solar Eclipse QP, and CQ WW VHF contests
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FFT=JO01
@@ -9941,6 +9941,7 @@ ON7GB=JO21
 ON7IO=JO20
 ON7MU=JO10
 ON7MV=JO11
+ON7PQ=JO10
 ON7RB=JO11
 ON7SS=JO21
 ON7TW=JO20
@@ -12810,6 +12811,7 @@ SF6J=JO68
 SF6W=JO68
 SI3A=JP82
 SI5Y=JP80
+SJ6R=JO57
 SJ6W=JO57
 SJ9WL=JO69
 SK0AR=JO99

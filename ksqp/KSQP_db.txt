@@ -1,6 +1,6 @@
 # Kansas QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1232,6 +1232,7 @@ K6AA=CA
 K6AAI=CA
 K6ACW=CA
 K6AFW=MN
+K6AGW=CA
 K6AJA=CA
 K6AKO=CA
 K6AKW=WA
@@ -3352,6 +3353,7 @@ KQ4SPR=KY
 KQ4SWR=VA
 KQ4SXW=FL
 KQ4SZH=FL
+KQ4TJB=AL
 KQ4TPD=AL
 KQ4TSB=GA
 KQ4UAQ=AL

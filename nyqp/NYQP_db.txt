@@ -1,6 +1,6 @@
 # New York QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -12220,6 +12220,7 @@ W2JC=NJ
 W2JCT=OSW
 W2JEK=NJ
 W2JGR/0=MN
+W2JJW=NJ
 W2JLD=MON
 W2JLK=NJ
 W2JSF=NJ

@@ -1,6 +1,6 @@
 # ARI DX prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 4U9A=BR
 I0GIA=PG
 I0GOJ=RM
@@ -996,6 +996,7 @@ IZ7ECL=BA
 IZ7GLK=BA
 IZ7HHO=FG
 IZ7KVM=BA
+IZ7NLJ=BA
 IZ7NMD=BA
 IZ7PMQ=BA
 IZ7WWY=BA

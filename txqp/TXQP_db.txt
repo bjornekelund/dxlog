@@ -1,6 +1,6 @@
 # Texas QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AJ=MN
 AA0AO=MN
 AA0AW=MN
@@ -817,6 +817,7 @@ K5ZZR=OK
 K6AA=CA
 K6ACW=CA
 K6AFW=MN
+K6AGW=CA
 K6AJA=CA
 K6AR=CA
 K6BBQ=CA

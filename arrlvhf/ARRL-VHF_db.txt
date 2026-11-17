@@ -1,6 +1,6 @@
 # ARRL VHF Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 2E0BPP=IO83
 2E0CVN=JO01
 2E0FTT=IO94
@@ -5411,7 +5411,6 @@ K3AU=FM19
 K3AX=FN20
 K3AYV=FM19
 K3BFA=FN10
-K3BLN=FN20
 K3BPP=FM18
 K3BTK=FM19
 K3BU=FN20

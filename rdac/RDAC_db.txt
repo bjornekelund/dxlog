@@ -1,6 +1,6 @@
 # RDA Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 R0AA=KK08
 R0AAP=KK70
 R0AB=KK24
@@ -1801,6 +1801,7 @@ RW0AJ=KK08
 RW0BG=KK71
 RW0LCN=PK34
 RW0LD=PK13
+RW0LT=PK25
 RW0LZ=PK34
 RW0MM=PK05
 RW0UM=ZK18

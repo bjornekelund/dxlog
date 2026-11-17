@@ -1,6 +1,6 @@
 # Montana QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 4U1WB=DC
 AA0AI=IA
 AA0AJ=MN
@@ -1059,6 +1059,7 @@ K0EU=CO
 K0EWS=IA
 K0EX=CO
 K0EZE=CO
+K0FBV=IA
 K0FCL=KS
 K0FD=MO
 K0FG=MO
@@ -10246,6 +10247,7 @@ W1FNB=VT
 W1FNJ=NH
 W1FSH=MA
 W1FSR=MA
+W1FU=NY
 W1FV=MA
 W1FWS=ME
 W1FXX=MD
@@ -10490,6 +10492,7 @@ W2IUC=NJ
 W2JAT=NY
 W2JAZ=NJ
 W2JEK=NJ
+W2JJW=NJ
 W2JLD=NY
 W2JPD=NH
 W2JSJ=PA

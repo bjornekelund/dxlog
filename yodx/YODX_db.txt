@@ -1,6 +1,6 @@
 # Romanian HF DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 YO2AA=HD
 YO2ABO=AR
 YO2ADQ=TM
@@ -550,7 +550,6 @@ YO8TTU=SV
 YO8TYT=SV
 YO8VD=NT
 YO8VDC=NT
-YO8WHT=SV
 YO8WW=NT
 YO8XMD=IS
 YO8XMT=IS

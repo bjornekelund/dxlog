@@ -1,6 +1,6 @@
 # Japan International DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 7J1ABD/1=11
 7J1ABD=10
 7J1ADJ=47
@@ -7020,7 +7020,7 @@ JA7SUR/1=11
 JA7SUR=11
 JA7SYA/7=03
 JA7SYA=03
-JA7TJ=13
+JA7TJ=03
 JA7TKH/0=09
 JA7TKH/1=14
 JA7TNO/1=15
@@ -17799,6 +17799,7 @@ JL1PMH=10
 JL1PND/1=10
 JL1PND=10
 JL1PPS=10
+JL1PYB=14
 JL1PYI=13
 JL1QBJ=13
 JL1QBL/1=13

@@ -1,6 +1,6 @@
 # INQP, DEQP, 7QP, and NEWEQP joint prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 4U1WB=MD
 AA0AC=MN
 AA0AI=IA
@@ -5165,6 +5165,7 @@ KQ4SXW=FL
 KQ4SZH=FL
 KQ4TDQ=FL
 KQ4TIV=KY
+KQ4TJB=AL
 KQ4TPD=AL
 KQ4TTY=AL
 KQ4UFC=FL
@@ -8023,6 +8024,7 @@ W2JAT=NY
 W2JC=NJ
 W2JCT=NY
 W2JH=MANAN
+W2JJW=NJ
 W2JLD=NY
 W2JSJ=PA
 W2JV=NY

@@ -1,6 +1,6 @@
 # UKEI DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 2D0YLX=IM
 2E0AOZ=WF
 2E0AUU=CM
@@ -2051,6 +2051,7 @@ MM7RRD=DG
 MM8Z=KA
 MM9I=GS
 MM9SIR=GS
+MM9SQL=AB
 MM9YTN=KA
 MU0FAL=GY
 MU0GSY=GY

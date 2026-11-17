@@ -1,6 +1,6 @@
 # Washington QSO Party/Salmon Run prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AJ=MN
@@ -3322,6 +3322,7 @@ K6AAW=CA
 K6ACJ=CA
 K6ACV=CA
 K6ACW=CA
+K6AGW=CA
 K6AJA=CA
 K6ALF=CA
 K6AM=CA
@@ -8048,6 +8049,7 @@ KQ4SCT=VA
 KQ4SMI=TN
 KQ4SUZ=FL
 KQ4SWA=KY
+KQ4TJB=AL
 KQ4TSB=GA
 KQ4TTY=AL
 KQ4UHZ=NC

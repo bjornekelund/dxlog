@@ -1,6 +1,6 @@
 # Pennsylvania QSO Party database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0A=MO
 AA0AI=IA
 AA0AJ=MN
@@ -3260,6 +3260,7 @@ KC2LM=NM
 KC2LSD=NNJ
 KC2LXD=SC
 KC2MBV=NLI
+KC2NJ=NNJ
 KC2OVM=MOE
 KC2PDO=NNJ
 KC2PJH=ENY

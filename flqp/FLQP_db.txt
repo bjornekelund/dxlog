@@ -1,6 +1,6 @@
 # Florida QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -6361,6 +6361,7 @@ W2IKN=NC
 W2IOC=NJ
 W2JAT=NY
 W2JCT=NY
+W2JJW=NJ
 W2JLD=NY
 W2JV=NY
 W2KA=NY

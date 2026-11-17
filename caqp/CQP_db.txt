@@ -1,6 +1,6 @@
 # California QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0A=MO
 AA0AC=MN
 AA0AI=IA
@@ -1116,7 +1116,6 @@ K3ATA=MD
 K3ATO=PA
 K3AU=MD
 K3AXR=MD
-K3BLN=PA
 K3BVQ=PA
 K3CAR=PA
 K3CCR=MD

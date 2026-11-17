@@ -1,6 +1,6 @@
 # Tennessee QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -2451,6 +2451,7 @@ KQ4RWN=AL
 KQ4SER=FL
 KQ4SWR=VA
 KQ4SXW=FL
+KQ4TJB=AL
 KQ4UFC=FL
 KQ4UHZ=NC
 KQ4UIH=VA

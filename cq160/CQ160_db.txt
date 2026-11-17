@@ -1,6 +1,6 @@
 # CQ 160M Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 4U1WB=DC
 AA0AC=MN
 AA0AI=IA
@@ -2573,7 +2573,6 @@ K3BFA=PA
 K3BFQ=PA
 K3BHX=PA
 K3BHX=PA
-K3BLN=PA
 K3BLN=PA
 K3BQ=MD
 K3BU=NJ
