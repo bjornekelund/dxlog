@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+export LANG=C.UTF-8
+
 DIR=$(pwd)
 
 if [ ! -d $1 ]; then

@@ -1,5 +1,6 @@
 #!/bin/bash
 #set -x
+export LANG=C.UTF8
 DIR=$(pwd)
 
 if [ ! -d $1 ]; then
