@@ -36,6 +36,10 @@ else
         fi
         cp $OUTFILE $OLDFILE # Keep for CW club download use
     fi
+    
+    if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/uploaddb.sh $OUTFILE
+    fi
 fi
 
 exit

@@ -68,5 +68,9 @@ else
   if [ -s ../copytosourcetree.sh ]; then
     ../copytosourcetree.sh $OUTFILE
   fi
+
+  if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/uploaddb.sh $OUTFILE
+  fi
 fi
 exit

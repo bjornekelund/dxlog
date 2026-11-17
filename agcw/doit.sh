@@ -35,8 +35,8 @@ else
     fi
 fi
 
-# if [ -s ../agcwntcqp ]; then
-#     cd ../agcwntcqp && ./doit.sh
-# fi
+if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/uploaddb.sh $OUTFILE
+fi
 
 exit

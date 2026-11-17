@@ -2,7 +2,7 @@
 # Based on data from https://supercheckhistory.com/
 # Longest name is "CHRISTINE" with 9 characters
 # Contains members up to #4027
-# Last updated 2026-11-16
+# Last updated 2026-11-17
 2E0DCW=GERALD;G
 2E0IER=BRIAN;3702
 2E0ISD=IAN;G

@@ -1,7 +1,7 @@
 # Farroupilha Contest prefill database
 # Based on data from https://supercheckhistory.com/
 # Contains only exhanges that differ from by DXLog's rule based prefill
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 PP5AA=HQ
 PP5CS=QRP
 PP5LG=QRP

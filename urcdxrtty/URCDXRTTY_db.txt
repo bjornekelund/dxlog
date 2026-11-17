@@ -1,6 +1,6 @@
 # URC DX RTTY prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 2E0BLN=YAH
 2E0CEY=ESE
 2E0OBO=ESE

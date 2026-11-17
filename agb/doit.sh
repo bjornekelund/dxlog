@@ -35,4 +35,9 @@ else
         ../copytosourcetree.sh $OUTFILE
     fi
 fi
+
+if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/uploaddb.sh $OUTFILE
+fi
+
 exit 0

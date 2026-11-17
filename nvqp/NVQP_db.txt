@@ -1,6 +1,6 @@
 # Nevada QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0A=MO
 AA0AA=NE
 AA0AJ=MN

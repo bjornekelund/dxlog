@@ -1,7 +1,7 @@
 # CVA DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
 # Contains only exhanges that differ from by DXLog's rule based prefill
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 PP1JE=MIL
 PP2BLF=MIL
 PP2DX=MIL

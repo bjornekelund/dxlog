@@ -1,6 +1,6 @@
 # Croatian DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 9A/KT3V=ZG
 9A/W3WM=ZG
 9A0AA=KZ

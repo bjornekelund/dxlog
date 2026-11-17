@@ -3,6 +3,7 @@ URL=https://www.bavarian-contest-club.de/data
 WEBFILE=bcc-members.txt
 REGEXFILE=BCC-regex.txt
 DOWNLOAD=.downloaded
+CONTESTFILE=BCCQP.txt
 
 # rm -f $WEBFILE
 curl -sS $URL/$WEBFILE -o $DOWNLOAD
@@ -35,7 +36,6 @@ if [[ -s $CMD ]]; then
   USER=$($CMD /c "echo %USERNAME%" | tr -d '\r')
   TARGET=/mnt/c/Users/$USER/source/repos/k1xm/DXLog.net/DXLog.net/Contest
   if [[ -s $TARGET ]]; then
-    CONTESTFILE=BCCQP.txt
     #echo Updating contest definition in $CONTESTFILE with $REGEXFILE
     cp $TARGET/$CONTESTFILE .
     #sed -i "/# Start machine generated/,/# End machine generated/{ /START/{p; r BCC-regex.txt}; /END/p; d; }" $FILE
@@ -43,6 +43,10 @@ if [[ -s $CMD ]]; then
     }; /# End machine generated/p; d; }' $CONTESTFILE
     echo Updated $TARGET/$CONTESTFILE 
     cp $CONTESTFILE $TARGET
+    if [ -s ../_helpers/uploaddb.sh ]; then
+      ../_helpers/uploadcon.sh $CONTESTFILE
+    fi
+
   fi
 fi
 
@@ -61,6 +65,8 @@ else
     cp $XDTFILE ../3xdt
     echo Created $XDTFILE
 fi
+
+../_helpers/uploadcon.sh $CONTESTFILE
 
 exit
 

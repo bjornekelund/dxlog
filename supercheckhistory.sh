@@ -82,6 +82,8 @@ else
   if [ -s ../copytosourcetree.sh ]; then
       ../copytosourcetree.sh $DBFILE
   fi
+
+  ../_helpers/uploaddb.sh $DBFILE
 fi
 
 cd $DIR

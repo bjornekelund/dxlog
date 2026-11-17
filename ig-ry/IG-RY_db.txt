@@ -1,6 +1,6 @@
 # Prefill database for IG-RY, SCC RTTY and RTTYops WW DX contests
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 2E0CEY=2010
 2E0CVN=2007
 2E0GBC=2006

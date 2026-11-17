@@ -34,4 +34,8 @@ unix2dos -q $OUTFILE
 
 rm -f $TEMP1 $TEMP2
 
+if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/uploaddb.sh $OUTFILE
+fi
+
 exit

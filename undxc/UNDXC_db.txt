@@ -1,6 +1,6 @@
 # UN DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 UN0B=Z03
 UN0C=C14
 UN0EM=B18

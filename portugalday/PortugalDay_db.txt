@@ -1,6 +1,6 @@
 # Portugal Day Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 CQ3J=PTS
 CR5E=LX
 CR5N=LX

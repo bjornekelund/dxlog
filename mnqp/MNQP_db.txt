@@ -1,7 +1,7 @@
 # Minnesota QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
 # Longest name is "CHRISTOPHER" with 11 characters
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 AA0AC=DAVE;CRL
 AA0AI=STEVE;IA
 AA0AJ=DOREEN;STL

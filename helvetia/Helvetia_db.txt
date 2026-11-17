@@ -1,6 +1,6 @@
 # Helvetia prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-15
+# Last updated 2026-11-17
 HB1A=ZH
 HB1G=GL
 HB2008HQ=AG
