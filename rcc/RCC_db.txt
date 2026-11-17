@@ -1,6 +1,6 @@
 # RCC Cup prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-17
 4X6HX=RCC650
 4Z1MS=RCC650
 5B/RN3QO=RCC5

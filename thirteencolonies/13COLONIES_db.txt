@@ -1,6 +1,6 @@
 # 13 Colonies Event prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-17
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN

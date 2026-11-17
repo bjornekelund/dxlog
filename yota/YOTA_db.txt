@@ -1,7 +1,7 @@
 #@2026
 # YOTA prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-17
 2E0AMO=71
 2E0BIF=43
 2E0BKU=58

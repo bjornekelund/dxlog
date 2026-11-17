@@ -1,6 +1,6 @@
 # KCJ Contest prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-17
 7J3AOZ=HG
 7K1CRO=ST
 7K1DPE=ST

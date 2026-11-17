@@ -1,6 +1,6 @@
 # WW PMC Contest prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-17
 4U1A=WIE
 9A1AA=ZGB
 9A1CRT=ZGB

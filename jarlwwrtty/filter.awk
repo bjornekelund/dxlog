@@ -1,7 +1,7 @@
 BEGIN {
-  printf("#00@%s\n", strftime("%Y"));
   printf("#01 JARL WW RTTY Contest prefill database for %s\n", strftime("%Y"));
   FS = ",";
+  year = int(strftime("%Y"));
 }
 {
   if ($1 ~ /!!Order!!/)
@@ -26,4 +26,7 @@ BEGIN {
   {
     printf("Ignored: \"%s\"\n", $0) > "/dev/stderr";
   }
+}
+END {
+  printf("#00@%s\n", );
 }

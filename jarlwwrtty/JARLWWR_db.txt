@@ -1,7 +1,7 @@
 #@2026
 # JARL WW RTTY Contest prefill database for 2026
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-21
+# Last updated 2026-11-17
 2E0CEY=61
 2E0CVN=40
 2E0FHM=56

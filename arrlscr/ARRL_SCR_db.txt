@@ -1,6 +1,6 @@
 # ARRL School Club Roundup prefill database
 # Based on data collected by Claude VE2FK
-# Last updated 2026-10-16
+# Last updated 2026-11-17
 AA0A=I;MO
 AA0AA=I;NE
 AA0AW=I;MN
