@@ -88,6 +88,7 @@ echo "$filename" > $NAMEFILE
 # Don't download if the most recent file already exists
 if [[ -f "$filename" ]]; then
     echo "$filename is already downloaded"
+    echo -----
     exit 1
 fi
 

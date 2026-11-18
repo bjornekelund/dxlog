@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 export LANG=C.UTF-8
+AWKFILE="filter.awk"
+TMPFILE1=".downloaded"
+TMPFILE2=".tmpoutfile"
+HELPERS="../_helpers/helpers.awk"
+BASEFILE="BASEFILE.txt"
 
 DIR=$(pwd)
 
@@ -13,14 +18,6 @@ if [ ! -s schfile.txt ]; then
   exit 0
   cd $DIR
 fi
-
-AWKFILE="filter.awk"
-TMPFILE1=".downloaded"
-TMPFILE2=".tmpoutfile"
-HELPERS="../_helpers/helpers.awk"
-BASEFILE="BASEFILE.txt"
-
-#set -x
 
 rm -f $OUTFILE
 
@@ -38,7 +35,7 @@ if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
     exit 1
   }
 else
-  echo "schfile.txt or dbfile.txt is missing or empty"
+  # echo "schfile.txt or dbfile.txt is missing or empty"
   cd $DIR
   exit 1 
 fi

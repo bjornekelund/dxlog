@@ -27,7 +27,6 @@ fi
 
 if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
   # INFILE=$(ls $DLNAME* | tail -1 2> /dev/null$(
-  # echo INFILE=$INFILE
   if [ -s n1mmlatest.txt ]; then
     INFILE=$(cat n1mmlatest.txt)
     echo Parsing $(basename $INFILE)
@@ -48,6 +47,8 @@ if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
     if [ -n ../copytosourcetree.sh ]; then
       ../copytosourcetree.sh $OUTFILE
     fi
+
+    echo -----
 
     # DELETE=$(find . -maxdepth 1 -type f -name "${DLNAME}*" ! -name "$SCHFILE" ! -name "$OUTFILE" ! -name "$INFILE")
     # if [ -n "$DELETE" ]; then

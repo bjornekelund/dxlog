@@ -3,7 +3,7 @@ ALL=$(ls | grep '^[a-z]')
 
 for contest in $ALL; do
   if [ -d $contest ]; then
-    echo -------- $contest
+    # echo -------- $contest
   ./supercheckhistory.sh $contest $1
   fi
 done
