@@ -1,4 +1,5 @@
 #!/bin/bash
+HELPERS=../_helpers/helpers.awk
 REFFILE=BASEFILE.txt
 WEBFILE=CQMMWEB.txt
 OUTFILE=CQMM_db.txt
@@ -35,17 +36,9 @@ else
     # Keep only YL, QRP, and clubs from reference file
     # Y, Q, and C take precedence over M
     # Non-members are automatically prefilled
-    gawk 'BEGIN{FS=","}{if($2~/^(NA|EU|AS|AF|OC|SA)[CQY]$/){print $0}}' $REFFILE >> $COMBINED |\
-    # Clean up web file.
-    # Remove Ø and double quotes
-    # Remove asterisks and spaces
-    # Remove everything after the first space in the callsign field
-    cat $COMBINED | sed -e 's/Ø/0/g' |\
-    sed -e 's/ //g' |\
-    sed -e 's/\*//g' |\
-    sed -e 's/"//g' |\
-    sed 's/ ([^)]*)//g' |\
-    gawk -f cqmm.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
+    gawk 'BEGIN{FS=","}{if($2~/^(NA|EU|AS|AF|OC|SA)[CQY]$/){print $0}}' $REFFILE >> $COMBINED
+
+    gawk -f $HELPERS -f cqmm.awk $COMBINED | sort | sed 's/^#0. /# /g' > $OUTFILE
 
     unix2dos -q $OUTFILE
     echo $OUTFILE created
