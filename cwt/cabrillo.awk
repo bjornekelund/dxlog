@@ -28,7 +28,7 @@ BEGIN {
     call = FindColumn("Call");
     state = FindColumn("State|Exch1");
     name = FindColumn("Name");
-    printf("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
+    # printf("%s --> call=%d state=%d name=%d\n", $0, call, state, name) > "/dev/stderr";
   }
   else if ($0 !~ /^(#|!|$)/)
   {

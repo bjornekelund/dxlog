@@ -7,7 +7,7 @@ BEGIN {
     call = FindColumn("Call");
     exch = FindColumn("Misc");
     name = FindColumn("Name");
-    printf("%s --> call=%d exch=%d, name=%d\n", $0, call, exch, name) > "/dev/stderr";
+    # printf("%s --> call=%d exch=%d, name=%d\n", $0, call, exch, name) > "/dev/stderr";
   }
   else if (IsValidCall($call) && $name ~ /^(|[a-zA-Z]+$)/ && $exch ~ /^([0-9]+|)$/)
   {
