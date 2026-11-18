@@ -1,6 +1,6 @@
 # TRC members prefill database
-# Based on data collected by Claude VE2FK
-# Last updated 2026-11-17
+# Based on data maintained by LZ1ONK and VE2FK
+# Last updated 2026-11-18
 2E0ATB=TRC
 2E0CVN=TRC
 2E0EAY=TRC
