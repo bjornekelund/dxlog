@@ -1,6 +1,6 @@
 # FISTS members database
 # Based on data published at https://fists.co.uk/
-# Last updated 2026-11-17
+# Last updated 2026-11-18
 2E0AGQ=BRIAN;12584;
 2E0ANO=ALAN;2269;
 2E0ATS=JIM;7144;
