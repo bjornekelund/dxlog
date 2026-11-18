@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Move to correct folder to allow execution from cron
+[ -d "/home/sm7iun/dxlog" ] && cd /home/sm7iun/dxlog
+
 echo ------------+------------------
 
 echo "Job started" `date -u "+%F %T"` UTC
