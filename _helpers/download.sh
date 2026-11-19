@@ -82,13 +82,13 @@ fi
 # Get the actual filename from the download URL
 filename=${action##*/}
 
-echo "Most recent file: $filename"
+# echo "Most recent file: $filename"
 echo "$filename" > $NAMEFILE
 
 # Don't download if the most recent file already exists
 if [[ -f "$filename" ]]; then
-    echo "$filename is already downloaded"
-    echo -----
+    echo "Nothing new: $filename"
+    # echo -----
     exit 1
 fi
 
