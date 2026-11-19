@@ -1,6 +1,6 @@
 # Virginia QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AJ=MN
@@ -7010,6 +7010,7 @@ KO3T=PA
 KO3Z=PA
 KO4AWH=GA
 KO4BB=FL
+KO4BEG=NC
 KO4BJV=RIC
 KO4BSH=AL
 KO4BVA=GA

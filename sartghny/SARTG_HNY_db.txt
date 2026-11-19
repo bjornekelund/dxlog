@@ -1,7 +1,7 @@
 # SARTG Happy New Year Contest prefill database
 # Based on data from https://supercheckhistory.com/
 # Longest name is "CHRISTOPH" with 9 characters
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 2E0INN=GLEASON
 2E0OBO=BOB
 2E0YAO=LORNA

@@ -1,6 +1,6 @@
 # North Carolina QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1840,7 +1840,6 @@ K2MK=FL
 K2MN=NJ
 K2MO=NY
 K2MRK=NY
-K2MST=NY
 K2MV=NJ
 K2MYQ=ME
 K2NG=NJ

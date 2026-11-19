@@ -1,6 +1,6 @@
 # Hawaii QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AJ=MN
@@ -230,7 +230,6 @@ AF0F=KS
 AF3K=FL
 AF4PX=GA
 AF4T=TN
-AF4TQ=GA
 AF5CC=OK
 AF5J=TX
 AF6HO=CA
@@ -3996,7 +3995,6 @@ W9NXM=IL
 W9OA=IL
 W9OD=WI
 W9PA=IN
-W9PDC=AZ
 W9PKL=WI
 W9QL=IL
 W9QZ=IL

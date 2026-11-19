@@ -1,6 +1,6 @@
 # New Jersey QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AJ=MN
@@ -961,6 +961,7 @@ AI5P=AR
 AI5SF=OK
 AI5SM=IL
 AI5ST=TX
+AI5YQ=AR
 AI6DO=CA
 AI6JZ=CA
 AI6LY=CA
@@ -10813,7 +10814,6 @@ W1AH=ME
 W1AIM=VT
 W1AIR=CT
 W1AJT=NC
-W1AKI=NH
 W1AMF=CT
 W1AMJ=CT
 W1AO=ME
@@ -13031,6 +13031,7 @@ W8LU=MI
 W8LVN=IL
 W8LYJ=CO
 W8LYO=OH
+W8MDE=OH
 W8MET=OH
 W8MGJ=OH
 W8MHW=OH

@@ -1,6 +1,6 @@
 # South Dakota QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -11556,7 +11556,6 @@ W3CMP=PA
 W3CNB=MD
 W3CP=OR
 W3CQB=PA
-W3CRS=PA
 W3CRZ=OH
 W3CSA=PA
 W3DA=DE
@@ -13532,7 +13531,6 @@ W9OSI=IL
 W9OZ=IN
 W9PA=IN
 W9PCS=WI
-W9PDC=AZ
 W9PDS=IL
 W9PI=IL
 W9PL/7=WA

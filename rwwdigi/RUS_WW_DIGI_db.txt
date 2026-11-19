@@ -1,7 +1,7 @@
 # Russian WW Digi Contest exchanges prefill database
 # Based on data from https://supercheckhistory.com/
 # Contains only exceptions to rule based prefill
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 R0/KE5JA=SL
 R0/N6TCZ=PK
 R0AIB/3=VR

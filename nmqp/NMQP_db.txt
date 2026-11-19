@@ -1,6 +1,6 @@
 # New Mexico QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1964,7 +1964,6 @@ N2IC=GRA
 N2JF=TN
 N2JS=NJ
 N2JW=FL
-N2LEC=NJ
 N2LGS=NJ
 N2LK=DE
 N2MA=PA

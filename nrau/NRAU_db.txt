@@ -1,6 +1,6 @@
 # NRAU Baltic Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 5P2DX=NJ
 7S3A=VN
 7S3X=NB

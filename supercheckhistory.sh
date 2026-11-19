@@ -20,47 +20,54 @@ if [ ! -s schfile.txt ]; then
   cd $DIR
 fi
 
-rm -f $OUTFILE
-
-# echo "AWKFILE=$AWKFILE DBFILE=$DBFILE OUTFILE=$OUTFILE"
 
 if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
   SCHFILE="$(cat schfile.txt)"
   DBFILE="$(cat dbfile.txt)"
-  # echo "schfile.txt exists and is not empty"
+  ETAGFILE=$SCHFILE".etag"
+  ETAGTMP="."$ETAGFILE
   URL="https://supercheckhistory.com/downloads/N1MM/$SCHFILE"
-  curl -fsSL --connect-timeout 5 --max-time $TIMEOUT "$URL" -o "$TMPFILE1" || {\
-    echo "ERROR! Download of $SCHFILE failed. Aborting." 
-    rm -f $TMPFILE1
-    cd $DIR
-    exit 1
-  }
+  # curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE1" || {\
+  #   echo "ERROR! Download of $SCHFILE failed. Aborting." 
+  #   rm -f $TMPFILE1
+
+  
+  # Keep temporary files beside their destinations so mv stays on the same filesystem.
+
+  trap 'rm -f "$TMPFILE1" "$ETAGTMP"' EXIT
+
+  if ! status=$(curl --silent --show-error --location --fail \
+      --etag-compare "$ETAGFILE" \
+      --etag-save "$ETAGTMP" \
+      --output "$TMPFILE1" \
+      --write-out '%{http_code}' \
+      "$URL"); then
+      echo "Download failed: $URL" >&2
+      exit 1
+  fi
+
+  case "$status" in
+      304)
+          echo "Nothing new: $SCHFILE"
+          ;;
+      2[0-9][0-9])
+          mv "$TMPFILE1" "$SCHFILE"
+          mv "$ETAGTMP" "$ETAGFILE"
+          echo "Downloaded: $SCHFILE"
+          dos2unix -q $SCHFILE
+          ;;
+      *)
+          echo "Unexpected HTTP status: $status" >&2
+          exit 1
+          ;;
+  esac
 else
   # echo "schfile.txt or dbfile.txt is missing or empty"
   cd $DIR
   exit 1 
 fi
 
-dos2unix -q $TMPFILE1
-
-if cmp -s $SCHFILE $TMPFILE1 && [ -z "$2" ]; then 
-    echo "The latest version of $SCHFILE is already downloaded."
-    rm -f $TMPFILE1
-    cd $DIR
-    exit 0
-fi
-
-if [ ! -f $TMPFILE ] || [ $(stat -c%s $TMPFILE1 2>/dev/null) -lt 100 ]; then
-  echo "ERROR! Download of $SCHFILE failed. Aborting." 
-  rm -f $TMPFILE1
-  cd $DIR
-  exit 1
-else
-  echo Downloaded $SCHFILE, parsing...
-
-  mv $TMPFILE1 $SCHFILE
-  dos2unix -q $SCHFILE
-
+if [[ "$status" =~ ^2[0-9][0-9]$ || -n "$2" ]]; then
   if [ -s $BASEFILE ]; then
     dos2unix -q $BASEFILE
     echo "Appended base file to $SCHFILE"
@@ -68,7 +75,7 @@ else
   else
     gawk -f $HELPERS -f $AWKFILE $SCHFILE > $TMPFILE2
   fi
-  
+
   echo "#01 Based on data from https://supercheckhistory.com/" >> $TMPFILE2
   echo "#09 Last updated $(date +%F)" >> $TMPFILE2
 
@@ -77,15 +84,13 @@ else
   unix2dos -q $DBFILE
   echo Created $DBFILE
 
-  rm -f $TMPFILE1 $TMPFILE2
-  
+  rm -f $TMPFILE1 $TMPFILE2 $ETAGTMP
+
   if [ -s ../copytosourcetree.sh ]; then
       ../copytosourcetree.sh $DBFILE
   fi
 
   ../_helpers/uploaddb.sh $DBFILE
 fi
-
 cd $DIR
-
 exit

@@ -1,6 +1,6 @@
 # Mexican RTTY Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 4A7L=JAL
 4A7S=SON
 6D5C=JAL

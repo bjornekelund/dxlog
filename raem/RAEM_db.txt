@@ -1,6 +1,6 @@
 # RAEM International Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 2E0CVN=50N3W
 2E0SUR=51N0W
 2E0ZSE=51N3W
@@ -1938,6 +1938,7 @@ UD2F=55N21O
 UD3B=56N38O
 UD3D=54N39O
 UD6M=48N39O
+UD7R=44N33O
 UD8A=54N61O
 UD8V=53N87O
 UF5A=56N37O

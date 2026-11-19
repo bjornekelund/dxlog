@@ -2,7 +2,7 @@
 # Based on data from https://supercheckhistory.com/
 # Longest name is "MARIANNE" with 8 characters
 # Contains members up to #318
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 2E0OBO=BOB;NM
 2E0YEM=ALAN;NM
 5X8C=ANTON;154

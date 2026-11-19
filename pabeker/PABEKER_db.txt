@@ -1,6 +1,6 @@
 # PA Beker prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 PA0AKN=42
 PA0ATY=43
 PA0AWH=35

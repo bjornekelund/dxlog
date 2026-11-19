@@ -1,6 +1,6 @@
 # Russian Federation Cup prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 D0AG=KN88
 R0AA=NO56
 R0AAP=NP39
@@ -486,6 +486,7 @@ RM7C=KN93
 RM8L=MO27
 RM8W=LO75
 RM9A=MO05
+RM9RZ=MO25
 RN0A=KN94
 RN0CT=PN78
 RN0D=PN58

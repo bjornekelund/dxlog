@@ -1,6 +1,6 @@
 # REF Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 F1AAE=14
 F1AAG=75
 F1AAK=60

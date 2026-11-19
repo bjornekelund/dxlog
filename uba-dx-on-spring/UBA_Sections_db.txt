@@ -1,6 +1,6 @@
 # Belgian UBA sections prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 ON1AAD=MCL
 ON1ACB=LGE
 ON1ACO=VHF

@@ -1,6 +1,6 @@
 # PACC prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 PA0A=GR
 PA0AA=UT
 PA0AAC=LB
@@ -8513,6 +8513,7 @@ PD1GWF=NB
 PD1HDV=FR
 PD1HJB=FL
 PD1HK=FR
+PD1HS=OV
 PD1HTH=GD
 PD1HW=GD
 PD1I=NH

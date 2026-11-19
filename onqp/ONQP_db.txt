@@ -1,6 +1,6 @@
 # Ontario QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -1974,7 +1974,6 @@ KQ4OYA=FL
 KQ4PCR=GA
 KQ4PLS=AL
 KQ4R=FL
-KQ4RLN=AL
 KQ4SER=FL
 KQ4UFC=FL
 KQ4UHZ=NC

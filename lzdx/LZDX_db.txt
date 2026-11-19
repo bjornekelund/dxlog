@@ -1,6 +1,6 @@
 # Bulgarian DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 LZ01MLN=PK
 LZ0M=VN
 LZ1195IR=PD
@@ -78,7 +78,6 @@ LZ1JKU=VN
 LZ1JY=SF
 LZ1JZ=PD
 LZ1KAA=SF
-LZ1KAK=HA
 LZ1KAU=SF
 LZ1KCO=KA
 LZ1KDP=SF
@@ -307,7 +306,6 @@ LZ2VS=VN
 LZ2VU=RZ
 LZ2VV=RZ
 LZ2WE=MN
-LZ2WFF=GA
 LZ2WM=LV
 LZ2WO=PL
 LZ2WP=DO

@@ -1,6 +1,6 @@
 # Nevada QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0A=MO
 AA0AA=NE
 AA0AJ=MN
@@ -8582,7 +8582,6 @@ W3CL=NC
 W3CNB=MDC
 W3CP=OR
 W3CQH=MDC
-W3CRS=EPA
 W3CRZ=OH
 W3DAD=MDC
 W3DDF=MDC

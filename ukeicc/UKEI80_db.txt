@@ -1,6 +1,6 @@
 # UK EI CC database with six-position grids
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 2E0CZE=IO80HV
 2E0DSQ=IO92JP
 2E0DYH=JO01HT

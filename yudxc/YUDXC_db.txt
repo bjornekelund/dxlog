@@ -1,6 +1,6 @@
 # Serbian DX Contest prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 YT0A=BGD
 YT0ED=BGD
 YT0I=JAB

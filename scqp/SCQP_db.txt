@@ -1,6 +1,6 @@
 # South Carolina QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -10892,7 +10892,6 @@ NY7N=AZ
 NY7Z=ID
 NY9G=FL
 NY9X=IL
-NZ0B=IA
 NZ1J=CT
 NZ1R=MA
 NZ1U=CT
