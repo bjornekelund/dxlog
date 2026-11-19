@@ -4,7 +4,7 @@ export LANG=C.UTF8
 DOWNLOADS="agb agcw agcwntcqp bccqp cqmm dig epc euhfc fistsspr foc hsc mcdqp podxs rcwc"
 
 for contest in $DOWNLOADS; do
-  echo -------- $contest
+  # echo -------- $contest
   cd $contest
   # pwd
   ./doit.sh $1

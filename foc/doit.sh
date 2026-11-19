@@ -13,12 +13,12 @@ else
   unix2dos -q $DOWNLOAD
 
   if cmp -s $XDTFILE $DOWNLOAD && [ -z "$1" ]; then 
-      echo "The latest xdt file is already downloaded."
-      rm -f $DOWNLOAD
+    echo "Nothing new: FOC XDT"
+    rm -f $DOWNLOAD
   else
     mv $DOWNLOAD $XDTFILE
     echo Downloaded $XDTFILE
-    cp $XDTFILE ../3xdt
+    ../_xdt/upload.sh $XDTFILE
   fi
 fi
 
@@ -32,9 +32,9 @@ else
   unix2dos -q $DOWNLOAD
 
   if cmp -s $DBFILE $DOWNLOAD && [ -z "$1" ]; then 
-      echo "The latest db file is already downloaded."
-      rm $DOWNLOAD
-      exit 0
+    echo "Nothing new: FOC"
+    rm $DOWNLOAD
+    exit 0
   fi
 
   mv $DOWNLOAD $DBFILE

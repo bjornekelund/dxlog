@@ -15,7 +15,7 @@ gawk -f cwtxdt.awk $INFILE | sed 's/  / /g' | sort > $XDTFILE
 echo Created $XDTFILE
 unix2dos -q $XDTFILE $INFILE
 
-cp $XDTFILE ../3xdt
+cp $XDTFILE ../_xdt
 
 ../copytosourcetree.sh $DBFILE
 

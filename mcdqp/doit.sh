@@ -17,7 +17,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   dos2unix -q $DOWNLOAD
   if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
-    echo "The latest member data file is already downloaded."
+    echo "Nothing new: MCD"
     rm -f $DOWNLOAD
   else
     echo Downloaded $WEBFILE, parsing...

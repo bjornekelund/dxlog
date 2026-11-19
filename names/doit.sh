@@ -11,7 +11,7 @@ gawk -f names-xdt.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILEXDT
 unix2dos -q $OUTFILEXDT
 echo Created $OUTFILEXDT
 
-cp $OUTFILEXDT ../3xdt
+../_xdt/upload.sh $OUTFILEXDT
 
 echo Parsing $INFILE
 

@@ -11,7 +11,6 @@ START=$SECONDS
 ./alln1mm.sh $1
 ./allsch.sh $1
 ./downloads.sh $1
-./uploadxdt.sh
 
 echo ------------+------------------
 

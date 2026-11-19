@@ -1,6 +1,6 @@
 # Commonwealth Contest HQ stations prefill database
-# Based on data collected by Claude VE2FK
-# Last updated 2026-11-17
+# Based on data maintained by Claude VE2FK
+# Last updated 2026-11-19
 AT1HQ=HQ
 AT3T=HQ
 G6XX=HQ

@@ -1,6 +1,6 @@
 #!/bin/bash
-cd ../3xdt
+cd ../_xdt
 
-./upload.sh
+./uploadall.sh
 
 exit

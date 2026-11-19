@@ -17,7 +17,7 @@ curl -fsSL --connect-timeout 5 --max-time 20 $URL -o $DOWNLOAD || {\
 dos2unix -q $DOWNLOAD
 
 if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
-  echo "The latest file is already downloaded."
+  echo "Nothing new: WAPC"
   rm $DOWNLOAD
   exit 0
 fi

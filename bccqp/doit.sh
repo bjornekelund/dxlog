@@ -11,7 +11,7 @@ curl -sS $URL/$WEBFILE -o $DOWNLOAD
 dos2unix -q $DOWNLOAD
 
 if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
-    echo "The latest member file is already downloaded."
+    echo "Nothing new: BCC"
     rm $DOWNLOAD
     exit 0
 fi
@@ -46,7 +46,6 @@ if [[ -s $CMD ]]; then
     if [ -s ../_helpers/uploaddb.sh ]; then
       ../_helpers/uploadcon.sh $CONTESTFILE
     fi
-
   fi
 fi
 
@@ -62,7 +61,7 @@ else
     echo Downloaded $XDTFILE
     iconv -f ISO-8859-1 -t UTF-8 $XDTFILE -o $XDTFILE
     unix2dos -q $XDTFILE
-    cp $XDTFILE ../3xdt
+    ../_xdt/upload.sh $XDTFILE
     echo Created $XDTFILE
 fi
 

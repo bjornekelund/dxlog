@@ -21,7 +21,7 @@ else
     unix2dos -q $OUTFILE
 
     if cmp -s $OUTFILE $OLDFILE && [ -z "$1" ]; then
-        echo "The latest file is already downloaded."
+        echo "Nothing new: EUHFC"
         # rm $OUTFILE
         exit 0
     fi

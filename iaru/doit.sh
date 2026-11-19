@@ -11,12 +11,12 @@ OUTFILE=iaruhq.txt
 #rm -f $XDTFILE $OUTFILE
 mkdir -p $FOLDER
 
-echo Downloading $ZIPFILE
+# echo Downloading $ZIPFILE
 
 wget -q https://bit.ly/itudtb -O $DOWNLOAD
 
 if cmp -s $ZIPFILE $DOWNLOAD; then 
-    echo "The latest zip file is already downloaded."
+    echo "Nothing new: IARU"
     rm -f $DOWNLOAD
     exit 0
 fi
@@ -38,10 +38,10 @@ BEGIN {
   printf("%s\n", $0);
 }' $FOLDER/$OUTFILE > $OUTFILE
 
-unix2dos -q $OUTFILE
-cp $FOLDER/$XDTFILE .
-rm -f ../3xdt/iaru*.xdt
-cp $FOLDER/$XDTFILE ../3xdt
+cp $FOLDER/$XDTFILE $XDTFILE
+
+unix2dos -q $OUTFILE 
+../_xdt/upload.sh $XDTFILE
 
 echo Created $OUTFILE $XDTFILE
 

@@ -19,6 +19,6 @@ gawk -f xdt.awk $INFILE | sort > $XDTFILE
 unix2dos -q $XDTFILE $INFILE
 echo Created $XDTFILE
 
-cp $XDTFILE ../3xdt
+cp $XDTFILE ../_xdt
 
 exit
