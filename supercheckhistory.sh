@@ -49,6 +49,7 @@ if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
   case "$status" in
       304)
           echo "Nothing new: $SCHFILE"
+          rm -f $ETAGTMP
           ;;
       2[0-9][0-9])
           mv "$TMPFILE1" "$SCHFILE"
@@ -58,6 +59,7 @@ if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
           ;;
       *)
           echo "Unexpected HTTP status: $status" >&2
+          rm -f $ETAGTMP
           exit 1
           ;;
   esac
