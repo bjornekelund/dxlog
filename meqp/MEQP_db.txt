@@ -1,6 +1,6 @@
 # Maine QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -7169,7 +7169,6 @@ KQ4MHP=NC
 KQ4NXR=NC
 KQ4R=FL
 KQ4RH=VA
-KQ4RLN=AL
 KQ4RWN=AL
 KQ4SCT=VA
 KQ4SPR=KY
@@ -13406,6 +13405,7 @@ W8LU=MI
 W8LVN=IL
 W8LYJ=CO
 W8LYO=OH
+W8MDE=OH
 W8MET=OH
 W8MGJ=OH
 W8MHW=OH

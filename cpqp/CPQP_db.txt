@@ -1,6 +1,6 @@
 # Canadian Prairies QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -446,7 +446,6 @@ AC1HD=OH
 AC1HF=CT
 AC1J=NH
 AC1O=ME
-AC1SB=VT
 AC1T=MA
 AC1Z=NH
 AC2C=MD

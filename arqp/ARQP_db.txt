@@ -1,6 +1,6 @@
 # Arkansas QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -491,7 +491,6 @@ K3HW=PA
 K3IE=TN
 K3IFR=CO
 K3IGA=TX
-K3JPT=PA
 K3JSJ=MD
 K3KU=MD
 K3KWB=MD
@@ -3427,7 +3426,6 @@ W9NXM=IL
 W9OA=IL
 W9OD=WI
 W9PA=IN
-W9PDC=AZ
 W9PKL=WI
 W9QL=IL
 W9RE=IN

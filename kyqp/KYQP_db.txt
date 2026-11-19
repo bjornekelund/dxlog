@@ -1,6 +1,6 @@
 # Kentucky QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -886,6 +886,7 @@ K6JS=CA
 K6KQ=CA
 K6KTS=CA
 K6KY=CA
+K6LJ=TX
 K6LL=AZ
 K6MIL=CA
 K6MUG=CA
@@ -1539,6 +1540,7 @@ KD8YNG=IN
 KD8YUA=OH
 KD8YWF=WV
 KD9C=IN
+KD9CK=IL
 KD9DZT=WI
 KD9EOT=IL
 KD9GY=IL

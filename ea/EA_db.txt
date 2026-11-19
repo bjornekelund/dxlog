@@ -1,7 +1,7 @@
 # Spanish provinces prefill database
 # Based on data from https://supercheckhistory.com/
 # Includes special exchanges HQ and SMR
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AM01CYH=AV
 AM01EN=SG
 AM01ENG=SA
@@ -7482,6 +7482,7 @@ EA4HKV=M
 EA4HL=CC
 EA4HLZ=M
 EA4HM=M
+EA4HMX=M
 EA4HNC=M
 EA4HNO=CR
 EA4HO=M

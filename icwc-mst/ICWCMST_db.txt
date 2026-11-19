@@ -1,7 +1,7 @@
 # ICWS Medium Speed Test prefill database
 # Based on data from https://supercheckhistory.com/
 # Longest name is "FRANCESCO" with 9 characters
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 2E0DCW=GERALD
 2E0IIV=STEVE
 2E0OBO=BOB
@@ -6422,6 +6422,7 @@ W1AST=LARRY
 W1AW/4=RANDY
 W1AW=RANDY
 W1AX=ROGER
+W1BBV=AL
 W1BCC/M=BRAD
 W1BOY=STAN
 W1BRY=DON

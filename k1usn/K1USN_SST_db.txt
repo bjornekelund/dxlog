@@ -1,7 +1,7 @@
 # K1USN Slow Speed Test prefill database
 # Based on data from https://supercheckhistory.com/
 # Longest name is "FREDERICK" with 9 characters
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 2E0GKC=PAUL;DX
 2E0IIV=STEVE;DX
 2E0PKK=PAUL;DX

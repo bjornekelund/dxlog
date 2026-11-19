@@ -1,6 +1,6 @@
 # Michigan QSO Party prefill database
 # Based on data from https://supercheckhistory.com/
-# Last updated 2026-11-17
+# Last updated 2026-11-19
 AA0AC=MN
 AA0AI=IA
 AA0AO=MN
@@ -554,7 +554,6 @@ K2TW=VA
 K2UA=NY
 K2UI=NJ
 K2WK=VA
-K2WVU=WV
 K2WW=NY
 K2YG=NJ
 K2YY=NJ
@@ -863,6 +862,7 @@ K6KQ=CA
 K6KQV=CA
 K6KTS=CA
 K6LIE=NM
+K6LJ=TX
 K6LL=AZ
 K6MIL=CA
 K6MUG=CA

@@ -1,7 +1,7 @@
 #!/bin/bash
 export LANG=C.UTF8
 
-DOWNLOADS="agb agcw agcwntcqp cqmm dig euhfc foc hsc mcdqp podxs rcwc fistsspr bccqp"
+DOWNLOADS="agb agcw agcwntcqp bccqp cqmm dig epc euhfc fistsspr foc hsc mcdqp podxs rcwc"
 
 for contest in $DOWNLOADS; do
   echo -------- $contest

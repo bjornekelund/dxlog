@@ -5,6 +5,7 @@ TMPFILE1=".downloaded"
 TMPFILE2=".tmpoutfile"
 HELPERS="../_helpers/helpers.awk"
 BASEFILE="BASEFILE.txt"
+TIMEOUT=30
 
 DIR=$(pwd)
 
@@ -28,7 +29,7 @@ if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
   DBFILE="$(cat dbfile.txt)"
   # echo "schfile.txt exists and is not empty"
   URL="https://supercheckhistory.com/downloads/N1MM/$SCHFILE"
-  curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE1" || {\
+  curl -fsSL --connect-timeout 5 --max-time $TIMEOUT "$URL" -o "$TMPFILE1" || {\
     echo "ERROR! Download of $SCHFILE failed. Aborting." 
     rm -f $TMPFILE1
     cd $DIR
