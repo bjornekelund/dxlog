@@ -4,6 +4,7 @@ WEBFILE=bcc-members.txt
 REGEXFILE=BCC-regex.txt
 DOWNLOAD=.downloaded
 CONTESTFILE=BCCQP.txt
+XDTFILE=bcc-members.xdt
 
 # rm -f $WEBFILE
 curl -sS $URL/$WEBFILE -o $DOWNLOAD
@@ -21,15 +22,15 @@ mv $DOWNLOAD $WEBFILE
 if [ ! -s $WEBFILE ]; then
   echo "ERROR! Download of $WEBFILE failed. Aborting."
   exit 1
-else
-  echo Downloaded $WEBFILE, parsing...
-  dos2unix -q $WEBFILE
-
-  sed 's/ //g' $WEBFILE | sort | gawk -b -f regex.awk > $REGEXFILE
-
-  echo Created $REGEXFILE
-  unix2dos -q $REGEXFILE
 fi
+
+echo Downloaded $WEBFILE, parsing...
+dos2unix -q $WEBFILE
+
+sed 's/ //g' $WEBFILE | sort | gawk -b -f regex.awk > $REGEXFILE
+
+echo Created $REGEXFILE
+unix2dos -q $REGEXFILE
 
 CMD="/mnt/c/Windows/System32/cmd.exe"
 if [[ -s $CMD ]]; then
@@ -38,34 +39,27 @@ if [[ -s $CMD ]]; then
   if [[ -s $TARGET ]]; then
     #echo Updating contest definition in $CONTESTFILE with $REGEXFILE
     cp $TARGET/$CONTESTFILE .
-    #sed -i "/# Start machine generated/,/# End machine generated/{ /START/{p; r BCC-regex.txt}; /END/p; d; }" $FILE
     sed -i '/# Start machine generated/,/# End machine generated/{ /# Start machine generated/{p; r '$REGEXFILE'
     }; /# End machine generated/p; d; }' $CONTESTFILE
     echo Updated $TARGET/$CONTESTFILE
     cp $CONTESTFILE $TARGET
-    if [ -s ../_helpers/uploaddb.sh ]; then
-      ../_helpers/uploadcon.sh $CONTESTFILE
-    fi
+    ../_helpers/uploadcon.sh $CONTESTFILE
   fi
 fi
-
-XDTFILE=bcc-members.xdt
 
 rm -f $XDTFILE
 curl -sS https://www.bavarian-contest-club.de/data/$XDTFILE -O
 
 if [ ! -s $XDTFILE ]; then
-    echo "ERROR! Download of member roster failed. Aborting."
-    exit 1
+  echo "ERROR! Download of member roster failed. Aborting."
+  exit 1
 else
-    echo Downloaded $XDTFILE
-    iconv -f ISO-8859-1 -t UTF-8 $XDTFILE -o $XDTFILE
-    unix2dos -q $XDTFILE
-    ../_xdt/upload.sh $XDTFILE
-    echo Created $XDTFILE
+  echo Downloaded $XDTFILE
+  iconv -f ISO-8859-1 -t UTF-8 $XDTFILE -o $XDTFILE
+  unix2dos -q $XDTFILE
+  ../_xdt/upload.sh $XDTFILE
+  echo Created $XDTFILE
 fi
-
-../_helpers/uploadcon.sh $CONTESTFILE
 
 exit 0
 

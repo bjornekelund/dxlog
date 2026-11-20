@@ -10,7 +10,7 @@ BEGIN {
   # printf\("%s --> call=%d size=%d\n", $0, call, size) > "/dev/stderr";
   }
   else if ( \
-    (IsValidCall($call) && $size ~ /^(XS|S|M|L|XL|2XL|3XL|4XL|5XL)$/) )
+    (IsValidCall($call) && $size ~ /^(XS|S|M|L|XL|XXL|2XL|3XL|4XL|5XL|000)$/) )
   {
     if (lines[$call] != "")
     {
