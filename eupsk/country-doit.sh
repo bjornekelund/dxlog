@@ -17,6 +17,6 @@ END {
 
 unix2dos -q c-result.txt
 
-rm -rf .ctytemp 
+rm -rf .ctytemp
 
 exit 0

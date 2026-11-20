@@ -15,10 +15,10 @@ BEGIN{
   printf("[MULTIPLIERS START]\n");
 }
 {
-  if ($1 != "") 
+  if ($1 != "")
   {
     printf("%s=%s\n", $1, $1);
-  } 
+  }
 }
 END {
   printf("[MULTIPLIERS END]\n");

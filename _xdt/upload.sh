@@ -6,6 +6,6 @@ then
 else
   echo "ERROR: Failed to upload $file"
   exit 1
-fi  
+fi 
 
 exit 0

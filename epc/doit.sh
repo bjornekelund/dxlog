@@ -3,7 +3,7 @@ WEBFILE=epccall.txt
 OUTFILE=EPC_db.txt
 DOWNLOAD=.downloaded
 HELPERS=../_helpers/helpers.awk
-#set -x  
+#set -x 
 
 rm -f $DOWNLOAD
 curl -fsSL --connect-timeout 5 --max-time 20 https://epc-mc.eu/download/epcdlde/epccall.txt -o $DOWNLOAD || {\
@@ -14,7 +14,7 @@ curl -fsSL --connect-timeout 5 --max-time 20 https://epc-mc.eu/download/epcdlde/
 
 dos2unix -q $DOWNLOAD
 
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: EPC"
     rm $DOWNLOAD
     exit 0

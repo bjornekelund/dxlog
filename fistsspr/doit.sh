@@ -14,7 +14,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 1000 ]; then
   exit 1
 else
   dos2unix -q $DOWNLOAD
-  if cmp -s $WEBFILE $DOWNLOAD && [ -z $1 ]; then 
+  if cmp -s $WEBFILE $DOWNLOAD && [ -z $1 ]; then
       echo "Nothing new: FISTS"
       rm -f $DOWNLOAD
       exit 0
@@ -27,7 +27,7 @@ else
   # sed -i '1i\' $WEBFILE
 
   echo Parsing $WEBFILE
-  
+ 
   cat $WEBFILE | gawk -f fistsspr.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
 
   unix2dos -q $OUTFILE

@@ -5,18 +5,18 @@ DOWNLOAD=.downloaded
 
 rm -f $DOWNLOAD
 curl -fsSL --connect-timeout 10 --max-time 20 "https://docs.google.com/spreadsheets/d/1s7RS8T4twf4-hNsI5uiGEsTiUnqQ51xU1Lne5B5GIUI/gviz/tq?tqx=out:csv&sheet=Member_shortlist" -o $DOWNLOAD || {\
-  echo "ERROR! Download of $WEBFILE failed. Aborting." 
+  echo "ERROR! Download of $WEBFILE failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 }
 
 if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
-  echo "ERROR! Download of $WEBFILE failed. Aborting." 
+  echo "ERROR! Download of $WEBFILE failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 
 dos2unix -q $DOWNLOAD
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
   echo "Nothing new: PODXS"
   rm -f $DOWNLOAD
   exit 0

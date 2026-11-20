@@ -28,10 +28,10 @@ if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
   ETAGTMP="."$ETAGFILE
   URL="https://supercheckhistory.com/downloads/N1MM/$SCHFILE"
   # curl -fsSL --connect-timeout 5 --max-time 20 "$URL" -o "$TMPFILE1" || {\
-  #   echo "ERROR! Download of $SCHFILE failed. Aborting." 
+  #   echo "ERROR! Download of $SCHFILE failed. Aborting."
   #   rm -f $TMPFILE1
 
-  
+ 
   # Keep temporary files beside their destinations so mv stays on the same filesystem.
 
   trap 'rm -f "$TMPFILE1" "$ETAGTMP"' EXIT
@@ -66,7 +66,7 @@ if [ -s "schfile.txt" ] && [ -s "dbfile.txt" ]; then
 else
   # echo "schfile.txt or dbfile.txt is missing or empty"
   cd $DIR
-  exit 1 
+  exit 1
 fi
 
 if [[ "$status" =~ ^2[0-9][0-9]$ || -n "$2" ]]; then

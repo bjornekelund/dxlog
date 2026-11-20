@@ -15,7 +15,7 @@ mkdir -p $FOLDER
 
 wget -q https://bit.ly/itudtb -O $DOWNLOAD
 
-if cmp -s $ZIPFILE $DOWNLOAD; then 
+if cmp -s $ZIPFILE $DOWNLOAD; then
     echo "Nothing new: IARU"
     rm -f $DOWNLOAD
     exit 0
@@ -39,7 +39,7 @@ BEGIN {
 }' $FOLDER/$OUTFILE > $OUTFILE
 
 cp $FOLDER/$XDTFILE $XDTFILE
-unix2dos -q $OUTFILE 
+unix2dos -q $OUTFILE
 
 echo Created $OUTFILE $XDTFILE
 
@@ -47,4 +47,4 @@ echo Created $OUTFILE $XDTFILE
 ../_helpers/copytosourcetree.sh $OUTFILE
 ../_helpers/uploaddb.sh $OUTFILE
 
-exit 0 
+exit 0

@@ -15,25 +15,25 @@ dos2unix -q $TEMPFILE
 while IFS= read -r line || [ -n "$line" ]; do
     # Skip empty lines
     [ -z "$line" ] && continue
-    
+   
     # Extract the part between = and first ;
     # Format: CALLSIGN=server;port;...
     if [[ $line =~ =([^=]+)$ ]]; then
         # Get everything after the =
         after_equal="${BASH_REMATCH[1]}"
-        
+       
         # Split by semicolon to get server and port
         IFS=';' read -r server port rest <<< "$after_equal"
-        
+       
         # Remove preceding star if present
         server="${server#\*}"
-        
+       
         # Get the callsign (part before = but after star if present)
         callsign="${line%%=*}"
         callsign="${callsign#\*}"
 
 #        echo "Testing $callsign ($server:$port)... "
-        
+       
         if [[ $callsign != "LOCALHOST" ]]; then
             # Test connection with timeout of 5 seconds
             # Using /dev/tcp for portability (no telnet command needed)

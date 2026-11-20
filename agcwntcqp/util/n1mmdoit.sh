@@ -14,7 +14,7 @@ echo "# Use UDC file AGCW-NTCQP by G4OGB" >> $N1MMFILE
 cat $QPFILE | sed 's/[=;]/,/g' | gawk '\
 BEGIN { FS=","; }
 {
-  if ($0 ~ /^#/) 
+  if ($0 ~ /^#/)
   {
     if ($0 ~ / AGCW /)
     {

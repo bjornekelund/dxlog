@@ -19,13 +19,13 @@ BAD="$TMPDIR/bad.txt"
 
 echo "Downloading N1MM Live Cluster List..."
 if ! curl -fsSL --connect-timeout 10 --max-time 30 "$URL" | sed 's/<br[[:space:]]*\/\{0,1\}>/\n/gI' > "$RAW"; then
-    echo "ERROR: Could not download $URL" 
+    echo "ERROR: Could not download $URL"
     exit 1
 fi
 
 # Verify that this looks like the expected N1MM response.
 if ! grep -q '^STARTOFDATA$' "$RAW"; then
-    echo "ERROR: Unexpected response from N1MM endpoint." 
+    echo "ERROR: Unexpected response from N1MM endpoint."
     exit 1
 fi
 
@@ -137,7 +137,7 @@ awk -F, '
     key = $2 ":" $3
 
     # Keep only the first occurrence of each host:port.
-    if (!(key in seen)) 
+    if (!(key in seen))
     {
         seen[key] = 1
         print
@@ -242,7 +242,7 @@ BEGIN {
 {
     url = $2;
     port = $3;
-    if (url ~ /^[A-Za-z]/) 
+    if (url ~ /^[A-Za-z]/)
     {
         printf("%s=%s;%s;YES;;\n", url, url, port);
     }

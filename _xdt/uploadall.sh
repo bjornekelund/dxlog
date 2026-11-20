@@ -8,7 +8,7 @@ do
   else
     echo "ERROR: Failed to upload $file"
     exit 1
-  fi  
+  fi 
 done
 
 exit 0

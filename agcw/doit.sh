@@ -5,14 +5,14 @@ DOWNLOAD=.downloaded
 
 rm -f $DOWNLOAD
 curl -fsSL --connect-timeout 5 --max-time 20 https://www.agcw.de/wp-content/persist/$WEBFILE -o $DOWNLOAD || {\
-    echo "ERROR! Download of member data failed. Aborting." 
+    echo "ERROR! Download of member data failed. Aborting."
     rm -f $DOWNLOAD
     exit 1
 }
 
 dos2unix -q $DOWNLOAD
 
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: AGCW"
     rm $DOWNLOAD
     exit 0
@@ -21,7 +21,7 @@ fi
 mv $DOWNLOAD $WEBFILE
 
 if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 100 ]; then
-    echo "ERROR! Download of member data failed. Aborting." 
+    echo "ERROR! Download of member data failed. Aborting."
     rm -f $WEBFILE
     exit 1
 else

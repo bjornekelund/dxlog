@@ -12,7 +12,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   unix2dos -q $DOWNLOAD
 
-  if cmp -s $XDTFILE $DOWNLOAD && [ -z "$1" ]; then 
+  if cmp -s $XDTFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: FOC XDT"
     rm -f $DOWNLOAD
   else
@@ -31,7 +31,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   unix2dos -q $DOWNLOAD
 
-  if cmp -s $DBFILE $DOWNLOAD && [ -z "$1" ]; then 
+  if cmp -s $DBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: FOC"
     rm $DOWNLOAD
     exit 0
@@ -41,7 +41,7 @@ else
   echo Downloaded $DBFILE
   gawk 'BEGIN{FS = ";";max=0;}{max=($0!~/^#/&&$2>max)?$2:max;}END{printf("Highest member number is %d\n",max);}' $DBFILE
   unix2dos -q $DBFILE
-  
+ 
   ../_helpers/copytosourcetree.sh $DBFILE
   ../_helpers/uploaddb.sh $DBFILE
 fi

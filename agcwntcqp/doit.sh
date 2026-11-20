@@ -9,7 +9,7 @@ HELPERS=../_helpers/helpers.awk
 TEMP1=.temp1
 TEMP2=.temp2
 
-if cmp -s $NAGCWFILE $AGCWFILE && cmp -s $NNTCFILE $NTCFILE && [ -z "$1" ]; then 
+if cmp -s $NAGCWFILE $AGCWFILE && cmp -s $NNTCFILE $NTCFILE && [ -z "$1" ]; then
     echo "Nothing new: AGCNTCQP"
     exit 0
 fi

@@ -11,7 +11,7 @@ if [[ -s $CMD ]]; then
     #sed -i "/# Start machine generated/,/# End machine generated/{ /START/{p; r BCC-regex.txt}; /END/p; d; }" $FILE
     sed -i '/# Start machine generated/,/# End machine generated/{ /# Start machine generated/{p; r '$REGEXFILE'
     }; /# End machine generated/p; d; }' $CONTESTFILE
-    echo Updated $TARGET/$CONTESTFILE 
+    echo Updated $TARGET/$CONTESTFILE
     cp $CONTESTFILE $TARGET
   fi
 fi

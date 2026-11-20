@@ -12,7 +12,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   unix2dos -q $DOWNLOAD
 
-  if cmp -s $DBFILE $DOWNLOAD && [ -z "$1" ]; then 
+  if cmp -s $DBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: FOC"
     rm -f $DOWNLOAD
   else
@@ -34,7 +34,7 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
 else
   unix2dos -q $DOWNLOAD
 
-  if cmp -s $XDTFILE $DOWNLOAD && [ -z "$1" ]; then 
+  if cmp -s $XDTFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: HSC XDT"
     rm -f $DOWNLOAD
     exit 0

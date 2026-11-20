@@ -2,7 +2,7 @@
 WEBFILE=agb-list.txt
 OUTFILE=AGB_db.txt
 DOWNLOAD=.downloaded
-#set -x  
+#set -x 
 
 rm -f $DOWNLOAD
 curl -fsSL --connect-timeout 5 --max-time 20 http://ev5agb.com/club/$WEBFILE -o $DOWNLOAD || {\
@@ -13,7 +13,7 @@ curl -fsSL --connect-timeout 5 --max-time 20 http://ev5agb.com/club/$WEBFILE -o 
 
 dos2unix -q $DOWNLOAD
 
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: AGB"
     rm $DOWNLOAD
     exit 0

@@ -7,7 +7,7 @@ dos2unix -q $INFILE
 gawk -f cwtxdt.awk $INFILE | sed 's/  / /g' | sort > $XDTTMP
 unix2dos -q $XDTMP $INFILE
 
-if cmp -s $XDTTMP $XDTFILE && [ -z "$1" ]; then 
+if cmp -s $XDTTMP $XDTFILE && [ -z "$1" ]; then
   echo "Nothing new: CWOps XDT"
   rm -f $XDTTMP
 else

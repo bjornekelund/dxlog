@@ -5,18 +5,18 @@ DOWNLOAD=.downloaded
 
 # rm -f $WEBFILE
 curl -fsSL --connect-timeout 5 --max-time 20 https://www.marconiclub.it/List_Members_MC.csv -o $DOWNLOAD || {\
-  echo "ERROR! Download of member data failed. Aborting." 
+  echo "ERROR! Download of member data failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 }
 
 if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
-  echo "ERROR! Download of member data failed. Aborting." 
+  echo "ERROR! Download of member data failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 else
   dos2unix -q $DOWNLOAD
-  if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+  if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: MCD"
     rm -f $DOWNLOAD
   else

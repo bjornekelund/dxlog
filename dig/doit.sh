@@ -5,14 +5,14 @@ DOWNLOAD=.downloaded
 
 #rm -f $WEBFILE
 curl -fsSL --connect-timeout 5 --max-time 20 https://diplom-interessen-gruppe.info/fileadmin/downloads/DIGLISTE.csv -o $DOWNLOAD || {\
-  echo "ERROR! Download of $WEBFILE failed. Aborting." 
+  echo "ERROR! Download of $WEBFILE failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 }
 
 dos2unix -q $DOWNLOAD
 
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
   echo "Nothing new: DIG"
   rm $DOWNLOAD
   exit 0

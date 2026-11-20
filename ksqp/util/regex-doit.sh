@@ -37,4 +37,3 @@ echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
 exit 0
-

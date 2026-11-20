@@ -6,20 +6,20 @@ DOWNLOAD=.downloaded
 rm -f $DOWNLOAD
 
 curl -fsSL --connect-timeout 5 --max-time 20 "https://rcwc.ru/?do=members&getlist=3" -o "$DOWNLOAD" || {\
-  echo "ERROR! Download of $WEBFILE failed. Aborting." 
+  echo "ERROR! Download of $WEBFILE failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 }
 
 if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
-  echo "ERROR! Download of $WEBFILE failed. Aborting." 
+  echo "ERROR! Download of $WEBFILE failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
 fi
 
 dos2unix -q $DOWNLOAD
 
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
   echo "Nothing new: RCWC"
   rm -f $DOWNLOAD
   exit 0

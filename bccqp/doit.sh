@@ -10,7 +10,7 @@ curl -sS $URL/$WEBFILE -o $DOWNLOAD
 
 dos2unix -q $DOWNLOAD
 
-if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then
     echo "Nothing new: BCC"
     rm $DOWNLOAD
     exit 0
@@ -41,7 +41,7 @@ if [[ -s $CMD ]]; then
     #sed -i "/# Start machine generated/,/# End machine generated/{ /START/{p; r BCC-regex.txt}; /END/p; d; }" $FILE
     sed -i '/# Start machine generated/,/# End machine generated/{ /# Start machine generated/{p; r '$REGEXFILE'
     }; /# End machine generated/p; d; }' $CONTESTFILE
-    echo Updated $TARGET/$CONTESTFILE 
+    echo Updated $TARGET/$CONTESTFILE
     cp $CONTESTFILE $TARGET
     if [ -s ../_helpers/uploaddb.sh ]; then
       ../_helpers/uploadcon.sh $CONTESTFILE
