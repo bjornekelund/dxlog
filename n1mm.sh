@@ -10,7 +10,7 @@ fi
 
 cd $1
 
-if [ ! -s n1mmfile.txt || ! -s dbfile.txt ]; then
+if [ ! -s n1mmfile.txt ] || [ ! -s dbfile.txt ]; then
   exit 0
   cd $DIR
 fi

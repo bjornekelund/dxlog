@@ -88,8 +88,7 @@ if [[ "$status" =~ ^2[0-9][0-9]$ || -n "$2" ]]; then
 
   rm -f $TMPFILE1 $TMPFILE2 $ETAGTMP
 
-  ../_helpe../_helpers/copytosourcetree.sh $DBFILE
-  
+  ../_helpers/copytosourcetree.sh $DBFILE
   ../_helpers/uploaddb.sh $DBFILE
 fi
 cd $DIR
