@@ -44,17 +44,11 @@ if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
     echo Created $OUTFILE
     rm -f $TMPFILE
 
-    if [ -n ../copytosourcetree.sh ]; then
+    # if [ -n ../copytosourcetree.sh ]; then
       ../copytosourcetree.sh $OUTFILE
-    fi
+    # fi
 
     echo -----
-
-    # DELETE=$(find . -maxdepth 1 -type f -name "${DLNAME}*" ! -name "$SCHFILE" ! -name "$OUTFILE" ! -name "$INFILE")
-    # if [ -n "$DELETE" ]; then
-    #   echo Deleting $DELETE
-    #   rm -f $DELETE
-    # fi
   fi
 fi
 
