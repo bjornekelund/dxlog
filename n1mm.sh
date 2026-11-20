@@ -36,7 +36,7 @@ if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
     rm -f $TMPFILE
 
     ../_helpers/copytosourcetree.sh $OUTFILE
-
+    ../_helpers/uploaddb.sh $OUTFILE
     echo -----
   fi
 fi
