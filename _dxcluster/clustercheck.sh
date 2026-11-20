@@ -46,4 +46,4 @@ while IFS= read -r line || [ -n "$line" ]; do
     fi
 done < "$TEMPFILE"
 
-exit
+exit 0

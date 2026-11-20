@@ -21,7 +21,7 @@ echo $OUTFILE4 "created with"$(cat $OUTFILE4 | wc -l) "calls"
 unix2dos -q $FILE6 $OUTFILE4
 
 cd ..
-../copytosourcetree.sh vhf_uhf_r1_db.txt
-../copytosourcetree.sh vhf_uhf_r1_4_db.txt
+../_helpers/copytosourcetree.sh vhf_uhf_r1_db.txt
+../_helpers/copytosourcetree.sh vhf_uhf_r1_4_db.txt
 
-exit
+exit 0

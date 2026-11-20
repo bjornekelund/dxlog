@@ -26,17 +26,15 @@ if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
     echo "ERROR! Download of member data failed. Aborting."
     rm -f $WEBFILE
     exit 1
-else
-    echo Downloaded $WEBFILE, parsing...
-    dos2unix -q $WEBFILE
-    gawk -f $HELPERS -f epc.awk $WEBFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
-    echo Created $OUTFILE
-    unix2dos -q $OUTFILE
-    if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $OUTFILE
-    fi
 fi
 
+echo Downloaded $WEBFILE, parsing...
+dos2unix -q $WEBFILE
+gawk -f $HELPERS -f epc.awk $WEBFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+../_helpers/copytosourcetree.sh $OUTFILE
 ../_helpers/uploaddb.sh $OUTFILE
 
 exit 0

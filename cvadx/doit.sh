@@ -10,6 +10,7 @@ cat $INFILE | sed 's/ //g' | gawk -f cvadx.awk | sort | sed 's/^#0. /# /g' > $OU
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

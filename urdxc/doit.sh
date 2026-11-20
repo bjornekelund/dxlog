@@ -10,6 +10,7 @@ gawk -f urdxc.awk $INFILE > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

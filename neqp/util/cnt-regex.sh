@@ -21,4 +21,4 @@ END {
 echo Created $OUTFILE2
 unix2dos -q $OUTFILE2
 
-exit
+exit 0

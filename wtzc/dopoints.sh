@@ -6,6 +6,6 @@ gawk -f points.awk > $OUTFILE < /dev/null
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
 
-exit
+exit 0

@@ -9,4 +9,4 @@ cat $INFILE | tr -d ' \t' | gawk -f scrub.awk
 unix2dos -q $INFILE
 
 
-exit
+exit 0

@@ -88,4 +88,4 @@ BEGIN {
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-exit
+exit 0

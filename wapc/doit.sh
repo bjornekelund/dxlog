@@ -28,19 +28,21 @@ if [ ! -f $WEBFILE ] || [ $(stat -c%s $WEBFILE 2>/dev/null) -lt 1000 ]; then
   echo "ERROR! Download of call history data failed. Aborting."
   rm -f $DOWNLOAD
   exit 1
-else
-  echo Downloaded $WEBFILE, parsing...
-  dos2unix -q $WEBFILE
-  gawk -f filter.awk -f $HELPERS $WEBFILE > $TEMPFILE
-  echo "#01 Based on data from http://www.mulandxc.com/index/down_list" >> $TEMPFILE;
-  echo "#04 Contains only exceptions to rule-based prefill" >> $TEMPFILE;
-  echo "#09 Last updated$(date +%F)" >> $TEMPFILE
-  sort $TEMPFILE | sed 's/^#0. /# /g' > $OUTFILE
-  echo Created $OUTFILE
-  unix2dos -q $OUTFILE
-  if [ -s ../copytosourcetree.sh ]; then
-    ../copytosourcetree.sh $OUTFILE
-  fi
-  # rm -f $TEMPFILE $DOWNLOAD
 fi
+
+echo Downloaded $WEBFILE, parsing...
+dos2unix -q $WEBFILE
+gawk -f filter.awk -f $HELPERS $WEBFILE > $TEMPFILE
+echo "#01 Based on data from http://www.mulandxc.com/index/down_list" >> $TEMPFILE;
+echo "#04 Contains only exceptions to rule-based prefill" >> $TEMPFILE;
+echo "#09 Last updated$(date +%F)" >> $TEMPFILE
+sort $TEMPFILE | sed 's/^#0. /# /g' > $OUTFILE
+echo Created $OUTFILE
+unix2dos -q $OUTFILE
+
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
+
+rm -f $TEMPFILE $DOWNLOAD
+
 exit 0

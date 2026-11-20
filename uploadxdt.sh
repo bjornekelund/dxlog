@@ -3,4 +3,4 @@
 cd _xdt
 ./uploadall.sh
 
-exit
+exit 0

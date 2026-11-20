@@ -43,4 +43,4 @@ echo Created $BASHFILE
 echo Creating $CLEANFILE by updating $RDAFILE
 ./$BASHFILE < $RDAFILE > $CLEANFILE
 
-exit
+exit 0

@@ -12,4 +12,4 @@ BEGIN {
 END {
   printf(")$\n");
 }' $1 | sed 's/|)/)/g'
-exit
+exit 0

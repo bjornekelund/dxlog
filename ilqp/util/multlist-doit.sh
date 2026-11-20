@@ -24,7 +24,7 @@ BEGIN {
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
-exit
+exit 0
 
 
 #!/bin/bash
@@ -53,5 +53,5 @@ BEGIN {
 
 echo $OUTFILE created
 unix2dos -q $OUTFILE
-exit
+exit 0
 

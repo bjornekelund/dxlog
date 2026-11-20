@@ -31,12 +31,7 @@ else
     gawk -f agb.awk $WEBFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
     echo Created $OUTFILE
     unix2dos -q $OUTFILE
-    if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $OUTFILE
-    fi
-fi
-
-if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/copytosourcetree.sh $OUTFILE
     ../_helpers/uploaddb.sh $OUTFILE
 fi
 

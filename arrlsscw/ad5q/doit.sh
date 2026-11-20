@@ -16,7 +16,9 @@ gawk '{gsub(/  +/," "); sub(/^ /,""); sub(/ $/,"")}1' $FILESSB | gawk -f arrlss.
 unix2dos -q $OUTFILESSB
 echo Created $OUTFILESSB
 
-../../copytosourcetree.sh $OUTFILECW
-../../copytosourcetree.sh $OUTFILESSB
+../_helpers/copytosourcetree.sh $OUTFILECW
+../_helpers/copytosourcetree.sh $OUTFILESSB
+../_helpers/uploaddb.sh $OUTFILECW
+../_helpers/uploaddb.sh $OUTFILESSB
 
-exit
+exit 0

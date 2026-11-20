@@ -13,7 +13,6 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 1000 ]; then
   rm -f $DOWNLOAD
   exit 1
 else
-
   dos2unix -q $DOWNLOAD
   if cmp -s $WEBFILE $DOWNLOAD && [ -z $1 ]; then 
       echo "Nothing new: FISTS"
@@ -34,12 +33,8 @@ else
   unix2dos -q $OUTFILE
   echo Created $OUTFILE
 
-  if [ -s ../copytosourcetree.sh ]; then
-    ../copytosourcetree.sh $OUTFILE
-  fi
-
-  if [ -s ../_helpers/uploaddb.sh ]; then
-    ../_helpers/uploaddb.sh $OUTFILE
-  fi
+  ../_helpers/copytosourcetree.sh $OUTFILE
+  ../_helpers/uploaddb.sh $OUTFILE
 fi
-exit
+
+exit 0

@@ -1,6 +1,6 @@
 # U-QRQ-C Members database
 # Scraped from https://u-qrq-c.ru/members-rus and https://qrz.com
-# Last updated 2024-01-13
+# Last updated 2026-11-20
 UA9BA=4;Vlad
 UR7FM=5;Genn
 RL2D=7;Vlad
@@ -127,3 +127,4 @@ RD1A=186;Oleg
 UB6N=187;Alex
 IN3EBZ=189;Gerd
 UA3AGW=190;Dmitry
+EA6ABF=191;Josep

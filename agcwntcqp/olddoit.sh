@@ -11,7 +11,7 @@ gawk -f agcwntcqp.awk -f ../_helpers/helpers.awk $QPFILE | sort | sed 's/^#0. /#
 
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
 
 rm -f $TEMP1 $TEMP2 $TEMP3
-exit
+exit 0

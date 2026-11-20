@@ -20,7 +20,7 @@ else
     echo Downloaded $DBFILE
     gawk 'BEGIN{FS = "=";max=0;}{max=($0!~/^#/&&$2>max)?$2:max;}END{printf("Highest member number is %d\n",max);}' $DBFILE
     unix2dos -q $DBFILE
-    ../copytosourcetree.sh $DBFILE
+    ../_helpers/copytosourcetree.sh $DBFILE
     ../_helpers/uploaddb.sh $DBFILE
   fi
 fi
@@ -45,4 +45,4 @@ else
   fi
 fi
 
-exit
+exit 0

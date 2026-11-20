@@ -9,4 +9,4 @@ cat $INFILE | { echo "!!Order!!,Call,Name,Exch1"; cat; } | gawk -f ../_helpers/h
 echo Created $CABFILE
 unix2dos -q $CABFILE
 
-exit
+exit 0

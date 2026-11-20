@@ -11,7 +11,8 @@ gawk -f txt.awk $INFILE | sort | sed 's/^\#0. /\# /g' > $DBFILE
 unix2dos -q $DBFILE
 echo Created $DBFILE
 
-../copytosourcetree.sh $DBFILE
+../_helpers/copytosourcetree.sh $DBFILE
+../_helpers/uploaddb.sh $DBFILE
 
 gawk -f xdt.awk $INFILE | sed 's/  / /g' | sort > $XDTFILE
 
@@ -20,4 +21,4 @@ echo Created $XDTFILE
 
 ../_xdt/upload.sh $XDTFILE
 
-exit
+exit 0

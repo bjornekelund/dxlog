@@ -25,4 +25,4 @@ BEGIN {
 echo Created RDAC_huge_csv.txt
 unix2dos -q RDAC_huge_csv.txt
 
-exit
+exit 0

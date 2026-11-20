@@ -10,4 +10,4 @@ gawk -f jarlwwr-inc.awk $FILE > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-exit
+exit 0

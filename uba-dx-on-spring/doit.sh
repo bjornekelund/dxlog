@@ -10,6 +10,7 @@ sed 's/,/=/g' $INFILE1 $INFILE2 | gawk -f uba-dx-on-spring.awk | sort | sed 's/^
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

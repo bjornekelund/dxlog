@@ -15,4 +15,4 @@ BEGIN {
 
 unix2dos -q points.txt
 
-exit
+exit 0

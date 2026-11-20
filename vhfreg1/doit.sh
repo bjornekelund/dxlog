@@ -27,7 +27,9 @@ echo $OUTFILE4 created with$(cat $OUTFILE4 | wc -l) calls
 
 unix2dos -q $OUTFILE $OUTFILE4
 
-../copytosourcetree.sh $OUTFILE
-../copytosourcetree.sh $OUTFILE4
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE4
+../_helpers/uploaddb.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE4
 
-exit
+exit 0

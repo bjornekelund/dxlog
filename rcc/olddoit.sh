@@ -9,4 +9,4 @@ gawk -f oldrcc.awk $1 > $OUTFILE
 unix2dos $OUTFILE
 echo Created $OUTFILE
 
-exit
+exit 0

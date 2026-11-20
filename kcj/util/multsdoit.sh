@@ -33,4 +33,4 @@ END {
 echo Created $FILE
 unix2dos -q $FILE
 
-exit
+exit 0

@@ -7,4 +7,4 @@ echo Scrubbing $INFILE
 
 gawk -f scrub.awk $INFILE
 
-exit
+exit 0

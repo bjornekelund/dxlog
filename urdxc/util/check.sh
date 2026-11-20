@@ -10,4 +10,4 @@ gawk -f check.awk $INFILE > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-exit
+exit 0

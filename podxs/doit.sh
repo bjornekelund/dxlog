@@ -14,25 +14,21 @@ if [ ! -f $DOWNLOAD ] || [ $(stat -c%s $DOWNLOAD 2>/dev/null) -lt 200 ]; then
   echo "ERROR! Download of $WEBFILE failed. Aborting." 
   rm -f $DOWNLOAD
   exit 1
-else
-  dos2unix -q $DOWNLOAD
-  if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
-    echo "Nothing new: PODXS"
-    rm -f $DOWNLOAD
-    exit 0
-  fi
-  mv $DOWNLOAD $WEBFILE
-  echo Downloaded $WEBFILE
-  dos2unix -q $WEBFILE
-  sed 's/\"//g' $WEBFILE | gawk -f podxs.awk | sort | sed 's/#.. /# /g' > $OUTFILE
-  unix2dos -q $OUTFILE
-  echo Created $OUTFILE
-  if [ -s ../copytosourcetree.sh ]; then
-      ../copytosourcetree.sh $OUTFILE
-  fi
-  if [ -s ../_helpers/uploaddb.sh ]; then
-    ../_helpers/uploaddb.sh $OUTFILE
-  fi
+
+dos2unix -q $DOWNLOAD
+if cmp -s $WEBFILE $DOWNLOAD && [ -z "$1" ]; then 
+  echo "Nothing new: PODXS"
+  rm -f $DOWNLOAD
+  exit 0
 fi
 
-exit
+mv $DOWNLOAD $WEBFILE
+echo Downloaded $WEBFILE
+dos2unix -q $WEBFILE
+sed 's/\"//g' $WEBFILE | gawk -f podxs.awk | sort | sed 's/#.. /# /g' > $OUTFILE
+unix2dos -q $OUTFILE
+echo Created $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
+
+exit 0

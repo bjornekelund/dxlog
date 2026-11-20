@@ -30,12 +30,9 @@ cat $TEMP1 $TEMP2 | gawk -f $HELPERS -f newagcwntcqp.awk | sort | sed 's/^#0. /#
 
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
 rm -f $TEMP1 $TEMP2
 
-if [ -s ../_helpers/uploaddb.sh ]; then
-    ../_helpers/uploaddb.sh $OUTFILE
-fi
-
-exit
+exit 0

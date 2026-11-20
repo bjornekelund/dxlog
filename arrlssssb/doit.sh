@@ -8,6 +8,8 @@ gawk -f arrlssssb.awk $INFILESSB | sort | sed 's/^#0. /# /g' > $OUTFILESSB
 
 echo Created $OUTFILESSB
 unix2dos -q $OUTFILESSB
-../copytosourcetree.sh $OUTFILESSB
 
-exit
+../_helpers/copytosourcetree.sh $OUTFILESSB
+../_helpers/uploaddb.sh $OUTFILESSB
+
+exit 0

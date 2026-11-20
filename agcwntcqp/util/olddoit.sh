@@ -10,6 +10,6 @@ cat $INFILE | sed 's/ü/u/g' |  sed 's/é/e/g' | gawk -f oldagcwntcqp.awk | sort
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
 
-exit
+exit 0

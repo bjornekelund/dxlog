@@ -43,4 +43,4 @@ END {
 unix2dos -q $OUTFILE $INFILE1 $INFILE2
 echo Created $OUTFILE
 
-exit
+exit 0

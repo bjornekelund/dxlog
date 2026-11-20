@@ -9,4 +9,4 @@ gawk -f n1mm.awk $INFILE > $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
-exit
+exit 0

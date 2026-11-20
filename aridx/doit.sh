@@ -11,5 +11,7 @@ gawk -f $HELPERS -f aridx.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
-exit
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
+
+exit 0

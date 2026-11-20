@@ -10,6 +10,6 @@ gawk -f urcdxrtty.awk $INFILE | sort | sed 's/^#0./#/g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
 
-exit
+exit 0

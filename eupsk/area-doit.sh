@@ -27,4 +27,4 @@ END {
 
 unix2dos -q a-result.txt
 
-exit
+exit 0

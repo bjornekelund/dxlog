@@ -10,4 +10,4 @@ echo Scrubbing $FILE2
 ./check.sh $FILE2
 echo Done
 
-exit
+exit 0

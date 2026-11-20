@@ -1,7 +1,8 @@
 #!/bin/bash
-#set -x
 export LANG=C.UTF8
 DIR=$(pwd)
+HELPERS=../_helpers/helpers.awk
+TMPFILE=.rawfile
 
 if [ ! -d $1 ]; then
   exit 1
@@ -9,30 +10,20 @@ fi
 
 cd $1
 
-if [ ! -s n1mmfile.txt ]; then
+if [ ! -s n1mmfile.txt || ! -s dbfile.txt ]; then
   exit 0
   cd $DIR
 fi
 
 DLNAME=$(cat n1mmfile.txt)
 OUTFILE=$(cat dbfile.txt)
-HELPERS=../_helpers/helpers.awk
-TMPFILE=.rawfile
-
-if [ -s "schfile.txt" ]; then
-  SCHFILE=$(cat schfile.txt)
-else
-  SCHFILE=$DLNAME
-fi
 
 if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
-  # INFILE=$(ls $DLNAME* | tail -1 2> /dev/null$(
   if [ -s n1mmlatest.txt ]; then
     INFILE=$(cat n1mmlatest.txt)
     echo Parsing $(basename $INFILE)
     dos2unix -q $INFILE
 
-    # cat $INFILE | sed 's/ //g' | gawk -f $HELPERS -f filter.awk > $TMPFILE
     cat $INFILE | gawk -f $HELPERS -f filter.awk > $TMPFILE
 
     echo "#02 Based on data collected by Claude VE2FK" >> $TMPFILE
@@ -44,13 +35,11 @@ if ../_helpers/download.sh $DLNAME || [ -n "$2" ]; then
     echo Created $OUTFILE
     rm -f $TMPFILE
 
-    # if [ -n ../copytosourcetree.sh ]; then
-      ../copytosourcetree.sh $OUTFILE
-    # fi
+    ../_helpers/copytosourcetree.sh $OUTFILE
 
     echo -----
   fi
 fi
 
 cd $DIR
-exit
+exit 0

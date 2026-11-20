@@ -12,6 +12,7 @@ echo Created $OUTFILE
 
 rm -rf $OLDTEMP
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

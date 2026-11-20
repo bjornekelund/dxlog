@@ -12,6 +12,7 @@ cat $INFILE2 $INFILE1 | gawk -f yu.awk | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE1 $INFILE2
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

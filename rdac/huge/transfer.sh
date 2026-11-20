@@ -284,4 +284,4 @@ sed\
  -e s/ZK-06/ZK-12/g\
  -e s/ZK-07/ZK-18/g\
  -e s/ZK-40/ZK-37/g
-exit
+exit 0

@@ -13,4 +13,4 @@ cat $FILE | gawk -f dedupe.awk | sort | sed 's/^\#. /\# /g' >> $OUTFILE
 unix2dos -q $OUTFILE
 echo Created $OUTFILE
 
-exit
+exit 0

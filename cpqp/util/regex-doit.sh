@@ -6,5 +6,5 @@
 ./makeregex.sh COUNTIES.txt > counties-regex.txt
 unix2dos -q *regex.txt
 
-exit
+exit 0
 

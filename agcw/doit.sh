@@ -30,13 +30,8 @@ else
     cat $WEBFILE | sed 's/Ø/0/g' | sed 's/ //g' | gawk -f agcw.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
     echo Created $OUTFILE
     unix2dos -q $OUTFILE
-    if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $OUTFILE
-    fi
-fi
-
-if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/copytosourcetree.sh $OUTFILE
     ../_helpers/uploaddb.sh $OUTFILE
 fi
 
-exit
+exit 0

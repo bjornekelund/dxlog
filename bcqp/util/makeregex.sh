@@ -14,4 +14,4 @@ END {
   printf(")$\n");
 }' $FILE | sed 's/|)/)/g' > electoral-regex.txt
 
-exit
+exit 0

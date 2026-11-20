@@ -25,4 +25,4 @@ BEGIN {
 }
 END {}' | sort | sed 's/^\#. /\# /g' > tmp2.txt
 
-exit
+exit 0

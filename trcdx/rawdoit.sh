@@ -22,4 +22,4 @@ gawk -f trc.awk $TMPFILE | sort | sed 's/^\#. /\# /g' > $DBFILE
 echo Created $DBFILE
 unix2dos -q $DBFILE
 
-exit
+exit 0

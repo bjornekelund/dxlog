@@ -24,4 +24,4 @@ BEGIN {
   lines[$1] = $0;
 }' $FILE
 
-exit
+exit 0

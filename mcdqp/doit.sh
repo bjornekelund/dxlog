@@ -28,13 +28,9 @@ else
         gawk -f mcdqp.awk | sort | sed 's/^#0. /# /g' > $OUTFILE
     echo Created $OUTFILE
     unix2dos -q $OUTFILE
-    if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $OUTFILE
-    fi
-    if [ -s ../_helpers/uploaddb.sh ]; then
-      ../_helpers/uploaddb.sh $OUTFILE
-    fi
+    ../_helpers/copytosourcetree.sh $OUTFILE
+    ../_helpers/uploaddb.sh $OUTFILE
   fi
 fi
 
-exit
+exit 0

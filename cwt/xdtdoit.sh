@@ -16,4 +16,4 @@ else
   ../_xdt/upload.sh $XDTFILE
 fi
 
-exit
+exit 0

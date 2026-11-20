@@ -27,7 +27,7 @@ BEGIN { FS=","; }
   }
 }' >> $N1MMFILE
 
-exit
+exit 0
 
 echo Parsing $NTCFILE
 dos2unix -q $NTCFILE
@@ -46,6 +46,6 @@ cat $TEMP1 $TEMP2 $TEMP3 | gawk -f newagcwntcqp.awk | sort | sed 's/^#0. /# /g' 
 unix2dos -q $OUTFILE
 echo Done
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
 
-exit
+exit 0

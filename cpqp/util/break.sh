@@ -42,4 +42,4 @@ echo Created $CTFILE
 
 unix2dos -q "$INFILE" $ABFILE $MBFILE $SKFILE $CTFILE
 
-exit
+exit 0

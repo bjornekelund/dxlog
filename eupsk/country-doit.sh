@@ -19,4 +19,4 @@ unix2dos -q c-result.txt
 
 rm -rf .ctytemp 
 
-exit
+exit 0

@@ -30,4 +30,4 @@ END {
 
 unix2dos R4C-CUP_db.txt
 
-exit
+exit 0

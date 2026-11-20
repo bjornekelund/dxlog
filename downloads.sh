@@ -11,4 +11,4 @@ for contest in $DOWNLOADS; do
   cd ..
 done
 
-exit
+exit 0

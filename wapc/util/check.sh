@@ -8,4 +8,4 @@ gawk -f check.awk $INFILE
 
 echo Done.
 
-exit
+exit 0

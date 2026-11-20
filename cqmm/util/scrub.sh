@@ -8,4 +8,4 @@ dos2unix -q $FILE1 $FILE2
 
 gawk -b -f scrub.awk $FILE1 $FILE2
 
-exit
+exit 0

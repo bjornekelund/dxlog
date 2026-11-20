@@ -10,6 +10,7 @@ gawk -f hacwg.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

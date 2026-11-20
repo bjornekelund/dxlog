@@ -39,12 +39,12 @@ BEGIN {
 }' $FOLDER/$OUTFILE > $OUTFILE
 
 cp $FOLDER/$XDTFILE $XDTFILE
-
 unix2dos -q $OUTFILE 
-../_xdt/upload.sh $XDTFILE
 
 echo Created $OUTFILE $XDTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_xdt/upload.sh $XDTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0 

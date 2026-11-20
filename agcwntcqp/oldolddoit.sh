@@ -32,7 +32,7 @@ cat $TEMP1 $TEMP2 $TEMP3 | gawk -f agcwntcqp.awk | sort | sed 's/^#0. /# /g' > $
 
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
 
 rm -f $TEMP1 $TEMP2 $TEMP3
-exit
+exit 0

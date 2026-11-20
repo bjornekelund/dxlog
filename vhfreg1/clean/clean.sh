@@ -117,4 +117,4 @@ unix2dos -q $OUTFILE $OUTFILE4
 
 echo Created $OUTFILE4 with$(cat $OUTFILE4 | wc -l) calls
 
-exit
+exit 0

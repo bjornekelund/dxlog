@@ -36,4 +36,4 @@ END {
 echo $OUTFILE created
 unix2dos -q $OUTFILE
 
-exit
+exit 0

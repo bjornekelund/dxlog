@@ -11,6 +11,7 @@ cat $INFILESSB | sort | gawk -f arrldx.awk | sort | sed 's/^\#0. /\# /g' > $OUTF
 unix2dos -q $OUTFILESSB $INFILESSB
 echo Created $OUTFILESSB
 
-../copytosourcetree.sh $OUTFILESSB
+../_helpers/copytosourcetree.sh $OUTFILESSB
+../_helpers/uploaddb.sh $OUTFILESSB
 
-exit
+exit 0

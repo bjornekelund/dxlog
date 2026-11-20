@@ -9,4 +9,4 @@ cat $INFILE | sort | sed 's/ - /\=/g' > $OUTFILE
 unix2dos $OUTFILE
 echo Created $OUTFILE
 
-exit
+exit 0

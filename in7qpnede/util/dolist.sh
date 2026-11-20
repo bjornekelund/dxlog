@@ -11,4 +11,4 @@ cat list-7qp.txt list-in.txt list-newe.txt list-de.txt | sed 's/KDE=/DEK=/g' | s
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-exit
+exit 0

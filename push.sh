@@ -2,4 +2,4 @@
 git add .
 git commit -a -m "Update"
 git push
-exit
+exit 0

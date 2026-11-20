@@ -67,5 +67,5 @@ fi
 
 ../_helpers/uploadcon.sh $CONTESTFILE
 
-exit
+exit 0
 

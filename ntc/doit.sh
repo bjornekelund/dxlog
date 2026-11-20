@@ -10,8 +10,7 @@ tr -d ' ' < $INFILE | gawk -f ntc.awk | sort | sed 's/^\#0. /\# /g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-# cd ../agcwntcqp; ./doit.sh
-
-exit
+exit 0

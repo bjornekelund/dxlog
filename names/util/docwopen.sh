@@ -11,4 +11,4 @@ gawk -f docwopen.awk $INFILE1 $INFILE2 | sort > $OUTFILE
 unix2dos -q $OUTFILE $INFILE1 $INFILE2
 echo Created $OUTFILE
 
-exit
+exit 0

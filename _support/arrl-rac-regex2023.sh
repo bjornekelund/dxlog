@@ -25,5 +25,5 @@ END {
 unix2dos -q $DEST
 echo Created $DEST
 
-exit
+exit 0
 

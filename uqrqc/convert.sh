@@ -68,7 +68,7 @@ END {
   }
 }' $TMPFILE | sort -n -t '=' -k2 |  sed 's/^#0. /# /g' > $OUTFILE
 
-exit
+exit 0
 
 cat $FILE | sed 's/Ø/0/g' | gawk '
 BEGIN {
@@ -86,4 +86,4 @@ END {
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-exit
+exit 0

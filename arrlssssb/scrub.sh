@@ -6,4 +6,4 @@ dos2unix -q $FILE
 
 gawk -f scrub.awk $FILE
 
-exit
+exit 0

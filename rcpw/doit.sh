@@ -10,6 +10,7 @@ gawk -f rcpw.awk $INFILE | sort | sed 's/#. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-exit
+exit 0

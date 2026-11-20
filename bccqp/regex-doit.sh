@@ -20,5 +20,5 @@ else
   unix2dos -q $OUTFILE
 fi
 
-exit
+exit 0
 

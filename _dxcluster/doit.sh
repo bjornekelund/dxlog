@@ -4,4 +4,4 @@
 ./responses.sh
 ./extract.sh
 
-exit
+exit 0

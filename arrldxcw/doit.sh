@@ -10,6 +10,7 @@ cat $INFILECW | sort | gawk -f arrldx.awk | sort | sed 's/^\#0. /\# /g' > $OUTFI
 unix2dos -q $OUTFILECW $INFILECW
 echo Created $OUTFILECW
 
-../copytosourcetree.sh $OUTFILECW
+../_helpers/copytosourcetree.sh $OUTFILECW
+../_helpers/uploaddb.sh $OUTFILECW
 
-exit
+exit 0

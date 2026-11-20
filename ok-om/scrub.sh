@@ -8,4 +8,4 @@ gawk -f scrub.awk $INFILE
 
 echo Done.
 
-exit
+exit 0

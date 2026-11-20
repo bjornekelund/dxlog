@@ -16,4 +16,4 @@ END {
   printf(")$");
 }' $INFILE | sed 's/|)/)/g' > $OUTFILE
 
-exit
+exit 0

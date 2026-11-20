@@ -11,7 +11,8 @@ sed 's/ //g' $INFILE | gawk -f $HELPERS -f naqprtty.awk | sort | sed 's/^#0. /# 
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
 for contest in "mdqp mtqp"; do
   echo ---------------
@@ -20,4 +21,4 @@ for contest in "mdqp mtqp"; do
   ./1doit.sh
 done
 
-exit
+exit 0

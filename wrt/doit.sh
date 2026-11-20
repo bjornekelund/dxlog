@@ -10,8 +10,7 @@ gawk -f wrt.awk $INFILE | sort | sed 's/^#0. /# /g' > $OUTFILE
 unix2dos -q $OUTFILE $INFILE
 echo Created $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
 
-cd ../arrlrr; ./doit.sh
-
-exit
+exit 0

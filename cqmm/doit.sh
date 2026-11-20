@@ -43,12 +43,7 @@ else
     unix2dos -q $OUTFILE
     echo $OUTFILE created
 
-    if [ -s ../copytosourcetree.sh ]; then
-        ../copytosourcetree.sh $OUTFILE
-    fi
-
-    if [ -s ../_helpers/uploaddb.sh ]; then
+    ../_helpers/copytosourcetree.sh $OUTFILE
     ../_helpers/uploaddb.sh $OUTFILE
-    fi
 fi
-exit
+exit 0

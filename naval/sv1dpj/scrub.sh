@@ -15,4 +15,4 @@ BEGIN { FS = ","; }
   }
 }' | sort | sed 's/^\#. /\# /g'
 
-exit
+exit 0

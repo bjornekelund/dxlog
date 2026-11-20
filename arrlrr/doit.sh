@@ -31,5 +31,7 @@ gawk -f arrlrr.awk .temp | sort | sed 's/^#0. /# /g' > $OUTFILE
 echo Created $OUTFILE
 unix2dos -q $OUTFILE
 
-../copytosourcetree.sh $OUTFILE
-exit
+../_helpers/copytosourcetree.sh $OUTFILE
+../_helpers/uploaddb.sh $OUTFILE
+
+exit 0
